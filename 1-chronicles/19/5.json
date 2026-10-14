@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 19:5",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तहाँ कोनो लोग",
+      "rationale": "Hebrew verb וילכו has no explicit subject; supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכלמים",
+      "rationale": "'greatly ashamed\/humiliated' vs KJV 'how the men were served' — passive insult sense"
+    }
+  ],
+  "translation": "तहाँ कोनो लोग गेलन आउ ओहि आदमी सब के बारे में दाविद के बतालन; त ऊ ⟨את⟩ ओकनी के बिछवावे बर भेजलन, काहे कि ओ आदमी सब बड़ी लजाइल रहलन। आउ राजा कहलन — “यरीखो (यरीहो) में रहऽ, जब ले तोहनी के दाढ़ी फेर नञ उगऽ हइ, तब ले; तब फेर लौट आवऽ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f4cb67fd85b37ba5e111b527b31a655a4c2e9ba872c8605606bd8491895fcedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/19\/5-8.1792010367558.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "बतालन"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बारे में"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ओ आदमी सब"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "ओकनी के बिछवावे बर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ओ आदमी सब"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "लजाइल"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बड़ी"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "रहऽ"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "यरीखो में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "उगतइ"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "तोहनी के दाढ़ी"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "लौट आवऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:39:27.558895532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 23:25",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "पत्थल",
+      "rationale": "הסלע = सुरक्षित जगह के रूप में बड़ चट्टान; किछु अनुवादक 'किले जइसन चट्टान' बूझथिन"
+    }
+  ],
+  "translation": "शाउल आउ ओकर मरद खोजे बर गेलन; दाविद के बतावल गेलन, आउ ऊ पत्थल पर उतरलन आउ माओन के जंगल में रहलन। शाउल सुनलन आउ दाविद के पाछे माओन के जंगल में दौड़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "11b8e561d1a53e79f8fc439cbd8755035ae39d76e8ea6fb557ef844475f6d8a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/23\/25-28.1791995541392.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "आउ ओकर मरद"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "खोजे बर"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "बतावल गेलन"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "उतरलन"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "पत्थल पर"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "माओन के"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "दौड़लन"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "माओन के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:21.392925892Z",
+  "model": "glm-5.3"
+}

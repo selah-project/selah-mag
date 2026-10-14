@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "उगार देतइ",
+      "rationale": "उल्टी कइल के साक्षात चित्र — निमंत्रन फेर मुँह से निकर जातइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מीठा बात",
+      "rationale": "הנעימिझ 'सुखद\/भला-बुरा लागैत' बात — 'मीठा' साक्षात चित्र रखऽ हकइ।"
+    }
+  ],
+  "translation": "जे टुकरा तूँ खइलक, ऊ उगार देतइ, आउ तोहर मीठा बात बरबाद हो जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/23\/5-8.1792006928890.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "जे टुकरा"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "तूँ खइलक"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "उगार देतइ"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "बरबाद हो जातइ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "तोहर…बात"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "मीठा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:42:08.891289157Z",
+  "model": "glm-5.3"
+}

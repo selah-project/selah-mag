@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 26:19",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אורת",
+      "rationale": "'ओस-इँजोर' (LXX, रात दने के ओस जे जीवन देवऽ हइ) बनाम 'साग-पात के ओस' (KJV, Targum) — दुनो पढ़ावा पुरान हकइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אורת",
+      "rationale": "אוֹרֹת तनाख़ में खाली इहेइ जगह आवऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "וארץ רפאים תפיל",
+      "rationale": "'धरती रेफाइम के गिरातइ' — मुर्दा के धरती से बाहर गिरावे के अरथ (तनाख़ के पहिला मुर्दा जियावे के साफ संकेत) या YLT के 'रेफाइम के देस गिरातइ'।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נבלתי",
+      "gloss": "",
+      "rationale": "शाब्दिक 'तोहर लाश\/मेल' — बेइज्जती भरल सब्द, कोमल 'शरीर' नञ।"
+    }
+  ],
+  "translation": "तोहर मरल मनुस जीतन, तोहर मेल उठतन — धूरी के रहइआ जागऽ हइ आउ खुसी से गावऽ हइ — काहे कि तोहर ओस इँजोर के ओस हकइ, आउ धरती रेफाइम के गिरातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "606c279460d2fc9aba5e4280947b919581a273c7ad90da5c5454085569511dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/26\/17-20.1791999062561.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחיו",
+      "gloss": "जीतन"
+    },
+    {
+      "surface": "מתיך",
+      "gloss": "तोहर मरल मनुस"
+    },
+    {
+      "surface": "נבלתי",
+      "gloss": "तोहर मेल"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "उठतन"
+    },
+    {
+      "surface": "הקיצו",
+      "gloss": "जागऽ हइ"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "आउ खुसी से गावऽ हइ"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "रहइआ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूरी के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ओस"
+    },
+    {
+      "surface": "אורת",
+      "gloss": "इँजोर के"
+    },
+    {
+      "surface": "טלך",
+      "gloss": "तोहर ओस"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "आउ धरती"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "रेफाइम"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "गिरातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:31:02.562529881Z",
+  "model": "glm-5.3"
+}

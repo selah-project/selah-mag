@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יברך",
+      "rationale": "'असीस नञ देतइ' — कुछ अनुवादक मानऽ हथिन कि इहाँ 'बरकत' श्राप के सुन्दर-विलोम हकइ (या विलोम-बोली), साक्षात बात ओहे हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ए",
+      "rationale": "इब्रानी में 'ए ⟨दोर⟩-पीढ़ी हकइ' क्रिया नञ हइ; 'ए' जोड़ल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקלל \/ יברך",
+      "rationale": "श्राप-असीस के विरोध-जोड़ी ओहे पद-जोड़ी में ठाढ़ हकइ — मगही में ओहे तनाव बचल।"
+    }
+  ],
+  "translation": "ए ⟨दोर⟩-पीढ़ी बाप के सराप देतइ, आउ ⟨את⟩ माय के असीस नञ देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/30\/9-12.1792007044658.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "दोर-पीढ़ी"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "बाप"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "सराप देतइ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "माय के"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "माय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "असीस देतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:44:04.659380096Z",
+  "model": "glm-5.3"
+}

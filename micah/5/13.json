@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 5:13",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עריך",
+      "rationale": "KJV 'thine enemies' (reading עריך as 'thy adversaries') vs JPS\/ASV 'thy cities' — Hebrew consonants admit both."
+    },
+    {
+      "kind": "substitution",
+      "subject": "अशेरिम",
+      "rationale": "אֲשֵׁרִים the sacred poles\/goddess-images, kept as a name rather than rendered 'ग्रोव' or 'मूरति'."
+    }
+  ],
+  "translation": "आउ हम तोहर अशेरिम के तोहर बीच से एकर-एक्कर उखाड़ देबइ, आउ तोहर नगर सब के मिटा देबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "83ab424e319d17e8643e8c46cfbd2e8eb7f4edfcb7702906a5b55b6a7cd9f410",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/5\/13-14.1792003646599.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתשתי",
+      "gloss": "आउ हम ... उखाड़ देबइ"
+    },
+    {
+      "surface": "אשיריך",
+      "gloss": "तोहर अशेरिम के"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "तोहर बीच से"
+    },
+    {
+      "surface": "והשמדתי",
+      "gloss": "आउ हम ... मिटा देबइ"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "तोहर नगर सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:47:26.600444728Z",
+  "model": "glm-5.3"
+}

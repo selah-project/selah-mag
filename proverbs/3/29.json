@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעך\/רעה",
+      "rationale": "संगी (רע) आउ बुराय (רעה) के एके जड़ के गूँज हकइ, जे मगही में बिला जाऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गढ़",
+      "rationale": "חרש के सुभाविक अरथ हल जुतना\/खोदना हकइ; सब बड़ा अनुवाद 'devise' (गढ़ना) लेथिन"
+    }
+  ],
+  "translation": "तोहर संगी बर बुराय मत गढ़, जब ऊ बेखटक ⟨את⟩ तोहरा संग बेठल हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8844867d968ec9db62dc0e11395174abb8bc87f1deb42f5348a1dc101146471b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/3\/29-32.1792006510816.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "गढ़"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "तोहर संगी"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराय"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बेठल हे"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "बेखटक"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तोहरा संग",
+      "marks": "तोहरा संग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:10.817084337Z",
+  "model": "glm-5.3"
+}

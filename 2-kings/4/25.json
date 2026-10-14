@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 4:25",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "दूर से",
+      "rationale": "मन्गद के सामने-से के अरथ में 'दूर से' जोड़ल गेलइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "आउ जखन में घुसलइ; बीता-क्रिया के ढाँचा मगही में अलग हकइ"
+    }
+  ],
+  "translation": "ऊ गेलन आउ एलोहीम के आदमी के पास आइलन, कारमेल पहाड़ के पास। आउ जखन एलोहीम के आदमी ओकरा सामने से ⟨मने दूर से⟩ देखलन, तब ऊ ओकर नौकर गेहाजी से कहलन: देखऽ, ओहे शूनम के जनाना।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "13cf0e66206493277a93fa565b96abb369df5f747afdca86ec6ef77d6dc3b584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/4\/25-28.1791997801890.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "आइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "कारमेल"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ जखन"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "सामने से"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "गेहाजी"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "ओकर नौकर"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "शूनम के जनाना"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "ओहे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:10:01.891081366Z",
+  "model": "glm-5.3"
+}

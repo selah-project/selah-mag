@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "chiasm of fire",
+      "rationale": "mirror structure: fire from Abimelech eats Shechem, fire from Shechem eats Abimelech — Jotham's curse as reversed parallel"
+    },
+    {
+      "kind": "crux",
+      "subject": "בית מלוא",
+      "rationale": "'house of Millo' as proper name vs 'the citadel\/filled rampart' — rendered as proper name"
+    }
+  ],
+  "translation": "आउ जँ नञ कएलऊ हो, त अबिमेलेच से आगि निकलऽ आउ ⟨את⟩ शेकेम के मालिक सब के आउ ⟨את⟩ मिल्लो के घर के खा जावऽ, आउ शेकेम के मालिक सब से आउ मिल्लो के घर से आगि निकलऽ आउ ⟨את⟩ अबिमेलेच के खा जावऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b4703df232a0d226ce729144c38dfbc42a254080a7de0f1b53454b091be24b91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/9\/17-20.1791994251264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जँ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "निकलऽ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगि"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "अबिमेलेच से"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "आउ खा जावऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेकेम के मालिक सब के"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "मालिक सब"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शेकेम के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "मिल्लो के घर के"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "मिल्लो के"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "आउ निकलऽ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगि"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "मालिक सब से"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शेकेम के"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "आउ घर से"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "मिल्लो के"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "आउ खा जावऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अबिमेलेच के"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अबिमेलेच"
+    }
+  ],
+  "timestamp": "2026-10-14T16:10:51.265829181Z",
+  "model": "glm-5.3"
+}

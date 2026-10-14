@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हर एक",
+      "rationale": "איש एक-एक मनुस के बोलऽ हइ; बहुबचन गिनती मगही में 'हर एक' से साफ होलइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "דבर (पूर्ण क्रिया)",
+      "rationale": "इब्रानी भूतकाल 'बोललन' ठाढ़ हकइ — भबिस के घोसना भी पक्का बोलल बात के रूप में।"
+    }
+  ],
+  "translation": "आउ हर एक मनुस आपन अंगूर-गाछ के नीचे आउ आपन अंजीर-गाछ के नीचे बइठतइ, आउ डरावे वाला कोनो नञ होतइ; काहे कि यहवे त्सबाओत के मुँह बोललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "47d9ed81c349e38b97ffa609194a20bf951047ae1d8b1b348f9f8cbf7265a50e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/4\/1-4.1792003791367.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "आउ बइठतइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक मनुस"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "आपन अंगूर-गाछ के"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "आउ नीचे"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "आपन अंजीर-गाछ के"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ होतइ"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "डरावे वाला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोललन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:49:51.369107607Z",
+  "model": "glm-5.3"
+}

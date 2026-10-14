@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 2:29",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "होतइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; भबिस-बोध बर क्रिया जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "जाति",
+      "rationale": "מטה साहित्यिक रूप से 'डाल\/शाखा' हकइ जेकरा से जाति के अरथ निकलऽ हइ"
+    }
+  ],
+  "translation": "आउ नाफ्ताली के जाति; आउ नाफ्ताली के बेटाके नायक अखिरा, एनान के बेटा, होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2222db554b47ed2da9af759a9de45042ed8d83123517d1c740aba8214134a2bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/2\/29-32.1791990569727.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "आउ जाति"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नाफ्ताली के"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "आउ नायक"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के बेटाके"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नाफ्ताली"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "अखिरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "एनान"
+    }
+  ],
+  "timestamp": "2026-10-14T15:09:29.728142993Z",
+  "model": "glm-5.3"
+}

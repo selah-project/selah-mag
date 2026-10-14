@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 3:7",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רखैल",
+      "rationale": "פילגש के मगही में 'रखैल' — दोसर पत्नी नञ, घर के ओही दर्जा के जनाना जेकर संतान के बरसात अधिकार नञ होवे"
+    },
+    {
+      "kind": "you",
+      "subject": "ईश-बोशेत से अबनेर के",
+      "rationale": "सीधा प्रस्न — 'काहे तूँ अइलऽ हऽ?' — अबनेर पर दोस लगावल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "बोलैया के नाम",
+      "rationale": "इब्रानी पाठ में बोलैया के नाम लिखल नञ हइ; पाछे के आख्यान से ईश-बोशेत समझल जा हइ"
+    }
+  ],
+  "translation": "आउ शाउल के एग रखैल ⟨हलथिन⟩, ओकर नाम रित्स्पा, अय्या के बेटी; आउ ईश-बोशेत अबनेर के कहलन, काहे काहे तूँ हमर बाप के रखैल के पास अइलऽ हऽ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e1b392a5a7285ac24cf02330a62137c448872bfc67e49c51806a005d72ca8293",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/3\/5-8.1791995854307.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשאול",
+      "gloss": "आउ शाउल के"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "रखैल"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "रित्स्पा"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "איה",
+      "gloss": "अय्या के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अबनेर"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "काहे काहे"
+    },
+    {
+      "surface": "באתה",
+      "gloss": "अइलऽ हऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "रखैल"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमर बाप के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:37:34.308736250Z",
+  "model": "glm-5.3"
+}

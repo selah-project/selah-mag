@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 22:12",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "शलोमोह",
+      "rationale": "दाविद के आसीस शलोमोह के सीधे बात जारी रहलइ हे।"
+    },
+    {
+      "kind": "elision",
+      "subject": "אך",
+      "rationale": "सीमित करेवाला कण — “खाली ई कि” ओकर भाव लावऽ हइ।"
+    }
+  ],
+  "translation": "खाली ई कि यहवे तोहरा बुद्धि आउ समझ देय, आउ तोहरा यिस्राएल के ऊपर हुकम दे, कि तूँ यहवे तोहर एलोहीम के ⟨את⟩ तोरा के रखवारी करय।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ba88944f0ecad370abea87942c98146394167862aa7fc3ea902e00d2049d0bcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/22\/9-12.1792010462314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "खाली ई कि"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देय"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "आउ समझ"
+    },
+    {
+      "surface": "ויצוך",
+      "gloss": "आउ तोहरा हुकम दे"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ולשמור",
+      "gloss": "कि तूँ रखवारी करय"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोरा के"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोरा के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T20:41:02.315999288Z",
+  "model": "glm-5.3"
+}

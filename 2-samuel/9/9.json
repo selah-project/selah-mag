@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 9:9",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "नौकर",
+      "rationale": "नעर खाली 'बुतरू' नञ — इहाँ सेवक अरथ में हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨आउ⟩",
+      "rationale": "क्रिया-चाल बर जोड़ल"
+    }
+  ],
+  "translation": "आउ राजा शाऊल के नौकर त्सिबा के बोलावलन, आउ ओकरा कहलन — जे कुछ शाऊल आउ ⟨आउ⟩ ओकर पूरा घर के रहल, ऊ सब हम तोहर मालिक के बेटा के देलियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "92e506908e76c7329a70c7b19ebbceca20b025681e4220f305d13049803c4805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/9\/9-12.1791995957469.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "बोलावलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…के पास"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "त्सिबा"
+    },
+    {
+      "surface": "נער",
+      "gloss": "नौकर"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शाऊल के"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "आउ पूरा"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ओकर घर"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "हम देलियन"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "बेटा के"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "तोहर मालिक"
+    }
+  ],
+  "timestamp": "2026-10-14T16:39:17.469916621Z",
+  "model": "glm-5.3"
+}

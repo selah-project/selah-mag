@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תנחני\/ותנהלני",
+      "rationale": "दू लगभग-समान किरिया जोड़ल — नू-न-ख आउ न-ह-ल के स्वर-मेल इब्रानी के जोड़ हइ, मगही में बाट-देख\/अगुवाई के जोड़ी बचलइ"
+    }
+  ],
+  "translation": "काहे कि तूँ हउ हमर चट्टान आउ हमर गढ़; आउ तोहर नाम के कारन हमरा बाट देखअ आउ हमरा अगुवाई करअ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/31\/1-4.1792004800661.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "हमर चट्टान"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "आउ हमर गढ़"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ हउ"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "आउ एकर कारन"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "हमरा बाट देखअ"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "आउ हमरा अगुवाई करअ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:06:40.662559948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "इब्रानी आखिर हकइ ‘वाचा काटलन’ — काटे के चित्र रखल गेल।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दू पट्टी",
+      "rationale": "सन्दूक के भीतर के सामान के गिनती — खाली दू पट्टी।"
+    },
+    {
+      "kind": "elision",
+      "subject": "נתן",
+      "rationale": "‘देलन’ के जगह ‘रखलन’ — किंतु KJV ‘put therein’ जइसन; इब्रानी केवल ‘देलन’ कहऽ हइ।"
+    }
+  ],
+  "translation": "सन्दूक में कुछो नञ हलइ — खाली दू पट्टी सब, जे मोशे होरेब पर रखलन हलन, जे यहवे यिस्राएल (इस्राएल) के बेटा सब के संग मिस्रयिम (मिस्र) से निकलते समय वाचा काटलन हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9aa70dd20b0b1dd4f1b8af9e804409546115661b11745f43ca68522b6ccaf07b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/5\/9-12.1792010692615.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "कुछो नञ हलइ"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "सन्दूक में"
+    },
+    {
+      "surface": "רק",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "पट्टी सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "रखलन हलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "होरेब पर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "वाचा काटलन हलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "निकलते समय"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम से"
+    }
+  ],
+  "timestamp": "2026-10-14T20:44:52.615862960Z",
+  "model": "glm-5.3"
+}

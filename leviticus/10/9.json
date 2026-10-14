@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Aaron",
+      "rationale": "यहवे अहरोन (हारून) आउ ओकर बेटा के सीधा आदेस देतन हल (व्यवस्थाविवरण 10:8 से जारी)।"
+    },
+    {
+      "kind": "elision",
+      "subject": "ולא תמתו",
+      "rationale": "इब्रानी साफ कारण बतावऽ हइ ('आउ मत मरबइ'), 'काहे कि' जोड़ल नञ गेल — परिणाम-धमकी जस के तस रहल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתך",
+      "rationale": "ई אलेफ-ताव परिवार के 'संग' बर के रूप हकइ (H854), कर्म-चिन्हा (H853) नञ; फिर भी ⟨את⟩ चिन्हा जान-बूझ के रखल।"
+    }
+  ],
+  "translation": "अंगूरी मद आउ नशेवाला पियाला मत पिअ — तूँ आउ तोहर बेटा ⟨את⟩ तोहर संग — जब तोहनी मूलाकात के तम्बू में आबू, आउ मत मरबइ; ए सदा के बिधान हकइ तोहनी के पीढ़ी-पीढ़ी बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7e2d65fcf001e04082906623344a463529b459d903ef2e418d137a3e6b2cbf8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/10\/9-12.1791989723031.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "अंगूरी मद"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "आउ नशेवाला पियाला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "पिअ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "आउ तोहर बेटा"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "तोहर संग ⟨את⟩",
+      "marks": "तूँ आउ तोहर बेटा"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "जब तोहनी आबू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मूलाकात"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "मरबइ"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "बिधान"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "तोहनी के पीढ़ी-पीढ़ी बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:55:23.031904601Z",
+  "model": "glm-5.3"
+}

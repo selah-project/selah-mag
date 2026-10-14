@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨बाकि बचल हइ⟩",
+      "rationale": "वगम के जोड़ — क्रिया वाक्य खातिर, इब्रानी नञ-क्रिया वाक्य हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "भोर अवऽ हइ आउ रातो",
+      "rationale": "भोर अवऽ हइ आउ रात बाकि — या भोर के बाद फेर रात; मतलब मतभेद में हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "पूछै वाला लोग के सीधे सम्बोधन — लौट आवऽ के आदेस।"
+    }
+  ],
+  "translation": "रखवार कहलन: भोर अवऽ हइ, आउ रातो ⟨बाकि बचल हइ⟩; जँ तोहनी माँगब ⟨तँ⟩ माँगऽ, लौट आवऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "57878eca1b3aa738706909bb55e4ff59290939101f10add5d90986cf7df15de3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/21\/9-12.1791998883824.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "रखवार"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "अवऽ हइ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ ... बाकि बचल हइ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रातो"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "तोहनी माँगब"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "माँगऽ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "लौट जावऽ"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "आवऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:03.825226553Z",
+  "model": "glm-5.3"
+}

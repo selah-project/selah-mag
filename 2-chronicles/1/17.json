@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 1:17",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "मूल",
+      "rationale": "रथ छह सौ चानी आउ घोड़ा एक सौ पचास — दाम के गिनती।"
+    },
+    {
+      "kind": "addition",
+      "subject": "शेकेल",
+      "rationale": "इब्रानी पाठ में नाप-सब्द छुटल हइ; खाली 'छह सौ चानी' हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בידם יוציאו",
+      "rationale": "'ओकनी के हाथे निकालऽ हलन' — के सोलोमोन के सौदागर या ओ राजा खुद; अनुवादक में मतभेद।"
+    }
+  ],
+  "translation": "आउ ओकनी चढ़लन आउ मिस्रयिम (मिस्र) से एक रथ छह सौ चानी में निकाललन, आउ एक घोड़ा एक सौ पचास में; आउ एहनेच हत्ती के सब राजा आउ अराम के राजा के हाथे ओकनी निकालऽ हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "65e46b81f10873ef196f892f032518e9cbed6031977106b539d9c17b1764a9e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/1\/17-18.1792010503405.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "चढ़लन"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "निकाललन"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम (मिस्र) से"
+    },
+    {
+      "surface": "מרכבה",
+      "gloss": "एक रथ"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "आउ एक घोड़ा"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "आउ एक सौ"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "आउ एहनेच"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब … के बर"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "हत्ती के"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "आउ राजा"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम के"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ओकनी के हाथे"
+    },
+    {
+      "surface": "יוציאו",
+      "gloss": "निकालऽ हलन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:41:43.406479476Z",
+  "model": "glm-5.3"
+}

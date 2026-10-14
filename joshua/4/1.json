@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आउ ई भेल कि",
+      "rationale": "वायिही — कथा-शुरुआत के चिन्हा, मगही में जोड़ल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पूरा कइलक",
+      "rationale": "लोग के पार होवे के पूरा होवे के गिनती"
+    }
+  ],
+  "translation": "आउ ई भेल कि जखन पूरा लोग ⟨את⟩ यरदन के पार होवे पूरा कइलक, तब यहवे यहोसुआ से कहलन, कहऽ हो—",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "302add0f9dd61a390f8ff10f9c6e7521801e07ce2c4614323c71999dbfbaea87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/4\/1-4.1791993191493.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ ई भेल कि"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जखन"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "पूरा कइलक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "पार होवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यरदन के"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यरदन के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोसुआ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ हो"
+    }
+  ],
+  "timestamp": "2026-10-14T15:53:11.494358652Z",
+  "model": "glm-5.3"
+}

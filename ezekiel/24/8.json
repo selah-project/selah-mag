@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 24:8",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לנקם נקם",
+      "rationale": "एके जड़ के दोहराव — बदला लेए बदला; लय देखावलिए।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "v7↔v8",
+      "rationale": "v7 के 'ढारलक…नञ ढाके' के उलट v8 में 'रखलियनी…नञ ढाकल' — चियास्टिक उलटफेर।"
+    }
+  ],
+  "translation": "क्रोध उठावे बदला लेए बर हम ⟨את⟩ ओकर खून नांगा चट्टान पर रखलियनी, जेकरा ढाकल नञ जाऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a5713b41536115e2a3b619c601c23e33efb8e0e97c5f60902790baa1b4279785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/24\/5-8.1792002420478.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להעלות",
+      "gloss": "उठावे बर"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "לנקם",
+      "gloss": "बदला लेए बर"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "हम रखलियनी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर खून"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ओकर खून"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צחיח",
+      "gloss": "नांगा"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "जेकरा नञ"
+    },
+    {
+      "surface": "הכסות",
+      "gloss": "ढाकल जाऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:27:00.479284460Z",
+  "model": "glm-5.3"
+}

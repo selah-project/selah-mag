@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 14:17",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בסף",
+      "rationale": "'दुआरी के पार' के बदला साफ अरथ में 'दुआरी पर' — साफ के अरथ हकइ, चौखट।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जइसने",
+      "rationale": "इब्रानी के हवाला-बनावट बतावे बर जोड़ल जोड़-सब्द।"
+    }
+  ],
+  "translation": "आउ यारोबाम के जनाना उठलइ आउ गेलइ आउ तिर्सा में अइलइ; जइसने ऊ घर के दुआरी पर पहुँचलइ, बुतरू मर गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b613fb4a69e6e61f087c9a29523fdc040470c246717ed8d162307ed9a82ccb64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/14\/17-20.1791997332234.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "उठलइ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यारोबाम"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "गेलइ"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "अइलइ"
+    },
+    {
+      "surface": "תרצתה",
+      "gloss": "तिर्सा"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "पहुँचलइ"
+    },
+    {
+      "surface": "בסף",
+      "gloss": "दुआरी पर"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "आउ बुतरू"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मर गेलइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:02:12.234864631Z",
+  "model": "glm-5.3"
+}

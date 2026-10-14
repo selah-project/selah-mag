@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "עשו",
+      "rationale": "Abner's imperative — 'now do it' — urges the elders to act."
+    },
+    {
+      "kind": "addition",
+      "subject": "बचइतनी का कर्ता",
+      "rationale": "हम (हम बचइतनी) — Hebrew infinitive הושיע carries no explicit subject; the speaker is ׯहवे."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ביד…מיד…ומיד",
+      "rationale": "Triple repetition of 'hand' — by the hand, from the hand, from the hand — kept literally in Magahi."
+    }
+  ],
+  "translation": "आउ अब ⟨अबे⟩ करऽ, काहे कि यहवे दाविद (दाऊद) से कहलन हे — हमर नोकर दाविद के हाथ से हम अपन लोग यिस्राएल (इस्राएल) के ⟨את⟩ पलिस्ती के हाथ से आउ ओकर सब दुसमन के हाथ से बचइतनी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/3\/17-20.1791995891861.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "के हाथ से"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "हमर नोकर"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "बचइतनी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर लोग यिस्राएल"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमर लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "के हाथ से"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिस्ती"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "आउ के हाथ से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "ओकर दुसमन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:38:11.862670516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 3:17",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "רוח के एके रूप — हिअा अरथ 'बतास' हकइ, बाकि थिर पद रूआख रखल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "बाकि",
+      "rationale": "इब्रानी 'व' के सामने के 'नञ देखब' से विरोध देखावे बर मगही जोड़-सब्द चाहलक।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "तीनो राजा आउ सेना के सीधा सम्बोधन।"
+    }
+  ],
+  "translation": "काहे कि यहवे एकना कहलन हकइ — तोहनी रूआख नञ देखब, आउ बरखा नञ देखब, बाकि ओही नदी पानी से भर जातइ, आउ तोहनी पिअब — तोहनी आउ तोहर माल-जाल आउ तोहर जीव-जंतु।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/3\/17-20.1791997722030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एकना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन हकइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "देखब"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "देखब"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "बरखा"
+    },
+    {
+      "surface": "והנחל",
+      "gloss": "आउ ओही नदी"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "भर जातइ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी से"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "आउ तोहनी पिअब"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "ומקניכם",
+      "gloss": "आउ तोहर माल-जाल"
+    },
+    {
+      "surface": "ובהמתכם",
+      "gloss": "आउ तोहर जीव-जंतु"
+    }
+  ],
+  "timestamp": "2026-10-14T17:08:42.030844065Z",
+  "model": "glm-5.3"
+}

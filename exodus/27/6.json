@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "से",
+      "rationale": "पीतल के साधन-कारक चिन्हा मगही मन चाही, इब्रानी में नञ हइ"
+    }
+  ],
+  "translation": "आउ तूँ बेदी बर डण्डा बनबइ, शित्तीम काठ के डण्डा, आउ तूँ ⟨את⟩ ओकरा पीतल से ढाकबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/27\/5-8.1791988877148.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "आउ तूँ बनबइ"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "डण्डा"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "बेदी बर"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "डण्डा"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "काठ के"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "शित्तीम"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "आउ तूँ ढाकबइ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (डण्डा)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "पीतल से"
+    }
+  ],
+  "timestamp": "2026-10-14T14:41:17.148938288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "यहवे अपन सेवक यिस्राएल के सीधा सम्बोधन करऽ हथिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलथिन",
+      "rationale": "इब्रानी पद-निर्देशक वाक्य हकइ; मगही के किरिया जोड़ल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "אהבי",
+      "rationale": "'हमर परेम करै वाला' — चलनसार 'हमर मित' बनाम परेम-वाची जड़ के सुभाविक अरथ।"
+    }
+  ],
+  "translation": "बाकि तूँ, यिस्राएल (इस्राएल), हमर सेवक — याकोव (याकूब), जेकरा हम चुनलन; अवराहाम (अब्राहम) के बिया, जे हमर परेम करै वाला हलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1dc903695f7053f3f1e8b90fa48511e2e19d713141337230f5c7f827f7143126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/41\/5-8.1791999433599.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "बाकि तूँ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "हमर सेवक"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "हम चुनलन"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बिया"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "हमर परेम करै वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T17:37:13.600240703Z",
+  "model": "glm-5.3"
+}

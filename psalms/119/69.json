@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 119:69",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चिपकैलन",
+      "rationale": "טפל literally 'to stick on as a patch' — imputing falsely; 'forged' or 'smeared' in older versions"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טפלו \/ טפש",
+      "rationale": "טפל here and טפש in v70 both start with the same root-shape — thick\/sticky imagery lost in translation"
+    }
+  ],
+  "translation": "अहंकारी लोग हमरा ऊपर झूठ चिपकैलन; हम पूरा हिरदय से तोहर आदेश के रखवारी करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7d73ce756908b15529b62e7c3c91224c6cf0c10a86e597b520a6dc97ec710c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/69-72.1792006150967.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טפלו",
+      "gloss": "चिपकैलन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ऊपर"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "अहंकारी लोग"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय से"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "रखवारी करऽ हइ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "तोहर आदेश के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:10.968271134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהלל יה \/ הללו יה",
+      "rationale": "Root הלל with יה twice — the verse is itself the origin of 'Hallelujah'; repetition lost when rendered as ordinary imperatives."
+    },
+    {
+      "kind": "substitution",
+      "subject": "साँस लेवै वाला",
+      "rationale": "הנשמה is 'every breath\/the-breathing-one' — singular collective, rendered with relative clause."
+    },
+    {
+      "kind": "invitation",
+      "subject": "הללו יה",
+      "rationale": "Final summons closing the Psalter; call to all breathing things."
+    }
+  ],
+  "translation": "सब जीव-जंतु जे साँस लेवऽ हइ, ऊ सब याह के परसंसा करो; याह के परसंसा करऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "30b5d1fca940bd63f3a21a21ceaa84d0287e2e9d3c196a63dce963939971a83e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/150\/5-6.1792006358881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "साँस लेवै वाला"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "परसंसा करो"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "परसंसा करऽ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:32:38.881847220Z",
+  "model": "glm-5.3"
+}

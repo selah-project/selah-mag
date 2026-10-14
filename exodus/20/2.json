@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "यहवे तोहनी (यिस्राएल के परजा) के सीधे सम्बोधन करऽ हथिन"
+    },
+    {
+      "kind": "addition",
+      "subject": "मिस्रयिम के कोस्ठक",
+      "rationale": "पहिला आगमन पर चलनसार रूप (मिस्र) कोस्ठक में, अनुसासन के मंजूरी से"
+    }
+  ],
+  "translation": "हम यहवे, तोहर एलोहीम, जे तोहनी के निकाललन मिस्रयिम (मिस्र) के धरती से, दास लोग के घर से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "69a775fb3ec2f7e067ade54b76e564d770df72874c6f1c38229a2acf4d17d8ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/20\/1-4.1791988618685.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "तोहनी के निकाललन"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर से"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "दास लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T14:36:58.686698112Z",
+  "model": "glm-5.3"
+}

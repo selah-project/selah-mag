@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצא יצא",
+      "rationale": "क्रिया के दोहराव — पूरा बल, 'बिलकुल निकली'"
+    },
+    {
+      "kind": "elision",
+      "subject": "יצא यצא",
+      "rationale": "दोहरावल क्रिया एके रूप में घुड़कैल"
+    }
+  ],
+  "translation": "बाकि जे हत्यारा कखनो ओ सहर के ⟨את⟩ सीमा के बाहिर निकली जतय ऊ ओतै भागल रहै —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "28d5752f8a604d947087b4aeb51b92eef169a7b258a488831c2fd0949ecc9854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/35\/25-28.1791991865976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "बाकि जे"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकली"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकली"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "हत्यारा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सीमा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "सहर के"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "ओकर पनाह के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जतय"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "भागल रहै"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओतै"
+    }
+  ],
+  "timestamp": "2026-10-14T15:31:05.977963541Z",
+  "model": "glm-5.3"
+}

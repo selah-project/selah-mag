@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תרום\/תהרס",
+      "rationale": "ऊँच होना आउ ढहना के उलटा-जोड़ी — नगर के उठाव आउ गिराव — मगही में ऊँच\/ढहाम से बनल रहऽ हइ।"
+    }
+  ],
+  "translation": "सीधा-सादा लोग के असीस से नगर ऊँच होवऽ हइ, बाकि बुरा लोग के मुँह से ओकर ढहाम होवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "41c6229165c4af5a0f6304ad160214c060a21a801001977bf91eed4b3ddb948b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/11\/9-12.1792006619470.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "असीस से"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "सीधा-सादा लोग के"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ऊँच होवऽ हइ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "बाकि मुँह से"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बुरा लोग के"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "ढहाम होवऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:59.471930355Z",
+  "model": "glm-5.3"
+}

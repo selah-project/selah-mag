@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אֲנִי פִּי מֶלֶךְ",
+      "rationale": "'हम — राजा के मुँह' के सीधा जोड़ अस्पस्ट हकइ: केउ 'हम कहऽ हिअइ' पढ़ऽ हइ, केउ 'मोरा मुँह — राजा के'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨कहऽ हिअइ⟩",
+      "rationale": "אני अकेला ठाढ़ हकइ; बाक्य साफ होवे बर किरिया जोड़ल गेलइ"
+    }
+  ],
+  "translation": "हम ⟨कहऽ हिअइ⟩ — राजा के मुँह के रखवारी कर, आउ एलोहीम के कसम के सबंध में ⟨एकरा ध्यान में रखखिन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/8\/1-4.1792008471023.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "रखवारी कर"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ सबंध में"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "कारण से"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "कसम के"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:07:51.024368143Z",
+  "model": "glm-5.3"
+}

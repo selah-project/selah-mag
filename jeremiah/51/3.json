@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 51:3",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל ידרך ידרך",
+      "rationale": "KJV\/JPS 'धनुक अंदावए वाला बिरुद्ध धनुख अंदावए' (तीर अंदावे) बनाम YLT\/BSB 'मत अंदावए' (निषेध); हमनी निषेध लेलनिए — निकट संदर्भ बरमबार निषेध हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "החרימו",
+      "rationale": "חר׮ — 'बिनास बर समर्पन', पूरा उखाड़ देवे के बिधान-बिंब।"
+    }
+  ],
+  "translation": "धनुख अंदावे वाला अपन धनुख मत अंदावए, आउ कवचधारी मत चढ़ए; ओकर जवानन पर दया मत करा; ओकर पूरा लस्कर के बिनास बर समर्पन करा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "190fe20ef5a1813b6f762469c12fcfb507bb229a24bd17795740d308c3b3ab64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/51\/1-4.1792001561728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "अंदावए"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "अंदावए"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "अंदावे वाला"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "अपन धनुख"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "יתעל",
+      "gloss": "चढ़ए"
+    },
+    {
+      "surface": "בסרינו",
+      "gloss": "कवच में"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תחמלו",
+      "gloss": "दया करा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "בחריה",
+      "gloss": "ओकर जवानन"
+    },
+    {
+      "surface": "החרימו",
+      "gloss": "बिनास बर समर्पन करा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "צבאה",
+      "gloss": "लस्कर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:12:41.729745578Z",
+  "model": "glm-5.3"
+}

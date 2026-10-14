@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זבחי תרועה",
+      "rationale": "'जय-धुन के बलि' बनाम 'तुरहई-धुन के बलि' — תרועה तुरहई के चीख-धुनो हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירום \/ ירוממני",
+      "rationale": "पद 5 के 'ऊँच करतन' आउ पद 6 के 'ऊँच होतइ' एके जड़ װ — चट्टान से ऊपर, बैरियन से ऊपर।"
+    }
+  ],
+  "translation": "आउ अब हमरा मूड़ी हमरा चारो दने के बैरियन के ऊपर ऊँच होतइ, आउ हम ओकर तम्बू में जय-धुन के बलि देबइ, हम गाबइ आउ हम बाजा बजाबइ यहवे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/27\/5-8.1792004775318.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ऊँच होतइ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "हमरा मूड़ी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "बैरियन के"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "चारो दने के"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "आउ हम बलि देबइ"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "ओकर तम्बू में"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "जय-धुन के"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "हम गाबइ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "आउ हम बाजा बजाबइ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:06:15.319557905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "शाब्दिक 'वाचा काटना' — गोड़-मांस काट के समझौता; मगही में 'वाचा करना'"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल",
+      "rationale": "तोहनी के सीधा आदेस — ओकनी (देसी जाति) संग वाचा नञ"
+    }
+  ],
+  "translation": "तूँ ओकनी संग आउ ओकनी के देवता सब संग वाचा नञ करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "09f9bd38b14ac0e4b199910d9d05b3e251dc8cdfc0c1a381399627334c710efe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/23\/29-32.1791988788179.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "काटबइ\/करबइ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी संग"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "आउ ओकनी के देवता सब संग"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "वाचा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:39:48.180889692Z",
+  "model": "glm-5.3"
+}

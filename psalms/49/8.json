@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אח לא פדה יפדה איש",
+      "rationale": "'भाय के कोनो आदमी छुटकारा नञ दे सकऽ हइ' बनाम KJV 'ओकरा में से कोनो अपन भाय के' — इब्रानी के शब्द-क्रम दुनो के दुआर खोलऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כפרו",
+      "rationale": "कोफर मूल रूप में 'ढकावा' हकइ; मगही 'बदला दाम' कार्य-अरथ देतइ, ढकने के तस्वीर नञ"
+    }
+  ],
+  "translation": "भाय के कोनो छुटकारा नञ दे सकऽ हइ; कोनो एलोहीम के ओकर बदला दाम नञ दे सकऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "63e10de462bb6e8e97396804c2f7b13371307327f9d91e9facfe5c4c8d3f26f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/49\/5-8.1792005030054.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "भाय के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "छुटकारा दे सकऽ हइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दे सकऽ हइ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "ओकर बदला दाम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:30.056074730Z",
+  "model": "glm-5.3"
+}

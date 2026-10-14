@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "खाली हाथे",
+      "rationale": "ריקם literally 'emptily' — Magahi idiom 'empty-handed' carries the picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "नाप",
+      "rationale": "Hebrew says only 'six barleys' — the measure word is supplied for sense"
+    }
+  ],
+  "translation": "आउ ओ कहलक, “ई छह नाप जउ ऊ हमरा देलक, काहे कि ऊ कहलक, तोहर सास के लगे खाली हाथे मत जा।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c246af5472162a8f82a3e7300a2982195e9c92da23c38d161befbd3b371e9825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ruth\/3\/17-18.1792008048220.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "आउ ओ कहलक"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "जउ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलक"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "जा"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "खाली हाथे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगे"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "तोहर सास"
+    }
+  ],
+  "timestamp": "2026-10-14T20:00:48.220879Z",
+  "model": "glm-5.3"
+}

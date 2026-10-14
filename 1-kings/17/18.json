@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה לי ולך",
+      "rationale": "'हमरा आउ तोहरा की' — इब्रानी के ठीक ढाँचा जइसन रखल गेल; अरथ हकइ 'हमरा तोहरा से की लेना-देना'।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "पाप",
+      "rationale": "עון असल में 'बाँक जाना \/ अपराध' हकइ; 'पाप' नजदीकी साफ सब्द लेल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "एलियाहू",
+      "rationale": "जनाना सीधे एलियाहू के सम्बोधन करऽ हइ — 'हे एलोहीम के मरद'।"
+    }
+  ],
+  "translation": "ऊ एलियाहू से कहलक: हमरा आउ तोहरा की, हे एलोहीम के मरद? तूँ हमरा लग ककरो अइलहा जे हमर ⟨את⟩ पाप याद करावऽ बर आउ ⟨את⟩ हमर बेटा के मारऽ बर?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "744ab08d66c907800b2618091885d73085ba4222d1c5ce78cbdcb882656a2117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/17\/17-20.1791997430851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहू"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "आउ तोहरा"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "באת",
+      "gloss": "अइलहा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लग"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "याद करावऽ बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर पाप"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "हमर पाप"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "आउ मारऽ बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर बेटा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमर बेटा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:03:50.852696362Z",
+  "model": "glm-5.3"
+}

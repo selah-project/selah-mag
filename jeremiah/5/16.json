@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के क्रिया जोड़ल गेल"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כקבר פתוח",
+      "rationale": "खुलल कबर — मौत के मुँह जइसन, जे कबर खाल खाल जाहे; तस्वीर जस के तस रखल गेल"
+    }
+  ],
+  "translation": "ओकर तीर-तरकस खुलल कबर जइसन हकइ; ओकनी सब बलवान हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2cd3d107cf5962f7ad97c2e8cef84760f614636e30b11229a8fa7e31b7b1d499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/5\/13-16.1792000186191.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "ओकर तीर-तरकस"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "कबर जइसन"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "खुलल"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ओकनी सब"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "बलवान हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:49:46.192561621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 24:13",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כנקף",
+      "rationale": "जैतून झाड़े के काम के ई सब्द तनाख़ में खाली इहे जगह आवऽ हइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "काहे कि एहने होतइ",
+      "rationale": "על כן \/ כי כह के फँसल के तुलना वाला ढाँचा, साफ रूप में फैलावल गेल।"
+    }
+  ],
+  "translation": "काहे कि एहने होतइ धरती के भीतर, लोग के बीच में — जइसन जैतून के झाड़ल जाए, जइसन गुच्छा-गुच्छा बचल अँगूर, जब अँगूर के फसल निपट जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cf400095f14c75b00c66a18167791ba0c9ed07a6c063a192fb001a2e3b3d17fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/24\/13-16.1791999079915.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "כנקף",
+      "gloss": "जइसन झाड़ल जाए"
+    },
+    {
+      "surface": "זית",
+      "gloss": "जैतून"
+    },
+    {
+      "surface": "כעוללת",
+      "gloss": "जइसन गुच्छा-गुच्छा बचल अँगूर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जब"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "निपट जातइ"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "अँगूर के फसल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:31:19.915733295Z",
+  "model": "glm-5.3"
+}

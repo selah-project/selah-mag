@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सात दिन",
+      "rationale": "बाढ़ से पहिले के दिन के गिनती"
+    },
+    {
+      "kind": "addition",
+      "subject": "बीतलक, ओकरा बाद",
+      "rationale": "मगही के काल-बनावट बर जोड़ल; इब्रानी के ל-बिसेसथ खाली 'सात दिन लगावै' कहऽ हइ"
+    }
+  ],
+  "translation": "आउ सात दिन बीतलक, ओकरा बाद बाढ़ के पानी धरती पर आ गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1517930cbdce0b6e78836d467255734e92ce3af7268d11c0762735b8f7cc4483",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/7\/9-12.1791986358185.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आउ पानी"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "बाढ़"
+    },
+    {
+      "surface": "היו",
+      "gloss": "आ गेलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T13:59:18.186764419Z",
+  "model": "glm-5.3"
+}

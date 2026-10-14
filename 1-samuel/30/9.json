@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "preposition 'with him' rendered via the ⟨את⟩ marker with a gloss of nearness, no independent Magahi word"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "Hebrew relative clause lacks a verb; Magahi past copula supplied"
+    }
+  ],
+  "translation": "आउ दाविद गेलन, ऊ आउ छह सौ मरद जे ⟨את⟩ ओकरा संग हलन, आउ ओन बेसोर नदी ले अइलन, आउ जे बचल रहलन ऊ ठाढ़ भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/30\/9-12.1791995657125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आउ छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा संग"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "बेसोर"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "आउ जे बचल रहलन"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ठाढ़ भेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:34:17.126424242Z",
+  "model": "glm-5.3"
+}

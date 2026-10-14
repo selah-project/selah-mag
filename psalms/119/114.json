@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "मगही के क्रिया चाही; इब्रानी में क्रिया नञ हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे से",
+      "rationale": "पद सीधे परमेश्वर के सम्बोधन हकइ"
+    }
+  ],
+  "translation": "तूँ हमर छुपाव के जगह आउ हमर कवच ⟨हथिन⟩; तोहर बचन के बर हम आस करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0012912ccfab3190faede15b8ae883b42dc59729d781b0882da2feb139e89989",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/113-116.1792006129549.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "हमर छुपाव के जगह"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "आउ हमर कवच"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "तोहर बचन के बर"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "हम आस करऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:49.549985350Z",
+  "model": "glm-5.3"
+}

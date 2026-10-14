@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बर",
+      "rationale": "लammad-के ल उद्देश्य के चिन्हा हकइ; मगही में 'बर' से देखावल गेल।"
+    }
+  ],
+  "translation": "⟨बर⟩ धन्यवाद के आवाज सुनावे बर आउ तोहर सब अचरज के काम बतावे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "60fce77910616cd9c245ceb15c47eed972a069c102c8eca9d765fa5097c59c2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/26\/5-8.1792004744722.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "सुनावे बर"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "के आवाज"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "धन्यवाद"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "आउ बतावे बर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "तोहर अचरज के काम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:05:44.722927755Z",
+  "model": "glm-5.3"
+}

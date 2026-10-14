@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תפעלון \/ תפלסון",
+      "rationale": "प-ע-ल आउ פ-ל-स के निकट-ध्वनि, करना आउ तोलना के जोड़ी — मगही में ध्वनि-मेल बच नञ पावऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "तोलऽ हव",
+      "rationale": "פלס के सुभाविक अरथ रास्ता बर बराबर करना\/तौलना हकइ; ओकरा तोलना कइल गेलइ।"
+    }
+  ],
+  "translation": "बल्कि हिरदय में तोहनी बुराई करऽ हव, धरती में तोहर हाथ सब के जुल्म तोलऽ हव।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/58\/1-4.1792005192967.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "बल्कि"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "हिरदय में"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "करऽ हव"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "जुल्म"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "तोहर हाथ सब के"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "तोलऽ हव"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:12.968459238Z",
+  "model": "glm-5.3"
+}

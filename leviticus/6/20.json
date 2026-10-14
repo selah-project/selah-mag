@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 6:20",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יזה … יזה",
+      "rationale": "नज़ (छींटा) किरिया के दोहराव एही पद में — संरचना मगही में दोहराव से रक्षित हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקדש",
+      "rationale": "'ऊ पवित्तर हो जातइ' बनाम 'ऊ पवित्तर करा जातइ' — छुअने से पवित्तरता मिलेला कि सख्त करा जातइ, अनुवादकनी के पुरान झगड़ा।"
+    }
+  ],
+  "translation": "जे कोनो ओकर मांस के छुअतइ, ऊ पवित्तर हो जातइ; आउ ओकर खून के छींटा जे कपड़ा पर पड़लइ होतइ, जेह पर छींटा पड़लइ होतइ ओकरा पवित्तर जगह में धोवल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "578d0f5ca20aa9595556b011070dcf61b41274c7f3804bf9d7f124fd9c0aaab2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/6\/17-20.1791989543487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जे कोनो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "छुअतइ"
+    },
+    {
+      "surface": "בבשרה",
+      "gloss": "ओकर मांस के"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "पवित्तर हो जातइ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "छींटा पड़लइ होतइ"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "ओकर खून के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेह पर"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "छींटा पड़लइ होतइ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "धोवल जातइ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "जगह में"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:52:23.488739646Z",
+  "model": "glm-5.3"
+}

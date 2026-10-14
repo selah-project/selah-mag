@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 24:17",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया-संबंध (copula) नञ हकइ, मगही के चाही पड़लइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכיר",
+      "rationale": "नाछर: 'ओ जानऽ हइ' बनाम 'ओकरा जानल जातइ' बनाम 'ओकनी दोस्ती करऽ हइ' (BSB)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צלמות",
+      "rationale": "पद के दोहराव एहे पाँती के ढाँचा हकइ — दुनो जगह एके रूप रखल गेलइ"
+    }
+  ],
+  "translation": "एक संग भोर ⟨हकइ⟩ ओकनी के मौत-छाँव; काहे कि ओकनी जानऽ हइ मौत-छाँव के दहसट के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "413a27be091c0d8942678c66a29ee6385c11d96b0bd12cf7b2ce050ce76ee944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/24\/17-20.1792007614970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एक संग"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "मौत-छाँव"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "जानऽ हइ"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "दहसट"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "मौत-छाँव"
+    }
+  ],
+  "timestamp": "2026-10-14T19:53:34.971354309Z",
+  "model": "glm-5.3"
+}

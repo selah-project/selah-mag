@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमरा ले",
+      "rationale": "לי के पूरा अरथ देखावे बर कोस्ठक जोड़ल गेलइ — हिब्रू के क्रिया-रूप में कर्ता-कर्म आगे से मिलऽ हइ।"
+    }
+  ],
+  "translation": "आउ जँ एहने बात से तोहनी सुधरऽ नञ हथिन ⟨हमरा ले⟩, बाकि हमर संग विरोध भाव से चलब,",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/26\/21-24.1791990449313.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जँ"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "एहने बात से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "सुधरऽ हथिन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨हमरा ले⟩"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "आउ चलब"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमर संग"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "विरोध भाव से"
+    }
+  ],
+  "timestamp": "2026-10-14T15:07:29.314834507Z",
+  "model": "glm-5.3"
+}

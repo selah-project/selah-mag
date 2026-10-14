@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बगइचा",
+      "rationale": "बनओत के सुभाविक अरथ चरागाह हकइ; हमनी बगइचा-चरागाह लेलह"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירביצני \/ ינהलני",
+      "rationale": "दू क्रिया के समानांतर बनावट — दुनो परति ओहे कर्ता आउ ओही लक्ष्य ⟨हम⟩, मगही में ओकरा रक्खल गेल"
+    }
+  ],
+  "translation": "हरियर घास के बगइचा में ऊ हमरा लेटावथिन; सुकून के पानी के पास ऊ हमरा ले जाथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/23\/1-4.1792004688729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "बगइचा में"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "हरियर घास"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "हमरा लेटावथिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पार"
+    },
+    {
+      "surface": "מי",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "सुकून के"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "हमरा ले जाथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:04:48.730236156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "क्रिया-पूरक अलग-तरीके से पिरो देल गेलइ; अपने ले कुछो नञ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "आज्ञा-बाक्य सीधे यहवे से"
+    }
+  ],
+  "translation": "हमर चीख के कान लगाव, काहे कि हम बहुते दुर्बल हो गेलियन छी; हमरा ओकनी पीछा करे वाला से बचा देअ, काहे कि ओकनी हमरा ओत्ते बलवान भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/142\/5-8.1792006331033.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "कान लगाव"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨…⟩"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "हमर चीख"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "दुर्बल हो गेलियन छी"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "हमरा बचा देअ"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "हमरा पीछा करे वाला से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "बलवान भेलन"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमरा ओत्ते"
+    }
+  ],
+  "timestamp": "2026-10-14T19:32:11.033870961Z",
+  "model": "glm-5.3"
+}

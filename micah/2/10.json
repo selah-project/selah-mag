@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तुहनी के",
+      "rationale": "इब्रानी में करम छूटल हकइ; मगही के पाठक बर साफ कइल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחבל נמרץ",
+      "rationale": "'कड़ा बरबाद' — गहराव: कइयनो तरजुमा एकरा 'तुहनी तुहनी के नास' पढ़ऽ हइ, कइयनो 'ओकरा के नास'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחבל \/ וחבל",
+      "rationale": "एके जड़ (חבל — रस्सी \/ बन्धन \/ नास) दू बेर: क्रिया आउ नाम दुन्नो में, मगही में 'बरबाद' दू बेर रखल गेल।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "उठऽ आउ जा",
+      "rationale": "हुकुम बर बोलावनी — हमर लोग के परदेस जाय बर कहल गेल।"
+    }
+  ],
+  "translation": "उठऽ आउ जा, काहे कि ई ⟨आराम के जगह⟩ नञ हकइ; ओकर मैला होवे से ऊ ⟨तुहनी के⟩ बरबाद करतइ — कड़ा बरबाद।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "76e3e6a7c1a772534e723fff7f3d2008a275492a767aadef8244b7d850ffad57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/2\/9-12.1792003693690.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "उठऽ"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "आउ जा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "आराम के जगह"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "एकरा कारण"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "मैला होवे से"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "बरबाद करतइ"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "आउ बरबादी"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "कड़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:13.691651298Z",
+  "model": "glm-5.3"
+}

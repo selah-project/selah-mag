@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על אף יהוה",
+      "rationale": "सुन्ना-सुन्ना 'यहवे के नाक पर' — नाक\/साँस क्रोध के चिन्हा हकइ; मगही में 'क्रोध से' कइल गेलन"
+    },
+    {
+      "kind": "addition",
+      "subject": "नञ",
+      "rationale": "इब्रानी अपूर्ण क्रिया के पूरा भाव बर मगही में नकारात्मक रूप जोड़ल गेलन"
+    }
+  ],
+  "translation": "काहे कि यहवे के क्रोध से ई यरूशलयिम आउ यहूदा पर आएल, जब तक लग ऊ ⟨את⟩ ओकनी अपन मुँह के सामने से नञ फेंक देलन; आउ त्सिदकियाहू बाबेल के राजा के बिरुद्ध बगावत कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ee63cec80bc7787ee7ba87ba6f8918cf90a2296d933781515bf74d13fbb3fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/52\/1-4.1792001704540.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אף",
+      "gloss": "नाक (क्रोध)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "आएल"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "आउ यहूदा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब तक लग"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "फेंक देलन"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ओकर मुँह के सामने"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "बगावत कइलन"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "त्सिदकियाहू"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "राजा के बिरुद्ध"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:15:04.541910836Z",
+  "model": "glm-5.3"
+}

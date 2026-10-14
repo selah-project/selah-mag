@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "होतइ",
+      "rationale": "इब्रानी में किरिया नञ हइ; अनुवाद पूरा बाक्य बर ओकरा जोड़ल गेलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पचास अमा",
+      "rationale": "आँगन के पुरुब दने के नाप गिनल गेलइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפאת",
+      "rationale": "'मुँह' के बिम्ब बिस्तार-अरथ में — 'दने\/ओर' कइल गेलइ"
+    }
+  ],
+  "translation": "आउ आँगन के चौड़ाई पुरुब दने, सुरुज उगे के ओर, पचास अमा ⟨होतइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dc8668085df65353908d473a91944ef7c45c8f0d766a4233bf3f3956c442abb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/27\/13-16.1791988849284.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "आउ चौड़ाई"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "आँगन के"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "दने के ओर"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पुरुब"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "सुरुज उगे के ओर"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "अमा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:40:49.285390717Z",
+  "model": "glm-5.3"
+}

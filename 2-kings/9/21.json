@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 9:21",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "जोड़ऽ",
+      "rationale": "אסר मूल रूप से 'जुड़ना\/बाँधना' हकइ — रथ के घोड़ा जोड़े के बात।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हर एक अपन रथ में",
+      "rationale": "איש ברכבו शाब्दिक 'आदमी ओकर रथ में' — दूनो राजा बर मगही में साफ करे के चाही।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहोराम",
+      "rationale": "रथ जोड़े के हुकुम ओकर सेवक के दने हकइ।"
+    }
+  ],
+  "translation": "आउ यहोराम कहलन — जोड़ऽ। आउ ओकर रथ जोड़ल गेल। आउ यहोराम, यिस्राएल के राजा, बाहर अइलन, आउ अहज्याहू, यहूदा के राजा, हर एक अपन रथ में; आउ ओनी यहू के भेंट बर निकललन आउ ओकरा नाबोत यिज्रेली के खेत के हिस्सा में भेंटलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6e08c13c6eea06220d2fe36fab3f459c0df57f34336b0060fa3f07b1fd67b1ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/9\/21-24.1791997894594.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "यहोराम"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "जोड़ऽ"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "जोड़ल गेल"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ओकर रथ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "बाहर अइलन"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "यहोराम"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ואחזיהו",
+      "gloss": "आउ अहज्याहू"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "अपन रथ में"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "निकललन"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "भेंट बर"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "यहू"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "भेंटलन"
+    },
+    {
+      "surface": "בחלקת",
+      "gloss": "खेत के हिस्सा में"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "नाबोत"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "यिज्रेली"
+    }
+  ],
+  "timestamp": "2026-10-14T17:11:34.594851930Z",
+  "model": "glm-5.3"
+}

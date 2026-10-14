@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "तम्बू के पर्दा",
+      "rationale": "יריעा तम्बू के कापड\/फहरावा हकइ; 'पर्दा' अकेले कने धुँधला होतइ।"
+    }
+  ],
+  "translation": "जे इँजोर के कपड़ा जइसन ओढ़ऽ हथिन, अकास के तम्बू के पर्दा जइसन तानऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/104\/1-4.1792005843174.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "ओढ़ऽ हथिन"
+    },
+    {
+      "surface": "אור",
+      "gloss": "इँजोर"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "कपड़ा जइसन"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "तानऽ हथिन"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "तम्बू के पर्दा जइसन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:03.175332988Z",
+  "model": "glm-5.3"
+}

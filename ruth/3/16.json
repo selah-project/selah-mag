@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי את בתי",
+      "rationale": "शब्दशः 'कोन हऽ तूँ, बेटी?' — किछु अनुवादक 'कइसन रहल रे बेटी?' के रूप में लेथिन (तुरंत पहचान के बजाय इस्ती के बात); हम शब्दशः रूप रखनिहाँ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "את (पद 6)",
+      "rationale": "इ द्वितीय-पुरुष सर्बनाम आַתּ हकइ, चिन्हा-את नञ — एकरा ⟨את⟩ चिन्हा के रूप में नञ देखावल गेलइ"
+    }
+  ],
+  "translation": "आउ ऊ अपन सास के पास अइलइ; ऊ कहलक — कोन हऽ तूँ, हमर बेटी? आउ ऊ ओकरा ओकरा ⟨את⟩ सब बात बतौलक जे ओहि आदमी ओकरा बर कएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6e54733758e2a093edcd5a550e0411a759284e4972eb66951c546baa1146bd51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ruth\/3\/13-16.1792008104044.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "अइलइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "अपन सास"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "את",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "हमर बेटी"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "बतौलक"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब बात"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कएलन"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा बर"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ओहि आदमी"
+    }
+  ],
+  "timestamp": "2026-10-14T20:01:44.046281279Z",
+  "model": "glm-5.3"
+}

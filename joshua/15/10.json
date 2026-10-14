@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 15:10",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "यहूदा के सीमा-विवरण",
+      "rationale": "सीमा के दिसा आउ ठिकाना गिनावल जाए रहल हे।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ימה",
+      "rationale": "'समुंदर दने' के मतलब पछिम — हिब्रू में समुंदर (याम) हमेसा पछिम दने पड़ऽ हकइ।"
+    }
+  ],
+  "translation": "आउ सीमा बाला से समुंदर-दने — पछिम दने — सेइर पहाड़ ले घुमलइ, आउ उत्तर दने यारिम पहाड़ के काँधा — ऊ केसालोन हकइ — के पार गेलन, आउ बेत शेमेश के दने उतरलइ, आउ तिम्ना के पार गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "47e908eeaf8f49b712a0a7f2de2b4ebfa636882f2921b63c49117259ecb0e627",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/15\/9-12.1791993568684.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "आउ घुमलइ"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "מבעלה",
+      "gloss": "बाला से"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "समुंदर-दने (पछिम)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "आउ पार गेलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "काँधा"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "यारिम के"
+    },
+    {
+      "surface": "מצפונה",
+      "gloss": "उत्तर दने"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "केसालोन"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "आउ उतरलइ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "शेमेश के दने"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "आउ पार गेलन"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "तिम्ना के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:59:28.685116553Z",
+  "model": "glm-5.3"
+}

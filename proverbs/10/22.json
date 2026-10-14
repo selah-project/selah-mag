@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "योग-कर्ता",
+      "rationale": "יוסף के कर्ता यहवे (kjhv\/asv) या असीस\/परिश्रम (jps 'toil addeth') — यहवे लेल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दुख-कस्ट",
+      "rationale": "עצב के अरथ कठिन मिहनत भी हकइ (jps के रास्ता)"
+    }
+  ],
+  "translation": "यहवे के असीस ऊहे धनी बनावऽ हइ, आउ ऊ ओकरा संग कोनो दुख-कस्ट नञ जोड़ऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "35e2dedde7db6097628b2f0c28a78ac0d4091f87c8c1dcafc5b61ba04f31d46b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/10\/21-24.1792006618612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "असीस"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "धनी बनावऽ हइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "जोड़ऽ हइ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "दुख-कस्ट"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ओकरा संग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:58.613363032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मिलतइ",
+      "rationale": "ימצא literally 'he finds'; Hindi\/Magahi idiom 'gets' a wound and disgrace"
+    },
+    {
+      "kind": "crux",
+      "subject": "नגע",
+      "rationale": "'wound\/affliction' vs LXX 'filiation' (reads נואף 'adulterer'); most follow 'wound'"
+    }
+  ],
+  "translation": "चोट आउ बेइज्जती ओकरा मिलतइ, आउ ओकर अपमान कबहु मेटाएल नञ जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d58f996a7edda261c7e9c2a410c7dc325e39f21154ffa18151f4705c378c9373",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/6\/33-35.1792006523643.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "चोट"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "आउ बेइज्जती"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ओकरा मिलतइ"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "ओकर अपमान"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "मेटाएल जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:23.644517330Z",
+  "model": "glm-5.3"
+}

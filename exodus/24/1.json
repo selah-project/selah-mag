@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 24:1",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to मोशे",
+      "rationale": "यहवे मोशे आउ अहरोन, नादब, अबिहू आउ बुतर-पहिरामी के सीधे सम्बोधन करऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨बुतर-बुतर⟩",
+      "rationale": "מזקני literally जे पहिरामी के बिसय-जानकारी रखऽ हथिन; बुतर सम्बन्ध स्पष्ट करे बर।"
+    }
+  ],
+  "translation": "आउ मोशे (मूसा) से कहलन जायऽ हइ — तूँ, अहरोन (हारून), नादब आउ अबिहू आउ यिस्राएल (इस्राएल) के बुतर-बुतर सत्तर जे पहिरामी के बिसय-जानकारी रखऽ हथिन, सब यहवे के ओर चढ़ऽ आउ दूर से दण्डवत करऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "99c1979b4f2f9b89ef16d80c7a3ad64c56209db48fc19828b72770a7895511b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/24\/1-4.1791988754090.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "आउ … से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "आउ अहरोन (हारून)"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "नादब"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "आउ अबिहू"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "आउ सत्तर"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "बुतर-बुतर जे पहिरामी के बिसय-जानकारी रखऽ हथिन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल) के"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "आउ दण्डवत करऽ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "दूर से"
+    }
+  ],
+  "timestamp": "2026-10-14T14:39:14.090724996Z",
+  "model": "glm-5.3"
+}

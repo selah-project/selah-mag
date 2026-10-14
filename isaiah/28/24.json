@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יחרש החרश",
+      "rationale": "ओहे जड़ दू बेर — किरिया आउ करनेवाला — एकर दोहराव अनुवाद में रखल गेल हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכל היום",
+      "rationale": "'सब दिन' के मतलब बिना रुके — पढ़निहार में मतभेद हइ कि प्रस्न हइ या हाँ-मानल बयान।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וישדד",
+      "gloss": "अरथ 'कँटिया तोड़ऽ\/हल्लर करऽ' बाकि बीज-बारी के संदर्भ में 'समथर करऽ' रखलन।"
+    }
+  ],
+  "translation": "की हरोई-हरोई दिन जोतऽ जोतऽ बिया बर? की ओकर माटी खोलऽ आउ समथर करऽ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cb1236964bc9fd516c405ec7fff61e3db233001b37be84bc3aea2068ba296ee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/28\/21-24.1791999117583.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "हरोई-हरोई"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "जोतऽ"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "जोतऽ वाला"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "बिया बर"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "खोलऽ"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "आउ समथर करऽ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ओकर माटी"
+    }
+  ],
+  "timestamp": "2026-10-14T17:31:57.584780209Z",
+  "model": "glm-5.3"
+}

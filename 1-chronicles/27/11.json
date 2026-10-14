@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 27:11",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "इब्रानी में क्रिया नञ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "बीस आउ चार हजार",
+      "rationale": "टोली के गिनती"
+    }
+  ],
+  "translation": "आठमा, आठमा महीना के बर, ⟨हलन⟩ सिब्बेकाय — खुशाथी — जरखी के; आउ ओकर टोली पर बीस आउ चार हजार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c7e947c242a416984b28e6408e88cedfed362d0959a972f26fbec1ea51d13abe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/27\/9-12.1792010507120.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמיני",
+      "gloss": "आठमा"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीना के बर"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "आठमा"
+    },
+    {
+      "surface": "סבכי",
+      "gloss": "सिब्बेकाय"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "खुशाथी"
+    },
+    {
+      "surface": "לזרחי",
+      "gloss": "जरखी के"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ … पर"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "ओकर टोली"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "आउ चार"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-10-14T20:41:47.121464020Z",
+  "model": "glm-5.3"
+}

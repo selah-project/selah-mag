@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "अइऽ",
+      "rationale": "कथा पढ़निहार के बलावल जा रहलइ — आराधना के बोल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ברך",
+      "rationale": "'बिनती करऽ हइ' — मूल में घुटना टेक के आसीस देवे\/लेवे के क्रिया"
+    }
+  ],
+  "translation": "अइऽ हमनी दण्डवत करऽ हइ आउ हमनी घुटना टेकऽ हइ, हमनी यहवे के आगे बिनती करऽ हइ, जे हमनी के बनइलन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/95\/5-8.1792005734931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "अइऽ"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "दण्डवत करऽ हइ"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "आउ हमनी घुटना टेकऽ हइ"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "हमनी बिनती करऽ हइ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "हमनी के बनइलन हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:14.932158909Z",
+  "model": "glm-5.3"
+}

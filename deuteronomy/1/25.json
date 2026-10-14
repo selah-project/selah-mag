@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 1:25",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישבו דבר",
+      "rationale": "'बात जनै देलन' — शाब्दिक 'बात लौटैलन', अरथ हकइ जवाब देना।"
+    },
+    {
+      "kind": "addition",
+      "subject": "एगो",
+      "rationale": "मगही के बनावट में 'बात' के आगे संख्या-शब्द चाही, इब्रानी में नञ हइ।"
+    }
+  ],
+  "translation": "आउ ओनी धरती के फल अपन हाथ में लेलन, आउ हमनी के पास नीचे अनैलन, आउ हमनी के ⟨את⟩ एगो बात जनै देलन आउ कहलन — भला हकइ ओ धरती जेकरा यहवे हमनी के एलोहीम हमनी के देतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "48b94d0c530c9153dd626acbc65bfd49b575b7097124b0dd708cea1861387080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/1\/25-28.1791991997949.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "अपन हाथ में"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "नीचे अनैलन"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "हमनी के पास"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "जनै देलन"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "एगो बात"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "भला"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देतन"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:33:17.949998291Z",
+  "model": "glm-5.3"
+}

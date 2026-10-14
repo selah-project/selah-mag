@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יזכר\/ימח",
+      "rationale": "याद-रखे आउ मिटावे के उलटा-जोड़ी — याद रहे… मत मिटावऽ — 13–15 में जड़ ज-כ-र आउ מ-ח-ह के लगातार खींचाव हइ"
+    }
+  ],
+  "translation": "याद रहे ओकर बाप-दादा के अधर्म यहवे के सामने, आउ ओकर माय के पाप मत मिटावऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/109\/13-16.1792006000239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "याद रहे"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ओकर बाप-दादा के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यहवे के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "आउ पाप"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ओकर माय के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "मिटावऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:40.240265693Z",
+  "model": "glm-5.3"
+}

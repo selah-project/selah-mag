@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "वाला",
+      "rationale": "हिब्रू के हमप्रत्यय रूप के विस्तार बर मगही में 'वाला' जोड़ल गेलन"
+    }
+  ],
+  "translation": "आउ यिस्राएल (इस्राएल) के बेटा सब एहनें कइलन, आउ ओकनी बटोरलन — बेसी बटोरए वाला आउ कम बटोरए वाला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "70a8f21e66c30240b694021e481e72c58fe1929837a3782844a3f9f788fd4b03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/16\/17-20.1791988492756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहनें"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "बटोरलन"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "बेसी बटोरए वाला"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "आउ कम बटोरए वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T14:34:52.757444752Z",
+  "model": "glm-5.3"
+}

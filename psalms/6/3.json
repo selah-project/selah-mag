@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חנני\/רפאני संरचना",
+      "rationale": "छोट समानांतर फाँट सब: कृपा कर—बीमार हम, ठीक कर—हड्डी सब घबरायल, दुनू में यहवे के नाम दुहरावल हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "दू बेर सीधे सम्बोधन, बिनती के बाक्य हकइ"
+    }
+  ],
+  "translation": "यहवे, हमरा कृपा कर, काहे कि हम बीमार हइ; यहवे, हमरा ठीक कर, काहे कि हमर हड्डी सब घबरायल हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/6\/1-4.1792004431968.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "हमरा कृपा कर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "बीमार"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "हमरा ठीक कर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "घबरायल हइ"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "हमर हड्डी सब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:00:31.969549445Z",
+  "model": "glm-5.3"
+}

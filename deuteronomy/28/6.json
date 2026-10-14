@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "होतइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही वाक्य-बनावट बर जोड़ल गेलइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בואך\/צאתך",
+      "rationale": "आवे\/निकले के आर-पार जोड़ी — दुआर के दुनो ओर — मगही में बनावट रहऽ हइ बाकि इब्रानी के व्युत्क्रम टूट जातइ"
+    }
+  ],
+  "translation": "असीसित ⟨होतइ⟩ तूँ तोहर आवे में, आउ असीसित ⟨होतइ⟩ तूँ तोहर निकले में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7ba576684ab76643af980a6ddeaeadd1e8f5e6e4078ac7f2ca712657c8f30fac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/28\/5-8.1791992852827.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "असीसित"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "तोहर आवे में"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "आउ असीसित"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "तोहर निकले में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:47:32.828228104Z",
+  "model": "glm-5.3"
+}

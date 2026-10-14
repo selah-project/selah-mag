@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "शूबा",
+      "rationale": "यहवे के अगुआई में सीधा बिनती — आज्ञार्थ क्रिया"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के सम्बोधन",
+      "rationale": "गीत गावए वाला यहवे के अगुआई में बोलऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שובה\/שבותנו",
+      "rationale": "जड़ שוב के फेर दोहराव — 'फेर ले आव…लौटावा' में अंशक बचल हइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "नाला सब",
+      "rationale": "אפיקिझ सूखा नाला हकइ जे बरखा से अचानक भर जातइ — बरखा-सूखा के चित्र छवि में अंतर्निहित हइ"
+    }
+  ],
+  "translation": "यहवे, ⟨את⟩ हमर लौटावा के फेर ले आव — नेगेब के नाला सब जइसन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/126\/1-4.1792006232095.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "फेर ले आव"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर लौटावा"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "हमर लौटावा"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "नाला सब जइसन"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "नेगेब में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:32.096703692Z",
+  "model": "glm-5.3"
+}

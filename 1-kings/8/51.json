@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "लोहा के भट्ठी",
+      "rationale": "כור הברזל — मिस्र के दासता के तस्वीर, अक्षरशः कोनो भट्ठी नञ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "हिब्रू के הם जोर देके बोलल हेब्रू क्रिया हकइ; मगही क्रिया-रूप एकरा ढोहऽ हइ।"
+    }
+  ],
+  "translation": "काहे कि ऊ लोग तोहर लोग आउ तोहर बिरासत हथिन, जेकरा तोहनी मिस्रयिम (मिस्र) से निकाललन, लोहा के भट्ठी के बीच से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c317954c206d9fdfc9eedfab4adf3151c61469722d4752a1a835766769f89269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/8\/49-52.1791996989389.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहर लोग"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "आउ तोहर बिरासत"
+    },
+    {
+      "surface": "הם",
+      "gloss": "हथिन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "निकाललन"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम (मिस्र) से"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "बीच से"
+    },
+    {
+      "surface": "כור",
+      "gloss": "भट्ठी"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "लोहा के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:56:29.390418521Z",
+  "model": "glm-5.3"
+}

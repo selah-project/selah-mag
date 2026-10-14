@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחלקות יהודה לבנימין",
+      "rationale": "KJV 'यहूदा आउ बिन्यामीन में खण्ड हलन' बनाम ASV\/JPS 'यहूदा के किछु खण्ड बिन्यामीन के संग जुड़ल हलन' — लामद के जगह अस्पस्ट हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨लेल⟩",
+      "rationale": "इब्रानी के लामद के अरथ बतावे बर जोड़ल।"
+    }
+  ],
+  "translation": "आउ लेवियन में से खण्ड यहूदा के ⟨लेल⟩ बिन्यामीन के संग हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "005a2e9b8f48a86d48acab406213812259dcc0bee79ffa78fdd678b30110199c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/11\/33-36.1792009759630.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "आउ में से"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवियन"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "खण्ड"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "बिन्यामीन के लेल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:29:19.631575083Z",
+  "model": "glm-5.3"
+}

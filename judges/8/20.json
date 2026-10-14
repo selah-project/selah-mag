@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "חרבो में प्रत्यय 'ओ' के अरथ साफ करे बर मगही में 'अपन' जोड़ल गेलइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנער…נער",
+      "rationale": "एके जड़ के दोहराव — 'बुतरू तलवार नञ खींचलक…काहे कि ऊ अबहीं बुतरू हल'"
+    }
+  ],
+  "translation": "आउ ओ अपन पहिलका बेटा यितेर से कहलन, उठ, ⟨את⟩ ओकनी के मार। बाकि बुतरू अपन तलवार नञ खींचलक, काहे कि ओकरा डर लागल रहे, काहे कि ऊ अबहीं बुतरू हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1f2e675e8619b8dcfb47faaa0eddca524b2e93d1893900a990aa4b144337b6ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/8\/17-20.1791994280761.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ ओ कहलन"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "यितेर से"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "अपन पहिलका बेटा"
+    },
+    {
+      "surface": "קום",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "मार"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "खींचलक"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "बुतरू"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "अपन तलवार"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डर लागल रहे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "נער",
+      "gloss": "बुतरू हल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:11:20.763057176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ — संज्ञा-वाक्य 'नाड़ी लोहा, माथा ताँबा' में संबंध-क्रिया जोड़ल गेलन"
+    },
+    {
+      "kind": "you",
+      "subject": "याकोव के घर",
+      "rationale": "यहवे यिस्राएल के सीधे सम्बोधन में ओकर हठ के बताऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "लोहा-ताँबा",
+      "rational": "गरदन के नाड़ी-लोहा आउ माथा-ताँबा के समानान्तर बिंब — जान-बूझ के अड़ियलपन के मूर्त चित्र, संरचना A-B-A-B में बाँधल हइ",
+      "rationale": "गरदन के नाड़ी-लोहा आउ माथा-ताँबा के समानान्तर बिंब — अड़ियलपन के मूर्त चित्र"
+    }
+  ],
+  "translation": "हमर जानऽ में कि तूँ करकट हऽ, आउ तोहर गरदन के नाड़ी लोहा ⟨हकइ⟩, आउ तोहर माथा ताँबा ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cda11b13bf2b36aefddd31eb661cddcb70e94a82672595102bb5f19d6e0e5692",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/48\/1-4.1791999614344.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "हमर जानऽ में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "करकट"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "आउ नाड़ी"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "लोहा"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "तोहर गरदन"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "आउ तोहर माथा"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ताँबा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:40:14.345563802Z",
+  "model": "glm-5.3"
+}

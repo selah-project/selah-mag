@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 18:29",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אולי",
+      "rationale": "Hebrew's tentative particle rendered as a question with काहे कि अइसन त, not a standalone word"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चालीस",
+      "rationale": "The verse counts righteous persons downward as part of the bargaining sequence"
+    }
+  ],
+  "translation": "ऊ फेर होकरा बात करे बर अउर बोललक आउ कहलक, “काहे कि अइसन त ओहाँ चालीस ⟨मिलथिन⟩?” आउ ऊ कहलन, “चालीस के कारन हम ई नञ करब।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a56702be094720332b840152301de10ac427a52aa987c4a68b04d097fee8c570",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/18\/29-32.1791986751682.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अउर"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बात करे बर"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "होकरा"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "काहे कि अइसन त"
+    },
+    {
+      "surface": "ימצאון",
+      "gloss": "मिलथिन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहाँ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "करब"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "के कारन"
+    },
+    {
+      "surface": "הארבעים",
+      "gloss": "चालीस के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:05:51.683607358Z",
+  "model": "glm-5.3"
+}

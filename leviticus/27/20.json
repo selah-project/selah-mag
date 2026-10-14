@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מכר के करता",
+      "rationale": "who sells the field — the original sanctifier (KJV\/JPS) or the priest (Geneva)? hebrew leaves the subject unexpressed; rendered as the same 'ऊ'"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאיש אחר",
+      "rationale": "'to a man, another' — the apposition flattened to 'दोसर मरद'"
+    }
+  ],
+  "translation": "आउ जदि ऊ ⟨את⟩ खेत के छुड़ाबऽ नञ करऽ हइ, या जदि ऊ ⟨את⟩ खेत दोसर मरद के बेच देतइ, तब ओकर छुड़ाई अबहीं नञ होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c202af0f32b682b1bd8d2c4546fe97d260143a8af2f6609ec89e6d7ce79c965f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/27\/17-20.1791990529935.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जदि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "छुड़ाबऽ करतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खेत"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "या जदि"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "बेच देतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खेत"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मरद के"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "छुड़ाई होतइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अबहीं"
+    }
+  ],
+  "timestamp": "2026-10-14T15:08:49.936763327Z",
+  "model": "glm-5.3"
+}

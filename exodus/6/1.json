@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "तेज हाथ से",
+      "rationale": "ביד חזקה के करता अस्पस्ट हकइ — फरओह के हाथ (KJV) या यहवे के हाथ (BSB)।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओनका",
+      "rationale": "Hebrew suffixes on verbs -ם rendered as free pronoun, flagged."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "यहवे मोशे के सीधे सम्बोधन करऽ हइ।"
+    }
+  ],
+  "translation": "यहवे मोशे (मूसा) से कहलन, “अब तूँ देखबइ की हम फरओह के संग करबइ, काहे कि तेज हाथ से ऊ ⟨ओनका⟩ छोड़तइ, आउ तेज हाथ से ऊ ⟨ओनका⟩ ओकर धरती से खदेड़तइ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "47f5036d9d5fff41d85a2809118984961297c6477a6077d7432dafcda44a2dae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/6\/1-4.1791988151624.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "तूँ देखबइ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "की"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "हम करबइ"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "फरओह के संग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "तेज हाथ से"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "ऊ छोड़तइ"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "आउ तेज हाथ से"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "ऊ खदेड़तइ"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ओकर धरती से"
+    }
+  ],
+  "timestamp": "2026-10-14T14:29:11.624672917Z",
+  "model": "glm-5.3"
+}

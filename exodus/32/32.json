@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מספרך",
+      "rationale": "मוספר के अरथ 'लिखावट\/किताब'; 'किताब' रखल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשא \/ מחני",
+      "rationale": "'उठाना' बनाम 'मिटाना' के विरोधाभास — मोशे के बेनती के केंद्र, दुनो क्रिया जस के तस रखल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "पद 32 के अधूरी बाक्य",
+      "rationale": "तिशא के बाद बाक्य अधूरा छूटल हइ — 'जौं तूँ क्षमा करऽ' के बाद उत्तर-वाक्य नञ; केजेवी\/जेपीएस के तरह डैस के अधूरापन रखल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के",
+      "rationale": "मोशे यहवे के सीधे संबोधित करऽ हइ — तूँ।"
+    }
+  ],
+  "translation": "आउ अब, जौं तूँ ओकनी के पाप उठा लेहऽ — आउ जौं नञ, त तोहर किताब से, जेकरा तूँ लिखलऽ हऽ, हमरा मिटा दे ना।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0e979f3fd5d83fb954892228aaa95e5786a404435c29ff6b0e525788d6a166da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/32\/29-32.1791989244211.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जौं"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "उठा लेहऽ"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ओकनी के पाप"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आउ जौं"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "हमरा मिटा दे"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "तोहर किताब से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "लिखलऽ हऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:47:24.212858954Z",
+  "model": "glm-5.3"
+}

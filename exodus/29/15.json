@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "मोशे के आदेश",
+      "rationale": "पहिला क्रिया मोशे के तरफ, दोसर अहरोन आउ बेटा के तरफ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "האחד",
+      "rationale": "दू मेढ़ा में से पहिलका गिनती — 'एक' गिनल गेल।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ एक मेढ़ा लेबह, आउ अहरोन आउ ओकर बेटा अपन हाथ मेढ़ा के मूड़ी पर टेकबथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9add2af65bcddda5ee8f68e7d4941529b4651a20b0d414dc91cbbd2063f100f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/29\/13-16.1791989008861.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "एक मेढ़ा"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "लेबह"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "आउ टेकबथिन"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "आउ ओकर बेटा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन हाथ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "अपन हाथ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मूड़ी"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "मेढ़ा के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:43:28.862579691Z",
+  "model": "glm-5.3"
+}

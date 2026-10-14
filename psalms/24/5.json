@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מאת",
+      "rationale": "मूल में 'संग-से' अरथ के मइन्दून-पद, ⟨את⟩ परिवार के रूप; मगही में 'संग' से देखावल गेलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक",
+      "rationale": "अंग्रेजी 'righteousness\/vindication' के जगह थिर रूप त्सेदेक रखल गेलइ"
+    }
+  ],
+  "translation": "ऊ ⟨את⟩ यहवे संग असीस लेतइ आउ अपन बचाव के एलोहीम संग त्सेदेक लेतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/24\/5-8.1792004762072.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "लेतइ"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "असीस"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "आउ त्सेदेक"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "एलोहीम संग"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "अपन बचाव के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:06:02.073452177Z",
+  "model": "glm-5.3"
+}

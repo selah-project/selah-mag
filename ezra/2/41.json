@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "लोग",
+      "rationale": "मगही बहुबचन चाहऽ हइ; इब्रानी बिना जोड़ल बहुबचन हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשרים ושמנה",
+      "rationale": "इब्रानी 'बीस आउ आठ' जोड़ के गिनऽ हइ; मगही में एके सब्द 'अठाइस' होवऽ हइ"
+    }
+  ],
+  "translation": "गाना गावै बला: आसाफ (आसफ) के बेटा लोग, एक सौ अठाइस।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0948a072555a7428d7eb97acdc77b42d9d4ef9a4866e60bd57107809498de122",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/2\/41-44.1792009243101.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "गाना गावै बला"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा लोग"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "आसाफ (आसफ)"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "अठाइस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "अठाइस"
+    }
+  ],
+  "timestamp": "2026-10-14T20:20:43.101482314Z",
+  "model": "glm-5.3"
+}

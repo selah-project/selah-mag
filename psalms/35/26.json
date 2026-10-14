@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 35:26",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "लज पहिरऽ हथिन",
+      "rationale": "Hebrew „clothed with shame” — garment metaphor kept literally in Magahi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/בשת",
+      "rationale": "root בוש sound-link between the verb and noun of shame, lost in rendering"
+    }
+  ],
+  "translation": "लजावऽ हथिन आउ अपमानित होवऽ हथिन एके संग, जे हमरा बुराई पर खुस हथिन; लज आउ अपमान पहिरऽ हथिन, जे हमरा ऊपरे बड़ बनऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1a8a109cff1d3550a9527086c0ee2255af580618ec08de39586da90e95afd527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/35\/25-28.1792004899744.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "लजावऽ हथिन"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "आउ अपमानित होवऽ हथिन"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एके संग"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "खुस होए वाला"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "हमरा बुराई"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "पहिरऽ हथिन"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "लज"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "आउ अपमान"
+    },
+    {
+      "surface": "המגדילים",
+      "gloss": "बड़ बनए वाला"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ऊपरे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:08:19.745475466Z",
+  "model": "glm-5.3"
+}

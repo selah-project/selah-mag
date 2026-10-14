@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ניקम्मा लोग",
+      "rationale": "בלייעल 'बेकार\/निकम्मापन' हकइ, कोनो नाम नञ; परम्परा के अनुवाद में एकरा 'बेलियाल' नाम-सन पढ़ल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קוץ",
+      "rationale": "काँड़ा के मूरत 23:4 के नरम घास के उलटा हकइ — बरसत आउ जरैत दुनो छवि 23:7 में आगे बढ़ऽ हकइ।"
+    }
+  ],
+  "translation": "आउ निकम्मा लोग — काँड़ा-सन उखाड़िके फेंकल गेल — ओकनी सब; काहे कि हाथ से ओकनी नञ पकड़ल जाऽ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b690968deb40faef342d74d4037030699f524e865a9c91e63673a58b67c483b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/23\/5-8.1791996602820.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "आउ निकम्मा लोग"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "काँड़ा-सन"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "उखाड़िके फेंकल गेल"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "ओकनी सब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "पकड़ल जाऽ हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:50:02.821708678Z",
+  "model": "glm-5.3"
+}

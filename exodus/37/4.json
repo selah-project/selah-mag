@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "डण्डा",
+      "rationale": "בד अलग-थलग डण्डा\/मुंड़ारी हकइ — उठावे बर के लकड़ी।"
+    }
+  ],
+  "translation": "आउ ऊ शित्तिम के लकड़ी के डण्डा बनइलन आउ ⟨את⟩ ओकरा सोना चढ़ाइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1ba85dff12874f16ead7e2987442980a6b60f47329bac91de219cd554bd03b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/37\/1-4.1791989328316.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "डण्डा"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "लकड़ी के"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "शित्तिम"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "चढ़ाइलन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "डण्डा"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    }
+  ],
+  "timestamp": "2026-10-14T14:48:48.317408504Z",
+  "model": "glm-5.3"
+}

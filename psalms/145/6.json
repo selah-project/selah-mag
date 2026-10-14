@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकनी",
+      "rationale": "करता इब्रानी में किरिया के बहुबचन रूप में छिपल हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "भय-भाव कारे काम",
+      "rationale": "נוראותिच — 'भय-भाव कारे काम' बनाम 'भयावह काम'; कतुब 'terrible\/awesome' में अलग-अलग"
+    }
+  ],
+  "translation": "आउ ओकनी तोहर भय-भाव कारे काम के बल बतातइ, आउ हम तोहर बड़प्पन के बखान करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/145\/5-8.1792006379704.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "आउ बल"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "तोहर भय-भाव कारे काम"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ओकनी बतातइ"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "आउ तोहर बड़प्पन"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "हम बखान करतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:32:59.705222313Z",
+  "model": "glm-5.3"
+}

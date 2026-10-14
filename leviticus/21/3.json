@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ला-इस",
+      "rationale": "'ला-इस' — 'कोनो मरद के नञ भेल' — बियाह के इब्रानी चाल; शाब्दिक रूप रखल गेल।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "यित्तमा",
+      "rationale": "किरिया के रूप 'ऊ अशुद्ध होतइ' बनाम 'अनुमति के अरथ' (ओकर बर ऊ अशुद्ध हो सकऽ हइ) — अनुमति के अरथ लेल गेल।"
+    }
+  ],
+  "translation": "आउ अपन बहिन बर — कुँवारी, जे ओकरा नजदीक होवे, जेकर कोनो मरद नञ भेल होवे — ओकर बर ऊ अशुद्ध हो सकऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/21\/1-4.1791990213226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "आउ अपन बहिन बर"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "कुँवारी"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "नजदीक"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "भेल होवे"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "कोनो मरद के"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकर बर"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध हो सकऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:03:33.227836050Z",
+  "model": "glm-5.3"
+}

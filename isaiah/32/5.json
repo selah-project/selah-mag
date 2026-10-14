@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נדיב\/כילי",
+      "rationale": "उदार बनाम कंजूस के जोड़-विरोध, पद 8 में फिर वापस आवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "שוע",
+      "rationale": "शोआ: 'धनी-बड़ा' बनाम 'उदार\/सम्मानित' — दूनो पढ़ाव चलनसार हइ"
+    }
+  ],
+  "translation": "मूरख के अब आगू उदार नञ कहलतइ, आउ कंजूस के धनी-बड़ा नञ कहलतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "53d23cbd994253d13f78c38678c077e527f1ab8c0ae2b2241a0adedc88dff514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/32\/5-8.1791999191082.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "कहलतइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब आगू"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "मूरख के"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "उदार"
+    },
+    {
+      "surface": "ו לכילי",
+      "gloss": "आउ कंजूस के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहलतइ"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "धनी-बड़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:33:11.083155682Z",
+  "model": "glm-5.3"
+}

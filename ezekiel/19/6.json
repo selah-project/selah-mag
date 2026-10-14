@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 19:6",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לטרף טרף",
+      "rationale": "एके जड़ के दोहराव (तराफ़–तेरेफ़), क्रिया आउ बस्तु दुनो — मगही में लय के कुछ हिस्सा रह जा हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "आदमी के खइलक",
+      "rationale": "'आदमी के मांस खइलक' साफ होवतइ; इब्रानी बिना मांस के कहऽ हइ — तभी गहराया देतइ।"
+    }
+  ],
+  "translation": "ऊ सेरन के बीच घुमक, चित्तावन बनलक, आउ शिकार फाड़े सीखलक; आदमी के खइलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1da2ff61c81e6a171a547f8fd2a4dced5eda83ff3b8fc3d9ad5113e43e8450b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/19\/5-8.1792002183246.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "ऊ घुमक"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "सेरन"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "चित्तावन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बनलक"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "सीखलक"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "फाड़े"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "शिकार"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खइलक"
+    }
+  ],
+  "timestamp": "2026-10-14T18:23:03.246761594Z",
+  "model": "glm-5.3"
+}

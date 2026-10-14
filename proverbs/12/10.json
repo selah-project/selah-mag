@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नफेश गले\/प्राण-बल के नजदीक है, 'आत्मा' नहीं"
+    },
+    {
+      "kind": "irony",
+      "subject": "ורחמי...אכזרי",
+      "rationale": "विडम्बना: 'क्रूर दयाएँ' — दया का गुण शब्द दुष्टों पर लगाकर उलट दिया गया"
+    }
+  ],
+  "translation": "धरमी आदमी आपन पसु के परान जानऽ हइ, बाकि दुस्ट लोग के करुणा निठुर हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/12\/9-12.1792006646099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "जानऽ हइ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "आपन पसु"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "बाकि करुणा"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुस्ट लोग के"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "निठुर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:37:26.099870190Z",
+  "model": "glm-5.3"
+}

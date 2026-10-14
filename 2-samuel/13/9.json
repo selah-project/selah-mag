@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "המשרת",
+      "rationale": "कड़ाही के ई रूप तनाख़ में बहुते दुर्लभ हकइ; कोनो कोनो अनुवाद 'सामान' पढ़ऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותצק",
+      "rationale": "'उंडेललन' बनाम 'सामने रखलन' — हेकरा मनमाफिक ढेर पढ़ावल गेलइ"
+    }
+  ],
+  "translation": "आउ ओ ⟨את⟩ कड़ाही लेलन, आउ ओकर सामने उंडेललन; बाकि ऊ खाय बर मना करलक। आउ अम्नोन कहलन: हर एक आदमी के हमरा सामने से बाहर करऽ। आउ हर एक आदमी ओकरा सामने से बाहर गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "25f24566e105ba4fd71213a172b63ee15da504917a6aa74ae5ce01d15036175b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/13\/9-10.1792011739680.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कड़ाही"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "कड़ाही"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "उंडेललन"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकर सामने"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "मना करलक"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "खाय बर"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "अम्नोन"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "बाहर करऽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "हमरा सामने से"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "बाहर गेलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ओकरा सामने से"
+    }
+  ],
+  "timestamp": "2026-10-14T21:02:19.680969542Z",
+  "model": "glm-5.3"
+}

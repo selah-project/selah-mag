@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨पर⟩",
+      "rationale": "אתי — अलेफ-ताव के संग प्रथम-पुरुष प्रत्यय; मगही के 'हमरो असीस दऽ' में कारक जोड़ल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם",
+      "rationale": "तीन बेर 'גם' के तानाबाना — फरओन के बिसर्जन के चरमा देखावऽ हइ।"
+    }
+  ],
+  "translation": "तोहनी के भेड़ सब आउ तोहनी के गाय-बैल सब दूनों ले लऽ, जइसन तोहनी कहलन; आउ चलि जाऽ, आउ ⟨את⟩ हमरो असीस दऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "76620e60aed94179fe977203293461ff3d8388a034fbe03219bde2ff2d1081f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/12\/29-32.1791988431167.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "दूनों"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "तोहनी के भेड़ सब"
+    },
+    {
+      "surface": "גם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "तोहनी के गाय-बैल सब"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ले लऽ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "तोहनी कहलन"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "आउ चलि जाऽ"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "आउ असीस दऽ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "हमरो"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ हमरो ⟨पर⟩"
+    }
+  ],
+  "timestamp": "2026-10-14T14:33:51.169099413Z",
+  "model": "glm-5.3"
+}

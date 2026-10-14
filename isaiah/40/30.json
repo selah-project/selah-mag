@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כשול יכשלו",
+      "rationale": "क्रिया-अव्यय आउ क्रिया एके जड़ के दोहराव — पूरा गिरना; मगही में 'ठोकर खाके ठोकर खथिन' से दोहराव रखल गेलइ"
+    }
+  ],
+  "translation": "आउ लड़का-बुतरू थकथिन आउ हाँफथिन, आउ जुवान लड़का ठोकर खाके ठोकर खथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fdaeb69f6b86ea582883f02175cbebef68d791695d0f358fdeeb83bc746cdb92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/40\/29-31.1791999502720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "थकथिन"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "लड़का-बुतरू"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "हाँफथिन"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "जुवान लड़का"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "ठोकर खाके"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ठोकर खथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:38:22.720820509Z",
+  "model": "glm-5.3"
+}

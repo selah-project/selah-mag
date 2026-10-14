@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרס",
+      "rationale": "'सुरुज' बर चलनसार शेमेस के दुर्लभ रूप; कइयन अनुवाद 'चान' कहऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יזרח\/חרס",
+      "rationale": "सुरुज-उगे के जड़-मेल सुन्ना में बना रहऽ हइ।"
+    },
+    {
+      "kind": "secret",
+      "subject": "मोहर लगा देलन",
+      "rationale": "तारा सब के मोहर से बन्न करना — छुपावल बात के चिन्हा।"
+    }
+  ],
+  "translation": "जे सुरुज से कहऽ हइ आउ ऊ उगतइ नञ, आउ तारा सब पर मोहर लगा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ca3eccba68a76e3c898c1c7571bfcbab2735a7f465e54077a3c5e92815dcea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/9\/5-8.1792007258762.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "जे कहऽ हइ"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "सुरुज से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "उगतइ"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "तारा सब"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "मोहर लगा देलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:38.763596241Z",
+  "model": "glm-5.3"
+}

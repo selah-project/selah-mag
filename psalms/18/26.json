@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חסיד\/תתחסד · תמים\/תתמם",
+      "rationale": "हर पंक्ति में गुण-शब्द आउ क्रिया एके जड़ के हकइ — ऊ गूँज मगही में हेसेद आउ एक्कोस के दोहराव से रहलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हेसेद",
+      "rationale": "חסד Tier-2 नियम के मोताबिक लिप्यन्तरन, एक्को मगही सब्द में नञ घटावल"
+    }
+  ],
+  "translation": "हेसेद वाला के संग तूँ हेसेद करऽ हँ, एक्कोस वाला मनुस के संग तूँ एक्कोस रहऽ हँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/18\/25-28.1792004635314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "हेसेद वाला"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "हेसेद करऽ हँ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "एक्कोस वाला"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "एक्कोस रहऽ हँ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:55.314943292Z",
+  "model": "glm-5.3"
+}

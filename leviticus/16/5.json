@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ומאת",
+      "rationale": "मिन+את जुड़ल रूप — ⟨आउ⟩ जोड़ल गेलहे, काहे कि मगही के जोड़-सब्द आगे आवऽ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दू बकरा आउ एक मेढ़ा",
+      "rationale": "गिनती जस के तस — दू, एक — बलि के नाप के रूप में"
+    }
+  ],
+  "translation": "आउ यिस्राएल के बेटा सब के सभा में से ऊ ⟨आउ⟩ लेतइ ⟨את⟩ दू बकरा — पापबलि बर — आउ एक मेढ़ा — चढ़ावे के बलि बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/16\/5-8.1791990015091.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "⟨आउ⟩ ⟨את⟩ से",
+      "marks": "सभा (यिस्राएल के बेटा सब के)"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "लेतइ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी के"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापबलि बर"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "आउ मेढ़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "चढ़ावे के बलि बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:00:15.091742037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "पुरोहित-वंशावली",
+      "rationale": "महापुरोहित के नाम के क्रम-सूची, पीढ़ी दर पीढ़ी"
+    }
+  ],
+  "translation": "आउ येशूआ ⟨את⟩ योयाकिम के जनम देलन, आउ योयाकिम ⟨את⟩ एल्याशिव के जनम देलन, आउ एल्याशिब ⟨את⟩ योयादा के जनम देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/12\/9-12.1792009737829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "आउ येशूआ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योयाकिम"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "योयाकिम"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "आउ योयाकिम"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एल्याशिव"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "एल्याशिव"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "आउ एल्याशिब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योयादा"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "योयादा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:28:57.830466074Z",
+  "model": "glm-5.3"
+}

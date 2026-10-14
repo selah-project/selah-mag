@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 29:10",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "जीभ तालू से चिपकना",
+      "rationale": "इब्रानी डर से गूँगे हो जाएल के चित्र हकइ — एकरा तस्वीर जस के तस रखल गेल हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "आवाज",
+      "rationale": "कोल के बहुवचन इब्रानी में हइ; मगही में एकवचन सुभाविक लागऽ हइ"
+    }
+  ],
+  "translation": "सरदारनिहार के आवाज छुप गेलन, आउ ओकनी के जीभ ओकनी के तालू से चिपक गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "212d995a7bbfa5fb3c2a6c51ca66265eb8bbf9ea6845649296e03e758b484579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/29\/9-12.1792007604964.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "सरदारनिहार के"
+    },
+    {
+      "surface": "נחבאו",
+      "gloss": "छुप गेलन"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "आउ ओकनी के जीभ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ओकनी के तालू से"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "चिपक गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:53:24.965140343Z",
+  "model": "glm-5.3"
+}

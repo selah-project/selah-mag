@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "लोग",
+      "rationale": "मिदियान के जनाना — समूह-अरथ बर जोड़ल बहुबचन चिन्हा"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקנה\/חיל",
+      "rationale": "दू बेगार-पद — माल-जाल (पसु-धन) आउ धन-दौलत (बल-सम्पत्ति) — इब्रानी के बेगार आवाज मगही में अलग-अलग सब्द में बँट गेल"
+    }
+  ],
+  "translation": "यिस्राएल के बेटा सब मिदियान के जनाना ⟨लोग⟩ के आउ ओकनी के बुतरू सब के कैद कइलन, आउ ⟨את⟩ ओकनी के सब जीव-जंतु के, आउ ⟨את⟩ ओकनी के सब माल-जाल के, आउ ⟨את⟩ ओकनी के सब धन-दौलत के — सब लूट लिअन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "97413b1bef2d5e25dc63fa516d842ecfae3472f959ba2a3d114a0451a96afb93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/31\/9-12.1791991743069.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "कैद कइलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मिदियान के जनाना लोग"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिदियान"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के बुतरू सब"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "ओकनी के बुतरू"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के सब जीव-जंतु"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "जीव-जंतु"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के सब माल-जाल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "माल-जाल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के सब धन-दौलत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חיײם",
+      "gloss": "धन-दौलत"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "लूट लिअन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:29:03.069962719Z",
+  "model": "glm-5.3"
+}

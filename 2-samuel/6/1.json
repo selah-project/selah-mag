@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "तीस हजार",
+      "rationale": "चुनल लोग के गिनती — संख्या जस के तस।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויסף עוד",
+      "gloss": "'फेरु' के दूहराव — इब्रानी 'यासफ ओद' कहऽ हइ, दुनू शब्द दोहराव के भाव देकऽ हइ।"
+    }
+  ],
+  "translation": "आउ दाविद फेरु यिस्राएल (इस्राएल) के सब चुनल मरद ⟨את⟩ सभा कइलन — तीस हजार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "359a5f524f678f68d9e1f44c7cd945b98c6ab923c5849e89cc027e3642c5941b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/6\/1-4.1791996059807.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "फेरु सभा कइलन"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेरु"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के सब चुनल मरद"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "चुनल मरद"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिस्राएल (इस्राएल) के"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-10-14T16:40:59.808458148Z",
+  "model": "glm-5.3"
+}

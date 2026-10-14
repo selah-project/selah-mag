@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 4:31",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "राज काल",
+      "rationale": "मलक के क्रिया-भाव बर मगही में संज्ञा-रूप लेलक — हिब्रू कहलक हइ 'दाविद के राज करे तक'।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नाम के सूची",
+      "rationale": "नगर के सूची आउ समय के सीमा ('दाविद के राज तक') दुनो गिनती-स्वभाव के हकइ।"
+    }
+  ],
+  "translation": "आउ बेथ-मर्काबोत में, आउ खत्सर-सुसीम में, आउ बेथ-बिरी में, आउ शारायिम में — ई सब ओकनी के नगर हलन, दाविद (दाऊद) के राज काल तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "916655366969ccb70eba1bb7b2ccc34550fe31c2abbe186b85adeec72485e1fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/4\/29-32.1792009957670.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבית",
+      "gloss": "आउ बेथ-मर्काबोत में"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "मर्काबोत (रथ के घर के नाम के अंस)"
+    },
+    {
+      "surface": "ובחצר",
+      "gloss": "आउ खत्सर-सुसीम में"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "सुसीम (घोड़ा के गाँव के नाम के अंस)"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "आउ बेथ-बिरी में"
+    },
+    {
+      "surface": "בראי",
+      "gloss": "बिरी"
+    },
+    {
+      "surface": "ובשערים",
+      "gloss": "आउ शारायिम में"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ओकनी के नगर हलन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज काल"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद (दाऊद)"
+    }
+  ],
+  "timestamp": "2026-10-14T20:32:37.671592039Z",
+  "model": "glm-5.3"
+}

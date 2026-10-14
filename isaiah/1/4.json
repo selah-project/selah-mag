@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जन",
+      "rationale": "कודש इसराएल मूल में संबंध-समास हइ — 'यिस्राएल के पवित्तर' — जोड़ल जोड़ संरचना साफ़ करे बर"
+    },
+    {
+      "kind": "substitution",
+      "subject": "तिरस्कार केलन",
+      "rationale": "नאצו के अरथ 'अपमान केलन \/ रिस उठलन' दुनो होवऽ हइ; तिरस्कार लेलिए"
+    },
+    {
+      "kind": "crux",
+      "subject": "गोई के बदला 'जाति'",
+      "rationale": "गोई अउर जाति बर बिदेसी जाति बोधक सब्द हकइ — यिस्राएल बर ई शब्द खुद एक व्यंग्य हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "नזרו אחור",
+      "rationale": "'अजनबी भ गेलन — पाछे हट गेलन' दुहरा विचलन; एके एके काटल गेलइ"
+    }
+  ],
+  "translation": "हाय, पाप करै वाला जाति, अधरम से लादल लोग, बुराई करै वालन के बिया, बिगाड़ करै वाला बेटा — ओकनी यहवे ⟨את⟩ के छोड़ देलन, यिस्राएल के पवित्तर ⟨जन⟩ ⟨את⟩ के तिरस्कार केलन, पाछे हट गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fcf8e50294ec30e4c72b6fc52b5cc3730edb2bdeeff4a452c08bb582d43630e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/1\/4-4.1792011779172.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप करै वाला"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "लादल"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधरम"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बिया"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "बुराई करै वालन के"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "बिगाड़ करै वाला"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "छोड़ देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "तिरस्कार केलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के पवित्तर"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "पाछे हट गेलन"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पाछे"
+    }
+  ],
+  "timestamp": "2026-10-14T21:02:59.172797710Z",
+  "model": "glm-5.3"
+}

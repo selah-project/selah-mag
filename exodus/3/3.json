@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "'अनुरोध के कण' के मगही में साफ जगह नञ — छोड़ल"
+    },
+    {
+      "kind": "you",
+      "subject": "मोशे के अपने से",
+      "rationale": "मोशे के मन के बात, कोनो सुनैता के सोझा नञ"
+    }
+  ],
+  "translation": "आउ मोशे कहलनिए: हम टिक जातइ आउ ई पैघ दृस्टि ⟨את⟩ के देखतइ — काहे कि झाड़ी काहे नञ जरतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c635f4f1e84e7914295bea088596bb7b31b5dd6ecd2d278b0de0f11859a0f5aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/3\/1-4.1791988046131.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलनिए"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "हम टिक जातइ"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "आउ देखतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दृस्टि"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "दृस्टि"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "पैघ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "जरतइ"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "झाड़ी"
+    }
+  ],
+  "timestamp": "2026-10-14T14:27:26.132410231Z",
+  "model": "glm-5.3"
+}

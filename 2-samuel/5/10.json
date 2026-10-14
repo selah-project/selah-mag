@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוך הגדול",
+      "rationale": "'चलते आउ बढ़ते' — हिब्रू के चालू-द्वित्व क्रिया, बढ़त सफलता के चित्र"
+    }
+  ],
+  "translation": "आउ दाविद चलते-चलते बढ़ते-बढ़ते महान होते गेलन, काहे कि यहवे त्सबाओत के एलोहीम ओकर संग रहथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "549176226441194a42801fe28ea342aed0748070d7b875a313077a9fe0e36192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/5\/9-12.1791995951072.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "चलते-चलते"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "होते गेलन"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "महान बढ़ते-बढ़ते"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संग"
+    }
+  ],
+  "timestamp": "2026-10-14T16:39:11.074766085Z",
+  "model": "glm-5.3"
+}

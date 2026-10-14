@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצוא ושוב",
+      "rationale": "निकलना-लवटना के दोहराव इब्रानी के चाल हकइ; मगही में निकलत-लवटत दने ले गेलन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "निकलत आउ लवटत",
+      "rationale": "कउनो कहऽ हइ कौआ बार-बार लवटत रहलन; कउनो कहऽ हइ कि ऊ लवटलने नञ (जात रहलन)।"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ कौआ भेजलक; ऊ निकललइ, निकलत आउ लवटत रहलइ, जखन तक कि पानी धरती के ऊपर से सूख नञ गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bc3c4e86185114d3c4080e2c0c492babaed1b43f2104f7f381f4de0974f4f76f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/8\/5-8.1791986414970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "आउ भेजलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कौआ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "कौआ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "आउ निकललइ"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "निकलत रहलइ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "आउ लवटत"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जखन तक"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "सूखल"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "के ऊपर से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T14:00:14.971151060Z",
+  "model": "glm-5.3"
+}

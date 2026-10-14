@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हम",
+      "rationale": "करता सर्बनाम — इब्रानी किरिया-रूप में मौजूद, मगही के अलग सब्द चाही"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצר\/מרחב",
+      "rationale": "तंग जगह बनाम चौड़ जगह के टकराव — दुनू जगह-सब्द हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "वक्ता",
+      "rationale": "वक्ता अपन अनुभव गावऽ हइ — मंदिर में जत्था के बीच गाना जाए वाला फसह के हल्लेल"
+    }
+  ],
+  "translation": "संकट से हम याह के बोलालिए; याह चौड़ जगह में हमरा जवाब देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d1f158183503e33ea23efd3424494acda8b8320abb90d908340f6dee26a33c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/118\/5-8.1792006027226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "संकट"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "हम बोलालिए"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "हमरा जवाब देलन"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "चौड़ जगह में"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:07.227300225Z",
+  "model": "glm-5.3"
+}

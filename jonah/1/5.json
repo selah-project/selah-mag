@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 1:5",
+  "book": "jonah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "देवता",
+      "rationale": "אלהיו इहाँ दोसर जाति के देवता बर हकइ — जाति-सब्द, नाम नञ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויונה",
+      "rationale": "हिब्रू पद के विरोधी लहजा मगही में 'बाकि' से पार भेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירדם",
+      "rationale": "हिब्रू एक्के जड़ के क्रिया 1:5 आउ 1:6 (נרדם) में दोहरावऽ हइ — गहरा निद।"
+    }
+  ],
+  "translation": "आउ नाविक लोग डर गेलन, आउ हर एक अपन अपन देवता के ओर चिल्लइलन, आउ ओनी ⟨את⟩ ओ सामान जे जहाज में हलइ, समुंदर में फेंक देलन, जाहे से ऊ ओकरा से हलका हो जाए। बाकि योना जहाज के भीतर तलहटी में उतर गेलन, आउ लेट गेलन, आउ गहरा निद में डूब गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a0c7e3fbcf2dbf189bfe1c9d1a1a548e78aaf482f16ee971671b8ba9c0e34ccb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jonah\/1\/5-8.1792003767770.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "डर गेलन"
+    },
+    {
+      "surface": "המלחים",
+      "gloss": "नाविक लोग"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "चिल्लइलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "अपन अपन देवता"
+    },
+    {
+      "surface": "ויטלו",
+      "gloss": "फेंक देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ सामान"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "सामान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "באניה",
+      "gloss": "जहाज में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "להקל",
+      "gloss": "हलका हो जाए"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "ויונה",
+      "gloss": "बाकि योना"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "उतर गेलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "भीतर तलहटी"
+    },
+    {
+      "surface": "הספינה",
+      "gloss": "जहाज के"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "लेट गेलन"
+    },
+    {
+      "surface": "וירדם",
+      "gloss": "गहरा निद में डूब गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:49:27.771689304Z",
+  "model": "glm-5.3"
+}

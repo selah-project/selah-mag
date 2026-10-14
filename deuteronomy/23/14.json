@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 23:14",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אזנך",
+      "rationale": "אֶזֶר\/אֲזֵן 'फावड़ा-औजार' तनाख़ में बड़ी दुर्लभ पद हकइ; 'औजार' लेल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "על אזנך",
+      "rationale": "'तोहरा औजार पर' — परम्परा 'औजारनी के बीच में' पढ़ऽ हइ; इहाँ ऊपर-पर के रूप रखल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "निकास",
+      "rationale": "צֵאָה 'मल-मूत्र' — सभ्य सामान्य सब्द लेल गेलइ, शाब्दिक चित्र बड़ सीधा हकइ।"
+    }
+  ],
+  "translation": "आउ एक कील ⟨पहिरा⟩ तोहरा बर होतइ तोहरा औजार पर; आउ जब तूँ बाहिर बैठबइ, त ओकरा से खोदबइ, आउ लौट के तोहरा निकास के ⟨את⟩ ढाकबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2bb8bb5a35e90ff0eb67e0ca4f6134c61e4dac0df80d08fd7f5a3fa74a27ca18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/23\/13-16.1791992734856.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתד",
+      "gloss": "आउ कील"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा बर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "तोहरा औजार"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "जब तूँ बैठबइ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "וחפרתה",
+      "gloss": "आउ खोदबइ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "आउ लौट के"
+    },
+    {
+      "surface": "וכסית",
+      "gloss": "आउ ढाकबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहरा निकास"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "तोहरा निकास"
+    }
+  ],
+  "timestamp": "2026-10-14T15:45:34.857548149Z",
+  "model": "glm-5.3"
+}

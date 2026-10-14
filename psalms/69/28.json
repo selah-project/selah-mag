@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצדקתך",
+      "rationale": "'तोहर त्सेदेक में अइतइ' — अरथ खुलल हकइ: न्याय में भाग बनाम धार्मिक लोग के संगति में प्रवेस"
+    }
+  ],
+  "translation": "पाप ऊपर ओकनी के पाप जोड़ दे, आउ ओकनी तोहर त्सेदेक में नञ अइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fe724e736e71c79b85457f0e579e62b74e39481f1b0c1b3c034f1a763c946f46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/69\/25-28.1792005372228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "जोड़ दे"
+    },
+    {
+      "surface": "עון",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ओकनी के पाप"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ओकनी अइतइ"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "तोहर त्सेदेक में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:12.229645467Z",
+  "model": "glm-5.3"
+}

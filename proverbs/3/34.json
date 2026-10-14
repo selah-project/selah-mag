@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "अगर",
+      "rationale": "אם: 'अगर' (YLT, JPS) बनाम 'निश्चित' (KJV, ASV) — बाक्य प्रश्न जइसन कि दोसरा पहिरा वाला घोसना"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ללצים\/יליץ",
+      "rationale": "एके जड़ के दोहराव — 'जे ताना मारथिन, ओकरा ताना मारल जा हइ' — मगही में जड़-मेल रखल गेल"
+    }
+  ],
+  "translation": "अगर ताना मारय वाला के ऊहे ताना मारथिन, बाकि दीन-दुखी के ऊ कृपा देथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4c2febe255b67608ce402a341d5dff6805a7c4e4fb5fe890ffabef4f6ffedd2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/3\/33-35.1792006479522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "ताना मारय वाला के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "ताना मारथिन"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "बाकि दीन-दुखी के"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देथिन"
+    },
+    {
+      "surface": "חן",
+      "gloss": "कृपा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:34:39.523735945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קדוש ישראל",
+      "rationale": "'यिस्राएल के पवित्तर' (सम्बन्ध-सम्प्रदान) बनाम 'ओ पवित्तर, यिस्राएल के संत' — इब्रानी पद-गठन परति रूप लेलक।"
+    },
+    {
+      "kind": "addition",
+      "subject": "तूँ",
+      "rationale": "יושבת इस्त्री-लिंगी विशेषण हकइ; मगही में सम्बोधित के खातिर ⟨तूँ⟩ जोड़ल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "जियोन",
+      "rationale": "इस्त्री-लिंगी एकवचन संबोधन: जियोन में बसल जनता के तरफ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "पूरा पद",
+      "rationale": "दू परति-सब्द — हर्स मनावऽ, चिल्लावऽ — जियोन के बुलावऽ।"
+    }
+  ],
+  "translation": "हर्स मनावऽ आउ जोसे से चिल्लावऽ, जियोन (सियोन) में बसल तूँ, काहे कि तोहर बीच बड़ हथिन यिस्राएल के पवित्तर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "02bb020b015ec647b5d0428066602a3f74d465d47bb96e4e3e96048daf9ea384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/12\/5-6.1791998711488.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "हर्स मनावऽ"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "आउ जोसे से चिल्लावऽ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "बसल तूँ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "जियोन (सियोन)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तोहर बीच"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:25:11.488894195Z",
+  "model": "glm-5.3"
+}

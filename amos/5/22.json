@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "amos 5:22",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "हिब्रू के खंडन-जोड़ 'जद्यो...तो भी' — मगही में 'जद्यो' से अनुवाद"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מריאיכ׮",
+      "rationale": "मरिय = बाड़े में खुआयल पसु; 'मोटा माल-जाल' के साक्षात् चित्र"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "यहवे के सम्बोधन जारी"
+    }
+  ],
+  "translation": "जद्यो तोहनी हमरा बर दग्ध-बलि आउ ⟨तोहनी के⟩ मिन्हा चढ़ाब, ऊ हमनी के रुचब नञ; आउ तोहनी के मोटा माल-जाल के शेलम-बलि के हम देखब नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d5eaed421cdd709104698850b82996d13217bc65fe642a6efecda9189b37aa96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/5\/21-24.1792003547557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जद्यो"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "चढ़ाब"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "दग्ध-बलि"
+    },
+    {
+      "surface": "ומנחתיכם",
+      "gloss": "आउ तोहनी के मिन्हा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "रुचब"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "आउ शेलम-बलि"
+    },
+    {
+      "surface": "מריאיכם",
+      "gloss": "तोहनी के मोटा माल-जाल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "देखब"
+    }
+  ],
+  "timestamp": "2026-10-14T18:45:47.558011578Z",
+  "model": "glm-5.3"
+}

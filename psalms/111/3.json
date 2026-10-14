@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "में \/ हकइ",
+      "rationale": "इब्रानी संज्ञा-वाक्यांश हकइ; मगही के बनावट बर जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "ओकर काम में तेज आउ सोहबत हकइ, आउ ओकर त्सेदेक सदा बर ठाढ़ रहऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/111\/1-4.1792005982473.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "आउ सोहबत"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ओकर काम में"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "आउ ओकर त्सेदेक"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ठाढ़ रहऽ हइ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "सदा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:22.474263943Z",
+  "model": "glm-5.3"
+}

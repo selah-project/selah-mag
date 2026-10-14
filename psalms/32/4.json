@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשדי",
+      "rationale": "'बल\/रस' बनाम 'ओस' (नमी) — KJV 'moisture' बनाम JPS 'sap'; इब्रानी शब्द तेज\/सतेज बोलऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בחרבני קיץ",
+      "rationale": "'सोनहा-सूखा' — गरमी के जिरावट के समय; शाब्दिक तस्वीर रखल गेलइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "संगीत बिराम-चिन्हा, सेला रूप में रखल; मगही में अनुवाद नञ"
+    }
+  ],
+  "translation": "काहे कि दिन आउ रात तोहर हाथ हमरा ऊपर भारी रहलइ; हमरा के बल उजड़ित गेलइ, जइसन गरमी के सोनहा बनल जाल जाए। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "597c22f8483057877c4c741b33466b7b61002057e18ba7a0843808bc5ed6349b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/32\/1-4.1792004898972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "וליײה",
+      "gloss": "आउ रात"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "भारी रहलइ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ऊपर"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तोहर हाथ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "उजड़ित गेलइ"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "बल"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "गरमी के"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "सोनहा"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:08:18.973142972Z",
+  "model": "glm-5.3"
+}

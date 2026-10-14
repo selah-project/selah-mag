@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आगाम",
+      "rationale": "मगही के बनावट बर जोड़ल सर्बनाम; इब्रानी में नञ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרוץ",
+      "rationale": "चुस्त\/मेहनती बनाम तेज-तर्रार; दुनो पढ़ाव मिललइ हे"
+    }
+  ],
+  "translation": "चुस्त मनुस के सोच-विचार खाली बेसी बर होवऽ हइ, आउ जे जल्दबाजी करऽ हइ ओकर ⟨आगाम⟩ खाली कमी बर होवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "27aad930d67a940aa885ec55b748c65c7b54c0bb1e5cc68cd65085cdd1dda1db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/21\/5-8.1792006802129.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "सोच-विचार"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "चुस्त"
+    },
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "बेसी बर"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "जल्दबाजी करऽ हइ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "कमी बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:02.130489268Z",
+  "model": "glm-5.3"
+}

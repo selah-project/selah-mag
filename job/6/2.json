@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 6:2",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שקול ישקל",
+      "rationale": "infinitive absolute + verb repetition — 'weighed it were weighed', intensity lost in Magahi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "balances",
+      "rationale": "Job asks that his grief be weighed on scales"
+    }
+  ],
+  "translation": "काश! हमर क्रोध तौलल जातइ, आउ हमर बिपत्ति तराजू में एकट्ठा उठाओल जातइ!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "44b7843de4c716c309f2ab5718dd17e7424319d2ab823c76e2ca82a48c8823b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/6\/1-4.1792007234150.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "काश"
+    },
+    {
+      "surface": "שקול",
+      "gloss": "तौलल"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "तौलल जातइ"
+    },
+    {
+      "surface": "כעשי",
+      "gloss": "हमर क्रोध"
+    },
+    {
+      "surface": "והיתי",
+      "gloss": "आउ हमर बिपत्ति होतइ"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "तराजू में"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "उठाओल जातइ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एकट्ठा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:14.150811479Z",
+  "model": "glm-5.3"
+}

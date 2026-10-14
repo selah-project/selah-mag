@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וירב\/ריבי",
+      "rationale": "क्रिया आउ कर्म एके जड़ (ריב) से — झगड़ा के झगड़ा करना — जड़-मेल बचल हइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וישפטני",
+      "rationale": "'हमरा नियाव देतइ' बनाम 'हमरा छुड़ातइ' — नियाव में विच्छेद (vindicate) के अरथ भी हइ"
+    }
+  ],
+  "translation": "आउ यहवे ⟨את⟩ दन्दाधीस रहतइ आउ हमर आउ तोहर बीच में नियाव करतइ, आउ देखतइ आउ हमर झगड़ा के बिचार करतइ, आउ हमरा तोहर हाथ से छुड़ातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e4dcc5c4ac3be39a5aae070f65a31cf6004fc5746311398fed654aa00e979630",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/24\/13-16.1791995511468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ रहतइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "दन्दाधीस"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "आउ नियाव करतइ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "हमर बीच में"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "आउ तोहर बीच में"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "आउ देखतइ"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "आउ बिचार करतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर झगड़ा के"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "हमर झगड़ा के"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "आउ छुड़ातइ हमरा"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "तोहर हाथ से"
+    }
+  ],
+  "timestamp": "2026-10-14T16:31:51.469174739Z",
+  "model": "glm-5.3"
+}

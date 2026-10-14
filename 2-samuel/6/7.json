@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 6:7",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השל",
+      "rationale": "'गलती' — ई सब्द तनाख़ में खाली इहे जगह आवऽ हइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אף יהוה",
+      "rationale": "मूल रूप 'यहवे के नथुना भड़कल' — कोप के इब्रानी चित्र, मगही में सादा 'कोप' लेल गेल"
+    }
+  ],
+  "translation": "आउ यहवे के कोप उज्जा पर भड़कलन, आउ एलोहीम ओकरा ओही जगह ओकर गलती के कारण मारलन, आउ ऊ ओही जगह एलोहीम के सन्दूक के साथ मर गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "99189915eaf72642e10d5faa67746224728450704f4fc4027ba533f283139233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/6\/5-8.1791995993899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "भड़कलन"
+    },
+    {
+      "surface": "אף",
+      "gloss": "कोप"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בעזה",
+      "gloss": "उज्जा पर"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओही जगह"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "השל",
+      "gloss": "गलती"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर गेलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओही जगह"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:39:53.900021574Z",
+  "model": "glm-5.3"
+}

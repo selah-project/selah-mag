@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 8:50",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פשעיהם\/פשעו",
+      "rationale": "एके जड़ के दोहराव — अवज्ञा के नाम आउ काम दूनो में पशע के ध्वनि दोहराव हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחמים\/רחמום",
+      "rationale": "दया देना आउ दया करना — एके जड़ रחם के परति बुनावट।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לך\/בך",
+      "rationale": "हिब्रू कहऽ हइ 'तोहर के बिरुद्ध पाप केलन' — पूरा बिनती के हिस्सा।"
+    }
+  ],
+  "translation": "आउ माफ करब तोहर लोग के, जे तोहर बिरुद्ध पाप केलन, आउ ओकनी के सब अवज्ञा जेमें ओकनी तोहर ऊपर अवज्ञा केलन; आउ ओकनी के दया देब ओकनी के कैद करे वाला के आगे, आउ ऊ लोग ओकनी पर दया करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c317954c206d9fdfc9eedfab4adf3151c61469722d4752a1a835766769f89269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/8\/49-52.1791996989389.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסלחת",
+      "gloss": "आउ माफ करब"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "तोहर लोग के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "पाप केलन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर बिरुद्ध"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "अवज्ञा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेमें"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "अवज्ञा केलन"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहर ऊपर"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "आउ देब"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "दया"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "שביהם",
+      "gloss": "ओकनी के कैद करे वाला"
+    },
+    {
+      "surface": "ורחמום",
+      "gloss": "दया करतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:56:29.390264927Z",
+  "model": "glm-5.3"
+}

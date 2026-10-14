@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בדאלהים הללנו",
+      "rationale": "हलल के अरथ चमकना\/बड़ाई करना; KJV के 'boast' के जगह मगही में 'बड़ाई कइलिए' लिहल गेलइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "संगीत-विराम चिन्हा; लिप्यन्तरन 'सेला' जस के तस रखल गेलइ।"
+    }
+  ],
+  "translation": "एलोहीम में हमनी सब पूरा दिन बड़ाई कइलिए, आउ तोहर नाम के सदा बर सुकरिया देबइ। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c4a954122efda5723568be6f51f7f4c966bca802f8bdcaff4575d7f26d555a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/44\/9-12.1792005066466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "एलोहीम में"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "बड़ाई कइलिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "आउ तोहर नाम के"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "सुकरिया देबइ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:06.467173393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צו לצו קו לקו",
+      "rationale": "staccato baby-babble mimicry, all short rhyming syllables; partly kept by short Magahi words but sound-play lost"
+    },
+    {
+      "kind": "crux",
+      "subject": "हुकुम ऊपर हुकुम",
+      "rationale": "read as genuine Torah-teaching line-by-line, or as mockery of the prophets' stammering — context (v.9) favors the mocking echo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מाप-डोरी",
+      "rationale": "קו is a measuring cord, builder's line"
+    }
+  ],
+  "translation": "काहे कि हुकुम ऊपर हुकुम, हुकुम ऊपर हुकुम, माप-डोरी ऊपर माप-डोरी, माप-डोरी ऊपर माप-डोरी, तनी तिया, तनी तिया।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a1e58da1d627cba7d7308cf88327d072fa531b1a05a0d6d50c9d2e528f7cdaa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/28\/9-12.1791999028254.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "צו",
+      "gloss": "हुकुम"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ऊपर हुकुम"
+    },
+    {
+      "surface": "צו",
+      "gloss": "हुकुम"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ऊपर हुकुम"
+    },
+    {
+      "surface": "קו",
+      "gloss": "माप-डोरी"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ऊपर माप-डोरी"
+    },
+    {
+      "surface": "קו",
+      "gloss": "माप-डोरी"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ऊपर माप-डोरी"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "तनी"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तिया"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "तनी"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तिया"
+    }
+  ],
+  "timestamp": "2026-10-14T17:30:28.255073496Z",
+  "model": "glm-5.3"
+}

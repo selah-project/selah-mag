@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישאלום",
+      "rationale": "क्रिया के तालमेल: 'ओकनी माँगलक आउ ओकनी देलक' बनाम 'ओकनी उधार देलक' — हिब्रू पियल दुनो अरथ सकह"
+    },
+    {
+      "kind": "crux",
+      "subject": "וינצלו",
+      "rationale": "'लूट लेलन' \/ 'खाली क देलन' — नित्सल के दू अरथ: छीन लेना या बच निकलना"
+    }
+  ],
+  "translation": "आउ यहवे ओ परजा के ⟨את⟩ अनुग्रह मिस्रयिम (मिस्र) के लोग के आँख में देलन, आउ ओकनी ओकरा देलक; आउ ओकनी मिस्रयिम के लोग के ⟨את⟩ लूट लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dee89cab50acc11b6e2a9a7235c4cad3cc5547e49e720e6db3e5656404e824fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/12\/33-36.1791988410076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अनुग्रह"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ओ परजा के"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँख में"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के लोग"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "आउ ओकनी ओकरा देलक"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "आउ ओकनी लूट लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मिस्रयिम के लोग के"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T14:33:30.078001511Z",
+  "model": "glm-5.3"
+}

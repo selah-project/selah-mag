@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "बिनती-कण मूल में ⟨⟩ में जोड़ल गेलइ, क्रिया में घुलल नञ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "अइयोब यहवे के सीधे सम्बोधन करऽ हथिन — सुनऽ, देतै"
+    },
+    {
+      "kind": "invitation",
+      "subject": "सुनऽ रहा",
+      "rationale": "अपील कइल गेलइ जे सुनावऽ जाउ"
+    }
+  ],
+  "translation": "सुनऽ रहा, आउ हम बोलतइ; हम तोहरा से पुछतइ, आउ तूँ हमरा जानकारी देतै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "337925b4f59c9019b8c09265db7d608bfdf6cab2189c43495973388eb421693a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/42\/1-4.1792007923245.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ रहा"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨बिनती हकइ⟩"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "आउ हम"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बोलतइ"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "हम तोहरा से पुछतइ"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "आउ तूँ हमरा जानकारी देतै"
+    }
+  ],
+  "timestamp": "2026-10-14T19:58:43.246369199Z",
+  "model": "glm-5.3"
+}

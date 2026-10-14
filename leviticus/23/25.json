@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אִשֶּׁה",
+      "rationale": "शाब्दिक रूप से 'आग के भेंट' — आग जरे वाली भेंट; 'बलि' अकेले चित्र हानि करतइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "לֹא תַעֲשׂוּ",
+      "rationale": "करता 'तोहनी' मगही में किरिया-रूप में छिपल हे, अलग सब्द नञ।"
+    }
+  ],
+  "translation": "कौनो सेवा-काम नञ करब, आउ यहवे के आग-भेंट नजिक लेआब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e5b1287b60357a7cc0026e1357b27fb487a49af873b0131cdb162705ea793e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/23\/25-28.1791990396973.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "कौनो"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करब"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "आउ नजिक लेआब"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "आग-भेंट"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:06:36.973734433Z",
+  "model": "glm-5.3"
+}

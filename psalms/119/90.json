@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी पद में क्रिया नञ हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדר ודר",
+      "rationale": "एके सब्द दू बेर जोड़ से — पीढ़ी से पीढ़ी तक — इब्रानी के जोड़-रचना मगही में बचल हइ"
+    }
+  ],
+  "translation": "पीढ़ी से पीढ़ी तक तोहर सच्चाई ⟨हकइ⟩; धरती के बनइलन, आउ ऊ ठाढ़ रहऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/89-92.1792006116364.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "पीढ़ी से"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "पीढ़ी तक"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "तोहर सच्चाई"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "आउ ऊ ठाढ़ रहऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:36.364982521Z",
+  "model": "glm-5.3"
+}

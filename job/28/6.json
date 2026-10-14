@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 28:6",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी बनावट-बाक्य हकइ; क्रिया-संबंध जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "धूरी",
+      "rationale": "עפרות पिसल धूरी-मिट्टी हकइ — सोना के बूँक-सा अरथ के संग"
+    }
+  ],
+  "translation": "सप्पायर के जगह ⟨हथिन⟩ ओकर पत्थल, आउ ओकर बर धूरी सोना हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8297eed3fe485dcd7ab9fa6e14f88d233b07233602ed65c18249473b8b237e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/28\/5-8.1792007592077.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "सप्पायर"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "ओकर पत्थल"
+    },
+    {
+      "surface": "ועפרת",
+      "gloss": "आउ धूरी"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:53:12.078622741Z",
+  "model": "glm-5.3"
+}

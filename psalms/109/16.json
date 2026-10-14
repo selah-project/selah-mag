@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למותת",
+      "rationale": "'मारे बर' — मौत तक पीछा करना या मार डाले के मतलब बदले; कत्तुट दोनों पढ़निहार रखऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר\/זכרם",
+      "rationale": "14 के 'याद रहे' आउ 15 के 'स्मृति' एके जड़ ज-כ-र — जे याद नञ रखलक, ओकरा स्मृति मेटावे के बात हइ"
+    }
+  ],
+  "translation": "काहे कि ऊ हेसेद करे के याद नञ रखलक, बाकि दुखियार आदमी आउ कंगाल के पीछा कइलक — मारे बर दुखल हिरदय के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/109\/13-16.1792006000239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "याद रखलक"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "करे के"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "बाकि पीछा कइलक"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुखियार"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "आउ कंगाल"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "आउ दुखल"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "मारे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:40.240557653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "פיץ दन्त-אपमार्क प्रत्यय वाला रूप हकइ — ओकरा ⟨את⟩ चिन्हा के रूप में देखावल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बतास",
+      "rationale": "רוח के नियम के मोताबिक एके रूप 'बतास' लेल गेल — बतास\/साँस\/आत्मा तीन अरथ एके सब्द में।"
+    }
+  ],
+  "translation": "तूँ ओकनी के झाड़बइ, आउ बतास ओकनी के उड़ा देतै, आउ झटका-बतासी ओकनी ⟨את⟩ के बिखेर देतै; आउ तूँ यहवे में खुस होबइ, यिस्राएल के पवित्तर में तोहर बड़ाई होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1ebdc0419e297c2b4d710416ff0969004b819ae250f2d5a19c3b620c0c139e8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/41\/13-16.1791999484730.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "तूँ ओकनी के झाड़बइ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आउ बतास"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "ओकनी के उड़ा देतै"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "आउ झटका-बतासी"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "बिखेर देतै"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के (पहाड़ आउ टीला के टुकड़ा के)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "תגיײ",
+      "gloss": "खुस होबइ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे में"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "पवित्तर में"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "तोहर बड़ाई होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:38:04.731624687Z",
+  "model": "glm-5.3"
+}

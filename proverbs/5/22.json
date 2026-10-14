@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יתמך",
+      "rationale": "शाब्दिक अरथ 'टेक देना\/धरे रखना' हकइ; 'बान्हल रहना' रूपक बनावल गेलइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לכד\/חבל",
+      "rationale": "जाल में फँसावे आउ रस्सी में बान्हे के चित्र — शिकार के भासा, मगही में चित्र बचलइ हे"
+    }
+  ],
+  "translation": "ओकर अपराध ही ⟨את⟩ दुष्ट के पकड़ लेतइ, आउ ओकर पाप के रस्सी में ओकरा बान्हल रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b802cf376f5e998710d0f74f02db44d05d94574c1cb2773fb7516b6370b71688",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/5\/21-23.1792006445655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "ओकर अपराध"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "पकड़ लेतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दुष्ट के"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "आउ रस्सी में"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ओकर पाप के"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "बान्हल रहतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:34:05.656140761Z",
+  "model": "glm-5.3"
+}

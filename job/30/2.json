@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כלח",
+      "rationale": "दुर्लग सब्द — ‘पूरा उमिर \/ बुढ़ापा के ताकत’: किछु अनुवाद ‘जवानी के ताकत बिनस गेल’ पढ़ऽ हथिन, किछु ‘बुढ़ापा’।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "आबד כלח",
+      "rationale": "दोसर पढ़ाई: ‘ओकरा ऊपर उमिर के ताकत पहिले ही बिनस गेलइ हलइ’ — भूतकाल के रूप में।"
+    }
+  ],
+  "translation": "आउ खुश — ओकर हाथ के ताकत हमरा काहे बर? ओकरा ऊपर पूरा उमिर बिनस गेलइ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/30\/1-4.1792007703978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "आउ खुश"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ओकर हाथ के"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे बर"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "बिनस गेलइ हे"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "पूरा उमिर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:55:03.978955739Z",
+  "model": "glm-5.3"
+}

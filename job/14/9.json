@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 14:9",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קציר",
+      "rationale": "मूल शब्द फसल\/कटाई के हकइ; ठेठ अनुवाद 'डाल-पत्तर' कहऽ हइ — काहे कि गाछ के नव बढ़ाव के तुक हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפרח \/ נטע",
+      "rationale": "פרח (फूल\/कली) आउ נטע (रोपल) के गाछ के जीवित होवे के चित्र, आदमी के तुलना के तनु"
+    }
+  ],
+  "translation": "पानी के गन्ध से ऊ कली फोड़तइ आउ रोपल गाछ जइसन डाल-पत्तर बनइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f5883ca82d29d0ca4117c77add83c358672af30a499eb265053c30c4111b34ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/14\/9-12.1792007327762.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מריח",
+      "gloss": "गन्ध"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "कली फोड़तइ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "बनइतइ"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "डाल-पत्तर"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "रोपल गाछ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:48:47.762881522Z",
+  "model": "glm-5.3"
+}

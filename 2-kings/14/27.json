@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 14:27",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के बात",
+      "rationale": "इब्रानी के क्रिया बिना संज्ञा हकइ; मगही बाक्य बनावे बर जोड़लन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר…למחות",
+      "rationale": "कहलन-मेटावे के सामना — बचन बनाम नाम मेटावे के विपरीत ढाँचा।"
+    }
+  ],
+  "translation": "आउ यहवे अकास के नीचे से यिस्राएल के नाम ⟨את⟩ मेटावे के बात नञ कहलन — बाकि ओकनी के यारबाम बेटा योआस के हाथ से छुटकारा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d093b066989eccba0ba6c44a06b7dee63ba01adc30dd6ad57a2f7167d71bd449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/14\/25-28.1791998120094.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "मेटावे के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "नीचे से"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ओकनी के छुटकारा देलन"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यारबाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआस"
+    }
+  ],
+  "timestamp": "2026-10-14T17:15:20.095910892Z",
+  "model": "glm-5.3"
+}

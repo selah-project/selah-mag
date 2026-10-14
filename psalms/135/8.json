@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "मारलन",
+      "rationale": "मिस्र के सब पहिला-जनम के मारल जाना — अखिलेस के बरनन, मापे वाला ढाँचा आदमी से पसु तक।"
+    }
+  ],
+  "translation": "जे मिस्रयिम (मिस्र) के पहिला-जनम के मारलन, आदमी से ले के पसु तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/135\/5-8.1792006229472.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "जे मारलन"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "पहिला-जनम के"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "आदमी से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले के … तक"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "पसु"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:29.473506004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ותאכל",
+      "rationale": "'खा गेलइ' — इब्रानी के खाने के किरिया बर जरावे के अरथ, जस के तस रखल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בתעलה",
+      "rationale": "गड्ढा \/ नाली — पानी भरल खाली के अरथ हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "את के पाँच दोहराव",
+      "rationale": "एके किरिया के पाँच वस्तु पर पाँच ⟨את⟩ — सूची के ढाँचा, मगही में जस के तस।"
+    }
+  ],
+  "translation": "आउ यहवे के आग गिरलइ आउ ⟨את⟩ पूरा बलि आउ ⟨את⟩ लकड़ी के खम्भा आउ ⟨את⟩ पत्थल सब आउ ⟨את⟩ धूरी खा गेलइ, आउ गड्ढा में जे ⟨את⟩ पानी हलइ ओकरा चाटि लेलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e73263b2b224ed270ab18371faed27b323945380c3fc4ae3262dbdbd1b3b0a08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/18\/37-40.1791997469265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "आउ गिरलइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "आउ खा गेलइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा बलि"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "पूरा बलि"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "लकड़ी के खम्भा"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "लकड़ी के खम्भा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पत्थल सब"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "पत्थल सब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "धूरी"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "धूरी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पानी"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "गड्ढा में"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "चाटि लेलक"
+    }
+  ],
+  "timestamp": "2026-10-14T17:04:29.266430991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נתש…נתוש",
+      "rationale": "एके जड़ के दोहराव — उखाड़बइ आउ उखाड़ के — क्रिया के पूरा होवे के दोहरी पुस्टि, मगही में जड़-दोहराव बचावल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נאם יהוה",
+      "rationale": "अनुसासन के थिर रूप: यहवे के बचन — 'कहते हैं' नञ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "ההוא",
+      "rationale": "हिन्दी-मगही के 'ऊ जाति' पहिले से दूरी संकेत रखऽ हइ, एहे से 'तेइस' के अतिरिक्त पद छोटलइ।"
+    }
+  ],
+  "translation": "आउ जँ ऊ लोग नञ सुनहथिन, तब हम ⟨את⟩ ऊ जाति के एखनी उखाड़बइ — उखाड़ के नस्ट करबइ — यहवे के बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3bf16125604b4b9b6242544935f485eac6e5a1b15f83f722058cc61b3aa4000a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/12\/17-17.1792000438675.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "सुनहथिन"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "तब हम एखनी उखाड़बइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊ जाति"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ऊ जाति"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "तेइस"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "उखाड़ के"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "आउ नस्ट करबइ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:53:58.676025406Z",
+  "model": "glm-5.3"
+}

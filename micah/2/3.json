@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 2:3",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebrew היא lacks a copula; Magahi needs ⟨हकइ⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשב",
+      "rationale": "YHWH 'devises' evil against the devisers of v.1 — same verb returned as judgment"
+    },
+    {
+      "kind": "you",
+      "subject": "to the oppressors",
+      "rationale": "second-person plural address shifts from the woe-lament to direct threat"
+    }
+  ],
+  "translation": "एहे से यहवे एना कहलन — देखऽ, हम एहे परिवार के ऊपर बुराई गढ़ऽ हिअइ, जेकरा से तोहनी आपन गरदन ओहिने से नञ हटाबऽ, आउ तोहनी अकड़ी के नञ जाबऽ, काहे कि ऊ बुरा समय हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "26cfdd4910736fa914ba2a051f8ef74326e406c0fd4bb09b82e4ac5ac8dfa2ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/2\/1-4.1792003768344.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "देखऽ, हम"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "गढ़ऽ हिअइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "एहे परिवार"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एहे"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תמישו",
+      "gloss": "हटाबऽ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ओहिने से"
+    },
+    {
+      "surface": "צוארתיכם",
+      "gloss": "तोहनी के गरदन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "जाबऽ"
+    },
+    {
+      "surface": "רומה",
+      "gloss": "अकड़ी के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ ⟨हकइ⟩"
+    }
+  ],
+  "timestamp": "2026-10-14T18:49:28.345234995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 29:28",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "הנסתרת",
+      "rationale": "छिपल बात यहवे के हक — गुप्त बात के हिब्रू विभाजन, सार्वजनिक रूप से नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "לעשות",
+      "rationale": "इसरायली 'मान के चले बर' बनाम 'करे बर' — क्रिया पूरा करे के अरथ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "ל preposition",
+      "rationale": "हिब्रू में 'के लेखा' — मगही के संज्ञा-पद में ⟨हक⟩ जोड़ल गेल।"
+    }
+  ],
+  "translation": "छिपल बात ⟨हक⟩ यहवे हमर एलोहीम के हकइ; बाकि प्रगट बात हमनी के आउ हमनी के बेटा ⟨את⟩ सब के, सदा लेखा, ई तोरा के ⟨आदेस⟩ ⟨मान के चले⟩ बर — ⟨कि हमनी⟩ ⟨मान के चलिअइ⟩ ⟨एकरा⟩ ⟨सब⟩ बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0e8584e7b9231f98c662e8fcb50569728e17ce6805964f111b3e799a18f94547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/29\/25-28.1791992932939.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנסתרת",
+      "gloss": "छिपल बात"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "והנגלת",
+      "gloss": "बाकि प्रगट बात"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "ולבנינו",
+      "gloss": "आउ हमनी के बेटा सब के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सदा लेखा"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "मान के चले बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब बचन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T15:48:52.940766796Z",
+  "model": "glm-5.3"
+}

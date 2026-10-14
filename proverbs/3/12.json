@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "जइसन बाप",
+      "rationale": "וכאב = 'आउ जइसन एक बाप' — तुलना खम्भा, बाक्य के ढाँचा हकइ"
+    }
+  ],
+  "translation": "काहे कि यहवे ओकरा ताड़ना देथिन जेकरा ⟨את⟩ ओ परेम करऽ हथिन — जइसन बाप ⟨आदर⟩ ⟨את⟩ बेटा के जेकरा में ओकर मन लागलइ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3ae0f6e911489f8f4e860ffe2516c72982e0b8c5bf1a37d138e8667248fc0266",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/3\/9-12.1792006476659.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जेकरा (यहवे जकरा परेम करऽ हथिन)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "परेम करऽ हथिन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ताड़ना देथिन"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "जइसन बाप"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बेटा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "जेकरा में मन लागलइ हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:34:36.660356340Z",
+  "model": "glm-5.3"
+}

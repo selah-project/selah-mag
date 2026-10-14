@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפश परान-प्राण हकइ, आत्मा नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "השאננים",
+      "rationale": "'आराम में रहे वाला' बनाम 'घमंडी' — अरथ के दुइ धार"
+    }
+  ],
+  "translation": "बहुते भर गेल हकइ हमनी के परान — आराम में रहे वाला के तानी से, घमंडी लोग के अपमान से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/123\/1-4.1792006240029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "भर गेल हकइ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨एकरा⟩"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "हमनी के परान"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "तानी"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "आराम में रहे वाला के"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "अपमान"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "घमंडी लोग के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:40.030381972Z",
+  "model": "glm-5.3"
+}

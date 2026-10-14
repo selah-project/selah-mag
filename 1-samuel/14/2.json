@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 14:2",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गिबआ",
+      "rationale": "הגבעה ए ठाम जगह के नाम (गिबआ) हकइ, शाब्दिक 'टेकरी' नञ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "छह सौ",
+      "rationale": "शाउल के संग लोग के गिनती — लगभग छह सौ मनुस।"
+    }
+  ],
+  "translation": "आउ शाउल मिग्रोन में गिबआ के किनारा पर अनार के गाछ तले बैठल रहलक, आउ जे लोग ओकर संग हलन, लगभग छह सौ मनुस।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f3f239d979def61dfaad2a9f51b974d0d853c812f13eba13dc1898ace168f51e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/14\/1-4.1791995170382.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "आउ शाउल"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बैठल रहलक"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "किनारा पर"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "गिबआ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तले"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "अनार के गाछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "मिग्रोन में"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "आउ लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संग"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "लगभग छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुस"
+    }
+  ],
+  "timestamp": "2026-10-14T16:26:10.383558012Z",
+  "model": "glm-5.3"
+}

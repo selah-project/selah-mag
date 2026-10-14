@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 41:50",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के",
+      "rationale": "मगही सम्प्रदान “के” चाही; हिब्रू के ल- prefixes एके काम करऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "अकाल",
+      "rationale": "הרעब भूख हकइ; मगही में देस-भर के भूख बर “अकाल” सुभाविक सब्द हइ।"
+    }
+  ],
+  "translation": "आउ योसेफ के दू बेटा जनमलन, अकाल के बरिस अवै से पहिले, जेकरा असनत जनमलक — पोती-फेरा के बेटी, ओन के पुरोहित के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "679e1d34b3f96c87934810b12fed48b5eca8b2df02bdbad91fc79e07f17dea11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/41\/49-52.1791987662958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "आउ योसेफ के"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनमलन"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "से पहिले"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "अवै"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "अकाल के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनमलक"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "असनत"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "पोती"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "फेरा"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "און",
+      "gloss": "ओन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:21:02.959840552Z",
+  "model": "glm-5.3"
+}

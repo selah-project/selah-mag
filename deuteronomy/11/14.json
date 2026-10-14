@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "शरद-बरखा · बसंत-बरखा",
+      "rationale": "יורה पहिलकी (पतझड़) बरखा आउ מלקוש पाछकी (बसंत) बरखा — कृषि के दू मौसम"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seasons",
+      "rationale": "बरखा के समय-नियति — कृषि बर्ष के जुड़ाव"
+    }
+  ],
+  "translation": "त हम तोहनी के धरती के बरखा ओकरा समय पर देबइ — शरद-बरखा आउ बसंत-बरखा — आउ तूँ अपने अनाज आउ अपने अंगूरी मद आउ अपने तेल जोड़ब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5e7356629e3c7a107172c684e4f174dd6f7f8a82d8a87133e9b805f7e348dd09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/11\/13-16.1791992282573.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "त हम देबइ"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "बरखा"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "तोहनी के धरती के"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ओकरा समय पर"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "शरद-बरखा"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "आउ बसंत-बरखा"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "आउ तूँ जोड़ब"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "अपने अनाज"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "आउ अपने अंगूरी मद"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "आउ अपने तेल"
+    }
+  ],
+  "timestamp": "2026-10-14T15:38:02.574241859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נסה\/מסה",
+      "rationale": "'परखबइ' के क्रिया आउ जगह के नाम 'मास्सा' (परख) एके जड़ के हकइ — हिब्रू के ई खेल मगही में बिला जातइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल",
+      "rationale": "हुकुम सीधे तोहनी (इस्राएल) के बोलल गेलइ हे।"
+    }
+  ],
+  "translation": "⟨את⟩ यहवे तोहनी के एलोहीम के परखबइ मत, जइसन तोहनी मास्सा में परखल रहनी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/6\/13-16.1791992070347.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "परखबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे तोहनी के एलोहीम के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "परखल रहनी"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "मास्सा में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:34:30.348621388Z",
+  "model": "glm-5.3"
+}

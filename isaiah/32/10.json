@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "दिन के उपरे एक बरिस",
+      "rationale": "'एक बरिस से जादे दिन' बनाम 'एक बरिस आउ दिन बाद' — प्राचीन अनुवादक में मतभेद"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בלי",
+      "gloss-r": "",
+      "rationale": "मूल 'बिना' — हमनी 'बिना अआवतइ' रखलिये, नञ आगे नञ फेर"
+    }
+  ],
+  "translation": "एक बरिस के दिन के उपरे तक, हे भरोसा करनिहार, काँपतइ; काहे कि अंगूर के फसल कटके नञ रहतइ, जमाव बिना अआवतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7c511c6a17fc7bd099fb8f980d19dbf99caba575bc91838a22dfe6706c83e9d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/32\/9-12.1791999119314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के उपरे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "एक बरिस"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "काँपतइ"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "भरोसा करनिहार"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "कटके नञ रहतइ"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "अंगूर के फसल"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "जमाव"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "अआवतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:31:59.314910071Z",
+  "model": "glm-5.3"
+}

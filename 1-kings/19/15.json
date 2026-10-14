@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "एलियाहु",
+      "rationale": "यहवे के आदेश सीधे एलियाहु के सम्बोधन हकइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מדברה דמשק",
+      "rationale": "‘दम्मशेक के उजाड़’ जगह के नाम जइसन; कुछ अनुवादक ‘दम्मशेक के रस्ते से उजाड़ होके’ पढ़ऽ हथिन"
+    }
+  ],
+  "translation": "यहवे ओकरा कहलन: “जा, अपन रस्ते से वापस चल, दम्मशेक के उजाड़ के दने; आउ जब तूँ अइबऽ हऽ, त चाजाएल ⟨את⟩ अराम पर राजा बनाके अभिसेक करबऽ हऽ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6c89fcf01dbb56d6bcf0dd5ba297cce3bf430e11a7ff22afe2c2574e374644b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/19\/13-16.1791997531648.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "वापस चल"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "अपन रस्ते से"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "उजाड़ के दने"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "दम्मशेक के"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "आउ अइबऽ हऽ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "आउ अभिसेक करबऽ हऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चाजाएल"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "चाजाएल"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा बनाके"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    }
+  ],
+  "timestamp": "2026-10-14T17:05:31.649968561Z",
+  "model": "glm-5.3"
+}

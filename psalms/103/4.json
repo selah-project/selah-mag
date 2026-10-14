@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משחת",
+      "rationale": "गड्ढा\/नास बनाम शेओल के अरथ — इहाँ שחת हकइ, ओकर थिर रूप शेओल नञ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हेसेद",
+      "rationale": "एक सब्द के अरथ चौड़ा हकइ — परेम, दया, बिस्वास — एहे से लिप्यन्तरन रखल गेलइ"
+    }
+  ],
+  "translation": "जे तोहर जिनगी के गड्ढा से छुड़ावऽ हथिन, जे तोहनी के हेसेद आउ दया के ताज पहिरावऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/103\/1-4.1792005840965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "जे छुड़ावऽ हथिन"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "गड्ढा से"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "तोहर जिनगी के"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "जे ताज पहिरावऽ हथिन"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "आउ दया"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:00.966446372Z",
+  "model": "glm-5.3"
+}

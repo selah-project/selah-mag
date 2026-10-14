@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 7:12",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כשמע לעדתם",
+      "rationale": "'as their assembly has heard' (KJV) vs 'when I hear their assembly gathering' (BSB); taken as 'as their assembly has heard'."
+    },
+    {
+      "kind": "elision",
+      "subject": "כאשר",
+      "rationale": "hypothetical 'when\/wherever they go' — rendered as conditional 'जइसने'."
+    }
+  ],
+  "translation": "जइसने ओनी जातइ, हम ओकनी के ऊपर हमर जाल फैलाबइ; अकास के चिरईं जइसन ओकनी के निच्चारबइ; ओकनी के सभा के सुनले मोताबिक ओकनी के ताड़ना करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cfde5f849d4996def4e03f402c04a2ec9fe783d9e7a33fcaa386535dd6b9d0fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/7\/9-12.1792003287992.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "जातइ"
+    },
+    {
+      "surface": "אפרוש",
+      "gloss": "फैलाबइ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ओकनी के ऊपर"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "हमर जाल"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "चिरईं जइसन"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "ओकनी के निच्चारबइ"
+    },
+    {
+      "surface": "איסרם",
+      "gloss": "ओकनी के ताड़ना करबइ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "सुनले मोताबिक"
+    },
+    {
+      "surface": "לעדתם",
+      "gloss": "ओकनी के सभा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:41:27.993703550Z",
+  "model": "glm-5.3"
+}

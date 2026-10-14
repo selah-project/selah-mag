@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "वंसावली",
+      "rationale": "वंस-सूची के अन्तिम पद — दाविद पर बिछट।"
+    }
+  ],
+  "translation": "आउ ओबेद ⟨את⟩ यिस्सै के जनम देलन, आउ यिस्सै ⟨את⟩ दाविद के जनम देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3859f9a01c1b9358634182b3b4a32204d8354bc8afd854c903d00bba4a44c408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ruth\/4\/21-22.1792008042784.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "आउ ओबेद"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्सै के"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिस्सै"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "आउ यिस्सै"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाविद के"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    }
+  ],
+  "timestamp": "2026-10-14T20:00:42.785556696Z",
+  "model": "glm-5.3"
+}

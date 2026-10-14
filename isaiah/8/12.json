@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यसैयाह आउ हमनी लोग के लागि",
+      "rationale": "यहवे के ई बचन नबी आउ ओकर सुनैयालोग के सीधा आग्या हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קשר \/ קשר",
+      "rationale": "'साजिस' के दुनू बेर दोहराव जनता के बोली के उलटा गूँज हकइ — जे ओ कहऽ हइ ओकरा तोहनी मत कहऽ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תערिदו",
+      "rationale": "'धमकियऽ' के जगह 'ओकरा भयभीत मानऽ' भी पढ़ल जा सकऽ हइ — जड़ ढर्र के अरथ दुनू दने जालइ।"
+    }
+  ],
+  "translation": "तोहनी मत कहऽ 'साजिस', जे कुछ ई लोग कहऽ हइ ओकरा 'साजिस'; आउ ⟨את⟩ ओकर डर के नञ डरियऽ, आउ नञ धमकियऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "466d7526568a79bc32309342ad3bb77d881c946ad1234e0a48ac62489a84c388",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/8\/9-12.1791998647910.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "साजिस"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "जे कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "साजिस"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर डर"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "ओकर डर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "डरियऽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "धमकियऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:24:07.911937021Z",
+  "model": "glm-5.3"
+}

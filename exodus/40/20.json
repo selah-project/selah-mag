@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפרת",
+      "rationale": "'कपोरेत' — ढाकना\/कपोरेत\/दया-सिंहासन: KJV 'mercy seat', JPS 'ark-cover', लिप्यन्तरन लेल गेलन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "העדת",
+      "rationale": "'गवाही' — साक्षी-पट्ट जे सन्दूक में रखल रहए"
+    }
+  ],
+  "translation": "आउ ऊ लेलन आउ ⟨את⟩ गवाही सन्दूक में रखलन, आउ ⟨את⟩ डण्डा सन्दूक पर लगैलन, आउ ⟨את⟩ कपोरेत सन्दूक के ऊपर, बिल्कुल उप्पर, धरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9b292847f9a64783364f7652d99e4e0d0a705c68284c16d9f4a995cfa7706462",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/40\/17-20.1791989476150.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गवाही"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "गवाही"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "लगैलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "डण्डा"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "डण्डा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "धरलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कपोरेत"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "कपोरेत"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "उप्पर से"
+    }
+  ],
+  "timestamp": "2026-10-14T14:51:16.152074974Z",
+  "model": "glm-5.3"
+}

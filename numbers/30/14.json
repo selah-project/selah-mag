@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 30:14",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "सौगंठ",
+      "rationale": "שבעה शपथ हकइ; 'सौगंठ' कसम-किसम के बन्धन चित्रा देतइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "יום-छोड़ल क्रिया",
+      "rationale": "हिन्दी\/मगही के दू क्रिया-रूप हिब्रू के एके हिफिल रूप जेकरा में 'सकऽ हइ' के अरथ भीतर हइ"
+    }
+  ],
+  "translation": "परान के दुख देवे बर हर नेदर आउ हर बन्धन-सौगंठ — ओकर भरता एकरा ठाढ़ल कर सकऽ हइ, आउ ओकर भरता एकरा तोड़ सकऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "722c5f42a2a4e717144969fa138bfd55839b79830edda62da925b070695ca1a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/30\/13-16.1791991741903.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "नेदर"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ हर"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सौगंठ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "बन्धन"
+    },
+    {
+      "surface": "לענת",
+      "gloss": "दुख देवे बर"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान के"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ओकर भरता"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "ठाढ़ल कर सकऽ हइ"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "आउ ओकर भरता"
+    },
+    {
+      "surface": "יפרנו",
+      "gloss": "तोड़ सकऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:29:01.903877901Z",
+  "model": "glm-5.3"
+}

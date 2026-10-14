@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨भर के⟩",
+      "rationale": "रויה ('पूर्णता, तृप्ति') के अनुवाद में 'भर के उफराइल' कइलन; 'भर के' सहायक बात इब्रानी में सीधे नञ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "רויה",
+      "rationale": "'सन्तुस्टता\/पूर्णता' बनाम 'उफरावल' — मगही में 'उफराइल' लेलन, काहे कि प्याला के संग ई चित्र सबसे निकट हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "psalms 23:5",
+      "rationale": "भेड़-चरावा के गीत में यहवे सीधे 'तूँ' से सम्बोधित हइ"
+    }
+  ],
+  "translation": "तूँ हमरा सामने मेज़ सजइलन, हमरा दुस्मन सब के आगे; तूँ तेल से हमरा मूड़ी चिकनाएलन; हमरा प्याला ⟨भर के⟩ उफराइल हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/23\/5-6.1792004715177.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "सजइलन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "मेज़"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "हमरा दुस्मन सब"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "चिकनाएलन"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "तेल से"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "हमरा मूड़ी"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "हमरा प्याला"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "उफराइल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:05:15.178477494Z",
+  "model": "glm-5.3"
+}

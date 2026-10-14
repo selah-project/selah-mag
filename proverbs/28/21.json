@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הכר פנים",
+      "rationale": "शाब्दिक अरथ 'मुँह पहिचानना' — चेहरा देख के पक्षपात करना; किताब के चलन 'पक्षपात' बतावऽ हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "वל्दि गबर",
+      "rationale": "'टुकड़ा' पूरे तरे सुगम पड़तइ; रोटी के टुकरा बर गरीबी के बिन्ती हकइ।"
+    }
+  ],
+  "translation": "मुँह देख के फैसला करना अछि नञ हकइ, आउ रोटी के एक टुकरा बर आदमी अपराध करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d0b790fbd55f352791bbf4a66c2b18053e78c1e4fca3890fb69f98d74ac99f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/28\/21-24.1792007024170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "पहिचानना"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अछि"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ … बर"
+    },
+    {
+      "surface": "פת",
+      "gloss": "एक टुकरा"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "अपराध करतइ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "आदमी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:44.170800170Z",
+  "model": "glm-5.3"
+}

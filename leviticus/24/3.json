@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 24:3",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परोखेत",
+      "rationale": "פרכת के लिप्यन्तरन लेल गेलइ — ‘पर्दा’ कइसन चालनसार सब्द के जगह"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותו के लक्ष्य",
+      "rationale": "אתו ओकरा दीया के ओर इसारा करऽ हइ जे पिछला पद में हलइ"
+    }
+  ],
+  "translation": "गवाही के परोखेत के बाहर, मुलाकात के तम्बू के भीतर, अहरोन (हारून) ⟨את⟩ ओकरा साँझ से भोर ले यहवे के सामने सजावत रहतन, हमेसा — तोहनी के पीढ़ी सब बर सदा के बिधान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d0a6f1922c881d88ff586a735e3a0b656ac8882ea3492ba0426b30e2a77fb0d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/24\/1-4.1791990359783.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "के बाहर"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "परोखेत"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "गवाही के"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "तम्बू के भीतर"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मुलाकात"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "सजावत रहतन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकरा",
+      "marks": "दीया (पिछला पद के)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरורन"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "साँझ से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "हमेसा"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "बिधान"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा के"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "तोहनी के पीढ़ी सब बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:05:59.784271861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "अलेफ-ताव चिन्हा मोशे के उड़ावे के करम बतावऽ हइ; ओकरा ⟨אתו⟩ ग्लिफ़ में रखल गेल।"
+    }
+  ],
+  "translation": "आउ ओकनी भट्ठी के सेनी लेलन, आउ फरौन के आगे ठाढ़ होलन; आउ मोशे (मूसा) ओकरा अकास के ओर उड़ालन, आउ दाना हो गेलइ — छाला-छाला फूटल, आदमी में आउ पसु में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "581fcbeb5f6bef89bc7959ac6d6eac1c54558aaffbdc0330ee3aa4bd3abe3829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/9\/9-12.1791988236834.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "आउ ओकनी लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सेनी"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "सेनी"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "भट्ठी के"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "आउ ठाढ़ होलन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौन"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "आउ उड़ालन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा)"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "अकास के ओर"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ हो गेलइ"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "दाना"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "छाला-छाला"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "फूटल"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "आदमी में"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "आउ पसु में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:30:36.835696185Z",
+  "model": "glm-5.3"
+}

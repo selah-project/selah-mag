@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के बाक्य बर क्रिया जोड़ल गेलन"
+    },
+    {
+      "kind": "elision",
+      "subject": "ליהוה के बर",
+      "rationale": "पहिला पद के लगन-रूप लेखक-सूची के हिस्सा हकइ; मगही में 'यहवे के बर' मिजमोर के संग जुड़ल"
+    }
+  ],
+  "translation": "दाविद के मिजमोर। यहवे के ⟨हकइ⟩ धरती आउ ओकरा के पूरापन, संसार आउ ओहमें बसऽ वाला सब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/24\/1-4.1792004774140.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिजमोर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के बर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "आउ ओकरा के पूरापन"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "संसार"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "आउ बसऽ वाला सब"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओहमें"
+    }
+  ],
+  "timestamp": "2026-10-14T19:06:14.141221389Z",
+  "model": "glm-5.3"
+}

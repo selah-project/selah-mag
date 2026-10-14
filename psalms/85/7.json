@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שובנו\/תשוב",
+      "rationale": "पद 5 के 'फेर लवऽ' आउ इहाँ के 'फेर आबै' — एके जड़, इब्रानी के सुनावट मगही में थोड़का मतल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "प्रश्न सीधे परमेश्वर से पूछल गेलइ हे"
+    }
+  ],
+  "translation": "का तूँ फेर नञ आबै, हमनी के जियाबै, आउ तोहर लोग तोहरा में खुस होतै?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/85\/5-8.1792005644938.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "का नञ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "फेर आबै"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "हमनी के जियाबै"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "आउ तोहर लोग"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "खुस होतै"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:20:44.940925896Z",
+  "model": "glm-5.3"
+}

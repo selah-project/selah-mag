@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक",
+      "rationale": "צדק Tier-2 पिन हकइ — 'धरम' या 'निआरा' अकेले मत घटावऽ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बिया",
+      "rationale": "זרע के आक्षरिक रूप 'बिया' — बंस-बिया के छवि रखल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "यित्सדेकु \/ यित्हल्लु",
+      "rationale": "'सब बिया' करता पहिला या बाद — KJV 'all the seed' करता के आगे रखऽ हइ; हमनी हिब्रू के क्रम जस के तस रखनिहार"
+    },
+    {
+      "kind": "addition",
+      "subject": "करल जातइ",
+      "rationale": "हिब्रू के किरिया-रूप बतावऽ बर मगही में पूरक किरिया चाही"
+    }
+  ],
+  "translation": "यहवे में त्सेदेक करल जातइ आउ बड़ाई करतइ यिस्राएल (इस्राएल) के सब बिया।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "688294ad878606561a3265e29ceaf7beceae8a95a3142cceab3f085a9c099599",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/45\/25-25.1791999535540.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे में"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "त्सेदेक करल जातइ"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "आउ बड़ाई करतइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बिया"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:38:55.540595486Z",
+  "model": "glm-5.3"
+}

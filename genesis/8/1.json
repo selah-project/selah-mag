@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "याद कइलन",
+      "rationale": "विज्कर — इब्रानी में करार के वफादारी वाला स्मरण, खाली सोच नञ"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "अलेफ-ताव आगाँ हकइ (संग), हम ⟨את⟩ चिन्हा रखलिए आउ 'संग' अरथ में गइल"
+    }
+  ],
+  "translation": "आउ एलोहीम ⟨את⟩ नोह के याद कइलन, आउ ⟨את⟩ सब जीव-जंतु आउ ⟨אतו⟩ सब पसु जे ओकरा संग सन्दूक में हलन; आउ एलोहीम धरती पर रूआख चलौलन, आउ पानी शांत होए गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "eeab0d0e7f65f5db27d4e71f64c6a9b1af13084f7a969ddbabff66685404b312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/8\/1-4.1791986426017.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "याद कइलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नोह"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सब जीव-जंतु"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "जीव-जंतु"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सब पसु"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "पसु"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकरा संग"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "सन्दूक में"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "चलौलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "शांत होए गेलन"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-10-14T14:00:26.018435233Z",
+  "model": "glm-5.3"
+}

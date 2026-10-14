@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 22:5",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकरा",
+      "rationale": "इबरानी में कर्ता सर्बनाम नञ हइ; नगर (स्त्रीलिंग) बुलावल गेलइ हे"
+    },
+    {
+      "kind": "crux",
+      "subject": "טמאת השם",
+      "rationale": "'नाम से मैली' बनाम 'बदनाम' — मूल जड़ जोड़ (מ) गिनती में विवाद"
+    }
+  ],
+  "translation": "जे नजदीक के हथिन आउ जे दूर के हथिन, ओ ⟨ओकरा⟩ खिस्सा उड़ावत रहलन — नाम में मैली, हलचल में बड़ी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e4349d419cca91a0f7b943244050b137c2fb91373f257b51c78bb5813b15e3e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/22\/5-8.1792002232167.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקרבות",
+      "gloss": "जे नजदीक के हथिन"
+    },
+    {
+      "surface": "והרחקות",
+      "gloss": "आउ जे दूर के हथिन"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "יתקלסו",
+      "gloss": "खिस्सा उड़ावत रहलन"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ओकरा ⟨में⟩"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "मैली"
+    },
+    {
+      "surface": "השם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "बड़ी"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "हलचल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:23:52.167808859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बारह हजार",
+      "rationale": "गिरल लोग के गिनती — मारद से जनाना ले बारह हजार।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנפלים",
+      "rationale": "字面 'गिरल लोग'; मौत के बर 'मारल गेलन' रूप देल गेल।"
+    }
+  ],
+  "translation": "आउ ओहि दिन गेलन जे जेतना मरद-जनाना मारल गेलन, मारद से लेके जनाना ले, बारह हजार — हाय (अय) के सब मरद।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "86ffedb9d911180fb33c276e42ada6ebfb86e97f8b0c0c1d7f7fc06b89986b7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/8\/25-28.1791993325487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ गेलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "जे गिरलन"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "मारद से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "लेके"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना ले"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "העי",
+      "gloss": "हाय (अय) के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:55:25.487551318Z",
+  "model": "glm-5.3"
+}

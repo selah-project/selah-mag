@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השכם בבקר",
+      "rationale": "'भोरे भोरे जल्दी उठना' — इब्रानी के चलनसार मुहावरा, शाब्दिक 'सवारी लादना'।"
+    },
+    {
+      "kind": "elision",
+      "subject": "לכם",
+      "rationale": "'तोनी बर' — अरथ बिना-क्रिया लघु पद, बाक्य में मुख्य क्रिया के संग मिलल।"
+    },
+    {
+      "kind": "you",
+      "subject": "दाविद",
+      "rationale": "आकिस दाविद के आदेस दऽ हइ।"
+    }
+  ],
+  "translation": "आउ अब बिहाने बिहान जल्दी उठऽ, तूँ आउ तोहर मालיו के नौकर, जे तोहर ⟨את⟩ संग अइलन हलन; आउ जब तोनी बिहाने बिहान जल्दी उठब, आउ इँजोर हो जातइ, तब जाऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "544093e83701cbb8b62537b19d28a8d906a36dc98fa2fe3a66be5c5786ed4539",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/29\/9-11.1791995643579.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "जल्दी उठऽ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहाने बिहान"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "आउ नौकर"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "तोहर मालिक के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "באו",
+      "gloss": "अइलन हलन"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "संग तूँ"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "आउ जल्दी उठब"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहाने बिहान"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "आउ इँजोर हो जातइ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोनी बर"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "तब जाऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:34:03.580147711Z",
+  "model": "glm-5.3"
+}

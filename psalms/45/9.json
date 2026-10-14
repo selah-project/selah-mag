@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מני",
+      "rationale": "मन्नयीम तार-बाजा (युवा\/asv\/jps) बनाम 'मिन्नी' से-अरथ (kjv) — हमनी तार-बाजा लेलियन।"
+    },
+    {
+      "kind": "you",
+      "subject": "राजा के हवाले",
+      "rationale": "पूरा पद राजा के सीधा सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "मोर आउ अहलोत के छिलका — तोहर सब कपड़ा में; हाथी दाँत के महल से तार-बाजा तोहरा खुसी कइलन हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/45\/9-12.1792005029810.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "मोर"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "आउ अहलोत"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "के छिलका"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "तोहर कपड़ा में"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "महल"
+    },
+    {
+      "surface": "שן",
+      "gloss": "हाथी दाँत"
+    },
+    {
+      "surface": "מני",
+      "gloss": "तार-बाजा"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "तोहरा खुसी कइलन हे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:29.810561740Z",
+  "model": "glm-5.3"
+}

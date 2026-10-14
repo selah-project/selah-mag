@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 29:14",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וילבשני",
+      "rationale": "'ऊ हमके ओढ़लक' बनाम जेपीएस के 'ऊ हमरा में ओढ़लक' — करता-करम उलटे पढ़े के विकल्प।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צניף",
+      "rationale": "मूड़ी मे लपेटल कपड़ा — 'पगड़ी' निकटतम मगही रूप।"
+    }
+  ],
+  "translation": "त्सेदेक हम पहिरलन, आउ ऊ हमके ओढ़लक; हमर नियाव जइसन चोगा आउ पगड़ी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c7626a14b730aa91aeef49789b14c7211af5c69e7afd75a5560476bf2b324f96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/29\/13-16.1792007608621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "त्सेदेक"
+    },
+    {
+      "surface": "לבשתי",
+      "gloss": "पहिरलन"
+    },
+    {
+      "surface": "וילבשני",
+      "gloss": "आउ ऊ हमके ओढ़लक"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "जइसन चोगा"
+    },
+    {
+      "surface": "וצניף",
+      "gloss": "आउ पगड़ी"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "हमर नियाव"
+    }
+  ],
+  "timestamp": "2026-10-14T19:53:28.622090264Z",
+  "model": "glm-5.3"
+}

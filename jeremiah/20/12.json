@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 20:12",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे त्सबाओत से",
+      "rationale": "यिर्मयाहू के दुहाई सीधे यहवे त्सबाओत के आगे हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गुड़ी सब",
+      "rationale": "כליות के शाब्दिक अरथ गुड़ी (kidney) हकइ — भीतर के मन के इब्रानी बिंब; जस के तस रखल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "पुकार बर मगही के 'हे' जोड़ल गेल; इब्रानी में नञ हकइ"
+    }
+  ],
+  "translation": "बाकि हे यहवे त्सबाओत, जे सज्जन के जाँचऽ हथिन, जे गुड़ी सब आउ हिरदय के देखऽ हथिन — हम ओकनी से तोहर बदला देखब; काहे कि तोहरे से हम ⟨את⟩ हमर झगड़ा खोललियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1cd73a94dab467f59f582ca81fa9d1ff04ed6bbe6d9d07a97bc24bff29c6892b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/20\/9-12.1792000690357.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "बाकि हे यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "जाँचऽ हथिन"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "सज्जन के"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ हथिन"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "गुड़ी सब"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "आउ हिरदय के"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "हम देखब"
+    },
+    {
+      "surface": "נקמתך",
+      "gloss": "तोहर बदला"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरे से"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "हम खोललियन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर झगड़ा"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "हमर झगड़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:58:10.358815669Z",
+  "model": "glm-5.3"
+}

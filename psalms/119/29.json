@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חנני",
+      "rationale": "'हमरा अनुग्रह कर' — इब्रानी चुम्बकत्मक क्रिया 'झुक के किरपा कर' के चित्र, मगही में सीधे कहल"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे से प्रार्थना",
+      "rationale": "पद असीस के दुआ हकइ, कर्ता यहवे के संग सीधा बोलऽ हइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "विनती",
+      "rationale": "हटाअ \/ देह — दू आज्ञार्थ विनती"
+    }
+  ],
+  "translation": "झूठ के रस्ता हमरा से हटाअ, आउ अपन तोरा हमरा अनुग्रह से देह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2e323be5f74b3b888726790f8170ad49ab447a522334067e327dd054144f8749",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/29-32.1792006075471.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "हटाअ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "आउ अपन तोरा"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "हमरा अनुग्रह से देह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:55.472231771Z",
+  "model": "glm-5.3"
+}

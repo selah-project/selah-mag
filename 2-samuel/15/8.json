@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישיב ישיבני",
+      "rationale": "infinitive-absolute doubling of שוב — 'returning he will return me'; rendered as सचमुच, intensity lost"
+    },
+    {
+      "kind": "addition",
+      "subject": "एक",
+      "rationale": "Hebrew נדר נדר needs an indefinite article-like counter in Magahi"
+    }
+  ],
+  "translation": "काहे कि तोहर नौकर गेशूर में, अराम में रहते समय एक वाचा बाँधलन हल, कहते — जँ यहवे हमरा सचमुच यरूशलयिम लौटा देथिन, त हम ⟨את⟩ यहवे के सेवा करब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "606240368565fa1d9f3575bceb0650cd202ad6a9cd1e3aa5815ec2365ed34d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/15\/5-8.1791996248809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "वाचा"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "बाँधलन हल"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "तोहर नौकर"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "रहते समय"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "गेशूर में"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "अराम में"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "लौटा देथिन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "सेवा करब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:44:08.810516306Z",
+  "model": "glm-5.3"
+}

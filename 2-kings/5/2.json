@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 5:2",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के लोग",
+      "rationale": "अराम जाति-नाम हकइ; करता के बहुबचन साफ करे बर जोड़ल।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפני",
+      "rationale": "'सामने रहलक' — सेवा करे के रूढ़ि, literal 'चेहरा के आगे'।"
+    }
+  ],
+  "translation": "आउ अराम के लोग टोली बनाके निकसल आउ यिस्राएल के धरती से एक छोटकी कनियाँ के बन्धुआ बनाके लेलन, आउ ऊ नामान के जनाना के सामने रहलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a6a8d8d4ea4a9f3edbaec983a33844bc88ff8242752b0e5901fa3784aa65c7c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/5\/1-4.1791997852525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארם",
+      "gloss": "आउ अराम के लोग"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "निकसल"
+    },
+    {
+      "surface": "גדודים",
+      "gloss": "टोली बनाके"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "बन्धुआ बनाके लेलन"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "कनियाँ"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "छोटकी"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "रहलक"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "नामान के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:10:52.526246981Z",
+  "model": "glm-5.3"
+}

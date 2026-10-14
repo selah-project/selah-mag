@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 29:14",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עצמי ובשרי",
+      "rationale": "'my bone and my flesh' echoes Gen 2:23 (Adam over Eve) and 2 Sam 5:1 (tribes over David) — kinship-by-body idiom kept literal"
+    },
+    {
+      "kind": "measurement",
+      "subject": "חדש ימים",
+      "rationale": "literally 'a month of days' — the Hebrew counts the month by its days; Magahi keeps दिन के एक महीना"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jacob",
+      "rationale": "Laban directly addresses Jacob"
+    }
+  ],
+  "translation": "आउ लाबान ओकरा कहलक, “तूँ तऽ सचमुच हमर हड्डी आउ हमर मांस हऽ।” आउ ऊ ओकरा संग दिन के एक महीना रहलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3af8d2e5bb4da4e4e1f028ecab1f28f15e6d6fda40f061508526d6f7d8739ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/29\/13-16.1791987135317.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लाबान"
+    },
+    {
+      "surface": "אך",
+      "gloss": "तऽ सचमुच"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "हमर हड्डी"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "आउ हमर मांस"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ हऽ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "आउ रहलक"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "एक महीना"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:12:15.318160782Z",
+  "model": "glm-5.3"
+}

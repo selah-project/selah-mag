@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "zechariah 8:22",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "यहवे के मुँह के बिनती",
+      "rationale": "חלות פנी — साफ 'मुँह के मुलायम करना'; मगही में ढाँचा रखल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बिनती करे बर",
+      "rationale": "לחלות के साफ अरथ 'रगड़ल जाना \/ मुलायम होना' हकइ; 'बिनती करना' ढाँचागत अनुवाद हकइ।"
+    }
+  ],
+  "translation": "आउ अइतइ ढेर लोग आउ ताकतवार जाति सब, यरूशलयिम (यरूशलेम) में ⟨את⟩ यहवे त्सबाओत के खोजे बर, आउ ⟨את⟩ यहवे के मुँह के बिनती करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "aea590967d89b987fd3df83e52ce8f1ac05229447bed2654ed913fb56d6cbc68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/8\/22-23.1792011976121.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "आउ अइतइ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "וגוים",
+      "gloss": "आउ जाति सब"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "ताकतवार"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "खोजे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे त्सबाओत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम (यरूशलेम) में"
+    },
+    {
+      "surface": "ולחלות",
+      "gloss": "आउ बिनती करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के मुँह"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T21:06:16.122296878Z",
+  "model": "glm-5.3"
+}

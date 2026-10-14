@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया 'होवे' नञ हकइ; मगही बाक्य के बर जोड़ल गेलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "हेवेल के सही अरथ 'साँस\/धुआँ' — धुँधला आउ बिना टिकाऊ; 'बेकार' एकर खाली एक अंग हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל הבלים ... הבל",
+      "rationale": "एहे पद पद 1:2 में भी हकइ — पुस्तक के घेरा एहे दोहराव से बन्न होवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "הקוהलेत",
+      "rationale": "कोहेलेत — 'सभा जुटावे वाला'; 'उपदेसक' बाद के परम्परा के उपाधि हकइ"
+    }
+  ],
+  "translation": "बेकारी के बेकारी, कहलन कोहेलेत, सब कुछ ⟨हकइ⟩ बेकार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b3e2226045f00b19802d004fe91f305f1929f07dc64a7be61823dd81f906e545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/12\/8-8.1792012145118.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "बेकारी"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "बेकारी के"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "कोहेलेत"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सब कुछ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "बेकार"
+    }
+  ],
+  "timestamp": "2026-10-14T21:09:05.118899690Z",
+  "model": "glm-5.3"
+}

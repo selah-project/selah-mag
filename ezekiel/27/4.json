@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 27:4",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी में क्रिया नञ; मगही वाक्य बर सहारा चाही"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כליל\/כללו",
+      "rationale": "पद 3 के “पूरा सुन्दरता” आउ इहाँ “पूरा कइलन” — एके जड़ के गूँज, त्सोर के दावा के उलटा जवाब"
+    }
+  ],
+  "translation": "समुंदर सब के हिरदय में तोहर सीमा ⟨हइ⟩; तोहर बनइए लोग तोहर सुन्दरता पूरा कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3935aa4a6db331ff826886ef1a5940ae6aeb838fe087472cbb2308ca0bac2c79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/27\/1-4.1792002498481.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלב",
+      "gloss": "हिरदय में"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "समुंदर सब"
+    },
+    {
+      "surface": "גבוליך",
+      "gloss": "तोहर सीमा"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "तोहर बनइए लोग"
+    },
+    {
+      "surface": "כללו",
+      "gloss": "पूरा कइलन"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "तोहर सुन्दरता"
+    }
+  ],
+  "timestamp": "2026-10-14T18:28:18.482695306Z",
+  "model": "glm-5.3"
+}

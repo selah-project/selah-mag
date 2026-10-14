@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתעבר",
+      "rationale": "Hitpa'el of עבר: 'angry\/vexing himself' (KJV meddleth) बनाम 'passing and meddling' — एकिये रूप दू बेर गिनावल गेलइ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हइ⟩",
+      "rationale": "उपमा जोड़े बर मगही के किरिया जोड़ल गेलन, इब्रानी में नञ हकइ।"
+    }
+  ],
+  "translation": "जे कुत्ता के कान पकड़ि लेवऽ हइ, ओइसने ऊ ⟨हइ⟩ जे गेलाक-गेलाक ओ झगड़ा में दखल देवऽ हइ जे ओकरा लिए नञ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a4d1658b670530c0c88c2c8dedb6453aa08a75076a469900f032720404026761",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/26\/17-20.1792006983066.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "पकड़ि लेवऽ हइ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "कान"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कुत्ता के"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "गेलाक-गेलाक"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "दखल देवऽ हइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "में"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "झगड़ा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा लिए"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:03.066643970Z",
+  "model": "glm-5.3"
+}

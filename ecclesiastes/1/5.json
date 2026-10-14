@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ובא השמש",
+      "rationale": "इब्रानी 'सुरुज अवैत हकइ' — अस्त होए के चलनसार मुहावरा, मगही में 'डूबैत हकइ'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרח\/זורח",
+      "rationale": "एहे जड़ दू बेर — उगल आउ उगैत — पूरा पद के घूमरी, मगही में आंशिक रहऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "שואף",
+      "rationale": "'हाँपैत' — किछु अनुवादक 'ललचावैत\/तरसैत' बुझाबैत हथिन; 'हाँपैत' के चित्र रखल गेल।"
+    }
+  ],
+  "translation": "आउ सुरुज उगैत हकइ आउ सुरुज डूबैत हकइ, आउ अपन जगह के ओर हाँपैत उगैत हकइ ऊहे, ओहीं जतए ऊ उगैत हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/1\/5-8.1792008392030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "आउ उगैत हकइ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "आउ डूबैत हकइ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ के ओर"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "अपन जगह"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "हाँपैत"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "उगैत हकइ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहीं"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:32.031164573Z",
+  "model": "glm-5.3"
+}

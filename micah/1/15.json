@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 1:15",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हम",
+      "rationale": "करता 'हम' इब्रानी में क्रिया के रूप में हकइ, मगही में अलग सब्द चाही।"
+    },
+    {
+      "kind": "crux",
+      "subject": "כבוד ישראל",
+      "rationale": "'यिस्राएल के महिमा' — ऊ राजा, ओकर लोग, या सबसे बढ़िया जे अदुल्लाम के गुफा में छिपतइ; पढ़ाई में मतभेद हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "मारेशा के बासिन्दा",
+      "rationale": "सीधा सम्बोधन नगर मारेशा के बासिन्दा के तरफ।"
+    }
+  ],
+  "translation": "अबहीं हम तोहरा पर ⟨ऊ⟩ बस हक जे जोहऽ हथिन ⟨लाबइ⟩, हे मारेशा (मारेशा) के बासिन्दा; यिस्राएल के महिमा अदुल्लाम (अदुल्लाम) तक अइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e58cdf6ab36079e078ebc23e8684a54a179cff85e840de61b7a24d1496642c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/1\/13-16.1792003693265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "הירש",
+      "gloss": "जे बस हक जोहऽ हथिन"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हम लाबइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा पर"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "बासिन्दा"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "मारेशा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "अदुल्लाम"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "अइतइ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:13.266825033Z",
+  "model": "glm-5.3"
+}

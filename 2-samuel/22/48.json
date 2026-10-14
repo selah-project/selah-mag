@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "2-samuel 22:48",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נקמת",
+      "rationale": "बहुबचन के बल 'बदला' में घटल; हिब्रू 'बदला-सब' कहऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האל",
+      "rationale": "पिछलका पद के एलोहीम के संग एल के छोट रूप — गीत के उच्चार-ध्वनि"
+    }
+  ],
+  "translation": "ओही एल, जे हमरा बदला देथिन, आउ जाति सब के हमरा नीचे उतार देथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "70890e97f80619014a94292fc6223ac128d10a04bb9c3975c5f0de1dce5976cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/22\/45-48.1791996564271.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ओही एल"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "जे देथिन"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ומוריד",
+      "gloss": "आउ उतार देथिन"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सब के"
+    },
+    {
+      "surface": "תחתני",
+      "gloss": "हमरा नीचे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:49:24.272515418Z",
+  "model": "glm-5.3"
+}

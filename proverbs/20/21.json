@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 20:21",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבחלת",
+      "rationale": "'जल्दबाजी में मिलल' (KJV\/JPS hastily) बनाम 'गलत तरीके से मिलल' (YLT wrongly) — जड़ בחल दुअरथी हकइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "לא תברך",
+      "rationale": "इब्रानी नञ-बचन क्रिया रूप में छिपल हकइ; मगही में अलग „नञ\" आवश्यक भेल।"
+    }
+  ],
+  "translation": "जल्दी में मिलल भाग सुरु में नञ, ओकर आखिर असीस नञ पातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ab643a5f95b9cdf83f94fc9e279b2f8ffca203d0efdbdd61a83f4b8eeae0ae8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/20\/21-24.1792006798379.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "भाग"
+    },
+    {
+      "surface": "מבחלת",
+      "gloss": "जल्दी में मिलल"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "सुरु में"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ओकर आखिर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "असीस पातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:58.380027928Z",
+  "model": "glm-5.3"
+}

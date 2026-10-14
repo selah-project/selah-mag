@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨बिरुद्ध⟩",
+      "rationale": "Hebrew has simply 'remember not against-us'; the adversative supplied for Magahi clarity"
+    },
+    {
+      "kind": "crux",
+      "subject": "עונת ראשנים",
+      "rationale": "'former iniquities' — ours, or our forefathers' (asv\/jps\/ylt take as ancestral guilt)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רחמים",
+      "rationale": "plural of רחם, womb — compassions; करुणा loses the womb-root of tender cherishing"
+    },
+    {
+      "kind": "invitation",
+      "subject": "prayer plea",
+      "rationale": "imperatives of negation and haste addressed to YHWH"
+    }
+  ],
+  "translation": "पुरान पाप सब हमनी के ⟨बिरुद्ध⟩ मत गिनऽ; जल्दी कर के तोहर करुणा हमनी के आगे आवऽ, काहे कि हमनी बहुत दुखी हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "15a0883b600fa9aa4aceb3a70cbf18f2add7ec6a9f697d6a881499ad8fa30ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/79\/5-8.1792005550774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "गिनऽ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "पाप सब"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "पुरान"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "जल्दी कर के"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "हमनी के आगे आवऽ"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "तोहर करुणा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "हमनी दुखी हइ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:10.776225852Z",
+  "model": "glm-5.3"
+}

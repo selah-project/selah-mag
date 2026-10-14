@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the heavens",
+      "rationale": "जस गावथिन — अकास के चीज सब के बोलावल जा रहलइ हे।"
+    },
+    {
+      "kind": "addition",
+      "subject": "के",
+      "gloss-less": "",
+      "rationale": "מגही के क्रिया-बनावट बर सम्बन्ध-चिन्हा जोड़ल गेलन, इब्रानी में नञ हकइ।"
+    }
+  ],
+  "translation": "ओनी यहवे के ⟨את⟩ नाम के जस गावथिन, काहे कि ऊ आज्ञा देलन आउ ओनी सिरजल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8a1ea9d970a6a07ae02a25b9c0c437023422c34240da20f834533a7ee05463f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/148\/5-8.1792006389774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "जस गावथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा देलन"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "आउ ओनी सिरजल गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:09.775006388Z",
+  "model": "glm-5.3"
+}

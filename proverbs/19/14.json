@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ \/ होवऽ हइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही के बाक्य बर जोड़ल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "13↔14",
+      "rationale": "झगड़ालू जनाना (13) के आगे-आगी समझदार जनाना (14) — मुहावरा के जोड़ी।"
+    }
+  ],
+  "translation": "घर आउ धन बाप-दादा के विरासत हकइ, बाकि समझदार जनाना यहवे के देल होवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4db57d3e7984a0cd60fd6edf2d7f04c1d323a7bd066f653ba32aac9a5bab8464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/19\/13-16.1792006819920.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "והון",
+      "gloss": "आउ धन"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "विरासत"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "बाप-दादा के"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "बाकि यहवे के देल"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "समझदार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:19.921550508Z",
+  "model": "glm-5.3"
+}

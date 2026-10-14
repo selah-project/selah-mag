@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 21:34",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "अय्यूब के मित्र सभ",
+      "rationale": "अय्यूब सीधा अपन मित्र सभ के सोध रहलथिन — 'तोहनी'।"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעל",
+      "rationale": "मעל के अरथ — KJV 'falsehood' (झूठ), JPS 'faithlessness' (बेइमानी), YLT 'trespass' (अपराध) — मूल शब्द धोखा\/विश्वासघात के जड़ से हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "हेबल के 'खाली बात' लेल गेलइ — मूल अरथ 'भाप\/साँस जइसन निकल जाए वाला', सब कुछ बिना छूए।"
+    }
+  ],
+  "translation": "आउ कइसने तोहनी हमरा खाली बात से तसल्ली देबऽ हा? तोहनी के जवाब में धोखा बचल रहऽ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7785c4d2a7ee641a0d38ece0f1796f8f15f10fe093a2c1e81d5e50be63f587fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/21\/33-34.1792007464308.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "आउ कइसने"
+    },
+    {
+      "surface": "תנחמוני",
+      "gloss": "हमरा तसल्ली देबऽ हा"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "खाली बात से"
+    },
+    {
+      "surface": "ותשובתיכם",
+      "gloss": "तोहनी के जवाब में"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "बचल रहऽ हकइ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "धोखा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:51:04.309630568Z",
+  "model": "glm-5.3"
+}

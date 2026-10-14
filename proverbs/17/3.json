@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इबरानी में क्रिया-बिहीन वाक्य हकइ; मगही के किरिया जोड़ल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצרף\/כור\/בחן",
+      "rationale": "धातु-परख के तीन बिंब एक छंद में — आखिरी में यहवे खुद परखनिहार।"
+    }
+  ],
+  "translation": "चानी बर माकुड़ी आउ सोना बर भट्टी, आउ हिरदय सब के जाँचए वाला यहवे हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a4a6ac4f9a499f64129053a89dbef8434d73903c1126f2fa50528d16e8a6236f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/17\/1-4.1792006771515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "माकुड़ी"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "चानी बर"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "आउ भट्टी"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "सोना बर"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "आउ जाँचए वाला"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "हिरदय सब के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:31.516478646Z",
+  "model": "glm-5.3"
+}

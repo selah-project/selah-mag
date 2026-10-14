@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 4:4",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כשל",
+      "rationale": "'ढिल हो गेलइ' — शाब्दिक 'लटकऽ \/ टेक देनाइ' (गोड़ के जोड़ ढीला होवऽ)।"
+    },
+    {
+      "kind": "addition",
+      "subject": "एहे से",
+      "rationale": "मगही बाक्य-बनावट बर जोड़ल; इब्रानी बिना सम्बन्ध-सब्द के कारण बतावऽ हइ।"
+    }
+  ],
+  "translation": "आउ यहूदा कहलन कि ढोवै वालन के ताकत ढिल हो गेलइ हकइ आउ धूरी ढेर बड़ी घनी हकइ, एहे से हमनी दीवार नञ बना सकैत छी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "62a2d3e89f42c73f99e6db3cca90eecd1c0fe02ac0a268329b176753b88a73c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/4\/1-4.1792009573480.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "ढिल हो गेलइ हकइ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "הסבל",
+      "gloss": "ढोवै वालन के"
+    },
+    {
+      "surface": "והעפר",
+      "gloss": "आउ धूरी"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बड़ी घनी"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "आउ हमनी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "बना सकैत छी"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनावे बर"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "दीवार"
+    }
+  ],
+  "timestamp": "2026-10-14T20:26:13.481894023Z",
+  "model": "glm-5.3"
+}

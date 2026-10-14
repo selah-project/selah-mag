@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 27:15",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במות",
+      "rationale": "'मौत में' (मानक पढ़ाई) बनाम 'महामारी से' (किछु पढ़निहार ओकरा दबर\/महामारी से जोड़थिन)।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקברו\/במות",
+      "rationale": "मौत आउ गाड़े के जोड़ — साँस जितना देर बचल, ओतना में गाड़ देल जा — बिधवा के रोवे बरो समय नञ।"
+    }
+  ],
+  "translation": "ओकर बचल लोग मौत में गाड़ल जातइ, आउ ओकर बिधवा नञ रोवथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ed7f2830669d749005b9095f1a28f5a0640e4340e318d35472884227d66f219b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/27\/13-16.1792007570065.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרידו",
+      "gloss": "ओकर बचल लोग"
+    },
+    {
+      "surface": "במות",
+      "gloss": "मौत में"
+    },
+    {
+      "surface": "יקברו",
+      "gloss": "गाड़ल जातइ"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "आउ ओकर बिधवा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "रोवथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:52:50.066628342Z",
+  "model": "glm-5.3"
+}

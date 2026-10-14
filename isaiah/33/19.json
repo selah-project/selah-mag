@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נלעג",
+      "rationale": "निफाल कृदन्त रूप — तनाख़ में एही जगह एके रूप में"
+    },
+    {
+      "kind": "crux",
+      "subject": "נלעג לשון",
+      "rationale": "'ललकारे जीभ' बनाम 'लटकत\/अस्पष्ट जीभ' — जड़ लעग विदेशी के नकल उतारे वाला अरथ वाला"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עמקי שפה",
+      "rationale": "'गहिरा ओठ' — असमझ बोली के इब्रानी मुहावरा, रूप रखल गेलइ"
+    }
+  ],
+  "translation": "तूँ ⟨את⟩ ढिठायल लोग के नञ देखबउ — जाति गहिरा ओठ वाला, जेकर बोली सुनल पर समझे नञ आवऽ हइ, ललकारे जीभ वाला, जेकरा समझ नञ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8bb06e3c35301721a72105cef0a6dfdb48dbe788141459d470f9337cb3579348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/33\/17-20.1791999173040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ढिठायल लोग"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "ढिठायल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "देखबउ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "गहिरा"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "सुनल पर"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "ललकारे"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ हइ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:32:53.041427471Z",
+  "model": "glm-5.3"
+}

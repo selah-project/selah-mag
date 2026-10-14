@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨खुस करथिन⟩",
+      "rationale": "दोसर पाँती के किरिया इब्रानी में मौजूद नञ हइ; बाक्य के पूरा करे बर मगही में दोहराव करना पड़ल"
+    }
+  ],
+  "translation": "अपन बुराई से ओकनी राजा के खुस करथिन, आउ अपन झूठ से सरदार सब के ⟨खुस करथिन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "abe1c559178e2b65b2256ebbbe35a4c6b324685f05d2e38ce21b3603d94dccc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/7\/1-4.1792003267176.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "अपन बुराई से"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "खुस करथिन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "आउ अपन झूठ से"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "सरदार सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:41:07.177131122Z",
+  "model": "glm-5.3"
+}

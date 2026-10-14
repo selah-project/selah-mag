@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमनी",
+      "rationale": "נעשה के करता इब्रानी में क्रिया-रूप में छिपल हइ, मगही में अलग सर्बनाम चाही"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צר\/צרינו",
+      "rationale": "पद 13 के מצर आउ इहाँ के צרינו एके जड़ — सकट आउ दुसमन एके सुतली में बँधल हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "confidence declaration",
+      "rationale": "परमेश्वर के बल पर गवाही — वाचा-लोक के सामूहिक बोली ('हमनी')"
+    }
+  ],
+  "translation": "एलोहीम के संग हमनी बहादुरी करबइ, आउ ऊ ⟨ऊहेके⟩ हमनी के दुसमन के कुल्हा मारबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5a10fb86e0c45a426e6719a16b72a520b85b21633828df295e0b4a564b5d554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/108\/13-14.1792005938208.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "एलोहीम के संग"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "हमनी … करबइ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बहादुरी"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "कुल्हा मारबइ"
+    },
+    {
+      "surface": "צרירנו",
+      "gloss": "हमनी के दुसमन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:38.209343085Z",
+  "model": "glm-5.3"
+}

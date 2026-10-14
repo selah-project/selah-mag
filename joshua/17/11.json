@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 17:11",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ובנותיה",
+      "rationale": "'आउ ओकर बेटी सब' — आश्रित नगर सब के रूपक, 'गाँव' कइल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "שלשת הנפת",
+      "rationale": "'तीन नफत' — 'तीन ऊँच इलाका' (ASV) बनाम 'तीन जिला' (JPS); नफत = ऊँच भूमि"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नगर-सूची",
+      "rationale": "उत्तराधिकार के नगर सब के नामवार गिनती"
+    }
+  ],
+  "translation": "आउ मनश्शे के यिसशाकर आउ अशेर में बैत-शान आउ ओकर गाँव रहलक, आउ यिबलाम आउ ओकर गाँव, आउ ⟨את⟩ दोर के रहइया आउ ओकर गाँव, आउ एन-दोर के रहइया आउ ओकर गाँव, आउ तानक के रहइया आउ ओकर गाँव, आउ मगिद्दो के रहइया आउ ओकर गाँव — तीन नफत (ऊँच इलाका)।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5985b1a5d00ea9376a6ee0be1523ab07c78ec899613575ddb1deab07c87482d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/17\/9-12.1791993664078.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "रहलक"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "मनश्शे के"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "यिसशाकर में"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "आउ अशेर में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बैत"
+    },
+    {
+      "surface": "שאן",
+      "gloss": "शान"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "आउ ओकर गाँव"
+    },
+    {
+      "surface": "ויבלעם",
+      "gloss": "आउ यिबलाम"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "आउ ओकर गाँव"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दोर के रहइया"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहइया"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "दोर"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "आउ ओकर गाँव"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "आउ रहइया"
+    },
+    {
+      "surface": "עין",
+      "gloss": "एन"
+    },
+    {
+      "surface": "דר",
+      "gloss": "दोर"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "आउ ओकर गाँव"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "आउ रहइया"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "तानक"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "आउ ओकर गाँव"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "आउ रहइया"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "मगिद्दो"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "आउ ओकर गाँव"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "नफत (ऊँच इलाका)"
+    }
+  ],
+  "timestamp": "2026-10-14T16:01:04.079049066Z",
+  "model": "glm-5.3"
+}

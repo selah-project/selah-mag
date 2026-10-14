@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "बुर्ज के मालिक",
+      "rationale": "בעלי מגדल — 'बुर्ज के मालिक' (किल्लेदार) बनाम 'बुर्ज के मनई' (KJV); 'मालिक' रूप-निस्ठ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨में⟩",
+      "rationale": "इब्रानी אל के मगही 'में' लागू करै के पड़ल"
+    }
+  ],
+  "translation": "आउ श्केम के बुर्ज के सब मालिक सुनलन, आउ एल-बेरित के घर के गढ़ी ⟨में⟩ गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b9b5598747c22d35b35a73be3d1eb0ea55eb6e528e71e9225809a711a7ad4243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/9\/45-48.1791994300799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "आउ सुनलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "मालिक"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "बुर्ज"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "श्केम"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आउ गेलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨में⟩"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "गढ़ी"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "बेरित"
+    }
+  ],
+  "timestamp": "2026-10-14T16:11:40.800484861Z",
+  "model": "glm-5.3"
+}

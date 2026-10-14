@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישבתו",
+      "rationale": "שבת जड़ — शब्बात के ही जड़ — 'रुकतइ' में ई संग खो जा हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ऋतु-सूची",
+      "rationale": "चार जोड़ी में समय के पूरा चक्र गिनावल गेलइ — बुवाइ-कटाइ, ठंडा-गरमी, गर्मी-जाड़ा, दिन-रात"
+    },
+    {
+      "kind": "alternative",
+      "subject": "זרע",
+      "rationale": "'बीज' या 'बुवाइ के मौसम' — पाठ के चाल जोड़ी-रचना के हकइ, एहे से 'बुवाइ' लेलक"
+    }
+  ],
+  "translation": "धरती के सब दिन ले बुवाइ आउ कटाइ, आउ ठंडा आउ गरमी, आउ गर्मी के दिन आउ जाड़ा, आउ दिन आउ रात — ई सब नञ रुकतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "94288cd3a3445fc046d116af9c28f62658a7eab9a0c0fdc05fa11c1ed15650a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/8\/21-22.1791986348464.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "आगू तक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बुवाइ"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "आउ कटाइ"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "आउ ठंडा"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "आउ गरमी"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "आउ गर्मी के दिन"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "आउ जाड़ा"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "आउ दिन"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "आउ रात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "रुकतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T13:59:08.465053135Z",
+  "model": "glm-5.3"
+}

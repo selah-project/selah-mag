@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 45:4",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हिस्सा",
+      "rationale": "कोדेस अकेले ठाढ़ हइ; वाक्य चलावे बर 'हिस्सा' जोड़ल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הקרבים",
+      "rationale": "'नेके आवऽ हइ' — कराब के साक्षात अरथ धरती बनेके सेवा के नेके आवे वाला।"
+    }
+  ],
+  "translation": "धरती में से पवित्तर ⟨हिस्सा⟩ ऊ — पुरोहितन बर, पवित्तर अस्थान के सेवक, जे यहवे ⟨את⟩ के सेवा बर नेके आवऽ हइ, त ओकनी के बर ओहाँ जगह होतइ घर बर आउ पवित्तर अस्थान बर पवित्तर अस्थान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d65889b18cd215b82206e5e6ccdedc5594f811aa9044860e1b5c2340b0ab8cb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/45\/1-4.1792003099628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "पुरोहितन बर"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "पवित्तर अस्थान के"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "जे नेके आवऽ हइ"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "सेवा बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के बर"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "घर बर"
+    },
+    {
+      "surface": "ומקדש",
+      "gloss": "आउ पवित्तर अस्थान"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "पवित्तर अस्थान बर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:38:19.629276785Z",
+  "model": "glm-5.3"
+}

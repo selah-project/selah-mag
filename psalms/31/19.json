@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "कुछ अनुवाद 'अत्याचारी बात' लेथिन (עָתָक 'उकसाव' से), कुछ 'गर्व से बड़ी बात' — रूढ़ अर्थ 'उकसाव' हकइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "גונ्गा",
+      "rationale": "प्रार्थना के विषय पुराना हकइ — 'बाल मूक' के जगह गूँगा सीधा सुनाई देथिन"
+    }
+  ],
+  "translation": "जुठ बोलै वाला ओठ गूँगा हो जाअतन — जे त्सेदेक बेटा पर अकड़ भरल बात, घमंड आउ तिरस्कार में बोलऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9b59587d797f302d4a591541f55483600804e5612d4c188375668f3d7f0833de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/31\/17-20.1792004744704.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "गूँगा हो जाअतन"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "जुठ"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "बोलै वाला"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "त्सेदेक बेटा"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "अकड़ भरल बात"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "घमंड में"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "आउ तिरस्कार में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:05:44.705083746Z",
+  "model": "glm-5.3"
+}

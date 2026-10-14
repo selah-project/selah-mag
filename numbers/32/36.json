@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "मगही के बहुबचन बर, इब्रानी के सामूहिक संज्ञा में अलग बहुबचन चिन्हा नञ हइ"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ बेत-निमरा आउ ⟨את⟩ बेत-हारान — गढ़ नगर सब, आउ भेड़ के बाड़ सब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "669d871f38122e4b2b85b91ca15e6edb17ca0fdbe6d9d49bce09b2b3a618654d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/32\/33-36.1791991697642.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "बेत-निमरा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "निमरा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "बेत-हारान"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "हारान"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर सब"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "गढ़"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "आउ बाड़ सब"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़ के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:28:17.643269715Z",
+  "model": "glm-5.3"
+}

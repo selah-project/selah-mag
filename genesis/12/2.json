@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברך\/ברכה",
+      "rationale": "root ברך three times: bless, bless, blessing — chiasm of promise"
+    }
+  ],
+  "translation": "आउ हम तोहनी के एक बड़ जाति बनइब, आउ हम तोहनी के असीस देबइ, आउ तोहर नाम बड़ करबइ; आउ तूँ असीस बन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "48dae3107b717a84488cb1e3640694173b75f57bbc269dd139f107c20e0f6a0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/12\/1-4.1791986567616.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "आउ हम तोहनी के…बनइब"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "एक जाति"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "आउ हम तोहनी के असीस देबइ"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "आउ…बड़ करबइ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आउ तूँ…बन"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "असीस"
+    }
+  ],
+  "timestamp": "2026-10-14T14:02:47.616829976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "करता सर्बनाम किरिया से अलग जोड़ल गेलइ"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ दुआरी के परदा मिश्कान बर लगइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b149e5d1ecadd7ab4d49575833c7f6842da9e731c78137272e478762189067eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/40\/25-28.1791989403448.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "लगइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दुआरी के परदा"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "दुआरी के"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "मिश्कान बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:50:03.449118270Z",
+  "model": "glm-5.3"
+}

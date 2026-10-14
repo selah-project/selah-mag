@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बगावत",
+      "rationale": "פשע के सुरुआती अरथ बगावत\/बिद्रोह हकइ — संबंध तोड़ल जाए वाला काम, न कि खाली अपराध"
+    },
+    {
+      "kind": "invitation",
+      "subject": "प्रार्थना",
+      "rationale": "पापी एलोहीम के अगुवाई से सीधे पुकारऽ हइ — बिनती के बोल"
+    }
+  ],
+  "translation": "हमरा किरपा कर, एलोहीम, तोहर हेसेद के मोताबिक; तोहर तरस के बहुतायत के मोताबिक हमर बगावत के मिटा दे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fe8866d2d56353d4a1d9ad7f3f521a9718b01d975b2aa21f395ecd0b8de80bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/51\/1-4.1792005171757.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "हमरा किरपा कर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "तोहर हेसेद के मोताबिक"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "बहुतायत के मोताबिक"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "तोहर तरस"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "मिटा दे"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "हमर बगावत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:51.757879376Z",
+  "model": "glm-5.3"
+}

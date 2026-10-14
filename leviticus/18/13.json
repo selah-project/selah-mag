@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גלה ערוה",
+      "rationale": "'नाङर खोलब' — इब्रानी के सुभाविक साँचा जस के तस रखल गेल, बिना छुपावल अरथ के मोट करे।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מांस",
+      "rationale": "שאर के सुभाविक अरथ 'मांस' हकइ; अनुवादक लोग 'नजदीकी संबंधी' कहऽ हथिन।"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल के लोग",
+      "rationale": "बिधान के सीधा बात, 'तोहर' के रूप में संबोधन।"
+    }
+  ],
+  "translation": "तोहर माय के बहिन के नाङर नञ खोलब, काहे कि ऊ तोहर माय के मांस हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8f38b99a46ac65889ec44f1beb82ea528f0c83eb5563ddef35b2faa7758fed21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/18\/13-16.1791989984249.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नाङर"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "बहिन"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "तोहर माय के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "खोलब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "तोहर माय के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:59:44.250245637Z",
+  "model": "glm-5.3"
+}

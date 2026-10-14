@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 38:3",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "अय्योब",
+      "rationale": "यहवे अय्योब के आज्ञा देवऽ हथिन — कमर पटके के तैयारी के बिनती-आज्ञा।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "कमर पटक",
+      "rationale": "חלצים कमर — काम बर तैयार होए के इब्रानी रूप; शरीरिक अंग के मगही क्रिया में रखलन।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "हमरा बता",
+      "rationale": "यहवे अय्योब के जवाब देक के आमंत्रण देवऽ हथिन।"
+    }
+  ],
+  "translation": "अबहीं तूँ आदमी जइसन कमर पटकऽ — काहे कि हम तोहसे पूछब आउ तूँ हमरा बता।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "344d278c01c6060805fe77398ac8f5f5321abed23c42d570bd16aac7c240e821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/38\/1-4.1792007874514.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזר",
+      "gloss": "कमर पटक"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "आदमी जइसन"
+    },
+    {
+      "surface": "חלציך",
+      "gloss": "तोहर कमर"
+    },
+    {
+      "surface": "ואשאלך",
+      "gloss": "हम तोहसे पूछब"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "तूँ हमरा बता"
+    }
+  ],
+  "timestamp": "2026-10-14T19:57:54.515819929Z",
+  "model": "glm-5.3"
+}

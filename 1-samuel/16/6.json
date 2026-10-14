@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נגד יהוה",
+      "rationale": "‘यहवे के सामने’ बनाम ‘यहवे के [चुनल]’ — मूल ठाढ़ अरथ ‘सामने’ हकइ; कोनो चुनाव-क्रिया जोड़ल नञ गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירא \/ מראהו (अगिला पद)",
+      "rationale": "देखे के जड़ अगिला पद में फेर आवऽ हे — शमूएल के देखे आउ देखावा के तनाव।"
+    }
+  ],
+  "translation": "आउ भेल — ओकनी के आवे पर ऊ ⟨את⟩ एलियाब के देखलन आउ कहलन — सचमुच, यहवे के सामने ओकर माशियाख हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b46d09a3ea86f123186b54409d2df8b17b8e1d715d92b21b5c30dd82e2a3e667",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/16\/5-8.1791995228242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ओकनी के आवे पर"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "आउ देखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलियाब"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलियाब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אך",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ओकर माशियाख"
+    }
+  ],
+  "timestamp": "2026-10-14T16:27:08.243390499Z",
+  "model": "glm-5.3"
+}

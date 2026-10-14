@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 3:17",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सीमा-विवरण",
+      "rationale": "भूगोल के सीमा तय करे वाला पद — जगह के नाम आउ हद्दी गिनावल गेलइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אֲשֵׁדָה",
+      "rationale": "אשדות — ढाल\/जलधारा — के रूप तनाख़ में बहुते दुर्लभ; पिसगा के साथे जुड़ल संज्ञा-समूह हकइ।"
+    }
+  ],
+  "translation": "आउ ओ अराबा घाटी, आउ यरदन नदी आउ ओकर सीमा, किन्नेरेत से अराबा के समुंदर तक — ओ नून के समुंदर — पिसगा के ढाल के नीचे, पूरुब दने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "78946dd3edb6ddbd0df0bf7ca1280f0f974279ff42daa50818f010bfaa51207b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/3\/17-20.1791992023092.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והערבה",
+      "gloss": "आउ ओ अराबा घाटी"
+    },
+    {
+      "surface": "והירדן",
+      "gloss": "आउ यरदन नदी"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "आउ ओकर सीमा"
+    },
+    {
+      "surface": "מכנרת",
+      "gloss": "किन्नेरेत से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "अराबा के"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "नून के"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "पिसगा के"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "पूरुब दने"
+    }
+  ],
+  "timestamp": "2026-10-14T15:33:43.092942866Z",
+  "model": "glm-5.3"
+}

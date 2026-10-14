@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 4:26",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "हरियार बारी",
+      "rationale": "הַכַּרְמֶל: 'fruitful planted land' vs the place-name Carmel — context favors the common noun"
+    },
+    {
+      "kind": "idiom",
+      "subject": "कोप के जराव",
+      "rationale": "חֲרוֹן אַפּוֹ literally 'burning of his nose', the idiom of flared nostrils in anger"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकर",
+      "rationale": "אַפּוֹ is 'his nose' with pronoun; the possessive sits inside the idiom"
+    }
+  ],
+  "translation": "हम देखलियन, आउ देखौ, हरियार बारी उजाड़ बन गेलइ, आउ ओकर सब नगर ढह गेलन — यहवे के मुँह से, ओकर कोप के जराव से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7b0977cf8996c91a22f42e9f0aee1c3f74584886385ef77c369525eb3da27565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/4\/25-28.1792000195652.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "हम देखलियन"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखौ"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "हरियार बारी"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "उजाड़ बन गेलइ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "ओकर नगर"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ढह गेलन"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के मुँह से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के मुँह से"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "कोप के जराव"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ओकर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:49:55.653434808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 1:10",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפקדתיך",
+      "rationale": "'ठाढ़ करलिए \/ नियुक्त करलिए' बनाम 'देखभाल बर तोहनी सौंपलिए' — פקד के दुनों अरथ चलऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "चार गिरावे + दू बनावे क्रिया",
+      "rationale": "चार नास के क्रिया दू बनावे के क्रिया के विरुद्ध — संतुलन जस के तस रखल गेल"
+    }
+  ],
+  "translation": "देख, आज के ई दिन हम तोहनी जाति सब के आउ राज-सब के ऊपर ठाढ़ करलिए — उखाड़े बर आउ ढिलावे बर, नास करे बर आउ गिरावे बर, बनावे बर आउ रोपे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "87dffca751d3f6157f6221fb4f06b3da58528b04b0109d61cfa7f6d9991fbf03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/1\/9-12.1792000018479.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "הפקדתיך",
+      "gloss": "ठाढ़ करलिए"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज के दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जाति सब के"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ ... के ऊपर"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "राज-सब के"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "उखाड़े बर"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "ढिलावे बर"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "नास करे बर"
+    },
+    {
+      "surface": "ולהרוס",
+      "gloss": "गिरावे बर"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनावे बर"
+    },
+    {
+      "surface": "ולנטוע",
+      "gloss": "रोपे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:46:58.480462099Z",
+  "model": "glm-5.3"
+}

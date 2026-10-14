@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "गोल अंक 59,300",
+      "rationale": "सेना-गिनती के हिसाब"
+    }
+  ],
+  "translation": "ओनकर गिनल लोग, शिमओन के कुल बर, नौ आउ पचास हजार आउ तीन सौ हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ccd59394e672eddb47fe23a0c8b31bc99ea2818c754a57d9682b7e903b9b2bcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/1\/21-24.1791990539822.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקודיהם",
+      "gloss": "ओनकर गिनल लोग"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "कुल बर"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमओन"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "आउ पचास"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "आउ तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:08:59.823344212Z",
+  "model": "glm-5.3"
+}

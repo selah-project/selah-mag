@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "नञ भेल",
+      "rationale": "Hebrew תמם alone ('until their completion') — Magahi needs the negative completion 'पूरा नञ भेल' to read naturally."
+    }
+  ],
+  "translation": "आउ मोशे यिस्राएल के सब सभा के कान में बोललन एही गीत के ⟨את⟩ बात, जखन तक पूरा नञ भेल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9ade541a81350068b1280ef66f38d4cc89a7a8e55a3083ba1bba487dcbfdd14d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/31\/29-30.1791992964908.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आउ बोललन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "कान में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एही गीत के बात"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "गीत के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एही"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जखन तक"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "पूरा नञ भेल"
+    }
+  ],
+  "timestamp": "2026-10-14T15:49:24.909717966Z",
+  "model": "glm-5.3"
+}

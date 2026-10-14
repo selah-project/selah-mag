@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 9:26",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "मिस्रयिम (मिस्र)",
+      "rationale": "पहिला आगमन पर चलनसार रूप के कोस्ठक"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के दने",
+      "rationale": "मोशे के प्रार्थना सीधे यहवे से बोलऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "छुड़ालन",
+      "rationale": "פדית के अरथ फिरौती दे के आजाद करना हकइ"
+    }
+  ],
+  "translation": "आउ हम यहवे के प्रार्थना कइलियन आउ कहलियन: अदोनाय यहवे, अपन लोग आउ अपन विरासत के नास मत करऽ — जेकरा तूँ अपन बड़पन में छुड़ालन, जेकरा तूँ मिस्रयिम (मिस्र) से सबल हाथ से निकाललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "226b0929da44fdbbcd45c7b3982f7ca5ad4d381d16cba64c73482f20f85d8ab0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/9\/26-27.1792011669134.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "आउ हम प्रार्थना कइलियन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आउ कहलियन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "नास करऽ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "अपन लोग"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "आउ अपन विरासत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "छुड़ालन"
+    },
+    {
+      "surface": "בגדלך",
+      "gloss": "अपन बड़पन में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "निकाललन"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम (मिस्र) से"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "सबल"
+    }
+  ],
+  "timestamp": "2026-10-14T21:01:09.134557598Z",
+  "model": "glm-5.3"
+}

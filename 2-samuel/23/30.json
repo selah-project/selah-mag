@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सूची",
+      "rationale": "साहसी के नाम के सूची जारी हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחלי",
+      "rationale": "נחל खाली-सूखा नाला बरखा-मौसम में बहऽ हइ; 'नाला' लेलन, 'नदी' नञ।"
+    }
+  ],
+  "translation": "बेनायाह, पिरातोनी; हिद्दय, गाश के नाला के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d5ee87afbbc620a96e935aacb513fab9d0f9a783460fde83ab231b8636c26443",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/23\/29-32.1791996570729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "बेनायाह"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "पिरातोनी"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "हिद्दय"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "के नाला के"
+    },
+    {
+      "surface": "געש",
+      "gloss": "गाश"
+    }
+  ],
+  "timestamp": "2026-10-14T16:49:30.730044024Z",
+  "model": "glm-5.3"
+}

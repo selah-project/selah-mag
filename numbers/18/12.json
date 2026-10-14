@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 18:12",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חלב",
+      "rationale": "शाब्दिक 'चरबी'; एहीं 'सबसे नीक हिस्सा' के अरथ में — सार तेल\/मद के चरबी नञ होतइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "अनाज",
+      "rationale": "इब्रानी 'आउ गोड़ा' के छोड़िके तीन चीज समानान्तर दने जाऽ हइ; मगही में 'आउ' जोड़ल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ראשיתם",
+      "rationale": "पहिला फल के गिनती-भेंट — क्रम आउ हिस्सा बाँटे के बिधान।"
+    }
+  ],
+  "translation": "तेल के सबसे नीक हिस्सा, आउ अंगूरी मद के सबसे नीक हिस्सा, आउ अनाज — ओकर पहिला फल जे ओ यहवे के देतइ — तोहरा हम देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "39d83533cd78079dc6f863f9860ab51678f75e536738270b83267cd983e126c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/18\/9-12.1791991200172.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "सबसे नीक हिस्सा"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "सबसे नीक हिस्सा"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "अंगूरी मद"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "आउ अनाज"
+    },
+    {
+      "surface": "ראשיתם",
+      "gloss": "ओकर पहिला फल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ओ देतइ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "हम देलन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:20:00.174196554Z",
+  "model": "glm-5.3"
+}

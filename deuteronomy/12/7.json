@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 12:7",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משלח יד",
+      "rationale": "साक्षात „हाथ के बिसरावना” = काम-काज; मगही में „हाथ के काम”"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "बहुबचन से एकबचन में बदलाव (तोहनी → तोहर) इब्रानी के ओहे बदलाव के गाहऽ हइ"
+    }
+  ],
+  "translation": "आउ तोहनी ओहीं यहवे तोहनी के एलोहीम के सामने खाबा आउ तोहनी ⟨आपन⟩ हाथ के हर काम में खुस होबा — तोहनी आउ तोहनी के घर के लोग — जेकरा में यहवे तोहर एलोहीम तोहरा आसीस दिअलन हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "762cebd8076c9fc225dcc4b7e78721d76d1c30caafbc4bfdb7495450afd79dde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/12\/5-8.1791992398588.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "आउ तोहनी खाबा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहीं"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    },
+    {
+      "surface": "ושמחתם",
+      "gloss": "आउ तोहनी खुस होबा"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "हाथ के काम"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "आपन हाथ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "ובתיכם",
+      "gloss": "आउ तोहनी के घर के लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा में"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "तोहरा आसीस दिअलन हकइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T15:39:58.589205534Z",
+  "model": "glm-5.3"
+}

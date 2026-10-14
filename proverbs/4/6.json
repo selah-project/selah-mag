@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨तोहर⟩",
+      "rationale": "हेबरू के किरिया-प्रत्यय (-ך) में 'तोहर' बतावल हइ; मगही में अलग सर्बनाम चाही।"
+    },
+    {
+      "kind": "you",
+      "subject": "to the son",
+      "rationale": "आदेश जारी हकइ — चुकिया-बुद्धि (स्त्री-रूप) के सम्बोधन के बीच पुत्र से कहल जा रहलइ।"
+    }
+  ],
+  "translation": "ओकरा मत छोड़ऽ, तऽ ऊ ⟨तोहर⟩ रखवारी करतइ; ओकरा परेम करऽ, तऽ ऊ ⟨तोहर⟩ पहरा देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd9419f502958688fd0ea0b697c6bad33ee7ca2b6d4e0b770f35d3df457c15c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/4\/5-8.1792006466370.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "छोड़ऽ"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "रखवारी करतइ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "परेम करऽ"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "पहरा देतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:34:26.371472439Z",
+  "model": "glm-5.3"
+}

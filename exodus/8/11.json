@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "लबו (ओकर हिरदय) के पूरक सर्बनाम मगही में जोड़ल गेल"
+    },
+    {
+      "kind": "idiom",
+      "subject": "हिरदय भारी कएना",
+      "rationale": "והכבד את לבו — 'हिरदय के भारी करना' इब्रानी मुहावरा हे, अड़चन-जड़ता के; मगही में साफ बुत्ती रखल गेल"
+    }
+  ],
+  "translation": "आउ परोह देखलन कि राहत भ' गेलइ हे, आउ ⟨את⟩ अपन हिरदय के भारी कइलन, आउ ओकनी के नञ सुनलन, जइसने यहवे कहलन हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b10277754b60013bb6c026cf58bc04071dc21f5f02ec830d6a6d2e96f71d4cd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/8\/9-12.1791988229432.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "परोह"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "भ' गेलइ हे"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "राहत"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "भारी कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन हिरदय"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन हल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T14:30:29.433250420Z",
+  "model": "glm-5.3"
+}

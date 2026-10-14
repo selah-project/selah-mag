@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "רוח हर जगह रूआख रखल गेलइ — बतास के अरथ में भी, Tier-2 नियम के मोताबिक।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחד באחד",
+      "rationale": "'एक एक के' — इब्रानी के दोहराव खुद कस के जुड़ल खपरैल के तसवीर देतइ।"
+    }
+  ],
+  "translation": "एक एक के पास अवथिन, आउ रूआख ओकनी के बीचे नञ अवतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "99325afaae36f89ebcccfe733ab17645911107141b496c35276ec02e79ac64b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/41\/5-8.1792007916407.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "एक के पास"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "अवथिन"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आउ रूआख"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "अवतइ"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "ओकनी के बीचे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:58:36.408318906Z",
+  "model": "glm-5.3"
+}

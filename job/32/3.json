@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आउ",
+      "rationale": "क्रिया-प्रवाह बर जोड़, इब्रानी वाव उल्टा (vav-consecutive) सीधे पार नञ होलक"
+    }
+  ],
+  "translation": "आउ ओकर तीन संगी सब पर ओकर गुस्सा भड़कल, काहे कि ओकनी कोनो जवाब नञ पालन, आउ ⟨את⟩ इयोव के दोसी ठहरौलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/32\/1-4.1792007720090.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "आउ तीन"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "ओकर संगी सब पर"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "भड़कल"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ओकर गुस्सा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "पालन"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "जवाब"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "दोसी ठहरौलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इयोव"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "इयोव"
+    }
+  ],
+  "timestamp": "2026-10-14T19:55:20.091280705Z",
+  "model": "glm-5.3"
+}

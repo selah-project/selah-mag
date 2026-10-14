@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकर",
+      "rationale": "Hebrew ומשפטים has no pronoun; 'his judgments' supplied from context"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הללו יה",
+      "rationale": "closing summons to praise — the psalm's refrain addressing the congregation"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "the verse declares Israel's uniqueness among nations and ends commanding the hearers to praise Jah"
+    }
+  ],
+  "translation": "कोनो जाति के संग अइसन नञ कइलन, आउ ओकर नियाव के ओकनी जानलन नञ। याह के स्तुति करऽ!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/147\/17-20.1792006396631.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "כן",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "कोनो … के संग"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "आउ ओकर नियाव"
+    },
+    {
+      "surface": "בל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ओकनी जानलन"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करऽ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:16.632285193Z",
+  "model": "glm-5.3"
+}

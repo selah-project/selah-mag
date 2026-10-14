@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "इब्रानी 'जे अबहीं नञ भेलइ' के करता रूप में ठाढ़ हकइ; मगही के बाक्य-बनावट बर ⟨ऊ⟩ जोड़ल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "तीन दसा",
+      "rationale": "मरल, जिअत आउ नञ भेल — तीन अवस्था के तुला-तौल, गिनती वाला ढाँचा।"
+    }
+  ],
+  "translation": "आउ इ दुनों से बढ़िया हकइ ऊ, ⟨את⟩ जे अखन तक नञ भेलइ — जेकरा सुरुज के नीचे कइल गेल बुरा ⟨את⟩ काम नञ देखल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f6af2180538e3ce9e80a385de2e970bd47ac6839f9cc9947c1c6a73ee71573bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/4\/1-4.1792008406196.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "आउ बढ़िया"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "इ दुनों से"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे अखन तक नञ भेलइ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "अखन तक"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भेलइ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बुरा काम"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "कइल गेल"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:46.197145039Z",
+  "model": "glm-5.3"
+}

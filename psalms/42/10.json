@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "कालिहा होके",
+      "rationale": "קדר के सुभाविक अरथ अंगार-सन कालिहा होना हकइ; शोक मनाना ओकर विस्तार-अरथ हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "एल से",
+      "rationale": "पद सीधे एल के संबोधन करऽ हइ — हमर चट्टान से पछतावल प्रस्न"
+    }
+  ],
+  "translation": "हम कहऽ हिअन एल, हमर चट्टान, से — काहे तूँ हमरा बिसरि गेलहु? काहे हम कालिहा होके चलऽ हिअन, दुसमन के दबाव में?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b9bd11da79348d6666805f72eb05f7f8799d5786be60b4fd488e1466e40fff06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/42\/10-11.1792012070146.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "हम कहऽ हिअन"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "एल से"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "हमर चट्टान"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "तूँ हमरा बिसरि गेलहु"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "कालिहा होके"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "चलऽ हिअन"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "दबाव में"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "दुसमन के"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:50.147093027Z",
+  "model": "glm-5.3"
+}

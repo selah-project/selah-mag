@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी के बाक्य में क्रिया नञ हकइ (‘यहवे ऊ — एलोहीम’); मगही के copula चाही"
+    },
+    {
+      "kind": "elision",
+      "subject": "עוד",
+      "rationale": "‘आउ’ के अरथ के बिस्तार — ‘ओकरे जइसन दोसर’ — बाक्य के दोसरा भाग में घुलल हकइ"
+    }
+  ],
+  "translation": "ताकि धरती के सब जाति जानतन कि यहवे, ऊ एलोहीम हकइ; आउ कोनो दोसर नञ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d611074c2dce6dc2205ae58c87777883de1ccc264ba1c45a58d28c1951626fb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/8\/57-60.1791997040613.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ताकि"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "जानतन बर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ हकइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आउ (कोनो)"
+    }
+  ],
+  "timestamp": "2026-10-14T16:57:20.614174943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "गुस्सा",
+      "rationale": "אף के सुभाव 'नाक\/थुथनी' हकइ — इब्रानी में गुस्सा नाक के फूले से आवऽ हइ, मगही में ई तसवीर हट गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद सीधे परमेश्मा के संबोधन में हकइ — मोशे के प्रार्थना के भीतर"
+    }
+  ],
+  "translation": "काहे कि हमनी तोहर गुस्सा से खतम भेलियन, आउ तोहर क्रोध से हमनी घबरायल रहियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9a9f7a575c58e0385537700860b6347dc2ffdd45bba3f85b0a2f30fb94ca3e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/90\/5-8.1792005730953.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "खतम भेलियन"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "तोहर गुस्सा से"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "आउ तोहर क्रोध से"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "घबरायल रहियन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:10.953711404Z",
+  "model": "glm-5.3"
+}

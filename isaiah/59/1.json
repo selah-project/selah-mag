@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "छोट हाथ \/ बोझिल कान",
+      "rationale": "इब्रानी के रूपक: छोट हाथ = असमर्थता, बोझिल कान = बहरापन; जस के तस रखल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "israel",
+      "rationale": "पद तोहनी (इस्राएल के परजा) के सोझा बोलल गेल बात के सुरुआत हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जे…सकऽ",
+      "rationale": "इब्रानी के मिन्नत-बनावट के पूरा करे बर मगही में उपबाक्य जोड़ल गेलन।"
+    }
+  ],
+  "translation": "देखऽ, यहवे के हाथ छोट नञ भेलइ जे बचावे नञ सकऽ, आउ ओकर कान बोझिल नञ भेलइ जे सुने नञ सकऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/59\/1-4.1791999915280.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "छोट भेलइ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "बचावे से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "बोझिल भेलइ"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ओकर कान"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "सुने से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:45:15.281101979Z",
+  "model": "glm-5.3"
+}

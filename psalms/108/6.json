@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "होवे",
+      "rationale": "दुसरका बाक्य में किरिया हिब्रू में नञ हइ, मगही के बाक्य पूरा करे बर जोड़ल"
+    },
+    {
+      "kind": "you",
+      "subject": "एलोहीम",
+      "rationale": "सीधा अरदेस — एलोहीम के सम्बोधन"
+    }
+  ],
+  "translation": "ऊपर उठऽ हथिन, हे एलोहीम, अकास के ऊपर, आउ सब धरती के ऊपर तोहर महिमा ⟨होवे⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "accf66eeec04db68f48acba385f6d0ae670b2523cdd4a238306592ca49395313",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/108\/6-7.1792012105234.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ऊपर उठऽ हथिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ के ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "तोहर महिमा"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:25.234765352Z",
+  "model": "glm-5.3"
+}

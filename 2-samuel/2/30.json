@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "casualty count",
+      "rationale": "गिनती — दाविद के सेवक में उनइस मनखी आउ असाहेल कम हलन"
+    },
+    {
+      "kind": "addition",
+      "subject": "कम हलन",
+      "rationale": "paqad के तात्पर्य संख्या के अभाव बुझावे बर मगही में किरिया जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ योआब अब्नेर के पाछा से लौटलक आउ ⟨את⟩ पूरा लोग के जुटौलक; आउ गिनला जालक त ⟨the⟩ दाविद के सेवक में उनइस मनखी आउ असाहेल कम हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5af5f4fd87ce2fb91b2157f87cdb52801557c4396854f786aab9b93772326803",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/2\/29-32.1791995904519.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "आउ योआब"
+    },
+    {
+      "surface": "שב",
+      "gloss": "लौटलक"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "के पाछा से"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अब्नेर"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "जुटौलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा लोग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "गिनला जालक"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "के सेवक में से"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "उनइस (नौ)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(दस)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनखी"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आउ असाहे-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:38:24.520543416Z",
+  "model": "glm-5.3"
+}

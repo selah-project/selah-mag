@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלה",
+      "rationale": "'घिसै देलन\/जीर्ण कएलन' — 'बूढ़ कएलन' (made old, KJV) बनाम 'घिसै देलन' (worn away)।"
+    },
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "עצמותי बहुबचन; मगही 'हड्डी सब' में बहुबचन चिन्हा जोड़ल गेलन।"
+    }
+  ],
+  "translation": "ओ हमर मांस आउ चमड़ी के घिसै देलन हइ; हमर हड्डी सब के तोड़ देलन हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/3\/1-4.1792008209634.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "घिसै देलन हइ"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "हमर मांस"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "आउ चमड़ी"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "तोड़ देलन हइ"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "हमर हड्डी सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:03:29.635480006Z",
+  "model": "glm-5.3"
+}

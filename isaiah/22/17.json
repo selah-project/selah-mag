@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 22:17",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "טלטלה",
+      "rationale": "ए नाम-रूप तनाख़ में खाली इहे आवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "טלטלה גבר",
+      "rationale": "कुछ अनुवाद एकरा ढर्रे के रूप मानऽ हथिन ('एक बलवान ढरे नइ'), कुछ सम्बोधन ('हे बलवान')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטלטלך\/טלטלה · עטך\/עטה",
+      "rationale": "जड़ के पूरा-रूप दोहराव — उछालने आउ लपेटने दुनो के आवाज में बरबस्ता"
+    },
+    {
+      "kind": "you",
+      "subject": "शेबना के",
+      "rationale": "बचन सीधे ओकरा से कहल गेलइ हे जे आरा में कबर गढ़लक"
+    }
+  ],
+  "translation": "देखऽ, यहवे तोहरा उछाल-उछाइ के धइकऽ हथिन — एक पूरा उछाव, हे बलवान — आउ तोहरा लपेट-लपेट के लपेट लेतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "32fa59ba57dcbe7bad0e200916733d11fb10661db114c9aab1d2969d9bc3a9bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/22\/17-20.1791998996885.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מטלטלך",
+      "gloss": "तोहरा उछाल-उछाइ के धइकऽ हथिन"
+    },
+    {
+      "surface": "טלטלה",
+      "gloss": "एक पूरा उछाव"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "हे बलवान"
+    },
+    {
+      "surface": "ועטך",
+      "gloss": "आउ तोहरा लपेट-लपेट के"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "लपेट लेतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:29:56.886099071Z",
+  "model": "glm-5.3"
+}

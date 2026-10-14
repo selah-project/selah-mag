@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי אני",
+      "rationale": "हिब्रू के सौगंद-बोली 'हम जीवित अनी' — एकरा जीवत रहतिहे कसम के रूप में कहल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "के",
+      "rationale": "हिब्रू में जेनिटिव जोड़ सीधा हकइ; मगही के 'के' लगावल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के बात मोशे से",
+      "rationale": "यहवे मोशे के उत्तर देत हथिन — सीधा सम्बोधन।"
+    }
+  ],
+  "translation": "बाकि हम जीवित अनी — आउ यहवे के महिमा ⟨את⟩ सब धरती के भर देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "56797c2b2f10d33c88938f5a9bc846550580d21977451bd9ded42a070af4d92f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/14\/21-24.1791991098668.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "आउ भर देतइ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब धरती"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T15:18:18.668917299Z",
+  "model": "glm-5.3"
+}

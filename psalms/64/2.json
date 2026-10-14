@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "एलोहीम",
+      "rationale": "दाविद सीधे एलोहीम के सम्बोधन करऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשיחי",
+      "rationale": "सोच-विचार \/ शिकायत \/ ध्यान — एक्के जड़, अनुवादक लोग में मतभेद"
+    }
+  ],
+  "translation": "सुनऽ, एलोहीम, हमर बोली हमर सोच-विचार में; दुसमन के डर से तूँ हमर परान के रखवारी करऽ हऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/64\/1-4.1792005265244.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "हमर बोली"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "हमर सोच-विचार में"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "के डर से"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "दुसमन"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "रखवारी करऽ हऽ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "हमर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:25.245393300Z",
+  "model": "glm-5.3"
+}

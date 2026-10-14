@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משחיתותם",
+      "rationale": "गड्ढा-लोक (शेओल जइसन) बनाम 'नास' — KJV 'destructions', JPS 'graves'।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨अपन⟩",
+      "rationale": "דברו के अनुवाद में सम्बन्ध-सर्बनाम जोड़ल गेल।"
+    }
+  ],
+  "translation": "ऊ ⟨अपन⟩ बचन भेजलन आउ ओकनी के भला करलन, आउ ओकनी के ओकनी के गड्ढा से छुड़ालन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/107\/17-20.1792005926457.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "अपन बचन"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "आउ ओकनी के भला करलन"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "आउ छुड़ालन"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "ओकनी के गड्ढा से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:26.458802685Z",
+  "model": "glm-5.3"
+}

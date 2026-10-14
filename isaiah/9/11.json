@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "क्रोध",
+      "rationale": "אף literally 'nose\/nostrils' — anger by body-part; Magahi क्रोध loses the picture"
+    },
+    {
+      "kind": "idiom",
+      "subject": "पूरा मुँह से खा गेलन",
+      "rationale": "Hebrew 'devour with the whole mouth' — total consumption, kept literal"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא שב אפו ועוד ידו נטויה",
+      "rationale": "refrain repeated at 9:12,17,21 and 10:4 — structural refrain of the chapter"
+    }
+  ],
+  "translation": "अराम पूरुब से आउ पलिश्ती पाछू से, आउ ओकनी ⟨את⟩ यिस्राएल के पूरा मुँह से खा गेलन। ए सब के बावजूद ओकर क्रोध नञ टललइ आउ ओकर हाथ अबहीं तनल रहलइ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/9\/9-12.1791998754863.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "पूरुब से"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "आउ पलिश्ती"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "पाछू से"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "खा गेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "פה",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ए सब के बावजूद"
+    },
+    {
+      "surface": "זאת",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "टललइ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ओकर क्रोध"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "तनल रहलइ हे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:25:54.864222365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "नाम के सूची",
+      "rationale": "चार छुड़ाबै वाला के नाम के गिनती — यरुब्बाल, बेदान, यिफ्ताह, शमुएल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "बेदान",
+      "rationale": "בדן — केकहु 'बाराक' (LXX, बसब) पढ़ऽ हइ; मूलपाठ के बेदान रखल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "शमुएल इस्राएल के ओर 'तोहनी' कह के बोलऽ हइ।"
+    }
+  ],
+  "translation": "आउ यहवे यरुब्बाल के ⟨את⟩ आउ बेदान के ⟨את⟩ आउ यिफ्ताह के ⟨את⟩ आउ शमुएल के ⟨את⟩ भेजलन, आउ हुनका ⟨את⟩ तोहनी के चारो दने के दुसमन के हाथ से छुड़ाएलन, आउ तोहनी निर्भय बसल रही।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/12\/9-12.1791995081955.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यरुब्बाल"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "यरुब्बाल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "बेदान"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "बेदान"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "यिफ्ताह"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "यिफ्ताह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "शमुएल"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "छुड़ाएलन"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "तोहर दुसमन"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "चारो दने"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "बसल रही"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "निर्भय"
+    }
+  ],
+  "timestamp": "2026-10-14T16:24:41.956614111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרפות\/חורפיך",
+      "rationale": "एके जड़ के दोहराव — निंदा \/ निंदा करए वाला — मगही में 'बदनामी \/ बदनाम करए वाला' से धड़की बचलइ हे"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אכלתני",
+      "rationale": "'हमरा खइ गेलइ' — इब्रानी के शाब्दिक खए जाए के मुहावरा, जस के तस रखल गेलइ"
+    }
+  ],
+  "translation": "काहे कि तोहर घर के जलन हमरा खइ गेलइ हे, आउ तोहरा बदनाम करए वाला के बदनामी हमरा ऊपर गिरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "deacf9bac66a1bf073997e0ba7b132c46ba3017dd3621a4741e2c45b4ae10746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/69\/9-12.1792005338846.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "जलन"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "तोहर घर के"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "हमरा खइ गेलइ हे"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "आउ बदनामी"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "तोहरा बदनाम करए वाला के"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "गिरलन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ऊपर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:38.847137834Z",
+  "model": "glm-5.3"
+}

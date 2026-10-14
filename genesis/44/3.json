@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "धइल गेलन",
+      "rationale": "שלחו 'भेजल गेलन' के ठेल-क्रिया हकइ; मगही में 'भेजल' असंगत लागऽ हइ"
+    }
+  ],
+  "translation": "भोर इँजोर होएलन, आउ ओ लोग धइल गेलन — ऊ लोग आउ ओकनी के गधा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a82abdcb7550792f8ab784a9576bded4a65f8a0690588b6c0b09ec24898c0b12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/44\/1-4.1791987789725.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "אור",
+      "gloss": "इँजोर होएलन"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "आउ-ओ लोग"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "धइल गेलन"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ लोग"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "आउ-ओकनी के गधा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:23:09.726438315Z",
+  "model": "glm-5.3"
+}

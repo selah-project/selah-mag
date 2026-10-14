@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 4:21",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the officials beyond the river",
+      "rationale": "Artaxerxes' decree directly commands the addressees with imperative שימו."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טעם \/ טעמא",
+      "rationale": "root טעם 'taste\/decree' opens and closes the verse, an inclusio lost in translation."
+    }
+  ],
+  "translation": "अबहीं ए फरमान जारी करऽ — ए मनुख के रुकावे बर — आउ ई नगर नञ बने, जब तक हमरा तरफ से दोसर फरमान नञ आवऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ca046bd20883f9f08a14a02e1631db62ac592dcc0489c9ca31f3ea7e47e36d82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/4\/21-24.1792009268991.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "जारी करऽ"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "फरमान"
+    },
+    {
+      "surface": "לבטלא",
+      "gloss": "रुकावे बर"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ए"
+    },
+    {
+      "surface": "וקריתא",
+      "gloss": "आउ नगर"
+    },
+    {
+      "surface": "דך",
+      "gloss": "ई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תתבנא",
+      "gloss": "बने"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब तक"
+    },
+    {
+      "surface": "מני",
+      "gloss": "तरफ से"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "फरमान"
+    },
+    {
+      "surface": "יתשם",
+      "gloss": "नञ आवऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:21:08.992092728Z",
+  "model": "glm-5.3"
+}

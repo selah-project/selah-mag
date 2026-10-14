@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "निंदा मत दे",
+      "rationale": "Hebrew 'give not sleep to your eyes' kept literally; Magahi 'मत दे' mirrors the verb of giving."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנה \/ תנומה",
+      "rationale": "paired near-synonyms sleep\/drowsiness in parallel lines, eyes\/eyelids — the parallelism carried over pair for pair."
+    }
+  ],
+  "translation": "अपन आँख के निंदा मत दे, आउ अपन पलका के ऊँघ मत दे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "919b228c06ee50d05ed6d41fc55a6edbf23eff6c0d4d90ade1b7eda4afa14a4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/6\/1-4.1792006510732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "मत दे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "निंदा"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "अपन आँख के"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "आउ ... ऊँघ"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "अपन पलका के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:10.734100765Z",
+  "model": "glm-5.3"
+}

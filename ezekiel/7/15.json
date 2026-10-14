@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "होतइ",
+      "rationale": "पहिला अंश nominal सूची हकइ — 'बाहर तलवार' — क्रिया इब्रानी में नञ हकइ; दोसरा अंश के 'ऊ' संबंधक सर्बनामो जोड़ल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרב\/דבר\/רעב",
+      "rationale": "तीन मार — तलवार, महामारी, अकाल — बाहर-भीतर आउ खेत-नगर के किलाबंदी में व्यवस्थित; चियास्टिक ढाँचा।"
+    }
+  ],
+  "translation": "बाहर तलवार, आउ घर के भीतर महामारी आउ अकाल; जे खेत में होतइ ऊ तलवार से मरतइ, आउ जे नगर में होतइ, ओकरा अकाल आउ महामारी खा जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cf9721e4dacf5dabed144d5e47944140e38dd0231524cad43881d6aa5abfc196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/7\/13-16.1792001767572.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "आउ महामारी"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "आउ अकाल"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर के भीतर से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरतइ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "अकाल"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आउ महामारी"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ओकरा खा जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:16:07.573385879Z",
+  "model": "glm-5.3"
+}

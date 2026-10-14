@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नेफेश परान-प्राण हकइ — जिबा आउ जीवन-बल — 'आत्मा' बढ़िया अनुवाद नञ हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "कोनो",
+      "rationale": "हिब्रू में नकार लो-ए के बल पर खाली 'नञ' हकइ; 'कोनो' मगही के सुभाव बर जोड़ल गेल"
+    }
+  ],
+  "translation": "दुष्ट के परान बुराई चाहऽ हइ; ओकर आँख में ओकर संगी कोनो अनुग्रह नञ पावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6eca46156950e5b8304f229174d81d14854208c53097416c5ea7c6e75424a28d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/21\/9-12.1792006803046.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट के"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "चाहऽ हइ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "अनुग्रह पावऽ हइ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ओकर आँख में"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ओकर संगी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:03.047011290Z",
+  "model": "glm-5.3"
+}

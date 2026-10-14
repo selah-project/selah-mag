@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आवऽ हइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही के बाक्य के बर ⟨आवऽ हइ⟩ जोड़ल गेलइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "चतुराई",
+      "rationale": "हिन्दी\/भोजपुरी के चलनसार शब्द हकइ; गिनती मगही के अपन रूप लेल गेलइ"
+    }
+  ],
+  "translation": "काहे कि यहवे गिनती देलन; ओकर मुँह से ज्ञान आउ समझ आवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "435be9d97b6315d1073104b62dc16335594a3ebd771dcdeb957f2a7e63c793c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/2\/6-7.1792012084314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ओकर मुँह से"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "आउ समज"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:04.314994304Z",
+  "model": "glm-5.3"
+}

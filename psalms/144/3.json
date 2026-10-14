@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे के सोझा",
+      "rationale": "पद यहवे के सीधे सवाल हकइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ותחשבהו",
+      "rationale": "חשב के सुभाविक अरथ 'गिनना\/हिसाब करना' हकइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ותחשבהו",
+      "rationale": "'ओकरा खातिर सोचऽ हथिन' भी संभव; 'गिनना' रूप जड़ के नजदीक रखल"
+    }
+  ],
+  "translation": "यहवे, मनुस का हकइ कि तोहनी ओकरा जानऽ हथिन? मनुस के बेटा, कि ओकरा गिनऽ हथिन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/144\/1-4.1792006324902.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "कि तोहनी ओकरा जानऽ हथिन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मरनशील मनुस"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "कि ओकरा गिनऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:32:04.903121690Z",
+  "model": "glm-5.3"
+}

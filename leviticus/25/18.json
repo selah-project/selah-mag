@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "रहितै",
+      "rationale": "लब्तख के भाव पूरा करे बर मगही में जोड़ल सहायक शब्द; इब्रानी खाली ‘निर्भय’ कहऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ועשיתם…ועשיתם",
+      "rationale": "‘करना’ क्रिया दू बेर दोहराएल — आज्ञा आउ पालन दुनो में एके शब्द; मगही में दोहराव रखल गेल"
+    }
+  ],
+  "translation": "आउ तोहनी सब हमर बिधान के ⟨את⟩ बनइबऽ आउ हमर ठहराव के ⟨את⟩ रखवारी करबऽ आउ ओकनी के ⟨את⟩ करबऽ, आउ धरती ऊपर निर्भय ⟨रहितै⟩ बसबऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a431c7e21a0c3391dca146a9d882b362a1230afbf440704e41c90fb4c5af69f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/25\/17-20.1791990427189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "आउ बनइबऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर बिधान के"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "हमर बिधान"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हमर ठहराव के"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "हमर ठहराव"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "रखवारी करबऽ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "आउ करबऽ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "आउ बसबऽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "निर्भय"
+    }
+  ],
+  "timestamp": "2026-10-14T15:07:07.190042820Z",
+  "model": "glm-5.3"
+}

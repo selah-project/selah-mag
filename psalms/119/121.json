@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לעשקי",
+      "rationale": "इब्रानी 'मोहरा लगावै वाला \/ दबावै वाला' — मगही में 'दबावै वाला' लेलहीं।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תניחני",
+      "rationale": "'मत छोड़िहऽ' के दुसर पढ़ाई 'मत आराम देह' (ינח के अरथ 'आराम देना' भी) — किन्तु अरथ-धारा 'छोड़ऽ' के पक्ष में हकइ।"
+    }
+  ],
+  "translation": "हम नियाव आउ त्सेदेक कएलहीं; हमरा दबावै वालाकनी के हाथे कबो नञ छोड़िहऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/121-124.1792006150573.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "कएलहीं"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "आउ त्सेदेक"
+    },
+    {
+      "surface": "בל",
+      "gloss": "कबो नञ"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "छोड़िहऽ"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "दबावै वालाकनी के हाथे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:10.573891508Z",
+  "model": "glm-5.3"
+}

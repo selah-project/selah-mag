@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 34:36",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבי",
+      "rationale": "'हमर बाबूजी' (אב + i, YLT) बनाम 'हमर चाह' (lemma אוה) — दुनो पढ़ावा मिललइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "תשבת באנשי און",
+      "rationale": "'दुष्ट लोग जैसन जवाब देलक' (ASV\/JPS) बनाम 'दुष्ट लोग के बदले जवाब' (KJV)।"
+    },
+    {
+      "kind": "crux",
+      "subject": "עד נצח",
+      "rationale": "'अन्त तक' बनाम 'जीत तक \/ निर्णय तक' — नेत्सह के मतलब पर मतभेद।"
+    }
+  ],
+  "translation": "हमर बाबूजी — इय्योव के परखल जाव अन्त तक, दुष्ट लोग के जवाब के कारण।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4b9c74a86344e4b6bb2e20a3f3871d2af69ded51ebad81833bdfd845d270769c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/34\/33-36.1792007780272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "हमर बाबूजी"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "परखल जाव"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "इय्योव"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "अन्त"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "जवाब"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "און",
+      "gloss": "दुष्ट"
+    }
+  ],
+  "timestamp": "2026-10-14T19:56:20.273368645Z",
+  "model": "glm-5.3"
+}

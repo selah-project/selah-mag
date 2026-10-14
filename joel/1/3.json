@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "सुनाबऽ",
+      "rationale": "आज्ञार्थ किरिया — पीढ़ा-दर-पीढ़ा कथा सुनावे के हुकूम"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सुनाबऽ",
+      "rationale": "ספר शाब्दिक रूप से 'गिनऽ\/कहानी करऽ'; मगही में 'सुनाना' प्राकृतिक बोलचाल के रूप"
+    }
+  ],
+  "translation": "एकरा बारे में तोहनी के बेटा सब के सुनाबऽ, आउ तोहनी के बेटा सब ओकनी के बेटा सब के सुनाबै, आउ ओकनी के बेटा सब आगू पीढ़ी के सुनाबै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joel\/1\/1-4.1792003399489.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "एकरा बारे में"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "तोहनी के बेटा सब के"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "सुनाबऽ"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "आउ तोहनी के बेटा सब"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ओकनी के बेटा सब के"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "आउ ओकनी के बेटा सब"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "पीढ़ी के"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "आगू"
+    }
+  ],
+  "timestamp": "2026-10-14T18:43:19.490562560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 2:17",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आउ",
+      "rationale": "हिब्रू वाक्य व-उपसर्ग से जुड़ल हे; मगही में जोड़-सब्द लगावल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבהות\/רום",
+      "rationale": "दू बचन-समानार्थी शब्द के दोहराव — गरब आउ ऊँचाई — परालेखी जोड़ी, मगही में दोहराव रहऽ हइ"
+    }
+  ],
+  "translation": "आउ आदमी के गरब झुक जातइ, आउ मनुसन के ऊँचाई नीचान होतइ; आउ यहवे अकेले ओ दिन ऊँच हो जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cebda9a6d076349863ad4898fc80ffda88c7d6f3e759fdfc17eb90b549e3951b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/2\/17-20.1791998465691.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושח",
+      "gloss": "झुक जातइ"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "गरब"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "नीचान होतइ"
+    },
+    {
+      "surface": "רום",
+      "gloss": "ऊँचाई"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "मनुसन के"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "ऊँच हो जातइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओ दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ओ⟩"
+    }
+  ],
+  "timestamp": "2026-10-14T17:21:05.692197933Z",
+  "model": "glm-5.3"
+}

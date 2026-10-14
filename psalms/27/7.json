@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवा से",
+      "rationale": "सीधे यहवा के सम्बोधन — आज्ञार्थ बिनती।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "सुनऽ",
+      "rationale": "आज्ञार्थ क्रिया संगीत के बिनती शुरू करऽ हइ।"
+    }
+  ],
+  "translation": "सुनऽ यहवे हमरा बोली, हम पुकारऽ हइ — हमरा करुणा करऽ आउ हमरा जवाब देऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/27\/5-8.1792004775318.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "हमरा बोली"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "हम पुकारऽ हइ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "आउ हमरा करुणा करऽ"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "आउ हमरा जवाब देऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:06:15.319708215Z",
+  "model": "glm-5.3"
+}

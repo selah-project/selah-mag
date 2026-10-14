@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "फैलावल ठाढ़",
+      "rationale": "הרקיע ओ फैलावल चीज बतावऽ हकइ जेकरा एलोहीम अकास में फैलौलन (उत्पत्ति 1:8); 'आकाश-कपाट' जइसन चलनसार रूप छबि खोह देतइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "बखानऽ हथिन \/ बतावऽ हकइ",
+      "rationale": "मगही के किरिया रूप चाही; मूलपाठ केवल क्रिया-शब्द देतइ"
+    }
+  ],
+  "translation": "अकास एल के महिमा बखानऽ हथिन आउ ओकर हाथ के काम के फैलावल ठाढ़ बतावऽ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6ee1ef37859f5f961fdc80d50600889c5b80c1febc355b1b6dd03c1c23090bc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/19\/1-2.1792012064060.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "बखानऽ हथिन"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "आउ काम"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ओकर हाथ के"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "बतावऽ हकइ"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "फैलावल ठाढ़"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:44.061155175Z",
+  "model": "glm-5.3"
+}

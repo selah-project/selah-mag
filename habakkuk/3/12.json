@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "दललन",
+      "rationale": "דוש के शाब्दिक अरथ खलिहान में दहिसवा के गहिराई हकइ — जाति सब के अनाज के भाँति दलल जाना"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गुस्सा",
+      "rationale": "אף शाब्दिक नाक\/नथुना हकइ — क्रोध के शारीरिक चिन्हा"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद यहवे के सोझा सम्बोधन हकइ"
+    }
+  ],
+  "translation": "क्रोध में तूँ धरती लोड़लन; गुस्सा में तूँ जाति सब के दललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7673cd59b19b061289e226810539faed037cb851a321864aae4bac0adbcc1d30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/habakkuk\/3\/9-12.1792003966945.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "क्रोध में"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "लोड़लन"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "באף",
+      "gloss": "गुस्सा में"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "दललन"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब"
+    }
+  ],
+  "timestamp": "2026-10-14T18:52:46.946571784Z",
+  "model": "glm-5.3"
+}

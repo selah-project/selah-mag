@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "להתעולל \/ עללות",
+      "rationale": "एके जड़ के दोहराव — 'करे बर कुकरम' के अनुप्रास, मगही में जड़-मेल बचल नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to YHWH",
+      "rationale": "बिनती यहवे से चलित बिनती — हिरदय के रखवारी माँगल गेलइ हे।"
+    }
+  ],
+  "translation": "हमर हिरदय बुरा बात दने झुका मत; बुराई में कुकरम करे बर, ⟨את⟩ अविव बनइलिहारा आदमी के संग; आउ हम ओकनी के सुआद के खाना नञ खाबै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/141\/1-4.1792006312751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תט",
+      "gloss": "झुका मत"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमर हिरदय"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बात दने"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "कुकरम करे बर"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "कुकरम"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "बुराई में"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अविव बनइलिहारा आदमी"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "बनइलिहारा"
+    },
+    {
+      "surface": "און",
+      "gloss": "अविव"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "हम खाबै"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "ओकनी के सुआद के खाना"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:52.752322971Z",
+  "model": "glm-5.3"
+}

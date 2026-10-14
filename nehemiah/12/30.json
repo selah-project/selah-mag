@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויטהרו…ויטהרו",
+      "rationale": "एके क्रिया दू बेर — पहिला बेर आपन पवित्तर होना, दूसर बेर दूसर के पवित्तर करना; दोहराव रचना के हिस्सा हकइ।"
+    }
+  ],
+  "translation": "आउ पुरोहित आउ लेवी के लोग पवित्तर भेलन, आउ ओकनी ⟨את⟩ परजा आउ ⟨את⟩ दुआरी सब आउ ⟨את⟩ दीवार के पवित्तर कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2d8ceb953828e25d15639d1ac71a2ce37719ed517946bc71ae0940102cab399f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/12\/29-32.1792009784556.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "आउ पवित्तर भेलन"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "आउ लेवी के लोग"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "आउ पवित्तर कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परजा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दुआरी सब"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "दुआरी सब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दीवार"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "दीवार"
+    }
+  ],
+  "timestamp": "2026-10-14T20:29:44.556924105Z",
+  "model": "glm-5.3"
+}

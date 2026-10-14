@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 9:2",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "कोनो",
+      "rationale": "हिब्रू के प्रस्न रूप में अनिश्चित सर्बनाम मगही के बोल में जोड़ल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "पूरा पद यिस्राएल के दोसरा बचन में सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "लोग बड़ आउ ऊँच — अनाकी के बेटा सब, जेकरा तूँ जानऽ हऽ है आउ जेकरा बारे में तूँ सुनने हऽ है: की अनाक के बेटा के आगे ठाढ़ हो सकऽ है?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c298cf0073ab1c65ea62ad12d9b9b519ee49c8cf6fc63b54e0ad4a07c4f2f618",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/9\/1-4.1791992305956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "आउ ऊँच"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "अनाकी के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "जानऽ हऽ है"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "सुनने हऽ है"
+    },
+    {
+      "surface": "מי",
+      "gloss": "की कोनो"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ठाढ़ हो सकऽ है"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "अनाक"
+    }
+  ],
+  "timestamp": "2026-10-14T15:38:25.957227962Z",
+  "model": "glm-5.3"
+}

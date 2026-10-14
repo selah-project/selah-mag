@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ऊँच ठाम",
+      "rationale": "במות ऊँच पूजा-ठाम; चलनसार 'ऊँची जगह' के जगह मगही के सुभाविक रूप"
+    }
+  ],
+  "translation": "आउ ओ हटइलन ⟨את⟩ बिदेसी बेदी सब आउ ऊँच ठाम सब के, आउ ओ तोड़ देलन ⟨את⟩ पत्थल के खम्भा सब के, आउ काट देलन ⟨את⟩ अशेरा सब के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1cbf87edad93e0d28a62d6c2aef8e9a923ce6d697eca254c8c7b151b58e31afa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/14\/1-4.1792010914156.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "हटइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बिदेसी बेदी सब"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "बेदी सब"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "बिदेसी"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "ऊँच ठाम सब"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "तोड़ देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पत्थल के खम्भा सब"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "पत्थल के खम्भा सब"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "काट देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अशेरा सब"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "अशेरा सब"
+    }
+  ],
+  "timestamp": "2026-10-14T20:48:34.156978223Z",
+  "model": "glm-5.3"
+}

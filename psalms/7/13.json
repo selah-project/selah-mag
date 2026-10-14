@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "जे नञ लौटतइ",
+      "rationale": "ישוב के कर्ता अस्पस्ट हकइ — दुसमन लौटऽ हइ या यहवे (यल्त\/जेपीएस बहुबचन 'one turn not')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "एकरूप कएलन",
+      "rationale": "דרך धनुख बाँटल बर पैर से दाबे के क्रिया हकइ, मगही में 'एकरूप कएलन' बोलल जा"
+    }
+  ],
+  "translation": "जे नञ लौटतइ, ओकर तलवार धार चढ़ाबतइ; ओकर धनुख एकरूप कएलन आउ ओकरा तैयार कएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/7\/13-16.1792004399335.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जे नञ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "लौटतइ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ओकर तलवार"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "धार चढ़ाबतइ"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ओकर धनुख"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "एकरूप कएलन"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "आउ ओकरा तैयार कएलन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:59:59.336250089Z",
+  "model": "glm-5.3"
+}

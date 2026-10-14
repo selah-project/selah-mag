@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 32:14",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "अँगूर के खून",
+      "rationale": "हिब्रू खून कहऽ हइ — अंगूरी मद के रूपक; किछु अनुवादक 'रस' करऽ हथिन"
+    },
+    {
+      "kind": "crux",
+      "subject": "गेहूँ के गुर्दा-चरबी",
+      "rationale": "חלב כליות חטה — 'गेहूँ के गुर्दे' के साक्षात चित्र बनाम 'गेहूँ के बढ़िया हिस्सा' (ASV) के अरथ"
+    }
+  ],
+  "translation": "गाय के माखन आउ भेड़ के दूध, मेमना के चरबी आउ बाशान के बेटा मेढ़ा संग, आउ बकरा संग, गेहूँ के गुर्दा-चरबी संग; आउ अँगूर के खून — अंगूरी मद — तूँ पीलहुँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "984ffc9bc2d68474341d88b613dbae9148e9cafd8928321bacbf4f5550c88c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/32\/13-16.1791993033179.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמאת",
+      "gloss": "माखन"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाय"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "आउ दूध"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "आउ मेढ़ा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "बाशान"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "आउ बकरा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "गुर्दा"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "गेहूँ"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "आउ खून"
+    },
+    {
+      "surface": "ענב",
+      "gloss": "अँगूर"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "तूँ पीलहुँ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "अंगूरी मद"
+    }
+  ],
+  "timestamp": "2026-10-14T15:50:33.179930803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 15:5",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "यאלף",
+      "rationale": "पाप मुँह के सिखावऽ हइ (ASV\/JPS) बनाम मुँह पाप बतावऽ हइ (KJV) — हिब्रू दुनो दिसे खुलऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "एलिफाज योब से",
+      "rationale": "ई पूरा बात योब के सोझा कहल गेल हए।"
+    }
+  ],
+  "translation": "काहे कि तोहर पाप तोहर मुँह के सिखावऽ हइ, आउ तूँ चतुर लोग के जीभ चुनऽ हऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ff5ce7bb52185549f9a8869c1bb6a6d741a105e1176fff4db1430e744a0b876f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/15\/5-8.1792007408087.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יאלף",
+      "gloss": "सिखावऽ हइ"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "तोहर पाप"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "तोहर मुँह"
+    },
+    {
+      "surface": "ותבחר",
+      "gloss": "आउ चुनऽ हऽ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "चतुर लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:50:08.088261439Z",
+  "model": "glm-5.3"
+}

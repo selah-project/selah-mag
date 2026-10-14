@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואכלה…ארץ",
+      "rationale": "'धरती खा जातइ' — land as devourer; Hebrew picture जस के तस रखल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "सीधा तोहनी से सम्बोधन।"
+    }
+  ],
+  "translation": "आउ तोहनी जाति सब के बीच बरबाद भऽ जाब, आउ तोहनी दुसमन के धरती तोहनी के खा जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "02c5a1f5edea30e44c437818746424d85aa9b875f67556dbcff420a8f388cda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/26\/37-40.1791990454991.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "बरबाद भऽ जाब"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जाति सब के बीच"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "खा जातइ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "तोहनी दुसमन के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:07:34.992543361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "खाने के बिधान सीधे इस्राएल के परजा से कहल गेलइ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "पखना आउ खपच्चा",
+      "rationale": "סנפיר (मछरी के पखना) आउ קשקשת (खपच्चा-ढाँचा) बर मगही में कोनो एक थिर सब्द नञ हइ; देसी रूप लेल गेलइ।"
+    }
+  ],
+  "translation": "पानी के भीतर के सब जीव में से ई ⟨את⟩ तोहनी खाइब — जेकरा पखना आउ खपच्चा होवे, ओकरा तोहनी खाइब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6187fec61030015f0fa3c88e192d2f4e35fcae7349ee8f645803271e029fdb03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/14\/9-12.1791992370950.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तोहनी खाइब"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब जीव में से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी के भीतर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "पखना"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "आउ खपच्चा"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तोहनी खाइब"
+    }
+  ],
+  "timestamp": "2026-10-14T15:39:30.950883203Z",
+  "model": "glm-5.3"
+}

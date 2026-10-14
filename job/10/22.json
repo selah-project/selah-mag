@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 10:22",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עיפתה",
+      "rationale": "घना-अन्हार — ई पद तनाख़ में खाली इहे आवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותפע",
+      "rationale": "'चमकऽ हइ' — कोनो उजियाली नञ चमकऽ हइ, बाकि 'बहऽ हइ \/ फूटऽ हइ' भी पढ़ल जा हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפל…אפל",
+      "rationale": "बाक्य के दूनो किनारे एके पद — घेराबंदी, जे मगही में दोहराव से देखावल गेलइ"
+    }
+  ],
+  "translation": "घना-अन्हार के धरती, गोधूली-अन्हार जइसन; मौत-छाया आउ कोनो व्यवस्था नञ — जे चमकऽ हइ ऊ गोधूली-अन्हार जइसन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3cb5fd647e8707cdffffeeba5b8d227593115b29d19a62ad932f8a27c7609f60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/10\/21-22.1792007274931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "עיפתה",
+      "gloss": "घना-अन्हार"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "गोधूली-अन्हार"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "मौत-छाया"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "סדרים",
+      "gloss": "कोनो व्यवस्था"
+    },
+    {
+      "surface": "ותפע",
+      "gloss": "चमकऽ हइ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "गोधूली-अन्हार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:54.932144851Z",
+  "model": "glm-5.3"
+}

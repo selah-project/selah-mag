@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "तचस जानवर",
+      "rationale": "תחש के जानवर के पहचान बिग्यानी में झगड़ा हकइ — 'badger', 'seal', 'dugong', 'antelope' सब के दावा।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ओढ़ना के सूची",
+      "rationale": "सामान के गिनती जारी — तीन ओढ़ना एक पाँती में।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ मेढ़ा के चमड़ा के ओढ़ना, लाल रँगल, आउ ⟨את⟩ तचस जानवर के चमड़ा के ओढ़ना, आउ ⟨את⟩ परदा, ओ ढाकै वाला परदा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/39\/33-36.1791989407228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "मेढ़ा के चमड़ा के ओढ़ना"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ओढ़ना"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "चमड़ा के"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "मेढ़ा के"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "लाल रँगल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "तचस जानवर के चमड़ा के ओढ़ना"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ओढ़ना"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "चमड़ा के"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "तचस जानवर के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "परदा"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ढाकै वाला परदा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:50:07.229465418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תאות אדם חסדו",
+      "rationale": "“आदमी के चाह ओकर हेसेद हकइ” — JPS “चाह = ओकर शरम”, KJV\/ASV “ओकर भलाई”; पाठ अस्पस्ट हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "बेसी",
+      "rationale": "इब्रानी तुलना में “ठीक” अकेले हकइ; “से बेसी” बाक्य बनाबे बर जोड़ल"
+    }
+  ],
+  "translation": "आदमी के चाह ओकर हेसेद हकइ, आउ गरीब झूठा आदमी से बेसी ठीक हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f3c37f1b94bb87d26d2143964b5ddc38aba25361142ea20519786dd7e9fd4257",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/19\/21-24.1792006788250.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "चाह"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "आउ ठीक"
+    },
+    {
+      "surface": "רש",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "आदमी से"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "झूठा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:48.251253233Z",
+  "model": "glm-5.3"
+}

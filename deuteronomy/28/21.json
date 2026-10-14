@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הדבר",
+      "rationale": "इब्रानी 'दबेर' के अरथ महामारी हकइ, सादा 'बात' नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "पूरा पद एके पतरी में तोहनी (यिस्राएल) संबोधित हकइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "परतायित सर्बनाम-चिन्हा मगही क्रिया-रूप में घुसल हइ, अलग शब्द नञ।"
+    }
+  ],
+  "translation": "यहवे तोहरा संग ⟨את⟩ महामारी चिपकइ देतन, जखन तक ऊ ⟨את⟩ तोहनी ओ धरती से मिटा नञ देतन, जकरा तूँ बसे बर ऐठो आवऽ हए।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4b220c7b71648f3a82fdce1ff67afff678b2ce4e628ef399c09516313a8a3471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/28\/21-24.1791992905462.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "चिपकइ देतन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा संग"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "महामारी"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "महामारी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जखन तक"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "मिटा देतन"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तोहनी"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ओ धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जकरा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आवऽ हए"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ऐठो"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "बसे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:48:25.463556181Z",
+  "model": "glm-5.3"
+}

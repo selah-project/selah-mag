@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "आँगन के नाप",
+      "rationale": "लमाई-चौड़ाई-ऊँचाई कुहनी में गिनल गेलन हे — सौ, पचास, पाँच।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחמשים",
+      "rationale": "'पचास-पचास' (दूनो छोर पर) बनाम 'हर तरफ पचास' — हिब्रू 'ब-खमिशीम' दुहराव के नाप हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨होतइ⟩",
+      "rationale": "हिब्रू में क्रिया नञ हइ; नाप-बाक्य बर जोड़ल गेलन।"
+    }
+  ],
+  "translation": "आँगन के लमाई कुहनी में सौ ⟨होतइ⟩, आउ चौड़ाई हर तरफ पचास, आउ ऊँचाई पाँच कुहनी, महीन कतावल सूत के, आउ ओकर के पाया ताम्र के ⟨होतइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f1398718c3bbea2402730bdb3602f357070127879906a933206daa8aa99117b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/27\/17-20.1791988876913.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "लमाई"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "आँगन के"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "कुहनी में"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आउ चौड़ाई"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "हर तरफ पचास"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "आउ ऊँचाई"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "कुहनी"
+    },
+    {
+      "surface": "שש",
+      "gloss": "महीन सूत"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "कतावल"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "आउ ओकर के पाया"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ताम्र के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:41:16.913727683Z",
+  "model": "glm-5.3"
+}

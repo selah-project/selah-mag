@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 14:37",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שקערורת",
+      "rationale": "गड्ढा-वाला दाग — ई सब्द तनाख़ में खाली इहेइ जगह आवऽ हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירקרקת \/ אדמדמת",
+      "rationale": "दोनो रंग-सब्द दोहराव-जड़ से बनल हकइ (हरियर-हरियर, लाल-लाल) — दोहराव के चाल मगही में रखल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "שקערורת",
+      "rationale": "अनुवादक में मतभेद: 'हॉलो स्ट्रीक्स' (KJV) बनाम 'डिप्रेसन्स' (BSB); मूल अरथ धँसल गड्ढा हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ ⟨पुरोहित⟩ देखतन ⟨את⟩ दाग ⟨के⟩, आउ देखौ, दाग घर के दीवार में गड्ढा-गड्ढा, हरियर-हरियर या लाल-लाल, आउ ओकर देखावट दीवार से नीचे धँसल हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e61339b29cce012c4c6ab1fb1eceb947dbbe02b207e0436c312ffc8d9881011a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/14\/37-40.1791989868879.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "देखतन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाग"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "दाग"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखौ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "दाग"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "दीवार में"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "שקערורת",
+      "gloss": "गड्ढा-गड्ढा"
+    },
+    {
+      "surface": "ירקרקת",
+      "gloss": "हरियर-हरियर"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "लाल-लाल"
+    },
+    {
+      "surface": "ומראיהן",
+      "gloss": "आउ ओकर देखावट"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "नीचे धँसल"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "दीवार"
+    }
+  ],
+  "timestamp": "2026-10-14T14:57:48.880422958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 26:9",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קבלו",
+      "rationale": "'ओकर आगे' (before him, YLT) बनाम 'मार-यन्त्र' (ram, KJV engines) — एक अनुवादक असहमति के ठिकाना।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחרבותיו",
+      "rationale": "शाब्दिक 'ओकर तलवारन से'; KJV\/ASV 'कुल्हाड़ी' (axes) पढ़ऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "सूर (तोहर)",
+      "rationale": "पद सूर नगर के सीधा सम्बोधन हकइ — 'तोहर दीवालन', 'तोहर बुर्जन'।"
+    }
+  ],
+  "translation": "आउ ओकर टक्कर-मार-यन्त्र ओ ओकर दीवालन पर धरतइ, आउ ओकर बुर्जन के ओकर तलवारन से तोड़ देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5735e2d8f2765fe58dfa159b3a3470f0a7478326dc06086175249512316c63f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/26\/9-12.1792002485908.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומחי",
+      "gloss": "आउ टक्कर-मार-यन्त्र"
+    },
+    {
+      "surface": "קבלו",
+      "gloss": "ओकर आगे"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ओ धरतइ"
+    },
+    {
+      "surface": "בחמותיך",
+      "gloss": "तोहर दीवालन पर"
+    },
+    {
+      "surface": "ומגדלתיך",
+      "gloss": "आउ तोहर बुर्जन के"
+    },
+    {
+      "surface": "יתץ",
+      "gloss": "तोड़ देतइ"
+    },
+    {
+      "surface": "בחרבותיו",
+      "gloss": "ओकर तलवारन से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:28:05.908725120Z",
+  "model": "glm-5.3"
+}

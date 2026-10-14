@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "आगू बढ़लन",
+      "rationale": "ויעבर के साफ अरथ 'पार हो गेलन' हकइ; 'आगू बढ़लन' चाल-चलन के अरथ में लेल गेल"
+    }
+  ],
+  "translation": "आउ मोर्दखै आगू बढ़लन, आउ ओतने कइलन जेतना एस्तेर ओकरा आग्या देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6e71a439607a10edb43fa75f54b34f901436b59a24a2304d00f5ce4c7fa47d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/4\/17-17.1792008508774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "आगू बढ़लन"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मोर्दखै"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "जेतना सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "आग्या देलन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा आगे"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:08:28.775020450Z",
+  "model": "glm-5.3"
+}

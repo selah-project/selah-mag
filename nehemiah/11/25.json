@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 11:25",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गाँव-गिराँति",
+      "rationale": "हाचेरिम के अरथ आँगन\/बाड़ हकइ; बस्ती के अरथ में गाँव-गिराँति लेलगेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנותיה",
+      "rationale": "इब्रानी 'ओकर बेटीसब' कहऽ हइ — आसपास के बस्ती बर रूपक; रूप के जस के तस रखलगेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नगर-सूची",
+      "rationale": "ई पद बसे लोग के जगह के गिनती हकइ।"
+    }
+  ],
+  "translation": "आउ गाँव-गिराँति में, ओकरा खेत के संग — यहूदा के बेटासब किर्यत-हाअर्बा आउ ओकर बेटीसब में रहऽ हलथिन, आउ दीबोन आउ ओकर बेटीसब में, आउ येकब्त्सेएल आउ ओकर गाँव-गिराँति में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "97e754f21c9d2e45a5ba1690d390d31413eb0f1e2340090be27a884c3dcc0be6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/11\/25-28.1792009719296.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "आउ ... में"
+    },
+    {
+      "surface": "החצרים",
+      "gloss": "गाँव-गिराँति"
+    },
+    {
+      "surface": "בשדתם",
+      "gloss": "ओकरा खेत के संग"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "के बेटासब"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "रहऽ हलथिन"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "किर्यत"
+    },
+    {
+      "surface": "הארבע",
+      "gloss": "हाअर्बा"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "आउ ओकर बेटीसब में"
+    },
+    {
+      "surface": "ובדיבן",
+      "gloss": "आउ दीबोन में"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "आउ ओकर बेटीसब में"
+    },
+    {
+      "surface": "וביקבצאל",
+      "gloss": "आउ येकब्त्सेएल में"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "आउ ओकर गाँव-गिराँति में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:28:39.297278104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אותתם אותות",
+      "rationale": "ओकरे सब्द के दोहराव — 'अपन चिन्हा सब चिन्हा बना के' — परतिध्वनि मगही में अधूरी रह जाऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गरजलन",
+      "rationale": "שאג सेर के दहाड़ बर हकइ; इहाँ दुसमन के जोश के गरज"
+    }
+  ],
+  "translation": "तोहर दुसमन सब तोहर मिलन-जगह के बीच में गरजलन; अपन निसान सब गाड़ देलन निसान बना के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "064e49d03dbdcc4cffb63d4566098b25fe5a5867a68e7e0fa3d7ad05241f9919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/74\/1-4.1792005474937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "गरजलन"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "तोहर दुसमन सब"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "तोहर मिलन-जगह के"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "गाड़ देलन"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "अपन निसान सब"
+    },
+    {
+      "surface": "אותות",
+      "gloss": "निसान बना के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:54.938406814Z",
+  "model": "glm-5.3"
+}

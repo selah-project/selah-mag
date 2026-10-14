@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "सिंगी",
+      "rationale": "שופर मेढ़ा के सिंग के बिसेस बाजा हकइ; 'सिंगी' ओही आकार रखऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תרועה \/ קול שופר",
+      "rationale": "दू बाजा-ध्वनि जोड़ी — जय-धुन आउ सिंगी के बोली — के बनावट, अनुवाद में संग रहलइ।"
+    }
+  ],
+  "translation": "एलोहीम जय-धुन के संग ऊपर चढ़लन, यहवे सिंगी के बोली के संग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/47\/5-8.1792005056557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ऊपर चढ़लन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "जय-धुन के संग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "के बोली के संग"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "सिंगी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:56.558872412Z",
+  "model": "glm-5.3"
+}

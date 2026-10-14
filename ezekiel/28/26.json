@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 28:26",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "Hebrew lacks a copula in 'I YHWH their God'; Magahi requires हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפטים\/השאטים",
+      "rationale": "near-identical sounds — judgments (שפטים) on the despisers (השאטים); the paronomasia is lost in Magahi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישבו…לבטח",
+      "rationale": "the pair 'dwell securely' repeats in the verse, framing build-and-plant between two dwellings"
+    }
+  ],
+  "translation": "आउ ओकनी ओकरा पर निश्चिन्त रहितै बसब, घर बनाबतइ आउ अंगूर के बारी रोपबतइ, आउ निश्चिन्त रहितै बसब, जब हम ओकनी के चारो दने के सब ओकनी के तिरस्कार करए वाला के ⟨את⟩ नियाव करब; आउ ओकनी जानतइ कि हम यहवे ओकनी के एलोहीम हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "107a6cd93dba7f0cfdba22a43d7c5274eb103e97dc073426055d3a8874172a7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/28\/25-26.1792002470026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "आउ ओकनी बसब"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "निश्चिन्त रहितै"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "घर बनाबतइ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "रोपबतइ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "अंगूर के बारी"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "आउ ओकनी बसब"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "निश्चिन्त रहितै"
+    },
+    {
+      "surface": "בעשותי",
+      "gloss": "जब हम करब"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "השאטים",
+      "gloss": "तिरस्कार करए वाला"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "चारो दने के"
+    },
+    {
+      "surface": "מסביבותם",
+      "gloss": "ओकनी के चारो दने"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "आउ ओकनी जानतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ओकनी के एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T18:27:50.027956134Z",
+  "model": "glm-5.3"
+}

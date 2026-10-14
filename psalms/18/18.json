@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨लोगनी⟩",
+      "rationale": "बहुबचन के करता इब्रानी में क्रिया-रूप आगे चिन्हित करऽ हइ; मगही में साफ़ सब्द चाही"
+    },
+    {
+      "kind": "crux",
+      "subject": "עז",
+      "rationale": "KJV 'मोरा जोरदार बैरी' बनाम JPS 'सबसे जोरदार बैरी' — ढाँचा एकेस्त 'बैरी' के गुण बनाम बहुबचन"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמצו\/עז",
+      "rationale": "जोर (עז) आउ जोरदार होने (אמץ) के जड़-गूँज, मगही में दुहराव से किछु बचल"
+    }
+  ],
+  "translation": "ऊ हमनी के जोरदार बैरी से उबारलन, आउ हमनी के मोन-मारै वाला ⟨लोगनी⟩ से, काहे कि ऊ ⟨लोगनी⟩ हमरा से जादे जोरदार हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5f0ae4183a5e798b87df93791c30294faa36e2204f289ff0726af9e1fa051af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/18\/18-19.1792012074105.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "उबारलन"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "बैरी से"
+    },
+    {
+      "surface": "עז",
+      "gloss": "जोरदार"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "आउ मोन-मारै वाला से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "जोरदार हलन"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमरा से"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:54.105680251Z",
+  "model": "glm-5.3"
+}

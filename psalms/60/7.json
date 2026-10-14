@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועננו",
+      "rationale": "KJV\/JPS 'हमरा सुनऽ' (sing. ओकरा) बनाम इब्रानी पाठ 'हमनी के उत्तर देहू' (बहुबचन)।"
+    },
+    {
+      "kind": "you",
+      "subject": "एलोहीम",
+      "rationale": "परमेश्वर के सीधा पुकार — बचाऊ, उत्तर देहू के हुक्म।"
+    }
+  ],
+  "translation": "जेहने तोहरा परेम करै वाला छुटावल जा सकऽ होवे; बचाऊ तोहर दहिने हाथ से, आउ हमनी के उत्तर देहू।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/60\/5-8.1792005278624.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "जेहने"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "छुटावल जा सकऽ होवे"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "तोहरा परेम करै वाला"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "बचाऊ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "तोहर दहिने हाथ से"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "आउ हमनी के उत्तर देहू"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:38.625289235Z",
+  "model": "glm-5.3"
+}

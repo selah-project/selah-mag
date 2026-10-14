@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרמי",
+      "rationale": "'हमर चरम कइल' — 'बिनास बर समझल मनुस' बनाम 'हमर बिनसावे के भेंट': चरम के परति-अरथ पर अनुवादकन के मतभेद।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "gloss-note": "",
+      "rationale": "'परान' — नेफेस गला-साँस-जीवन-बल हकइ, दर्शन के 'आत्मा' नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "अहाब",
+      "rationale": "यहवे के बचन यिस्राएल के राजा अहाब के सीधे सम्बोधन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "एकरासे",
+      "rationale": "इब्रानी में अलग 'इसलिए' नञ; वहिव्यत्ता ओकरा आगे के 'काहे कि' से बनऽ हइ।"
+    }
+  ],
+  "translation": "ऊ ओकरा कहलन, यहवे ई बात कहऽ हइ — काहे कि तूँ ⟨את⟩ ओ मनुस के छोड़ देलक जेकरा हम बिनास बर समझलन रहनी, तोहर हाथ से — एकरासे तोहर परान ओकर परान के बदला होतइ आउ तोहर लोग ओकर लोग के बदला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/20\/41-43.1791997470626.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ई बात"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יען",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "छोड़ देलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ मनुस के"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "जेकरा हम बिनास बर समझलन रहनी"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "तोहर हाथ से"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "एकरासे होतइ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "तोहर परान"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ओकर परान"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "आउ तोहर लोग"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T17:04:30.627818440Z",
+  "model": "glm-5.3"
+}

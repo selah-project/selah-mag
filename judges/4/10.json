@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "अपन गोड़ पर",
+      "rationale": "ברגליव 'गोड़ पर' इब्रानी के चाल हकइ — कइसनु 'पाछा-पाछा' के अरथ; शाब्दिक रूप रखलन"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दस हजार आदमी",
+      "rationale": "सेना के गिनती"
+    }
+  ],
+  "translation": "आउ बाराक ⟨את⟩ ज़बूलून आउ ⟨את⟩ नफ्ताली के केदेस बुलइलन; आउ ऊ अपन गोड़ पर दस हजार आदमी लेके चढ़लक, आउ दबोरा ओकर संग चढ़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "39128d9f5cd1ea89fc00d6ea3be1ac112c3edf8892b3a7efddd80eec11265859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/4\/9-12.1791994071949.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "बुलइलन"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "बाराक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ज़बूलून के"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ज़बूलून"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "नफ्ताली के"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ्ताली"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "केदेस"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़लक"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "अपन गोड़ पर"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "चढ़लन"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संग"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "दबोरा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:07:51.950014201Z",
+  "model": "glm-5.3"
+}

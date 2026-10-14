@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשה אל אחתה",
+      "rationale": "lit. 'each woman to her sister' = 'one to another', for curtains; the kinship picture kept in Magahi as 'एक ओकर बहिन के संगे'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "एक-दोसरा से",
+      "rationale": "plain reading 'joined one to another' also possible; the sister-idiom kept beside it"
+    }
+  ],
+  "translation": "पाँच परदा एक-दोसरा से जुड़ल रहतइ — एक ओकर बहिन के संगे — आउ पाँच परदा जुड़ल, एक ओकर बहिन के संगे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "05f50be337aa0bc8e60bc8f241b60b061d1c6fd6af66a52c361de9576b52c249",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/26\/1-4.1791988929067.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "जुड़ल"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "संगे"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "ओकर बहिन"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आउ पाँच"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "जुड़ल"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "संगे"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "ओकर बहिन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:42:09.069002092Z",
+  "model": "glm-5.3"
+}

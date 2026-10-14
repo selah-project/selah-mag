@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 28:11",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "पत्थल सभ",
+      "rationale": "इब्रानी बहुबचन ‘ओ जगह के पत्थल सभ में से’ कहऽ हइ; अनुवाद परम्परा (KJV\/ASV\/JPS) एक पत्थल पढ़ऽ हइ — 28:18 में फिर एकबचन आवऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "एक",
+      "rationale": "बमकोम निर्दिस्ट नञ हइ; ‘एक’ जोड़ल गेलै जेकरा मगही स्वाभाविक लगऽ हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "מראשתיו",
+      "rationale": "मूल: ‘ओकर मूड़ी-पास’ (अबिधायक बहुबचन); ‘मूड़ी के नीचे’ में मूल के बनावट कुछ बदल गेलै।"
+    }
+  ],
+  "translation": "आउ ओ ⟨एक⟩ जगह पर पहुँचलन आउ उहाँ रात बितालन, काहे कि सुरुज डूब गेलै; आउ ओ ओ जगह के पत्थल सभ में से लेलन आउ ओकरा अपन मूड़ी के नीचे रखलन, आउ ओ ओही जगह में लेटलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "21fc7755373c638033cd02844917e04d96be732a48242a722026efd8f4952ed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/28\/9-12.1791987138144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפגע",
+      "gloss": "पहुँचलन"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "जगह पर"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "रात बितालन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בא",
+      "gloss": "डूब गेलै"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "מאבני",
+      "gloss": "पत्थल सभ में से"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ओ जगह के"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "मूड़ी के नीचे"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "लेटलन"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "जगह में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    }
+  ],
+  "timestamp": "2026-10-14T14:12:18.145289778Z",
+  "model": "glm-5.3"
+}

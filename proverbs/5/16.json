@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפוצו",
+      "rationale": "इच्छार्थ 'बहऽ जाय' (KJV\/JPS) बनाम प्रसंग-प्रश्न 'काहे कि बहतइ?' (ASV\/BSB) — अगिला पद के 'नञ अजनबी के संग' प्रश्न के पक्ष देत हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "काहे कि ... ?",
+      "rationale": "हिब्रू के क्रिया-रूप से प्रश्न के लहजा उभारे बर जोड़ल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פלגי מים",
+      "rationale": "पानी के नहर-धारा के रूपक जारी — झरना (मेहरारू) के बहे के चित्र, पूरा खण्ड के जल-रूपक के छोर"
+    }
+  ],
+  "translation": "काहे कि तोहरा झरना सब बाहिर फटतइ, गली सब में पानी के धारा सब?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "748318b3b54d52d1c30d26421f1c48bcc02a03a82e2ab02817d04b22aed23631",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/5\/13-16.1792006486664.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "फटतइ"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "तोहरा झरना सब"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "गली सब में"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "धारा सब"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:34:46.665275040Z",
+  "model": "glm-5.3"
+}

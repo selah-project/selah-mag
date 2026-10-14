@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "जाएत-आवैत",
+      "rationale": "हलोख वशोख — बिना रुके चलत भाव, इब्रानी के दो किरिया के जोड़ी"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सौ पचास दिन",
+      "rationale": "दिन के गिनती — महाप्लावन के समय-पट्टी"
+    }
+  ],
+  "translation": "आउ पानी धरती से लौटए लागल, जाएत-आवैत; आउ सौ पचास दिन के अंत में पानी घटए लागल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "eeab0d0e7f65f5db27d4e71f64c6a9b1af13084f7a969ddbabff66685404b312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/8\/1-4.1791986426017.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "लौटए लागल"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "जाएत"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "आवैत"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "घटए लागल"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "अंत में"
+    },
+    {
+      "surface": "חמישים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "आउ सौ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:00:26.018833151Z",
+  "model": "glm-5.3"
+}

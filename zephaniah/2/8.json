@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרפת · חרפו",
+      "rationale": "नाम-संज्ञा आउ क्रिया एके जड़ (חרף) से — ताना\/ताना मारल — मगही में अंशतः बचल"
+    },
+    {
+      "kind": "crux",
+      "subject": "על גבולם \/ ओकनी के सीमा के ऊपर",
+      "rationale": "'ओकरनी के सीमा के विरुद्ध अकड़लन' बनाम 'हमर सीमा के विरुद्ध बढ़लन' — सर्वनाम के मालिक पर अनुवादक बाँटल हथिन"
+    }
+  ],
+  "translation": "हम मोआब के ताना आउ अम्मोन के बेटा लोग के गाली सुनलिअन, जे हमर लोग ⟨את⟩ के ताना मारलन आउ ओकनी के सीमा के ऊपर अकड़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "061070029fe53190c117967deeda02d981db13992484cb046daf42f2543ad383",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zephaniah\/2\/5-8.1792004033897.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "हम सुनलिअन"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ताना"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब के"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "आउ गाली"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा लोग"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "ताना मारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर लोग"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमर लोग"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "आउ अकड़लन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ओकनी के सीमा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:53:53.898882988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מुँह \/ उपस्थिति",
+      "rationale": "פני׮ के शाब्दिक अरथ 'मुँह' हकइ; अनुवाद परम्परा 'उपस्थिति' बतावऽ हइ — मगही रूप रूप के रखऽ हइ आउ ⟨आगू⟩ के जोड़ल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨आगू⟩",
+      "rationale": "मुँह के जाए के अरथ बुझावे बर दिशा-सब्द जोड़ल गेल।"
+    }
+  ],
+  "translation": "आउ ऊ कहलन: हमर मुँह ⟨आगू⟩ जातइ, आउ हम तोहरा आराम देब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/33\/13-16.1791989234157.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ ऊ कहलन"
+    },
+    {
+      "surface": "פני",
+      "gloss": "हमर मुँह"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "जातइ"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "आउ हम... आराम देब"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:47:14.158522903Z",
+  "model": "glm-5.3"
+}

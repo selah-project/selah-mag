@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नेफेश ‘साँस लेवे वाला जीव \/ परान’ हकइ — आत्मा जइसन अलग चीज नञ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "पद 18 से जुड़ाव",
+      "rationale": "‘बर’ के अरथ पद 18 के आँख के काम बतावऽ हइ; स्वतंत्र पद नञ हकइ।"
+    }
+  ],
+  "translation": "ओकनी के परान मौत से छुड़ावे बर आउ अकाल में ओकनी के जियावे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/33\/17-20.1792004859005.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "छुड़ावे बर"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "मौत से"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ओकनी के परान"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "आउ ओकनी के जियावे बर"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "अकाल में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:39.006629903Z",
+  "model": "glm-5.3"
+}

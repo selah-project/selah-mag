@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "Subject pronoun supplied; Hebrew fronts the definite noun הָאִשָּׁה before the verb."
+    },
+    {
+      "kind": "alternative",
+      "subject": "हो सकऽ हइ कि",
+      "rationale": "אוּלַי could also be read as the full fear-question 'what if she will not come?', as in geneva\/kjv."
+    }
+  ],
+  "translation": "आउ हम हमर मालिक से कहलियन, हो सकऽ हइ कि ऊ जनाना हमर पाछे नञ आवत।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9fab278f579303705eaf6a7e942b8750abc3759fa8f436964af1f5be934eb3a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/24\/37-40.1791986949614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आउ कहलियन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हमर मालिक"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हो सकऽ हइ कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "आवत"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ऊ जनाना"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "हमर पाछे"
+    }
+  ],
+  "timestamp": "2026-10-14T14:09:09.615631320Z",
+  "model": "glm-5.3"
+}

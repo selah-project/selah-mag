@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 14:44",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "एहने करऽ आउ एहने बढ़ावऽ",
+      "rationale": "हिब्रू के शपथ-रूप 'כה יעשה…וכה ׯוסף' — अक्षरशः 'एहने करऽ आउ एहने जोड़ऽ'; प्रत्यक्ष अर्थ से शपथ का जाता है"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות תמות",
+      "rationale": "infinitive absolute — 'मौत मरबइ' का दोहराव; मगही में 'मरबइ ही मरबइ' से जोर बनाओल गेलइ"
+    }
+  ],
+  "translation": "आउ शाऊल कहलन — एलोहीम एहने करऽ, आउ एहने बढ़ावऽ — काहे कि तूँ मरबइ ही मरबइ, योनातान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "745f2edae157a4d613e01392984c861b0081eecd34e2fac454afc55ddfe44954",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/14\/41-44.1791995199635.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "שאוײ",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "आउ एहने"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "बढ़ावऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मरबइ ही"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "मरबइ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "योनातान"
+    }
+  ],
+  "timestamp": "2026-10-14T16:26:39.637013748Z",
+  "model": "glm-5.3"
+}

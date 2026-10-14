@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "निष्क्रिय किरिया में कर्ता के नाम हिब्रू में नञ हइ, मगही के साफ बात बर जोड़ल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר",
+      "rationale": "पद 13 के शमर के संग जड़-मेल — याकोव के रखवारी आउ यिस्राएल के रखवारी एके शब्द"
+    }
+  ],
+  "translation": "आउ नबी के हाथे यहवे ⟨את⟩ यिस्राएल के मिस्रयिम से उपारलन, आउ नबी के हाथे ⟨ऊ⟩ रखवारी भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/12\/13-15.1792003277512.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "आउ नबी के हाथे"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "उपारलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम से"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "आउ नबी के हाथे"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "रखवारी भेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:41:17.513443145Z",
+  "model": "glm-5.3"
+}

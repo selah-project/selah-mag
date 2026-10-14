@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "मगही के अनुवाद में प्रत्यय के साथ 'अपन' जोड़ा गया, हिब्रू में क्रिया प्रत्यय ही यह काम करता है"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשבע",
+      "rationale": "שבע का शाब्दिक अर्थ है 'तृप्त होना तक', जिसे 'भरपेट' से बदला गया है"
+    },
+    {
+      "kind": "elision",
+      "subject": "ובטן",
+      "rationale": "क्रिया 'होती है' जोड़ी गई, हिब्रू में क्रिया नहीं है"
+    }
+  ],
+  "translation": "त्सेदेक वाला ⟨अपन⟩ परान के भरपेट खाय लऽ हइ, बाकि दुष्ट लोग के पेट के चीज कम रहऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ccca0a766737d01783c5100890cb8b191844fa6b052813071620d84488539b42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/13\/25-25.1792006604826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "त्सेदेक वाला"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाय लऽ हइ"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "भरपेट"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "अपन परान"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "बाकि पेट"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट लोग के"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "कम रहऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:44.827453040Z",
+  "model": "glm-5.3"
+}

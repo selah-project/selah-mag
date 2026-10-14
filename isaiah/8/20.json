@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחר",
+      "rationale": "शाखर के अरथ 'भोर' — कोनो पढ़निहार 'भोर' (आसा) मानऽ हइ, कोनो दुसर संस्करण के मोताबिक 'साँझ-अन्हार'।"
+    },
+    {
+      "kind": "addition",
+      "subject": "के ओर",
+      "rationale": "लामेद-जोड़ल संज्ञा बिना किरिया के ठाढ़ हकइ; मगही में 'के ओर' जोड़ल गेलइ।"
+    },
+    {
+      "kind": "mystery",
+      "subject": "गवाही",
+      "rationale": "8:16 में सील कइल गवाही के ओर संकेत — बान्हल-सीलबंद बात।"
+    }
+  ],
+  "translation": "तोरा आउ गवाही के ओर! जे ई बात के मोताबिक नञ कहतइ, ओकरा कोनो भोर नञ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e832904571fae8121561e3eba20d8ef95608fe040f17ce25c89e5ae9e27d3d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/8\/17-20.1791998671826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "तोरा के ओर"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "आउ गवाही के ओर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "कहतइ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "बात के मोताबिक"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ हइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा के"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "कोनो भोर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:24:31.827649058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מנגה ממטר",
+      "rationale": "चमक आउ बरखा के संग के जोड़ — पढ़ाव बाँटल हइ: बरखा के बाद के चमक बनाम चमक बरखा दुनो"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקר…בקר",
+      "rationale": "भोर शब्द दू बेर — सुरुज उगे के भोर आउ बादल-नञ भोर के गूँज"
+    }
+  ],
+  "translation": "आउ भोर के इँजोर जइसन सुरुज उगतइ — बादल नञ भेल भोर — चमक के संग, बरखा के बाद धरती के हरियर घास।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/23\/1-4.1791996596196.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "आउ जइसन इँजोर"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "उगतइ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "चमक से"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "बरखा"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "हरियर घास"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T16:49:56.197678094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שנא\/משנאיך\/אשנא",
+      "rationale": "एके जड़ तीन बेर — घृणा करए वाला आउ घृणा करए — के दोहराव मगही में नफरत के दोहराव से टिकऽ हइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "अश्न\/אתקוטט",
+      "rationale": "एत्कोतेत के असल अरथ 'काट देना\/घृणा से अलग करना'; 'झगड़ना' (जेपीएस) दोसर पढ़ाई हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "सीधा यहवे के संबोधन — 'हे यहवे' के तरह"
+    }
+  ],
+  "translation": "की हम ओकनी के नफरत नञ करऽ हिअए, यहवे, जे तोहरा नफरत करऽ हइ? आउ जे तोहर बिरोध करऽ हइ, ओकरा ले हम घृणा-भाव नञ रखऽ हिअए?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1eda32a22fb1984b335321c369a0668a3e2046fbbda41aff5c9a3b27e93e8ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/139\/21-24.1792006296198.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "की...नञ"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "तोहरा नफरत करए वाला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "हम नफरत करऽ हिअए"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "आउ तोहर बिरोध करए वाला"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "हम घृणा-भाव रखऽ हिअए"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:36.199306591Z",
+  "model": "glm-5.3"
+}

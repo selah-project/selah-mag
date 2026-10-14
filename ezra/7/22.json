@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 7:22",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सौ किक्कर \/ कोर \/ बत",
+      "rationale": "Verse is a quantified allowance: hundred talents of silver, hundred cors of wheat, hundred baths of wine and oil; measure-names transliterated"
+    },
+    {
+      "kind": "idiom",
+      "subject": "बिना लिखल",
+      "rationale": "די לא כתב literally 'that is not written' — salt unquantified, i.e. without set limit"
+    }
+  ],
+  "translation": "माईद सौ किक्कर चानी तक, आउ माईद सौ कोर गोहूँ तक, आउ माईद सौ बत अंगूरी मद तक, आउ माईद सौ बत तेल तक, आउ नमक — बिना लिखल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd9f45efde6d371553d6dac0bd0fb32c0e8d4738f895bb9e69b082202274be43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/7\/21-24.1792009422678.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "माईद … तक"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "ככרין",
+      "gloss": "किक्कर"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ माईद … तक"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "गोहूँ"
+    },
+    {
+      "surface": "כרין",
+      "gloss": "कोर"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ माईद … तक"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "अंगूरी मद"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "बत"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ माईद … तक"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "बत"
+    },
+    {
+      "surface": "משח",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ומלח",
+      "gloss": "आउ नमक"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "लिखल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:23:42.679774417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 7:9",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שם גדול \/ הגדלים",
+      "rationale": "„बड़ नाम“ आउ „बड़ लोग“ — इब्रानी ओकरा गिनती के बात कहऽ हइ: बड़ लोग के नाम के बराबर।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मुँह से",
+      "rationale": "מפניך सचमुच „तोहर मुँह से“ हकइ — दुस्मन तोहर आगे से मेटाएल जातइ।"
+    }
+  ],
+  "translation": "आउ हम तोहर संग रहलन हर ओह जगह जतए तूँ गेलन, आउ हम ⟨את⟩ तोहर सब दुस्मन के तोहर मुँह से काट देलन, आउ हम तोहर बर एक बड़ नाम बनइबइ, जइसन नाम ओ बड़ लोग के हकइ जे धरती में हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0c2973c82eb216851aa80de776f6caae6aafc2468c2e311d968eeaca611ecf25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/7\/9-12.1791995980475.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "आउ हम रहलन"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहर संग"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर ओह जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जतए"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "तूँ गेलन"
+    },
+    {
+      "surface": "ואכרתה",
+      "gloss": "आउ हम काट देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर सब दुस्मन के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "तोहर दुस्मन"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "तोहर मुँह से"
+    },
+    {
+      "surface": "ועשתי",
+      "gloss": "आउ हम बनइबइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर बर"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "जइसन नाम"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "बड़ लोग के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:39:40.476860323Z",
+  "model": "glm-5.3"
+}

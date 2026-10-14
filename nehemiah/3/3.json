@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרוהו",
+      "rationale": "'ओकर बीम बान्हलन' (KJV 'laid the beams') बनाम 'ओकरा छतन' (roofed) — जड़ קרה 'मिलना\/इकठ्ठा करना'।"
+    },
+    {
+      "kind": "elision",
+      "subject": "קרוהו के कर्म",
+      "rationale": "हिब्रू में क्रिया-रूप बतावऽ हकइ कि ओकनी खुद काम कइलन; मगही में कर्म साफ करे के पड़लन।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ मछरी के दुआरी बनइलन हस्सेनाआ के बेटा सब; ओकनी ओकर बीम बान्हलन आउ ओकर केवाड़ी खड़ा कइलन, ओकर ताला आउ ओकर काठी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "58d85b9bbec9fa0effb6bf849852b28ee4c2088ad02f600908eeecbb369d97a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/3\/1-4.1792009594246.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "मछरी के दुआरी"
+    },
+    {
+      "surface": "שער",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "मछरी"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "हस्सेनाआ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ओकनी"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "ओकर बीम बान्हलन"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "खड़ा कइलन"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "ओकर केवाड़ी"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "ओकर ताला"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "आउ ओकर काठी"
+    }
+  ],
+  "timestamp": "2026-10-14T20:26:34.248025908Z",
+  "model": "glm-5.3"
+}

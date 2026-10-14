@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 2:27",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עליו",
+      "rationale": "literally 'upon him', rendered 'ओकरा संग' (next to him)"
+    },
+    {
+      "kind": "addition",
+      "subject": "होतइ",
+      "rationale": "Magahi copula added; Hebrew verbless"
+    }
+  ],
+  "translation": "आउ ओकरा संग डेरा डालनिहार आशेर के गोत्र; आउ आशेर के बेटासब के नायक पगिएल होतइ, ओकरान के बेटा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a26588904bf7f11957b1aa1b613ef6586b68311a94ea9d85df61f08b703f5844",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/2\/25-28.1791990559860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "आउ डेरा डालनिहार"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "गोत्र"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "आउ नायक"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के बेटासब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "पगिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ओकरान"
+    }
+  ],
+  "timestamp": "2026-10-14T15:09:19.861447584Z",
+  "model": "glm-5.3"
+}

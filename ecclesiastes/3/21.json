@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "मי יודע",
+      "rationale": "पुछन खुलल छूटल हे — कोन जानऽ हइ (अनिस्चित, ASV\/JPS\/BSB) बनाम कोन जानऽ हइ कि जरूर (KJV में दावा जइसन)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "רוח के एके रूप रखल गेल हे — बतास, साँस आउ जीवन-शक्ति तीनों अरथ एके सब्द में"
+    },
+    {
+      "kind": "mystery",
+      "subject": "मौत के पाछे के रूआख के गति",
+      "rationale": "पाठ जान-बूझ के अनुत्तरित छोड़ऽ हइ — बतावल नञ, छुपावल हे"
+    }
+  ],
+  "translation": "कोन जानऽ हइ कि आदमी के बेटाकन के रूआख चढ़ऽ हइ — ऊ ऊपर — आउ पसु के रूआख उतरऽ हइ — ऊ नीचे धरती के दने?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "806e747af1c504056d8ef70d1de1f634c46268e2beb4b72cae911afe29ab3a04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/3\/21-22.1792008335741.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जानऽ हइ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…के बेटाकन"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "चढ़ऽ हइ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आउ रूआख"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "पसु के"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "उतरऽ हइ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती के दने"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:35.741710632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मूरत",
+      "rationale": "צלם: 'परछाइं\/माया-मूरत' के अरथ में — सपना के जइसन निछली आकृति, गढ़ल पूजा-मूरत नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעיר",
+      "rationale": "'जब तूँ जागबइ' बनाम 'जब तूँ हमनी के जगाबइ' — करता के पहिचान पर अनुवादक मतभेद"
+    }
+  ],
+  "translation": "जागैवला के सपना जइसन हो हइ — हे अदोनाय, जब तूँ जागबइ, तूँ ओकनी के मूरत के तिरस्कार करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d31432a85700b1e047adc134f4595a8af7363556d66597757182c6ded057e1f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/73\/17-20.1792005411751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "सपना जइसन"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "जागैवला के"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "जागबइ"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "ओकनी के मूरत"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "तिरस्कार करबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:51.752066871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तूँ",
+      "rationale": "करता सर्बनाम मगही किरिया-रूप खइबऽ बर मंजूर, बाकि इब्रानी के आगमन-वाच्य में ओकर अलग रूप नञ हकइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "यिस्राएल",
+      "rationale": "खाइल के बाद असीस के आज्ञा — भोजन-ब्रह्मबचन के जड़"
+    }
+  ],
+  "translation": "आउ तूँ खइबऽ आउ भर जइबऽ, आउ यहवे ⟨את⟩, तोहर एलोहीम, के ओ नीक धरती बर — जे ऊ तोहरा देलन हे — असीस दइबऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "81c8c2dfd8856795cd331c2af1ca27e223e19b83ede43042cf8d33aaf20f5a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/8\/9-12.1791992196204.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "आउ खइबऽ"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "आउ भर जइबऽ"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "आउ असीस दइबऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:36:36.205523234Z",
+  "model": "glm-5.3"
+}

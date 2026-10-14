@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "'कहितै' बाकी पद के ओर इसारा हकइ (भाग 9 के शुरुआत); एकरा 'कहितै' से छोड़ल गेल।"
+    }
+  ],
+  "translation": "आउ एबेद-मेलेक राजा के घर से बाहिर अइलन आउ राजा से बात कहलन, कहितै —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "acfc341daa1a1c241b79a57dae25c64d9ea585388bd1a8fd4abc6d03bffc7bc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/38\/5-8.1792001221734.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आउ अइलन"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "एबेद-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "-मेलेक"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर से बाहिर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "आउ बात कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहितै"
+    }
+  ],
+  "timestamp": "2026-10-14T18:07:01.735899285Z",
+  "model": "glm-5.3"
+}

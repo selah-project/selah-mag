@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סכות בנות",
+      "rationale": "तनाख़ में केवल इहै जगह; अरथ अनिश्चित — शाब्दिक ‘बेटी सब के बूथ’, संभव बाबेल के देवी के नाम के सुनावट।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "जाति के सूची",
+      "rationale": "निर्वासित जाति सब आउ ओकर देवता सब के गिनती-सूची — काहे कि ओकर देवता ओकर मिलतिया।"
+    }
+  ],
+  "translation": "आउ बाबेल के लोग ⟨את⟩ सुक्कोत बेनोत के बनइलन, आउ कूत के लोग ⟨את⟩ नेर्गल के बनइलन, आउ हमात के लोग ⟨את⟩ अशिमा के बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e7a9fd96d5094ea5756417e9379bfc887e1595f4de89c7f600885bbe247f3c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/17\/29-32.1791998265534.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "आउ ... के लोग"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सुक्कोत बेनोत"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "सुक्कोत"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेनोत"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "आउ ... के लोग"
+    },
+    {
+      "surface": "כות",
+      "gloss": "कूत"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नेर्गल"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "नेर्गल"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "आउ ... के लोग"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "हमात"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अशिमा"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "अशिमा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:17:45.535264256Z",
+  "model": "glm-5.3"
+}

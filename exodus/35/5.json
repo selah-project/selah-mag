@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "इस्राएल के परजा",
+      "rationale": "बिधायक बचन — हमनी में से चढ़ावा लेबे के आग्रह"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נדיב לבו",
+      "rationale": "शाब्दिक 'उदार-हिरदय वाला' के जगह 'जेकर हिरदय तैयार होवे' — स्वेच्छा के चाल बतावैल गेल"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תרומה",
+      "rationale": "'ऊपर उठावल भेंट' (heave-offering) के जगह सादा 'चढ़ावा' लिहलन"
+    }
+  ],
+  "translation": "हमनी में से यहवे बर चढ़ावा लिअऽ — जेकर हिरदय तैयार होवे, ऊ ⟨את⟩ यहवे के चढ़ावा अनऽ हे: सोना आउ चानी आउ ताँबा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "56e13a07e667b611c03bcbd8f747283177c78426151be497987b1d486d02bf7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/35\/5-8.1791989125165.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "लिअऽ"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "हमनी में से ⟨את⟩"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "चढ़ावा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "तैयार-हिरदय वाला"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर हिरदय"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "अनऽ हे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के चढ़ावा"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "चढ़ावा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "आउ चानी"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "आउ ताँबा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:45:25.165989100Z",
+  "model": "glm-5.3"
+}

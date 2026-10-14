@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תהו ובהו",
+      "rationale": "उजाड़-खाली बनाम 'बिना आकार आउ सूनसान'; जोड़ल जोड़ी के अरथ विवादित हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "רוח אלהים",
+      "rationale": "'एलोहीम के रूआख' — बतास बनाम आत्मा; रूआख एके सब्द दुइहन अरथ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मरछफेत",
+      "rationale": "'सेतरावत' — कोइली के तरह छाता ओहरावऽ हइ; 'उड़ल' कम सही होतइ।"
+    }
+  ],
+  "translation": "आउ धरती उजाड़ आउ खाली हलइ, आउ अन्हार गहिर गड्ढा के मुँह पर हलइ, आउ एलोहीम के रूआख पानी के मुँह पर सेतरावत रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/1\/1-4.1791986250026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "आउ धरती"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "आउ खाली"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "आउ अन्हार"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "गहिर गड्ढा"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आउ रूआख"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "सेतरावत रहलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी के"
+    }
+  ],
+  "timestamp": "2026-10-14T13:57:30.027633813Z",
+  "model": "glm-5.3"
+}

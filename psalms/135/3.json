@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी क्रिया-विशेषण वाक्य में क्रिया जोड़लक।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי … כי",
+      "rationale": "दू गो 'काहे कि' के समानान्तर दोहराव — कारण के ढाँचा, दोनो आधा-पंक्ति में।"
+    }
+  ],
+  "translation": "परिसंसा करऽ याह के, काहे कि यहवे भला हथिन; ओकर नाम के गीत गावऽ, काहे कि ऊ मनोहर हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/135\/1-4.1792006230388.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "परिसंसा करऽ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "गीत गावऽ"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "ओकर नाम के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "मनोहर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:30.389328261Z",
+  "model": "glm-5.3"
+}

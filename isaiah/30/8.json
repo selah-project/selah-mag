@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "'अथम' के अरथ 'के संग' (यशायाह 8:1 के संग) बनाम 'ओकनी के आगे' (ASV\/JPS) — हमनी 'के संग' लेनी ऐ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "בוא כתבה",
+      "rationale": "यहवे नबी के सीधे आदेस देतथिन — 'आ, लिख'।"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ליום אחרון",
+      "rationale": "लिखल बात आखिरी दिन बर सील कइल गेलऽ हकइ — गवाह के रूप में ओठ रहल।"
+    }
+  ],
+  "translation": "अब आ, एकरा पट्टा पर लिख ⟨अथम⟩ के संग, आउ किताब में खोद के लिख, आउ ई आखिरी दिन बर गवाह रहतै — सदा बर, हमेसा तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f86a79f441d015c3194ba0b934e700b3fb902f89c004290e4fd563b6b813f74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/30\/5-8.1791999238187.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "आ"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "लिख"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "पट्टा"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "के संग"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ पर"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "किताब"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "खोद के लिख"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "आउ रहतै"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "दिन बर"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "आखिरी"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "गवाह बर, सदा बर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "हमेसा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:33:58.188645544Z",
+  "model": "glm-5.3"
+}

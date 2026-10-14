@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 2:8",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "शिद्दा वेशिद्दोत",
+      "rationale": "प्रसिद्ध बिबाद: שדה\/שדות के 'रखैल जनाना, एक आउ ढेर' (JPS, YLT) बनाम 'बाजा, हर तरह के' (KJV, ASV) — मूल रूप 'घर के मालकिन' धारण करऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सुख-सुविधा",
+      "rationale": "תענוגोत के अरथ 'भोग-बिलास के सामान' हकइ; 'आदमी के बेटा सब के' धारणा बतावऽ हइ जे ई सब मनुस के भोग बर हल।"
+    }
+  ],
+  "translation": "हम अपनान बर आउ चानी आउ सोना इकट्ठा कइलन, आउ राजा सब के आउ प्रदेस सब के खास खजाना; हम अपनान बर गावै वाला मरद आउ गावै वाली जनाना बनइलन, आउ आदमी के बेटा सब के सुख-सुविधा — जनाना आउ जनाना सब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1a135fadfed0d62284ec2d200cc9e0476717fa7655804c22111cd24238aac931",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/2\/5-8.1792008381056.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנסתי",
+      "gloss": "इकट्ठा कइलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "גם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "आउ सोना"
+    },
+    {
+      "surface": "וסגלת",
+      "gloss": "आउ खास खजाना"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा सब के"
+    },
+    {
+      "surface": "והמדינות",
+      "gloss": "आउ प्रदेस सब के"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "गावै वाला मरद"
+    },
+    {
+      "surface": "ושרות",
+      "gloss": "आउ गावै वाली जनाना"
+    },
+    {
+      "surface": "ותענוגת",
+      "gloss": "आउ सुख-सुविधा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "ושדות",
+      "gloss": "आउ जनाना सब"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:21.057554148Z",
+  "model": "glm-5.3"
+}

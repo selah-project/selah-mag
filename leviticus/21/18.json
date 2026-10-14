@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרם",
+      "rationale": "चिरल\/काटल नाक (रब्बी दृढ़) बनाम किस्त दने में गिरे नाक — KJV 'flat nose'।"
+    },
+    {
+      "kind": "crux",
+      "subject": "שרוע",
+      "rationale": "जेकर अंग बेलगाम लम्बा होवे — YLT 'enlarged', JPS 'anything too long'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש…איש",
+      "rationale": "पद दू बेर 'मरद' दोहरावल गेलइ — सूची के सिरा मनुस्य-शब्द से बन्नाहइ।"
+    }
+  ],
+  "translation": "काहे कि जेकरा में खोट हकइ, ऊ कोनो मरद नजिके नञ आवै — अन्हरा, या लंगड़ा, या चिरल-नाक, या बेढंग-लम्बा अंग वाला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bb1a6bd847fb8230b8e127ec879b94d9466be40eb1c6fc00c5f05e6295b5a3b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/21\/17-20.1791990201289.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "מום",
+      "gloss": "खोट"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "नजिके आवै"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "עור",
+      "gloss": "अन्हरा"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "लंगड़ा"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "चिरल-नाक"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "बेढंग-लम्बा अंग वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T15:03:21.289795312Z",
+  "model": "glm-5.3"
+}

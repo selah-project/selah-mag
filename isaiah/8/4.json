@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जातइ",
+      "rationale": "भबिस के किरिया के रूप इब्रानी के अपूर्ण काल के बोध बर मगही में जोड़ल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהר שלal חש בז",
+      "rationale": "ई पद पिछला पद (8:1) के नाम माहेर-शालाल-हाश-बाज़ के अरथ के पूरा करऽ हइ — जल्दी लूट, छिट ले जाना; ओ नाम-शब्दक खेल एहिं पद में फलित भेल हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "बालक के उमिर",
+      "rationale": "भबिस के घटना के समय बालक के बोलै सीखै के उमिर से नापल गेलइ हइ"
+    }
+  ],
+  "translation": "काहे कि बालक के “हमर बाप” आउ “हमर माय” कहै सीखै से पहिले, दम्मेसेक के धन ⟨את⟩ उठा लिया जातइ आउ ⟨את⟩ शोमरोन के लूट के माल अस्सूर के राजा के आगे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fcf0ca15323fad0fe82f8a7f26adf30ab7287d26fea734b4fb134fe914fb55d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/8\/4-4.1792011864861.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "से पहिले"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "सीखै"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "कहै"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमर बाप"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "आउ हमर माय"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "उठा लिया जातइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दम्मेसेक के धन"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "धन"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "दम्मेसेक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "शोमरोन के लूट के माल"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लूट के माल"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "शोमरोन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    }
+  ],
+  "timestamp": "2026-10-14T21:04:24.862204318Z",
+  "model": "glm-5.3"
+}

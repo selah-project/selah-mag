@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 10:14",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבער",
+      "rationale": "एके जड़ 'जरना' आउ 'बेसमझ होना' दूनो — KJV 'brutish', केती 'burned'; मूरत-विरोधी पंक्ति में दूनो अरथ संभव।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "'रूआख' — साँस\/बतास; मूरत में साँस नञ हकइ, जान नञ।"
+    }
+  ],
+  "translation": "हर आदमी जानकारी में बेसमझ भेलइ, हर ढलाई करए वाला मूरत से सरमा गेलइ, काहे कि ओकर ढलाई धोखा हकइ, आउ ओकनी में रूआख नञ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2429aa1c80bb6e38ef5671a6bd74d95255f5f96e5b9a9515620507030ca3642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/10\/13-16.1792000358177.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "बेसमझ भेलइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "जानकारी में"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "सरमा गेलइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "ढलाई करए वाला"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "मूरत से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "धोखा"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "ओकर ढलाई"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकनी में"
+    }
+  ],
+  "timestamp": "2026-10-14T17:52:38.178716620Z",
+  "model": "glm-5.3"
+}

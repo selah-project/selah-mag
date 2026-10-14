@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הגוי",
+      "rationale": "'की जाति के बर सेहो?' — अबिमेलेख अपन परजा के बात करऽ हथिन, सारा के नञ"
+    },
+    {
+      "kind": "you",
+      "subject": "अदोनाय के",
+      "rationale": "अबिमेलेख सीधे अदोनाय से प्रस्न करऽ हथिन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक वाला",
+      "rationale": "צדיק के Tier-2 पिन त्सेदेक के जड़ से गढ़ल विशेषण"
+    }
+  ],
+  "translation": "आउ अबिमेलेख ओकरा के नञ छूलक; आउ ओ कहलन, “अदोनाय, की तूँ त्सेदेक वाला जाति के बर सेहो मारतइ?”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5eb0d7258e0d3c6a2d1dc74ed4994fb77b73bd538b0eb80a4edc0345f63d741f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/20\/1-4.1791986863871.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "आउ अबिमेलेख"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "छूलक"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "גם",
+      "gloss": "सेहो"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "त्सेदेक वाला"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "मारतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:07:43.872937681Z",
+  "model": "glm-5.3"
+}

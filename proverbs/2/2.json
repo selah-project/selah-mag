@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "खड़ा करबऽ हउ",
+      "rationale": "हिब्रू में लהק-श-ब-व शब्द का अर्थ है 'कान खड़े करना' - चुस्तमति से सुनना, जिसे सरल मगही में खड़ा करना कहा गया है"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨अपने⟩",
+      "rationale": "हिब्रू में सर्वनाम केवल वचन में आता है (कान-क, हिरदय-क), सर्वनाम नहीं"
+    }
+  ],
+  "translation": "जे तूँ ⟨अपने⟩ कान बुद्धि बर खड़ा करबऽ हउ, आउ ⟨अपने⟩ हिरदय के समझ बर झुकाबऽ हउ —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6aba919b2ae6305385c391d93c0fef0b8588fd88c7bd5358683e953ff4cbeb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/2\/1-4.1792006506546.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "खड़ा करबऽ हउ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "बुद्धि बर"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "⟨अपने⟩ कान"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "झुकाबऽ हउ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "⟨अपने⟩ हिरदय के"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "समझ बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:06.547634041Z",
+  "model": "glm-5.3"
+}

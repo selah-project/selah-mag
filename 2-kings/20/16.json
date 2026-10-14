@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "सुन",
+      "rationale": "आज्ञा-रूप 'शमा' खिजकियाहू के सुनै बर हाँक देत हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "खिजकियाहू",
+      "rationale": "सीधा सम्बोधन — 'सुन' एकका खिजकियाहू के हकइ।"
+    }
+  ],
+  "translation": "आउ यशायाहू खिजकियाहू के कहलन — सुन, यहवे के बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f6e64e2d65824a065ae85d3d29728f5935025c8c82149b1a313268e8f56d2416",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/20\/13-16.1791998360973.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशायाहू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "खिजकियाहू"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:19:20.975279380Z",
+  "model": "glm-5.3"
+}

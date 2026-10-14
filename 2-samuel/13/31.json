@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרע\/קרעי בגדים",
+      "rationale": "एके जड़ के दोहराव — फाड़े बाला आउ फाड़ल कपड़ा — किरिया-विशेषण के जोड़ी"
+    }
+  ],
+  "translation": "आउ राजा उठलन, आउ ⟨את⟩ अपन कपड़ा फाड़लन, आउ धरती पर लेट गेलन; आउ ओकर सब नौकर खड़ा हलन, फाड़ल कपड़ा ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0180d278aa5560e49091255afe70bfa8a6196177308f6a8f533637146dd26da2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/13\/29-32.1791996196772.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "फाड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन कपड़ा"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "अपन कपड़ा"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "लेट गेलन"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ओकर नौकर"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "खड़ा हलन"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "फाड़ल"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "कपड़ा ले"
+    }
+  ],
+  "timestamp": "2026-10-14T16:43:16.773762948Z",
+  "model": "glm-5.3"
+}

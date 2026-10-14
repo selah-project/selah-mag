@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "סוחר",
+      "rationale": "'बेपारी' — शाब्दिक 'घूमे-घूमे बेचै वाला' (pedlar); 'merchant-ships' चलनसार रूप हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחמה",
+      "rationale": "'रोटी' — इब्रानी לחם खावै के चीज बोध हकइ, खाली रोटी नञ।"
+    }
+  ],
+  "translation": "ऊ बेपारी के जहाज के नियर हलइ; दूर से ऊ अपन रोटी लावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "39ab5cfb14606642045d34a4b3460459affd0a645505f8d1f57b1653e50e8e68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/31\/13-16.1792007086678.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "जहाज के नियर"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "बेपारी के"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "दूर से"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "लावऽ हइ"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "अपन रोटी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:44:46.678739797Z",
+  "model": "glm-5.3"
+}

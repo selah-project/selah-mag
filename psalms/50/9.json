@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बड़का बकरा",
+      "rationale": "עתודिझ — पूर उगरल नर बकरा; 'बड़का' एकर 'तैयार\/पूरा उगरल' भाव रखऽ हइ"
+    }
+  ],
+  "translation": "हम तोहर घर से बैल नञ लेतइ, नञ तोहर बाड़ा से बड़का बकरा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/50\/9-12.1792005042324.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "लेतइ"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "तोहर घर से"
+    },
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "तोहर बाड़ा से"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "बड़का बकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:42.324615282Z",
+  "model": "glm-5.3"
+}

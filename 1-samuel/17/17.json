@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 17:17",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "हिन्दी भासा के नरम करने वाला बिल्ली के बिल्ला, जइसन 'हे' — सीधा मगही में कोनो साफ़ बराबर नञ हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "एफा",
+      "rationale": "अनाज के नाप एफा जस के तस रखल गेलइ, अनुवाद नञ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הקליא",
+      "rationale": "भुनल अनाज के ई रूप तनाख़ में बहुते दुर्लभ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "दाविद",
+      "rationale": "यिशै आज्ञा अपन बेटा दाविद के देतन।"
+    }
+  ],
+  "translation": "आउ यिशै अपन बेटा दाविद से कहलन: अपन भाय सब बर ई एफा भुनल अनाज आउ ई दस रोटी ले जा, आउ अपन भाय सब के डेरा दने दौड़ जा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0ae7269ca59e02ce205286d9e0deda27bd71d5724ff930513c96d778131a3a27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/17\/17-20.1791995341860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशै"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद से"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "अपन बेटा"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ले जा"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨नञ⟩"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "अपन भाय सब बर"
+    },
+    {
+      "surface": "איפת",
+      "gloss": "एफा"
+    },
+    {
+      "surface": "הקליא",
+      "gloss": "भुनल अनाज"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "आउ दस"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "והרץ",
+      "gloss": "आउ दौड़ जा"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "डेरा दने"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "अपन भाय सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:29:01.861026830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דברי עונת גברו מני",
+      "rationale": "'अवगुन के काम हमरा ऊपर हाबी भेलन' — KJV 'prevail against me'; JPS 'too heavy for me'; यल्त 'mightier than I'।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עכפרם",
+      "rationale": "כפर के जड़ के अरथ 'ढाकना' हकइ — ओकरा चित्र रखल गेल, 'क्षमा' के उपाधि नञ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "बाकि",
+      "rationale": "दू बाक्य के बीच जोड़ मगही के बाक्य-बनावट बर जोड़ल गेल।"
+    }
+  ],
+  "translation": "अवगुन के काम हमरा ऊपर हाबी भेलन — बाकि हमनी के अवज्ञा के तूँ ढाक देतै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/65\/1-4.1792005267879.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "काम \/ बात — के काम"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "अवगुन के"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "हाबी भेलन"
+    },
+    {
+      "surface": "מני",
+      "gloss": "हमरा ऊपर"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "हमनी के अवज्ञा के"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "ढाक देतै"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:27.880209182Z",
+  "model": "glm-5.3"
+}

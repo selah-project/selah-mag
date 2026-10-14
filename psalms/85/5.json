@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "प्रार्थना सीधे एलोहीम से बोलल गेलइ हे"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गुस्सा",
+      "rationale": "כעס — कुढ़ाहट\/गुस्सा, दुनू अरथ इब्रानी में एके सब्द में"
+    }
+  ],
+  "translation": "हमनी के फेर लवऽ, हमनी के छुटकारा के एलोहीम, आउ हमनी संग तोहर गुस्सा मेटा देवऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/85\/5-8.1792005644938.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "हमनी के फेर लवऽ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "हमनी के छुटकारा के"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "आउ मेटा देवऽ"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "तोहर गुस्सा"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी संग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:20:44.939974580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 10:21",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lot-casting",
+      "rationale": "Tribe → family → man: a narrowing selection by lots, counting down to the chosen one."
+    },
+    {
+      "kind": "alternative",
+      "subject": "गोत",
+      "rationale": "שבט literal 'stick\/scion' but here the tribe-division; rendered by function."
+    }
+  ],
+  "translation": "आउ ऊ बिन्यामीन के ⟨את⟩ गोत के परिवार-संग नजदीक कएलन, आउ मात्री के परिवार लिआ गेलइ; आउ शाउल, किस के बेटा, लिआ गेलन, आउ ओकरा खोजलन बाकि ऊ नञ मिललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ee671a96678cb4779c857e04855f218a58b66e975216d6c0b86c63b66c8127c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/10\/21-24.1791995059161.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "नजदीक कएलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बिन्यामीन के गोत"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "गोत"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "למשפחתו",
+      "gloss": "ओकर परिवार-संग"
+    },
+    {
+      "surface": "ותלכד",
+      "gloss": "आउ लिआ गेलइ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "परिवार"
+    },
+    {
+      "surface": "המטרי",
+      "gloss": "मात्री के"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "आउ लिआ गेलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "किस"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "आउ ओकरा खोजलन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "मिललन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:24:19.161854239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש जीवित परान\/जीव हकइ, 'आत्मा' नञ — इहा कोनो मनुस बर कहल गेलन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जब...हइ",
+      "rationale": "מगही के बनावट बर छूटल किरिया जोड़ल गेलन।"
+    }
+  ],
+  "translation": "आउ जब कोनो परान यहवे ले मिन्हा बलि अगुआवऽ हइ, ओकर बलि बारीक पिसल आटा के होतइ, आउ ऊ ओकरा ऊपर तेल ढारतइ आउ ओकरा ऊपर लोबान रखतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1ed7f38f8483914aa16183040be31cb682f3b1ec4df0c29cdc017130667c87c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/2\/1-4.1791989518602.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "आउ कोनो परान"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "अगुआवऽ हइ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मिन्हा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे ले"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "बारीक पिसल आटा"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ओकर बलि"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "आउ ढारतइ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "आउ रखतइ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "लोबान"
+    }
+  ],
+  "timestamp": "2026-10-14T14:51:58.603539988Z",
+  "model": "glm-5.3"
+}

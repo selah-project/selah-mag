@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यिस्राएल के बेटा लोग",
+      "rationale": "यहवे सीधा यिस्राएल के बेटा लोग के सोधऽ हथिन"
+    },
+    {
+      "kind": "addition",
+      "subject": "बचवलन",
+      "rationale": "हेबरू में किरिया अगिला पद में हकइ; ई पद में सुझावल बाक्य के बर किरिया जोड़ल गेल"
+    },
+    {
+      "kind": "elision",
+      "subject": "הלא",
+      "rationale": "'नञ की?' — 'हाँ' के उत्तर मागे वाला सोध; ⟨नञ⟩ के रूप में देखावल गेल"
+    }
+  ],
+  "translation": "आउ यहवे यिस्राएल के बेटा लोग के कहलन — की हम तोहनी के मिस्रयिम ले, आउ एमोरी ले, आउ अम्मोन के बेटा ले, आउ पलिश्ती ले ⟨नञ⟩ बचवलन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "009c45b9a3ac5972de6712fe22ff7cfde225acf1d7fd5becc317e28a47adbdb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/10\/9-12.1791994183815.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "की ... ⟨नञ⟩"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम ले"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आउ ले"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "एमोरी"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आउ ले"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आउ ले"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती"
+    }
+  ],
+  "timestamp": "2026-10-14T16:09:43.816269850Z",
+  "model": "glm-5.3"
+}

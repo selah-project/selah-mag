@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "नोआख आउ ओकर बेटा सब",
+      "rationale": "एलोहीम सीधे ओकनी से बतियावऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרו ורבו",
+      "rationale": "उत्पत्ति 1:28 के ओहे आज्ञा-जोड़ी फेर से, मगही में साम-रूप के ताल मिटऽ हइ"
+    }
+  ],
+  "translation": "एलोहीम ⟨את⟩ नोआख आउ ⟨את⟩ ओकर बेटा सब के असीस देलन, आउ ओकनी से कहलन: फैलाउ, बढ़उ आउ ⟨את⟩ धरती के भर देउ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "47fad036896cddc179b998e31d3fc70a28b26b35f101949440c727cbb289724d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/9\/1-4.1791986436411.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "असीस देलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नोआख"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोआख"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बेटा सब"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा सब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "फैलाउ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "बढ़उ"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "भर देउ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T14:00:36.411850801Z",
+  "model": "glm-5.3"
+}

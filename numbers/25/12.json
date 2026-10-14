@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "सांति के वाचा",
+      "rationale": "शलोम के सीधा अरथ सांति हकइ; कुछ पढ़निहार एकरा पिन्हास के पुरोहित-पद के अखंडता के चिन्हा मानऽ हथिन — बाकि पाठ खाली 'सांति' कहऽ हइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "कहऽ",
+      "rationale": "यहवे मोशे के आग्या देवऽ हइ कि ऊ ई बत आगू बतावऽ — बोले के बोलावनी।"
+    }
+  ],
+  "translation": "एहे से कहऽ: “देखऽ, हम ओकरा ⟨את⟩ हमर वाचा — सांति — देत छिअ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5e916ef93f7e884982bcef20abff83d1610798a5030fdb0d14822d914b9d9b97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/25\/9-12.1791991453720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "देखऽ, हम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देत छिअ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर वाचा — सांति"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "हमर वाचा"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति"
+    }
+  ],
+  "timestamp": "2026-10-14T15:24:13.721691170Z",
+  "model": "glm-5.3"
+}

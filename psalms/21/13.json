@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שכם",
+      "rationale": "शब्दशः 'कन्धा' — KJV\/JPS एकरा 'पीठ फिरावे' कहऽ हइ, YLT 'निसाना (butt)' कहऽ हइ; मगही रूप कन्धा के आकार रखलक"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ताकतन",
+      "rationale": "תכונן के 'तैयार करना' चलनसार अरथ हकइ; 'ताकना\/साधना' साक्षात अरथ"
+    }
+  ],
+  "translation": "काहे कि तूँ ओकनी के कन्धा बनियत धरतन, अपन धनुक के डोरी में ओकनी के मुँह के सामने ताकतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0044df2dba283a55fb7ded3279a7420f3729d437ed36f52db4edb4d696940dbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/21\/13-14.1792004601857.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "धरतन"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "कन्धा"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "अपन धनुक के डोरी में"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "ताकतन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ओकनी के मुँह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:21.858034484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 18:14",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רוח … ורוח",
+      "rationale": "एके सब्द दू बेर — जे रूआख धरऽ हइ ऊहे कुटल होवे त कोनो नञ उठा पावऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכאה",
+      "rationale": "'कुटल' (smitten) बनाम 'टूटल' (broken, KJV\/JPS रीति)"
+    }
+  ],
+  "translation": "मनुस के रूआख ओकर बिमारी धरि रखऽ हइ, बाकि कुटल रूआख के कोन उठातइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0caa280d11821f426c443f316129b619762aff88ad1807092ef6444b23708b50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/18\/13-16.1792006787953.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुस के"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "धरि रखऽ हइ"
+    },
+    {
+      "surface": "מחלהו",
+      "gloss": "ओकर बिमारी"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "बाकि … रूआख"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "कुटल"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "ישאנה",
+      "gloss": "उठातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:47.954125791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כמופת",
+      "rationale": "ई रूप तनाख़ में खाली इहे जगह मिलऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के",
+      "rationale": "विरोध-जोड़ी में सीधा सम्बोधन: लोग के अजब बनाम तूँ आश्रय"
+    }
+  ],
+  "translation": "बहुत लोग के नजर में हम अजब-चिन्हा बनल गेलह, बाकि तूँ हमर तगड़ा आश्रय।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/71\/5-8.1792005321022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "अजब-चिन्हा"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "बनल गेलह"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "बहुत लोग के"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "बाकि तूँ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "हमर आश्रय"
+    },
+    {
+      "surface": "עז",
+      "gloss": "तगड़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:21.022954937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "חסד",
+      "rationale": "हेसेद एक जड़ हकइ — किरपा, परेम आउ बफादारी के संग — कोनो एक मगही सब्द में घटाइल नञ जा सकऽ हइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "गावइ",
+      "rationale": "गीत के सुरुआत पढ़निहार के खीँचऽ हइ — हेसेद आउ नियाव दुनो के संग गावल जा हइ।"
+    }
+  ],
+  "translation": "दाविद (दाऊद) के मजमोर। हेसेद आउ नियाव के बारे में हम गावइ; तोहर बर, हे यहवे, हम बाजा बजावके गावइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/101\/1-4.1792005841799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मजमोर"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "आउ नियाव"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "हम गावइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर बर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "हम बाजा बजावके गावइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:01.800037886Z",
+  "model": "glm-5.3"
+}

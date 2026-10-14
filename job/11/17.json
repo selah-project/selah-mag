@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 11:17",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תעפה",
+      "rationale": "उड़ना बनाम बेहोस होना (अन्हार छाए): KJV 'shine forth' बनाम JPS 'though there be darkness'।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצהרים",
+      "rationale": "द्विबचन 'दू-इँजोर' — दुपहर के दुगो इँजोर वाला बनावट, मगही में सादा 'दुपहर'।"
+    },
+    {
+      "kind": "you",
+      "subject": "अय्यूब",
+      "rationale": "जोफर अय्यूब के सोझे सम्बोधन।"
+    }
+  ],
+  "translation": "आउ दुपहर से तोहर जिनगी उठतइ; अन्हार उड़ जातइ, आउ बिहान जइसन होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bc62d85a8cddea47d71ca00ffc477c64651bc787b67151bcd7378b1207abcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/11\/17-20.1792007322149.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצהרים",
+      "gloss": "आउ दुपहर से"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "उठतइ"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "जिनगी"
+    },
+    {
+      "surface": "תעפה",
+      "gloss": "उड़ जातइ"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "बिहान जइसन"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:48:42.150008200Z",
+  "model": "glm-5.3"
+}

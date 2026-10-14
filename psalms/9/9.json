@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישפט\/ידין",
+      "rationale": "दू भिन्न इब्रानी क्रिया सब्द एके अरथ में जोड़ल — समानान्तरता, मगही में दुनू के एके रूप में गुँथल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבל",
+      "rationale": "बसल धरती \/ दुनिया के अरथ हकइ; मगही में धरती लेल गेल"
+    }
+  ],
+  "translation": "आउ ऊ त्सेदेक में धरती के नियाव करतइ, सीध-सपाटी से जातिसभ के नियाव करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9a0855fdb81753b149b2408f8975a12bebd5998c0a8072e84db230f89537978c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/9\/9-12.1792004524893.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "नियाव करतइ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "त्सेदेक में"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "नियाव करतइ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "जातिसभ के"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "सीध-सपाटी से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:04.893624370Z",
+  "model": "glm-5.3"
+}

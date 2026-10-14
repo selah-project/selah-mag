@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "दुआ यहवे के सीधे सम्बोधन हकइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אילותי",
+      "rationale": "तनाख़ में ई रूप एहीं एक बेर — 'हमर बल \/ हमर रखवारी'"
+    }
+  ],
+  "translation": "आउ तूँ, हे यहवे, दूर नञ जा; हमर बल, हमर मदति बर जल्दी कर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2ad92c003b3d9248353d1062d068ad310d7c65ad3e00ee28844db39ac4229a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/22\/17-20.1792004655719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "दूर नञ जा"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "हमर बल"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "हमर मदति बर"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "जल्दी कर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:04:15.720082857Z",
+  "model": "glm-5.3"
+}

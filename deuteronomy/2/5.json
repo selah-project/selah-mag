@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד מדרך כף רגל",
+      "rationale": "'तलवा के दाग़ जतना' — इब्रानी साफ कहऽ हइ: गोड़ के तलवा के दाग़ जतना जमीन भी नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल के परजा के",
+      "rationale": "यहवे मोशे के जरे परजा के सीधे हुकुम देथिन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ירשה",
+      "rationale": "'विरासत' — इब्रानी शब्द के अरथ हकइ जिनहीं हथियाओल गेल चीज, पैतरिक हिस्सा।"
+    }
+  ],
+  "translation": "मत ओकनी संग लड़ू, काहे कि हम तोहनी के ओकनी के धरती में से गोड़ के तलवा के दाग़ जतना भी नञ देतइ, काहे कि विरासत के रूप में हम एसव के बर देलन ⟨את⟩ सेयर पहाड़।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5dc1972f40ea857d7469fe562033be4c4cdf44cc71ef397159c659e566bc8f9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/2\/5-8.1791992013678.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "लड़ू"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकनी संग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "देतइ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "ओकनी के धरती में से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "एड़ी के तलवा के दाग़ जतना"
+    },
+    {
+      "surface": "כף",
+      "gloss": "तलवा"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "गोड़"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "विरासत"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "एसव के बर"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सेयर पहाड़"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेयर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:33:33.678738757Z",
+  "model": "glm-5.3"
+}

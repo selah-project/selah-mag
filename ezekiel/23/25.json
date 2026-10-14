@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 23:25",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "नाक आउ कान काट देतइ",
+      "rationale": "יסירו 'हटावतइ' हकइ; परम्परा के अनुवाद के मोताबिक 'काट देना' — साफ चित्र बर"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואחריתך…ואחריתך",
+      "rationale": "एके सब्द दू बेर — बाँकी लोग तलवार से, बाँकी सब आग से; दोहराव बनावट के जोर हकइ"
+    }
+  ],
+  "translation": "आउ हम अपन जलन तोहरा ऊपर रखबइ, आउ ऊ लोग ⟨את⟩ क्रोध से तोहरा संग करतइ; तोहर नाक आउ कान काट देतइ, आउ तोहर बाँकी लोग तलवार से गिरतइ; ऊ लोग तोहर बेटा-बेटी लेतइ जातइ, आउ तोहर बाँकी सब आग में खइ जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5b07c61ef82a1e11b42ff40c162c7220764ca327f1b1c08ec3352c0f867bf8d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/23\/25-28.1792002395925.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "रखबइ"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "अपन जलन"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा ऊपर"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "क्रोध"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "नाक"
+    },
+    {
+      "surface": "ואזניך",
+      "gloss": "कान"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "काट देतइ"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "बाँकी लोग"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "गिरतइ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ लोग"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "लेतइ जातइ"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "बाँकी सब"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खइ जातइ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    }
+  ],
+  "timestamp": "2026-10-14T18:26:35.926182085Z",
+  "model": "glm-5.3"
+}

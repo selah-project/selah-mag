@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "शिहत לו לא בניו מומם",
+      "rationale": "ई पाँती के बनावट पर बड़ मतभेद हकइ: KJV 'उनका दाग ओकर बेटा के दाग नञ हकइ', JPS 'दोस ओकर बेटा के हकइ', ASV 'ऊ ओकर बेटा नञ हथिन, ई ओकर दोस हकइ'।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨अपन⟩",
+      "rationale": "מומם में अपनता के प्रत्यय हकइ; मगही में साफ करे बर जोड़ल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקש ופתלתל",
+      "rationale": "दू अलग-अलग टेढ़ापन के सब्द जोड़ल गेल हइ — टेढ़ा आउ घुमावदार — एके लय के जोड़ी।"
+    }
+  ],
+  "translation": "ओकर संग बिगाड़लन — ऊ ओकर बेटा नञ हथिन, दोस ओकर ⟨अपन⟩ हकइ; टेढ़ आउ घुमावदार पीढ़ी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/32\/5-8.1791993033403.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "बिगाड़लन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर संग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "दोस"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "टेढ़"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "आउ घुमावदार"
+    }
+  ],
+  "timestamp": "2026-10-14T15:50:33.403642611Z",
+  "model": "glm-5.3"
+}

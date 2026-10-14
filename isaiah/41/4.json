@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "इ तो आगे-पीछे के 'संग' बर इब्रानी preposition हकइ (H854, नञ कि DOM चिन्हा H853); ⟨את⟩ संग रूप में देखावल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "to the islands",
+      "rationale": "पूरा मुकदमा दीप-दीप आउ लोग-जाति से पूछल गेल सवाल के जबाब हकइ — यहवे अपन आप के एकमात्र कर्ता ठहराथिन।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "הדרות מראש",
+      "rationale": "पीढ़ी सब के सुरु से गिनावल जाना — समय के हिसाब के बोल।"
+    }
+  ],
+  "translation": "कोना ई करलन आउ बनइलन, पीढ़ी सब के सुरु से बलावऽ हकइ? हम यहवे — पहिला, आउ ⟨את⟩ पीछे वाला सब के संग हमही हहन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7a22f4af579eee51a6e77e17139c1739317e9dad2654a082f6cdcdd9228195da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/41\/1-4.1791999510047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोना"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "करलन"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आउ बनइलन"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "बलावऽ हकइ"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "पीढ़ी सब के"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "सुरु से"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ संग"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "पीछे वाला सब"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हमही हहन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:38:30.049091815Z",
+  "model": "glm-5.3"
+}

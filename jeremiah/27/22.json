@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 27:22",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "पקדי — देखब",
+      "rationale": "पाकड़ के अरथ 'याद करब \/ देखब \/ सजा देब' — इहाँ बरतन के बर भलाई के देखब (वापिस लाना), JPS 'remember' बनाम KJV 'visit'"
+    },
+    {
+      "kind": "addition",
+      "subject": "हम",
+      "rationale": "पקड़ के पहिला बचन के करता रूप में यहवे के 'हम' जोड़ल जाऽ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "जेतना दिन ले",
+      "rationale": "बरतन के बाबेल में रहे के समय तय कइल गेल हइ — दिन के गिनती के बात"
+    }
+  ],
+  "translation": "बाबेल के ले जाए जइतै, आउ ओकरे ही रहतै जेतना दिन ले हम ओकनी के ⟨את⟩ देखब — यहवे के बचन; तब हम ओकनी के उठियाइब आउ ई जगह में फेर लाबै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "54296838c261d222fe26724bace3cab6eee9c0cea1cc7cc912cc1f416913b845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/27\/21-22.1792000866691.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבלה",
+      "gloss": "बाबेल के"
+    },
+    {
+      "surface": "יובאו",
+      "gloss": "ले जाए जइतै"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "आउ ओकरे ही"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "रहतै"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जेतना दिन ले"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "हम देखब"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओ बरतन के"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "यहवे के बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "והעליתים",
+      "gloss": "आउ हम उठियाइब"
+    },
+    {
+      "surface": "והשיבתים",
+      "gloss": "आउ फेर लाबै"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ई जगह"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T18:01:06.692628590Z",
+  "model": "glm-5.3"
+}

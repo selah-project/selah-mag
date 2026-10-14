@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 30:15",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहूदा के परजा के",
+      "rationale": "अदोनाय यहवे सीधे तोहनी के संबोधन करऽ हथिन"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נחת",
+      "rationale": "lemma में 'उतार' (descent) के अरथ भी हइ; 'आराम' (rest) मुख्य अनुवाद परम्परा के संग हइ"
+    }
+  ],
+  "translation": "काहे कि अइसने कहलन अदोनाय यहवे, यिस्राएल के पवित्तर — लौटे आउ आराम में तोहनी के उद्धार मिलतइ; चुप आउ भरोसा में तोहनी के बल रहतइ; बाकि तोहनी राजी नञ भेलिय।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1a3945ef0edb8f8bc91ec313b1acb5c4a583c0b541cbe8396481a5511953054f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/30\/13-16.1791999168267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "अइसने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בשובה",
+      "gloss": "लौटे में"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "आउ आराम"
+    },
+    {
+      "surface": "תושעון",
+      "gloss": "उद्धार मिलतइ"
+    },
+    {
+      "surface": "בהשקט",
+      "gloss": "चुप में"
+    },
+    {
+      "surface": "ובבטחה",
+      "gloss": "आउ भरोसा में"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "גבורתכם",
+      "gloss": "तोहनी के बल"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "राजी भेलिय"
+    }
+  ],
+  "timestamp": "2026-10-14T17:32:48.268715380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 47:18",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩",
+      "rationale": "इब्रानी में क्रिया-संबंध नञ हकइ; मगही के बाक्य खातिर जोड़ल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "מגבול",
+      "rationale": "'सीमा से' — कउन सीमा (उत्तर के, KJV 'from the border'; ASV 'from the north border') अस्पस्ट हकइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "תמדו",
+      "rationale": "तुमनी नापब — सीमा नापे के हुक्म, तोरा के बिभाजन-सूची के हिस्सा"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואת פאת קדימה",
+      "rationale": "अंतिम खण्ड संक्षिप्त हकइ — 'आउ ई पूब दने के सीमा हकइ' जइसन पूरा कइल गेल"
+    }
+  ],
+  "translation": "आउ पूब के सीमा हवरान के बीच से आउ दम्मेसेक के बीच से आउ गिलाद के बीच से आउ यिस्राएल के धरती के बीच से यर्देन ⟨हकइ⟩; सीमा से पूब के समुंदर ले तुमनी नापब। आउ ⟨את⟩ पूब दने के सीमा ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f29151310cdbcff4049a84431c30f4b2762065305dd4333056cbbd3fadfb04ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/47\/18-19.1792011973686.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "आउ ... सीमा"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पूब के"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "के बीच से"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "हवरान"
+    },
+    {
+      "surface": "ומבין",
+      "gloss": "आउ ... के बीच से"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "दम्मेसेक"
+    },
+    {
+      "surface": "ומבין",
+      "gloss": "आउ ... के बीच से"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "ומבין",
+      "gloss": "आउ ... के बीच से"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्देन"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "सीमा से"
+    },
+    {
+      "surface": "על",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "הקדמוני",
+      "gloss": "पूब के"
+    },
+    {
+      "surface": "תמדו",
+      "gloss": "तुमनी नापब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पूब दने के सीमा"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पूब दने"
+    }
+  ],
+  "timestamp": "2026-10-14T21:06:13.687114149Z",
+  "model": "glm-5.3"
+}

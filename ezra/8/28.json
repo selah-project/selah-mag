@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 8:28",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "पुरोहित आउ लेवी के",
+      "rationale": "एज्रा ओकनी से सीधा सम्बोधन करऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हवऽ⟩ ⟨हकइ⟩",
+      "rationale": "इब्रानी के क्रिया-रहित बाक्य में मगही के जोड़ल सहायक क्रिया।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש…קדש",
+      "rationale": "दू बेर पवित्तर — लोग बर आउ बरतन बर ओकरे सब्द के दोहराव।"
+    }
+  ],
+  "translation": "आउ हम ओकनी से कहलिए: तोहनी यहवे बर पवित्तर ⟨हवऽ⟩, आउ ई बरतन ⟨हकइ⟩ पवित्तर, आउ ई चानी आउ ई सोना यहवे — तोहनी के बाप-बाबा के एलोहीम — के अगे स्वेछा-भेंट ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0a91022af72fea19c8b6f85dd43a09b7596809dc2e5f8fa6f040b4cdee2cba31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/8\/25-28.1792009385249.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "आउ हम कहलिए"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "והכלים",
+      "gloss": "आउ ई बरतन"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "आउ ई चानी"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "आउ ई सोना"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "स्वेछा-भेंट"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "तोहनी के बाप-बाबा के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:23:05.250860305Z",
+  "model": "glm-5.3"
+}

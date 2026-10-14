@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "की ई नञ हकइ",
+      "rationale": "मगही के दोसर प्रस्न बर बचन-जुड़ाव चाही; इब्रानी हलाके एके प्रस्न से दुनू के साधऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "תקותך ותם דרכיך",
+      "rationale": "जुड़ाव के फैसला: 'तोहर आस तोहर रस्ता के निर्दोसता हकइ' (अस्व, जेपीएस) बनाम 'तोहर आस आउ तोहर रस्ता के निर्दोसता' (केजेवी)।"
+    },
+    {
+      "kind": "you",
+      "subject": "अय्यूब के",
+      "rationale": "एलीपाज के दोसरा सोध — तोहर डर, तोहर भरोसा, तोहर आस।"
+    }
+  ],
+  "translation": "की तोहर डर नञ तोहर भरोसा हकइ? तोहर आस — ⟨की ई नञ हकइ⟩ तोहर रस्ता के साफ-सिधाई?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "651daa9554ff663b765f401e04b5a09d155f23b9e7c5d81a545cd120ce53e323",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/4\/5-8.1792007079949.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "की नञ"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "तोहर डर"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "तोहर भरोसा"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "तोहर आस"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "आउ साफ-सिधाई"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "तोहर रस्ता के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:44:39.949740575Z",
+  "model": "glm-5.3"
+}

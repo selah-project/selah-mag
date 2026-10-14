@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 34:20",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "नफेस 'परान\/जीव' हकइ — ओकनी के परान के खोजय वाला, खाली 'जान' नञ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "दू बेर 'खाना'",
+      "rationale": "इब्रानी एक बेर למאकल कहऽ हइ; मगही दूनो पद बर दोहरा धरके संतुलन रखलक।"
+    }
+  ],
+  "translation": "आउ हम ओकनी ⟨אתם⟩ ओकनी के बैरी के हाथ में आउ ओकनी के परान के खोजय वाला के हाथ में देबइ; ओकनी के लाथ अकास के चिरईं के खाना आउ धरती के जीव-जंतु के खाना बनतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7d0230518154abe19c650c24ad53b1258aa8c3287d60cf6dadaf0dde2c2238a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/34\/17-20.1792001127789.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "आउ हम देबइ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ओकनी"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "ओकनी के बैरी के"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "आउ हाथ में"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "खोजय वाला के"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ओकनी के परान"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "बनतइ"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ओकनी के लाथ"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "चिरईं के"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "आउ जीव-जंतु के"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:05:27.790368389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "मोशे",
+      "rationale": "आदेश मोशे के दे गेलइ — तूँ के किरिया।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקטר קטרת",
+      "rationale": "एके जड़ के दूहराव — धूप-जरावे के धुन; मगही में धुन बचल नञ।"
+    }
+  ],
+  "translation": "आउ तूँ धूप जरावे के बेदी बनइबइ — शित्तिम के गाछ के लकड़ी से तूँ ⟨את⟩ ओकरा बनइबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c1adbe715a292f985d482873e77ea895e49169ad141f650e3592857536c02aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/30\/1-4.1791989042662.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "आउ तूँ बनइबइ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "जरावे के"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धूप"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "गाछ के लकड़ी से"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "शित्तिम के"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तूँ बनइबइ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (बेदी)"
+    }
+  ],
+  "timestamp": "2026-10-14T14:44:02.663382816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דחה דחיתני",
+      "rationale": "एके जड़ दू बेर — 'धकेलऽ हे, धकेललन हमरा' — दोहराव के जोर, मगही में कम महसूस होवऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "तूँ",
+      "rationale": "कर्ता हिब्रू में छिपल हइ, मगही के जरूरत"
+    }
+  ],
+  "translation": "एहन धकेललन हमरा जे हम गिर जाई जाए, बाकि यहवे हमरा सहायता देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/118\/13-16.1792006041987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "एहन धकेललन"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "हमरा धकेललन"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "जे हम गिर जाई जाए"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "बाकि यहवे"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "हमरा सहायता देलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:21.988038612Z",
+  "model": "glm-5.3"
+}

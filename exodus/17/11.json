@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וגבר…וגבר",
+      "rationale": "एके क्रिया दू बेर — यिस्राएल आउ अमालेक के समानान्तर तुला; मगही में 'प्रबल होलक' दूनो बेर रखल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ידו ङकिट",
+      "rationale": "एक हाथ या दू हाथ — इब्रानी एक-बचन 'हाथ' हकइ; अगिला पद बहुबचन 'हाथ' में बदलऽ हइ।"
+    }
+  ],
+  "translation": "आउ होलक कि जइसने मोशे ओकर हाथ उठावक, तइसने यिस्राएल प्रबल होलक; आउ जइसने ओकर हाथ नीचे धरक, तइसने अमालेक प्रबल होलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2eb452592a36d362c8de659b16418de2646d7a3f6f7dfc59484f8e9f07e870eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/17\/9-12.1791988594359.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ होलक कि"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "उठावक"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "तइसने प्रबल होलक"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "आउ जइसने"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "नीचे धरक"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "तइसने प्रबल होलक"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "अमालेक"
+    }
+  ],
+  "timestamp": "2026-10-14T14:36:34.360669776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के (देलन के बाद के संबंध)",
+      "rationale": "मगही के करम-चिन्हा, इब्रानी में संबंध-पद आगमन नञ"
+    }
+  ],
+  "translation": "काहे कि तूँ, एलोहीम, हमर मन्नत के सुनलन, तोहर नाम के डर वाला के विरासत देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/61\/5-8.1792005280650.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "हमर मन्नत के"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "विरासत"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "डर वाला के"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:40.651472986Z",
+  "model": "glm-5.3"
+}

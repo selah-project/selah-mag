@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "झूठ",
+      "rationale": "שוא 'ब्यर्थ\/छल' के अरथ हकइ; 'झूठ' नजदीकी मगही सब्द"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידבר…ידבר",
+      "rationale": "एके किरिया दू जगह — भीतर बोलल आउ बाहर फइलावल; मगही में दू अलग किरिया लेलक"
+    }
+  ],
+  "translation": "आउ जे कोनो हमरा देखे अबै, ऊ झूठ बोलतै; ओकर हिरदय ओकर बर बुराई इकट्ठा करतै; बाहर निकलऽ के ओकरा फइलावऽ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/41\/5-8.1792004993701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जे कोनो"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अबै"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखे बर"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "बोलतै"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर हिरदय"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "इकट्ठा करतै"
+    },
+    {
+      "surface": "און",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर बर"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलतै"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "फइलावऽ हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:53.702753841Z",
+  "model": "glm-5.3"
+}

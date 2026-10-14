@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nahum 2:13",
+  "book": "nahum",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טרף\/טרף\/טרפה",
+      "rationale": "एके जड़ तीन बेर — पाड़ल, शिकार, घसियालल शिकार — इब्रानी के दोहराव मगही में पूरा नञ बचऽ हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "בדי",
+      "rationale": "'पूरा' (बहुत\/काफी) — कठिन पद, कतना पूरा ओकर अनुवाद अनुमान पर हकइ।"
+    }
+  ],
+  "translation": "सेर ओकर बुतरू सब बर पूरा शिकार पाड़ि के खइलक, ओकर शेरनी सब बर गला घुँटलक, आउ ओकर गुफा सब ⟨את⟩ शिकार से भरलक आउ ओकर माँद सब घसियालल शिकार से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ebc9ad8cf52973dd9fcdd7e20ed2c24de8522fd64c09bd4f5cbbb6fc06d9c5bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nahum\/2\/13-14.1792003812416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "सेर"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "पाड़ि के खइलक"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "גרותיו",
+      "gloss": "ओकर बुतरू सब बर"
+    },
+    {
+      "surface": "ומחנק",
+      "gloss": "आउ गला घुँटलक"
+    },
+    {
+      "surface": "ללבאתיו",
+      "gloss": "ओकर शेरनी सब बर"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "आउ भरलक"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "शिकार"
+    },
+    {
+      "surface": "חריו",
+      "gloss": "ओकर गुफा सब"
+    },
+    {
+      "surface": "ומענתיו",
+      "gloss": "आउ ओकर माँद सब"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "घसियालल शिकार"
+    }
+  ],
+  "timestamp": "2026-10-14T18:50:12.417394923Z",
+  "model": "glm-5.3"
+}

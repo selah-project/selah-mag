@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हइ⟩",
+      "rationale": "इब्रानी में क्रिया-सबंधी 'होना' नञ हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרוב\/קראיו\/יקראהו",
+      "rationale": "क-र root के तीन बेर बजना — नजदीक आउ पुकार के ध्वनि-जोड़ी मगही में नञ रहऽ हइ"
+    }
+  ],
+  "translation": "यहवे ओकरा पुकारे वाला सब के नजदीक ⟨हइ⟩ — जे ऊ सब सच में पुकारथिन, ओकनी के नजदीक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/145\/17-20.1792006387613.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "नजदीक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब के"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "ओकरा पुकारे वाला"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ओकनी ओकरा पुकारथिन"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "सच में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:07.613939997Z",
+  "model": "glm-5.3"
+}

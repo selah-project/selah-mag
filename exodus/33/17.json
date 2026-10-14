@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הדבר\/דברת",
+      "rationale": "noun and verb of same root frame the promise — 'the word you worded' — smoothed in Magahi as 'बात\/कहलहा'"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे → मोशे",
+      "rationale": "यहवे सीधे मोशे के जबाब देतथिन"
+    }
+  ],
+  "translation": "आउ यहवे मोशे (मूसा) से कहलन: ⟨את⟩ हेइ बात, जे तूँ कहलहा, ओहो हम करब हइ; काहे कि तूँ हमर आँख में कृपा पावलहा, आउ हम तोहरा नाम से जानऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f75ae32522f2b9cc6076c3b186a90a01c4976cf5d15144ab463ca73c6bee2459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/33\/17-20.1791989230309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ओहो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हेइ बात"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "हेइ बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "हेइ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "कहलहा"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "करब हइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "पावलहा"
+    },
+    {
+      "surface": "חן",
+      "gloss": "कृपा"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "हमर आँख में"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "हम तोहरा जानऽ हइ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाम से"
+    }
+  ],
+  "timestamp": "2026-10-14T14:47:10.310128781Z",
+  "model": "glm-5.3"
+}

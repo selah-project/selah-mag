@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 18:19",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שפטו",
+      "rationale": "'नियाव करलन' बनाम 'बचइलन' — KJV\/ASV के 'avenged', LXX\/Geneva के 'delivered'; इब्रानी के अरथ नियाव\/छुटकारा दुनो दने खुलल हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואבשरה",
+      "rationale": "बासर के जड़ 'ताजा खुसखबरी सुनाना' — 'खुसखबरी देबइ' लिया गेलै।"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "बिनती का कणा — 'एहूँ' से पार, पूरा बराबर नञ मिलऽ हइ।"
+    }
+  ],
+  "translation": "आउ अखीमात्स, त्सादोक के बेटा, कहलकै — हम दौड़बइ, आउ राजा के ⟨את⟩ खुसखबरी देबइ, काहे कि यहवे ओकर दुश्मन के हाथ से ओकर नियाव करलन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "55ad37954593afbc7201f5b1e3381cbbb79c1c57497192c855de34734fe1f49e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/18\/18-19.1792011777724.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "आउ अखीमात्स"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "त्सादोक के"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलकै"
+    },
+    {
+      "surface": "ארוצה",
+      "gloss": "हम दौड़बइ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "एहूँ"
+    },
+    {
+      "surface": "ואבשרה",
+      "gloss": "आउ खुसखबरी देबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "राजा के"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ओकर नियाव करलन हथिन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "के हाथ से"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ओकर दुश्मन"
+    }
+  ],
+  "timestamp": "2026-10-14T21:02:57.725873763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हेअइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही के पूरा बाक्य बर सहारा चाही"
+    }
+  ],
+  "translation": "आउ शाऊल के बतावल गेलै, कहैत, देखौ, दाविओ नायोत में, रामा में हेअइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b57c9e3ddc42367bb016a920bed103aee4c73931e2827e0a995ff34605d74eb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/19\/17-20.1791995449531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "आउ बतावल गेलै"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शाऊल के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहैत"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखौ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविओ"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "नायोत में"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "रामा में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:30:49.532597623Z",
+  "model": "glm-5.3"
+}

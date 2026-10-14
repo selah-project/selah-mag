@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 1:38",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "करती आउ पलती",
+      "rationale": "ढेली के नाँव जाति-सब्द के रूप में लिप्यन्तरित — राजा के पहरेदार दल।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "गिहोन तक",
+      "rationale": "इब्रानी על गחון (गिहोन पर) मगही में गंतव्य के रूप में सुभाविक लागऽ हए।"
+    }
+  ],
+  "translation": "आउ त्सादोक पुरोहित आउ नतान नबी आउ यहोयादा के बेटा बेनायाहू आउ करती आउ पलती नाइ गेलन, आउ ⟨את⟩ शलोमोह के राजा दाविद के खच्छर पर चढ़ावलन, आउ ⟨את⟩ ओकरा गिहोन तक ले गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6561b2ec2175bd463c3a49a1ee05f955c81992c8af60e91b029366e1c5635614",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/1\/37-40.1791996693668.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "नाइ गेलन"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "त्सादोक"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "नतान"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "बेनायाहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "यहोयादा"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "करती सब"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "पलती सब"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "चढ़ावलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शलोमोह"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פרדת",
+      "gloss": "खच्छर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ले गेलन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "על",
+      "gloss": "तक"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "गिहोन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:51:33.668891256Z",
+  "model": "glm-5.3"
+}

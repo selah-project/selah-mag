@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-samuel 17:55",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "जिअ तोहर परान",
+      "rationale": "חי נפשך — इब्रानी के सौगंध-मुहावरा; शाब्दिक 'जिअ तोहर परान'।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש शाब्दिक गला\/परान\/जीव-बल — 'मन' नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "सौल अबनेर से",
+      "rationale": "सीधा सवाल — 'ई छोकरा ककर बेटा हकइ?'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "सौल के अनजानपन",
+      "rationale": "सौल पहिले दाविद के जानऽ हलइ (1शमू 16) — एहै बिसंगति पढ़निहार खातिर छोड़ल गेलइ हे।"
+    }
+  ],
+  "translation": "आउ जब सौल देखलन जे दाविद ⟨את⟩ ओ पलिश्ती के सामना जा रहलइ हे, त अबनेर से — सेना के सरदार — कहलन: हे अबनेर, ई छोकरा ककर बेटा हकइ? अबनेर कहलन: हे राजा, जिअ तोहर परान, हम नञ जानै हिअइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ec733bd8fea3bc62283a4684d678d2bdb8b426e343e89844a8cbee86867b89a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/17\/53-56.1791995344500.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכראות",
+      "gloss": "आउ जब देखलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "सौल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाविद"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "जावऽ हे"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "के सामना"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ओ पलिश्ती"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अबनेर"
+    },
+    {
+      "surface": "שר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "सेना के"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ककर"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "छोकरा"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अबनेर"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अबनेर"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिअ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "तोहर परान"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "हे राजा"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "हम जानै हिअइ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:29:04.501481363Z",
+  "model": "glm-5.3"
+}

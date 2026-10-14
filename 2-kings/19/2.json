@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "अशेर अल हबायित",
+      "rationale": "‘जे घर के ऊपर हलन’ — दरबारी पद के नाम नञ, मूल के बनावट जस के तस।"
+    },
+    {
+      "kind": "elision",
+      "subject": "हबायित",
+      "rationale": "‘राजा के घर’ के बदला खाली ‘घर’ — मूल एके शब्द हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ पठौलन ⟨את⟩ एल्याकिम, जे घर के ऊपर हलन, आउ शेबना लिखइया के, आउ ⟨את⟩ पुरोहित सब के बुढ़का लोग के — सब बोर-कपड़ा में ढाँकल — यशआयाहू नबी के पास, अमोत्स के बेटा के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fa7c2b83604e4475c7031ddbe0206dad3b1f567ffa09c04745d3fb2c86541665",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/19\/1-4.1791998317612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "पठौलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एल्याकिम"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "एल्याकिम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "आउ शेबना"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "लिखइया"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पुरोहित सब के बुढ़का लोग"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "बुढ़का लोग"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित सब के"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "बोर-कपड़ा में ढाँकल"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "बोर-कपड़ा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशआयाहू"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "अमोत्स"
+    }
+  ],
+  "timestamp": "2026-10-14T17:18:37.613799601Z",
+  "model": "glm-5.3"
+}

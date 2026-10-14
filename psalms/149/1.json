@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "गावल जावऽ",
+      "rationale": "Hebrew is a verbless phrase 'his praise in the assembly'; Magahi needs the verb supplied"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the congregation of saints",
+      "rationale": "opening imperatives summon the assembly to praise"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "hallelu-Yah is the alleluia refrain, the name folded into the imperative"
+    }
+  ],
+  "translation": "याह के जस गावऽ, यहवे बर नवा गीत गावऽ, ओकर जस ⟨गावल जावऽ⟩ भक्त सभके सभा में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/149\/1-4.1792006406351.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "जस गावऽ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "गीत गावऽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नवा"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ओकर जस"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "सभा में"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "भक्त सभके"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:26.351673725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "होन",
+      "rationale": "हिब्रू क्रिया-हीन सूची हकइ; मगही बाक्य बर क्रिया जोड़ल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "वंशावली",
+      "rationale": "परिवार के नाम गिनल जा रहल हे"
+    }
+  ],
+  "translation": "आउ ई गेरशोन के बेटा के नाम होन, ओकर परिवार के मोताबिक: लिब्नी आउ शिमी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f89feb74718452824a5abb5ced7a04b5707ec384c9b809b9654b4b6051610fe0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/3\/17-20.1791990630160.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आउ ई"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा के"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "गेरशोन के"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ओकर परिवार के मोताबिक"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "लिब्नी"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "आउ शिमी"
+    }
+  ],
+  "timestamp": "2026-10-14T15:10:30.161429168Z",
+  "model": "glm-5.3"
+}

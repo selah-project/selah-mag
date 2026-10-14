@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 2:3",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קרן",
+      "rationale": "सींग बल आउ मानदिस के रूपक हकइ; 'ताकत' जइसन खाली अरथ-रूप में परति करल अरथ-चित्र मिटा हटइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויבער...אכלה",
+      "rationale": "आग के लपट के बाद ओकरो 'खा गेलन' — इब्रानी के क्रमबद्ध क्रिया बिना जोड़ सब्द के बहै हकइ; मगही में जोड़-चिन्हा जोड़ल गेलन।"
+    }
+  ],
+  "translation": "प्रचंड कोप में इस्राएल के सब सींग काट देलन; दुस्मन के सामने से अपन दहिन्ना हाथ पीछे घुमा देलन; आउ याकोव में लपट वाली आग जरा देलन — ऊ चारो दने खा गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4021fe51af953ffa93d017a256291638f701a29cd755eb0b387b1c2559deba96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/2\/1-4.1792008283874.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדע",
+      "gloss": "काट देलन"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "प्रचंड कोप में"
+    },
+    {
+      "surface": "אף",
+      "gloss": "कोप"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "सींग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "घुमा देलन"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पीछे"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "अपन दहिन्ना हाथ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "सामने से"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "दुस्मन के"
+    },
+    {
+      "surface": "ויבער",
+      "gloss": "जरा देलन"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "याकोव में"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "लपट वाली"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "खा गेलन"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    }
+  ],
+  "timestamp": "2026-10-14T20:04:43.876111069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האפר",
+      "rationale": "'पट्टी' बनाम पुरान अनुवादकन के 'सुँहारी\/खाक': ई सिर पर बाँधल पट्टी हकइ, धूरी नञ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "האפר",
+      "rationale": "ई पद तनाख़ में खाली इहेइ पाँती में अवऽ हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "हलइ",
+      "rationale": "मगही के 'हलइ' जोड़ल गेलइ; इब्रानी में क्रिया-हीन 'हू' ठहरावल बात हकइ।"
+    }
+  ],
+  "translation": "ऊ जल्दी करलक आउ ⟨את⟩ पट्टी ओकर आँख सब पर से हटाइलक, आउ यिस्राएल के राजा ओकरा पहिचानलक कि ऊ नबी सब में से हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/20\/41-43.1791997470626.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "जल्दी करलक"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "हटाइलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पट्टी"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "पट्टी"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से (ऊपर से)"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ओकर आँख सब"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "पहिचानलक"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "नबी सब में से"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:04:30.627574185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 1:4",
+  "book": "habakkuk",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לנצח",
+      "rationale": "'कबहु नञ' बनाम 'सदा के ले नञ निकलऽ हइ' — दुनो पढ़ाव परम्परा में हइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכתיר",
+      "rationale": "हिफिल में हिये एक्को बेर आवऽ हइ; 'घेरऽ हइ' (घेराबंदी) के चित्र हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצא משפט … יצא משפט",
+      "rationale": "पद 4 में 'नियाव नञ निकलऽ हइ' आउ 'नियाव टेढ़ा निकलऽ हइ' के उलट-फेर — अनुवाद में बनल रहलइ"
+    }
+  ],
+  "translation": "एही से तोरा सुस्त पड़ गेलइ हे, आउ नियाव कबहु नञ निकलऽ हइ, काहे कि दुष्ट ⟨את⟩ त्सेदेक वाला के घेरऽ हइ — एही से नियाव टेढ़ा निकलऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7822c4d3ab655b3d070bdb30726a49fe4cf9de1ab1ff2eff429da8de8c3b7047",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/habakkuk\/1\/1-4.1792003882278.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "सुस्त पड़ गेलइ हे"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलऽ हइ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "कबहु"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "מכתיר",
+      "gloss": "घेरऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्सेदेक वाला"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "त्सेदेक वाला"
+    },
+    {
+      "surface": "על",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलऽ हइ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "מעקל",
+      "gloss": "टेढ़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:51:22.279679241Z",
+  "model": "glm-5.3"
+}

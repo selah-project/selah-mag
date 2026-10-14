@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गहरी आह",
+      "rationale": "הגה सुभाव से बड़बड़ाहट \/ भारी साँस हकइ; 'गहरी आह' ओकर नजदीकी मगही रूप"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "मगही किरिया-रूप चाहऽ हइ; इब्रानी खाली कृदन्त (כתובה, וכתוב) देत हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "आगू आउ पाछाँ",
+      "rationale": "पोथी के दुनों मुँह लिखावट से भरल — गिनती के हालत, जगह के बखान"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ ⟨אותה⟩ हमरा आगू फइलालन, आउ ऊ आगू आउ पाछाँ लिखल हलइ; आउ ओकरा ऊपर लिखल हलइ — विलाप आउ गहरी आह आउ हाय।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cc10daeca51f883c05a4f8cc4af48ece0f0d91eadc10effd19d7ef1dcc52dc39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/2\/9-10.1792001722491.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "आउ ऊ फइलालन"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ⟨אותה⟩",
+      "marks": "पोथी के"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "हमरा आगू"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "लिखल हलइ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "आउ पाछाँ"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "आउ लिखल हलइ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "विलाप"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "आउ गहरी आह"
+    },
+    {
+      "surface": "והי",
+      "gloss": "आउ हाय"
+    }
+  ],
+  "timestamp": "2026-10-14T18:15:22.492220976Z",
+  "model": "glm-5.3"
+}

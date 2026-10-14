@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 1:13",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא אוכל און ועצרה",
+      "rationale": "'हम बुराई-सभा नञ सह सकऽ हइ' बनाम 'बुराई संग सभा — ऊ नञ!' (YLT); हिब्रू के टूटल पाँती दुनू दने जा हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यरूशलयिम \/ यहूदा के लोग",
+      "rationale": "यहवे अपन परजा के हुक्म देतथिन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תועבה",
+      "rationale": "घिनौना — हिब्रू के पबित्तर-बिधान के घिनावट-सब्द।"
+    }
+  ],
+  "translation": "आउ अब हमरा बर मिन्हा नञ लावऽ — खोखरल मिन्हा; धुआँ-बलि हमरा बर घिनौना हकइ; नया चान आउ शब्बात, सभा-बोलाव — हम बुराई आउ तिहार के सभा नञ सकऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "73ed1ea18f0718ea45a855b2741b8529c87f98fe544dfc20a84a4abff79d7ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/1\/13-16.1791998491416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "आउ अब…नञ (बढ़ाव मत दे)"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "लावऽ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "मिन्हा"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "खोखरल"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धुआँ-बलि"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "घिनौना"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ हकइ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नया चान"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "आउ शब्बात"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "बोलाव"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "सकऽ हइ"
+    },
+    {
+      "surface": "און",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "ועצרה",
+      "gloss": "आउ तिहार के सभा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:21:31.417194895Z",
+  "model": "glm-5.3"
+}

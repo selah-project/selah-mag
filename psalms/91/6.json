@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מקטב",
+      "rationale": "ई बिल्कुल पातर-पुरान सब्द हकइ — बरबादी\/उजाड़ के अरथ अनुमान से।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दुपहरिया",
+      "rationale": "צהרים दुअल हकइ — 'जोड़ी-इँजोर', भिर-भिर के बेला।"
+    }
+  ],
+  "translation": "महामारी से — जे अन्हार में टहरऽ हइ — आउ ओ बरबादी से, जे दुपहरिया के उजाड़ऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/91\/5-8.1792005747634.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "महामारी से"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "अन्हार में"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "टहरऽ हइ"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "बरबादी से"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "उजाड़ऽ हइ"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "दुपहरिया के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:27.635123897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "हिन्दी-मगही क्रिया संग अनुवाद बर सर्बनाम जोड़लइ; इब्रानी में क्रिया के अंत में -ך प्रत्यय ई बात कहऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יברכך \/ וראה",
+      "rationale": "आसीर्वाद (असीस) आउ दरसन (देखना) के जोड़ी — पद 5 के दुनो इच्छा-बाक्य एके ढाँचा में बाँधल हइ"
+    }
+  ],
+  "translation": "यहवे तोहरा त्सियोन से असीस देवन, आउ तूँ अपन जीवन के सब दिन यरूशलयिम (यरूशलेम) के भलाइ देखऽ रहऽ होह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e206f8ef259e99df1014c7f33292f5f6536466b405d31c30e8d72f2affd7a24e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/128\/5-6.1792006170532.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "तोहरा असीस देवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "त्सियोन से"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आउ देखऽ रहऽ होह"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "भलाइ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "अपन जीवन के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:30.533118195Z",
+  "model": "glm-5.3"
+}

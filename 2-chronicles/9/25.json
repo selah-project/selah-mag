@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 9:25",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकनी के",
+      "rationale": "Hebrew verb form implies the object pronoun; मगही में संबोधन साफ करे बर जोड़ल"
+    },
+    {
+      "kind": "crux",
+      "subject": "אריות",
+      "rationale": "'तबेला\/नस्ल-घर' — कुछ अनुवाद 'घोड़ा' गिनऽ हइ, कुछ 'तबेला'; 1 राजा 5:8 (4:26) में चालीस हजार मिलऽ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चार हजार \/ बारह हजार",
+      "rationale": "सैन्य-शक्ति के गिनती — अंक जस के तस पार भेल हइ"
+    }
+  ],
+  "translation": "आउ शेलोमो (सुलेमान) के चार हजार तबेला घोड़ा आउ रथ बर, आउ बारह हजार सवार हलन; ऊ ⟨ओकनी के⟩ रथ के नगर सब में आउ राजा के संग यरूशलयिम (यरूशलेम) में ठहरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "49b2545661bf46664ed5c415d2598f8abe802bcdd833ef3f70b674baa43c20c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/9\/25-28.1792010801971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होलन"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "शेलोमो के"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "चार"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "तबेला"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोड़ा के"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "आउ रथ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आउ दू"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "सवार"
+    },
+    {
+      "surface": "ויניחם",
+      "gloss": "ओकनी के ठहरलन"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "नगर सब में"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "रथ के"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आउ संग"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:46:41.972266095Z",
+  "model": "glm-5.3"
+}

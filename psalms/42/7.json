@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "एलोहीम",
+      "rationale": "परमेश्वर के सीधा सम्बोधन — 'हमर एलोहीम'।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "על כן",
+      "rationale": "दू इब्रानी सब्द के एक मगही जोड़-सब्द 'एहे से' में मिलावल गेल।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "यर्दन · हेर्मोन · मिसार",
+      "rationale": "जगह के नाम के सूची — पूरब के तीर के भूगोल।"
+    }
+  ],
+  "translation": "हमर एलोहीम, हमर परान हमर भीतर दुखी हो गेलऽ हकइ हइ; एहे से हम तोहरा याद करबइ — यर्दन के धरती से, आउ हेर्मोन के चोटी सभ से, मिसार पहाड़ से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/42\/5-8.1792005024559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमर भीतर"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "दुखी हो गेलऽ हकइ हइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "तोहरा याद करबइ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "यर्दन के"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "आउ हेर्मोन के चोटी सभ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "मिसार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:24.560871092Z",
+  "model": "glm-5.3"
+}

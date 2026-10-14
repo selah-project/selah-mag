@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "अहरोन आउ ओकर बेटा सब",
+      "rationale": "पिछला पद के आदेश के तनिका जारी — बहुवचन क्रिया 'जरावऽ'"
+    }
+  ],
+  "translation": "आउ जे मांस आउ रोटी में बचतइ, ओकरा आग में जरावऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e9c0a9c7556e10711889309311c8d321d46ad6f63b7b54de6293c9e889d8e556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/8\/29-32.1791989774680.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "आउ जे बचतइ"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "मांस में"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "आउ रोटी में"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "जरावऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:56:14.681375832Z",
+  "model": "glm-5.3"
+}

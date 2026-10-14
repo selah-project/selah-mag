@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "אתי एहाँ क्रिया-पूरक चिन्हा (H853) के रूप हऽ “मोर संग” अरथ में — दुनो पढ़ावा परम्परा में चलन में हइ।"
+    }
+  ],
+  "translation": "आउ तूँ आज ई बतअलह: ⟨את⟩ जे तूँ ⟨את⟩ हमरा संग भलाई कइलह — ⟨את⟩ जे यहवे हमरा तोहर हाथ में बन्न देलक, आउ तूँ हमरा नञ मारलह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "833ee93192eea437ad869212c20946797a9d837a6c4eace053f6233870a0f2a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/24\/17-20.1791995536024.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "बतअलह"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे तूँ हमरा संग भलाई कइलह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "कइलह"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ हमरा संग"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे यहवे हमरा बन्न देलक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "हमरा बन्न देलक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "तोहर हाथ में"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "हमरा मारलह"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:16.025776836Z",
+  "model": "glm-5.3"
+}

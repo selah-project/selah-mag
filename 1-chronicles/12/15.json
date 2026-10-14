@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "एक सौ के बराबर",
+      "rationale": "इब्रानी 'एक लमएह' — एक आदमी सौ के तुल्य; युद्ध-शक्ति के कथन हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सौ \/ हजार",
+      "rationale": "Yudhak shakti ke ginti-kathan."
+    }
+  ],
+  "translation": "ई सब गाद के बेटामें से हलनिये, सेना के मुखिया — छोटका ⟨एक⟩ सौ के बराबर आउ बड़का हजार के बराबर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "81ed0f15bf17f2e71b01891ce694a465f094526b7325d4c1cb0b8ffff5eaa4a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/12\/13-16.1792010193190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "के बेटामें से"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "सेना के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "सौ के बराबर"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "छोटका"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "आउ बड़का"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "हजार के बराबर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:36:33.191175475Z",
+  "model": "glm-5.3"
+}

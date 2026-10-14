@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלותי היא",
+      "rationale": "KJV 'हमर दुर्बलता' बनाम JPS\/BSB 'कि एल्योन के दहिना हाथ बदल गेल' — इब्रानी टूटल पाँती हकइ, दुनो कठिन"
+    },
+    {
+      "kind": "alternative",
+      "subject": "बरिस के बदलाव",
+      "rationale": "शनות के जड़ 'बदलना' से भी जोड़ल जा हइ — 'दहिना हाथ के बदलाव' पढ़ा जा सकऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨बदलल⟩",
+      "rationale": "किरिया जे मगही बाक्य बर चाही, इब्रानी पाँती में खुलल किरिया नञ हकइ"
+    }
+  ],
+  "translation": "आउ हम कहलिअन्ते: ई हमर दुर्बलता हकइ — एल्योन के दहिना हाथ के बरिस ⟨बदलल⟩ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d4b3d2e99f2d2b57edd740449bc57f0279cafcba5428c4109c3e96397acfc9a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/77\/9-12.1792005425427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आउ हम कहलिअन्ते"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "हमर दुर्बलता"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ई"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "दहिना हाथ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:05.428283549Z",
+  "model": "glm-5.3"
+}

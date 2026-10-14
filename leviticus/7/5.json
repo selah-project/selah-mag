@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "अलेफ-तव चिन्हा पिछला पद के चिकनाई अंग के दने इसारा करऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "अशाम",
+      "rationale": "אשם दोसे अरथ — दोसा आउ ओकर बलि दुनू; बलि के अरथ लेल गेलइ"
+    }
+  ],
+  "translation": "आउ पुरोहित ⟨את⟩ ओकनी ⟨चिकनाई अंग⟩ के बेदी पर जराथिन, यहवे बर आग के बलि; अशाम ⟨बलि⟩ ऊ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2b4aa962cd904d703efbad02bed50b033393ffab4cfac8db00142378dc6e70d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/7\/5-8.1791989539867.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "जराथिन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी चिकनाई अंग"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "बेदी पर"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "आग के बलि"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "अशाम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:52:19.867556636Z",
+  "model": "glm-5.3"
+}

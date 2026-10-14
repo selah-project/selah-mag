@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "छुड़ा दे",
+      "rationale": "פדה के साफ चित्र 'फिरौती देके आजाद करना' हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे से प्रार्थना",
+      "rationale": "पद यहवे से सीधा अनुरोध हकइ।"
+    }
+  ],
+  "translation": "मनुस के दमन से हमरा छुड़ा दे, आउ हम तोहनीके आज्ञा के रखवारी करब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "26b1389558043b6ca67ee29ab6db0dce409fc27acbd42834369226cb999f96de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/133-136.1792006127867.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "हमरा छुड़ा दे"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "दमन से"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुस के"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "आउ…रखवारी करब"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "तोहनीके आज्ञा के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:47.868473049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תאטר",
+      "rationale": "अलेफ-तेत-रेस जड़ 'बन्द करना' के — तनाख़ में एके जगह।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "באר",
+      "rationale": "कुइयाँ हकइ, बाकि मौत के गड्ढा के छवि — 'शेओल' के आभास, ओतने गहिरा जहाँ से वापसी नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के नाते",
+      "rationale": "तीन 'मत करऽ' बाक्य यहवे से दुआ हकइ।"
+    }
+  ],
+  "translation": "पानी के बहाव हमरा बहा न जाव, आउ गहिराई हमरा निगले नञ, आउ कुइयाँ अपन मुँह हमरा ऊपर बन्द न करे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "47969150fa716fb6d3c0651bb4d6a5c51568d472cd91d13850f2a329461459bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/69\/13-16.1792005355054.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "हमरा बहा जाव"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "बहाव"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "हमरा निगले"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "गहिराई"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ न"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "बन्द करे"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ऊपर"
+    },
+    {
+      "surface": "באר",
+      "gloss": "कुइयाँ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "अपन मुँह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:55.055327655Z",
+  "model": "glm-5.3"
+}

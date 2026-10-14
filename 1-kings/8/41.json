@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 8:41",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וגם אל",
+      "rationale": "‘आउ अउरो … केरा बाट ओहो’ — इब्रानी के ‘आउ अउरो केरा बाट’ के बनावट टूकल वाक्य हकइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הוא",
+      "gloss-note": "",
+      "rationale": "होआ — बल देवे वाला सर्बनाम: ‘ऊ आपै हकइ’"
+    }
+  ],
+  "translation": "आउ अउरो ऊ परदेसी, जे तोहरा लोग यिस्राएल के नञ हकइ, ऊ अइतइ दूर देस के धरती से, तोहरा नाम के खातिर —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ab4b6a7cdf6d99444742646c80488fa8f5c51650af67be0d7781aeea194e6b57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/8\/41-44.1791997113118.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आउ अउरो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "केरा बाट ओहो"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "तोहरा लोग के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "आउ अइतइ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "दूर के"
+    },
+    {
+      "surface": "למען",
+      "gloss": "के खातिर"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहरा नाम"
+    }
+  ],
+  "timestamp": "2026-10-14T16:58:33.119049638Z",
+  "model": "glm-5.3"
+}

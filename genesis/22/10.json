@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हמאכלת",
+      "rationale": "शाब्दिक अरथ 'खावे के चीज' — खाने के बरबरी; 'चाकू' एकरा चलनसार रूप हकइ."
+    }
+  ],
+  "translation": "आउ अवराहाम ⟨את⟩ अपन हाथ बढ़ैलन आउ ⟨את⟩ चाकू लेलन, जेकरा ओकरा ⟨את⟩ अपन बेटा के वध करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ffb8dc1ed9d7bec130c40f64eb719f5c63487ba6aa227e9f271739788fdceebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/22\/9-12.1791986834720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "बढ़ैलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन हाथ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "अपन हाथ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चाकू"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "चाकू"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "वध करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन बेटा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "अपन बेटा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:07:14.721084764Z",
+  "model": "glm-5.3"
+}

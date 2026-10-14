@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "कर्ता ⟨ओ⟩",
+      "rationale": "इब्रानी के क्रिया के कर्ता स्पस्ट करै बर सर्बनाम जोड़ल"
+    }
+  ],
+  "translation": "काहे कि काम करै वाला के ओकरा देल गेलन, आउ ओकरा से ओ ⟨את⟩ यहवे के घर के मजबूत बनएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "27feb0e5dd230df3b4916ebcefa483cdcea384dde59304d604633591939c3e15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/12\/13-16.1791998070357.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "काम करै वाला के"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "देल गेलन"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "आउ मजबूत बनएलन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:14:30.358684460Z",
+  "model": "glm-5.3"
+}

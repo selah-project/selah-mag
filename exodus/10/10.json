@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יהי כן יהוה עמכם",
+      "rationale": "फिरौन के व्यंग्य के संकेत — 'अइसने होवऽ' के सपथ रूप में; किछु अनुवादक धमकी पढ़ऽ हथिन, किछु सादा सपथ"
+    },
+    {
+      "kind": "you",
+      "subject": "फिरौन मोशे आउ अहरोन के",
+      "rationale": "सीधा सम्बोधन, बुतरू सब के छोड़े के इनकार एहीं से जाहिर होवऽ हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "कोनो नञ; अनुवाद में मेटावल"
+    }
+  ],
+  "translation": "आउ ओकनी से कहलन, अइसने होवऽ — यहवे तोहनी संग रहतन, जइसन हम तोहनी के आउ ⟨את⟩ तोहनी के बुतरू सबनी के बिदा करबइ। देखऽ, काहे कि तोहनी के मुँह के सामने बुराई हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ee90873ce6996c091a60876c31e586c08f6354397c8e0b15d32cfc5ed7a752ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/10\/9-12.1791988324653.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "अइसने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "तोहनी संग"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "बिदा करबइ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी के",
+      "marks": "तोहनी के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के बुतरू सबनी के"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "तोहनी के बुतरू सब"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "तोहनी के मुँह के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:32:04.654388267Z",
+  "model": "glm-5.3"
+}

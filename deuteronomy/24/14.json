@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "मजदूर के मजदूरी दबावे के खिलाफ सीधा आदेश।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בשעריך",
+      "rationale": "'तोहर दुआरी सब में' — नगर के दुआरी, यानी तोहर नगर सब में।"
+    }
+  ],
+  "translation": "तूँ दबाव नञ करऽ मजदूर के — दरिद्र आउ कंगाल के — नञ तोहर भाय में से, नञ तोहर परदेसी में से, जे तोहर धरती में, तोहर दुआरी सब के भीतर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6aaea6d8910b8e00cf423ccccbde75dab512cc0914e1836a2a4df4845ad17941",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/24\/13-16.1791992751161.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "दबाव करऽ"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "मजदूर के"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दरिद्र"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "आउ कंगाल के"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "तोहर भाय में से"
+    },
+    {
+      "surface": "או",
+      "gloss": "नञ… नञ (अथवा)"
+    },
+    {
+      "surface": "מגרך",
+      "gloss": "तोहर परदेसी में से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "तोहर धरती में"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "तोहर दुआरी सब के भीतर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:45:51.162009960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "एलोहीम",
+      "rationale": "सम्बोधन दू बेर एलोहीम के नाम ले हकइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עד מרום",
+      "rationale": "„बहुत ऊँच ले तक“ — या ई कि त्सेदेक के महिमा बढ़ावे के बतावल गेल होवे।"
+    }
+  ],
+  "translation": "आउ तोहर त्सेदेक, एलोहीम, बहुत ऊँच ले हकइ — जे महान काम कइलन; एलोहीम, की कोनो हइ जे तोहरा सन होवे?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0118286a10e1e46bee30527964de21356cbc3893839826f74c7f2befec4d037f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/71\/17-20.1792005367562.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "तोहर त्सेदेक"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "बहुत ऊँच ले"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "महान काम"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מי",
+      "gloss": "की कोनो"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "तोहरा सन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:07.563568688Z",
+  "model": "glm-5.3"
+}

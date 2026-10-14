@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 6:21",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "बेटा के आगे बतावे वाला",
+      "rationale": "पिता अपन बेटा के सीधे संबोधन करऽ हइ — ई शमा परिवार के पढ़ावे के ढाँचा के हिस्सा हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "कि",
+      "rationale": "इब्रानी में सीधे उद्धरण हइ, मगही के ढाँचा बर ⟨कि⟩-जोड़ चाही — बाक्य के प्रवाह में मिलाने गेल।"
+    }
+  ],
+  "translation": "आउ तूँ अपन बेटा से कहबे कि हमनी फारोह के दास हलनिहार मिस्रयिम में, आउ यहवे हमनी के तगड़े हाथ से मिस्रयिम से निकाललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ce9b49351a73e9bdeef410d886571be476648e183811742638424001e4b5364c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/6\/21-24.1791992063002.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "आउ तूँ कहबे"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "अपन बेटा से"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "दास"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "हलनिहार"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "फारोह के"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "मिस्रयिम में"
+    },
+    {
+      "surface": "ויוציאנו",
+      "gloss": "आउ निकाललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम से"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "तगड़े"
+    }
+  ],
+  "timestamp": "2026-10-14T15:34:23.003006962Z",
+  "model": "glm-5.3"
+}

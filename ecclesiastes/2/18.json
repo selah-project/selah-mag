@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמל",
+      "rationale": "एके जड़ तीन बेर (עמלי \/ עמל \/ छोड़ल मेहनत) — मेहनत के तिकड़म, मगही में एके सब्द रखलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "काहे कि",
+      "rationale": "שאניחנו से पहिले के बिचार-जोड़ (कारण) मगही वाक्य-बनावट बर जोड़ल"
+    }
+  ],
+  "translation": "आउ हम, हम ⟨את⟩ अपन सब मेहनत से नफरत कएलनिअ जे हम सुरुज के नीचे मेहनत कएलनिअ, काहे कि ओकरा हम ओ आदमी के छोड़बइ जे हमरा पाछे होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c1c669dab5203901d782a63b4894168e24168b4354b61b7ce2442b2bb17daf6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/2\/17-20.1792008392990.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "आउ हम नफरत कएलनिअ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब मेहनत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "अपन मेहनत"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "जे हम"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "मेहनत कएलनिअ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "ओकरा हम छोड़बइ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ओ आदमी के"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "जे होतइ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "हमरा पाछे"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:32.990846137Z",
+  "model": "glm-5.3"
+}

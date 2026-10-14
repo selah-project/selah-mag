@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 14:21",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद यहवे के सीधे अरजी हकइ — तीनों 'मत' ओहीं दने टिकल इ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "זכר אל תפר",
+      "rationale": "'याद रखऽ' बिना बिराम के अगिला 'मत तोड़ऽ' से जुड़ल इ (KJV 'remember, break not') अथवा अलग आज्ञा; हमनी पहिला पढ़निहार के रुकावट लेनिहार रूप लेने हिअइ।"
+    }
+  ],
+  "translation": "तोहर नाम के खातिर घृणा मत करऽ, तोहर महिमा के गद्दी के अपमान मत करऽ; याद रखऽ, तोहर वाचा ⟨את⟩ हमनी संग के मत तोड़ऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0a22c37075a4a00cdee73751f0e66c7636c43dfc933c35debd38bff90bcb38a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/14\/21-22.1792000455059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תנאץ",
+      "gloss": "घृणा करऽ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תנבל",
+      "gloss": "बदनाम करऽ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "गद्दी"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "तोहर महिमा के"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "याद रखऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "तोड़ऽ"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "तोहर वाचा"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ हमनी संग",
+      "marks": "हमनी संग"
+    }
+  ],
+  "timestamp": "2026-10-14T17:54:15.060424058Z",
+  "model": "glm-5.3"
+}

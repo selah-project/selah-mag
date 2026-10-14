@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "गेलइ आउ लौटलइ",
+      "rationale": "הלך ושב — 'आवे-जावे करत रहलइ' (ASV\/JPS 'to and fro') बनाम 'गेलइ आउ ओकरा छाड़ि के लौटलइ' दू ढंग के पढ़ाई।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "भेड़",
+      "rationale": "צאן भेड़-बकरी दुनो के झुंड बर साझा सब्द हकइ।"
+    }
+  ],
+  "translation": "आउ दाविद गेलइ आउ लौटलइ शाऊल ⟨के पास⟩ से, ओकर बाप के भेड़ ⟨את⟩ चरावे बर, बेतलहेम में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "23aa79b4a96161e2fdadfdecfcc3ea83e6a7faa6eb8a60af0439364dbbfbb56a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/17\/13-16.1791995313898.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "आउ दाविद"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "गेलइ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "आउ लौटलइ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "के पास से"
+    },
+    {
+      "surface": "שאוײ",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "चरावे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भेड़"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ओकर बाप के"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेतलहेम (पहिलका अंस)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "बेतलहेम (दोसर अंस)"
+    }
+  ],
+  "timestamp": "2026-10-14T16:28:33.899232184Z",
+  "model": "glm-5.3"
+}

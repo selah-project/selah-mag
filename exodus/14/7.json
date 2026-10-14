@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 14:7",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "छह सौ रथ",
+      "rationale": "गिनती — सेना के नाप-तौल वाला पद।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושלשם",
+      "rationale": "שלישים के अरथ पर बिबाद: 'तिनि-पद सरदार (third-rank officers)' बनाम परम्परा के 'सेनापति' बनाम 'तिनि के दल के सिपाही' — जड़ 'तीन' से जुड़ल हकइ।"
+    }
+  ],
+  "translation": "आउ लेलन छह सौ चुनल रथ, आउ मिस्रयिम के सब रथ, आउ तिनि-पद सरदार ओकर सब पर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3be1bc6c89d2271f94a5569615599a241f06bf4442354e41ebd92e68b54e9c6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/14\/5-8.1791988407728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "आउ लेलन"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "रथ"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "चुनल"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "रथ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "ושלשם",
+      "gloss": "आउ तिनि-पद सरदार"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ओकर सब"
+    }
+  ],
+  "timestamp": "2026-10-14T14:33:27.729785108Z",
+  "model": "glm-5.3"
+}

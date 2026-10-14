@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 20:25",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברק",
+      "rationale": "बिजली बनाम चमकैत तलवार\/नोक — प्राचीन अनुवादक सब में मतभेद"
+    },
+    {
+      "kind": "crux",
+      "subject": "מגוה",
+      "rationale": "BSB 'पीठ' बनाम KIV 'जिस्म' — कठिन शब्द"
+    }
+  ],
+  "translation": "खीचलक आउ ओकर पीठ से निकललइ; चमकैत अस्त्र ओकर पित्त से निकलऽ हइ — ओकर ऊपर डर चलऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "808d4f9111a4f9943accc31da01a87509ac0d05ddc141915a5c83eaae2861ea4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/20\/25-28.1792007528552.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלף",
+      "gloss": "खीचलक"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "आउ निकललइ"
+    },
+    {
+      "surface": "מגוה",
+      "gloss": "पीठ से"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "चमकैत अस्त्र"
+    },
+    {
+      "surface": "ממררתו",
+      "gloss": "ओकर पित्त से"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "चलऽ हइ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "डर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:52:08.552518503Z",
+  "model": "glm-5.3"
+}

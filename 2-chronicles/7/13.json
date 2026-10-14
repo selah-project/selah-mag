@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 7:13",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הן \/ והן \/ ואם",
+      "rationale": "तीनो सस्तर एके छन्द में जोड़ल हइ — हेन-वहेन-वइम के दोहराव, जे मगही के तीन ‘अगर’ में थोड़ा मुलायम हो जातइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מहामारी",
+      "rationale": "דבר के साक्षात अरथ ‘तबाही\/मौत भेजल बिमारी’ हकइ; ‘महामारी’ नामकरण हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "सुलैमान से",
+      "rationale": "यहवे रात में सुलैमान से ई बात कहत हथिन; बाक्य ओकरा दने सीधा बोलल गेल हकइ।"
+    }
+  ],
+  "translation": "अगर हम अकास रोकलिए आउ बरखा नञ होतइ, आउ अगर हम टिड्डी के हुकुम देलिए जे धरती खाथिन, आउ अगर हम हमर लोग में महामारी भेजलिए,",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f12b1278fbe3478e6b3a4dbddccf5321920383b4174128ff7aeeac77c38ef5a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/7\/13-16.1792010836724.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "אעצר",
+      "gloss": "रोकलिए"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "बरखा"
+    },
+    {
+      "surface": "והן",
+      "gloss": "आउ अगर"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "हुकुम देलिए"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "टिड्डी"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "खाथिन"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आउ अगर"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "भेजलिए"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "महामारी"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "हमर लोग में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:47:16.724782499Z",
+  "model": "glm-5.3"
+}

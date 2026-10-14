@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "जाँघ के नीचे हाथ",
+      "rationale": "शपथ-चिन्हा: जाँघ के नीचे हाथ रख के सौंह खाना — प्राचीन मिस्र के रिवाज, शाब्दिक रखल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मालिक",
+      "rationale": "אדנीव आदमी (अवराहाम) बर हकइ, एहे से मालिक — अदोनाय (दिव्य) नञ।"
+    }
+  ],
+  "translation": "आउ नौकर ⟨את⟩ अपन हाथ अवराहाम (अब्राहम) ओकर मालिक के जाँघ के नीचे रखलक, आउ एही बात पर ओकरा सौंह खुवालक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1c8053b494fe727290be6532135371dbc20822e434579fcf839561c4599eb71e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/24\/9-12.1791986882918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "आउ ... रखलक"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "नौकर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन हाथ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "अपन हाथ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "जाँघ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ओकर मालिक"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "आउ सौंह खुवालक"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    }
+  ],
+  "timestamp": "2026-10-14T14:08:02.919307291Z",
+  "model": "glm-5.3"
+}

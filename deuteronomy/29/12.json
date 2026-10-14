@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבע",
+      "rationale": "'सात संग सौगंद' — जड़ שבע में सात आउ सौगंद के जोड़, मगही में खो गेल।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "patriarchs",
+      "rationale": "पुरखा के नाम के सूची — वाचा के जंजीर के गिनती।"
+    }
+  ],
+  "translation": "एकरा बर कि ऊ ⟨את⟩ तोहनी आज अपन लोग बनावे बर खड़ा करतइ, आउ ऊ तोहरा एलोहीम होतइ, जइसन ऊ तोहरा कहलन आउ जइसन ओकरा तोहरा पुरखा के संग — अवराहाम (अब्राहम), यित्सहाक (इसहाक) आउ याकोव (याकूब) के संग — सौगंद खइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "613764cbd906a2d63bb9cfe5d19264aead3614839c7c7a0fe55c8496ca3849b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/29\/9-12.1791992848350.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "एकरा बर कि"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "खड़ा करतइ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तोहनी",
+      "marks": "तोहनी"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "לו",
+      "gloss": "अपन"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "लोग बनावे बर"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "आउ जइसन"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "सौगंद खइलन"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "तोहरा पुरखा के संग"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "अवराहाम (अब्राहम) के संग"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "यित्सहाक (इसहाक) के संग"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "आउ याकोव (याकूब) के संग"
+    }
+  ],
+  "timestamp": "2026-10-14T15:47:28.351233685Z",
+  "model": "glm-5.3"
+}

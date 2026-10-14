@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 18:4",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צח עלי אור",
+      "rationale": "'इँजोर पर चमकत गरमी' — KJV 'घास पर चमकत गरमी' (אור के אֹרַח\/ओस से मिलत-जुलत पढ़ल), ASV 'धूप में साफ गरमी'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ठिकाना",
+      "rationale": "מכונी के शाब्दिक अरथ 'स्थिर जगह\/बुनियाद' — रहै के जगह"
+    }
+  ],
+  "translation": "काहे कि यहवे हमरा एहने कहलन: हम चुप रहब आउ हमर ठिकाना से देखब — इँजोर पर चमकत गरमी के तरह, कटनी के गरमी में ओस के बादल के तरह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "09e49299305836eb392ba88b85b98d89ff37106566c1a06010df6da0936bf95f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/18\/1-4.1791998963530.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "אשקוטה",
+      "gloss": "हम चुप रहब"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "आउ देखब"
+    },
+    {
+      "surface": "במכוני",
+      "gloss": "हमर ठिकाना से"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "गरमी के तरह"
+    },
+    {
+      "surface": "צח",
+      "gloss": "चमकत"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אור",
+      "gloss": "इँजोर"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "बादल के तरह"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ओस"
+    },
+    {
+      "surface": "בחם",
+      "gloss": "गरमी में"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "कटनी"
+    }
+  ],
+  "timestamp": "2026-10-14T17:29:23.532018674Z",
+  "model": "glm-5.3"
+}

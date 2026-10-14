@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מזרח\/מבוא השमש",
+      "rationale": "'सुरुज के उगे' आउ 'सुरुज के डूबे' — पूरुब आउ पच्छिम के सुरुज की गति से कहल गेलइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הנני",
+      "rationale": "'देखऽ' — घोसना के सुरुआ में ध्यान खींचे के बुलावा।"
+    }
+  ],
+  "translation": "यहवे त्सबाओत एहने कहलन हकइ — देखऽ, हम ⟨את⟩ हमरा लोग के पूरुब देस से आउ सुरुज के डूबे के देस से बचा के लावत रहलिए।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4967755a8a5f6e8ba99036ed58ce58e694133e199acbb772b9db3e37b1150d02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/8\/5-8.1792004160577.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन हकइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "देखऽ, हम"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "बचा के लावत रहलिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमरा लोग के"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमरा लोग के"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देस से"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "पूरुब"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "आउ देस से"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "डूबे के"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    }
+  ],
+  "timestamp": "2026-10-14T18:56:00.578871257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 7:19",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "ויהיו के रूप मगही के क्रिया से पार भेलन"
+    }
+  ],
+  "translation": "आउ शेमिदा के बेटा हलन — अखियान, शेखेम, लिखी आउ अनियाम।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e5f17eeaedbd65afd60a8eea9a37524552506fb91be2f9f119b71481eafec07a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/7\/17-20.1792010026890.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "हलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שמידע",
+      "gloss": "शेमिदा"
+    },
+    {
+      "surface": "אחין",
+      "gloss": "अखियान"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "शेखेम"
+    },
+    {
+      "surface": "ולקחי",
+      "gloss": "लिखी"
+    },
+    {
+      "surface": "ואניעם",
+      "gloss": "अनियाम"
+    }
+  ],
+  "timestamp": "2026-10-14T20:33:46.891355449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבודי",
+      "rationale": "'हमर महिमा' बनाम 'हमर जिन्दगी \/ हमर जिब्ह' (लोक-अरथ: पूरा अस्तित्व से गावऽ) — कबोद के साक्षात अरथ वजन-महिमा हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "इब्रानी में एलोहीम संबोधन-रूप हकइ; मगही के संबोधन-चिन्हा 'हे' जोड़ल गेलन।"
+    },
+    {
+      "kind": "you",
+      "subject": "एलोहीम",
+      "rationale": "सीधा संबोधन — गायक परमेश्वर से बात करऽ हइ।"
+    }
+  ],
+  "translation": "तैयार हकइ हमर हिरदय, हे एलोहीम; हम गाबइ आउ साज़ बजाबइ, हमर महिमा ⟨संग⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/108\/1-4.1792005972469.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "तैयार हकइ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमर हिरदय"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "हम गाबइ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "आउ साज़ बजाबइ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨संग⟩"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "हमर महिमा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:12.469826498Z",
+  "model": "glm-5.3"
+}

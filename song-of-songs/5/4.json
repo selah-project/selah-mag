@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החור",
+      "rationale": "सुराङ — दुआरी के कुंडी के सुराङ या जालीदार झरोखा; अनुवादक लोग अलग-अलग कहऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ומעי",
+      "rationale": "शाब्दिक रूप से आँत\/पेट के अंग; कइयन अनुवाद एकरा हिरदय कह देलक"
+    }
+  ],
+  "translation": "हमर परेमी सुराङ से ओकर हाथ घुसालक, आउ हमर भीतर के अंग ओकर बर हलचल मचलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/5\/1-4.1792008011191.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "हमर परेमी"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "घुसालक"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "החור",
+      "gloss": "सुराङ"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "आउ हमर भीतर के अंग"
+    },
+    {
+      "surface": "המו",
+      "gloss": "हलचल मचलन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर बर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:00:11.192344466Z",
+  "model": "glm-5.3"
+}

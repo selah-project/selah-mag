@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונחמתי",
+      "rationale": "'पछताबइ' (repent) बनाम 'राजी बदलबइ' (relent) — यहवे के ओकर बात पर फेर से विचार कइल जाए से तात्पर्य हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "कि",
+      "rationale": "हिब्रू में 'जे हम कहलन' के बाद सीधा infinitive हइ; मगही के 'कि' जोड़ल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לבלתי שמע",
+      "rationale": "'नञ सुनऽ के चाहऽ हइ' — हिब्रू 'सुनबे के अभाव' के अरथ में negative purpose के रूप में हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ हमरी आँखी के सामने बुराई करऽ हइ, हमरी बोली नञ सुनऽ के चाहऽ हइ, तब हम ओ भलाई के पछताबइ जे हम कहलन कि ओकरा संग ⟨את⟩ भलाई करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e77b5e20c3331620b9b20a385421b1f0e3b797e6314bc72ed7b208e25062d99c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/18\/10-11.1792011901002.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "आउ ऊ … करऽ हइ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "हमरी आँखी के सामने"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ के चाहऽ हइ"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "हमरी बोली"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "तब हम … पछताबइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ओ भलाई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "हम कहलन"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "भलाई करबइ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T21:05:01.002954005Z",
+  "model": "glm-5.3"
+}

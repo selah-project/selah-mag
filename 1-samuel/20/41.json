@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-samuel 20:41",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הגדיל",
+      "rationale": "'दाविद बहुते रोए' (KJV: exceeded in weeping) बनाम 'दाविद बड़ा होए गेलन' — क्रिया अपने में अस्पष्ट हकइ; बहुत मतलब रोवे में लेलन जाथिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "दने",
+      "rationale": "मאצל הנגब — 'दक्खिन के पास से' के सुभाविक जोड़; स्थान-सूचक बतावे बर।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש את רעהו",
+      "rationale": "बाक्य-बाक्य दोहराव — 'हर एक ⟨את⟩ अपन संगी के' दू बेर; परस्पर-क्रिया के ताल बरकरार हकइ।"
+    }
+  ],
+  "translation": "लड़का अइलन, आउ दाविद दक्खिन ⟨दने⟩ से उठलन, आउ ऊ मुँह के बल धरती पर गिरलन आउ तीन बेर दण्डवत करलन। आउ हर एक ⟨את⟩ अपन संगी के चूमलक, आउ हर एक ⟨את⟩ अपन संगी के लेखलक — जखन तक दाविद बहुते रोए गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "226a0e6f5edb1371bc270773515fe5e7daa362e961d99fc195781999876759f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/20\/41-42.1791995483588.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנער",
+      "gloss": "लड़का"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "आउ दाविद"
+    },
+    {
+      "surface": "קם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "מאצל",
+      "gloss": "पास से"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "दक्खिन"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "आउ गिरलन"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "मुँह के बल"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "आउ दण्डवत करलन"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "וישקו",
+      "gloss": "आउ चूमलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन संगी के"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "अपन संगी"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "आउ रोलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन संगी के"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "अपन संगी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जखन तक"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "बहुते रोए गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:31:23.588756229Z",
+  "model": "glm-5.3"
+}

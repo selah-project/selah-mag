@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשעינה",
+      "rationale": "שׂעה के अरथ ‘टकटकी लगावे \/ धुंधला होवे’ — अनुवादक ‘बंद नञ होतइ’ आउ ‘धुसी नञ होतइ’ दूनो कहऽ हथिन"
+    }
+  ],
+  "translation": "आउ देखए वाला के आँखी धुसी नञ होतइ, आउ सुनए वाला के कान ध्यान से सुनतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "05fcd370f2b52b8a124c7aa18890659c4680642e1a15d7bf4beb4076bdae0ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/32\/1-4.1791999136749.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "धुसी नञ होतइ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आँखी"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "देखए वाला के"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "आउ कान"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "सुनए वाला के"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "ध्यान से सुनतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:32:16.750641662Z",
+  "model": "glm-5.3"
+}

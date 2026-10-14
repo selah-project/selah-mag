@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the peoples",
+      "rationale": "Imperatives address the peoples directly."
+    },
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "Vocative के बुझावे बर 'हे' जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "हे लोग सब, हमनी के एलोहीम के असीस देवऽ; ओकर महिमा के बोली सुनावऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/66\/5-8.1792005277770.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "असीस देवऽ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "हे लोग सब"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम के"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "आउ सुनावऽ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ओकर महिमा के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:37.771883877Z",
+  "model": "glm-5.3"
+}

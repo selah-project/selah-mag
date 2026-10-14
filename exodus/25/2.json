@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבר \/ ידבנו",
+      "rationale": "דבר (बोलना) आउ נדב (इच्छा से देना) के निकट-ध्वनि — बात आउ दान एके शब्द-छलंग में, मगही में हरावऽ हइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "स्वेच्छा भेंट",
+      "rationale": "हिरदय से चाहे वाला के भेंट — पाठ पढ़निहार के आमंत्रण हकइ"
+    }
+  ],
+  "translation": "यिस्राएल (इस्राएल) के बेटा सब के कह — ओकनी हमर बर भेंट लेवतइ; जे मनुस ⟨आत्म-इच्छा से⟩ देवे, ओकर हिरदय चाहऽ हइ — तोहनी हर ⟨את⟩ मनुस के लेबउ, हमर भेंट।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3b72350d6e690680655baebb343fc03a9e867a249b595aaf3502fd90e8399965",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/25\/1-4.1791988913833.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "कह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के धोरे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल)"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ओकनी लेवतइ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर बर"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ के",
+      "marks": "हर मनुस"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "चाहऽ हइ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर हिरदय"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "तोहनी लेबउ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर भेंट"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "हमर भेंट"
+    }
+  ],
+  "timestamp": "2026-10-14T14:41:53.833714171Z",
+  "model": "glm-5.3"
+}

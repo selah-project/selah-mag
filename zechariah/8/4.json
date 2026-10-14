@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 8:4",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "मרב ימים",
+      "rationale": "'दिन के ढेर' — बुढ़ापा (KJV 'for very age') बनाम लम्बा जिनगी (YLt 'abundance of days'); मगही रूप इब्रानी के साक्षात रखलक"
+    },
+    {
+      "kind": "elision",
+      "subject": "क्रिया अनुपस्थित",
+      "rationale": "'मरद अपने छड़ी हाथ में' — इब्रानी में कोनो क्रिया नञ हकइ; मगही में भी छोड़ल गेलइ"
+    }
+  ],
+  "translation": "एहना यहवे त्सबाओत के बचन: अउरो बुढ़ मरद आउ बुढ़ जनाना यरूशलयिम के चौड़ गली में बइठतइ, आउ हरेक मरद अपने छड़ी हाथ में, दिन के ढेर के कारण।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3a2c8374e37c82e1025bde167ef50f2099857d57a3621cdc3975604d93fe2a15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/8\/1-4.1792004194800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "के बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अउरो"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बइठतइ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "बुढ़ मरद"
+    },
+    {
+      "surface": "וזקנות",
+      "gloss": "आउ बुढ़ जनाना"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "के चौड़ गली में"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आउ हरेक मरद"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "अपने छड़ी"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "के ढेर के कारण"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:56:34.801008429Z",
+  "model": "glm-5.3"
+}

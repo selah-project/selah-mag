@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "एलोहीम दाविद से",
+      "rationale": "एलोहीम दाविद के सीधे बात कहऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשמי",
+      "rationale": "शाब्दिक 'हमर नाम लिए' — 'हमर नाम बर' रखल गेल; नाम = व्यक्तित्व-उपस्थिति"
+    }
+  ],
+  "translation": "बाकि एलोहीम हमरा कहलन: तूँ हमर नाम बर घर नञ बनाबइ, काहे कि तूँ लड़ाई के मरद हऽ आउ खून बहाने हऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2641b75928ffc2bdc05b4500d3c481116b0a624bb6b3251540b5c65bdc8ced96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/28\/1-4.1792010602320.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "बाकि एलोहीम"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "बनाबइ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "हमर नाम बर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "लड़ाई के"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "आउ खून"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "बहाने हऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:43:22.321939Z",
+  "model": "glm-5.3"
+}

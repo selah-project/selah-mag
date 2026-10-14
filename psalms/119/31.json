@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद यहवे के नाम ल के सीधा सम्बोधन करऽ हइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "דבקתי",
+      "rationale": "'चिपकलिए' — इब्रानी ' dbq चिपकना \/ लगल रहना', संबंध के टेपना चित्र"
+    }
+  ],
+  "translation": "हम तोहरा गवाही सब से चिपकलिए; यहवे, हमरा लज्जित मत करअ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2e323be5f74b3b888726790f8170ad49ab447a522334067e327dd054144f8749",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/29-32.1792006075471.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "हम चिपकलिए"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "तोहरा गवाही सब से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "हमरा लज्जित करअ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:55.472672087Z",
+  "model": "glm-5.3"
+}

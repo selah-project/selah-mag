@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 17:7",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "तीसरा बरिस",
+      "rationale": "राज के साल के गिनती — काल-चिन्हा।"
+    },
+    {
+      "kind": "addition",
+      "subject": "बर",
+      "rationale": "मगही के क्रिया-बिन्दु बर; इब्रानी के ल-उपसर्ग (लלמद) के प्रतिफलन।"
+    }
+  ],
+  "translation": "आउ ओकर राज के तीसरा बरिस में ओ ओकर सरदार सब के पठौलन — बेन-हायिल आउ ओवद्याह आउ जकर्याह आउ नतनेल आउ मिखायाहू के — यहूदा के नगर सब में पढ़ावे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a52d366876a78ef456d9b44a2639baa113a846f33faa3122ead21bab2ad393b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/17\/5-8.1792010965815.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "ओकर राज के"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "पठौलन"
+    },
+    {
+      "surface": "לשריו",
+      "gloss": "ओकर सरदार सब के"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "बेन-"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "हायिल"
+    },
+    {
+      "surface": "ולעבדיה",
+      "gloss": "आउ ओवद्याह"
+    },
+    {
+      "surface": "ולזכריה",
+      "gloss": "आउ जकर्याह"
+    },
+    {
+      "surface": "ולנתנאל",
+      "gloss": "आउ नतनेल"
+    },
+    {
+      "surface": "ולמיכיהו",
+      "gloss": "आउ मिखायाहू"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "पढ़ावे बर"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "नगर सब में"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:49:25.816106719Z",
+  "model": "glm-5.3"
+}

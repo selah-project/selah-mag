@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 14:6",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "के कारण",
+      "rationale": "על के साक्षात अरथ 'ऊपर\/के बदले' हकइ; 'के कारण' छूटल अरथ देवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "'बल्कि' बनाम 'काहे कि खाली' — इहाँ प्रतिबंधात्मक 'बल्कि' पटरी के रूप लेलक"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא יומתו…יומתו…ימות",
+      "rationale": "मूलपाठ में 'मरना' के तीन बेर दोहराव — बिधान-उद्धरन के ताल"
+    }
+  ],
+  "translation": "बाकि मारनिहार लोग के ⟨את⟩ बेटा सब के ऊ मरावलन नञ; जइसन लिखल हइ मोशे (मूसा) के तोरा के किताब में, जेकर यहवे हुकम देलन हल, कहैत — बाप लोग बेटा लोग के कारण मरावल नञ जातइ, आउ बेटा लोग बाप लोग के कारण मरावल नञ जातइ; बल्कि हर एक आदमी अपन पाप में मरतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "666aade11f6e9f51f009f133d1470e309fc583f9b03c8bae941dd356f8f4ef0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/14\/5-8.1791998092912.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "बेटा सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "मारनिहार लोग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "המית",
+      "gloss": "मरावलन"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "जइसन लिखल हइ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "किताब में"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकम देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहैत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "मरावल जातइ"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "बाप लोग"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा लोग"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "आउ बेटा लोग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "मरावल जातइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "बाप लोग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बल्कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨कि⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक आदमी"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "अपन पाप में"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:14:52.913530033Z",
+  "model": "glm-5.3"
+}

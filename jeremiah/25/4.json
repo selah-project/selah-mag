@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כפף אזן",
+      "rationale": "„कान झुकावल\" — ध्यान से सुने के इब्रानी मुहावरा; अनुवाद में चित्र जस के तस रखल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहूदा आउ यरूशलयिम के लोग",
+      "rationale": "यहवे के भेजल नबी सब के अस्वीकार — सीधा आरोप तोहनी पर।"
+    }
+  ],
+  "translation": "आउ यहवे तोहनी केरा ⟨את⟩ अपन सब सेवक — नबी सब — के भेजलन, भोर-भोर उठ के भेजलन, बाकि तोहनी सुनलक नञ, आउ सुने बर तोहनी ⟨את⟩ अपन कान झुकालक नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ef0b438427d48d1b731d5f63ed8bedc4b97f0cdc64287cf38dbc35063f527fe5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/25\/1-4.1792000842879.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "आउ भेजलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "तोहनी केरा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन सब सेवक — नबी सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "अपन सेवक"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "नबी सब"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "भोर-भोर उठ के"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "सुनलक"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "झुकालक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन कान"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "अपन कान"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "सुने बर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:00:42.880548411Z",
+  "model": "glm-5.3"
+}

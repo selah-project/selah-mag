@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מטה לחם",
+      "rationale": "'staff of bread' — bread as the supporting staff of life; rendered literally with लाठी to keep the picture."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקרא…שבר",
+      "rationale": "famine personified — 'called' like summoning a servant, then the staff 'broken'; two acting verbs for inanimate things."
+    }
+  ],
+  "translation": "आउ ऊ धरती पर अकाल के बोलारलन, रोटी के सब लाठी तोरलनक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/105\/13-16.1792005883679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "बोलारलन"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "अकाल के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "लाठी"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी के"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "तोरलनक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:43.680642572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "'दादुरनी के बात पर' — इब्रानी के ढाँचा 'बात ... पर' में सँभालल गेल, अलग जोड़-सब्द नञ"
+    }
+  ],
+  "translation": "आउ मोशे आउ अहरोन फरौन के संग संग बाहिर गेलन; आउ मोशे दादुरनी के बात पर यहवे के ओर चीखऽ कइलन — जे ऊ फरौन पर रखलन हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e9427d8b92bb99e327c4bad150b756db9234ba05a5d4e14ddea01e356c1831e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/8\/5-8.1791988239864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आउ ... बाहिर गेलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "आउ अहरोन"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "के संग संग"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौन"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "आउ ... चीखऽ कइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "दादुरनी के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "रखलन हलइ"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "फरौन पर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:30:39.866035073Z",
+  "model": "glm-5.3"
+}

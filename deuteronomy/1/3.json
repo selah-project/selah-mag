@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "दिन",
+      "rationale": "इब्रानी सिर्फ 'एक में, महीना के' कहऽ हइ; मगही 'पहिला दिन' चाही"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתו אלהם",
+      "rationale": "'ओकरा ओकनी बर आज्ञा देलन' बनाम 'ओकरा ओकनी के बात कहे बर आज्ञा देलन'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चालिस बरिस, ग्यारहवा महीना, पहिला दिन",
+      "rationale": "तारीख पूरा गिनावल गेलन"
+    }
+  ],
+  "translation": "आउ चालिस बरिस में, ग्यारहवा महीना, महीना के पहिला ⟨दिन⟩, मोशे यिस्राएल के बेटा सब के ओ सब बात बोललन जे यहवे ओकरा ⟨אתו⟩ ओकनी बर आज्ञा देलन हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/1\/1-4.1791991966739.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होलन"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "चालिस में"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "ग्यारहवा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(दस)"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "महीना"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "पहिला में"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीना के"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के करे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ओ सब के मोताबिक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ओकनी करे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:32:46.740075656Z",
+  "model": "glm-5.3"
+}

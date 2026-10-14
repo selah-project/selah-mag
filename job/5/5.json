@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מצנים",
+      "rationale": "काँड़ा-झाड़ — ई पद तनाख़ में खाली इहे आवऽ हइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צמים",
+      "gloss": "जाल — कुछ पढ़निहार 'प्यासा' पढ़ऽ हथिन; ई खाली इहे आवऽ हइ।",
+      "rationale": ""
+    },
+    {
+      "kind": "crux",
+      "subject": "צמים",
+      "rationale": "'जाल\/दबा-पासा' बनाम 'प्यासा' (צמאים से मेल) — अनुवादक लोग बाँटल हथिन।"
+    }
+  ],
+  "translation": "जे कटाई के भूखा खा जातइ, आउ काँड़ा-झाड़ के बीच से ओकरा लेला जातइ, आउ ओकर धन के जाल हपक लेतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd89e6dfbe519c368bfbd48065e8c136443ef44df7eef1d231aaca536fde33cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/5\/5-8.1792007227244.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "कटाई के"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "भूखा"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खा जातइ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ ... के बीच से"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "काँड़ा-झाड़"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "ओकरा लेला जातइ"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "आउ ... हपक लेतइ"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "जाल"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ओकर धन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:07.245152397Z",
+  "model": "glm-5.3"
+}

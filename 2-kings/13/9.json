@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 13:9",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "सुत गेलन",
+      "rationale": "עם אבתיו संग सोना — मर गेलन के हिब्रू मुहावरा; शाब्दिक रूप रखल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "गेलइ",
+      "rationale": "ויקברהו के कर्मवाच्य किरिया बर पूरक क्रिया-रूप जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "आउ यहोआचाज अपन पुरखा संग सुत गेलन, आउ ओकरा शोमरोन में गाड़ देलन गेलइ, आउ ओकर बेटा योआस ओकर जगह राज करलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "760f2d9d78123e0c0e4624102740f3a380001eaee31b977af1b5d2c35f38875a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/13\/9-12.1791998051349.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "सुत गेलन"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "यहोआचाज"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "अपन पुरखा"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ओकरा गाड़ देलन गेलइ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "शोमरोन में"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राज करलक"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआस"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    }
+  ],
+  "timestamp": "2026-10-14T17:14:11.350499268Z",
+  "model": "glm-5.3"
+}

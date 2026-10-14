@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "फिरौन के बोली मोशे से",
+      "rationale": "फिरौन मोशे के सीधे सम्बोधन करऽ हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבדו את יהוה",
+      "rationale": "हिन्दी 'सेवा' के संग 'ने' चिन्हा आवऽ हकइ, मगही में ⟨את⟩ छूटल नञ — एहे से बनावट रखल गेलइ"
+    }
+  ],
+  "translation": "आउ फिरौन मोशे के बोलावलक आउ कहलक — जाउ, यहवे ⟨את⟩ के सेवा करउ; खाली तोहनी के भेड़-बकरी आउ बैल के राइ रहतइ; तोहनी के बुतरू सब तोहनी के संग जइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4afe2dc940b2d1c652d6ac864512f759a948c80af82daf006aaff879d85716ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/10\/21-24.1791988270629.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "आउ बोलावलक"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "जाउ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "सेवा करउ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "רק",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "भेड़-बकरी"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "आउ बैल"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "संग ही"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "बुतरू सब"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "जइतइ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "तोहनी के संग"
+    }
+  ],
+  "timestamp": "2026-10-14T14:31:10.630629293Z",
+  "model": "glm-5.3"
+}

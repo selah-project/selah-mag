@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 3:9",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तोहनी",
+      "rationale": "נא संबोधन के नरमी बतावऽ हकइ; मगही में संबोधन-सर्बनाम जोड़ल गेलन"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעקב \/ יעקשו",
+      "rationale": "याकोव के नाम आउ 'टेढ़ा करना' (עקש) के ध्वनि-मेल — जे बात टेढ़ा करऽ हथिन ओकर नाम ही ओकरा संग गूँजऽ हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "याकोव के घर के मूड़ी सब",
+      "rationale": "सीधा संबोधन — याकोव के घर के मुखिया आउ यिस्राएल के घर के सरदार कन्हाँ"
+    }
+  ],
+  "translation": "सुनऽ ⟨तोहनी⟩, ई बात — याकोव (याकूब) के घर के मूड़ी सब आउ यिस्राएल के घर के सरदार सब, जे नियाव से घृणा करऽ हथिन आउ ⟨את⟩ सब सीध बात के टेढ़ा करऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/3\/9-12.1792003687868.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨तोहनी⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई बात"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "मूड़ी सब"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "आउ सरदार सब"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "המתעבים",
+      "gloss": "घृणा करऽ हथिन"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव से"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सब सीध बात"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הישרה",
+      "gloss": "सीध बात"
+    },
+    {
+      "surface": "יעקשו",
+      "gloss": "टेढ़ा करऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:07.869210490Z",
+  "model": "glm-5.3"
+}

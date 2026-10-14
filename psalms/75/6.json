@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "दुर्लग सब्द — 'बेशरम बड़ बात' (जेपीएस 'insolence', केजेबी से 'stiff neck' के संग जोड़ल); कोनो साफ एक-सब्दी मगही नञ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בצואר עתק",
+      "rationale": "'गरदन अड़ाए के बोलऽ' — इब्रानी साँड़ के अड़ गरदन के तस्वीर, मगही में ओही तस्वीर रखल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "घमंडी आउ दुष्ट सब",
+      "rationale": "पिछला पद के सम्बोधन आगे बढ़लइ हे।"
+    }
+  ],
+  "translation": "अपन सींग ऊँच मत उठावऽ, गरदन अड़ाए के बड़-बड़ बात मत बोलऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/75\/5-8.1792005464946.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "उठावऽ"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ऊँच के"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "अपन सींग"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "बोलऽ"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "गरदन अड़ाए के"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "बड़-बड़ बात"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:44.947555652Z",
+  "model": "glm-5.3"
+}

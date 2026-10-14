@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מה יפו \/ מה טבו",
+      "rationale": "समानांतर प्रश्न-विस्मय संरचना के दोहराव, दुनो पद में 'कते' रख के पार करल गेलइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "तुलना-क्रिया",
+      "rationale": "'सब खुसबूदार बस्तु ले नीक हइ' — इब्रानी के दोसर आधा पद में क्रिया गिरल हइ, मगही में दोहराव के जरूरत पड़लइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "दुलहिन के सम्बोधन",
+      "rationale": "विस्मय-वाक्य सीधा दुलहिन के मुँह पर कहल गेलइ।"
+    }
+  ],
+  "translation": "कते सुंदर हइ तोहर परेम, हमर बहिन, हमर दुलहिन! कते नीक हइ तोहर परेम अंगूरी मद ले! आउ तोहर तेल के सुगन्ध सब खुसबूदार बस्तु सब ले नीक हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7a2a9c92046694a69539c3aea71f8f4827609e0a3e5b511146650f2e67b3601c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/4\/9-12.1792007947403.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "कते"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "सुंदर हइ"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "तोहर परेम"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "हमर बहिन"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "हमर दुलहिन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कते"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "नीक हइ"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "तोहर परेम"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "अंगूरी मद ले"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "आउ … के सुगन्ध"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "तोहर तेल"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब … ले"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "खुसबूदार बस्तु सब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:59:07.403846725Z",
+  "model": "glm-5.3"
+}

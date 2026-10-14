@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 12:37",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "छह सौ हजार",
+      "rationale": "पैदल मरद सब के गिनती — करीब छह सौ हजार, बुतरू छोड़के।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רגלי",
+      "rationale": "इब्रानी 'रगली' गोड़ से बनल सब्द हकइ — पैदल चलै वाला लड़ाकू; 'पैदल' ओकर रूप रखऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "סכתה",
+      "rationale": "सुक्कोत — डेरा-तम्बू के बहुबचन आउ नगर के नाम दुनों; मगही में नाम लिप्यन्तरित कइल गेल।"
+    }
+  ],
+  "translation": "आउ यिस्राएल के बेटा सब रामसेस से डेरा उठाके सुक्कोत धरे गेलन — करीब छह सौ हजार पैदल चलै वाला मरद, बुतरू सब के अलावा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7bf3a9cd1430b60cc5e41d7951e4c1ca0b2c7491e6175a75e848e6783d1e0d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/12\/37-40.1791988385355.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "आउ डेरा उठाके गेलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "יישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "रामसेस से"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "सुक्कोत ⟨धरे⟩"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "करीब छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "पैदल चलै वाला"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "के अलावा"
+    },
+    {
+      "surface": "מטף",
+      "gloss": "बुतरू सब"
+    }
+  ],
+  "timestamp": "2026-10-14T14:33:05.356275935Z",
+  "model": "glm-5.3"
+}

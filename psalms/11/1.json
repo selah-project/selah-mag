@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נודו הרכם צפור",
+      "rationale": "क्रिया आगे आउ उपमा पाछे बाँटल मंजूर हकइ; 'पहाड़ केकर — पक्षी के या दाविद के' पर अनुवादक बाँटल हथिन"
+    },
+    {
+      "kind": "elision",
+      "subject": "למנצח לדוד",
+      "rationale": "शीर्षक पद कोनो क्रिया-बाक्य के भीतर नञ हकइ; शीर्षक जइसने ठाढ़ रहल"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "दाविद सलाह देवै वाला लोग से सीधे सम्बोधन करऽ हइ"
+    }
+  ],
+  "translation": "मुखिया बर; दाविद के। यहवे में हम शरण लेलिए हिअइ; तोहनी हमर परान से कइसने कहऽ ह — चिरई जइसन अपन पहाड़ के ओर भाग जा?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/11\/1-4.1792004583442.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया बर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे में"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "हम शरण लेलिए हिअइ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "तोहनी कहऽ ह"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "हमर परान से"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "भाग जा"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "अपन पहाड़ के ओर"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "चिरई जइसन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:03.442625129Z",
+  "model": "glm-5.3"
+}

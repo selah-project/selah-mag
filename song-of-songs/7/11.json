@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हिअइ \/ हकइ",
+      "rationale": "इब्रानी म क्रिया 'होना' नञ हइ; मगही बाक्य बर दुन्नो क्रिया जोड़ल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "स्त्री के बोली",
+      "rationale": "दुलहिन खुद के घोसना करऽ हइ — परेम-गीत के आवाज़ बदलतइ (7:1–9 पुरुस के बोली हलइ)।"
+    }
+  ],
+  "translation": "हम हमर परेमी के ⟨हिअइ⟩, आउ ओकर लालसा हमरा ऊपर ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/7\/9-12.1792008066786.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "हमर परेमी के"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "आउ हमरा ऊपर"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "ओकर लालसा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:01:06.787236412Z",
+  "model": "glm-5.3"
+}

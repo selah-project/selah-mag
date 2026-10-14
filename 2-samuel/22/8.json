@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 22:8",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "געש दोहराव",
+      "rationale": "गाष जड़ दू बेर (हिललइ\/हिललन) — तूफान के दोहरी गरज इब्रानी के ध्वनि-चित्र हकइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי חרה לו",
+      "rationale": "शाब्दिक अरथ 'ओकर बर जल उठल' — कोप के इब्रानी चित्र, मगही में 'कोप भड़कल'।"
+    }
+  ],
+  "translation": "आउ धरती हिललइ आउ काँपलइ, अकास के नेव थरथरायलन आउ हिललन, काहे कि ओकर कोप भड़कल हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b65ca0144051ef5bc38f683dc73604406e7f894bd97708628f44c79ec5eee71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/22\/5-8.1791996484997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "आउ हिललइ"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "काँपलइ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "नेव"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "थरथरायलन"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "आउ हिललन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "कोप भड़कल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:48:04.998573132Z",
+  "model": "glm-5.3"
+}

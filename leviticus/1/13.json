@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 1:13",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "अन्दर के अंगन",
+      "rationale": "הקרב के साक्षात अरथ 'नेके के भाग \/ बीच के अंग' हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשה ריח ניחח",
+      "rationale": "יחח-जड़ के दोहराव (नियोह\/सुगन्ध) — मगही में एकर लय नञ आवऽ हइ"
+    }
+  ],
+  "translation": "आउ ओकरा अन्दर के अंगन आउ गोड़ के टेक दूनो पानी में धुड़के, आउ पुरोहित ⟨את⟩ सब भेंट करतन आउ बेदी पर जरा देतन — ऊ चढ़ावा हकइ, आग के भेंट, सुकर-सुकर बास यहवे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/1\/13-16.1791989475886.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרב",
+      "gloss": "आउ ओकरा अन्दर के अंगन"
+    },
+    {
+      "surface": "והכרעים",
+      "gloss": "आउ गोड़ के टेक दूनो"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "धुड़के"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी में"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "भेंट करतन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "आउ जरा देतन"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "बेदी पर"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ावा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ हकइ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "आग के भेंट"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "बास"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "सुकर-सुकर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:51:15.886626972Z",
+  "model": "glm-5.3"
+}

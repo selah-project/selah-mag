@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "लेलन हे",
+      "rationale": "हिब्रू केवल 'मैंने आशीष लिया है' कहता है — 'आदेश' (आज्ञा) अनुवादकों द्वारा जोड़ा गया है; या 'मैंने आशीष लेने के लिए कहा है'"
+    },
+    {
+      "kind": "crux",
+      "subject": "उसने आशीष दी है",
+      "rationale": "या 'वह आशीष देता है' — हिब्रू क्रिया-रूप दोनों पढ़ने की अनुमति देता है; विषय-वस्तु या तो यहोवा है या बिलाम स्वयं"
+    }
+  ],
+  "translation": "देखू, असीस देबे के हुकुम लेलन हे; आउ ऊ असीस देलन हे, आउ हम ओकरा फेर नञ घुराबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea3788f67f9d0171360c4368d4d698cafff47776f74eac58fb090edb2e091f00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/23\/17-20.1791991491177.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखू"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "असीस"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "लेलन हे"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "आउ असीस देलन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "ओकरा फेर घुराबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:24:51.178583561Z",
+  "model": "glm-5.3"
+}

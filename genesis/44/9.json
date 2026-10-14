@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the steward",
+      "rationale": "भायन सब यूसुफ के घर के मालिक के करइनीस से बोल रहलथिन।"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "अहाँ प्रसंग के चीज (चानी\/सोना) बतावऽ हइ, मगही में 'ओ' से पार कइल गेलइ।"
+    }
+  ],
+  "translation": "जेकर संग ओ ⟨את⟩ तोहनी के दासन में पाएल जातइ, ऊ मर जाय, आउ हमनी सब ⟨अपन⟩ हमर मालिक के बर दास बनि जाबिअइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "24051e7be6072b7c72758d3ebc78638b4b93db51602885ab0075cb856082e725",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/44\/9-12.1791987708850.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जेकर संग"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "पाएल जातइ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओ चोरी कइल चीज"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "तोहनी के दासन में"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "मर जाय"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हमनी सब"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "बनि जाबिअइ"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "हमर मालिक के बर"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "दास"
+    }
+  ],
+  "timestamp": "2026-10-14T14:21:48.850837206Z",
+  "model": "glm-5.3"
+}

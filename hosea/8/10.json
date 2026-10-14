@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 8:10",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחלו",
+      "rationale": "חלל के जड़: 'दुखलन \/ छलनी भेलन' बनाम KJV 'sorrowed', ASV\/JPS 'घटऽ सुरू भेलन'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלך שרים",
+      "rationale": "'राजा-आउ-सरदार' (दू बेती के समास) बनाम 'सरदार सब के राजा' (यहवे बर उपाधि, KJV के पढ़ाई)"
+    }
+  ],
+  "translation": "तबु जे ऊ जाति सब के बीच भाड़ा देलन — अब हम ओकनी के एकट्ठा करतइ, आउ ऊ राजा-आउ-सरदार के बोझ से कनि दिन तक दुखलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bdd7f16393960f98e197408f3975b6cbb5a5c5f0b8ab21fea4e055a4a71b03a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/8\/9-12.1792003276679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "तबु"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "भाड़ा देलन"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जाति सब के बीच"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "हम ओकनी के एकट्ठा करतइ"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "दुखलन"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "कनि दिन तक"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "बोझ से"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "सरदार"
+    }
+  ],
+  "timestamp": "2026-10-14T18:41:16.680011881Z",
+  "model": "glm-5.3"
+}

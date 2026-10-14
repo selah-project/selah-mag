@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 6:3",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ורהב רעיך",
+      "rationale": "'urge\/importune your neighbour' vs 'make sure your friend' (KJV) vs 'act proudly toward' — the verb רהב is genuinely contested."
+    },
+    {
+      "kind": "alternative",
+      "subject": "अपना के दबा",
+      "rationale": "התרפס literally 'trample yourself' — prostrate yourself, rendered 'दबा' (crush low); literal 'अपना के रौंद' was the runner-up."
+    },
+    {
+      "kind": "invitation",
+      "subject": "एकरा अब कर",
+      "rationale": "the father's imperatives summon the son to urgent action, heightening through v.5."
+    }
+  ],
+  "translation": "एकरा अब कर, हमर बेटा, आउ अपना के छुड़ा ले, काहे कि तूँ अपन संगी के हाथ में आ गेलइ हिअऽ; जा, अपना के दबा, आउ अपन संगी के घेर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "919b228c06ee50d05ed6d41fc55a6edbf23eff6c0d4d90ade1b7eda4afa14a4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/6\/1-4.1792006510732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "कर"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "एकरा"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमर बेटा"
+    },
+    {
+      "surface": "והנצל",
+      "gloss": "आउ अपना के छुड़ा ले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "באת",
+      "gloss": "आ गेलइ हिअऽ"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "अपन संगी के"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "התרפס",
+      "gloss": "अपना के दबा"
+    },
+    {
+      "surface": "ורהב",
+      "gloss": "आउ ... घेर"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "अपन संगी के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:10.733938022Z",
+  "model": "glm-5.3"
+}

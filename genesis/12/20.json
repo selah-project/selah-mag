@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "भेज देलन",
+      "rationale": "וישלחु ‘सँध देलन’ जेतना साफ हइ; ‘भेज देलन’ एकरा बिदा करे के अरथ देवऽ हइ।"
+    }
+  ],
+  "translation": "आउ फरोह ओकरा बर आदमी सब के हुक्म देलन, आउ ओकनी ⟨את⟩ ओकरा आउ ⟨את⟩ ओकर जनाना के आउ ⟨את⟩ ओकर सब चीज, जे कुछ ओकर हलइ, भेज देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a4dd18830dc8f9f85311a466f04aac5c84f97876a68ccd7dd995aaa03281a13f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/12\/17-20.1791986560052.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "हुक्म देलन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा बर"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरोह"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "आदमी सब"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "भेज देलन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर जनाना"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ओकर जनाना"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर सब चीज"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब चीज"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे कुछ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:02:40.053302432Z",
+  "model": "glm-5.3"
+}

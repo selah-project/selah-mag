@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנחם",
+      "rationale": "नाचाह: 'रास्ता देखाना' (जेपीएस\/बीएसबी) बनाम 'चलाना\/राज करना' (केजेवी) — दुनू पढ़ाव मंजूर हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "संगीत-विराम चिन्हा, लिप्यन्तरन 'सेला' से रखल गेल"
+    }
+  ],
+  "translation": "जाति सब खुस होवतन आउ खुसी से गावतन, काहे कि तूँ समता से नियाव करतन परजा सब के, आउ धरती में जाति सब के रास्ता देखाथिन। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/67\/5-8.1792005252090.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "खुस होवतन"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "आउ खुसी से गावतन"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "नियाव करतन"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "परजा सब के"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "समता से"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "आउ जाति सब के"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "रास्ता देखाथिन"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:12.091213031Z",
+  "model": "glm-5.3"
+}

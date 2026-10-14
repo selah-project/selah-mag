@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 21:1",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आउ",
+      "rationale": "मगही के जोड़-सब्द इब्रानी के उपसर्ग ׵- के रूप में अलग सब्द के रूप में जोड़ल गेल"
+    },
+    {
+      "kind": "elision",
+      "subject": "राशי אבות",
+      "rationale": "इब्रानी के बन्ध-अवस्था (heads-of-fathers) मगही में क्रम में खोलल गेल"
+    }
+  ],
+  "translation": "तब लेवी के बाप-बड़े के मुखिया लोग एलाजार पुरोहित के पास, आउ नून के बेटा याहोशुआ के पास, आउ यिस्राएल के बेटानि के गोत्रनि के बाप-बड़े के मुखिया के पास अइलनि।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "92a69add1cb4fa7f36ff9e3f0a1f650f50705e020048a428c01b7fd45e2b195d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/21\/1-4.1791993782716.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "अइलनि"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "बाप-बड़े के"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवी के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाजार"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ ⟨के पास⟩"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "याहोशुआ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नून"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ ⟨के पास⟩"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "बाप-बड़े के"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "गोत्रनि के"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटानि के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:03:02.717638436Z",
+  "model": "glm-5.3"
+}

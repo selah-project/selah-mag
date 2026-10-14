@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "लगातार जोहित",
+      "rationale": "इब्रानी में 'जोहल' क्रिया नञ हकइ; प्रतीक्षा के चित्र कोस्ठक में जोड़ल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישועה",
+      "rationale": "'बचाव \/ मुक्ति' — मगही में 'बचावे' लेलहीं।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיני כלו",
+      "rationale": "'आँख कल गेल' — काहे कि ओ बरखा नञ भेजऽ हइ (यिर्मयाहु 14:4 के संग मिलत-जुलत छवि), ओकर अनुभूति मगही 'मुरझान' में धरल गेल।"
+    }
+  ],
+  "translation": "हमर आँखी तोहर बचावे बर आउ तोहर त्सेदेक के बचन बर ⟨लगातार जोहित⟩ मुरझान गेलन हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/121-124.1792006150573.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "हमर आँखी"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "मुरझान गेलन"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "तोहर बचावे बर"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "आउ तोहर बचन बर"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "तोहर त्सेदेक के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:10.574252058Z",
+  "model": "glm-5.3"
+}

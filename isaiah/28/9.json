@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के",
+      "rationale": "Hebrew participle carries 'to whom'; Magahi needs the particle"
+    },
+    {
+      "kind": "crux",
+      "subject": "यूरह",
+      "rationale": "'teach' (from throw\/instruct) vs literal 'pour like water' — root of תורה"
+    },
+    {
+      "kind": "you",
+      "subject": "यरूशलयिम के लोग",
+      "rationale": "mocking rhetorical questions addressed to the drunken leaders of Ephraim\/Judah"
+    }
+  ],
+  "translation": "⟨את⟩ कोना ऊ जानकारी सिखावऽ हइ, आउ ⟨את⟩ कोना ऊ सुनावल बात समझावऽ हइ? दूध से छुड़ाएल के, छाती से हटावल गेल के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a1e58da1d627cba7d7308cf88327d072fa531b1a05a0d6d50c9d2e528f7cdaa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/28\/9-12.1791999028254.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कोना"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोना"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "सिखावऽ हइ"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "जानकारी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "कोना"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोना"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "समझावऽ हइ"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "सुनावल बात"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "छुड़ाएल के"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "दूध से"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "हटावल गेल"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "छाती से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:30:28.254866888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תאכלו",
+      "rationale": "पद 19 के 'खाब' के जोड़ी में उलटा — धरती के भला नञ, तलवार खातइ; हिब्रू एक्के किरिया दुनू दने घुमावऽ हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "तोहनी के",
+      "rationale": "हिब्रू के करम-निर्देस में करम सर्बनाम जोड़ल गेलइ — खाए जाए वाला साफ़ करे बर।"
+    }
+  ],
+  "translation": "आउ जउ मना करऽ आउ बगावत करऽ, तलवार तोहनी के खा जतइ; काहे कि यहवे के मुँह बोललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e685519ac0c74cb91c2dc0fb34c0d1389f19735189155267a5efbfca93e0c078",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/1\/17-20.1791998518080.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जउ"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "मना करऽ"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "आउ बगावत करऽ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खा जतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोललन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:21:58.081071675Z",
+  "model": "glm-5.3"
+}

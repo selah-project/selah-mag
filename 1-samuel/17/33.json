@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 17:33",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हऽ",
+      "rationale": "किरिया-पूरक जे इब्रानी में नञ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "אישׁ מלחמה",
+      "rationale": "‘लड़ाई के मरद’ — कइयो अनुवाद ‘सिपाही’ कहऽ हइ, बाकि इब्रानी के रूप ‘मरद + लड़ाई’ के बनावट हकइ"
+    }
+  ],
+  "translation": "आउ शाऊल दाविद से कहलन, एह पलिश्ती के पास जाके ओकरा संग लड़ऽ के तूँ सकऽ हऽ नञ, काहे कि तूँ नाचर हऽ, आउ ऊ अपन नाचरपने से लड़ाई के मरद हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e91ff987f6340ac01af3316be5b8c5ac7dd578a5f225d491b01cb604f3efab39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/17\/33-36.1791995358123.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "सकऽ हऽ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "जाके"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "एह पलिश्ती"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "लड़ऽ के"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נער",
+      "gloss": "नाचर"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई के"
+    },
+    {
+      "surface": "מנעריו",
+      "gloss": "अपन नाचरपने से"
+    }
+  ],
+  "timestamp": "2026-10-14T16:29:18.124225399Z",
+  "model": "glm-5.3"
+}

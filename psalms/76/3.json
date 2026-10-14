@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "शालेम",
+      "rationale": "שָׁלֵם यरूशलयिम के पुरान नाम हकइ; इब्रानी-निस्ठ रूप लेल गेल"
+    }
+  ],
+  "translation": "आउ ओकर डेरा शालेम में भेलन, आउ ओकर निवास त्सियोन में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/76\/1-4.1792005432355.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेलन"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "शालेम में"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "ओकर डेरा"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "आउ ओकर निवास"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "त्सियोन में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:12.356504339Z",
+  "model": "glm-5.3"
+}

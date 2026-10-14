@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "esther 9:30",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "127 प्रांत",
+      "rationale": "अखश्वेरोश के राज के प्रांत के गिनती — इब्रानी छोट-से-बड़ क्रम (7, 20, 100)।"
+    },
+    {
+      "kind": "elision",
+      "subject": "करता",
+      "rationale": "इब्रानी क्रिया (विषय — मोर्द्खाय) के बाकी पद में नञ आवऽ हइ; अनुवाद एकरा क्रिया के रूप में रखऽ हइ।"
+    }
+  ],
+  "translation": "आउ चिट्ठी पठोलन सब यहूदी लोग के लगे, सात आउ बीस आउ सौ प्रांत में — अखश्वेरोश के राज — सांति आउ सच के बात ⟨संग⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "17796a276e1347aeeffa4ce98e6c82cc02d9afe24a9f2a6828f880b9979c85b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/9\/29-32.1792008745122.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "आउ पठोलन"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "चिट्ठी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "यहूदी लोग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगे"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आउ बीस"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "आउ सौ"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "प्रांत"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "राज"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "अखश्वेरोश"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "आउ सच"
+    }
+  ],
+  "timestamp": "2026-10-14T20:12:25.123689174Z",
+  "model": "glm-5.3"
+}

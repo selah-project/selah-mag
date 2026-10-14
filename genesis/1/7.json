@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויהי כן",
+      "rationale": "literally 'and it was so'; the formula marks the executed decree"
+    }
+  ],
+  "translation": "आउ एलोहीम ⟨את⟩ फैलाव बनइलन, आउ फैलाव के नीचे के पानी आउ फैलाव के ऊपर के पानी के बीच अलग करलन; आउ अइसने होलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "693e2cdb49c8d71a631d95aea03e8300f2587939102fde607e7da14c153ec6ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/1\/5-8.1791986286283.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आउ बनइलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "फैलाव"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "फैलाव"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "आउ अलग करलन"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "फैलाव के"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ के बीच"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "फैलाव के"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "होलइ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "अइसने"
+    }
+  ],
+  "timestamp": "2026-10-14T13:58:06.284197253Z",
+  "model": "glm-5.3"
+}

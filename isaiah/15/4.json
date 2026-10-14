@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 15:4",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "नेफेस — परान (जीवनी शक्ति), 'आत्मा' नहीं।"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלצי מואב",
+      "rationale": "'मोआब के लड़ाकू' — सैनिक (KJV) बनाम शस्त्रधारी — या तो 'भागे हुए लोग' (संदर्भ 15:5 के शरणार्थी से मेल)।"
+    },
+    {
+      "kind": "crux",
+      "subject": "נפשו ירעה לו",
+      "rationale": "'उसकी परान उसके लिए कष्टित होती' — KJV दुःखी, ASV कांपती, JPS बेहोश — पीड़ा की तीव्रता पर मतभेद।"
+    }
+  ],
+  "translation": "आउ हेस्बोन चीखलक आउ एलएले करतइ; याहास तक ओकनी के आवाज सुनाय पड़लक; एही से मोआब के लड़ाकू चीखतइ; ओकर परान ओकर भीतर ब्याकुल होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/15\/1-4.1791998908340.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותזעק",
+      "gloss": "आउ चीखलक"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "हेस्बोन"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "आउ एलएले"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "יהץ",
+      "gloss": "याहास"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "सुनाय पड़लक"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ओकनी के आवाज"
+    },
+    {
+      "surface": "על",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "חלצי",
+      "gloss": "लड़ाकू"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "चीखतइ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ओकर परान"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "ब्याकुल होतइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:28.341350182Z",
+  "model": "glm-5.3"
+}

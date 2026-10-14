@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 11:24",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "मनुस",
+      "rationale": "יש नञ-पुरुष बनावट हकइ; मगही में 'कोनो मनुस' चाही"
+    },
+    {
+      "kind": "crux",
+      "subject": "מישר",
+      "rationale": "'जे देवे के हक हकइ' (kjv\/jps 'more than is meet') बनाम 'सही रस्ता से' (ylt 'from uprightness') — मतभेद प्रसिद्ध हकइ"
+    }
+  ],
+  "translation": "कोनो ⟨मनुस⟩ बिखेरऽ हइ आउ तबो आउ जादे पावऽ हइ; आउ कोनो जे देवे के हक हकइ ओकरा रोकऽ हइ — ओकरा खाली कंगाली होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "86db5d8841c3950e884e37542d0fa7a6d6729bc687c58eaf2c6ef7ba70ac3094",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/11\/21-24.1792006651628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "कोनो ⟨मनुस⟩"
+    },
+    {
+      "surface": "מפזר",
+      "gloss": "बिखेरऽ हइ"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "आउ जादे पावऽ हइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "तबो"
+    },
+    {
+      "surface": "וחושך",
+      "gloss": "रोकऽ हइ"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "जे देवे के हक हकइ ओकरा"
+    },
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "कंगाली होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:37:31.629558537Z",
+  "model": "glm-5.3"
+}

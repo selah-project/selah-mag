@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "शोर भरल गड्ढा",
+      "rationale": "שאון = शोर\/हल्ला भरल; किछु अनुवाद 'भयानक' लिखऽ हथिन, बाकि सब्द के आकार शोर हकइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "היון",
+      "rationale": "डाट-कीचड़ — तनाख़ में एहीं एक बेर"
+    }
+  ],
+  "translation": "आउ ऊ हमनी के शोर भरल गड्ढा से, कीचड़ के डाट से ऊपर चढ़ा देलन; हमर गोड़ पत्थल पर टिकाके ठाढ़ कर देलन, हमर कदमा के ठिकान बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f4a041793cd11dc515919b0af76eee375de4cb94fcaaa6ae4f2b7a65c0771316",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/40\/1-4.1792004994319.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "ऊपर चढ़ा देलन"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "गड्ढा से"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "शोर भरल"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "कीचड़ के डाट से"
+    },
+    {
+      "surface": "היון",
+      "gloss": "कीचड़"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ठाढ़ कर देलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "हमर गोड़"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "टिकाके"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "हमर कदमा के ठिकान बनइलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:54.320944984Z",
+  "model": "glm-5.3"
+}

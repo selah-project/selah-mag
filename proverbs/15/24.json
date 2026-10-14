@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 15:24",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨जाऽ हइ⟩",
+      "rationale": "लमעלा क्रियाबिशेषण हकइ; मगही के क्रिया चाही"
+    },
+    {
+      "kind": "substitution",
+      "subject": "शेओल",
+      "rationale": "लिप्यन्तरन नियम के मोताबिक शेओल रखल गेलन — नरक नञ, काहे कि ऊ सजा के बाद के धारणा हकइ"
+    }
+  ],
+  "translation": "परान के डहर समझदार के बर ऊपर ⟨जाऽ हइ⟩ — एहे से ऊ नीचे के शेओल से हट जा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "10d741359f5567c10274222739567fd7c55a943430016e07bfc5ad6b88103e71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/15\/21-24.1792006717643.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "डहर"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "परान के"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "למשכיל",
+      "gloss": "समझदार के बर"
+    },
+    {
+      "surface": "למען",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "סור",
+      "gloss": "हट जा"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "शेओल से"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "नीचे के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:38:37.644162602Z",
+  "model": "glm-5.3"
+}

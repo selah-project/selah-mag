@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "החרם פחרים",
+      "rationale": "इब्रानी के infinitive absolute — एके क्रिया दू बेर, जोर देबे बर; मगही में 'नास कइ के नास करबइ' से रूप रखल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרם (बिन-बनाव)",
+      "rationale": "'नास करना' बनाम 'बिन-बनाव (devoted destruction)' — ओकर अरथ धरम-बिधान से जुड़ल बिन के हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल के सम्बोधन",
+      "rationale": "आज्ञा यिस्राएल के देल गेल हइ।"
+    }
+  ],
+  "translation": "आउ यहवे तोहर एलोहीम ओकनी के तोहर मुँह के आगू सम्पन्न करतइ, आउ तूँ ओकनी के मारबइ; नास कइ के नास करबइ ⟨את⟩ ओकनी के; ओकनी संग वाचा मत काटबइ आउ ओकनी पर दया मत करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/7\/1-4.1791992167476.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "आउ सम्पन्न करतइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहर मुँह के आगू"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "आउ मारबइ"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "नास कइ के"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "नास करबइ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "काटबइ (वाचा)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी संग"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "वाचा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "दया करबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:36:07.477327150Z",
+  "model": "glm-5.3"
+}

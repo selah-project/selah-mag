@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आउ",
+      "rationale": "हिब्रू वाव-जोड़ मगही के 'आउ' से पार; बच्चा-जोड़ स्वाभाविक।"
+    }
+  ],
+  "translation": "धनी आउ गरीब भेटलन; ओन सब के बनइलन यहवे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/22\/1-4.1792006868777.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "धनी"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "आउ गरीब"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "भेटलन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ओन सब"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:41:08.778607452Z",
+  "model": "glm-5.3"
+}

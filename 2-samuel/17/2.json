@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רפה ידים",
+      "rationale": "शाब्दिक 'हाथ ढीला' — मगही में 'हाथ माँहरा' कइल"
+    },
+    {
+      "kind": "crux",
+      "subject": "והחרדתי",
+      "rationale": "'हम ओकरा डराबली' बनाम किछु पढ़निहार में 'ओकरा पर तबियत चढ़ल' — कारण-परिणाम के जोड़"
+    }
+  ],
+  "translation": "आउ हम ओकरा पर चढ़ली, आउ ऊ थकल होतइ आउ हाथ माँहरा, आउ हम ओकरा ⟨אתו⟩ डराबली, आउ ⟨את⟩ ओकरा संग के सब लोग भाग जातइ, आउ हम अकेले राजा के ⟨את⟩ मारली।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/17\/1-4.1791996258378.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "आउ चढ़ली"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "थकल होतइ"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "माँहरा"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "डराबली"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "भाग जातइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकरा संग"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "मारली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "राजा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "अकेले"
+    }
+  ],
+  "timestamp": "2026-10-14T16:44:18.379652638Z",
+  "model": "glm-5.3"
+}

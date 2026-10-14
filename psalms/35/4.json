@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בושו\/כלמו · חפרו",
+      "rationale": "लज्जा के चार क्रिया के ढेर — इब्रानी में शर्म के चार रूप के जमाव, मगही में ओकर गहराई के अंदाजा देखावल गेलइ"
+    }
+  ],
+  "translation": "हमरा परान के खोजै वाला लोग लज्जित होवथिन आउ बेइज्जत होवथिन; पाछे हटथिन आउ निरास होथिन, जे हमरा बुराई सोचै हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/35\/1-4.1792004900571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "लज्जित होवथिन"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "आउ बेइज्जत होवथिन"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "खोजै वाला लोग"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमरा परान"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "पाछे हटथिन"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पाछे"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "आउ निरास होथिन"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "सोचै वाला लोग"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "हमरा बुराई"
+    }
+  ],
+  "timestamp": "2026-10-14T19:08:20.573028818Z",
+  "model": "glm-5.3"
+}

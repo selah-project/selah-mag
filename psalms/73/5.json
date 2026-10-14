@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אינמו",
+      "rationale": "कत्तु के ढाँचा — 'मनुस के परेसानी में ऊ नञ हथिन' (एके मानक रूप) बनाम 'ओकनी के परेसानी मनुस बर नञ हकइ'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנוש \/ אדם",
+      "rationale": "दू अलग-अलग सब्द 'मनुस' बर — एकर फरक मगही में मनुस \/ आदमी से रखल गेल।"
+    }
+  ],
+  "translation": "मनुस के परेसानी में ऊ ⟨नञ⟩ हथिन, आउ आदमी सभा के संग ओकनी के छेड़छाड़ नञ होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/73\/5-8.1792005405380.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "परेसानी में"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ऊ ⟨नञ⟩ हथिन"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आउ … के संग"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी सभा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "छेड़छाड़ होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:45.381219003Z",
+  "model": "glm-5.3"
+}

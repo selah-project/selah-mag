@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezekiel 16:56",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשמועה",
+      "rationale": "'चरचा\/बात सुनल जाए के बिसय' — KJV\/ASV विकल्प 'उल्लेख नञ कइल गेल' बनाम 'लोक-गाथा (बुराइ के नाम) नञ हलइ'; दुनो 'तोहर मुँह के चरचा' से निकलऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यरूशलयिम के नाम",
+      "rationale": "यरूशलयिम (तोहर) से सीधा सम्बोधन चालू रहलइ।"
+    }
+  ],
+  "translation": "बाकि तोहर बहिन सदोम तोहर घमंड के दिन तोहर मुँह के चरचा के बिसय नञ हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "640aafe30c751ead5b897540ab0923db8a612c98c8c2970ea80620bdefdc03a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/16\/53-56.1792002125147.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "बाकि ... नञ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सदोम"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "तोहर बहिन"
+    },
+    {
+      "surface": "לשמועה",
+      "gloss": "चरचा के बिसय"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "तोहर मुँह के"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "גאוניך",
+      "gloss": "तोहर घमंड के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:22:05.148966453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एल",
+      "rationale": "עליोן के आगे जाति-सब्द एल मगही में जोड़ल गेलइ; इब्रानी खाली עליון कहऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "רעם",
+      "rationale": "גרעם क्रिया के अरथ 'गड़गड़ाना' — कतुब अनुवाद 'बिजुरी गिरवलन' ले; पाछे के बरखा के दृस्टि से दुनो सम्भव"
+    }
+  ],
+  "translation": "यहवे अकास से गड़गड़ावलन, आउ एल एल्योन ⟨ओकर⟩ बोली देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "33cfa62fbff39a9da83baa8367649746eb406fdb54efda4762c49266fb25f763",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/22\/13-16.1791996550233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "गड़गड़ावलन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "आउ एल एल्योन"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "बोली"
+    }
+  ],
+  "timestamp": "2026-10-14T16:49:10.234230805Z",
+  "model": "glm-5.3"
+}

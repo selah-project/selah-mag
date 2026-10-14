@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 36:37",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "किरमिज-लाल",
+      "rationale": "תולעת שני literally 'worm of scarlet' — the insect-dye; rendered as the colour with its source named"
+    },
+    {
+      "kind": "alternative",
+      "subject": "रोकेम",
+      "rationale": "JPS reads 'weaver in colours' against KJV\/ASV 'embroiderer'; कढ़ाई follows the majority"
+    }
+  ],
+  "translation": "आउ ऊ तम्बू के दुआरी बर परदा बनइलन — नील, अरगमन आउ किरमिज-लाल आउ सेत मरोड़ल सूत के, कढ़ाई के काम।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1d7fd72e490e32d0493b188ad90749b97c33401068e943b50e3d875446b28766",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/36\/37-38.1791989268781.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आउ ऊ बनइलन"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "दुआरी बर"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "तम्बू के"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "नील"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "अरगमन"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "किरमिज"
+    },
+    {
+      "surface": "שני",
+      "gloss": "लाल"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "सेत सूत"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "मरोड़ल"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "कढ़ाई के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:47:48.781953221Z",
+  "model": "glm-5.3"
+}

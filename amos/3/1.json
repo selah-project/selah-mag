@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 3:1",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "Magahi vocative particle supplied for direct address"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct summons to the children of Israel"
+    },
+    {
+      "kind": "invitation",
+      "subject": "सुनऽ",
+      "rationale": "Opening imperative draws the hearer in"
+    }
+  ],
+  "translation": "हे यिस्राएल (इस्राएल) के बेटा सब, ई ⟨את⟩ बात सुनऽ जे यहवे तोहनी ऊपर, ओ पूरा परिवार ऊपर जेकरा हम मिस्रयिम (मिस्र) के धरती से उबारलिये रहिये, कहलन हे —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/3\/1-4.1792003487086.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई बात"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन हे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तोहनी ऊपर"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "परिवार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "उबारलिये रहिये"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम (मिस्र)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहितै"
+    }
+  ],
+  "timestamp": "2026-10-14T18:44:47.086921712Z",
+  "model": "glm-5.3"
+}

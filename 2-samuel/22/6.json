@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 22:6",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קדמני",
+      "rationale": "'हमरा भेंट भेलन' बनाम 'हमरा आगे आयलन' — 'prevent' पुरान अरथ 'पहिले आवऽ' हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "मौत के दोहराव",
+      "rationale": "दू पंक्ति में 'मौत' के दोहराव समानांतर बनावट के हिस्सा हकइ।"
+    }
+  ],
+  "translation": "शेओल के रस्सी सब हमरा घेर लेलन हलइ, मौत के फंदा सब हमरा भेंट भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b65ca0144051ef5bc38f683dc73604406e7f894bd97708628f44c79ec5eee71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/22\/5-8.1791996484997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "रस्सी सब"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "סבני",
+      "gloss": "घेर लेलन हलइ"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "हमरा भेंट भेलन"
+    },
+    {
+      "surface": "מקשי",
+      "gloss": "फंदा सब"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    }
+  ],
+  "timestamp": "2026-10-14T16:48:04.998253023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 31:11",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פלילים",
+      "rationale": "'नियाव करए वाला लोग' (KJV 'judges') बनाम 'बड़ अपराध' — जड़ פלל 'नियाव' से दूनो पढ़ावा संभव हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दुष्ट योजना",
+      "rationale": "זמה खाली 'योजना' नञ — बुरा इरादा; मगही में दूनो अरथ जोड़ल गेल।"
+    }
+  ],
+  "translation": "काहे कि ई एक दुष्ट योजना हकइ, आउ ई अपराध हकइ जेकर नियाव होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "34533fc120fb568d24c58f4cdb8a5ff4eb35ebdc1b72dc53ccf44fa87ef4ef5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/31\/9-12.1792007650230.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ई"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "दुष्ट योजना"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "आउ ई"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अपराध"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "जेकर नियाव होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:54:10.231442532Z",
+  "model": "glm-5.3"
+}

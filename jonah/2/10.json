@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תודה",
+      "rationale": "मूल अरथ 'हाथ बढ़ावना' — अञ धन्यबाद के बचन; हाथ के तस्वीर हट गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨अञ⟩",
+      "rationale": "मगही जुड़वा किरिया चाहऽ हइ; इब्रानी में कोनो जोड़-सब्द नञ हकइ"
+    }
+  ],
+  "translation": "बाकि हम धन्यबाद के बोली के संग तोहरा बर बलि करब, जे मन्नत हम मानलइ अञ ओकरा पूरा करब — बचाव यहवे के हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c0185075573a7f2bead5b05d96400c70f8d5d06e53f47636c94444909da0fb8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jonah\/2\/9-11.1792003654174.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "बाकि हम"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "बोली के संग"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "धन्यबाद"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "बलि करब"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा बर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "मन्नत मानलइ"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "पूरा करब"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "बचाव"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:47:34.175655980Z",
+  "model": "glm-5.3"
+}

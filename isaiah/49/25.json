@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יריבך\/אריב",
+      "rationale": "same root ריב in noun and verb — 'thy contender I will contend' — root-echo kept by repeating झगड़"
+    },
+    {
+      "kind": "you",
+      "subject": "to Zion",
+      "rationale": "second-person feminine suffixes (ך) address Zion, the mother of the exiled children"
+    }
+  ],
+  "translation": "काहे कि एहने कहलन यहवे: निस्चित बलवान के बन्धको लेल जातइ, आउ दबंग के लूटो छूटतइ; आउ जे तोहरा संग झगड़ऽ हइ ओकरा संग हम झगड़बइ, आउ ⟨את⟩ तोहर बेटा सबके हम बचाबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "747d9ef241c758a264311e4074e0c8a7727def901b7c49484489a5d3659608b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/49\/25-26.1791999689918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "निस्चित"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "बन्धक"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "लेल जातइ"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "आउ लूट"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "दबंग"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "छूटतइ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर झगड़ूआ"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "तोहर झगड़ूआ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "झगड़बइ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर बेटा सब"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "तोहर बेटा सब"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "बचाबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:41:29.918711127Z",
+  "model": "glm-5.3"
+}

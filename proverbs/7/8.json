@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "कुनिया",
+      "rationale": "פנה के अरथ हकइ कोना\/मोड़ — सड़क के मोड़, चुनाव के बिन्दु"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצעד",
+      "rationale": "टहलना — बेपरवाह डहल-डुलऽ हलइ, बेतरल बतावे वाला चाल"
+    }
+  ],
+  "translation": "सड़क के पार होतन, ओकर ⟨कुनिया⟩ के नजदीक, आउ ओकर घर के रस्ता टहलतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "789592a1f4bba4dbfda0e1445a61522ac00cb019f90f85e481eeaeb5398d2cd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/7\/8-8.1792012094527.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "पार होतन"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "सड़क के"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "नजदीक"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "कुनिया"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "आउ रस्ता"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ओकर घर के"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "टहलतन"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:14.527513033Z",
+  "model": "glm-5.3"
+}

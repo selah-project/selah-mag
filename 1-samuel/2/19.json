@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 2:19",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מימים ימימה",
+      "rationale": "हिब्रू के दोहराव वाला मुहावरा “दिन-दिन के हरेक दिन” — मगही में “बरिस-बरिस \/ हर बरिस” बतावल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זבח לזבח את זבח",
+      "rationale": "एके जड़ जबख के तीन बेर दोहराव के आवाज़ मगही में कुछ हद तके “बलि करे बर … बलि” से बचलइ।"
+    }
+  ],
+  "translation": "आउ ओकर माय ओकर लेल एक छोट कुरता बनावऽ हली, आउ बरिस-बरिस ओकरा ले आवऽ हली, जब ऊ ⟨את⟩ ओकर मरद के संग वरिस के बलि — ⟨את⟩ बलि — करे बर चढ़ऽ हली।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "53307a92db703bb329923e8eec1180f4547d05a5bc0d9aeb9b55fc69c224d5b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/2\/17-20.1791994810406.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעיל",
+      "gloss": "आउ … कुरता"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "छोट"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "बनावऽ हली"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर लेल"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ओकर माय"
+    },
+    {
+      "surface": "והעלתה",
+      "gloss": "आउ … चढ़ऽ हली"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "बरिस-बरिस"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "हर बरिस"
+    },
+    {
+      "surface": "בעלותה",
+      "gloss": "जब ऊ चढ़ऽ हली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर मरद के"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "ओकर मरद के संग"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "बलि करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बलि"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "वरिस के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:20:10.407824301Z",
+  "model": "glm-5.3"
+}

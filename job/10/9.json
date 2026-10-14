@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 10:9",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "अय्यूब के यहवे से",
+      "rationale": "पूरा पद अय्यूब के यहवे के अगुआ सीधा बिनती हकइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "फेरौलह",
+      "rationale": "希伯来 रूप प्रस्न हकइ (के तूँ फेरौलह?); मगही में बतौर बयान रखलइ"
+    }
+  ],
+  "translation": "याद करऽ, बिनती हइ, काहे कि मिट्टी जइसन तूँ हमरा बनइलह, आउ धूरी दने फेरौलह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5b244dc857c8dc500384d425383971a53fb7804a31da230e00b822d82ca665e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/10\/9-12.1792007281958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "याद करऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "बिनती हइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "मिट्टी जइसन"
+    },
+    {
+      "surface": "עשיתני",
+      "gloss": "तूँ हमरा बनइलह"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूरी"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "फेरौलह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:48:01.958874360Z",
+  "model": "glm-5.3"
+}

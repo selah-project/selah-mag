@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी क्रिया-हीन बाक्य हकइ; मगही बर क्रिया 'हथिन' जोड़ल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיני \/ אזניו",
+      "rationale": "आँख-कान के समानान्तर जोड़ — संरचना मगही में जस के तस रहऽ हइ"
+    }
+  ],
+  "translation": "यहवे के आँख धरमी लोग के दने ⟨हथिन⟩, आउ ओकरा कान ओकनी के पुकार के दने ⟨हथिन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/34\/13-16.1792004863928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धरमी लोग"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "आउ ओकरा कान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ओकनी के पुकार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:43.930754643Z",
+  "model": "glm-5.3"
+}

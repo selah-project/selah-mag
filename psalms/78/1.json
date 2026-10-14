@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "हमर लोग",
+      "rationale": "कबिता पढ़निहार के पुकार के साथ सुरू होलइ — कान दिअउ के हुक्म"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल के लोग",
+      "rationale": "ओकरा सीधे सम्बोधन हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मश्छिल",
+      "rationale": "„सिखावल गीत” — हिब्रू शीर्सक-सब्द बर ब्याख्यात्मक रूप लेल गेल"
+    }
+  ],
+  "translation": "असाफ (आसफ) के सिखावल गीत। हमर लोग, हमरी तोरा के कान दिअउ; तोहनी के कान हमर मुँह के बात पर झुकाअउ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3e3ee46cb0243c73fa00113b107409634b754c7f3d77dde0081c59b41f124e16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/1-4.1792005483399.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "सिखावल गीत"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "असाफ (आसफ) खातिर"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "कान दिअउ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमर लोग"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "हमरी तोरा"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "झुकाअउ"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "तोहनी के कान"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "…के बात"
+    },
+    {
+      "surface": "פי",
+      "gloss": "हमर मुँह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:03.400065787Z",
+  "model": "glm-5.3"
+}

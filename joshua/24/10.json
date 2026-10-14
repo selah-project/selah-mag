@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויברך ברוך",
+      "rationale": "क्रिया + अनिश्चित निरपेक्ष (infinitive absolute) के दोहराव — 'असीस दइ के असीस देलक' — पूरा जोर देवे वाली इब्रानी बनावट।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "यहवे के परति सीधा सम्बोधन जारी हकइ।"
+    }
+  ],
+  "translation": "बाकि हम बिलाम के सुने बर तैयार नञ हलियन; असीस दइ के ऊ ⟨את⟩ तोहनी सब के असीस देलक, आउ हम ⟨את⟩ तोहनी सब के ओकर हाथ से छुड़ा लेलियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "30f94f1314f824cfcb009c2b3c162da3cdf9baa668e0c621cbc524d409a5dda0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/24\/9-12.1791993874684.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "तैयार हलियन"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "सुने बर"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "बिलाम के"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "असीस देलक"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "असीस दइ के"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी सब के",
+      "marks": "तोहनी सब के"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "छुड़ा लेलियन"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी सब के",
+      "marks": "तोहनी सब के"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ओकर हाथ से"
+    }
+  ],
+  "timestamp": "2026-10-14T16:04:34.685386624Z",
+  "model": "glm-5.3"
+}

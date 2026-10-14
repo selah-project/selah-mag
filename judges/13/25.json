@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 13:25",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפעמו",
+      "rationale": "'टिकावै' (to stir\/impel) बनाम 'कबो-कबो' (at times) — KJV 'move him at times', geneva 'strengthen him'; जड़ के अरथ ठकठकावना हकइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מחנה דן",
+      "rationale": "महाने-दान जगह के नाम की रूप में लिखल गेलइ (ASV\/JPS\/BSB के संग); 'दन के डेरा' बुझावै के जोड़ छूटल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "Tier-2 pin: रूआख — 'आत्मा' अकेले नञ; इब्रानी एके सब्द बतास आउ जोर देने के अरथो में रखऽ हइ।"
+    }
+  ],
+  "translation": "आउ यहवे के रूआख ओकरा दन के महाने-दान में, दरआह आउ एस्ताओल के बीच में, कबो-कबो ओकरा टिकावै लागलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e79da95a215a2f3eee2705ac82865cfaa277ccae0b63d158c82537f647cbe204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/13\/25-25.1791994354088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחל",
+      "gloss": "लागलइ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "לפעמו",
+      "gloss": "कबो-कबो ओकरा टिकावै"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "महाने में"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दन के"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "दरआह"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ के बीच में"
+    },
+    {
+      "surface": "אשתאל",
+      "gloss": "एस्ताओल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:12:34.089271382Z",
+  "model": "glm-5.3"
+}

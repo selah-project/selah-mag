@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के",
+      "rationale": "इब्रानी सम्बन्ध-रचना के जगह मगही के आवश्यक कारक-चिन्हा"
+    },
+    {
+      "kind": "you",
+      "subject": "हमरा",
+      "rationale": "यहवे के बचन जकरियाह के ओर सीधे अइलक"
+    }
+  ],
+  "translation": "आउ भेलक — यहवे के बचन हमरा अइलक, ई कहऽ हइ:",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "75921cc987418a45b528ec493433fafbd0282b52fdc2858f1910bf0277a8d988",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/6\/9-12.1792004124069.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेलक"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:55:24.069664156Z",
+  "model": "glm-5.3"
+}

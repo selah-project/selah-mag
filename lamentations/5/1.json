@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to YHWH",
+      "rationale": "Imperatives 'remember… look and see' summon YHWH to attend to the people's disgrace."
+    },
+    {
+      "kind": "you",
+      "subject": "to YHWH",
+      "rationale": "Direct address to YHWH by name opens the communal lament."
+    },
+    {
+      "kind": "substitution",
+      "subject": "बेइज्जती",
+      "rationale": "חרפה is reproach\/disgrace, the public shaming of a defeated people."
+    }
+  ],
+  "translation": "याद रखऽ यहवे, का हमनी के भेलइ; ताकऽ आउ देखऽ ⟨את⟩ हमर बेइज्जती।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e29e6d0fa4219d79e0b7e7a8123e85c32b15763f1b200b118a7ca81a55a30274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/5\/1-4.1792008327269.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "याद रखऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भेलइ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ताकऽ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर बेइज्जती"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "हमर बेइज्जती"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:27.269684961Z",
+  "model": "glm-5.3"
+}

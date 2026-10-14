@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הזידונים",
+      "rationale": "उबलत पानी — एही पद तनाख़ में एकही बेर आवऽ हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "הזידונים",
+      "rationale": "'उबलत लहर' के जगह चलनसार अनुवाद 'घमंडी' कहऽ हइ (zȧid 'घमंड' के जड़ से); इब्रानी के साफ चित्र उबलत पानी हकइ"
+    }
+  ],
+  "translation": "तब उबलत हमर परान के ऊपर से गेले हतइ — ⟨उबलत⟩ पानी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/124\/5-8.1792006215076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "तब"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "गेले हतइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर से"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "उबलत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:15.077369157Z",
+  "model": "glm-5.3"
+}

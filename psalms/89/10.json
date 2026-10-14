@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשבחם",
+      "rationale": "तशबेहेम: 'थिर करना \/ रोकना' (जइसन बाकी सब अनुवाद) बनाम जड़ सहब के सुभाविक अरथ 'तारीफ करना'"
+    },
+    {
+      "kind": "you",
+      "subject": "to यहवे",
+      "rationale": "परमेश्वर के सीधे सम्बोधन"
+    }
+  ],
+  "translation": "तूँ समुंदर के गर्व पर राज करऽ हऽ; ओकर लहर के उठाव में तूँ ओकनी के थिर कर देवऽ हऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/89\/9-12.1792005619864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "राज करऽ हऽ"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "गर्व पर"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर के"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "उठाव में"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ओकर लहर के"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "ओकनी के थिर कर देवऽ हऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:20:19.865011002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 20:11",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלומו",
+      "rationale": "KJV 'जवानी के पाप' (अलुमो = पाप के रूप में पढ़ल) बनाम 'जवानी के बल'; स्वर-चिन्हा 'बल' के ओरी दे हे।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תשכב",
+      "rationale": "कर्ता 'जवानी के बल' होवे — 'बल ओकरे संग धूरी पर लेटतइ'; मगही में 'ऊ' लेले जाइल।"
+    }
+  ],
+  "translation": "ओकर हड्डी जवानी के बल से भरल हे, बाकि ऊ ⟨ओकरे संग⟩ धूरी पर लेटतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e4d97f07fc892d1828c50cc0a3bcb2d30dd7320d4962bf0cba9121f8fe3f3fd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/20\/9-12.1792007477772.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצמותיו",
+      "gloss": "ओकर हड्डी"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "भरल हे"
+    },
+    {
+      "surface": "עלומו",
+      "gloss": "जवानी के बल से"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "बाकि ऊ ओकरे संग"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूरी"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "लेटतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:51:17.773510939Z",
+  "model": "glm-5.3"
+}

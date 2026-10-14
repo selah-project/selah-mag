@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גשם נדबות",
+      "rationale": "'इच्छा के बरखा' बनाम 'भरमार बरखा' (KJV) — नדबा स्वेच्छा-भेंट के सब्द हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונלאה",
+      "rationale": "'ऊ हरा गेलइ हल' बनाम 'तूँ हराइल' — करता के फैसला पुरान पाठ में बँटल हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨के⟩",
+      "rationale": "मगही बिरता-सम्बन्ध बर 'के' चाही, मूल में संबंध-पड़न्त मात्र हइ।"
+    }
+  ],
+  "translation": "इच्छा से देल बरखा तूँ झारलन, हे एलोहीम; तोहर बिरता ⟨के⟩ — आउ ऊ हरा गेलइ हल — तूँ ओकरा थिर कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "782088c89db3a0c483570a9cffcc90139503190ce52c3d67f26fa4949be80130",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/68\/9-12.1792005320503.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "बरखा"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "इच्छा से देल"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "झारलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "तोहर बिरता"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "आउ हरा गेलइ हल"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "थिर कइलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:20.504614053Z",
+  "model": "glm-5.3"
+}

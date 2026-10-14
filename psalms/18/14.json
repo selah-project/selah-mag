@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וירעם",
+      "rationale": "साब्द के अरथ 'भइला-गड़गड़ाहट' हकइ; गरज के रूप में लेल गेल"
+    }
+  ],
+  "translation": "यहवे अकास में गड़गड़ाहट कइलन, आउ सबसे ऊँच वाला ओकर बोली देलन — ओला आउ आग के अंगारा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/18\/13-16.1792004626914.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "गड़गड़ाहट कइलन"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "अकास में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "आउ सबसे ऊँच वाला"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ओकर बोली"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ओला"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "आउ अंगारा"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:46.915564750Z",
+  "model": "glm-5.3"
+}

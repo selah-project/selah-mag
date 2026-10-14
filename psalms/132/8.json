@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "सन्दूक़",
+      "rationale": "ארון के सुभाविक अरथ 'बाक्स\/सन्दूक़' हकइ; 'आर्क' बाद के परम्परा के रूप हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "सीधा सम्बोधन यहवे के ओर — उठबे के आज्ञा-प्रार्थना।"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתה",
+      "rationale": "इ आलेफ-ताब के चिन्हा नञ, सर्बनाम 'तूँ' हकइ — दूनू के भ्रम आम हकइ।"
+    }
+  ],
+  "translation": "उठऽ, हे यहवे, ⟨के दने⟩ तोहर आराम-ठाँव के; तूँ आउ तोहर बल के सन्दूक़।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/132\/5-8.1792006200871.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "उठऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "तोहर आराम-ठाँव के दने"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "आउ सन्दूक़"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "तोहर बल के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:00.872621839Z",
+  "model": "glm-5.3"
+}

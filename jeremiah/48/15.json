@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 48:15",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩",
+      "rationale": "नाम-वाक्य में मगही के क्रिया जोड़ल गेल; इब्रानी में नाम-वाक्य हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלה",
+      "rationale": "'चढ़ाइ देल गेलन' बनाम 'ओकर बिरुद्ध चढ़ल' — केएजीवी 'गोन अप आउट ऑफ़ हर सिटीज़' पढ़ैथिन"
+    }
+  ],
+  "translation": "मोआब लूटल गेलइ हे, आउ ओकर नगर सब चढ़ाइ देल गेलन; ओकर चुनल जवान सब बध-भूमि में उतरलन — राजा के बचन ⟨हकइ⟩, यहवे त्सबाओत ⟨हकइ⟩ ओकर नाम।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "06eefd8ad063313dcdd61773269a79244642834baeadf78909e8b62df708604b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/48\/13-16.1792001421751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "लूटल गेलइ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "आउ ओकर नगर सब"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ाइ देल गेलन"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "आउ ओकर चुनल"
+    },
+    {
+      "surface": "בחוריו",
+      "gloss": "जवान सब"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "उतरलन"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "बध-भूमि में"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "…के बचन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    }
+  ],
+  "timestamp": "2026-10-14T18:10:21.752487747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 7:60",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "नउवाँ दिन",
+      "rationale": "बलि-पर्ब के दिन-गिनती जारी — नउवाँ दिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "भेंट देलन",
+      "rationale": "इब्रानी पाठ में क्रिया नञ हकइ; अगिल्ला पद से समझल गेल क्रिया कोस्ठक में जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "नउवाँ दिन पर बिन्यामीन के बेटा सब के सरदार, गिदोनी के बेटा अबीदान ⟨भेंट देलन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "05e449c3118bb02850ea1a0d96a725cc42f64f3de82b2dd675ec6fe618146001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/7\/57-60.1791990750436.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन पर"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "नउवाँ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "अबीदान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "गिदोनी"
+    }
+  ],
+  "timestamp": "2026-10-14T15:12:30.437172583Z",
+  "model": "glm-5.3"
+}

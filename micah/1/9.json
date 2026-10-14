@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נגע",
+      "rationale": "grammatically 'she\/it touched' — subject unclear: the wound\/plague itself (KJV 'he'), read here as the advancing blow."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד…עד…עד",
+      "rationale": "threefold repetition of עד ('up to') marks the blow's relentless advance; Magahi 'तक' keeps the drumbeat."
+    }
+  ],
+  "translation": "काहे कि ओकर जखत निकरबा-नञ हकइ; काहे कि ऊ यहूदा तक अ गेलइ; ऊ हमर लोग के दुआरी तक छुअलक — यरूशलयिम (यरूशलेम) तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/1\/9-12.1792003691503.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "निकरबा-नञ"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "ओकर जखत"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "באה",
+      "gloss": "अ गेलइ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "छुअलक"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "שער",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमर लोग"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम (यरूशलेम)"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:11.504197461Z",
+  "model": "glm-5.3"
+}

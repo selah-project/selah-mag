@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנים",
+      "rationale": "कइठा सियार (jackal) बतावऽ हइ, कइठा अंगरा-परान जनु बिसाल जीव (KJV 'dragons') — इहाँ सियार लेल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מौत-छाँवा",
+      "rationale": "צלמות छाँवा-मौत के जोड़ सब्द हकइ; जोड़ के रूप रखल गेल।"
+    }
+  ],
+  "translation": "काहे कि तूँ हमनी के सियारन के जगह में कुचललन, आउ मौत-छाँवा से हमनी के ढाक देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/44\/17-20.1792005054303.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "हमनी के कुचललन"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "जगह में"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "सियारन के"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "आउ ढाक देलन"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "मौत-छाँवा से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:54.303987509Z",
+  "model": "glm-5.3"
+}

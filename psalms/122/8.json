@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यरूशलयिम",
+      "rationale": "कबिता नगर के दूसरा बचन में सम्बोधित करऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נא",
+      "rationale": "'अब' विनती-सूचक कण; पूरा भाव 'अब हम कहबइ' में"
+    }
+  ],
+  "translation": "हमर भाय आउ हमर संगी सब खातिर हम अब कहबइ: तोहर भीतर सांति होवे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/122\/5-8.1792006216811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "हमर भाय"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "आउ हमर संगी सब"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "हम कहबइ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहर भीतर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:16.812460008Z",
+  "model": "glm-5.3"
+}

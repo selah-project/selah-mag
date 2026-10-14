@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "एहाँ את ‘के संग’ (नजदीकी) के अरथ में हकइ, कर्म-चिन्हा नञ — ‘with the bones of the prophet’।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וימלטו",
+      "rationale": "‘बच गेलइ’ के जगह ‘छोड़ देलन गेल’ पढ़ै बाला पठ भी हकइ।"
+    }
+  ],
+  "translation": "ऊ कहलन, “ओकरा छोड़ देवऽ; कोनो आदमी ओकर हड्डी मत हिनकावे।” आउ ओकर हड्डी बच गेलइ, ⟨संग⟩ ओ नबी के हड्डी ⟨את⟩ के, जे शोमरोन से अइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4c489e54d15ff4a44c095d12622bd58399740b1fc0473f1b470a90b701710476",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/23\/17-20.1791998472312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ऊ कहलन"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "छोड़ देवऽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "हिनकावे"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "ओकर हड्डी"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "बच गेलइ"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "ओकर हड्डी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हड्डी (ओ नबी के)"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "हड्डी"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ओ नबी के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "शोमरोन से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:21:12.313686823Z",
+  "model": "glm-5.3"
+}

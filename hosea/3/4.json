@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אין",
+      "rationale": "'बिना' — इब्रानी एन खाली नकार हकइ ('नञ हइ'); क्रिया इब्रानी में नञ आवऽ हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ותרפים",
+      "rationale": "अन्तिम जोड़ी 'बिना एफोद आउ बिना तराफीम' तुलनात्मक बाँट पढ़निहार के सुझावऽ हइ — वाचा के साधन आउ मूर्ति दुनू कट जातइ।"
+    }
+  ],
+  "translation": "काहे कि ढेर दिन ले यिस्राएल के बेटा सब बिना राजा बसबितइ, आउ बिना सरदार, आउ बिना बलि, आउ बिना पत्थल के खम्भा, आउ बिना एफोद आउ बिना तराफीम।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9d47e7184f112630e5685209087dd2f219885b067baed2ca42cc7b76cc1b463a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/3\/1-4.1792003236799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बसबितइ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אין",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ बिना"
+    },
+    {
+      "surface": "שר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ बिना"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ बिना"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "पत्थल के खम्भा"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ बिना"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "एफोद"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "आउ तराफीम"
+    }
+  ],
+  "timestamp": "2026-10-14T18:40:36.801544266Z",
+  "model": "glm-5.3"
+}

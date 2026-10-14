@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "यिस्राएल के परजा से सीधा आदेश — पिछला पद के निषेध-सूची के जारी।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טָמֵא … לֹא",
+      "rationale": "पद 7 के 'अशुचि ऊ लोग तोहनी बर' के तालमेल — बहुबचन के बाद एकबचन सूअर बर ओहे शब्द दोहरावल गेल।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ सूअर — काहे कि ऊ खुर फाड़ऽ हइ बाकि गरह नञ चढ़ावऽ हइ — ऊ तोहनी बर अशुचि हकइ; ओकनी के मांस मत खाबऽ आउ ओकनी के मरल देह के मत छुअबऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/14\/5-8.1791992483277.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सूअर"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "सूअर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "खुर-फाड़ऽ-हइ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "खुर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ-नञ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "गरह"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुचि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी-बर"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ओकनी-के-मांस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाबऽ"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "आउ-ओकनी-के-मरल-देह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "छुअबऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:41:23.278844725Z",
+  "model": "glm-5.3"
+}

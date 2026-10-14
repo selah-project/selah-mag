@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפרזי",
+      "rationale": "'खुलल गाँव वाला नगर' — कुछ अनुवाद 'unwalled towns' कहऽ हथिन, कुछ 'villages'; लिप्यन्तरन परम्परा 'Perizzite' जाति के नाम भी मानऽ हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "fortification list",
+      "rationale": "दीवार, केवाड़ी आउ काठी के गिनती-विवरण — नगर के बल के नाप।"
+    }
+  ],
+  "translation": "ई सब नगर गढ़ल हल — ऊँच दीवार, केवाड़ी आउ काठी — खुलल गाँव वाला नगर सब के अलग, बहुत बेसी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7fdecd3e31d39c3a581d97a4227d29da53af390a76e2be05ab0fb479a279ce31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/3\/5-8.1791991972559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "गढ़ल"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "ऊँच"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "केवाड़ी"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "आउ काठी"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "अलग"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "खुलल गाँव वाला"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बेसी"
+    }
+  ],
+  "timestamp": "2026-10-14T15:32:52.560520275Z",
+  "model": "glm-5.3"
+}

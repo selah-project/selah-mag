@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 1:26",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "जिअत तोहर परान",
+      "rationale": "חי נפשך — इब्रानी के सौगन-बात, शब्दशः 'तोहर परान जिअत हे'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "महाराज \/ हमर मालिक",
+      "rationale": "אדנी आदमी (एली) बर हकइ — मालिक शब्द ढालल"
+    },
+    {
+      "kind": "addition",
+      "subject": "जगह",
+      "rationale": "בזह 'एही' में संज्ञा-पूरक जोड़ल गेल, सुभाविक मगही बर"
+    },
+    {
+      "kind": "you",
+      "subject": "हन्ना के एली से",
+      "rationale": "सीधा सम्बोधन — दुआरी पर खड़ा बुजुर्ग पुरोहित"
+    }
+  ],
+  "translation": "आउ ऊ कहलिन, “महाराज, कहिए तो, तोहर परान के सौगन, हमर मालिक, हम ओहे जनाना हिअइ जे एही जगह तोहर संग ठाढ़ल हलइ, यहवे से प्रार्थना करे बर।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2f0a1b144e73c1c25d4ffaa11637c81cf607f9fe224e7495110a247fe88ac3f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/1\/25-28.1791994816060.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "कहलिन"
+    },
+    {
+      "surface": "בי",
+      "gloss": "कहिए तो"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "महाराज"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिअत"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "तोहर परान"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हमर मालिक"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "הנצבת",
+      "gloss": "ठाढ़ल"
+    },
+    {
+      "surface": "עמכה",
+      "gloss": "तोहर संग"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "एही जगह"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "प्रार्थना करे बर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:20:16.061584888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "अस्रिएल के जनम",
+      "rationale": "कइसन पढ़ावा: अस्रिएल के रखैलिन जनमलक (केजेवी\/एएसवी), या मनश्शे ओकर अरामी रखैलिन से अस्रिएल आउ माखीर दुनू के जनमलक (बीएसबी)।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "रखैलिन",
+      "rationale": "פילगש पिलगेश — दोसर दर्जा के जनाना; मगही में एकरा बर जानल सब्द लेल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "वंशावली",
+      "rationale": "गोत्र-सूची — नाम गिनत के पद।"
+    }
+  ],
+  "translation": "मनश्शे के बेटा: अस्रिएल, जेकरा ओकर अरामी रखैलिन जनमलक; ऊहे जनमलक ⟨את⟩ माखीर के, गिलाद के बाप।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a67fcee4ffec800cb3de29a69d1a390649a9db7b4122ec5a40aba54e604b222d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/7\/13-16.1792010048801.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "अस्रिएल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनमलक"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "ओकर अरामी रखैलिन"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "अरामी"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ऊहे जनमलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "माखीर"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "माखीर"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "के बाप"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलाद"
+    }
+  ],
+  "timestamp": "2026-10-14T20:34:08.801946440Z",
+  "model": "glm-5.3"
+}

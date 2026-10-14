@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "निकल",
+      "rationale": "आज्ञा-रूप के बोल — एलोहीम नोआ के नाव से निकले के आगाह करऽ हथिन।"
+    },
+    {
+      "kind": "you",
+      "subject": "नोआ",
+      "rationale": "सीधा संबोधन — आज्ञा नोआ के दने।"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "ई אלेफ-ताव के रूप ओकरे (854) हकइ — 'तोहर संग' के अरथ; ⟨את⟩ के चिन्हा जान-बूझ के रखल गेल, बाकि ई करम-चिन्हा नञ हकइ।"
+    }
+  ],
+  "translation": "नाव से निकल — तूँ आउ तोहर जनाना आउ तोहर बेटा आउ तोहर बेटा के जनाना — तोहर संग ⟨את⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b79a2f56b8e34b21aaf32726ea0eeac88ca6e87ba6d2515eb4bc1e2a970f8288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/8\/13-16.1791986386066.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "निकल"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "नाव"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "आउ तोहर जनाना"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "आउ तोहर बेटा"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "आउ जनाना सब"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "तोहर बेटा के"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तोहर संग"
+    }
+  ],
+  "timestamp": "2026-10-14T13:59:46.067283965Z",
+  "model": "glm-5.3"
+}

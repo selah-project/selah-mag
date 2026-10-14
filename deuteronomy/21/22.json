@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "त",
+      "rationale": "हिब्रू के वाव-प्रतिक्रिया मगही के संयोजक त से जोड़ल गेलइ"
+    }
+  ],
+  "translation": "आउ जब कोनो मरद में मौत के नियाव वाला पाप होतइ, आउ ओकरा मार देल जातइ, त तूँ ओकरा ⟨אתו⟩ गाछ पर टाँगऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "de4438439f57b1e3f591dfd8af4db18626b5c941a47c9432bc2b56b179899765",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/21\/21-23.1791992537705.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आउ जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "कोनो मरद में"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव वाला"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत के"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "आउ ओकरा मार देल जातइ"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "आउ तूँ टाँगऽ हइ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "गाछ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:42:17.706089472Z",
+  "model": "glm-5.3"
+}

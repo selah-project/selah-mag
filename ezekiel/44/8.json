@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 44:8",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמר \/ משמרת \/ לשמרי \/ משמרתי",
+      "rationale": "एके जड़ चार बेर — रखवारी नञ करलन, बाकि रखवारी करैता धर देलन; इब्रानी के एही ताना मगही में रखवारी-दोहराव से पकड़ल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "לכם",
+      "rationale": "'आपन बर' (तोहनी के फायदा खातिर, KJV) बनाम 'अपने आप' (JPS 'to please yourselves'); पहिला चुनल गेलइ।"
+    }
+  ],
+  "translation": "आउ तोहनी हमर पवित्तर चीज सब के रखवारी नञ करलन; बाकि तोहनी आपन बर रखवारी करैता लोग के धर देलन, जे हमरी रखवारी करऽ हइ, हमर पवित्तर-घर में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b7232a5c3a62eea463e1719a9ef6e111fda037a9dae23d5e5b99297e3c905a21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/44\/5-8.1792003099911.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "שמרתם",
+      "gloss": "तोहनी रखवारी करलन"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "रखवारी"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "हमर पवित्तर चीज सब के"
+    },
+    {
+      "surface": "ותשימון",
+      "gloss": "आउ तोहनी धर देलन"
+    },
+    {
+      "surface": "לשמרי",
+      "gloss": "रखवारी करैता लोग के"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "हमरी रखवारी"
+    },
+    {
+      "surface": "במקדשי",
+      "gloss": "हमर पवित्तर-घर में"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "आपन बर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:38:19.913074795Z",
+  "model": "glm-5.3"
+}

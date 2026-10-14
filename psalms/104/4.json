@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "रूआख बनावऽ हथिन",
+      "rationale": "कुछ अनुवाद उलटऽ हथिन — 'रूआख सब के अपन दूत बनावऽ हथिन' (jps, asv); हिब्रू के बनावट 'अपन दूत के रूआख' निस्फ रखऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "जरत",
+      "rationale": "להט चाटऽ के जरत हकइ — लौ के चाटै के तसवीर; 'जरत' ओकर भाव धरऽ हइ।"
+    }
+  ],
+  "translation": "जे अपन दूत सब के रूआख बनावऽ हथिन, अपन सेवक सब के जरत आग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/104\/1-4.1792005843174.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "बनावऽ हथिन"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "अपन दूत सब के"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "रूआख सब"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "अपन सेवक सब के"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "להט",
+      "gloss": "जरत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:03.175650722Z",
+  "model": "glm-5.3"
+}

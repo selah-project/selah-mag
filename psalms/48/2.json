@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הר קדשו",
+      "rationale": "‘ओकर पवित्तर पहाड़’ — ठीक अनुवाद ‘पवित्तरता के पहाड़’ (क. स. के पहाड़) बनाम ‘ओकर पवित्तर पहाड़’; दुनो अरथ परम्परा में चलन में हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "पर",
+      "rationale": "इब्रानी में ‘ओकर पवित्तर पहाड़’ के संग कोनो संबंध-शब्द नञ हकइ; मगही के साफ अरथ बर ⟨पर⟩ जोड़ल गेल।"
+    }
+  ],
+  "translation": "बड़ा हथिन यहवे आउ बहुते सराहा पावऽ हथिन; हमनी के एलोहीम के नगर में, ओकर पवित्तर पहाड़ ⟨पर⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/48\/1-4.1792005104553.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "आउ सराहा पावऽ हथिन"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ओकर पवित्तर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:44.554348698Z",
+  "model": "glm-5.3"
+}

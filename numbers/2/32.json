@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 2:32",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "जनगणना-जोड़",
+      "rationale": "बारह गोत्र के डेरा-गिनती के कुल जोड़: 6,03,550।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "छः लाख",
+      "rationale": "इब्रानी के हिसाब सय-आधारित हइ (छः सय हजार); मगही के चलनसार लाख-गिनती लेल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही के बाक्य बर क्रिया जोड़ल गेल।"
+    }
+  ],
+  "translation": "ई हलन ओ गिनती के गिनल लोग, यिस्राएल के बेटासभ के, ओकनी के बाप-बाबूजी के घर के हिसाब से; डेरासभ के गिनल लोग सब, ओकनी के सेना के हिसाब से, छः लाख आउ तीन हजार आउ पाँच सय आउ पचास हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd1aed2e3f4eaf9d2bcae78b7820be0d954dacef02111c5bb001410b4afbd9fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/2\/32-32.1792011580774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "गिनती के गिनल लोग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटासभ के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घर के हिसाब से"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ओकनी के बाप-बाबूजी के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "गिनल लोग"
+    },
+    {
+      "surface": "המחנת",
+      "gloss": "डेरासभ के"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ओकनी के सेना के हिसाब से"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छः"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "लाख (सय-सय)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "आउ तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आउ पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "आउ पचास"
+    }
+  ],
+  "timestamp": "2026-10-14T20:59:40.774543112Z",
+  "model": "glm-5.3"
+}

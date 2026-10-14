@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 12:11",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "particle of entreaty with no Magahi equivalent; dropped"
+    },
+    {
+      "kind": "addition",
+      "subject": "तूँ",
+      "rationale": "final את here is the pronoun 'you' (lemma אתה), not the DOM marker — rendered as the pronoun itself, no ⟨את⟩ glyph"
+    },
+    {
+      "kind": "you",
+      "subject": "अवराहाम के साराय से",
+      "rationale": "direct address to Sarai"
+    }
+  ],
+  "translation": "आउ हलइ, जखन ऊ मिस्रयिम में घुसय बर नजदीक अइलन, तब ऊ अपन जनाना साराय से कहलन — देख, हम जाननियन, की तूँ देखय में सुंदर जनाना हउ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/12\/9-12.1791986541077.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जखन"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "नजदीक अइलन"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "घुसय बर"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "साराय"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "अपन जनाना"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "हम जाननियन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "की"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "सुंदर"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "देखय में"
+    },
+    {
+      "surface": "את",
+      "gloss": "तूँ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:02:21.078900325Z",
+  "model": "glm-5.3"
+}

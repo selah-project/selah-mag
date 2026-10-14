@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 10:18",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨काशे कि⟩",
+      "rationale": "इब्रानी के सांकेतिक क्रिया (cohortative) इच्छा बतावऽ हइ; मगही के साफ इच्छा-बचन जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मरि गेल",
+      "rationale": "גוע के सुभाविक अरथ 'साँस छोड़ना' हकइ; मगही में 'मरि गेल' लेल गेल"
+    }
+  ],
+  "translation": "आउ काहे माय के पेट से बाहर निकाललहुँ? ⟨काशे कि⟩ हम मरि गेल रहतइ आउ कोनो आँख हमरा नञ देखतइ!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "369b000957795c8fab06e2a94e16ab01c6a3fff6b29b261c8b987703cace53a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/10\/17-20.1792007325974.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "आउ काहे"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "माय के पेट से"
+    },
+    {
+      "surface": "הצאתני",
+      "gloss": "बाहर निकाललहुँ"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "मरि गेल रहतइ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "आउ आँख"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "हमरा देखतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:48:45.974676859Z",
+  "model": "glm-5.3"
+}

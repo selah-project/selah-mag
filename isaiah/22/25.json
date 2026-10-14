@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 22:25",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תמוש",
+      "rationale": "क्रिया के मतलब में मतभेद — 'हट जाएगी' (give way) बनाम 'हटाइल जइतइ' (be removed); मगही में सक्रिय-अर्थ लेल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "עליה के साथ काल स्पष्ट करे बर 'हलइ' जोड़ल गेल जे इब्रानी के क्रिया रूप में पहिले से मौजूद अरथ देहइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאם \/ נאמן",
+      "rationale": "נאם (बचन) आउ נאמן (भरोसेमंद) के जड़-मेल कील के वाचा-चित्र के भीतर गूँजऽ हइ; मगही में ई जड़-गूँज खतम हो जाऽ हइ।"
+    }
+  ],
+  "translation": "ओही दिन यहवे त्सबाओत के बचन हकइ — भरोसेमंद जगह में गाड़ल कील हट जइतइ, आउ काटल जइतइ आउ गिर जइतइ, आउ जे बोझ ओकरा ऊपर हलइ ऊ काट दिअल जइतइ, काहे कि यहवे कहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "374999c5cd7124670aedcbe564167ac2ad4449a93e5e4670a9b2ab11393d14a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/22\/25-25.1791998977856.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "के बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "תמוש",
+      "gloss": "हट जइतइ"
+    },
+    {
+      "surface": "היתד",
+      "gloss": "कील"
+    },
+    {
+      "surface": "התקועה",
+      "gloss": "गाड़ल"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "जगह में"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "भरोसेमंद"
+    },
+    {
+      "surface": "ונגדעה",
+      "gloss": "आउ काटल जइतइ"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "आउ गिर जइतइ"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "काट दिअल जइतइ"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "बोझ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:29:37.856710541Z",
+  "model": "glm-5.3"
+}

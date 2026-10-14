@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 21:14",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "फेरबइ",
+      "rationale": "פקד is 'visit\/attend to' with hostile intent here; versions render 'punish' — the visiting sense is the Hebrew's own shape."
+    },
+    {
+      "kind": "crux",
+      "subject": "ביערה",
+      "rationale": "'her forest' — literal wooded height of Jerusalem, or figurative for her palaces\/leaders; versions split."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפרי מעלליכם",
+      "rationale": "'fruit of your doings' — Jeremiah's recurring measure: deeds bear fruit, and the fruit is eaten by fire (ואכלה 'it shall eat\/devour')."
+    }
+  ],
+  "translation": "आउ हम तोहनी के फेरबइ, तोहनी के काम के फल के मोताबिक — यहवे के बचन — आउ हम ओकर जंगल में आग लागबइ, आउ ऊ ओकर चारो दने के सब खा जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8da9f4f90fc9529e13a11df371ade0dbfcc531f6a67c5857d6187853851b5f5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/21\/13-14.1792000574354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "आउ हम फेरबइ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तोहनी के ऊपर"
+    },
+    {
+      "surface": "כפרי",
+      "gloss": "फल के मोताबिक"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "तोहनी के काम"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "והצתי",
+      "gloss": "आउ हम आग लागबइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "ביערה",
+      "gloss": "ओकर जंगल में"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "आउ ऊ खा जातइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "סביביה",
+      "gloss": "ओकर चारो दने के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:56:14.355424769Z",
+  "model": "glm-5.3"
+}

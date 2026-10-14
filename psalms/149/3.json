@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בתף",
+      "rationale": "KJV 'timbrel' vs 'flute'; תף is the tambourine, rendered डफ"
+    }
+  ],
+  "translation": "ओकर नाम के जस नाच में गावऽ, डफ आउ बीना के संग ओकर बर बजावऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/149\/1-4.1792006406351.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "जस गावऽ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम के"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "नाच में"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "डफ"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "आउ बीना के संग"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "बजावऽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:26.352019886Z",
+  "model": "glm-5.3"
+}

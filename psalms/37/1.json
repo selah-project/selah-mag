@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨गीत⟩",
+      "rationale": "लदו׵िद केवल 'दाविद के' हकइ; 'गीत' मगही बर जोड़ल गेलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गुस्सा",
+      "rationale": "חרה सचमुच 'भभकै' (अंगारा होवै) हकइ — क्रोध के आग"
+    },
+    {
+      "kind": "you",
+      "subject": "पढ़निहार",
+      "rationale": "बिना कोनो सम्बोधन के तुँ-रूप के आदेस"
+    }
+  ],
+  "translation": "दाविद के ⟨गीत⟩। बुरा लोग पर गुस्सा मत कर, अन्याय करै वालन पर ईर्खा मत कर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/37\/1-4.1792004918084.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "गुस्सा मत कर"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "बुरा लोग पर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ईर्खा मत कर"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "करै वालन पर"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "अन्याय"
+    }
+  ],
+  "timestamp": "2026-10-14T19:08:38.084914038Z",
+  "model": "glm-5.3"
+}

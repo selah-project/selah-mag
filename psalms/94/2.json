@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "लोग \/ ओकर",
+      "rationale": "मगही में संज्ञा-विशेषण जोड़ बर जे इब्रानी अनुवाद नञ करतइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे से",
+      "rationale": "सीधा अरदेस — नियाव करए वाला के आगे आदेस के रूप में।"
+    }
+  ],
+  "translation": "ऊ ऊपर उठऽ, धरती के नियाव करए वाला; घमंडी लोग पर ओकर काम के फल लौटा दे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "638f4f9f613b653d88789ffe6543c752bf444e0bd8e571b2d37be6b6dfd67279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/94\/1-4.1792005744559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "ऊ ऊपर उठऽ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "नियाव करए वाला"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "השב",
+      "gloss": "लौटा दे"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "काम के फल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "घमंडी लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:24.560010287Z",
+  "model": "glm-5.3"
+}

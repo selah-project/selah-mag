@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "बसे रहतइ",
+      "rationale": "ישכונו के 'बसे रहतइ' (dwell securely, जेएमपीएस) बनाम 'बने रहतइ' (continue, केजेवी) — दुनू चलनसार अनुवाद हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכן \/ כון",
+      "rationale": "शेष के दू किरिया लगभग-मेल ध्वनि करऽ हइ (shakon \/ yikon), बदले के काव्य-झंकार"
+    }
+  ],
+  "translation": "तोहरा सेवक सब के बेटा बसे रहतइ, आउ ओकनी के बिया तोहरा आगे टिकल रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9cb45dcb820de041580605a98ed6df3a10230c4d2b6be495f1ed3b85e9e14e4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/102\/29-29.1792005767413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "तोहरा सेवक सब के"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "बसे रहतइ"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "आउ ओकनी के बिया"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहरा आगे"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "टिकल रहतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:47.413994887Z",
+  "model": "glm-5.3"
+}

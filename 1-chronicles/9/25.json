@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מעת אל עת",
+      "rationale": "'एक समय से दोसर समय लगा' — नियमित क्रम के बोलावट हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחצריהם",
+      "rationale": "חצר — गाँव\/बस्ती (KJV 'villages') बनाम आँगन; कोठरी के घेराब के बस्ती अरथ लेल गेलइ"
+    }
+  ],
+  "translation": "आउ ओकनी के भाय लोग अपन गाँव-घर में ⟨रहऽ हलथिन⟩, सात दिन के बीता में एक समय से दोसर समय लगा एकनी के संग आवऽ हलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1b8dc48d5a3604b0302f45d6d77293ebb155ed27dbe38e16f5dba3809841791b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/9\/25-28.1792010110360.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "आउ ओकनी के भाय लोग"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "अपन गाँव-घर में"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "आवऽ हलथिन"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "सात के बीता में"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "एक समय से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लगा"
+    },
+    {
+      "surface": "עת",
+      "gloss": "दोसर समय"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एकनी"
+    }
+  ],
+  "timestamp": "2026-10-14T20:35:10.361128666Z",
+  "model": "glm-5.3"
+}

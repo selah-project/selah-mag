@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "अभिषेक",
+      "rationale": "माशख — तेल से रगड़ना; मगही का 'अभिषेक करना' अनुष्ठानिक कार्य को बनाए रखता है, अकेले 'लगाना' नहीं।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "मिश्चा\/माशख",
+      "rationale": "अभिषेक के तेल (शेमेन हामिश्चा) और क्रिया वयिमाशख एक ही जड़ को साझा करते हैं — तेल ही उसका नाम है जो यह करता है।"
+    }
+  ],
+  "translation": "आउ मोशे अभिषेक के ⟨את⟩ तेल लेलन, आउ ⟨את⟩ मिश्कान आउ ⟨את⟩ सब जे ओकर भीतर हलइ के अभिषेक कइलन, आउ ⟨את⟩ ओकनी के पवित्तर कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/8\/9-12.1791989701637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अभिषेक के तेल"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "अभिषेक के"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "अभिषेक कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मिश्कान"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मिश्कान"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "सब जे ओकर भीतर हलइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकर भीतर"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "पवित्तर कइलन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ओकनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:55:01.638300141Z",
+  "model": "glm-5.3"
+}

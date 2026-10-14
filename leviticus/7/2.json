@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "पूरा-जरे-बलि",
+      "rationale": "העלा के साक्षात् अरथ 'ऊपर जाए वाला' हकइ — पूरा जरे वाला बलि बर चलनसार समझ"
+    }
+  ],
+  "translation": "जेहड़ जगह पर ⟨את⟩ पूरा-जरे-बलि मारथिन, ओही जगह ⟨את⟩ अपराध-बलि मारथिन, आउ ⟨את⟩ ओकर खून ऊ बेदी पर चारो ओर छिड़कथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/7\/1-4.1791989610286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "जेहड़ जगह पर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेहड़"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "मारथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा-जरे-बलि"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "पूरा-जरे-बलि"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "मारथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपराध-बलि"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "अपराध-बलि"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "ओकर खून"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ओकर खून"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "छिड़कथिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो ओर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:53:30.287438387Z",
+  "model": "glm-5.3"
+}

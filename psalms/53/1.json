@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחלת",
+      "rationale": "मखलत के अरथ में मतभेद हकइ — कोनो गीत के नाम, साज (ऊपान), या 'बिमारी'।"
+    },
+    {
+      "kind": "elision",
+      "subject": "משכיל",
+      "rationale": "एक इब्रानी सब्द, मगही में कइयो सब्द लेल गेल — एकरा बिसयगत जात के चिन्हा नञ हइ।"
+    }
+  ],
+  "translation": "महाफिल के रहिया बर, मखलत पर; बुद्धि सिकहावै के गीत, दाविद के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "11f4fd5d5f402ea558e860ad4da049524b37a5cbce193374b0584f471e58d19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/53\/1-4.1792005159987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महाफिल के रहिया बर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "मखलत"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "बुद्धि सिकहावै के गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:39.988515634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकनी के छोड़ल गेलन",
+      "rationale": "ויהיו केवल 'आउ भेल' हकइ; अरथ पूरा करै बर कोस्ठक-पूरक जोड़ल गेलन"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הישमעו",
+      "rationale": "इब्रानी 'सुनथिन कि नञ' — आज्ञा मानै के मुहावरा; 'मानथिन कि नञ' लिहल गेलन"
+    }
+  ],
+  "translation": "आउ ऊ ⟨ओकनी के छोड़ल गेलन⟩ ओकनी से ⟨את⟩ यिस्राएल के परखै बर — ई जानै बर कि ऊ लोग यहवे के ⟨את⟩ आज्ञा सब के मानथिन कि नञ, जेकरा ऊ ⟨את⟩ ओकर पुरखा सब के मोशे (मूसा) के हाथ से आज्ञा देलन हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "703fa72d56fced0a7e5894b48d12a10ccefe886f7463c06f819020dd38594353",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/3\/1-4.1791993999089.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "परखै बर"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "जानै बर"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "मानथिन कि नञ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आज्ञा सब के"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "आज्ञा सब"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा देलन हलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर पुरखा सब के"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ओकर पुरखा सब"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:06:39.090286503Z",
+  "model": "glm-5.3"
+}

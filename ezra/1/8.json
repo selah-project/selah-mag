@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 1:8",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "गिनलन",
+      "rationale": "ויספרם — बरतन के गिनती; ओहि के पाछे के पद (1:9–11) के सूची के नेंव।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "'हाथ पर' — किएक के माध्यम से; मगही में 'के हाथ से'।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ששבצר",
+      "rationale": "शेशबत्सर ज़रूब्बेल के फारसी नाम हऽ अथवा अलग मनुस — अनुवादक के पुराना झगड़ा; पाठ खालिस नाम देखावऽ हइ।"
+    }
+  ],
+  "translation": "आउ ओकरा कोरेस, फारस के राजा, मितरेदात के हाथ से बाहर निकाललन — ओ हल खजांची — आउ ओकरा गिनलन शेशबत्सर के हाथ में, यहूदा के नाइका के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3122b01cea18a0175b919a360e3d7ccdc1ae405872dd545a65cbe591de497b4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/1\/5-8.1792009231144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "आउ ओकरा बाहर निकाललन"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "कोरेस"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "फारस के"
+    },
+    {
+      "surface": "על",
+      "gloss": "के द्वारा"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "מתרדת",
+      "gloss": "मितरेदात"
+    },
+    {
+      "surface": "הגזבר",
+      "gloss": "खजांची"
+    },
+    {
+      "surface": "ויספרם",
+      "gloss": "आउ ओकरा गिनलन"
+    },
+    {
+      "surface": "לששבצר",
+      "gloss": "शेशबत्सर के"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "नाइका"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "यहूदा के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:20:31.145842342Z",
+  "model": "glm-5.3"
+}

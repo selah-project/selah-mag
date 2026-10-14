@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פצחי \/ תפרצי",
+      "rationale": "पद 1 के 'फोड़ के गा' आउ इहाँ 'तोड़ के निकलऽ' — एके जड़ के तोड़ऽ-फोड़ऽ के संगीत, मगही में आंशिक रहि गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוממה \/ נשमות",
+      "rationale": "उजड़ल जनाना (पद 1) आउ उजड़ल नगह — एके जड़, उजाड़ के केंद्रीय तान।"
+    }
+  ],
+  "translation": "काहे कि तूँ दहिने आउ बाएँ तोड़ के बाहर निकलबइ, आउ तोहर बिया जाति सब के बिरासत में लेतइ, आउ उजड़ल नगर सब फेर बसातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "74e26d779e80194a9a4fa85403d49b70e77891d0fd5ff2581ee35a6d8190a6df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/54\/1-4.1791999764904.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "दहिने"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "आउ बाएँ"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "तोड़ के बाहर निकलबइ"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "आउ तोहर बिया"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब के"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "बिरासत में लेतइ"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "आउ नगर सब"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "उजड़ल"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "फेर बसातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:42:44.905618677Z",
+  "model": "glm-5.3"
+}

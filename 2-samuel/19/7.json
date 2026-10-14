@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 19:7",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא",
+      "rationale": "Consonants לא but lemma לוּא 'if' (ketiv\/qere); rendered 'यदि' — reading it as plain negative makes no sense"
+    },
+    {
+      "kind": "idiom",
+      "subject": "तोहर आँख में ठीक",
+      "rationale": "Hebrew 'straight in your eyes' = pleasing to you; the eye-idiom kept literally"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב\/שנא",
+      "rationale": "love-hate chiasm: love-haters, hate-lovers; the cross kept in Magahi word order"
+    }
+  ],
+  "translation": "जे तूँ अपन दुसमन के ⟨את⟩ परेम करऽ हऽ आउ अपन परेम करै वाला के ⟨את⟩ घृणा करऽ हऽ — काहे कि आज तूँ बतइलक कि तोहर बर सरदार आउ नौकर-चाकर कुछो नञ हथिन। काहे कि आज हम जानलियनि — यदि अबशालोम जिअतइ रहतइ आउ हमनी सब आज मरल रही, त तखन ई तोहर आँख में ठीक लागतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2833f676bee4b3aabb94c57ca4ca3288575400bc6b5d040637883b9028a34be3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/19\/5-8.1791996530831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאהבה",
+      "gloss": "परेम करऽ बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन दुसमन"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "तोहर दुसमन"
+    },
+    {
+      "surface": "ולשנא",
+      "gloss": "आउ घृणा करऽ बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर परेम करै वाला"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "तोहर परेम करै वाला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "बतइलक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "कुछो नञ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर बर"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "आउ नौकर-चाकर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "हम जानलियनि"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिअतइ रहतइ"
+    },
+    {
+      "surface": "וכלנו",
+      "gloss": "आउ हमनी सब"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "मरल रही"
+    },
+    {
+      "surface": "כי",
+      "gloss": "त"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तखन"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ठीक"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "तोहर आँख में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:48:50.832583213Z",
+  "model": "glm-5.3"
+}

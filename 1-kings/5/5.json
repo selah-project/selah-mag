@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "अपन अंगूर-बेली के नीचे आउ गूलर के गाछ के नीचे",
+      "rationale": "תחת גפנו ותחת תאנתו — अराम आउ खुसहाली के स्थायी इब्रानी मुहावरा; मगही में तस्वीर जस के तस रखल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दान से बेर-शेबा ले",
+      "rationale": "पूरा देस के दुनो छोर के नाप — उत्तर से दक्खिन ले।"
+    }
+  ],
+  "translation": "आउ यहूदा आउ यिस्राएल निश्चिन्त बैठलन — हर मनुस अपन अंगूर-बेली के नीचे आउ अपन गूलर के गाछ के नीचे — दान से ले के बेर-शेबा ले, शलोमो के सब दिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "67c0c506ec3d2e7b5a79e4f076fa23dd9addcc8bc601895f9869a7259e5e4225",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/5\/5-8.1791996841369.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आउ बैठलन"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "आउ यिस्राएल"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "निश्चिन्त"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर मनुस"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "अपन अंगूर-बेली"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "आउ के नीचे"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "अपन गूलर के गाछ"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "दान से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले के"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-शेबा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो"
+    }
+  ],
+  "timestamp": "2026-10-14T16:54:01.369857380Z",
+  "model": "glm-5.3"
+}

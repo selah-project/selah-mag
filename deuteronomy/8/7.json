@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 8:7",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "झरना",
+      "rationale": "עינת सचमुच 'आँखि' हकइ — धरती के आँखि से पानी फूटऽ हइ; मगही में ओहि चित्र के सब्द 'झरना' लेल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארץ",
+      "rationale": "'धरती' शब्द तीन बेर दोहरावल गेलइ — एकर जोड़ 8:8 में आगू बढ़ऽ हइ।"
+    }
+  ],
+  "translation": "काहे कि यहवे तोहर एलोहीम तोहनी के एक बढ़िया धरती में लगैतइ — नदी-पानी के धरती, झरना आउ गहिन पानी के, जे घाटी आउ पहाड़ में निकरऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c27dabee088dc1fb09f9df2aadcbfbf6da9496268d9d172abb055ed4a69efd83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/8\/5-8.1791992210206.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "מביאך",
+      "gloss": "तोहनी के लगैतइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "ותהמת",
+      "gloss": "आउ गहिन पानी"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "निकरऽ हइ"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "घाटी में"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "आउ पहाड़ में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:36:50.207288507Z",
+  "model": "glm-5.3"
+}

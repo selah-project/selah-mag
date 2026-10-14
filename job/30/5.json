@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "बीच",
+      "rationale": "גֵּו के अरथ 'मध्य' (यलत\/आस्बी) बनाम 'घाटी' (वायक्लिफ, किंग जेम्स 'मनुखन के बीच से') — दुनो परम्परा चललइ हे।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "चिल्लावथिन",
+      "rationale": "יריעו के दोसर पढ़ाई: 'ओकनी के खिस्सा लेवऽ हइ' — जड़ רוע के 'शोर मचावे' अरथ एहें बढ़िया हकइ।"
+    }
+  ],
+  "translation": "बीच से ओकनी खदेड़ल गेलन; ओकरा लागे चिल्लावल जाऽ हइ, चोर जइसन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3e283dcd27359b971c36abb8df37e3fb458a49dc7496d52452750b9d6dad5f3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/30\/5-8.1792007640429.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "גו",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "יגרשו",
+      "gloss": "खदेड़ल गेलन"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "चिल्लावथिन"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ओकरा लागे"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "चोर जइसन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:54:00.429992327Z",
+  "model": "glm-5.3"
+}

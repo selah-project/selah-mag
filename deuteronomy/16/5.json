@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באחד שעריך",
+      "rationale": "'एक दुआरी में' — अरथ 'तोहरा कोनो दुआरी (नगर) में'; साफ अरथ बर 'कोनो' शब्द जोड़ल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "कार्य-बलि",
+      "rationale": "हिब्रू खाली 'ला-ज़ेबाख' कहऽ हइ — बलि; 'करिहऽ' फेर बाक्य के जरिए आवऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल",
+      "rationale": "तोहरा — मोशे के बोली इस्राएल के परजा से"
+    }
+  ],
+  "translation": "तूँ ⟨את⟩ पसह के बलि तोहरा एक दुआरी में नञ कर सकऽ हता जे यहवे तोहर एलोहीम तोहरा देतइ, बाकि उहे जगह पर जे यहवे तोहर एलोहीम चुनतइ, उतए तूँ साँझ के समय, सुरुज डूबते के घड़ी, ओही मोआद में जे तूँ मिस्रयिम से निकलल हता, ⟨את⟩ पसह के बलि करिहऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "372e101a9a74e67a9df470aec489afe0032cb493c2df1a0aea2b351cb9dc7d65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/16\/5-8.1791992442865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "सकऽ हता"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "बलि करै के बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पसह"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पसह"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "तोहरा दुआरी में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देतइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:40:42.865975032Z",
+  "model": "glm-5.3"
+}

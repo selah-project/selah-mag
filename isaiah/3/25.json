@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 3:25",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתיך",
+      "rationale": "मַत के बहुबचन 'तोहर मरद' (KJV\/JPS) बनाम YLT 'instead of glory' (מִתְהַיִך़ के पाठ); मरद लेलहलिये।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "वाक्य के आगे के भाग",
+      "rationale": "KJV\/JPS\/BSB के सोझाँ विराम (atnah) के अनुसार दू खण्ड मानल गेल; यत् YLT एकरा पिछला पद के 'के बदला' श्रृंखला से जोड़ऽ हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "विराम-चिन्हा",
+      "rationale": "पद के दुनू भाग परति-समानान्तर बनावट में हइ (के से गिरना \/ में गिरना)।"
+    }
+  ],
+  "translation": "तोहर मरद तलवार से गिरतइ, आउ तोहर बल लड़ाई में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "28aab94f341e3b3fe1e1d9587fc54a75d5d3557f410479cab60f1cf5fdb004f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/3\/25-26.1791998594435.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתיך",
+      "gloss": "तोहर मरद"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "गिरतइ"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "तोहर बल"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "लड़ाई में"
+    }
+  ],
+  "timestamp": "2026-10-14T17:23:14.436210389Z",
+  "model": "glm-5.3"
+}

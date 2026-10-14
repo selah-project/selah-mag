@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 65:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "होतइ",
+      "rationale": "והיה के बाद वाक्य-बनावट बर दुई-बिन्दु जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ होतइ: शारोन भेड़ के बाड़ा बनतइ आउ अकोर के घाटी बैल के आराम के जगह, हमर ओहि लोग बर जे हमरा खोजलन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "66a8d8bb9585ec4ed4f2166197f0e5f6ff7414decf13f2e137566e4ce5aa3afd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/65\/9-12.1792000069966.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "शारोन"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "बाड़ा बर"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़ के"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "आउ घाटी"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "अकोर"
+    },
+    {
+      "surface": "לרבץ",
+      "gloss": "आराम के जगह बर"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बैल के"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "हमर लोग बर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "हमरा खोजलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:47:49.967596937Z",
+  "model": "glm-5.3"
+}

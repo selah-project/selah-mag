@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 33:8",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "तीन दिन के रस्ता",
+      "rationale": "यात्रा के नाप दिन में गिनल गेलइ हे — इस्राएल के पड़ाव-सूची के हिस्सा।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "शाब्दिक 'मुँह के' — जगह के सामने से के अरथ; मगही में 'सामने से' धरल गेलइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "एताम के उजाड़",
+      "rationale": "במדבר אתם के ठीक बंधन 'एताम के उजाड़' हकइ; कुछ अनुवाद 'उजाड़ में एताम तक' पढ़ऽ हथिन।"
+    }
+  ],
+  "translation": "आउ पी हखिरोत के सामने से चललन आउ समुंदर के बीच से पार होके उजाड़ में अइलन, आउ एताम के उजाड़ में तीन दिन के रस्ता टेलन, आउ मारा में डेरा डेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "49da895dff103b1bd0acc3b21d913a12c1653b4a085751e167812718f31cb6f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/33\/5-8.1791991825879.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चललन"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "पी हखिरोत"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "पार भेलन"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच से"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "उजाड़ में"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "टेलन"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "उजाड़ में"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "एताम"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डेलन"
+    },
+    {
+      "surface": "במרה",
+      "gloss": "मारा में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:30:25.880368598Z",
+  "model": "glm-5.3"
+}

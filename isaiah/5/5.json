@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "कोमल अनुरोध के कण, मगही में अलग सब्द नञ मिलल।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לבער",
+      "rationale": "कुछ अनुवाद 'जराए जाना' लेथिन; 'चरावल' बकरी-पसु के तबाही के अरथ हकइ।"
+    }
+  ],
+  "translation": "आउ अब हम ⟨את⟩ तोहनी के बतावऽ हइ कि हम अपन बगइचा के साथे की करतइ — ओकर बाड़ हटाएल जातइ आउ ऊ चरावे लागतइ, ओकर दीवार तोड़ल जातइ आउ ऊ रौंदे लागतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/5\/5-8.1791998669305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "हम बतावऽ हइ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨तोहनी के⟩"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "अपन बगइचा के साथे"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "हटाएल जातइ"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "ओकर बाड़"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "चरावे लागतइ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "तोड़ल जातइ"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "ओकर दीवार"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "रौंदे लागतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:24:29.305940999Z",
+  "model": "glm-5.3"
+}

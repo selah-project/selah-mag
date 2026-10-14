@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "संग-रहन",
+      "rationale": "ענתה के अरथ बिबाह-संग रहन के अधिकार हकइ; YLT एकरा निवास (habitation) कहऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "खाना",
+      "rationale": "שאर शाब्दिक रूप से मांस\/भोजन हकइ; इहाँ ओकर निर्वाह के अरथ"
+    }
+  ],
+  "translation": "अइसन होवे त ऊ ओकरा छोड़ के दोसर जनाना लेथिन, त ओकर खाना, ओकर कपड़ा आउ ओकर संग-रहन — एकरा ओकरा घटा के नञ देथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f981f1c98672136fce8ef7a7c6e6289319c4739b3781e50d63afefdda5d0100c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/21\/9-12.1791988668265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अइसन होवे त"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "दोसर जनाना"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "लेथिन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा छोड़ के"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ओकर खाना"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "ओकर कपड़ा"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "आउ ओकर संग-रहन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "घटा के देथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:37:48.266425766Z",
+  "model": "glm-5.3"
+}

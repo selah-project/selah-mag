@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 15:24",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את פי יהוה",
+      "rationale": "'यहवे के मुँह' — हेब्रू के साक्षात् रूप; 'आज्ञा' सार्व अनुवाद पर बाकि मूल रूप नञ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע בקול",
+      "rationale": "'बोली सुनल' — हेब्रू इडियम बिना-बोले आज्ञा-पालन के; पद 22 के शमा-प्रतिध्वनि।"
+    }
+  ],
+  "translation": "आउ शाऊल शमूएल के कहलक — हम पाप करलियनी, काहे कि हम यहवे के मुँह ⟨את⟩ आउ तोहर बात ⟨ואת⟩ के उल्टा करलियनी; काहे कि हम लोग ⟨את⟩ से डरलियनी, आउ ओकनी के बोली सुनलियनी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6a4ce2c35245304daf488040292fe26c4891de0f1a0324a78843323e76997d3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/15\/21-24.1791995239155.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमूएल"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "हम पाप करलियनी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "उल्टा करलियनी हम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के मुँह"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर बात"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "तोहर बात"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "डरलियनी हम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "आउ सुनलियनी"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "ओकनी के बोली"
+    }
+  ],
+  "timestamp": "2026-10-14T16:27:19.156840516Z",
+  "model": "glm-5.3"
+}

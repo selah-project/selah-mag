@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלקו \/ רכו",
+      "rationale": "दू क्रिया — चिकनाहट आउ नरमी — एके तुलना-ढाँचा में दोहरावल गेल हइ; मुँह बनाम हिरदय के विरोध।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחמאת",
+      "rationale": "'माखन जइसन चिकनाहट' — चापलूसी के सुभाविक अरथ; 'खाली चापलूसी' कहला चित्र मिट जातइ।"
+    }
+  ],
+  "translation": "ओकर मुँह के बात माखन नियन चिकना हलन, आउ ओकर हिरदय लड़ाई हकइ; ओकर बात तेल से बेसी नरम हलन, बाकि ओकनी खुलल तलवार हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "90a7f7bda4c6f34dcd96227750125f62b893a19f5cf6317094f0adfe1d6f9133",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/55\/21-24.1792005192049.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "चिकना हलन"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "माखन नियन"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ओकर मुँह के"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "आउ ओकर हिरदय लड़ाई हकइ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर हिरदय"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "नरम हलन"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ओकर बात"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "तेल से बेसी"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "बाकि ओकनी"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "खुलल तलवार हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:12.049703955Z",
+  "model": "glm-5.3"
+}

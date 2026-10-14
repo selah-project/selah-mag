@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 2:16",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "हेलकत-हात्सुरीम",
+      "rationale": "חלקת הצרים के अरथ पर मतभेद हकइ — 'तेज लोग के खेत' (from צרר) या 'पत्थर के खेत' (from צור) — नाम जस के तस रखल गेलइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויחזקו...ויפלו",
+      "gloss": "",
+      "rationale": "पकड़लनक आउ गिरलन — उठल लोग एक संग गिरऽ हइ, बराबर मौत के चित्र"
+    }
+  ],
+  "translation": "आउ हर एक अपन संगी के मूड़ी पर कबजा कइलनक आउ अपन तलवार ओकर काछुल में घोपलनक, आउ सब एक संग गिरलन; आउ ओ जगह के नाम हेलकत-हात्सुरीम रखलक जे गिबोन में हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6c4ce391b96eae1ddd097e6d694ce540c563fad2f563e4eb1faf42e9fad40ac6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/2\/13-16.1791995849994.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזקו",
+      "gloss": "आउ कबजा कइलनक"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "मूड़ी पर"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "अपन संगी के"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "आउ अपन तलवार"
+    },
+    {
+      "surface": "בצד",
+      "gloss": "काछुल में"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ओकर संगी के"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "आउ गिरलन"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एक संग"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "आउ नाम रखलक"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "ओ जगह के"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "हेलकत"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "हात्सुरीम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "गिबोन में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:37:29.995765127Z",
+  "model": "glm-5.3"
+}

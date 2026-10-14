@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मरनसार मनुस",
+      "rationale": "अनोश के अरथ “मरनसार” हकइ — खाली “मनुस” कहला से इब्रानी के ओकर नरमी कम हो जा हइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "निगलै चाहऽ हइ",
+      "rationale": "शाफ = “साँस खींचना\/हाँफना”; “निगलना” रूपक में देखावल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "एलोहीम",
+      "rationale": "दाविद एलोहीम से सीधे अनुरोध करऽ हइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "हमरा अनुग्रह करऽ",
+      "rationale": "विनती के पुकार — पद के भासा पूरा प्रार्थना हकइ"
+    }
+  ],
+  "translation": "एलोहीम, हमरा अनुग्रह करऽ, काहे कि मरनसार मनुस हमरा निगलै चाहऽ हइ — दिन-भर लड़ित ओकनी हमरा कुचलऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/56\/1-4.1792005191781.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "हमरा अनुग्रह करऽ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "हमरा निगलै चाहऽ हइ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मरनसार मनुस"
+    },
+    {
+      "surface": "כל",
+      "gloss": "दिन-भर"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन-भर"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लड़ित"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "हमरा कुचलऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:11.781756436Z",
+  "model": "glm-5.3"
+}

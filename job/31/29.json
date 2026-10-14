@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 31:29",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי מצאו רע",
+      "rationale": "शाब्दिक: 'काहे कि बुराय ओकरा खोज लेलक' — 'बुराय ओकरा पावला' में सरल कएल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "והתעוררתי",
+      "rationale": "हित्पाएल 'उठलहुँ, जागलियन' — खुसी से उत्तेजित होब (KJV 'lifted up myself') बनाम बस जागब।"
+    }
+  ],
+  "translation": "जे हमरा दुस्ट मानऽ हलथिन, ओकरा बिपत्ति पड़ला पर जे हम खुस होवईं, आउ बुराय ओकरा पावला पर जे हम उत्तेजित भऽ गेलियन —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4e6cc594f7ee3be3defcec783a65169fc297ee1fe60f2886bb09280cf9ef6d87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/31\/29-32.1792007700929.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "खुस होवईं"
+    },
+    {
+      "surface": "בפיד",
+      "gloss": "बिपत्ति पर"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "हमरा दुस्ट मानऽ हलथिन"
+    },
+    {
+      "surface": "והתעוררתי",
+      "gloss": "उत्तेजित भऽ गेलियन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "पावला पर"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराय"
+    }
+  ],
+  "timestamp": "2026-10-14T19:55:00.930018368Z",
+  "model": "glm-5.3"
+}

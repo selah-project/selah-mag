@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמעו שמוע \/ ראו ראו",
+      "rationale": "क्रिया के दोहराव — सुनू-सुनू, देखू-देखू — इब्रानी के तानाव बतावऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "ई लोग",
+      "rationale": "आदेश सीधे परजा के सम्बोधन हकइ"
+    }
+  ],
+  "translation": "आऊ हमरा कहलनक — जा, आउ ई लोग के कह: सुनू तऽ सुनू, बाकि समझू नञ; देखू तऽ देखू, बाकि जानू नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/6\/9-12.1791998685365.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आऊ हमरा कहलनक"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आउ कहू"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनू"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "सुनू-सुनू"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "बाकि … नञ"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "समझू"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "आउ देखू"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखू-देखू"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "बाकि … नञ"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "जानू"
+    }
+  ],
+  "timestamp": "2026-10-14T17:24:45.366167835Z",
+  "model": "glm-5.3"
+}

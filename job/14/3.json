@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "की",
+      "rationale": "हिब्रू प्रस्न-चिन्हा नञ रखऽ हइ; मगही प्रस्न बनाबे बर की जोड़ल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "एलोहीम\/यहवे से",
+      "rationale": "योब अपन परमेश्वर के सोधऽ हथिन — तूँ (दुसरा बचन) सीधा सम्बोधन"
+    }
+  ],
+  "translation": "की अइसने पर तूँ आँख खोलऽ हकिस, आउ ⟨את⟩ हमरा तोहरे संग नियाव में लावऽ हकिस?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/14\/1-4.1792007348725.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "की"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "זה",
+      "gloss": "अइसने"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "खोलऽ हकिस"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "हमरा"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "लावऽ हकिस"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "नियाव में"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहरे संग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:49:08.726384448Z",
+  "model": "glm-5.3"
+}

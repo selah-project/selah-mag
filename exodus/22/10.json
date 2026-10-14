@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולקח בעליו",
+      "rationale": "'मालिक लेतइ' — के लेथै? किछु पढ़ावऽ हइ: मालिक सौंह के मान लेथै (यल्तन\/एसबी), किछु: सौंह के रूप में बलि लेथै।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שלח ידו",
+      "rationale": "'हाथ पठौना' = छूके या हथिया लेना; मगही में 'हाथ डालना' रखलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרजाना",
+      "rationale": "ישלם के साक्षात्तर अरथ 'पूरा करना\/भरपाई करना' हकइ।"
+    }
+  ],
+  "translation": "यहवे के सौंह दुनों के बीचे होतइ — कि ओकरा अपन संगी के सामान पर हाथ नञ डाललन — आउ मालिक ओकरा मान लेतइ, आउ ओ हरजाना नञ देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/22\/9-12.1791988673040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "सौंह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीचे"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दुनों"
+    },
+    {
+      "surface": "אם",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "डाललन"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "…के सामान पर"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "अपन संगी"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "आउ मान लेतइ"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "मालिक"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "हरजाना देतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:37:53.040859921Z",
+  "model": "glm-5.3"
+}

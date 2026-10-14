@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 36:29",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "अनाज के बुलइब",
+      "rationale": "קראתי אל הדגן — अनाज के बुलाव: सन्दर्भ-बल बनाम पूरा पुरुष-कल्पना, सब अनुवादक ई चुनैत हथिन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "भूखान",
+      "rationale": "רעब — भूख \/ अकाल दूनो अरथ, इहाँ अकाल के सन्दर्भ हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "यहवे यिस्राएल के परजा से सीधे बात करऽ हथिन।"
+    }
+  ],
+  "translation": "आउ हम तोहनी के तोहनी के सब घिनावन-तमास से बचइब, आउ अनाज के बुलइब आउ ओकरा बढ़इब, आउ तोहनी पर भूखान नञ देब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7d443dea66ff362a7f0113d9958efa72b7800bef0acad00c50eafbb20099103b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/36\/29-32.1792002783468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והושעתי",
+      "gloss": "आउ हम ... बचइब"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब ... से"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "तोहनी के घिनावन-तमास"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "आउ ... बुलइब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "अनाज"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "आउ ... बढ़इब"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "देब"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तोहनी पर"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "भूखान"
+    }
+  ],
+  "timestamp": "2026-10-14T18:33:03.468860279Z",
+  "model": "glm-5.3"
+}

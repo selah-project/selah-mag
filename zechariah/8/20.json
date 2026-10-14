@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकनी",
+      "rationale": "object pronoun supplied so the second clause reads as 'the inhabitants will also come'"
+    }
+  ],
+  "translation": "एहने यहवे त्सबाओत कहऽ हइ: अउर ई होतइ जे जाति के लोग अइतइ, आउ ढेर नगर के बसबइ वाला ⟨ओकनी⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6008d542dbb234553308463f5ce6c412b014a422f93681c93fed88a8135da93c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/8\/17-20.1792004191060.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "עד",
+      "gloss": "अउर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "अइतइ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति के लोग"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "आउ बसबइ वाला"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:56:31.061642246Z",
+  "model": "glm-5.3"
+}

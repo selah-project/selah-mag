@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 6:14",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סריסים",
+      "rationale": "'eunuchs' rendered as खोजा; versions soften to 'chamberlains' or 'officials'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויבהלו",
+      "rationale": "the hiphil 'made-haste him' folded into 'जल्दी ले अइलन' — no separate causative in Magahi"
+    }
+  ],
+  "translation": "ओकनी ओकरा संग अखनी बात करऽ रहल रहथिन, त राजा के खोजा अइलन आउ एस्तेर के बनावल दावत पर ⟨את⟩ हामान के जल्दी ले अइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "24712920add81b111b6a4e92be886e6a1595eafc9bd4e813e13c33c4f9c1bb62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/6\/13-14.1792008682688.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עודם",
+      "gloss": "अखनी"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "बात करऽ रहल"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "וסריסי",
+      "gloss": "आउ खोजा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "जल्दी कइलन"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ले अइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हामान"
+    },
+    {
+      "surface": "המן",
+      "gloss": "हामान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "दावत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "बनावल"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:11:22.689611903Z",
+  "model": "glm-5.3"
+}

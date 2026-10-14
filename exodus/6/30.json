@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी में क्रिया-सबंधक नञ हइ — बिसेसण-वाक्य बर चाही"
+    },
+    {
+      "kind": "crux",
+      "subject": "अन-खतना ओठ",
+      "rationale": "ערל שפתים के असली तस्वीर — 'बोले में अक्खड़' (BSB) बनाम असली शरीर-चित्र जे तनाख़ के खतना-भासा से जुड़लइ हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "मोशे",
+      "rationale": "मोशे यहवे के आगे आपन कमजोरी के बोलऽ हइ"
+    }
+  ],
+  "translation": "आउ मोशे यहवे के आगे कहलक — देखऽ, हमरा ओठ अन-खतना ⟨हथिन⟩, आउ कइसने फिरौन हमर बात सुनतइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e0490129c4d2c46171a2696c2cca643fd2a60b6699d4a5e89d19804cedf64237",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/6\/29-30.1791988065779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "अन-खतना"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "आउ कइसने"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनतइ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:27:45.779978098Z",
+  "model": "glm-5.3"
+}

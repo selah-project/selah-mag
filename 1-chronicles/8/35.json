@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हलन⟩",
+      "rationale": "इब्रानी में क्रिया नञ हइ — खाली नाम-सूची हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "वंशावली",
+      "rationale": "मीखा के चार बेटा के नाम के गिनती।"
+    }
+  ],
+  "translation": "आउ मीखा के बेटा ⟨हलन⟩ पीथोन आउ मेलेक आउ ताअरेआ आउ अखज।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fdb979566934f7093a7a4b825b49587a6b58e4faed35deb3c9a3c89dd0fd2d88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/8\/33-36.1792010070843.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आउ बेटा सब"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीखा"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "पीथोन"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "आउ मेलेक"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "आउ ताअरेआ"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "आउ अखज"
+    }
+  ],
+  "timestamp": "2026-10-14T20:34:30.844396816Z",
+  "model": "glm-5.3"
+}

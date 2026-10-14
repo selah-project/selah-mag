@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 11:7",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בלל",
+      "rationale": "'मिलाइ देना' — बोली के घाल-मिल कर देना, 11:9 के बवल (बाबेल) शब्द-छेना के जड़।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נרדה",
+      "rationale": "'हमनी उतरियै' — बहुबचन क्रिया; इब्रानी पाठ जस के तस रखल गेल, केहू टिप्पनी नञ।"
+    }
+  ],
+  "translation": "चलऽ, हमनी उतरियै आउ ओइजा ओकनी के बोली मिलाइ दियै, जेकरा से कोनो मरद अपन संगी के बोली नञ सुकतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "69d5a501e1f549f4d9adc257799f261adc105898adba55e5a1de8d8dc822b5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/11\/5-8.1791986563217.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "चलऽ"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "हमनी उतरियै"
+    },
+    {
+      "surface": "ונבלה",
+      "gloss": "आउ मिलाइ दियै"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओइजा"
+    },
+    {
+      "surface": "שפתם",
+      "gloss": "ओकनी के बोली"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "सुकतइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोनो मरद"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "अपन संगी के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:02:43.218121234Z",
+  "model": "glm-5.3"
+}

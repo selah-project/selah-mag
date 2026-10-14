@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "बमदबर",
+      "rationale": "'जंगल में' — मार मिस्रयिम में गिरलन, जंगल में नञ; कुछ पाठ एकरा 'मिस्रयिम के सीमा तक' पढ़ऽ हइ (נגדाप), पर अक्षर जस के तस रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "देवता सब",
+      "rationale": "पलिश्ती एलोहीम के बहुबचन देवता-जाति के रूप में समझथिन — इब्रानी के बनावट जस के तस।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המכים…מכה",
+      "reasonale": "मार-मार जड़ के पुनरावृत्ति: 'मारए वाला…हर मार'।"
+    }
+  ],
+  "translation": "हाय हमनी बर! कोनो हमनी के एनेर बलवान देवता सब के हाथ से छुड़ातइ? ई ओ देवता सब हथिन, जे ⟨את⟩ मिस्रयिम के हर मार के साथ जंगल में मारथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e22cc62d0726d92c285ce54fc5a4b4e97306e999a63b7ef63e166f9958f7657a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/4\/5-8.1791994933988.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी बर"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "हमनी के छुड़ातइ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "देवता सब के"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "एनेर"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ओ…हथिन"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "देवता सब"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "जे मारथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मिस्रयिम"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "मार के साथ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:22:13.990032187Z",
+  "model": "glm-5.3"
+}

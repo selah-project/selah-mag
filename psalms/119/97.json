@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מה",
+      "rationale": "interrogative 'what?' used as exclamation 'how much!', an exclamative frame not a question"
+    },
+    {
+      "kind": "alternative",
+      "subject": "मनन",
+      "rationale": "שיחה is musing\/low-voice reflection; 'मनन' keeps the meditative sense"
+    }
+  ],
+  "translation": "काना परेम हम करऽ हइ तोहर तोरा के! पूरा दिन ऊ हमर मनन हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/97-100.1792006129613.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "काना"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "परेम करऽ हइ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "तोहर तोरा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "हमर मनन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:49.613944328Z",
+  "model": "glm-5.3"
+}

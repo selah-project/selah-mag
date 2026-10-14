@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כרת",
+      "rationale": "इब्रानी 'काटलन' कहऽ हइ — वाचा काटल जा हइ, बनाओल नञ; मगही ओइसने रखल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "'הנה דם' में क्रिया नञ हे — 'देखऽ, खून'; मगही के 'ई हकइ' के क्रिया चाही।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी संग",
+      "rationale": "यहवे लोग से सीधे समझौता कइलन — मोशे ओकर बोली लोग के सामने दोहरावऽ हइ।"
+    }
+  ],
+  "translation": "आउ मोशे ⟨את⟩ खून लेलन आउ लोग पर छिड़कलन आउ कहलन: “देखऽ, ई ⟨हकइ⟩ ओ वाचा के खून जे यहवे ए सब बात के साथ तोहनी संग काटलन।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "22a3052ee3f3567c28faa99eb03be029a34293926c7209b9edd06eb62f17fc57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/24\/5-8.1791988785885.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "आउ लेलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खून"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "आउ छिड़कलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "वाचा के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काटलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "तोहनी संग"
+    },
+    {
+      "surface": "על",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ए सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ए"
+    }
+  ],
+  "timestamp": "2026-10-14T14:39:45.886582313Z",
+  "model": "glm-5.3"
+}

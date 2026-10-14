@@ -1,0 +1,190 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 9:24",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הגד הגד",
+      "rationale": "Infinitive-absolute repetition: 'certainly told' — the doubling is kept by 'बताओल गेलहलइ' repeated once, intensity partly lost."
+    },
+    {
+      "kind": "substitution",
+      "subject": "मुँह से",
+      "rationale": "מפניכם is literally 'from your face' — Magahi 'तोहर मुँह से' keeps the body-part picture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש is life-force\/breath, not disembodied 'soul'; Magahi परान keeps the vitality sense."
+    },
+    {
+      "kind": "you",
+      "subject": "to Joshua",
+      "rationale": "The Gibeonites address Joshua directly throughout — 'तोहर', 'तोहनी के'."
+    }
+  ],
+  "translation": "ओ ⟨את⟩ यहोसुआ के जवाब देलन आउ कहलन — काहे कि तोहर सेवक लोग के बताओल गेलहलइ, ⟨את⟩ जे जे यहवे तोहर एलोहीम ⟨את⟩ मोशे (मूसा) अपन सेवक के हुकुम देलन कि तोहनी के ⟨את⟩ सब धरती दे, आउ तोहर मुँह से ⟨את⟩ सब रहै वाला लोग के नस्ट कर दे, एहे से हमनी अपन परान के बहुते डरलियै तोहर मुँह से, आउ ⟨את⟩ ई काम कइलियै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "95d8882043e6539b42313c20d093b7a2a90c728fd7c4c0c8971d0c53a8e63919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/9\/24-24.1792011645574.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "जवाब देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहोसुआ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोसुआ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "बताओल गेलहलइ"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "बताओल गेलहलइ"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "तोहर सेवक लोग के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे जे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे जे"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकुम देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "अपन सेवक"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "दे"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब धरती"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ולהשמיד",
+      "gloss": "आउ नस्ट कर दे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब रहै वाला लोग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहै वाला लोग"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "तोहर मुँह से"
+    },
+    {
+      "surface": "ונירא",
+      "gloss": "आउ डरलियै"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "לנפשתינו",
+      "gloss": "अपन परान के"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "तोहर मुँह से"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "आउ कइलियै"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई काम"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ई काम"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T21:00:45.575208108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונחתה קשת",
+      "rationale": "'हमर बाँह ताँबा के धनुक झुकावऽ हकइ' (KJV-विरोधी, ASV\/JPS) बनाम 'ताँबा के धनुक हमर बाँह से तोड़ देल गेलइ' (KJV\/Geneva) — नचה के कर्ता अस्पष्ट हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ताँबा",
+      "rationale": "KJV के 'steel' गलत हकइ; נחושה ताँबा\/काँस हकइ।"
+    }
+  ],
+  "translation": "ऊ हमर हाथ के लड़ाई बर सिखावऽ हथिन, आउ हमर बाँह ताँबा के धनुक झुकावऽ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0c6f52b1643deb31ea4f32fb386e9b4bb7cdf6d29e43f81f4e24840cc80a4e2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/18\/33-36.1792004628508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "सिखावऽ हथिन"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हमर हाथ के"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "लड़ाई बर"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "झुकावऽ हकइ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "धनुक"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ताँबा के"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "हमर बाँह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:48.509418432Z",
+  "model": "glm-5.3"
+}

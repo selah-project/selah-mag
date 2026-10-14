@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हथियार",
+      "rationale": "כלי सामान्य बरताव के सब्द हकइ — 'ओजार'; संदर्भ से हथियार के अरथ आवऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "मगही के किरिया बर जोड़ल; इब्रानी में किरिया नञ हइ"
+    }
+  ],
+  "translation": "यहवे ⟨את⟩ ओकर खजान खोललन आउ ⟨את⟩ ओकर गुस्सा के हथियार बाहिर निकाललन, काहे कि ई काम अदोनाय यहवे त्सबाओत बर कस्दिम के धरती में ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6752a40ad8c78f2c78c92364635ca72c789f6225c89e505b0e3fd44753ff8e33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/50\/25-28.1792001493352.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "खोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर खजान"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "ओकर खजान"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "आउ बाहिर निकाललन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हथियार"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "हथियार"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "ओकर गुस्सा के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ई"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "के धरती में"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "कस्दिम"
+    }
+  ],
+  "timestamp": "2026-10-14T18:11:33.352783004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "(अब्राहम)",
+      "rationale": "पहिला आगमन पर चलनसार रूप के कोस्ठक, अनुसासन के मंजूरी से"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दक्खिन देस",
+      "rationale": "הנגב सूखा दक्खिन जिला के नाम हकइ; दिशा-अरथ में लेल गेल"
+    }
+  ],
+  "translation": "आउ अवराहाम (अब्राहम) ओहिं से दक्खिन देस के धरती दने चल देलन, आउ कादेश आउ शूर के बीच बस गेलन, आउ गरार में परदेसी होके रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5eb0d7258e0d3c6a2d1dc74ed4994fb77b73bd538b0eb80a4edc0345f63d741f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/20\/1-4.1791986863871.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "चल देलन"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ओहिं से"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "दक्खिन देस"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "बस गेलन"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "कादेश"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ के बीच"
+    },
+    {
+      "surface": "שור",
+      "gloss": "शूर"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "परदेसी होके रहलन"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "गरार में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:07:43.872367100Z",
+  "model": "glm-5.3"
+}

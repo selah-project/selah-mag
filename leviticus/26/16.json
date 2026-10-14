@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 26:16",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बहलה → दहशत",
+      "rationale": "בהलה के दुनो अरथ हकइ — दहशत आउ उजाड़ी; इहाँ दहशत लेलनिहार"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מדיבת",
+      "rationale": "परान के सुकावे वाला — तनाख़ में एही पद पर एके बेर"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "वाचा-भंग के सजा के सीधा बात तोहनी (यिस्राएल) से"
+    }
+  ],
+  "translation": "तँए हम एहनो तोहनी संग करबइ — हम तोहनी पर दहशत ठाढ़ करबइ: ⟨את⟩ सुकाव-रोग आउ ⟨את⟩ तेज बुखार, जे आँख के बुझा देतइ आउ परान के सुका देतइ; तोहनी खाली बिया बोऽबइ आउ तोहनी के दुस्मन ओकरा खा जइतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c2aaef1dd6f8dae23f3b1e35c410cedf0aeba10ba46becf292f7b6ba6ae4c126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/26\/16-16.1792011588745.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "तँए"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "करबइ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी संग"
+    },
+    {
+      "surface": "והפקדתי",
+      "gloss": "ठाढ़ करबइ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तोहनी पर"
+    },
+    {
+      "surface": "בהלה",
+      "gloss": "दहशत"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सुकाव-रोग"
+    },
+    {
+      "surface": "השחפת",
+      "gloss": "सुकाव-रोग"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तेज बुखार"
+    },
+    {
+      "surface": "הקדחת",
+      "gloss": "तेज बुखार"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "बुझा देतइ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "ומדיבת",
+      "gloss": "सुका देतइ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "बोऽबइ"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "बिया"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "खा जइतन"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "दुस्मन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:59:48.745744103Z",
+  "model": "glm-5.3"
+}

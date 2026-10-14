@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובני מרשה",
+      "rationale": "'मारेशा के बेटा' के अरथ पढ़निहार में मतभेद — किछु एकरा 'मारेशा दूसर बेटा' (BSB) पढ़ऽ हइ, किछु अलग परिवार के सूची।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "वंसावली",
+      "rationale": "नाम के सूची — परिवार के गिनती के बही।"
+    }
+  ],
+  "translation": "आउ यरखमेल के भाय कालेव के बेटा — मेशा ओकर पहिलका बेटा, ऊ जीफ के बाप हलन; आउ मारेशा के बेटा — खेबरोन के बाप।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "585488fd096983c21d0941df3348217db687536d2d027879f3e84d60a9714a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/2\/41-44.1792009816642.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आउ बेटा"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कालेव"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाय"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरखमेल"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "मेशा"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ओकर पहिलका बेटा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "बाप"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "जीफ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आउ बेटा"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "मारेशा"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "बाप"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "खेबरोन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:30:16.643210753Z",
+  "model": "glm-5.3"
+}

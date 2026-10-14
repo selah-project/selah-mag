@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סביב … סביב",
+      "rationale": "वाक्य के सुरुआत आउ अंत में „चारो दने” के घेराव — आँगन के घेराव शब्द में फेर फेर आवऽ हइ"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ आँगन के पाया चारो दने के, आउ ⟨את⟩ आँगन के गेट के पाया, आउ ⟨את⟩ मिश्कान के सब कील, आउ ⟨את⟩ आँगन के सब कील चारो दने के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d2c16a773016f9048fd6ad5eaf8efca658c334f27a0b8763d36eeecb7ffbfb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/38\/29-31.1791989345917.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आँगन के पाया"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "पाया"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "आँगन के"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आँगन के गेट के पाया"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "पाया"
+    },
+    {
+      "surface": "שער",
+      "gloss": "गेट"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "आँगन के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "मिश्कान के सब कील"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "कील"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मिश्कान के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आँगन के सब कील"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "कील"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "आँगन के"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:49:05.918304893Z",
+  "model": "glm-5.3"
+}

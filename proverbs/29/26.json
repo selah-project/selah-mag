@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "मुँह खोजऽ हइ",
+      "rationale": "פני מושל 'राजा के मुँह खोजना' — ओकर अनुग्रह\/कृपा के तलास, हिन्दी 'पना' के जगह मगही में मुँह रखल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨से⟩",
+      "rationale": "मिन-पद (मे) मगही में 'से' के बिना साफ नञ होवऽ हइ"
+    }
+  ],
+  "translation": "ढेर लोग राजा के मुँह खोजऽ हइ, बाकि हर एक के नियाव यहवे ⟨से⟩ आवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3a2e656cba45e3e017d87eef9c34ce121f2c6ff64a8629b56086b6030a6b00dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/29\/25-27.1792007000770.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ढेर लोग"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "खोजऽ हइ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "बाकि यहवे से"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:20.771074077Z",
+  "model": "glm-5.3"
+}

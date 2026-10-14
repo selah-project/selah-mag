@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן לילה",
+      "rationale": "इब्रानी 'रात के बेटा' — एक रात में पैदा भेल; आकृति जस के तस रखल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בן לילה … בן לिजלה",
+      "rationale": "दुनो कड़ी में एके बनावट के दोहराव, उठलइ आउ नास — एके ढाँचा रखल गेलइ।"
+    }
+  ],
+  "translation": "आउ यहवे कहलन — तूँ ओ कुसैथिया बर दया कइलक जेकरा में तूँ जतन नञ कइलक आउ जेकरा तूँ बढअलक नञ; जे एक रात के बेटा हलइ, आउ एक रात के बेटा नास भ गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "66d4c6f21497030f10824e4d916018cd2d47e0ae7967b7a4c22e1e62b8fe2738",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jonah\/4\/9-11.1792003717201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "दया कइलक"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "कुसैथिया"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "जतन कइलक"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उ बर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "बढअलक"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "एक रात के बेटा"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "आउ एक रात के बेटा"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "नास भ गेलइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:37.202438007Z",
+  "model": "glm-5.3"
+}

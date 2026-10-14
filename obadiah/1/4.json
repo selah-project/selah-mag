@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "obadiah 1:4",
+  "book": "obadiah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हम⟩",
+      "rationale": "क्रिया नतनी (1एकबचन) में करता छिपल हकइ; मगही में यहवे बर ब्रैकेट के साथ जोड़ल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "एदोम बर",
+      "rationale": "यहवे के बचन एदोम के सीधे सम्बोधन में गिरऽ हइ"
+    }
+  ],
+  "translation": "जदि तूँ चील सन ऊपर उड़ऽ, आउ जदि तारा सब के बीच तोहर घोंसला बनाऽ, तऽ ओहीं से ⟨हम⟩ तोहनी नीचे उतारतियन — यहवे के बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2efa0aa278b65ef8cdf0545e6bea0e2b208456d335a6ac32a251037d6a6b1e4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/obadiah\/1\/1-4.1792003657314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जदि"
+    },
+    {
+      "surface": "תגביה",
+      "gloss": "ऊपर उड़ऽ"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "चील सन"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आउ जदि"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "तारा सब"
+    },
+    {
+      "surface": "שים",
+      "gloss": "बनाऽ"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "तोहर घोंसला"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ओहीं से"
+    },
+    {
+      "surface": "אורידך",
+      "gloss": "⟨हम⟩ तोहनी नीचे उतारतियन"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:47:37.315513504Z",
+  "model": "glm-5.3"
+}

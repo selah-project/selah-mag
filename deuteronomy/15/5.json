@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמוע תשמע",
+      "rationale": "infinitive-absolute doubling — 'hearing thou shalt hear' — rendered as emphatic repetition, the doubling shape kept."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "second-person singular address continuing Moses' speech to Israel."
+    },
+    {
+      "kind": "invitation",
+      "subject": "सुनऽ हो",
+      "rationale": "the verse opens with a summons to hear and obey — a hook drawing the addressee in."
+    }
+  ],
+  "translation": "खाली जँ तूँ आपन एलोहीम यहवे के बोली के सुनऽ हो — खूब ध्यान से सुनऽ हो — ⟨את⟩ सब ⟨आदेश⟩ के रखवारी करे बर आउ करे बर, जे हम आज तोहरा देने हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "28b1fff41988a6bfadd7cdf73b8731394c6aa4151dbf25580eaa81edede5fdcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/15\/5-8.1791992470646.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "सुनऽ हो"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "खूब ध्यान से सुनऽ हो"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "के बोली के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "आपन एलोहीम"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "रखवारी करे बर"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब आदेश के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "आदेश"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "देने हइ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-10-14T15:41:10.646855568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "Pronoun added to carry the border (from v.1) as subject; Hebrew verb is subjectless."
+    },
+    {
+      "kind": "measurement",
+      "subject": "border",
+      "rationale": "Continuation of the boundary survey with named stations."
+    },
+    {
+      "kind": "crux",
+      "subject": "בית אל לוזה",
+      "rationale": "JPS reads one place 'Beth-el-luz'; most read two towns — Beth-el to(=that is) Luz."
+    }
+  ],
+  "translation": "आउ ऊ बेइत-एल से लूज के दने निकलल, आउ अर्की लोग के सीमा के दने अतारोत तक पार होलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5f31944a0008ab8d63a520be34c96a0693c2688f800e1743a12e8627e0675167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/16\/1-4.1791993647917.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आउ ऊ निकलल"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "बेइत-एल से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "लूज के दने"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "आउ पार होलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "अर्की लोग के"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "अतारोत तक"
+    }
+  ],
+  "timestamp": "2026-10-14T16:00:47.918149374Z",
+  "model": "glm-5.3"
+}

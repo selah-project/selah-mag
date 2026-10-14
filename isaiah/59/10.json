@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באשמנים",
+      "rationale": "एही शब्द 'मोट-ताज़ लोग' (KJV 'desolate places' से अलग) बनाम 'उपजाऊ जगह' — दुनो पढ़ावा चलऽ हइ"
+    }
+  ],
+  "translation": "हमनी अन्हरवा नियाँ देवारी के टटोलऽ हइ, आउ आँखि नञ होखए वाला नियाँ टटोलऽ हइ; दुपहरिया में हमनी साँझ-नियाँ लड़खड़ाइलियन, तगड़ा लोग के बीच मरल लोग नियाँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3ca2fadf0b00a0d0aa1eb251b7e565ef40e5716d08d545072fa79a7fd47004bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/59\/9-12.1791999882255.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "टटोलऽ हइ"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "अन्हरवा नियाँ"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "देवारी के"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "आउ बिना"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखि के"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "टटोलऽ हइ"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "हमनी लड़खड़ाइलियन"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "दुपहरिया में"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "साँझ-नियाँ"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "तगड़ा लोग के बीच"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "मरल लोग नियाँ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:44:42.256464555Z",
+  "model": "glm-5.3"
+}

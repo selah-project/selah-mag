@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 16:28",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨काम⟩",
+      "rationale": "हिब्रू अलग पद में \"सब\" आउ \"एइन काम\" कहऽ हइ; ⟨את⟩ के निसाना पूरा बनावे बर दोहरावल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלבי",
+      "rationale": "\"हमर हिरदय से नञ हइ\" — कोनो रूप \"हमर इच्छा से नञ\"; लेब = भीतरी इच्छा-स्थान।"
+    },
+    {
+      "kind": "you",
+      "subject": "to the congregation",
+      "rationale": "मोशे परजा के सामने अपन गवाही रखलथिन — सीधा सम्बोधन।"
+    }
+  ],
+  "translation": "आउ मोशे कहलन — एही से तुहनी जानब कि यहवे हमरा ई सब काम करे बर भेजलन हथिन — ⟨את⟩ सब ⟨काम⟩ एइन — काहे कि ई हमर हिरदय से नञ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0fdcae3c3025f32b3bdb511615fc8e5d47af66bbd0fb652552354edddc5af763",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/16\/25-28.1791991159721.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "तुहनी जानब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "हमरा भेजलन हथिन"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब काम एइन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "काम"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "एइन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מלבי",
+      "gloss": "हमर हिरदय से"
+    }
+  ],
+  "timestamp": "2026-10-14T15:19:19.722369861Z",
+  "model": "glm-5.3"
+}

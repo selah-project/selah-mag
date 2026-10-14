@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "अठारह बरिस",
+      "rationale": "सेवा-काल के गिनती — आठ-दस दुनू अच्छर-सब्द अलग-अलग टोकन में।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ले",
+      "rationale": "हिब्रू में 'अठारह बरिस' ठाढ़ हकइ; मगही के 'ले' अवधि बतावे बर जोड़ल गेल।"
+    }
+  ],
+  "translation": "आउ यिस्राएल के बेटा सब ⟨את⟩ एग्लोन के सेवा करलन — मोआब के राजा — अठारह बरिस ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c0c47b7ae2559084472813df4707cfd41352f0f0f6f0e25d828655ce4938a7d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/3\/14-15.1792011681665.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "सेवा करलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एग्लोन"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "एग्लोन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    }
+  ],
+  "timestamp": "2026-10-14T21:01:21.666065799Z",
+  "model": "glm-5.3"
+}

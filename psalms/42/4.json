@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "काँटी रोटी",
+      "rationale": "इब्रानी: काँटी हमर रोटी हेलइ — रोज के खाना के जगह रोवन; जस के तस रखल गेलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकनी",
+      "rationale": "कने कहऽ हइ हे, ओकरा हम ⟨ओकनी⟩ जोड़लहुँ"
+    }
+  ],
+  "translation": "हमर काँटी हमरा रोटी हेलइ दिन आउ रात, जब ओकनी हमरा हर दिन कहऽ हइ: तोहर एलोहीम कत्ते हइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/42\/1-4.1792004994053.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "हेलइ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "हमर काँटी"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "आउ रात"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "कहऽ हइ जब"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "איה",
+      "gloss": "कत्ते"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:54.054248207Z",
+  "model": "glm-5.3"
+}

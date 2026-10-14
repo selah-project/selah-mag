@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "परमेश्वर से बिनती",
+      "rationale": "पद परमेश्वर के आगे सहारा के बिनती हकइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "हमर आस में",
+      "rationale": "משברי 'में' पढ़ल जा सकऽ हइ 'पर' के जगह — दुनो रूप अनुवादन में मिलऽ हइ"
+    }
+  ],
+  "translation": "तोहर कहल बात के मोताबिक हमरा सहारा देहू, आउ हम जीबी; आउ हमर आस पर हमरा लजाइब मत।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0012912ccfab3190faede15b8ae883b42dc59729d781b0882da2feb139e89989",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/113-116.1792006129549.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "हमरा सहारा देहू"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "तोहर कहल बात के मोताबिक"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "आउ हम जीबी"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "हमरा लजाइब"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "हमर आस पर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:49.550311606Z",
+  "model": "glm-5.3"
+}

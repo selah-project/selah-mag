@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 14:14",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "318",
+      "rationale": "अठारह आउ तीन सौ — गिनती जस के तस पार होवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "וירק",
+      "rationale": "'खाली कएलक\/ढारलक' — खाली कइल (यंग का अक्षरशः अनुवाद) बनाम सशस्त्र कएलक (किंग जेम्स संस्करण); मगही में 'लेलक' तटस्थ रहल"
+    },
+    {
+      "kind": "crux",
+      "subject": "חניכיו",
+      "rationale": "हनीख: 'सिखाल-परचल' बनाम 'घर के जन्मल' कौनो न कौनो — यहाँ दुनू अरथ जोड़ल गेल हइ"
+    }
+  ],
+  "translation": "अवराम सुनलक जे ओकर भाय बन्धुआ बना लिअल गेल हकइ, त ऊ ⟨את⟩ अपन घरे जन्मल सिखाल-परचल मनुखन के लेलक — अठारह आउ तीन सौ — आउ दान ले ओकनी के पाछा-पाछा कएलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "425d7bee350c0c8414460ae4a0eac6f92d69d45f16eab6fbf948206d520bfc13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/14\/13-16.1791986594979.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलक"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अवराम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "बन्धुआ बना लिअल गेल"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाय"
+    },
+    {
+      "surface": "וירק",
+      "gloss": "लेलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन घरे जन्मल सिखाल-परचल मनुखन के"
+    },
+    {
+      "surface": "חניכיו",
+      "gloss": "सिखाल-परचल मनुखन के"
+    },
+    {
+      "surface": "ילידי",
+      "gloss": "जन्मल"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "अपन घरे"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "आउ तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "पाछा-पाछा कएलक"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    }
+  ],
+  "timestamp": "2026-10-14T14:03:14.980340599Z",
+  "model": "glm-5.3"
+}

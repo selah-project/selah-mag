@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה",
+      "rationale": "'दूर रहऽ हो' — वायदा के रूप में कहल इन्कार के मुहावरा"
+    },
+    {
+      "kind": "substitution",
+      "subject": "देवता सब",
+      "rationale": "अकेल 'एलोहीम' एतय दोसर जाति के देवता बर — जाति-सब्द 'देवता सब' लेल गेल"
+    }
+  ],
+  "translation": "तब परजा जवाब देलक आउ कहलक — हमनी के तऽ दूर रहऽ हो, ⟨את⟩ यहवे के छोड़ के दोसर देवता सब के सेवा करे से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "95c205cf32e1848e145bee027f1f91305aadb269a6636abbb19d65a2bb9b57ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/24\/13-16.1791993908981.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "तब जवाब देलक"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजा"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "हमनी के तऽ दूर रहऽ हो"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "छोड़ के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "सेवा करे से"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवता सब"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दोसर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:05:08.983146989Z",
+  "model": "glm-5.3"
+}

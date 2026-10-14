@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 40:34",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "steps",
+      "rationale": "आठ सीढ़ी के गिनती।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ताड़-गाछ",
+      "rationale": "תמרים बनावट के ताड़-आकार खम्भा हकइ, असल गाछ नञ।"
+    }
+  ],
+  "translation": "आउ ओकर द्वार-मढ़ा बाहरी दालान के ओर हलइ, आउ ओकर खम्भा पर ताड़-गाछ हलन, एक ओर आउ एक ओर, आउ ओकर चढ़ाव आठ सीढ़ी के हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4b7409dfbeb6e502bb7bd2ae5489aacc70317edc7fcc1083f5a96824a976feb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/40\/33-36.1792002889784.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלמו",
+      "gloss": "आउ ओकर द्वार-मढ़ा"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "दालान के ओर"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "बाहरी"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "आउ ताड़-गाछ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אלו",
+      "gloss": "खम्भा"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "एक ओर"
+    },
+    {
+      "surface": "ומפו",
+      "gloss": "आउ एक ओर"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आउ आठ"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "सीढ़ी"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "चढ़ाव"
+    }
+  ],
+  "timestamp": "2026-10-14T18:34:49.785670620Z",
+  "model": "glm-5.3"
+}

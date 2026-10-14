@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 39:10",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שללו\/שלליהם, בזזו\/בזזיהם",
+      "rationale": "double verb-noun repetition — 'they plunder their plunderers' — Magahi can only mirror the verb pair, not the root echo."
+    },
+    {
+      "kind": "elision",
+      "subject": "נאם",
+      "rationale": "oracle-formula noun rendered as 'के बचन' (speech), the fixed Tier-2 rendering for נאם יהוה."
+    }
+  ],
+  "translation": "आउ ओकनी खेत से लकड़ी नञ लेतइ आउ जंगल से नञ काटतइ, काहे कि ओकनी हथियार से आग जरतइ; आउ ओकनी ⟨את⟩ ओकनी के लुटै वाला लुटतइ आउ ⟨את⟩ ओकनी के लूटै वाला लूटतइ — अदोनाय यहवे के बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cf59a9919340229e0a44db3d4c542c75b4693574ef42c1c6f69eef0a1727d2c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/39\/10-11.1792011986083.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "लेतइ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "लकड़ी"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יחטבו",
+      "gloss": "काटतइ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "היערים",
+      "gloss": "जंगल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בנשק",
+      "gloss": "हथियार से"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "जरतइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "ושללו",
+      "gloss": "आउ लुटतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के लुटै वाला"
+    },
+    {
+      "surface": "שלליהם",
+      "gloss": "ओकनी के लुटै वाला"
+    },
+    {
+      "surface": "ובזזו",
+      "gloss": "आउ लूटतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के लूटै वाला"
+    },
+    {
+      "surface": "בזזיהם",
+      "gloss": "ओकनी के लूटै वाला"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "के बचन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T21:06:26.083832133Z",
+  "model": "glm-5.3"
+}

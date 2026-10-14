@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "लालाफिम",
+      "rationale": "'हजारों पीढ़ी' (jps\/bsb) बनाम 'हजारों पर' (kjv) — पीढ़ी के सब्द पाठ में नञ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हेसेद",
+      "rationale": "एक जड़ में परेम-किरपा-वफादारी; कोनो एक मगही सब्द में नञ घटायल जा सकऽ हइ"
+    }
+  ],
+  "translation": "आउ हेसेद करऽ हइ ⟨हजारों⟩ पर, ओकनी बर जे हमरा परेम करऽ हथिन आउ ओकरा जे हमरा के आज्ञा के रखवारी करऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "da4241a86ee7643c13d661f19cab627a0344dbc421eac136c11cba150dd2b5b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/5\/9-12.1791992050747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "आउ करऽ हइ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "हजारों पर"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "हमरा परेम करै वाला बर"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "आउ रखवारी करै वाला बर"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "ओकरा आज्ञा के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:34:10.748200425Z",
+  "model": "glm-5.3"
+}

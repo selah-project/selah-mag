@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नפש साँस-परान हकइ, आत्मा नञ"
+    },
+    {
+      "kind": "you",
+      "subject": "हमर परान",
+      "rationale": "बोलैयाऽ अपन परान के संबोधन करऽ हथिन"
+    },
+    {
+      "kind": "invitation",
+      "subject": "आसीस दऽ",
+      "rationale": "आज्ञार्थ के आह्वान — परान के यहवे के आसीस देवे बर कहल गेलइ हे"
+    }
+  ],
+  "translation": "दाविद के ⟨बर⟩। हमर परान, यहवे ⟨את⟩ के आसीस दऽ; आउ हमर सब भीतर के अंग ओकर पवित्तर नाम ⟨את⟩ के आसीस दऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/103\/1-4.1792005840965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "आसीस दऽ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ हमर सब"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "भीतर के अंग"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पवित्तर नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ओकर पवित्तर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:00.965994252Z",
+  "model": "glm-5.3"
+}

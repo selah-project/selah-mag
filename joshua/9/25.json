@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 9:25",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "बियड़ — तोहर हाथ में",
+      "rationale": "עברी के 'हाथ में होना' = ताकत\/कबजा में होना; शाब्दिक रूप रखल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यिहोसुअ के संबोधन",
+      "rationale": "गिबोनी लोग यिहोसुअ के ओकर फैसला करै बर कहऽ हथिन।"
+    }
+  ],
+  "translation": "आउ अब देखऽ, हमनी तोहर हाथ में हइ; जइसन तोहर आँख में भला आउ सीधा-सही लागऽ हो हमनी संग करै बर, ओहे कर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9d75c48aae9406c04fdb675dbc35723b881cb17e74182f4f3056c772fcb9dad4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/9\/25-27.1791993304298.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "देखऽ, हमनी"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "तोहर हाथ में"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "जइसन भला"
+    },
+    {
+      "surface": "וכישר",
+      "gloss": "आउ जइसन सीधा-सही"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "तोहर आँख में"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करै बर"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी संग"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:55:04.299113232Z",
+  "model": "glm-5.3"
+}

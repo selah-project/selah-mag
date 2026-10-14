@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 6:46",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "दस नगर",
+      "rationale": "नगर-गिनती गोरल से"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गोरल",
+      "rationale": "गोरल चिन्हा-पत्थर के किस्त हकइ; लिप्यन्तरन लेलन"
+    }
+  ],
+  "translation": "आउ केहात के बेटा के बाकी लोग के — जाति के कुनबा से, मनश्शे के आध जाति के आध से — गोरल में दस नगर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a7409880ce582f06fa95305e39b70b183dd60d791ac74ba19a0ebca198048f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/6\/45-48.1792010008943.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "आउ बेटा के"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "केहात"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "बाकी लोग"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "कुनबा से"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "जाति के"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "आध से"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आध"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "गोरल में"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    }
+  ],
+  "timestamp": "2026-10-14T20:33:28.944157328Z",
+  "model": "glm-5.3"
+}

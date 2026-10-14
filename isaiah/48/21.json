@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 48:21",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צור ... מים",
+      "rationale": "rock and water repeat in chiastic echo — מים מצור then צור ויזבו מים — the reversal is lost in the Magahi line"
+    },
+    {
+      "kind": "addition",
+      "subject": "जब",
+      "rationale": "Hebrew fixes time with the infinitive clause alone; Magahi needs जब to bind it"
+    }
+  ],
+  "translation": "आउ बन-जंगल में ओनी तिरसावलन नञ जब ऊ ओकनी के लेल गेलन; पत्थल से ओकनी बर पानी टपकइलन; आउ ऊ पत्थल चीरलन आउ पानी बहे गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8666b08b1aa6b119c564b64d5c9d0423cb79acd205d160858571bdb52dc137c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/48\/21-22.1791999542056.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "צמאו",
+      "gloss": "तिरसावलन"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "बन-जंगल में"
+    },
+    {
+      "surface": "הוליכם",
+      "gloss": "ओकनी के लेल गेलन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "पत्थल से"
+    },
+    {
+      "surface": "הזיל",
+      "gloss": "टपकइलन"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ओकनी बर"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "आउ चीरलन"
+    },
+    {
+      "surface": "צור",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "ויזבו",
+      "gloss": "आउ बहे गेलन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-10-14T17:39:02.057390355Z",
+  "model": "glm-5.3"
+}

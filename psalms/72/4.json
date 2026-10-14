@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "दबाव करए वाला",
+      "rationale": "עושק क्रिया-सब्द हकइ ('दबाव करना'); करता बनावे बर मगही में वाक्यांश चाही"
+    }
+  ],
+  "translation": "ऊ लोग के दरिद्र सब के नियाव करतइ, जरूरतमंद के बेटा सब के बचातइ, आउ दबाव करए वाला के कुचल देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/72\/1-4.1792005391761.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "नियाव करतइ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "दरिद्र सब के"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "बचातइ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "जरूरतमंद"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "आउ कुचल देतइ"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "दबाव करए वाला के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:31.762516870Z",
+  "model": "glm-5.3"
+}

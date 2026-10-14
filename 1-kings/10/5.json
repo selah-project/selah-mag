@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 10:5",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלתו",
+      "rationale": "'ओकर बलि' (ब्रिन्ट-बलि, jps\/ylt) बनाम 'ओकर चढ़ाव के सीढ़ी' (kjs\/asv) — एके जड़ दू अरथ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "रूआख",
+      "rationale": "'ओकरा में अब रूआख नञ रहलन' — इब्रानी मुहावरा: दम रुक गेलैल, अचम्भे से भर गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משקיו",
+      "rationale": "शाब्दिक 'पियावे वाला' — पियाकुड़-सेवक (cupbearer) के रूप में।"
+    }
+  ],
+  "translation": "आउ ओकर मेज के खाना, आउ ओकर नौकरन के बइठले के जगह, आउ ओकर सेवकन के ठाढ़ल रहे के क्रम, आउ ओकनी के कपड़ा, आउ ओकर पियाकुड़-सेवक, आउ ओकर बलि जे ऊ यहवे के घर में चढ़ावथिन — आउ ओकरा में अब कोनो रूआख नञ रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "16bc6228d1d334220e56b8a85afcb5b76a73bc9f5c6d8ce01aeac43850a2ac44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/10\/5-8.1791997020459.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "ओकर मेज"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "बइठले के जगह"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ओकर नौकर"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "ठाढ़ल रहे के क्रम"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "ओकर सेवक"
+    },
+    {
+      "surface": "ומלבשיהם",
+      "gloss": "ओकनी के कपड़ा"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "ओकर पियाकुड़-सेवक"
+    },
+    {
+      "surface": "ועלתו",
+      "gloss": "ओकर बलि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़ावथिन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    }
+  ],
+  "timestamp": "2026-10-14T16:57:00.460618263Z",
+  "model": "glm-5.3"
+}

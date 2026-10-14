@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to दानियेल",
+      "rationale": "The speaker addresses Daniel directly with the singular 'तूँ', closing the book with a personal charge."
+    },
+    {
+      "kind": "substitution",
+      "subject": "हिस्सा",
+      "rationale": "גורל literally a pebble used for casting lots; 'हिस्सा' (allotted portion) keeps the sense, the pebble-picture is lost."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לקץ...לקץ",
+      "rationale": "The repetition of 'अन्त' frames the verse — go to the end, stand at the end of days — a rhetorical envelope Magahi keeps."
+    },
+    {
+      "kind": "mystery",
+      "subject": "अन्त",
+      "rationale": "The verse seals the book's withheld timetable ('the end') without revealing it — the words are closed and Daniel is told to rest."
+    }
+  ],
+  "translation": "आउ तूँ जा अन्त ले, आउ आराम करबइ, आउ खड़ा होतइ अपन हिस्सा बर, दिन के अन्त में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "760fdc6885ab7e9c1e0cf22ba3c474b1eacfa66611e6c147e205f250a7b006d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/12\/13-13.1792009127589.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "अन्त ले"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "आउ आराम करबइ"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "आउ खड़ा होतइ"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "अपन हिस्सा बर"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "अन्त"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "दिन के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:18:47.589503387Z",
+  "model": "glm-5.3"
+}

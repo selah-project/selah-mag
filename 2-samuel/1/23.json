@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 1:23",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מנשרים",
+      "rationale": "נשר गरुड़ होवे त बाज भी — बड़का शिकार करे वाला चिरई।"
+    },
+    {
+      "kind": "addition",
+      "subject": "रहन",
+      "rationale": "इब्रानी किरिया नञ देवऽ हइ; 'रहन' मगही के चलत रूप चाहऽ हइ।"
+    }
+  ],
+  "translation": "शाऊल आउ यहोनातान, ओकनी के जीवन में परेम कइल आउ मीठा रहन, आउ ओकनी के मरन में नञ बँटलन; गरुड़ से फुरके रहन, सेर से बलवान रहन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0f7b3690449e7acd07e1e0e594299a6dfa5c15c829cbb3896dda1e4a514c49d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/1\/21-24.1791995830085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "आउ यहोनातान"
+    },
+    {
+      "surface": "הנאהבים",
+      "gloss": "परेम कइल"
+    },
+    {
+      "surface": "והנעימם",
+      "gloss": "आउ मीठा"
+    },
+    {
+      "surface": "בחייהם",
+      "gloss": "ओकनी के जीवन में"
+    },
+    {
+      "surface": "ובמותם",
+      "gloss": "आउ ओकनी के मरन में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "बँटलन"
+    },
+    {
+      "surface": "מנשרים",
+      "gloss": "गरुड़ से"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "फुरके रहन"
+    },
+    {
+      "surface": "מאריות",
+      "gloss": "सेर से"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "बलवान रहन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:37:10.086043909Z",
+  "model": "glm-5.3"
+}

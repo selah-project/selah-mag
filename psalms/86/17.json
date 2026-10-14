@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אות",
+      "rationale": "इ आवा के चिन्हा-शब्द (अँगूठी नञ), DOM-चिन्हा ⟨את⟩ से बिलकुल अलग; ⟨⟩ में नञ रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שנאי",
+      "rationale": "शब्द-रूप 'हमरा नञ-सके वाला' हकइ; जानल-पहचानल 'दुसमन' लेल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रार्थना के सीधा सम्बोधन यहवे के"
+    }
+  ],
+  "translation": "हमरा संग भलाई के चिन्हा बनइयो, आउ हमरा दुसमन ओकरा देखथिन आउ लजाथिन, काहे कि तूँ, यहवे, हमरा मदद कइलह आउ हमरा दिलासा देलह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ca3c05d2dd211a5c43c39796f2cc157968030645956ff2e9083f121a2bcb31a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/86\/17-17.1792005588426.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "बनइयो"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमरा संग"
+    },
+    {
+      "surface": "אות",
+      "gloss": "चिन्हा"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "भलाई के"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "आउ देखथिन"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "हमरा दुसमन"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "आउ लजाथिन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "हमरा मदद कइलह"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "आउ हमरा दिलासा देलह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:48.427405489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למצור",
+      "rationale": "'घेराबंदी-बाँध बर' — किंव 'बलवान नगर' (geneva) बनाम 'रक्खा बर' (kjv)।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नगर-सूची",
+      "rationale": "पद 6–8 में नगर के नाम के गिनती हकइ।"
+    }
+  ],
+  "translation": "आउ रेहबेयाम यरूशलयिम (यरूशलेम) में बसलन, आउ यहूदा में मटियार बर नगर बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9678e41e341194a687d71b9ae7e714fb6d931e9f34898a5780de08d27e48942c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/11\/5-8.1792010746256.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "बसलन"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रेहबेयाम"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम (यरूशलेम) में"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "आउ बनइलन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "मटियार बर"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "यहूदा में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:45:46.257156584Z",
+  "model": "glm-5.3"
+}

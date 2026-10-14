@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 25:48",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גאלה — छुड़ावे के अधिकार",
+      "rationale": "שब्द में कुनबा के रिस्तेदारी के हक आउ ओकरा चुकावे के काम दुनु बाट हइ; एके शब्द में।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "भाबिस बनाम आज्ञा",
+      "rationale": "תהיה\/יגאלנו के रूप आज्ञार्थ बनाम भबिस-बतावली दुनु पढ़ल जा सकऽ हइ।"
+    }
+  ],
+  "translation": "बेचल जाए के पाछे ओकरा के छुड़ावे के अधिकार होतइ — ओकर भाय में से कोनो एक ओकरा के छुड़ातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "28a7ffe09a56485bef6b6209ef777444e3baaf7d109136ccd0b572894270db24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/25\/45-48.1791990427890.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "पाछे"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "बेचल जाए के"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "छुड़ावे के अधिकार"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "कोनो एक"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "ओकर भाय में से"
+    },
+    {
+      "surface": "יגאלנו",
+      "gloss": "ओकरा के छुड़ातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:07:07.891219070Z",
+  "model": "glm-5.3"
+}

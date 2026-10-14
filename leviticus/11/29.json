@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 11:29",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הצב",
+      "rationale": "छिपकली-बड़का बनाम कछुआ — KJV 'tortoise', ASV\/JPS 'great lizard'"
+    },
+    {
+      "kind": "addition",
+      "subject": "हअ",
+      "rationale": "इब्रानी में क्रिया-योजक नञ हइ; मगही के जरूरत"
+    }
+  ],
+  "translation": "आउ ई तोहनी बर मैला हअ रेंगे वाला जीव-जंतु में, जे धरती पर रेंगऽ हअ: नेवला आउ मूस आउ छिपकली-बड़का, अपन जाति के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0e1ef9d19747433d9529591c3d70b7823aafe512cf4a495f34251f2bbf4d30ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/11\/29-32.1791989784061.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "आउ ई"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "मैला"
+    },
+    {
+      "surface": "בשרץ",
+      "gloss": "रेंगे वाला जीव-जंतु में"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "जे रेंगऽ हअ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "החלד",
+      "gloss": "नेवला"
+    },
+    {
+      "surface": "והעכבר",
+      "gloss": "आउ मूस"
+    },
+    {
+      "surface": "והצב",
+      "gloss": "आउ छिपकली-बड़का"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "अपन जाति के मोताबिक"
+    }
+  ],
+  "timestamp": "2026-10-14T14:56:24.062337318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "इब्रानी में क्रिया नञ हइ; खाली गिनती के टुकरा हकइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "census-total",
+      "rationale": "मनशे के कुल के सैनिक गिनती — बत्तीस हजार दू सौ"
+    }
+  ],
+  "translation": "ओकनी के गिनल गिनती मनशे के कुल बर — बत्तीस हजार आउ दू सौ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6f5e098990f847ae9956c71d9dc885da0003a9457309993b8676fde891e66a8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/1\/33-36.1791990496170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ओकनी के गिनल गिनती"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "के कुल बर"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनशे"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आउ तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "आउ दू सौ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:08:16.171562762Z",
+  "model": "glm-5.3"
+}

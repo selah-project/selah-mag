@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 16:25",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעיני יהוה",
+      "rationale": "‘यहवे के आँखि में’ — इब्रानी के चाल जस के तस रखल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעשׂ הרע \/ וירע",
+      "rationale": "‘बुराई करलक’ आउ ‘बुराई करलक’ — इब्रानी के जड़-रूप ढेर दोहरावल मगही में ढेर नञ देखावऽ सकऽ हइ।"
+    }
+  ],
+  "translation": "आउ ओमरी यहवे के आँखि में बुराई करलक, आउ अपने से पहिले सब से बेसी बुराई करलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "939bd009f89512b3d7e7075ff247f72c6a1905eb4b5f64115c937143d4b38774",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/16\/25-28.1791997337956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "करलक"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "ओमरी"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखि में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "बुराई करलक"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब से बेसी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "अपने से पहिले"
+    }
+  ],
+  "timestamp": "2026-10-14T17:02:17.957232589Z",
+  "model": "glm-5.3"
+}

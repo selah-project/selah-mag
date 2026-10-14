@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 8:3",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שירות",
+      "rationale": "'songs' (KJV\/ASV) vs 'songstresses' (YLТ, feminine plural); rendered 'गीत सब'."
+    },
+    {
+      "kind": "elision",
+      "subject": "הס",
+      "rationale": "Interjection 'hush!' kept as a bare cry — चुप! — no verb attaches it."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השליך הס",
+      "rationale": "Throw… hush: bodies cast out with silence; the clipped final word enacts the silence."
+    }
+  ],
+  "translation": "आउ ओही दिन महल के गीत सब विलाप बन जातइ — यहवे के बचन, अदोनाय यहवे — लास ढेर होतइ, हर जगह ओकनी के फेंक देल जातइ — चुप!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "10ec73eb39d32b7962da45acc33df79fcc10d9761653ff1086b4565ed91f7928",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/8\/1-4.1792003561508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והילילו",
+      "gloss": "विलाप बन जातइ"
+    },
+    {
+      "surface": "שירות",
+      "gloss": "गीत सब"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "महल"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "यहवे के बचन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "הפגר",
+      "gloss": "लास"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "फेंक देल जातइ"
+    },
+    {
+      "surface": "הס",
+      "gloss": "चुप!"
+    }
+  ],
+  "timestamp": "2026-10-14T18:46:01.509844148Z",
+  "model": "glm-5.3"
+}

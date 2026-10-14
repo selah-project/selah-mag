@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 8:8",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एतना…कि",
+      "rationale": "इब्रानी के बनावट खाली 'लम्बा भेलन' कहऽ हइ; मगही के परति-सम्बन्ध (एतना…कि) जोड़ल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויארכו",
+      "rationale": "'ओकनी लम्बा कइलन' (डण्डा खींचलन) बनाम 'डण्डा लम्बा भेलन' (एतना लम्बा रहन) — क्रिया के करता पुरोहित या डण्डा स्वयं, दूनो पढ़ाहइं।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ढेर के लम्बाई",
+      "rationale": "डण्डा सब के लम्बाई आउ देखाय के जगह के सुनिश्चित माप — जगह के विवरण।"
+    }
+  ],
+  "translation": "आउ डण्डा सब एतना लम्बा भेलन कि डण्डा सब के सिरा पवित्तर जगह से दबीर के सामने देखायलन, बाहिर नञ देखायल; आउ ओकनी ओहाँ ई दिन तक रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/8\/5-8.1791997039098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויארכו",
+      "gloss": "लम्बा भेलन"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "डण्डा सब"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "देखायलन"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "सिरा"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "डण्डा सब के"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्तर जगह"
+    },
+    {
+      "surface": "על",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "दबीर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "देखायल"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहाँ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T16:57:19.099607836Z",
+  "model": "glm-5.3"
+}

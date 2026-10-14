@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 11:14",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויצילוה",
+      "rationale": "क्रिया एक-बचन हकइ (एलेआजर अकेले?) बाकि 'ओकनी' पढ़ालक — तीन\/तीस के गिनती के संग बहुबचन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תשועה ऒדולה",
+      "rationale": "'बड़ा बचाव' — काहे कि यहवे के बचाव नञ 'विजय' (बाद के सब्द)।"
+    }
+  ],
+  "translation": "आउ ओकनी ओहि खेत के टुकड़ा के बीच में ठाढ़ भेलन आउ ओकरा बचइलन, आउ ⟨את⟩ पलिश्ती के मारलन, आउ यहवे एक बड़ा बचाव बचइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "22d440ec4a6060a87c4b2926313b4cea8703a87c3fe8834e7183dd762b571829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/11\/13-16.1792010082960.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתיצבו",
+      "gloss": "आउ ठाढ़ भेलन"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "खेत के टुकड़ा"
+    },
+    {
+      "surface": "ויצילוה",
+      "gloss": "आउ ओकरा बचइलन"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "आउ मारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पलिश्ती"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "आउ बचइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "बचाव"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "बड़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:34:42.961038085Z",
+  "model": "glm-5.3"
+}

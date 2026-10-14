@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "लोग",
+      "rationale": "मगही बहुबचन बर हथिन\/लोग चाही; इब्रानी में खाली मल्के"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "हिज्किय्याहू यहवे के अरदी करऽ हथिन, सीधा सम्बोधन"
+    }
+  ],
+  "translation": "सचमुच, यहवे, अस्सूर के राजा लोग जाति सब के ⟨את⟩ आउ ⟨את⟩ ओकनी के धरती के उजाड़ देने हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a1fec169dc978f33dfee8ceead9ce6e58419f54d30237224155216646c196cc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/19\/17-20.1791998320990.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "उजाड़ देने हथिन"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजा लोग"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जाति सब के"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जाति सब के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के धरती के"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ओकनी के धरती के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:18:40.991321793Z",
+  "model": "glm-5.3"
+}

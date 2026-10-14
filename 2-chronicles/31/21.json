@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 31:21",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לדרש",
+      "rationale": "דרש के अरथ हकइ 'तलास में जाना \/ परति पूछना' — खोज में लेल गेल, 'पूछना' के अरथ हटा गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सफल भेलन",
+      "rationale": "הצליח के सुभाविक चित्र हकइ 'आगू धकेलल' — सफलता के सामान्य अरथ लेल गेल।"
+    }
+  ],
+  "translation": "आउ हर काम में जे ऊ एलोहीम के घर के सेवा में, आउ तोरा में, आउ आज्ञा में, अपन एलोहीम के खोज में सुरू करलन, ऊ सब पूरा हिरदय से करलन आउ सफल भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4f9399388430f5665605eb5258930d11e10034053424d14bbb1968977b86f107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/31\/21-21.1792011265494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "आउ हर काम में"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "החל",
+      "gloss": "सुरू करलन"
+    },
+    {
+      "surface": "בעבודת",
+      "gloss": "सेवा में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "ובתורה",
+      "gloss": "आउ तोरा में"
+    },
+    {
+      "surface": "ובמצוה",
+      "gloss": "आउ आज्ञा में"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "खोज में"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "अपन एलोहीम के"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "हिरदय से"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करलन"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "आउ सफल भेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:54:25.494593658Z",
+  "model": "glm-5.3"
+}

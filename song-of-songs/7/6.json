@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 7:6",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רהטים",
+      "rationale": "मूल अरथ 'पानी के नहर\/गड्ढा-जड़' — समानान्तर लट के चित्र; मगही में 'नहर' के चित्र गुम भेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כארגמן",
+      "rationale": "'अरगमान' (जामुनी रंग के महँगा कपड़ा) के 'जामुनी' धरल गेलइ; बहुमूल्य कपड़ा के भाव बचल हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के तुलना-बाक्य बर जोड़ल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "प्रेमिका के दने",
+      "rationale": "पद सीधे प्रेमिका के सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "तोहर मूड़ी तोहर ऊपर करमेल जइसन ⟨हकइ⟩, आउ तोहर मूड़ी के लट जामुनी जइसन; राजा ओहि लटन में बान्हल गेलन हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a181a055b19fd07dfd587e8d08275d42b2f1ad3a7756503aa6fd1450fcc04779",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/7\/5-8.1792008086804.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשך",
+      "gloss": "तोहर मूड़ी"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहर ऊपर"
+    },
+    {
+      "surface": "ככרמל",
+      "gloss": "करमेल जइसन"
+    },
+    {
+      "surface": "ודלת",
+      "gloss": "आउ लट"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "तोहर मूड़ी के"
+    },
+    {
+      "surface": "כארגמן",
+      "gloss": "जामुनी जइसन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "बान्हल गेलन हकइ"
+    },
+    {
+      "surface": "ברהטים",
+      "gloss": "लटन में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:01:26.805490796Z",
+  "model": "glm-5.3"
+}

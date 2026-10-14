@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ערב ובקר וצהרים",
+      "rationale": "दिन के तीन ओहि के सूची — त्रिक-ढाँचा, मगही में एहे तीन ठाम रहलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "के ओहि",
+      "rationale": "इब्रानी में समय-उपबोधक नञ हकइ; मगही के चाही।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צהרים",
+      "rationale": "दुअल रूप — दू इँजोर — दुपहरी; आकार के हिसाब रखल गेलइ।"
+    }
+  ],
+  "translation": "साँझ आउ भोर आउ दू-इँजोर (दुपहरी) के ओहि हम बिचार करऽ हइ आउ गुँजारऽ हइ, आउ ऊ हमर बोली सुनलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "03089fa690ceb4cc390aed7e37234b2d852d3d45d6ac9677d04381b2078298d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/55\/18-19.1792012035350.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "आउ भोर"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "आउ दू-इँजोर (दुपहरी)"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "हम बिचार करऽ हइ"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "आउ गुँजारऽ हइ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "आउ ऊ सुनलन"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "हमर बोली"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:15.351091729Z",
+  "model": "glm-5.3"
+}

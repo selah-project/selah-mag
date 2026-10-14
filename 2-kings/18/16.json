@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "काटलन ⟨את⟩ दुआरी आउ ⟨את⟩ खम्भा",
+      "rationale": "इब्रानी के शब्दशः काटलक दुआरी आउ खम्भा; KJV आउ JPS 'दुआरी से सोना' पढ़ऽ हइ, YLT आउ विक्लिफ दुआरी के काटले के — दुनो पाठ मौजूद हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האמנות",
+      "rationale": "इब्रानी 'आधार-स्तम्भ' (दुआर के चौखट के खम्भा) — JPS 'दुआर-के-चौखट', अउर 'खम्भा' सादां रूप लेल गेलइ।"
+    }
+  ],
+  "translation": "ओही समय में हिज्कियाह यहवे के मन्दिर के ⟨את⟩ दुआरी आउ ⟨את⟩ खम्भा जेकरा हिज्कियाह, यहूदा के राजा, मढ़लन हल, काटलन आउ अस्सूर के राजा के देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "43c029305de39882329eef63c978ccf8794fea6d3bbac64af55232c566b08ba1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/18\/13-16.1791998213029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "काटलन"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "हिज्कियाह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दुआरी"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "दुआरी (पट्टा)"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "मन्दिर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "खम्भा"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "खम्भा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "मढ़लन"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "हिज्कियाह"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "आउ देलन"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:16:53.030662114Z",
+  "model": "glm-5.3"
+}

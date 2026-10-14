@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 7:8",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी में क्रिया-संबंध गायब हइ; मगही बाक्य बर क्रिया जोड़ल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "साठ आउ पाँच बरिस",
+      "rationale": "एप्रैम के टूटने के तय समय — गिनती के भबिसवाणी"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראש … ראש",
+      "rationale": "'मूड़ी' के दोहराव — अराम के मूड़ी दमिसक, दमिसक के मूड़ी रत्सिन — चक्रीय बनावट"
+    }
+  ],
+  "translation": "काहे कि अराम के मूड़ी दमिसक ⟨हइ⟩, आउ दमिसक के मूड़ी रत्सिन ⟨हइ⟩; आउ अबहीँ के साठ आउ पाँच बरिस में एप्रैम कुचल जातइ जाति से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "640d8293190f272fabcdc0aea2c767908b701cef362e9b29327a6f23c4f7ae4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/7\/5-8.1791998629653.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मूड़ी"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "दमिसक"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "आउ मूड़ी"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "दमिसक"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "रत्सिन"
+    },
+    {
+      "surface": "ובעוד",
+      "gloss": "आउ अबहीँ के"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "साठ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आउ पाँच"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "कुचल जातइ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एप्रैम"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "जाति से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:23:49.654103263Z",
+  "model": "glm-5.3"
+}

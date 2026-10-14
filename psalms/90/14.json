@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हम",
+      "rationale": "किरिया के करता हिब्रू में किरिया-रूप में छिपल हकइ; मगही के अलग सर्बनाम चाही।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सब दिन",
+      "rationale": "जीवन के दिनन के गिनती पर खड़ल बात — पद 12 के 'दिन गिनऽ' के जवाब।"
+    }
+  ],
+  "translation": "भोर में हमनी के अपन हेसेद से तृप्त कर, तब ⟨हम⟩ सब दिन हमनी के गीत गाबऽ आउ खुश होबऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3f225827a7058d87ddbce5c0afd9998834a95364ffe8d8a857f9b9b5d5eaaff4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/90\/13-16.1792005722834.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "हमनी के तृप्त कर"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "भोर में"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "अपन हेसेद से"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "गीत गाबऽ"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "आउ खुश होबऽ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:02.835355318Z",
+  "model": "glm-5.3"
+}

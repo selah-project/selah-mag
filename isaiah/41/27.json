@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 41:27",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראשון לציון",
+      "rationale": "syntax debated: 'I first said to Zion' (speaker = YHWH), 'I am the first to say to Zion', or 'a first one to Zion' — no explicit subject in Hebrew"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הנם",
+      "rationale": "'behold them' — likely the fulfilled words\/predictions now visible, or the coming deliverer; left undeclared as Hebrew does"
+    }
+  ],
+  "translation": "पहिले हम त्सियोन ल कहलन — देखऽ, देखऽ ओकनी के; आउ यरूशलयिम के सुख-समाचार बतावइ वाला हम देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/41\/25-28.1791999488515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשון",
+      "gloss": "पहिले"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "त्सियोन ल"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "देखऽ ओकनी के"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "आउ यरूशलयिम के"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "सुख-समाचार बतावइ वाला"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "हम देतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:38:08.516722444Z",
+  "model": "glm-5.3"
+}

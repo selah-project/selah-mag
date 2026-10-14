@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 3:14",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פקדי\/ופפקדתי",
+      "rationale": "एके क्रिया दू बेर — जे दिन हम देखब ओहे दिन देखब: पाप आउ सजा एके सब्द में।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פקד",
+      "rationale": "'देखब' लेलक — पקד के अरथ 'visit\/punish' बनाम 'muster' दूनो हकइ; इहाँ दन्ड के अरथ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ביום",
+      "rationale": "निश्चित दिन के गिनती — दन्ड के दिन तय हकइ।"
+    }
+  ],
+  "translation": "काहे कि जे दिन हम यिस्राएल के पाप के ⟨ओकरा⟩ दने देखब, ओहे दिन हम बेत एल के बेदी सब पर देखब, आउ बेदी के सिङग सब काट देल जइतै आउ ऊ धरती पर गिरतै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ed21941dff667967c348f60471a59a030eb60f87c9bd76e8e2b04e1793724f41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/3\/13-15.1792003410690.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "जे दिन"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "हम देखब"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "के पाप"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨ओकरा⟩ दने"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "आउ हम देखब"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "बेदी सब"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ונגדעו",
+      "gloss": "आउ काट देल जइतै"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "के सिङग सब"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "आउ गिरतै"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती पर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:43:30.691298286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 16:26",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בהבליהם",
+      "rationale": "הבल = ‘वाष्प \/ व्यर्थ’; ‘व्यर्थ चीज सब’ लेल गेल — ‘झूठ देवता’ परति-अरथ होतइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "להכעיס",
+      "rationale": "मूल ‘गुस्सा दिखावै \/ खीझावै’ के ढाँचा हकइ; ‘गुस्सा भढ़ावै’ लिखल गेल।"
+    }
+  ],
+  "translation": "काहे कि ऊ नबात के बेटा यारबाम के सगरा रस्ता पर चललक आउ ओकरा पाप सब में, जेकरा से ऊ ⟨את⟩ यिस्राएल के पाप कराबैलक — यिस्राएल के एलोहीम यहवे के ⟨את⟩ ओकनी के व्यर्थ चीज सब से गुस्सा भढ़ावै बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "939bd009f89512b3d7e7075ff247f72c6a1905eb4b5f64115c937143d4b38774",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/16\/25-28.1791997337956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "चललक"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सगरा"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता पर"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यारबाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "नबात"
+    },
+    {
+      "surface": "ובחטאתיו",
+      "gloss": "आउ ओकरा पाप सब में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा से"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "पाप कराबैलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "गुस्सा भढ़ावै बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "ओकनी के व्यर्थ चीज सब से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:02:17.957476845Z",
+  "model": "glm-5.3"
+}

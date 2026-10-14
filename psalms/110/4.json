@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "मन बदलतइ",
+      "rationale": "यिनहम: परमात्मा के बर 'मन बदलना\/पछतावा' — कथात्मक अरथ में लेल गेल, जइसन पद अनुवादक करऽ हथिन"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "माल्की-त्सेदेक",
+      "rationale": "नाम के साफ अरथ 'हमर राजा त्सेदेक' या 'त्सेदेक (नियाव) के राजा' — त्सेदेक के जड़ वाचा में फिर गूँजऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "तूँ सदा बर पुरोहित",
+      "rationale": "यहवे के शपथ ओही मालिक के संबोधित हकइ जेकरा पद 1 मे कहल गेलन"
+    }
+  ],
+  "translation": "यहवे शपथ लेलन आउ ⟨मन⟩ नञ बदलतइ — तूँ सदा बर पुरोहित हऽ, माल्की-त्सेदेक (मेल्चिसेदेक) के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/110\/1-4.1792006003466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "शपथ लेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "मन बदलतइ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "על",
+      "gloss": "मोताबिक"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "के तरह"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "माल्की"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "त्सेदेक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:43.467753949Z",
+  "model": "glm-5.3"
+}

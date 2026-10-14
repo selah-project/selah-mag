@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 23:14",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "जंगल",
+      "rationale": "מדבर चरागाह-जैसन उजाड़ धरती हकइ; मगही में 'जंगल' (उजाड़ बन-जंगल) निकटतम सुभाविक सब्द।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישב ... ׵ישב",
+      "rationale": "'रहलन ... रहलन' — बसे के दोहराव, हिब्रू के धमक बने रहलइ।"
+    }
+  ],
+  "translation": "आउ दाविद जंगल में, गढ़ सब में रहलन, आउ पहाड़ में, जंगल जिफ में रहलन; आउ शाउल सब दिन ओकरा खोजलक, बाकि एलोहीम ओकरा ओकर हाथ में नञ देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d8ee7a5b5657a48cc84dd20194200d35b734398fcd4464d00879abda6a4218cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/23\/13-16.1791995516487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "गढ़ सब में"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ में"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "जिफ"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "ओकरा खोजलक"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि ... नञ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ओकर हाथ में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:31:56.488020848Z",
+  "model": "glm-5.3"
+}

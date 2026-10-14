@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऐसन",
+      "rationale": "मिस्रयिम-शैली के अनन्त प्रश्न के संग मगही के अपेक्षित संबंध-शब्द जोड़ल गेलै"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשר",
+      "rationale": "כל בשर 'सब मांस' — मनुसजाति के कमजोर-मरनशील अवस्था, खाली शरीर नहीं"
+    }
+  ],
+  "translation": "काहे कि सब मांस में कोनो ⟨ऐसन⟩ हकइ जे जीवत एलोहीम के बोली — आग के बीच से बोलैत — हमनी जइसन सुनलक होवे आउ जियत रहलक होवे?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d762a56b61737f74e76d63905a84f0ecd1638d7fe2bead7c661b50d10b77b28c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/5\/25-28.1791992125683.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलक होवे"
+    },
+    {
+      "surface": "קול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवत"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोलैत"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "बीच से"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "हमनी जइसन"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "आउ जियत रहलक होवे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:35:25.684198140Z",
+  "model": "glm-5.3"
+}

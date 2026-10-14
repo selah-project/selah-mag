@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 18:22",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הגדל \/ הקטן",
+      "rationale": "बड़का-छोटका के सामना — बोझ बाँटे के बनावट, मगही में जोड़ी बचलइ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "והקל",
+      "rationale": "'हल्का करबे' — कर्ता ऊ सरदार हथिन या यहवे, दूनो पढ़ावा परम्परा में चलऽ हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "בכל עת",
+      "gloss-context": "अनुवाद में दू टोकन के एकठा 'हर समय' कइल गेलइ"
+    }
+  ],
+  "translation": "आउ ऊ हर समय ⟨את⟩ लोग के नियाव करबे; आउ होतइ कि हरेक बड़का मामला ऊ तोहरा लाबे, बाकि हरेक छोटका मामला के ऊ खुद नियाव करबे; आउ एकरा से तोहर बोझ हल्का होतइ, आउ ऊ ⟨את⟩ तोहर संग ⟨अपन⟩ बोझ उठाबे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "85a8c5fa058ad4f40a39c13d40b4c4cb6914fd8dd8ad14fda21132dae84ff053",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/18\/21-24.1791988596429.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "आउ ऊ नियाव करबे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर समय"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "मामला"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "बड़का"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "ऊ तोहरा लाबे"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा लाबे"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "बाकि हरेक"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "मामला"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "छोटका"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "नियाव करबे"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ऊ खुद"
+    },
+    {
+      "surface": "והקל",
+      "gloss": "आउ हल्का होतइ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "तोहर बोझ से"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "आउ ऊ उठाबे"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तोहर संग ⟨अपन⟩ बोझ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:36:36.430681844Z",
+  "model": "glm-5.3"
+}

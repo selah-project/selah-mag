@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "तूँ",
+      "rationale": "बाबिल\/लुटेरा के सीधा सम्बोधन — हाय-बात के भीतर"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש गला\/परान-बल हकइ; 'परान पाप कइलक' के मतलब JPS जइसन 'परान गँवइलक' भी होवऽ हइ"
+    }
+  ],
+  "translation": "तूँ अपन घर बर शरम के सलाह बनइलक — बड़हन लोग के काट के — आउ अपन परान पाप कइलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "26598228e083b9607a95e47a0fc940e2091217005aaac09c1fc9621c204cfcb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/habakkuk\/2\/9-12.1792003812557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "सलाह बनइलक"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "शरम के"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "अपन घर बर"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "काट के"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बड़हन"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "आउ पाप कइलक"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "अपन परान"
+    }
+  ],
+  "timestamp": "2026-10-14T18:50:12.557908443Z",
+  "model": "glm-5.3"
+}

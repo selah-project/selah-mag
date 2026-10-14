@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 21:15",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חליים\/מחלה\/החלי",
+      "rationale": "एके जड़ तीन बेर — बिमारी के शब्द के दोहराव, पूरा पद के रचना एही पर टिकल हे।"
+    },
+    {
+      "kind": "addition",
+      "subject": "बला",
+      "rationale": "במחלה के जड़ता देखावे बर जोड़ल रूप, इब्रानी में ई संज्ञा-बदला संरचना हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहोराम",
+      "rationale": "सम्बोधन राजा यहोराम के जारी रहलइ हे।"
+    }
+  ],
+  "translation": "आउ तूँ कतेक बिमारी में पड़तँ, आँतड़ी के बेमारी बला, जोगऽ ते जे ओही बिमारी से दिन पर दिन तोहर आँतड़ी बाहर निकलतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dc7d31334c26c685bb3e679cd688844f98087536acac562d02c231e29de5f308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/21\/14-15.1792012233749.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "בחליים",
+      "gloss": "बिमारी में"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "कतेक"
+    },
+    {
+      "surface": "במחלה",
+      "gloss": "बेमारी बला"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "आँतड़ी के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जोगऽ ते"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "बाहर निकलतइ"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "तोहर आँतड़ी"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "ओही बिमारी"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T21:10:33.749916939Z",
+  "model": "glm-5.3"
+}

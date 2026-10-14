@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 5:21",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שׁוֹט\/לָשׁוֹן",
+      "rationale": "चाबुक-जुबान के जोड़ी — जुबाने चाबुक के काम करऽ हइ; मगही में एहन जोड़ी नञ गढ़ल जाए।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שֹׁד",
+      "rationale": "पद 21 आउ 22 में שׁד के दोहराव — एके शब्द दू जगह; अनुवाद में 'उजाड़वा' एके रहल।"
+    }
+  ],
+  "translation": "जुबान के चाबुक से तूँ छुपल रहबऽ, आउ उजाड़वा से डरबऽ नञ, जबऊ ओकरा आवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "325f672c65ba168587457e0045b3f75e41c77dfda36e1be0051939b904abf201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/5\/21-24.1792007207169.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשוט",
+      "gloss": "चाबुक से"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जुबान के"
+    },
+    {
+      "surface": "תחבא",
+      "gloss": "छुपल रहबऽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ ... नञ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डरबऽ"
+    },
+    {
+      "surface": "משד",
+      "gloss": "उजाड़वा से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जबऊ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आवऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:46:47.169749220Z",
+  "model": "glm-5.3"
+}

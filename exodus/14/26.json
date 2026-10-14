@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आवतइ",
+      "rationale": "हिब्रू उद्देश्य-रूप के भाबिस किरिया; मगही में किरिया जोड़ल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "רכבו \/ ׫רשיו",
+      "rationale": "רכב ‘रथ-सवार सेना’ आउ ׫רश ‘घुड़सवार’ — बहुत अनुवाद दुनू के उलटा दे देवऽ हइ।"
+    }
+  ],
+  "translation": "आउ यहवे मोशे (मूसा) से कहलन, “⟨את⟩ अपन हाथ समुंदर के ऊपर फैला, आउ पानी मिस्रयिम (मिस्र) के ऊपर, ओकर घुड़सवारन के ऊपर आउ ओकर रथन के ऊपर फेर आवतइ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2ac2b3fe7f019dbddc1aaaf7ee6be50b4ab62a4104c7e1167c559faaa6a0dca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/14\/25-28.1791988419002.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "फैला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन हाथ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "अपन हाथ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "आउ फेर आवतइ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ओकर घुड़सवार"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ के ऊपर"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "ओकर रथ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:33:39.003533629Z",
+  "model": "glm-5.3"
+}

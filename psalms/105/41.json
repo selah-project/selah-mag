@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बनिके",
+      "rationale": "Hebrew juxtaposes without simile word; 'like a river' supplied"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתח…ויזובו",
+      "rationale": "open\/flow sequence echoes Exod 17:6 and Num 20:11"
+    }
+  ],
+  "translation": "ऊ पत्थल खोललन आउ पानी बह निकलल; सूखा जगहजा में नदी बनिके चलल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/105\/41-44.1792005864290.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "खोललन"
+    },
+    {
+      "surface": "צור",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "आउ बह निकलल"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "चलल"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "सूखा जगहजा में"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "नदी बनिके"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:24.291522313Z",
+  "model": "glm-5.3"
+}

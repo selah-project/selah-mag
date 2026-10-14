@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הצדיקו\/הצדיק · הרשיעו\/הרשע",
+      "rationale": "किरिया आउ करम एके जड़ के — सही ठहरावऽ सही बेकारूफ बर — ई जोड़ी मगही में बरतरखल हे।"
+    },
+    {
+      "kind": "addition",
+      "subject": "तब",
+      "rationale": "इब्रानी पाठ वा-बिरती के बहुवचन किरिया के बाद जोड़ देलक, मगही के बाक्य-बनावट चाहऽ हइ।"
+    }
+  ],
+  "translation": "जब आदमी सब के बीच झगड़ा होतइ आउ ओकनी नियाव ⟨के पास⟩ अवऽ हइ आउ ओकनी के नियाव होतइ, तब ओकनी ⟨את⟩ सही आदमी के सही ठहरातइ आउ ⟨את⟩ बुरा आदमी के बुरा ठहरातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dfaf0a3c3caf3a7e56df34ddf9e6006e7bc3096da424490e144aa2b777e6b08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/25\/1-4.1791992723683.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "झगड़ा"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "आदमी सब"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "अवऽ हइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨के पास⟩"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "ओकनी के नियाव होतइ"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "सही ठहरातइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सही आदमी के"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "सही आदमी"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "बुरा ठहरातइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बुरा आदमी के"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "बुरा आदमी"
+    }
+  ],
+  "timestamp": "2026-10-14T15:45:23.684607448Z",
+  "model": "glm-5.3"
+}

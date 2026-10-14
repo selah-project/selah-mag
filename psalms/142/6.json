@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रार्थना सीधे यहवे से बोलल गेलइ हे"
+    },
+    {
+      "kind": "addition",
+      "subject": "हउ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही के बाक्य के हउ चाही"
+    }
+  ],
+  "translation": "हम तोहनी ओत्ते चीखलियन, यहवे; हम कहलियन — तोहनी हमर ठिकाना हउ, हमर हिस्सा जीवे वाला के धरती में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/142\/5-8.1792006331033.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "चीखलियन"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहनी ओत्ते"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "हम कहलियन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "हमर ठिकाना"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "हमर हिस्सा"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवे वाला के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:32:11.033729800Z",
+  "model": "glm-5.3"
+}

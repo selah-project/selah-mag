@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משגב … משגב",
+      "rationale": "एके सब्द के दोहराव — चट्टान\/ऊँच जगह के तस्वीर, मगही में दोहराव रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משגב",
+      "rationale": "शाब्दिक अरथ ऊँच चट्टान\/अगम ऊँच जगह; ठिकाना के साथ ऊँच जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ यहवे दबाएल लोग बर ऊँच-ठिकाना हतइ, मुसीबत के समय में ऊँच-ठिकाना।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9a0855fdb81753b149b2408f8975a12bebd5998c0a8072e84db230f89537978c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/9\/9-12.1792004524893.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ हतइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ऊँच-ठिकाना"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "दबाएल लोग बर"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ऊँच-ठिकाना"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "मुसीबत के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:04.893874979Z",
+  "model": "glm-5.3"
+}

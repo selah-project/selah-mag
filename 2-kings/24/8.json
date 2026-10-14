@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 24:8",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שמנה עשרה",
+      "rationale": "Hebrew says 'eight ten' — two separate number words; Magahi has the single word अठारह."
+    },
+    {
+      "kind": "measurement",
+      "subject": "accession formula",
+      "rationale": "Age at accession and length of reign — three months — counted in the standard royal formula."
+    },
+    {
+      "kind": "addition",
+      "subject": "राजा बनलक",
+      "rationale": "במלכו is 'in his reigning'; Magahi needs a finite verb phrase."
+    }
+  ],
+  "translation": "अठारह बरिस के बेटा यहोयाकिन राजा बनलक, आउ ऊ तीन महीना यरूशलयिम में राज करलक; आउ ओकर माय के नाम नहुस्ता हलइ — यरूशलयिम के एलनातान के बेटी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "25500331242e159b87f49990c25ba157964d768134811039ff73771d5f0b73d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/24\/5-8.1791998532871.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(आठ-पर)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "यहोयाकिन"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "राजा बनलक"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "आउ तीन"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "महीना"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज करलक"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "आउ नाम"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ओकर माय के"
+    },
+    {
+      "surface": "נחשתא",
+      "gloss": "नहुस्ता"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "एलनातान"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "यरूशलयिम के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:22:12.872837616Z",
+  "model": "glm-5.3"
+}

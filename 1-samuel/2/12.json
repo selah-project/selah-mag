@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बेलियाल",
+      "rationale": "בליעल शाब्दिक 'बेकार\/निकम्मा' — KJV नाम जस के तस रखलक; ASV 'base men' अनुवाद कइलक"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני…בני",
+      "rationale": "'बेटा… बेटा' के दोहराव — बिपरीत पहचान बतावै बर रूपक"
+    }
+  ],
+  "translation": "आउ एली के बेटा बेलियाल के बेटा हलथिन; ऊ ⟨את⟩ यहवे के नञ जानथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/2\/9-12.1791994720644.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आउ …के बेटा"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "एली"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "बेलियाल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "जानथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:18:40.646170107Z",
+  "model": "glm-5.3"
+}

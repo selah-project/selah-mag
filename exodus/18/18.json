@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 18:18",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבל תבל",
+      "rationale": "Infinitive absolute intensifying the verb — 'wearing away you will surely wear away' — Magahi 'निस्चित थक थक जबइ' keeps only part of the doubling."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "Jethro continues direct address warning Moses."
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "Hebrew verbless clause; Magahi copula supplied."
+    }
+  ],
+  "translation": "तूँ निस्चित थक जबइ — तूँ खुद, आउ ई लोग, जे तोहर संग हथिन — काहे कि ई बात भारी हकइ, तोहर बोझ बेसी; अकेले तूँ एकरा नञ कर पाबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "904584ff265917df7da43c1dd71bb2889f05b0fdfe3ce740ed80cf750d7055db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/18\/17-20.1791988587077.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבל",
+      "gloss": "निस्चित थक"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "थक जबइ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "खुद"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहर संग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "भारी"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तोहर बोझ बेसी"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ई बात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "कर पाबइ"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "एकरा करबइ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "अकेले"
+    }
+  ],
+  "timestamp": "2026-10-14T14:36:27.078600149Z",
+  "model": "glm-5.3"
+}

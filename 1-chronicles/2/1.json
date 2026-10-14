@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "रहलन",
+      "rationale": "इब्रानी में क्रिया नञ हइ; सूची बाक्य बनावे बर मगही के क्रिया जोड़ल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "बेटा लोग के सूची",
+      "rationale": "गोत्र-सूची — नाम गिनतारा"
+    }
+  ],
+  "translation": "ई यिस्राएल के बेटा लोग रहलन: रूबेन, शिमोन, लेवी आउ यहूदा, यिस्साखार आउ ज़बुलून।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7992844fe8275e20f92f59a8ab6cef3eda2098ca62b4f832102ccab180f599b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/2\/1-4.1792009865285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "आउ यहूदा"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिस्साखार"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "आउ ज़बुलून"
+    }
+  ],
+  "timestamp": "2026-10-14T20:31:05.286294866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתו החל",
+      "rationale": "KJV 'ओही पहिला बेदी हलइ' बनाम YLT 'ओकरा ले ओकरा शुरू कइलन' — אתו के दुई पढ़ाई: 'ओकरा से' (एही बेदी से) चाहे 'पहिले' (एकरा पहिले)।"
+    }
+  ],
+  "translation": "आउ शाउल यहवे बर एक बेदी बनइलन; ⟨אתו⟩ से ओकरा शुरू कइलन — यहवे बर बेदी बनावे के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7cfc32342f75de7eefb0b4a1fe01cd740a7d761113f124e06367fe259a58c17e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/14\/33-36.1791995304737.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "שאוײ",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा शुरू कइलन"
+    },
+    {
+      "surface": "החל",
+      "gloss": "शुरू कइलन"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनावे बर"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:28:24.738670225Z",
+  "model": "glm-5.3"
+}

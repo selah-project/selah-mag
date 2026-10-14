@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בקש את פני",
+      "rationale": "'मुँह खोजना' — दरबार में हाजिरी देवे के इब्रानी मुहावरा; 'मुँह देखे बेर आवऽ हलथिन' राखल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "लोग",
+      "rationale": "הארץ के साथ 'लोग' जोड़ल गेलइ — इब्रानी संज्ञा-प्रयोग के स्पस्टता बर।"
+    }
+  ],
+  "translation": "आउ पूरा धरती के लोग शलोमोह के ⟨मुँह⟩ देखे बेर आवऽ हलथिन, ओकर ओ समझ के सुने बर जेकरा एलोहीम ओकर हिरदय में देलन हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5f728de0c6fd16c5177883f32b3f7c392303070f915dd2313f65a93adfbce50a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/10\/21-24.1791996994399.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आउ पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के लोग"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "खोजऽ हलथिन \/ आवऽ हलथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शलोमोह के मुँह"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह के"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "सुने बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर समझ"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "ओकर समझ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन हलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ओकर हिरदय में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:56:34.400648908Z",
+  "model": "glm-5.3"
+}

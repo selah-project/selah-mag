@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 30:11",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "ई את-शब्दक H854 के 'संग' हकइ, चिन्हा-परिवार के DOM नञ — फेर भी ग्लॉस में ⟨את⟩ रखल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מובאים",
+      "rationale": "निष्क्रिय क्रिया — 'अनावल जातन'; इब्रानी एकरा एकै रूप में 'लावल' आउ 'आवत' दुनो कहऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלל",
+      "rationale": "חלल 'बिद्ध\/घायल' हकइ — इहाँ मारल लास के साँकेत; बिम्ब एकर तरास नञ।"
+    }
+  ],
+  "translation": "ऊ आउ ओकर लोग ⟨את⟩ ओकरा संग — जाति सब के दबंग — धरती के बरबाद करे बर अनावल जातन; आउ ओकनी अपन तलवार सब मिस्रयिम पर खींचतन, आउ ⟨את⟩ धरती के मारल लास सब से भर देतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "84ec8e9cc04b20a951864baceb3039f45ab69f39ebd8d1949733bf08086ec0e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/30\/9-12.1792002543562.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "आउ ओकर लोग"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकरा संग"
+    },
+    {
+      "surface": "עריצי",
+      "gloss": "दबंग"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब के"
+    },
+    {
+      "surface": "מובאים",
+      "gloss": "अनावल जातन"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "बरबाद करे बर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "והריקו",
+      "gloss": "आउ ओकनी खींचतन"
+    },
+    {
+      "surface": "חרבותם",
+      "gloss": "अपन तलवार सब"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "आउ भर देतन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "मारल लास सब"
+    }
+  ],
+  "timestamp": "2026-10-14T18:29:03.563909179Z",
+  "model": "glm-5.3"
+}

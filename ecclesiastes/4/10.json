@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואילו",
+      "rationale": "'हाय!' (विलाप) बनाम 'बाकि\/अब तो' (समय चिन्हा) — पुरान अनुवादक में फरक"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקים\/להקימו",
+      "rationale": "एके जड़ 'उठाना' दू बेर — दोसर उठावऽ हइ बनाम कोनो उठावेवाला नञ हकइ"
+    }
+  ],
+  "translation": "काहे कि जब एक गिरतइ, त ⟨ऊ⟩ ⟨את⟩ ओकर संगी के उठावऽ हइ; बाकि हाय ⟨हकइ⟩ — ओ अकेला, जे गिरतइ आउ ओकरा उठावे बर कोनो दोसर नञ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/4\/9-12.1792008339088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "गिरतइ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "उठावऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर संगी के"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ओकर संगी"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ओ अकेला"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "जे गिरतइ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ हकइ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "कोनो दोसर"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "ओकरा उठावे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:39.089578399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to यित्सहाक",
+      "rationale": "Abimelek directly addresses Isaac with the imperative जा."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעמנו \/ ממנו",
+      "rationale": "Twin prepositions 'from-with-us' and 'from-us' echo each other across the expulsion; Magahi repeats हमनी संग से to keep the clink."
+    }
+  ],
+  "translation": "आउ अबिमेलेख यित्सहाक (इसहाक) से कहलन — हमनी संग से जा, काहे कि तूँ हमनी संग से बहुते बलवान भेलऽ हऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b4f3de08bf0bbb1647629b76d03377d515a4a11c9993f68e0efa3e6f0b5758d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/26\/13-16.1791987020184.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अबिमेलेख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "संग से"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सहाक"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "हमनी संग से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "बलवान भेलऽ हऽ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "हमनी संग से"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-10-14T14:10:20.186055081Z",
+  "model": "glm-5.3"
+}

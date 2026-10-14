@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "רוח = बतास\/साँस\/भीतर के जीव — 'आत्मा' अकेली बात छोड़ियै रखऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחשב",
+      "rationale": "'गिनना' (हिसाब में जोड़ना) बनाम 'मानना' — इब्रानी के बुनकर-गिनती के तस्वीर"
+    }
+  ],
+  "translation": "केतना भाग्यवान ऊ मनुस जेकरा यहवे ओकर अधर्म नञ गिनऽ हइ, जेकर रूआख में कोनो छल नञ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "597c22f8483057877c4c741b33466b7b61002057e18ba7a0843808bc5ed6349b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/32\/1-4.1792004898972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "केतना भाग्यवान"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "गिनऽ हइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ हकइ"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ओकर रूआख में"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "छल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:08:18.972821886Z",
+  "model": "glm-5.3"
+}

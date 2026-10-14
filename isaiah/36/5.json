@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 36:5",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך דבר שפתים",
+      "rationale": "'खाली ओठ के बात' (याल्त, जेपीएस) बनाम 'हमरा कहनी हलइ' (जिनेवा) — इब्रानी के मतलब खुलल हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "चाही",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के पूरा बाक्य बर जोड़ल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "हिजकियाहू",
+      "rationale": "रबसाके हिजकियाहू के सीधे ताना मारऽ हथिन"
+    }
+  ],
+  "translation": "हमनी कहने के हिअइ — खाली ओठ के बात! युद्ध बर राय आउ बल ⟨चाही⟩ — अब तूँ केकरा भरोसा कएलक हे, काहे कि तूँ हमरा विरुद्ध बगी कएलक हे?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "41d676a5ef2f3a0e6b03ec7bfe7ae42995ac5b051b28f26855d4c9caf65334d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/36\/5-8.1791999398233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "हमनी कहने के हिअइ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ओठ के"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "राय"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "आउ बल"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "युद्ध बर"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "भरोसा कएलक हे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "बगी कएलक हे"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा विरुद्ध"
+    }
+  ],
+  "timestamp": "2026-10-14T17:36:38.234363263Z",
+  "model": "glm-5.3"
+}

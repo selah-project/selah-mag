@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך ריק",
+      "rationale": "पाठक दू बाँट हथिन: 'साँचमें बेकार' (in vain आगे) या 'खाली बेकार!' (संक्षिप्त विस्मय)।"
+    }
+  ],
+  "translation": "साँचमें बेकार हम निरमल करलियन हमरा हिरदय, आउ निर्दोसी में धोलियन हमर हाथ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/73\/13-16.1792005410322.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "साँचमें"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "बेकार"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "निरमल करलियन"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "हमरा हिरदय"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "आउ धोलियन"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "निर्दोसी में"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "हमर हाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:50.322937237Z",
+  "model": "glm-5.3"
+}

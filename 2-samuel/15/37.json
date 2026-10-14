@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 15:37",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "यबא",
+      "rationale": "JPS पछिला क्रिया के चलत: 'अइलक' के जगह 'अबैतै हलइ' (अाबे के ही रहलइ) दोसर पढ़ाई हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "में",
+      "rationale": "इब्रानी के थीब (directional ה) बिना मगही में 'नगर में' कहे के पड़लइ"
+    }
+  ],
+  "translation": "आउ दाविद (दाऊद) के संगी हूशाय नगर में अइलन, आउ अबशालोम यरूशलयिम (यरूशलेम) में अइलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "03d866abc018c4e79cac96fb8c30a6a637260b5549fd298280472b0403777b4c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/15\/37-37.1791996212318.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आउ अइलन"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "हूशाय"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "संगी"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "आउ अबशालोम"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "अइलक"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:43:32.319181902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 12:5",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "दू के जोड़ „बाकि … खाली” के अरथ देवे ला एक्के „बाकि” में घुलेलक"
+    },
+    {
+      "kind": "crux",
+      "subject": "लשכנו",
+      "rationale": "„ओकर निवास” (कुछ पढ़ाकू: मिश्कान के ओर संकेत) बनाम क्रम-बदल के पढ़ाई „उसके नाम के निवास”"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "पद यिस्राएल के सीधे आदेश में हकइ"
+    }
+  ],
+  "translation": "बाकि ओह जगह दने, जे यहवे तोहनी के एलोहीम तोहनी के सब गोत्र में से चुनतइ ⟨आपन⟩ नाम ओत्ते रखै बर — ⟨आपन⟩ निवास ला तोहनी ढूँढ़बा आउ ओत्ते जाबा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "762cebd8076c9fc225dcc4b7e78721d76d1c30caafbc4bfdb7495450afd79dde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/12\/5-8.1791992398588.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ओह जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "चुनतइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब … में से"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "तोहनी के गोत्र"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "रखै बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "आपन नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओत्ते"
+    },
+    {
+      "surface": "לשכנו",
+      "gloss": "आपन निवास"
+    },
+    {
+      "surface": "תדרשו",
+      "gloss": "तोहनी ढूँढ़बा"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "आउ जाबा"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओत्ते"
+    }
+  ],
+  "timestamp": "2026-10-14T15:39:58.588810688Z",
+  "model": "glm-5.3"
+}

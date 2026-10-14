@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בת היענה",
+      "rationale": "'यानाह के बेटी' — चिड़ैनी\/शुतुरमुर्ग पर मतभेद; असली बनावट (बेटी) जस के तस रखलन"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תחמס \/ שחף",
+      "rationale": "तखमास आउ शाखाफ पक्षी के नाम दुर्ला हकइ — सटीक प्रजाति अनिश्चित, एहे से लिप्यन्तरन"
+    },
+    {
+      "kind": "measurement",
+      "subject": "परति जाति अनुसार",
+      "rationale": "नेत्स बर 'ओकर जाति अनुसार' — सूची के गिनती-ढाँचा"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ यानाह के बेटी, आउ ⟨את⟩ तखमास, आउ ⟨את⟩ शाखाफ, आउ ⟨את⟩ नेत्स, ओकर जाति अनुसार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/11\/13-16.1791989687485.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "यानाह के बेटी"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "यानाह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तखमास"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "तखमास"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "शाखाफ"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "शाखाफ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "नेत्स"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "नेत्स"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ओकर जाति अनुसार"
+    }
+  ],
+  "timestamp": "2026-10-14T14:54:47.486714512Z",
+  "model": "glm-5.3"
+}

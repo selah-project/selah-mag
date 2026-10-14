@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "आठ सौ नबे आउ पाँच बरिस",
+      "rationale": "पितर-सूची के जीवन-अंक, संख्या जस के तस।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दिन",
+      "rationale": "इब्रानी ימי (दिन) जीवन-काल के चाल हकइ, 'सब दिन' = जीवन-भर।"
+    }
+  ],
+  "translation": "आउ महललेल के सब दिन अठ सौ नबे आउ पाँच बरिस भेलन, आउ ऊ मर गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0f9fcdc27e0ea950511b726779c8c4a8c0fb853fcfea413ac52ef66ed973d7fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/5\/17-20.1791986322099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भेलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "महललेल"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "आउ नबे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आउ अठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आउ मर गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T13:58:42.099720299Z",
+  "model": "glm-5.3"
+}

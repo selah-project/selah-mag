@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 27:22",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תכתוש \/ מכתש",
+      "rationale": "क्रिया 'कुटना' आउ 'खरल' एके जड़ के; मगही में ई अच्छर-मेल नञ बचऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "הריפות",
+      "rationale": "'खिलौना' (कुटल अनाज, जेपीएस\/एएसवी) बनाम 'धोवल चीज' (यल्त) — दुनु पढ़ावा चलन में हइ"
+    }
+  ],
+  "translation": "जदि तूँ ⟨את⟩ मूरख के खरल में, खिलौना के बीच, मूसल से कुटऽ, ओकर मूर्खता ओकरा से नञ हटतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "089b685c2516269e15c418bcd57debee709475f2cd6e2e5206c61eaa0805a22f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/27\/21-24.1792007034898.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जदि"
+    },
+    {
+      "surface": "תכתוש",
+      "gloss": "कुटऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मूरख"
+    },
+    {
+      "surface": "האויל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "במכתש",
+      "gloss": "खरल में"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "הריפות",
+      "gloss": "खिलौना के",
+      "marks": ""
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "मूसल से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "हटतइ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "ओकर मूर्खता"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:54.899456307Z",
+  "model": "glm-5.3"
+}

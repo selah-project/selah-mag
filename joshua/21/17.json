@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "घास-जमीन",
+      "rationale": "מגרש चराने के खुला जमीन हकइ; 'उपनगर' के आधुनिक अरथ मतलब बदल देतइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नगर-सूची",
+      "rationale": "लेवी के नगर के गिनती के घराना-घराना लिखावल जातइ"
+    }
+  ],
+  "translation": "आउ बिन्यामीन के कुल से ⟨את⟩ गिबओन आउ ⟨את⟩ ओकर घास-जमीन, ⟨את⟩ गेबा आउ ⟨את⟩ ओकर घास-जमीन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "59d9b2b9c0e3d9e0ea9345f8e4f5f5838b7424fb6537c7fe76a4d9fdad7e4408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/21\/17-20.1791993753544.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "कुल से"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गिबओन"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "गिबओन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर घास-जमीन"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "घास-जमीन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गेबा"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "गेबा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर घास-जमीन"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "घास-जमीन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:02:33.544988664Z",
+  "model": "glm-5.3"
+}

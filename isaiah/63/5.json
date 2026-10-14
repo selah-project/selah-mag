@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סומך\/סמכתני",
+      "rationale": "same root twice — none to uphold, yet wrath upheld me — the repetition carries the verse's irony"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואשתומם",
+      "rationale": "'I was stunned\/appalled' vs KJV 'I wondered' — the shock of finding no helper"
+    }
+  ],
+  "translation": "आउ हम गहरा देखलन त मदद करए वाला कोनो नञ हलइ; आउ हम चकित भेलन त सहारा देए वाला कोनो नञ हलइ; आउ हमर बाँह हमरा छुड़ायलन आउ हमर कोप — ऊहे हमरा सहारा देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "58f5760b0fc2985f12f047f01c9e8e5fce91c18602dbc44702070c5142a6427c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/63\/5-8.1791999956869.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "आउ हम गहरा देखलन"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "त कोनो नञ हलइ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "मदद करए वाला"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "आउ हम चकित भेलन"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "त कोनो नञ हलइ"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "सहारा देए वाला"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "आउ हमरा छुड़ायलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "हमर बाँह"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "आउ हमर कोप"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "हमरा सहारा देलक"
+    }
+  ],
+  "timestamp": "2026-10-14T17:45:56.869651447Z",
+  "model": "glm-5.3"
+}

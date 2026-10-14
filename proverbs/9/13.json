@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "עברית में copula नञ हइ, मगही के बाक्य बर जोड़ल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "כסילות",
+      "rationale": "जनाना के नाम ('मूरखता') बनाम गुण-विशेषण ('मूरख जनाना') — JPS\/BSB एकरा नाम लेतथिन"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתיות",
+      "rationale": "पद 16 के פתי के संग जड़-मेल — ओहे पट्टू जे एकर बलावा सुनतइ"
+    }
+  ],
+  "translation": "मूरखता के जनाना शोर मचावऽ हइ — पट्टू ⟨हइ⟩, आउ कुछो नञ जानऽ हइ ⟨का⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b14cef59dd9bebb59506f6b958ba93e9573ab01bfd2b0f1dd7cc70c35a5df399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/9\/13-16.1792006590579.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "मूरखता के"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "शोर मचावऽ हइ"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "पट्टू"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "आउ कुछो नञ"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "जानऽ हइ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:30.580201612Z",
+  "model": "glm-5.3"
+}

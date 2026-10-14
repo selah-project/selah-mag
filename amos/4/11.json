@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 4:11",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "सम्बोधन चालू — यहवे अपन लोग के गोता दे रहलन हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "„जइसन एलोहीम उलट-पलट कइलन हल“ — कतुना मत: एलोहीम नाम रूप में, या विशेषण रूप में („देवीय उलट-पलट“)।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מהפכת",
+      "rationale": "महापेखत के एहे रूप तनाख़ में खाली इहे बिद्यमान हकइ।"
+    }
+  ],
+  "translation": "हम तोहनी के बीच उलट-पलट कइलन हे, जइसन एलोहीम ⟨את⟩ सदोम आउ ⟨את⟩ अमोरा के उलट-पलट कइलन हल; आउ तोहनी जरत लउआ नियर भेलव — आग से झनिकावल; बाकि तोहनी हमरा ले नञ लवटलव — यहवे के बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3c1fb91850ce2d78f25e72d0585cceaf22a9390578a5abb5c4c90293c79c7dd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/4\/9-12.1792003586899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפכתי",
+      "gloss": "उलट-पलट कइलन हे"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "तोहनी के बीच"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "जइसन उलट-पलट"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सदोम"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सदोम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "अमोरा"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "अमोरा"
+    },
+    {
+      "surface": "ותהיו",
+      "gloss": "आउ भेलव"
+    },
+    {
+      "surface": "כאוד",
+      "gloss": "जरत लउआ नियर"
+    },
+    {
+      "surface": "מצל",
+      "gloss": "झनिकावल"
+    },
+    {
+      "surface": "משרפה",
+      "gloss": "आग से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "लवटलव"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "हमरा ले"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:46:26.900569094Z",
+  "model": "glm-5.3"
+}

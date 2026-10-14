@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "गिनती",
+      "rationale": "अरख के घराना के गिनती — 652 जन।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "बाउन",
+      "rationale": "חמשים ושנים (बाउन आउ दू) मगही के एक्को सब्द 'बाउन' (बाउन) में जुड़ल; दू टोकन एक सब्द में।"
+    }
+  ],
+  "translation": "अरख के बेटा सब, छऊ सौ बाउन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a979d4778998aafa59ed09cb6702f2d4beb33490438dd1944cd6d3fce3218f66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/7\/9-12.1792009571313.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सब"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "अरख"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छऊ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "बाउन"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-14T20:26:11.314514301Z",
+  "model": "glm-5.3"
+}

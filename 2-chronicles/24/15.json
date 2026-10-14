@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 24:15",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן מאה ושלשים שנה",
+      "rationale": "शाब्दिक 'सौ तीस बरिस के बेटा' — उमिर के हिब्रू ढंग, मगही में 'के उमिर' रूप में"
+    },
+    {
+      "kind": "measurement",
+      "subject": "उमिर",
+      "rationale": "सौ तीस बरिस के गिनती"
+    }
+  ],
+  "translation": "आउ यहोयादा बूढ़ा भेलन, दिन से भर गेलन, आउ मर गेलन — मरते समय सौ तीस बरिस के ⟨उमिर⟩ हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "882af172cada44818c86be4dfab767f2a5ed897fcae29f4a2dd7d04a83b488c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/24\/13-16.1792011162904.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזקן",
+      "gloss": "बूढ़ा भेलन"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "यहोयादा"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "भर गेलन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर गेलन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आउ तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "मरते समय"
+    }
+  ],
+  "timestamp": "2026-10-14T20:52:42.905468014Z",
+  "model": "glm-5.3"
+}

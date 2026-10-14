@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לחם",
+      "rationale": "नाम बेतलेहेम एके जगह पर जुड़ल हकइ; दोसर टोकन पर अलग शब्द नञ आवऽ हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "מי ישקני",
+      "gloss note": false,
+      "rationale": "इब्रानी के प्रश्न-रूप मगही में इच्छा-वाक्य जइसन आवलइ; 'कोनो हमरा पिआवतइ' दुनो के धारण करऽ हइ"
+    }
+  ],
+  "translation": "आउ दाविद तड़पलन आउ कहलन, कोनो हमरा पानी पिआवतइ बेतलेहेम के कुइयाँ के, जे दुआरी पर हकइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d06c681df034431934f61b681cf762dc4b8285148ed3e58a2a579b32a46c7402",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/11\/17-20.1792010144895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "तड़पलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "हमरा पिआवतइ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "कुइयाँ के"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेतलेहेम"
+    },
+    {
+      "surface": "לחם",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "दुआरी पर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:35:44.895686904Z",
+  "model": "glm-5.3"
+}

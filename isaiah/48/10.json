@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בכור",
+      "rationale": "भट्टी बर ई सब्द तनाख़ में खाली इहे जगह आवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "बכסף बर 'नञ'",
+      "rationale": "अरथ: 'चानी जइसन नञ' (कठिन घाल) या 'चानी के दाम पर नञ'; KJV\/JPS पहिला लेथिन"
+    }
+  ],
+  "translation": "देख, हम तोहनी के घालित बाकि चानी के माफिक नञ; दुख के भट्टी में हम तोहनी के चुनलियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/48\/9-12.1791999550962.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "हम तोहनी के घालित"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "चानी के माफिक"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "हम तोहनी के चुनलियन"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "भट्टी में"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुख के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:39:10.963033604Z",
+  "model": "glm-5.3"
+}

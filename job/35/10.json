@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 35:10",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमरा",
+      "rationale": "עשי बहुवचन प्रत्यय वाला एकवचन सम्बन्ध — 'मोर बनएवइया'; सर्वनाम जोड़ल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "זמרות",
+      "rationale": "गीत (सङ्गीत-गीत) — कुछ पढ़निहार 'विलाप' पढ़ऽ हथिन (מזמורות के मूल में उदासिनता); 'गीत' लेल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "बनएवइया",
+      "rationale": "प्रश्न एलोअह के सीधे सम्बोधन हकइ — 'कहाँ हथिन?'"
+    }
+  ],
+  "translation": "बाकि कोनो नञ कहऽ हइ — हमरा बनएवइया एलोअह कहाँ हथिन, जे रात में गीत देथिन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "efe0cb4157b082ad044a9266f11ac4aadacd983ffe1215dd72d39a23ea7dc314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/35\/9-12.1792007738572.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "बाकि कोनो नञ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "हमरा बनएवइया"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देथिन"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:55:38.572963192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 5:30",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "अकास",
+      "rationale": "עריפה के साफ अरथ 'ओझरत-धँसल अकास' (बादल जे खाती दने ढरकऽ हइ) — सादा 'अकास' ई तसबीर के खो देवऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "צר",
+      "rationale": "'सकट\/संकट' बनाम KJV 'sorrow' — शब्द के साफ अरथ 'जकड़ल, तंग जगह' हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जा हइ",
+      "rationale": "וינבט के करता हिब्रू नञ बतावऽ हइ — मगही बचाउ बर 'ताकल जा हइ' (निष्क्रिय) लेलइ।"
+    }
+  ],
+  "translation": "आउ ओही दिन ओकरा ऊपर समुंदर के गरजना जइसन दहाड़तइ, आउ धरती दने ताकल जा हइ त देखऽ हइ — अन्हार आउ सकट, आउ ओकर अकास में इँजोर अन्हार भेलइ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2253d951983124f7fa7069c77b687b8eea17cdd51ad80d33d2eda9bb727e51cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/5\/29-30.1791998618437.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינהם",
+      "gloss": "दहाड़तइ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "כנהמת",
+      "gloss": "गरजना जइसन"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "ונבט",
+      "gloss": "ताकल जा हइ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती दने"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "देखऽ हइ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्हार"
+    },
+    {
+      "surface": "צר",
+      "gloss": "सकट"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "इँजोर"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्हार भेलइ हकइ"
+    },
+    {
+      "surface": "בעריפיה",
+      "gloss": "ओकर अकास में"
+    }
+  ],
+  "timestamp": "2026-10-14T17:23:38.438628125Z",
+  "model": "glm-5.3"
+}

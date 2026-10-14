@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जउन",
+      "rationale": "हिब्रू में सापेक्ष बाक्य के चिन्हा नञ हइ — मगही के जोड़-बाक्य बर 'जउन' जोड़ल गेलइ"
+    }
+  ],
+  "translation": "शासक जउन झूठ बात कान लगाके सुनऽ हइ, ओकर सब सेवक दुष्ट होवऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/29\/9-12.1792006979225.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "शासक"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "कान लगाके सुनऽ हइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ओकर सेवक"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट होवऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:42:59.227058833Z",
+  "model": "glm-5.3"
+}

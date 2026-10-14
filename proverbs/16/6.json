@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכפר",
+      "rationale": "כפर के शाब्दिक अरथ 'ढकना' हकइ; 'प्रायस्चित होना', 'माफ होना', 'ढक देहल जाना' — कइयन रूप मिलऽ हइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "कोनो बुराई संग फटकऽ हइ",
+      "rationale": "इब्रानी के करता बिना क्रिया हकइ; 'कोनो' जोड़ल गेलइ (kjv 'men') — यहवे बर भी पढ़ल जा हइ"
+    }
+  ],
+  "translation": "हेसेद आउ सच संग अधरम ढक जा हइ, आउ यहवे के डर संग ⟨कोनो⟩ बुराई संग फटकऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/16\/5-8.1792006746804.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "हेसेद संग"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "आउ सच"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ढक जा हइ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधरम"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "आउ डर संग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "סור",
+      "gloss": "फटकऽ हइ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "बुराई संग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:06.805284732Z",
+  "model": "glm-5.3"
+}

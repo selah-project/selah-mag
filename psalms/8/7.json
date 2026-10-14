@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "कइलन",
+      "rationale": "Infinitive-of-rule rendered with past causal 'made him rule', matching the verse's past-tense frame."
+    }
+  ],
+  "translation": "तोहर हाथ के काम पर ओकरा राज करब ले कइलन; सब कइछ ओकर गोड़ के नीचे रखलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "268bfcd211b5d4c36c7f6e12facb2d85493245ab393c1b5c4a8577bb5f61ff54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/8\/5-8.1792004503192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "राज करब ले कइलन"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "काम पर"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "तोहर हाथ के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब कइछ"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ओकर गोड़ के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:01:43.193174772Z",
+  "model": "glm-5.3"
+}

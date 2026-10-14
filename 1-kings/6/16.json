@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बीस कोहनी",
+      "rationale": "पवित्तर-पवित्तर के नाप — बीस कोहनी घर के पाछाँड़।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמה",
+      "rationale": "कोहनी — कोहनी से गोड़ी तक के नाप, शब्दसः 'माय' अरथ के इकाई।"
+    },
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": "'ओकर बर' (घर बर) चाह 'अपन बर' (शलोमोह बर, JPS) — दुइ पढ़ाई संभव।"
+    },
+    {
+      "kind": "elision",
+      "subject": "דביר",
+      "rationale": "देबीर — सबसे भीतर के पवित्तर स्थान के खास नाम, लिप्यन्तरित रखल गेल।"
+    }
+  ],
+  "translation": "आउ ओ ⟨את⟩ बीस कोहनी घर के पाछाँड़ के देवदार के पसली-पट्टी सब से बनइलन, फर्स से ले के दीवार सब तक; आउ ओ ओकर बर भीतरे देबीर बनइलन — पवित्तर के पवित्तर बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2b8e43b1c7d8b0bc353c62dec6397dcb630c902d9c5afdfe274a3533cdc1f2bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/6\/13-16.1791996891125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "आउ ओ बनइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बीस कोहनी"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "कोहनी"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "घर के पाछाँड़ के"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "पसली-पट्टी सब से"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "देवदार के"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "फर्स"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले के … तक"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "दीवार सब"
+    },
+    {
+      "surface": "וי׬ן",
+      "gloss": "आउ ओ बनइलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर बर"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "भीतरे"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "देबीर बर"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "पवित्तर के"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "पवित्तर बर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:54:51.126842817Z",
+  "model": "glm-5.3"
+}

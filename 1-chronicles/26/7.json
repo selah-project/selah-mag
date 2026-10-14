@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 26:7",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחיו בני חיל",
+      "rationale": "KJV\/JPS: 'ओकर भाय सब — बलवान मरद' (एल्जाबाद के भाय); BSB: 'ओकर भाय' शमायाह के आउर बेटा एलिहू आउ समख्याहू।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नाम के सूची",
+      "rationale": "बंसावली के नाम-पाँती, परिवार के गिनती के हिस्सा।"
+    }
+  ],
+  "translation": "शमायाह के बेटा हलथिन — ओतनी आउ रेफाएल आउ ओवेद, एल्जाबाद आउ ओकर भाय सब, बल-बरकत के बेटा; एलिहू आउ समख्याहू।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b9de67f0a80c130408cfe0fa9ca5e55c797bb4254132db064addf8c4072a4773",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/26\/5-8.1792010467645.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "शमायाह के"
+    },
+    {
+      "surface": "עתני",
+      "gloss": "ओतनी"
+    },
+    {
+      "surface": "ורפאל",
+      "gloss": "आउ रेफाएल"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "आउ ओवेद"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "एल्जाबाद"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाय सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बल-बरकत के"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलिहू"
+    },
+    {
+      "surface": "וסמכיהו",
+      "gloss": "आउ समख्याहू"
+    }
+  ],
+  "timestamp": "2026-10-14T20:41:07.646609013Z",
+  "model": "glm-5.3"
+}

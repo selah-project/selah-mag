@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בגפו…בגפו",
+      "rationale": "बिना बदलल दुहराव — जइसन अइल तइसने जा — मगही में ओकर ताल बचावल गेलइ हे"
+    },
+    {
+      "kind": "substitution",
+      "subject": "अपने आप में",
+      "rationale": "בגפו के साक्षात अरथ 'ओकर धड़ी\/शरीर संग' हकइ — अकेले"
+    }
+  ],
+  "translation": "जँ ऊ अपने आप में अइल, त अपने आप में जइतइ; जँ ओकर जनाना के मालिक हथिन, त ओकर जनाना ओकरा संग बाहिर जइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e00d3a443c679e325a2cdeb91bc8db30e8f2f8b9ede0ddde24b640bf33a8f61d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/21\/1-4.1791988772796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "अपने आप में"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "अइल"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "अपने आप में"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "जइतइ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "मालिक"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हथिन"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "त बाहिर जइतइ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ओकर जनाना"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा संग"
+    }
+  ],
+  "timestamp": "2026-10-14T14:39:32.797532794Z",
+  "model": "glm-5.3"
+}

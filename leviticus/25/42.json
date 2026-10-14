@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यिस्राएल लोग",
+      "rationale": "यहवे ओकर जनता के ओकर 'हमर नोकर' कहऽ हकइ — बिकै संग रोक एही के आधार पर हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נמכרו \/ ממכרת",
+      "rationale": "एके जड़ מכר संग बेचल जाना आउ बिकै के चाल दूनो — मगही में 'बिक' के जड़ दूनो में रखलन।"
+    }
+  ],
+  "translation": "काहे कि हमर नोकर ओकनी हथिन, जेकरा हम मिस्रयिम के धरती संग ⟨את⟩ ओकनी के निकाललिए हिअइ; नोकर के बिकै के चाल में ओकनी नञ बिकतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0cbf453f429bb9c268be295e009ff9c12a8f20e278a7b5816376636f9b04e5c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/25\/41-44.1791990371223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "हमर नोकर"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ओकनी हथिन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "हम निकाललिए हिअइ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती संग"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "बिकतइ"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "बिकै के चाल में"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "नोकर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:06:11.224096402Z",
+  "model": "glm-5.3"
+}

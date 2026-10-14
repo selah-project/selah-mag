@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירדת \/ ירדים",
+      "rationale": "उतरना-उतरना — दुनो पार्टी एके ढाल पर उतरऽ हथिन, भेंट अनिवार्य हो जा हइ"
+    }
+  ],
+  "translation": "आउ जैसे ऊ गधा पर सवार होके पहाड़ के लुकाइल जगह से उतरऽ रहलइ हल, तब देखौ — दाविद आउ ओकर मरद सब ओकरा के भेंट होवे उतरल आ रहलन हल, आउ ऊ ⟨את⟩ ओकनी के भेंट भेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "91a2d0170448b6a8b35ec63f4b99a64eb74bd7a08557b9be362560fc19e39f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/25\/17-20.1791995601587.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ जैसे"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "सवार होके"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "गधा"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "उतरऽ रहलइ हल"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "लुकाइल जगह से"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़ के"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "तब देखौ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "आउ ओकर मरद सब"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "उतरल आ रहलन हल"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "ओकरा के भेंट होवे"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "भेंट भेलइ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी (दाविद आउ ओकर मरद सब)"
+    }
+  ],
+  "timestamp": "2026-10-14T16:33:21.589172803Z",
+  "model": "glm-5.3"
+}

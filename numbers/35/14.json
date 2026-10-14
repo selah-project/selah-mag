@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 35:14",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "तीन आउ तीन नगर",
+      "rationale": "छः शरण-नगर के बाँट — तीन यर्देन के ओ पार, तीन कनान में"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओ",
+      "rationale": "हिब्रू में पुनरुक्त किरिया त्सेरिखा नञ हकइ; मगही में 'ओ' जोड़ल गेलइ"
+    }
+  ],
+  "translation": "⟨את⟩ तीन नगर तोहनी देबऽ हथिन यर्देन के ओ पार, आउ ⟨את⟩ तीन नगर तोहनी देबऽ हथिन कनान के धरती में; शरण के नगर होतइ ओ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dededf8670c4aa68ce36d2dc68fbd66e48fc4df27b6eed89d6e216e47ab5a4c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/35\/13-16.1791991862599.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तीन नगर"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "तोहनी देबऽ हथिन"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ओ पार"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "यर्देन के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ आउ",
+      "marks": "तीन नगर"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "तोहनी देबऽ हथिन"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान के"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "शरण"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "होतइ ओ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:31:02.599851621Z",
+  "model": "glm-5.3"
+}

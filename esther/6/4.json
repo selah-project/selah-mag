@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "העץ",
+      "rationale": "इब्रानी साक्षात 'गाछ' कहऽ हइ — 'फाँसी के तख्ता' बाद के चलन के अनुवाद हकइ, ओकर सुभाव मेटावऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "החיצונה",
+      "rationale": "'बाहरी' बनाम किछु परम्परा के 'भीतरी' — इब्रानी साक्षात बाहरी अँगना कहऽ हइ"
+    }
+  ],
+  "translation": "आउ राजा कहलन, अँगना में कोन हइ? आउ हामान राजा के घर के बाहरी अँगना में अइल हल, राजा से कहे बर जे ⟨את⟩ मोर्दिखाय के ओही गाछ पर झुलावे, जे ओकरा बर ओ तैयार करने हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3265bd9c681a5a08110c784903050628bb6632682548598b437d307c3b7391d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/6\/1-4.1792008642926.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "अँगना में"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "आउ हामान"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइल हल"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "अँगना में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "बाहरी"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहे बर"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा से"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "झुलावे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोर्दिखाय"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मोर्दिखाय"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "गाछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "तैयार करने हल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:10:42.928790861Z",
+  "model": "glm-5.3"
+}

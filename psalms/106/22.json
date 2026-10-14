@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "सुप",
+      "rationale": "סוף के अरथ नरकल\/कागज-घास हकइ — 'लाल समुंदर' चलनसार रूप हकइ; ओकरा मूल 'नरकल समुंदर' हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "चम के धरती",
+      "rationale": "ח׮ नूह के बेटा हलथिन; इहाँ मिस्रयिम बर पितरी-नाम हकइ"
+    }
+  ],
+  "translation": "चम के धरती में अचम्मा काम, सुप समुंदर पर डरावना काम।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "150c162f992e3756c3ed160d70e20c0e9b3694ea8e6a31a8b8e4dfe9f591c1d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/106\/21-24.1792005867795.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "अचम्मा काम"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "חם",
+      "gloss": "चम"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "डरावना काम"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "सुप"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:27.796004870Z",
+  "model": "glm-5.3"
+}

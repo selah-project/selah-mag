@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "אלהים के बहुबचन — मगही में बहुबचन-चिन्हा जोड़ल गेल; दोसर जाति के देवता बर जाति-सब्द रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दन्डवत",
+      "rationale": "וישתחוवू सचमुच 'सबस जाना' हकइ; दन्डवत ओहे चित्र देवऽ हइ।"
+    }
+  ],
+  "translation": "आउ हम ओकनी सब ⟨את⟩ अपन नियाव कहतइ, ओकनी के सब बुराई पर — जे ओकनी हमरा छोड़ देलन आउ दोसर देवता सब के धुवाँ चढ़ावलन, आउ अपन हाथ के बनावल चीज के दन्डवत करलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd14288c05d776619a7cc3bc340265350d7167a44280452a7504a686752aa6d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/1\/13-16.1792000069272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "आउ हम कहतइ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "अपन नियाव"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी सब"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ओकनी के बुराई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "हमरा छोड़ देलन"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "आउ धुवाँ चढ़ावलन"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "देवता सब के"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "आउ दन्डवत करलन"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "बनावल चीज के"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "अपन हाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:47:49.273253568Z",
+  "model": "glm-5.3"
+}

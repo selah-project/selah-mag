@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקץ",
+      "rationale": "कुरसी-बिबाद: 'घिन कइलक' (यातयाम) बनाम 'काट देलक' (שרש קוץ से मिलावट) — पुरान अनुवादकन में फरक हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שטן",
+      "rationale": "ई साधारन सब्द 'विरोधी' हकइ, पाछे के 'सातान' नाम नञ — अनुवाद में ई फरक साफ रखल गेल हकइ"
+    }
+  ],
+  "translation": "आउ ऊ यिस्राएल बर विरोधी रहलन शलोमोह के सब-सब दिनन में, आउ ⟨את⟩ बुराई जे हादाद कइलक — आउ ऊ यिस्राएल से घिनाउ रहलक, आउ ऊ अराम पर राज कइलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5630a19817262dc5fbc53e060bca896f91f13ef2e1aeb57c26939812d2fa0d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/11\/25-28.1791997220199.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ रहलन"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "विरोधी"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "यिस्राएल बर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब-सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनन में"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "बुराई"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "हादाद"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "घिनाउ रहलक"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिस्राएल से"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राज कइलक"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    }
+  ],
+  "timestamp": "2026-10-14T17:00:20.200501665Z",
+  "model": "glm-5.3"
+}

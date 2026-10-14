@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עז",
+      "rationale": "ताकत (मूल) बनाम LXX 'तारीफ' — पछिला परम्परा एकरा बदललक।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוללים וינקים",
+      "rationale": "चुटका आउ चूसनिहार के जोड़ी — मुँह के दुहरी तस्वीर।"
+    }
+  ],
+  "translation": "चुटका बुतरू आउ दूध चूसनिहार के मुँह से तूँ ताकत थापलन, तोहर दुसमन सब के कारण, दुसमन आउ बदला लेवइ वाला के चुप कराबे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/8\/1-4.1792004471207.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "मुँह से"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "चुटका बुतरू"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "आउ दूध चूसनिहार"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "थापलन"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "למען",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "तोहर दुसमन सब"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "चुप कराबे बर"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "दुसमन"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "आउ बदला लेवइ वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:01:11.208617210Z",
+  "model": "glm-5.3"
+}

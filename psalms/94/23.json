@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצמיתם יצמיתם",
+      "rationale": "एके क्रिया के दोहराव — निर्णय के पक्कापन; मगही में दोहराव राखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बुराई",
+      "rationale": "אונ׮ के अरथ 'फुटकार\/शून्यता\/बुराई' हकइ; 'बुराई' लेल गेल।"
+    }
+  ],
+  "translation": "आउ ऊ ओकरा पर फेरा देतन ⟨את⟩ ओकर बुराई, आउ ओकनी के बुराई में ओकनी के खतम कर देतन; खतम कर देतन यहवे, हमनी के एलोहीम।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0f15ef12c275c81bdcb9a43b9ac6e3af98f1cdd262cee3fd259d75ed0ba68830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/94\/21-23.1792005704280.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आउ फेरा देतन"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ओकनी के दुखर-पाछे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बुराई"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ओकर बुराई"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "आउ ओकनी के बुराई में"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "ओकनी के खतम कर देतन"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "खतम कर देतन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:44.281475567Z",
+  "model": "glm-5.3"
+}

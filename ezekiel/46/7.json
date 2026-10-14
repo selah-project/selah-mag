@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 46:7",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "एफा \/ हिन",
+      "rationale": "नाप के अनुपात दोहरावल गेलइ — बछड़ा आउ मेढ़ा बर एक-एक एफा, प्रति एफा एक हिन तेल।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "תשיג ידו",
+      "rationale": "'ओकर हाथ पुगैतइ' — इब्रानी के मुहावरा बर सामर्थ्य, ओकरा जस के तस रखल गेलइ।"
+    }
+  ],
+  "translation": "आउ एक एफा बर बछड़ा आउ एक एफा बर मेढ़ा — मिन्हा बनइतइ, आउ मेमना सब बर जेतना ओकर हाथ पुगैतइ, आउ तेल — एक हिन प्रति एक एफा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d53d1f324503bceff50bd99a42f1bfd1d15256ea276508d9984faff887461a43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/46\/5-8.1792003021746.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיפה",
+      "gloss": "आउ एक एफा"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "बर बछड़ा"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "आउ एक एफा"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "बर मेढ़ा"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "बनइतइ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मिन्हा"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "आउ मेमना सब बर"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जेतना"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "पुगैतइ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "आउ तेल"
+    },
+    {
+      "surface": "הין",
+      "gloss": "एक हिन"
+    },
+    {
+      "surface": "לאיפה",
+      "gloss": "प्रति एक एफा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:37:01.747974964Z",
+  "model": "glm-5.3"
+}

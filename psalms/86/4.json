@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש again rendered as life-force, consistent with v.2."
+    },
+    {
+      "kind": "idiom",
+      "subject": "परान उठावऽ हह",
+      "rationale": "Hebrew idiom 'lift my soul' = offer devotion\/trust to; kept literal with the picture intact."
+    },
+    {
+      "kind": "you",
+      "subject": "to अदोनाय",
+      "rationale": "Direct address continues the petition."
+    }
+  ],
+  "translation": "तोहर सेवक के परान खुस करह, काहे कि तोहरे काहे, अदोनाय, हम हमर परान उठावऽ हह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/86\/1-4.1792005670806.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "खुस करह"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "तोहर सेवक के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरे काहे"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "उठावऽ हह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:10.807741058Z",
+  "model": "glm-5.3"
+}

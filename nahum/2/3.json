@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שב",
+      "rationale": "'फेर लेलन' (वापस करऽ, JPS) बनाम 'हटा लेलन' (KJV) — क्रिया दुनो दिसा खोलऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקקום \/ בקקים",
+      "rationale": "एके जड़ के दोहराव — 'खाली करै वाला ओकरा खाली कइलन' — इब्रानी के ध्वनि-दोहराव हकइ।"
+    }
+  ],
+  "translation": "काहे कि यहवे ⟨את⟩ याकोव के शान फेर लेलन, जइसन यिस्राएल के शान; काहे कि खाली करै वाला सब ओकरा खाली कइलन हतन, आउ ओकर झाड़ी के डाल सब बरबाद कइलन हतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "38c2876ced16c4635f0d33d963cc787fde68183e71cc97c0959f233d7d05e586",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nahum\/2\/1-4.1792003930771.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שב",
+      "gloss": "फेर लेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याकोव के शान"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "शान"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "जइसन शान"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "खाली करै वाला सब"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "खाली कइलन हतन"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "आउ ओकर झाड़ी के डाल सब"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "बरबाद कइलन हतन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:52:10.772527628Z",
+  "model": "glm-5.3"
+}

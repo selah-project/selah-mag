@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨केकरा⟩",
+      "rationale": "Hebrew's העירותי has an implied object none of the nouns supplies; pronoun supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "ऊ (the one from the north)",
+      "rationale": "Identity debated: Cyrus (matching ch. 44–45) vs the Servant of the surrounding songs; Hebrew names no one"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמר \/ יוצר \/ טיט",
+      "rationale": "potter-clay-mire imagery echoes Gen 2:7; idols (v. 24 'nothing') trampled like their own clay"
+    }
+  ],
+  "translation": "हम उत्तर से ⟨केकरा⟩ जगइलन, आउ ऊ अइलन; सुरुज उगे के दिस से ऊ हमर नाम के पुकारऽ हइ; आउ ऊ हाकिमनी पर गार नइ आहरे होतइ, आउ कुम्हार नइ कीचड़ रौड़तइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/41\/25-28.1791999488515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "हम जगइलन"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तर से"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "आउ ऊ अइलन"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "उगे के दिस से"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "पुकारऽ हइ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "हमर नाम के"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "आउ आहरे होतइ"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "हाकिमनी पर"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "नइ से"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "गार"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "आउ नइ से"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "कुम्हार"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "रौड़तइ"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "कीचड़"
+    }
+  ],
+  "timestamp": "2026-10-14T17:38:08.516218008Z",
+  "model": "glm-5.3"
+}

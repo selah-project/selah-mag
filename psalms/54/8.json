@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 54:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "वचन-प्रतिज्ञा के सीधा सम्बोधन — बलि आउ धन्यवाद के प्रतिज्ञा यहवे से कहल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "'काहे कि ऊ भला' — इब्रानी में क्रिया नञ; मगही के अस्तित्व-क्रिया जोड़ल गेल।"
+    }
+  ],
+  "translation": "स्वेच्छा से हम तोहर बर बलि करब; हम यहवे, तोहर नाम के धन्यवाद करब, काहे कि ऊ भला ⟨हथिन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/54\/5-8.1792005169301.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנדבה",
+      "gloss": "स्वेच्छा से"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "बलि करब"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर बर"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "धन्यवाद करब"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:49.302307879Z",
+  "model": "glm-5.3"
+}

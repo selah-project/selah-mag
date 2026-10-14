@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הדה",
+      "rationale": "הדה (हाथ बढ़ावऽ) तनाख़ में कहोँ नञ मिलऽ हइ — बिरल शब्द, चित्र जस के तस रखल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकर",
+      "rationale": "मगही के क्रिया 'डालतइ' बर कर्ता-सर्बनाम चाही, इब्रानी में नञ हकइ।"
+    }
+  ],
+  "translation": "आउ दूध चूसैत बुतरू गोखर के बिल पर खेलतइ, आउ दूध छुड़ाल बुतरू गिरहित के बिला में ⟨ओकर⟩ हाथ डालतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/11\/5-8.1791998812191.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "आउ खेलतइ"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "दूध चूसैत बुतरू"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "חור",
+      "gloss": "बिल"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "गोखर"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ…में"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "बिला"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "गिरहित"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "दूध छुड़ाल बुतरू"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "डालतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:26:52.192966981Z",
+  "model": "glm-5.3"
+}

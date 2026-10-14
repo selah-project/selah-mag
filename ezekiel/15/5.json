@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 15:5",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף כי",
+      "rationale": "अ fortiori बनावट — 'कतेक आउ' के अरथ में अझियो…कि रेंडर कएल गेल, शाब्दिक 'क्रोध कि' नञ"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויחר",
+      "rationale": "शाब्दिक 'आउ ओकरा जरलइ'; झुलस गेलइ कहलन जे चित्र साफ़ रहे"
+    }
+  ],
+  "translation": "देखऽ, ओकरा सार रहते तो कोनो काम बर नञ बनाओल जा हलइ; अझियो कि आग ओकरा खइलक आउ ऊ झुलस गेलइ — त ऊ फेर काम बर बनतइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "396a7e06042617fabdb20be131a463ccf1daa57beaf3a16d48e250191381f8aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/15\/5-8.1792002111604.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ओकरा सार रहते"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "सार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "बनाओल जा हलइ"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "काम बर"
+    },
+    {
+      "surface": "אף",
+      "gloss": "अझियो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "ओकरा खइलक"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "आउ ऊ झुलस गेलइ"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "त ऊ बनतइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "काम बर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:21:51.604978266Z",
+  "model": "glm-5.3"
+}

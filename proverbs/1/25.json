@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פרע",
+      "rationale": "'छोड़ देल' छुटकावे के अरथ लेलक — मूल 'ढीला करना \/ छोड़ना', जेकरा कइयन अनुवाद 'तुच्छ समझना' कहऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא אביתם",
+      "rationale": "'नञ चाहल' — אבה के साँस-फूले चाहना के संग व्यंग्य: ओकर जरा के चाहैत बिना छोड़ देलक।"
+    }
+  ],
+  "translation": "आउ हमरी सारे सलाह तुमनी छोड़ देल, आउ हमरी झिड़की के तुमनी नञ चाहल.",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ad5780c4251f8abf695d15eff359aaddf1e0af7378387140c35afecddcf0a001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/1\/25-28.1792006436215.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "छोड़ देल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "हमरी सलाह"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "आउ हमरी झिड़की के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "चाहल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:56.216299839Z",
+  "model": "glm-5.3"
+}

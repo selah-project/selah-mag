@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 1:8",
+  "book": "jonah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "बिनती के छोट कण अनुवाद में नञ पार भेल; चिन्हा ⟨बिनती⟩ में देखावल गेल।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "पाँच प्रस्न",
+      "rationale": "पाँच एक पाछे एक प्रस्न योना के ओर खीँचऽ हइ — ओकर पहिचान माँगऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "योना से",
+      "rationale": "नाविक लोग योना के सीधे प्रस्न पूछऽ हइ।"
+    }
+  ],
+  "translation": "आउ ओकनी ओकरा से कहलन — हमनी के बता दे, कि ई बिपति हमनी पर केकरा कारण अइलइ हे? तोहर काम-धंधा की हइ? कतु से अइऽ हकइ? तोहर देस कतु हकइ? आउ कोन जाति के हऽ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a0c7e3fbcf2dbf189bfe1c9d1a1a548e78aaf482f16ee971671b8ba9c0e34ccb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jonah\/1\/5-8.1792003767770.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "बता दे"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨बिनती⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "למי",
+      "gloss": "केकरा कारण"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "बिपति"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी पर"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "तोहर काम-धंधा"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "कतु से"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "अइऽ हकइ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कतु"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "तोहर देस"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "जाति के"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "हऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:49:27.772401395Z",
+  "model": "glm-5.3"
+}

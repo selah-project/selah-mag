@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "शाऊल के सीधा बात",
+      "rationale": "शमुएल शाऊल के सीधे सम्बोधन करऽ हइ — सुनऽ के हुक्म।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "मगही के क्रिया-धारा चाहऽ हइ; इब्रानी में कोनो सहायक क्रिया नञ हकइ।"
+    }
+  ],
+  "translation": "आउ शमुएल शाऊल के कहलन: ⟨את⟩ हमरा यहवे भेजलन हे तोहनी के अभिसेक करे बर, ओकर परजा — यिस्राएल — के ऊपर राजा बनावे बर; आउ अब तूँ यहवे के बचन के बोली सुन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/15\/1-4.1791995304374.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लिए"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "हमरा"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "तोहनी के अभिसेक करे बर"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर परजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "के बोली"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:28:24.375372284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 16:34",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פן",
+      "rationale": "हिब्रू के 'कहीं एहन नञ होवे कि' — 'सावधान रही' के तरह के डर के जोड़-सब्द"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "भागैत लोग के बोली में आपनी सामूहिक डर के गवाही — 'हमनी सब के भी'"
+    }
+  ],
+  "translation": "आउ यिस्राएल के सब लोग जे ओकनी के चारो दने हलथिन, ओकनी के आवाज से भाग गेलन, काहे कि ओकनी कहलन — कहीं एहन नञ होवे कि धरती हमनी सब के भी निगल ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d9c1e015c937bd116c8484e009b75474a33dc241f3f5e62d613fb144c6d094b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/16\/33-35.1791991162259.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "סביבתיהם",
+      "gloss": "ओकनी के चारो दने"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "भाग गेलन"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "ओकनी के आवाज से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "פן",
+      "gloss": "कहीं एहन नञ होवे कि"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "हमनी सब के निगल ले"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T15:19:22.260089105Z",
+  "model": "glm-5.3"
+}

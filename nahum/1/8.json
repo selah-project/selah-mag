@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nahum 1:8",
+  "book": "nahum",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אויביו — के के?",
+      "rationale": "'ओकर दुस्मन' — यहवे के नञ त निनवे के (यहवे के दुस्मन, रूपक में); दुनो पढ़ाहइ मिलऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "חושך",
+      "rationale": "अन्हार के क्रिया-करता बनावल गेल हइ (ylt 'darkness doth pursue') बनाम 'अन्हार में पिछा करतइ' (asv) — इब्रानी के करता अन्हार हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עבר",
+      "rationale": "बाढ़ के 'बहैत' (participle) बनाम क्रिया 'गेल' — काल अनिश्चित, participle लेलन।"
+    }
+  ],
+  "translation": "बाकि बहैत बाढ़ के संग ⟨את⟩ ओकर जगह के पूरा नास करतइ, आउ ओकर दुस्मन के पिछा करतइ अन्हार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2753e24e13d4cfac7b4006ad05314ad699fbf76baec817c473e4a5a738a79613",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nahum\/1\/5-8.1792003857743.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשטף",
+      "gloss": "बाकि बाढ़ के संग"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "बहैत"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "पूरा नास"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "ओकर जगह के"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "आउ ओकर दुस्मन के"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "पिछा करतइ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्हार"
+    }
+  ],
+  "timestamp": "2026-10-14T18:50:57.744372058Z",
+  "model": "glm-5.3"
+}

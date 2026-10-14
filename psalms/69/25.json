@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרון אף",
+      "rationale": "साक्षात अरथ 'नाक के जराव' — क्रोध के हिब्रू चित्र; रूढ़ि 'प्रचण्ड क्रोध'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישיגם",
+      "rationale": "'पकड़ लेतइ' बनाम 'पहुँच जातइ' — नשח के दुनू अरथ चलऽ हइ"
+    }
+  ],
+  "translation": "तोहर गुस्सा ओकनी पर उड़ेल दे, आउ तोहर नाक के जराव ओकनी के पकड़ लेतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fe724e736e71c79b85457f0e579e62b74e39481f1b0c1b3c034f1a763c946f46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/69\/25-28.1792005372228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "उड़ेल दे"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ओकनी पर"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "तोहर गुस्सा"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "आउ के जराव"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "तोहर नाक के"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "ओकनी के पकड़ लेतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:12.229148855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 20:18",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כחיל",
+      "rationale": "'जइसन बल\/किल्ली' (ke-chayil) बनाम 'ओकर धन के मोताबिक' (kechayil) — KJV पछाना लेलन, YLT बाड़ लेलन"
+    },
+    {
+      "kind": "addition",
+      "subject": "होतइ",
+      "rationale": "हिब्रू में क्रिया नञ हकइ; बाक्य पूरा करे बर जोड़ल"
+    }
+  ],
+  "translation": "ऊ जे मेहनत से कमालक ओकरा फिरातइ, आउ ओकरा नञ निगतइ; ओकर बदली जइसन किल्ली के बाड़ ⟨होतइ⟩, आउ ऊ नञ उछल-कूद करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ef7b4c9907781c4ab63d798a9d8684c5fee8e078794e313c084374e5e96d3587",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/20\/17-20.1792007516939.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "फिरातइ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "जे मेहनत से कमालक"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "निगतइ"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "जइसन किल्ली के बाड़"
+    },
+    {
+      "surface": "תמורתו",
+      "gloss": "ओकर बदली"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יעלס",
+      "gloss": "उछल-कूद करतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:51:56.940098629Z",
+  "model": "glm-5.3"
+}

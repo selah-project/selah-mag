@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 8:22",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "איש ישראל",
+      "rationale": "'यिस्राएल के मनुस' — प्रत्येक मरद के बोधगम्य चलन, पूरा समुदाय के बोली।"
+    },
+    {
+      "kind": "addition",
+      "subject": "के",
+      "rationale": "मगही के सम्बन्ध-चिन्हा जोड़ल गेलइ; इब्रानी संरचना-बद्ध रूप में एकरा नञ रखऽ हइ।"
+    }
+  ],
+  "translation": "तब यिस्राएल के मनुस गिदोन से कहलन — तूँ हमनी पर राज कर, तोहो, तोहर बेटा, तोहर बेटा के बेटा; काहे कि तूँ हमनी के मिद्यान के हाथ से बचालह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a88b6f6f2c58200a3a45db8cd32daade81e883ed19a3d60f11399208a2cfc90a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/8\/21-24.1791994231756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "गिदोन"
+    },
+    {
+      "surface": "משל",
+      "gloss": "राज कर"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "हमनी पर"
+    },
+    {
+      "surface": "גם",
+      "gloss": "तोहो"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "तोहो"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "तोहर बेटा"
+    },
+    {
+      "surface": "גם",
+      "gloss": "तोहो"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "तोहर बेटा के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "बचालह"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिद्यान"
+    }
+  ],
+  "timestamp": "2026-10-14T16:10:31.757392933Z",
+  "model": "glm-5.3"
+}

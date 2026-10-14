@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तौभी",
+      "rationale": "इब्रानी के व वाला नञ के भाव के ओपर चढ़ावै बर।"
+    }
+  ],
+  "translation": "ई सब हमनी पर अइलइ, तौभी हमनी तोहरा नञ बिसरलियनी, आउ तोहरी वाचा में हमनी धोखा नञ देलियनी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/44\/17-20.1792005054303.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "हमनी पर अइलइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "तौभी नञ"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "तोहरा बिसरलियनी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "धोखा देलियनी"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "तोहरी वाचा में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:54.303708820Z",
+  "model": "glm-5.3"
+}

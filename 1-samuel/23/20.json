@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשך",
+      "rationale": "नेफेश 'परान' (जियै-शक्ति) हकइ, 'आत्मा' नञ — इहाँ चाह-इच्छा के आधार के रूप में।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לרדת \/ רד",
+      "rationale": "पहाड़ से उतरे के क्रिया दू बेर दोहरावल गेलइ — आदेश 'उतरू' आउ ओकर उद्देश दुनों, एही दोहराव रखल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "शाउल के",
+      "rationale": "जिप के लोग राजा से सीधा अरज करऽ हथिन।"
+    }
+  ],
+  "translation": "आउ अब, हे राजा, जइसन तोहर परान के सब चाह होवऽ हो, उतरू; आउ ऊ हमनी के हाथे राजा के हाथ में हवाल देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "de06ce1e93c96e25459a33b314c237251cad6c0ca6a460ad8b56267119b63dbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/23\/17-20.1791995576232.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אות",
+      "gloss": "चाह"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "तोहर परान के"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "हे राजा"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "उतरे के बर"
+    },
+    {
+      "surface": "רד",
+      "gloss": "उतरू"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "आउ हमनी के हाथे"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "हवाल देतइ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:56.233943373Z",
+  "model": "glm-5.3"
+}

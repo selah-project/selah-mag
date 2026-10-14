@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joel 1:16",
+  "book": "joel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "नכרत के दोसर प्रयोग",
+      "rationale": "एके क्रिया दुनू पद पर चलऽ हइ — खुसी आउ उल्लास बर दोसर क्रिया इब्रानी में नञ हइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "का… नञ?",
+      "rationale": "पढ़निहार के अराती सवाल — आँखी के आगू जे भेल ओकर गवाह बनावऽ हइ।"
+    }
+  ],
+  "translation": "का हमनी के आँखी के आगू खाना नञ कटल गेलइ — हमनी के एलोहीम के घर से खुसी आउ उल्लास?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3348162225eb54ad91626f8e4858bc0c12354902f81394aa6db8731a0bd6267e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joel\/1\/13-16.1792003430838.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "का नञ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "हमनी के आँखी"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "नञ कटल गेलइ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर से"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम के"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "खुसी"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "आउ उल्लास"
+    }
+  ],
+  "timestamp": "2026-10-14T18:43:50.839306162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 21:20",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "चौबीस गिनती",
+      "rationale": "अँगुरी के गिनती — छह आउ छह, बीस आउ चार — पद साफ गिनती करऽ हइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מדין",
+      "rationale": "'लम्बाई\/ऊँचाई' बर ई रूप एही एक जगह आवऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨एकर⟩",
+      "rationale": "मगही के आगू-इसारा जेकरा इब्रानी के ויהी-वाक्य बनावट में नञ हइ।"
+    }
+  ],
+  "translation": "आउ फेर गत में लड़ाई भेल, आउ ⟨एकर⟩ लम्बा-कद के मनखे हल — ओकर हाथ के अँगुरी सब आउ ओकर गोड़ के अँगुरी सब छह-छह, चौबीस गिनती — आउ ऊ हो रापाह लागि जन्मल हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "eff696a0868f12bbf66ca6806a19c1c8b560b88bd6bfc3fae46da5e3b266fc6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/21\/17-20.1791996518694.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "भेल"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "गत में"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "हेल"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनखे"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "लम्बा-कद"
+    },
+    {
+      "surface": "ואצבעת",
+      "gloss": "आउ अँगुरी"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ओकर हाथ के"
+    },
+    {
+      "surface": "ואצבעת",
+      "gloss": "आउ अँगुरी"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ओकर गोड़ के"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आउ छह"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आउ चार"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ हो"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्मल"
+    },
+    {
+      "surface": "להרפה",
+      "gloss": "रापाह लागि"
+    }
+  ],
+  "timestamp": "2026-10-14T16:48:38.696359237Z",
+  "model": "glm-5.3"
+}

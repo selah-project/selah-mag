@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "दूइ साँझ के बीच",
+      "rationale": "בין הערבים द्विवचन हकइ — 'दूइ साँझ के बीच', साँझ-पहर के समय; दुवचनी आकृति रखल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "साँझ-पहर",
+      "rationale": "धुआँ के दोसर समय नियत हकइ — भोर आउ दूइ साँझ के बीच।"
+    }
+  ],
+  "translation": "आउ जब अहरोन दूइ साँझ के बीच ⟨את⟩ दिया जरातइ, तब ऊ धुआवतइ — सदा लेल धुआँ यहवे के आगे, तोहनी के पीढ़ी सब लेल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8b6e00aac884210ceacd4f25a5f108db61ed176ab43c081fe6b915267a3f4691",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/30\/5-8.1791988999536.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "आउ जब जरातइ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दिया"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "दिया"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "दूइ साँझ"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "तब ऊ धुआवतइ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धुआँ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सदा लेल"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "तोहनी के पीढ़ी सब लेल"
+    }
+  ],
+  "timestamp": "2026-10-14T14:43:19.537107623Z",
+  "model": "glm-5.3"
+}

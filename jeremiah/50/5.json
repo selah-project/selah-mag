@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 50:5",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जइतइ \/ होतइ",
+      "rationale": "इब्रानी खाली क्रिया-रूप देलक हइ; भबिस के काल मगही में सहायक किरिया माँगऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "באו ונלוו",
+      "rationale": "बहुमत अनुवाद एकरा बोलल उद्धरन बनावऽ हइ (“अइऽ आउ जुड़ियै”); बाकि अक्छर के रूप बतावऽ हइ कि परजा के बोली हकइ"
+    }
+  ],
+  "translation": "जियोन के रस्ता पूछलन जइतइ, ओही दने ओकनी के मुँह होतइ; “अइऽ, आउ यहवे के संग जुड़ियै — ओ वाचा में जे सदा बर हकइ, जेकर भुलाइ नञ होतइ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae20984ed204bbc34470735ddd9616be01060af876641dbfecb30157f0a9feee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/50\/5-8.1792001511621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ציון",
+      "gloss": "जियोन"
+    },
+    {
+      "surface": "ישאלו",
+      "gloss": "पूछलन जइतइ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ओही दने"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ओकनी के मुँह"
+    },
+    {
+      "surface": "באו",
+      "gloss": "अइऽ"
+    },
+    {
+      "surface": "ונלוו",
+      "gloss": "आउ जुड़ियै"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "वाचा"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "भुलाइ होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:11:51.622533270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבושה\/יבשו",
+      "rationale": "एके जड़ בוש के दू बेर — मैं नञ लजाई, ओकनी लजाअतन; एही तुक मगही में लजाई\/लजाअतन से टिकल हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रार्थना सीधे यहवे के सम्बोधित हकइ"
+    }
+  ],
+  "translation": "यहवे, हम लजाई नञ जाई, काहे कि हम तोहरा पुकारलिअन; दुष्ट लोग लजाअतन, शेओल के ले चुप हो जाअतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9b59587d797f302d4a591541f55483600804e5612d4c188375668f3d7f0833de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/31\/17-20.1792004744704.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "लजाई जाई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "तोहरा पुकारलिअन"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "लजाअतन"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट लोग"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "चुप हो जाअतन"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शेओल के ले"
+    }
+  ],
+  "timestamp": "2026-10-14T19:05:44.704932109Z",
+  "model": "glm-5.3"
+}

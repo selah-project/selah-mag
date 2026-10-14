@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩",
+      "rationale": "इब्रानी में क्रिया नञ हइ; दुस्मान के तलवार के बाक्य बर क्रिया जोड़ल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "to Zion \/ the people",
+      "rationale": "स्त्री-एकवचन के निषेध-आज्ञा — परमेश्वर के परजा के ओने सीधा सम्बोधन"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מגור מסביב",
+      "rationale": "यिर्मयाहू के बार-बार लौटत वाक्यांश (भजा 6:15 आदि के जइसन), एक्के ढाँचा के रेफ्रेन"
+    }
+  ],
+  "translation": "खेत में मत निकल, आउ रस्ता पर मत टल; काहे कि दुस्मान बर तलवार ⟨हकइ⟩, चारो दने डर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "89a92273f22558b1f54b7f6ec73c5a83116d6720a0a02e4858693c395d67d9de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/6\/25-28.1792000182348.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "मत निकल"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "आउ रस्ता पर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "मत टल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "दुस्मान बर"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "डर"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "चारो दने"
+    }
+  ],
+  "timestamp": "2026-10-14T17:49:42.348876771Z",
+  "model": "glm-5.3"
+}

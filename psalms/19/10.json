@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ \/ हथिन",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; वाक्य नामवाचक हकइ"
+    }
+  ],
+  "translation": "यहवे के डर चोख हकइ आउ सदा बर ठाढ़ हकइ; यहवे के नियाव सच हथिन, एक संग पूरा त्सेदेक हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/19\/9-12.1792004632006.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "डर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "चोख हकइ"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "ठाढ़ हकइ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच हथिन"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "त्सेदेक हथिन"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एक संग पूरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:52.007521718Z",
+  "model": "glm-5.3"
+}

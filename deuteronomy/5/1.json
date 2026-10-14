@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "सुन, हे यिस्राएल",
+      "rationale": "शमा-आमंत्रण — पूरा लोग के सीधे संबोधन"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "मोशे सब यिस्राएल के संबोधन करऽ हथिन"
+    },
+    {
+      "kind": "elision",
+      "subject": "לעשתם के 'कइल बर'",
+      "rationale": "希伯来语 रखवारी के किरिया में ही 'कइल' बूझऽ हइ — काम के लक्ष्य के अलग शब्द चाही"
+    }
+  ],
+  "translation": "आउ मोशे (मूसा) सब यिस्राएल (इस्राएल) के संबोधन करलन, आउ ओकनी से कहलन: सुन, हे यिस्राएल, ⟨את⟩ हुक्म आउ ⟨את⟩ नियाव, जे हम आज तोहनी के कान में कहऽ हइ; तोहनी ओकरा सिखऽ, आउ ओकरा रखवारी करऽ कइल बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/5\/1-4.1791992105814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "आउ संबोधन करलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "हे यिस्राएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हुक्म"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "हुक्म"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "नियाव"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "तोहनी के कान में"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "आउ तोहनी सिखऽ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (हुक्म आउ नियाव के)"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "आउ तोहनी रखवारी करऽ"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "ओकरा कइल बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:35:05.815240067Z",
+  "model": "glm-5.3"
+}

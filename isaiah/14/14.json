@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אדמה",
+      "rationale": "'एल्योन जइसन हम हो जाबइ' बनाम 'एल्योन के बराबर' — אדמה 'तुलना करना' हकइ; अरथात् घमंड के चरम।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "एल्योन",
+      "rationale": "לעליור के नाम-रूप एल्योन ('सबसे ऊँचा') रखल गेलइ; उपाधि अनुवाद नञ।"
+    }
+  ],
+  "translation": "बादर के ऊँचाई सब के ऊपर हम चढ़बइ, एल्योन जइसन हम हो जाबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6ba8f6c00872ae1d5ffd7b9906623de2aad0d21d350d0abbc2d653cc5c6bac6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/14\/13-16.1791998759954.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "हम चढ़बइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "बादर के ऊँचाई सब"
+    },
+    {
+      "surface": "עב",
+      "gloss": "बादर"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "जइसन हम हो जाबइ"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "एल्योन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:25:59.954971473Z",
+  "model": "glm-5.3"
+}

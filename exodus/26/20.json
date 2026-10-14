@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ओर",
+      "rationale": "צלע के सुभाविक अरथ पसली (देह के घुकल अंग); इहाँ मिश्कान के पार्श्व बर 'ओर' रूप में लेलग"
+    },
+    {
+      "kind": "substitution",
+      "subject": "तख्ता",
+      "rationale": "קרש के सुभाविक अरथ चौकोर काठ के स्लैब\/पटरा; कुछ अनुवाद 'फ्रेम' कहऽ हथिन"
+    },
+    {
+      "kind": "measurement",
+      "subject": "बीस तख्ता",
+      "rationale": "मिश्कान के दोसर ओर के तख्ता के गिनती"
+    }
+  ],
+  "translation": "आउ मिश्कान के दोसर ओर बर उत्तर दिसा में बीस तख्ता।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ded19820bcfbe2bd584e50fb6e727265ce0ef2955614cff0902c298470c21c1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/26\/20-20.1792011573256.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "आउ … ओर बर"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मिश्कान के"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "दिसा में"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "तख्ता"
+    }
+  ],
+  "timestamp": "2026-10-14T20:59:33.256599723Z",
+  "model": "glm-5.3"
+}

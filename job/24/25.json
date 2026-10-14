@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 24:25",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "לאל",
+      "rationale": "אל के नञ-रूप इहाँ संज्ञा बन के 'कुछो नञ \/ बेकार' के अरथ में — तनाख़ में संज्ञा रूप खाली एही जगह।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨बेकार⟩",
+      "rationale": "'लאל' के संज्ञात्मक अरथ (कुछो नञ) के साफ करे बर जोड़ल मगही शब्द।"
+    },
+    {
+      "kind": "you",
+      "subject": "सुननिहार लोग",
+      "rationale": "जियोब सवाल के रूप में चुनौती देलथिन — कौनो गवाह हमरा झूठा साबित करो।"
+    }
+  ],
+  "translation": "आउ अइसन नञ होवे त कौनो हमरा झूठा साबित करतइ आउ हमर बात के ⟨बेकार⟩ बनातइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8c50f1f8aceb5a6bf32e9dd076b7ea52334dd00ec0a98e2e1db93982625cf79b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/24\/25-25.1792007537582.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ अइसन नञ होवे त"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "अब"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौनो"
+    },
+    {
+      "surface": "יכזיבני",
+      "gloss": "हमरा झूठा साबित करतइ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "बनातइ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "बेकार के"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "हमर बात"
+    }
+  ],
+  "timestamp": "2026-10-14T19:52:17.582975387Z",
+  "model": "glm-5.3"
+}

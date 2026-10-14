@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "अवगुन",
+      "rationale": "עון = बिकार \/ मरोड़ — 'अवगुन' निकटतम मगही सब्द, बाकि ओकर भार-उठावे के अरथ किनारे हो जाऽ हइ"
+    }
+  ],
+  "translation": "हमनी के बाप-दादा पाप करलन, आउ ओकनी नञ रहलन; ओकनी के अवगुन हमनी उठाइलहुँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e4897c6c587e63c6fc9ff098eb02feddcb2cb6503c7cd2489c8e2ddd86242a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/5\/5-8.1792008312823.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "हमनी के बाप-दादा"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "पाप करलन"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ओकनी नञ रहलन"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हमनी"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "ओकनी के अवगुन"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "उठाइलहुँ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:12.824322444Z",
+  "model": "glm-5.3"
+}

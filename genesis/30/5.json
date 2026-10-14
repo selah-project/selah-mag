@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एक",
+      "rationale": "Hebrew בן has no numeral; the indefinite article added for Magahi flow"
+    }
+  ],
+  "translation": "आउ बिल्हा गर्भवती भेलइ आउ ओ याकोव बर एक बेटा जनमलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "340ff508f90c96616ef7105a9f47f977a34b801ca1124d1b3b9c52ed16f5c27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/30\/5-8.1791987161219.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "गर्भवती भेलइ"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "बिल्हा"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जनमलक"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोव बर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "एक बेटा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:12:41.220389314Z",
+  "model": "glm-5.3"
+}

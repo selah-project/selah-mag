@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "गिनती",
+      "rationale": "गबाय आउ सल्लाय के संग नौ सौ अट्ठाइस आदमी।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ओकरा पाछे",
+      "rationale": "“ओकरा पाछे” — अरथ सल्लू के अधीन या ओकर दल के संग; bsb “ओकर अनुयायी” लेथिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "गिनती के बाकी हिस्सा",
+      "rationale": "इब्रानी सिर्फ अंक कहऽ हइ; “आदमी” बात-भीतर से मानल गेल।"
+    }
+  ],
+  "translation": "आउ ओकरा पाछे गबाय, सल्लाय — नौ सौ अट्ठाइस।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae152060207bce69c2edc1599dc73b689f2cdcdf4c1ea875bd658b1ba08bfd11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/11\/5-8.1792009737917.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "आउ ओकरा पाछे"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "गबाय"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "सल्लाय"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "अट्ठाइस ⟨बीस⟩"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आठ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:28:57.918463097Z",
+  "model": "glm-5.3"
+}

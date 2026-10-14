@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकनी के",
+      "rationale": "प्रत्यक्ष कर्म सर्बनाम हिब्रू में क्रिया के प्रत्यय में समाहित हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ראמים",
+      "rationale": "जंगली बैल बनाम यूनिकॉर्न (केजेवी) — रीम बासभूषी जंगली बैल हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ ओकनी के बछुरा जइसन नचावऽ हइ — लेबनोन आउ सिरयोन, जंगली बैल के बेटा जइसन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/29\/5-8.1792004731633.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "नचावऽ हइ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "बछुरा"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "लेबनोन"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "आउ सिरयोन"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "जंगली बैल के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:05:31.634407847Z",
+  "model": "glm-5.3"
+}

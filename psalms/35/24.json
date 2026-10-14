@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे हमर एलोहीम",
+      "rationale": "सीधे अरजी जे यहवे ही नियाव करथिन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "नियाव करऽ",
+      "rationale": "שפטनी दुनो अरथ रखऽ हइ — दोस देना आउ निर्दोस ठहराना; बिना-पहिले-जानकारी में फैसला-क्रिया रखल गेल"
+    }
+  ],
+  "translation": "हमर नियाव करऽ, तोहर त्सेदेक के मोताबिक, यहवे हमर एलोहीम; आउ ओकनी हमरा ऊपर खुस नञ होवऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "62a9386b2fa9834f237bbb5a747f8a9d777c61801934371a508b20b182a65367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/35\/21-24.1792004854069.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "हमर नियाव करऽ"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "तोहर त्सेदेक के मोताबिक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ … नञ"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "खुस होवऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा ऊपर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:34.070581405Z",
+  "model": "glm-5.3"
+}

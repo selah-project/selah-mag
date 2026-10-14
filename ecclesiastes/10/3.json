@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואמר לכל סכל הוא",
+      "rationale": "के कहऽ हइ — मूर्ख आपना बारे में, या दोसर के बारे में (KJV\/JPS बनाम YLT दुनू पठन मौजूद हकइ)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סכל",
+      "rationale": "एके जड़ के तीन आगमन (כשהסכל, סכל, סכל) — आवृत्ति मगही में कछु हल्का हो जातइ"
+    }
+  ],
+  "translation": "आउ जने मूर्ख रस्ता पर चलऽ हइ, ओकर हिरदय घट हकइ, आउ ओ सबका के बतावऽ हइ कि ऊ मूर्ख हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/10\/1-4.1792008459311.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आउ जने"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता पर"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "चलऽ हइ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर हिरदय"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "घट हकइ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आउ ओ कहऽ हइ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सबका के"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:07:39.312798853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 34:26",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראשית בכורי",
+      "rationale": "'पहिला' + 'पहिलका फल' — इब्रानी में दू गुँथल शब्द, पहिलापन के दोहराव।"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल",
+      "rationale": "तूँ — दू आदेश, सीधा सम्बोधन।"
+    }
+  ],
+  "translation": "तोहर जमीन के पहिलका फल के रइसियत तूँ यहवे तोहर एलोहीम के घर में लाबे; तूँ बकरी के बच्चा ओकर माय के दूध में नञ पकाबे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2d6bd0adbc87d9a368c6f1c18a6b150108173d678c61e712bcb3ca3b2ecaa4ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/34\/25-28.1791989165755.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "रइसियत"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "पहिलका फल"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "तोहर जमीन"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "लाबे"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "पकाबे"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "बकरी के बच्चा"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "दूध में"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ओकर माय"
+    }
+  ],
+  "timestamp": "2026-10-14T14:46:05.756420391Z",
+  "model": "glm-5.3"
+}

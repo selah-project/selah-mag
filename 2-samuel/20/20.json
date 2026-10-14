@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלילה חלילה",
+      "rationale": "'दूर रहे, दूर रहे' के दोहराव — इब्रानी अड़ान-बड़ान के चाल; मगही में दोहराव रखल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבלע \/ תבלע",
+      "rationale": "योआब जनाना के अपने सब्द 'निगलल' (20:19 תבלע) उठा के जवाब देलक — ओकर बचन के गूँज; मगही में ओही सब्द 'निगलबइ' वापस भेजल गेलइ।"
+    }
+  ],
+  "translation": "योआब जवाब देलक आउ कहलक, दूर रहे, दूर रहे हमरा से — कि हम निगलबइ या बरबाद करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8ad95de7365608618ac7f9b6c305ba9fc9617bdbae2756e6b10e598fadb78a20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/20\/17-20.1791996397154.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब देलक"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "दूर रहे"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "दूर रहे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "אם",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "निगलबइ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "या"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "बरबाद करबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:46:37.155601806Z",
+  "model": "glm-5.3"
+}

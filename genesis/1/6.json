@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "फैलाव",
+      "rationale": "רקיע is a hammered-out expanse; 'firmament' (Latin firmamentum) imports a solid-dome cosmology the picture-word 'फैलाव' avoids"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ऊ⟩",
+      "rationale": "Hebrew participle מבדיל carries the subject 'it (the expanse)'; Magahi needs the pronoun"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מים…למים",
+      "rationale": "bare 'waters…from waters' repetition with no qualifier — the stark rhythm is kept"
+    }
+  ],
+  "translation": "आउ एलोहीम कहलन: “फैलाव होवऽ, पानी के बीच में, आउ ⟨ऊ⟩ पानी आउ पानी के बीच अलग करतइ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "693e2cdb49c8d71a631d95aea03e8300f2587939102fde607e7da14c153ec6ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/1\/5-8.1791986286283.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "होवऽ"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "फैलाव"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होवऽ"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "अलग करए वाला"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "למים",
+      "gloss": "पानी से"
+    }
+  ],
+  "timestamp": "2026-10-14T13:58:06.283987084Z",
+  "model": "glm-5.3"
+}

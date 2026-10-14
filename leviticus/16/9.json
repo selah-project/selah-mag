@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨एकर अरथ में⟩",
+      "rationale": "חטאת एके सब्द हकइ — पाप आउ पाप-बलि दुनो; बलि के अरथ लेल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "गोरल",
+      "rationale": "गोरल (कंकर से नाप) से चुनाव — नाप-गिनती के काम।"
+    }
+  ],
+  "translation": "आउ अहरोन ⟨את⟩ ओ बोका के नियतै लावलक जेकर ऊपर यहवे बर गोरल चढ़लइ, आउ ओकरा पाप-बलि बनइलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c91ac5d3957eedc634377f4308617d4d9741b65a14bd61e9560cd0b3c2bf8f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/16\/9-12.1791990027022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "नियतै लावलक"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ बोका"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ओ बोका"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़लइ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "गोरल"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "बनइलक"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप-बलि"
+    }
+  ],
+  "timestamp": "2026-10-14T15:00:27.022917844Z",
+  "model": "glm-5.3"
+}

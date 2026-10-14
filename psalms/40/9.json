@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "आँत",
+      "rationale": "מעי आँत\/पेट के अरथ हकइ — 'हिरदय' के जगह ओही शरीर के बात रखल गेलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "चाहऽ हइ",
+      "rationale": "इब्रानी किरिया 'हम-चाहलन' हकइ; मगही में वर्तमान रूप जोड़ल गेलइ"
+    }
+  ],
+  "translation": "करे बर तोहर इच्छा, हमर एलोहीम, हम ⟨चाहऽ हइ⟩; आउ तोहर तोरा हमर आँत के भीतर हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/40\/9-12.1792004965968.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "करे बर"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "तोहर इच्छा"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "हम ⟨चाहऽ हइ⟩"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "आउ तोहर तोरा"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के भीतर"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "हमर आँत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:25.969461589Z",
+  "model": "glm-5.3"
+}

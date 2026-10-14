@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "किनारा",
+      "rationale": "שפת के सच्च अरथ होठ\/मुँह हकइ — नदी के किनारा ओकर 'होठ' हकइ; मगही में 'किनारा' ई तस्वीर गँवा देतइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "चादर",
+      "rationale": "אדרת: लम्बा-चउड़ ऊनी चादर — कोनो 'मेंटल' जइसन पदवी नञ।"
+    }
+  ],
+  "translation": "आउ ओ एलियाहू के चादर ⟨את⟩ उठालक जे ओकरा से गिरल हलइ, आउ ओ फेर लौटलक आउ यर्देन (यर्दन) के किनारा पर ठाढ़ होलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c44a39ee10cbb524acb8865b40d9842968029f4faf6192e773c63c1921fcb9be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/2\/13-16.1791997718391.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "उठालक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चादर"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "चादर"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहू के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "गिरल हलइ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "फेर लौटलक"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ठाढ़ होलक"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्देन (यर्दन)"
+    }
+  ],
+  "timestamp": "2026-10-14T17:08:38.391966504Z",
+  "model": "glm-5.3"
+}

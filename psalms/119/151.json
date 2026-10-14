@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हऽ \/ हकइ",
+      "rationale": "copulas supplied; Hebrew verbless clauses"
+    }
+  ],
+  "translation": "तूँ नजदीक हऽ, हे यहवे, आउ तोहर सब आज्ञा सच हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "095bfc6b39d8c6e216e1e9ef7ab9b851811cace04c81f0bdcaa2b77d9df919ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/149-152.1792006096474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "नजदीक"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "तोहर आज्ञा"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:16.474993880Z",
+  "model": "glm-5.3"
+}

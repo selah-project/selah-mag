@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "पराजित",
+      "rationale": "נגף के सचमुच अरथ 'ठोक मारल गेल' हकइ"
+    }
+  ],
+  "translation": "आउ जब अराम देखलक जे ऊ यिस्राएल के आगू पराजित भेलइ हे, तब ऊ सब एकट्ठा भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0f2b8ccd64ff7a9f0e6f9a7e86df384251dd2ca390999e4ff7740b27a78ea942",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/10\/13-16.1791996127607.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलक"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "पराजित भेलइ हे"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "एकट्ठा भेलन"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एकठे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:42:07.609110708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩",
+      "rationale": "मगही के बाक्य खातिर क्रिया जोड़ल गेल — इब्रानी में क्रिया नञ हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "לפקד",
+      "rationale": "पकड के दुहरा चेहरा — देखबा बनाम दण्ड देबा; देख-परख लेल गेल।"
+    }
+  ],
+  "translation": "आउ यहवे के झगड़ा यहूदा के संग ⟨हकइ⟩, आउ याकोव के ओकर रस्ता के मोताबिक देख-परख करबाक, ओकर काम के मोताबिक ओकरा बदला देतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "823b702dbbab90508d3e1f0a3744a33cd54c77a956b258685b02456494d37a41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/12\/1-4.1792003348890.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "आउ झगड़ा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "आउ देख-परख करबाक"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "ओकर रस्ता के मोताबिक"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "ओकर काम के मोताबिक"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "बदला देतन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:42:28.891752618Z",
+  "model": "glm-5.3"
+}

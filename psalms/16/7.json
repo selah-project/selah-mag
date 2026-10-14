@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गुरदा सब",
+      "rationale": "क्लियोत शाब्दिक रूप से गुरदा हकइ — भीतर के मन के बिन्दु; 'मन' या 'अंतरात्मा' रूपांतरण होतइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "यसरूनी",
+      "rationale": "यासर — 'शिकसा देना\/ताड़ना' बनाम 'सीखा के दिखावना'; परति-ताड़ना रूप रखल गेलइ"
+    }
+  ],
+  "translation": "हम यहवे ⟨את⟩ के धन्यवाद करतइ, जे हमरा सलाह देलन; हाँ, राति सब में हमरा गुरदा सब हमरा शिकसा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "186f4933ae95d6d36a897fa32ee8e7df3e79756d477e039c57eee69c9ff5b9b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/16\/6-7.1792012045424.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "हम धन्यवाद करतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "हमरा सलाह देलन"
+    },
+    {
+      "surface": "אף",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "राति सब में"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "हमरा शिकसा देलन"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "हमरा गुरदा सब"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:25.424883829Z",
+  "model": "glm-5.3"
+}

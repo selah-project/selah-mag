@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "हमरा संग",
+      "rationale": "'इति' — 'मेरे साथ' (यहवे के साथ दूसरे देवता) या 'मुझे' — केजेवी\/वाईएलटी 'विद मी' बनाम एएसवी 'अदर गॉड्स बिसाइड मी'"
+    },
+    {
+      "kind": "addition",
+      "subject": "देवता सब",
+      "rationale": "यहाँ 'अलोहिम' अन्य देवताओं के लिए — जनजाति-शब्द, नाम नहीं, इसलिए अनुवाद"
+    }
+  ],
+  "translation": "तोहनी ⟨हमरा⟩ संग ⟨את⟩ चानी के देवता सब नञ बनऽ आउ सोना के देवता सब अपना बर नञ बनऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "598982cf26ea88b589891e70f8c1b4f6725367465155bc69cbe58aa5e3d6d2bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/20\/21-24.1791988536097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "बनऽ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ हमरा संग"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "देवता सब"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "आउ देवता सब"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "बनऽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "अपना बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:35:36.098544305Z",
+  "model": "glm-5.3"
+}

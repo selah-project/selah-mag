@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "एफ्रायिम",
+      "rationale": "वचन एफ्रायिम के सीधे संबोधन करऽ हइ — 'ओकरा छोड़ दे'।"
+    },
+    {
+      "kind": "crux",
+      "subject": "छोड़ दे",
+      "rationale": "הנח לו के मतलब 'ओकरा छोड़ दे' (छोड़ देवे के आज्ञा) या 'ओकरा आराम दे' — अनुवादक लोग दुनों पक्ष लेथिन।"
+    }
+  ],
+  "translation": "मूरति सब के संग जुड़ल हकइ एफ्रायिम — ओकरा छोड़ दे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "623db11338dc7f46d03e3c62fb8039bbcad6eed2e692d53b58b3080dd4d302d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/4\/17-19.1792003158231.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "जुड़ल हकइ"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "मूरति सब के संग"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रायिम"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "छोड़ दे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:39:18.231648591Z",
+  "model": "glm-5.3"
+}

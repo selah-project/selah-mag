@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गुजरत-मरत",
+      "rationale": "גוע 'साँस छोड़ल' — मरन के कगार पर"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אפונה",
+      "rationale": "तनाख़ में एके जगह — बे-होस, भटकाव"
+    }
+  ],
+  "translation": "दुखी हम, आउ बचपन से गुजरत-मरत हइ; तोहर डर उठाइलिए हम, हमर होस भटक गेलइ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3c3eff354bf1ac25a5a0e5308c92c07f1b584ab82d017c95d8e0f745392d71a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/88\/13-16.1792005631976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "दुखी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "आउ गुजरत-मरत हइ"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "बचपन से"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "उठाइलिए हम"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "तोहर डर"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "हमर होस भटक गेलइ हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:20:31.979923855Z",
+  "model": "glm-5.3"
+}

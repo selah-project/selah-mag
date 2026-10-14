@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחדו פחד",
+      "rationale": "क्रिया आउ संज्ञा एके जड़ के (डरलन डर) — इब्रानी के कारक-दोहराव।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨के⟩",
+      "rationale": "इब्रानी के बन्धन-पद मगही में के से जोड़ल जा हइ।"
+    }
+  ],
+  "translation": "उहाँ ओकनी डरलन डर के, काहे कि एलोहीम त्सेदेक बालक ⟨के⟩ पीढ़ी में हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "89dffb7fa07d7843d987d6eb0864d529d8029060358ba5764b434165b0ed1d8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/14\/5-7.1792004532460.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "פָּחֲדוּ",
+      "gloss": "डरलन"
+    },
+    {
+      "surface": "פָּחַד",
+      "gloss": "डर के"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בְּדוֹר",
+      "gloss": "पीढ़ी में"
+    },
+    {
+      "surface": "צַדִּיק",
+      "gloss": "त्सेदेक बालक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:12.461403480Z",
+  "model": "glm-5.3"
+}

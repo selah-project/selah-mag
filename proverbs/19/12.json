@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ — रूपक सीधा ठाढ़ हकइ; मगही के क्रिया ⟨⟩ में जोड़ल गेलन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "दहाड़\/ओस",
+      "rationale": "दुई उलट चित्र एके पद में — राजा के गुस्सा आउ खुसी के तुलना-जोड़ी।"
+    }
+  ],
+  "translation": "राजा के गुस्सा छोट सेर के दहाड़ जइसन ⟨हकइ⟩, बाकि ओकर खुसी घास पर ओस जइसन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/19\/9-12.1792006814320.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "दहाड़"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "छोट सेर के जइसन"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "बाकि ओस जइसन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "घास"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ओकर खुसी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:14.322018219Z",
+  "model": "glm-5.3"
+}

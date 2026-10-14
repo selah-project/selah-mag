@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירהו \/ ייראו",
+      "rationale": "तीर मारना (ירה) आउ डरना (ירא) के नाम-मेल — इब्रानी के चुटकी, मगही में खतम।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירהו",
+      "rationale": "एक-बचन के क्रिया बहु-बचन के करता के बीच — 'ओकरा मारऽ हथिन' (KJV) बनाम 'ओकनी के मारऽ हथिन'।"
+    }
+  ],
+  "translation": "छुपल जगह में ओझर के तीर मारे बर; अचानक ओकरा तीर मारऽ हथिन आउ डरऽ नञ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e4c926892af85c968b9c94d9a9a9cd39e2d0b004f518b1f88a54f79e6d22fed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/64\/5-8.1792005292692.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "तीर मारे बर"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "छुपल जगह में"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ओझर"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "तीर मारऽ हथिन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "डरऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:52.692514262Z",
+  "model": "glm-5.3"
+}

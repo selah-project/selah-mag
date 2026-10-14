@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להתנוסס",
+      "rationale": "जड़ נוס — 'भागऽ' या 'उड़ी के चले जाऽ'; BSB 'flee the bow' के पढ़ाई वाला अरथ हकइ, बाकि 'लहरावे' चलनसार अरथ हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "קשט",
+      "rationale": "קֹשׁ׶ט 'सच\/न्याय' बनाम KJS marginal पढ़ाई 'कमान' (קשת) — अच्छर लगभग एके हकइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "संगीत-विराम चिन्हा; अनुवाद नञ, जस के तस रखल।"
+    }
+  ],
+  "translation": "देलन तूँ तोहरा डरै वाला के झंडा लहरावे बर, सच के कारण। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/60\/5-8.1792005278624.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "तोहरा डरै वाला के"
+    },
+    {
+      "surface": "נס",
+      "gloss": "झंडा"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "लहरावे बर"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "सच"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:38.625135013Z",
+  "model": "glm-5.3"
+}

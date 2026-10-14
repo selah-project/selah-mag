@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 56:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ओकर⟩",
+      "rationale": "इब्रानी में צפו के संग परसंग नञ देल गेलइ; मगही के बाक्य बर ओकर जोड़ल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הזים",
+      "rationale": "हָזִים: “सपना देखैत” (हाजָה के जड़) बनाम “बड़-बकैत\/भ्रमित” — अनुवादक लोग में झगड़ा हकइ।"
+    }
+  ],
+  "translation": "⟨ओकर⟩ पहरेदार अन्हरा हथिन, सब नञ जानथिन; सब गूंग कुकुर हथिन, भोंकऽ नञ सकथिन; सपना-देखैत, लेटल-पड़ल, ऊँघ के परेमी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f935ac1ebd796e2ebd9258ba87f2a9fc9e1ea4cc8af1004bb213a40f5b71460d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/56\/9-12.1791999717693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "पहरेदार"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "अन्हरा"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "जानथिन"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सब"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "कुकुर"
+    },
+    {
+      "surface": "אלמים",
+      "gloss": "गूंग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "सकथिन"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "भोंकऽ"
+    },
+    {
+      "surface": "הזים",
+      "gloss": "सपना-देखैत"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "लेटल-पड़ल"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "परेमी"
+    },
+    {
+      "surface": "לנום",
+      "gloss": "ऊँघ के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:41:57.693871606Z",
+  "model": "glm-5.3"
+}

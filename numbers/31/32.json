@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 31:32",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "675000 भेड़",
+      "rationale": "गिनती-पद: छह सौ हजार आउ सत्तर हजार आउ पाँच हजार — इब्रानी के टुकड़ा-टुकड़ा गिनती जस के तस रखल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בז \/ בזזו",
+      "rationale": "एके जड़ के दोहराव — बूट आउ लूटलन — इब्रानी के जोड़ मगही में थोड़का बनल बनावट में आवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתר הבז",
+      "rationale": "'बूट के बाकी' — कुछ अनुवाद 'बूट के अलावा' पढ़ऽ हथिन (ASV\/JPS), कुछ 'बूट के हिस्सा' (KJV)"
+    }
+  ],
+  "translation": "आउ सेना के लोग जे लूटलक, ओकर बूट के बाकी बंदी-लूट एहन हलइ — भेड़ छह सौ हजार आउ सत्तर हजार आउ पाँच हजार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "49ad611f8d320ac7fdb1d8727df9fe6c64af2dea47416f1259dcfa6efa4e2fa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/31\/29-32.1791991730145.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ हलइ"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "बंदी-लूट"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "बाकी"
+    },
+    {
+      "surface": "הבז",
+      "gloss": "बूट"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "लूटलन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "सेना के"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "आउ सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "आउ पाँच"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-10-14T15:28:50.146983150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "सुत गेलन",
+      "rationale": "עם אבתיו 'बाप के संग सुबे' — मरन के इब्रानी भासा, जस के तस रखल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "אבתיव में आधिक पुरुष अछि, मगही में 'अपन' के रूप में साफ कएल गेल।"
+    }
+  ],
+  "translation": "आउ योताम अपन बाप-दादा के संग सुत गेलन, आउ ओकरा दाविद के नगर में गाड़ देलन, आउ ओकर बेटा अहाज ओकर जगह राजा भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c0596e85389d731eb06d1b80e8db9d05356f14f270e8bf5c891aac288847f3b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/27\/9-9.1792011128281.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "सुत गेलन"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "योताम"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "अपन बाप-दादा"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "गाड़ देलन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राजा भेलन"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "अहाज"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    }
+  ],
+  "timestamp": "2026-10-14T20:52:08.282394004Z",
+  "model": "glm-5.3"
+}

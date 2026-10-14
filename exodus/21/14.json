@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 21:14",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יזד",
+      "rationale": "'उबलना\/दुस्साहस करना' — मन-बूझ के कएल घात बनाम गलती; 'चढ़ऽ हकइ' के रूप लिखित चाल रखल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "आदेश-बोध",
+      "rationale": "תקחנו आज्ञा रूप हकइ — 'ओकरा ले जऽ मार दिअऽ' जइसन बेदी से जियारत ले जाएल नञ जा सकऽ हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "हमर बेदी से लेब",
+      "rationale": "यिस्राएल के सीधे आदेश।"
+    }
+  ],
+  "translation": "आउ जब कोनो मरद अपन संगी ऊपर दुस्साहस से ओकरा छल-कपट से मारे बर चढ़ऽ हकइ, त ओकरा हमर बेदी से लेब, मरे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "89af2630d59f9915551a559bf157141f40ff3b9b6406428248f965bc49e9498b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/21\/13-16.1791988712383.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आउ जब"
+    },
+    {
+      "surface": "יזד",
+      "gloss": "दुस्साहस से चढ़ऽ हकइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोनो मरद"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "अपन संगी"
+    },
+    {
+      "surface": "להרגו",
+      "gloss": "ओकरा मारे बर"
+    },
+    {
+      "surface": "בערמה",
+      "gloss": "छल-कपट से"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "से"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "हमर बेदी"
+    },
+    {
+      "surface": "תקחנו",
+      "gloss": "ओकरा लेब"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मरे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:38:32.383736144Z",
+  "model": "glm-5.3"
+}

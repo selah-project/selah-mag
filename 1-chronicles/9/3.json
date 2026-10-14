@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨बेटा सब⟩",
+      "rationale": "मनश्शे के आगे 'बनी' मूल में नञ हइ; ढाँचा बर जोड़ल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "कोनो लोग",
+      "rationale": "हिब्रू अनुपस्थित — 'में से' के पूरा अरथ बर"
+    },
+    {
+      "kind": "measurement",
+      "subject": "बंसावली के सूची",
+      "rationale": "गोत्र के नाम के क्रमबद्ध सूची"
+    }
+  ],
+  "translation": "आउ यरूशलयिम में यहूदा के बेटा सब में से, बिन्यामिन के बेटा सब में से, एफ्रयिम के बेटा सब में से आउ मनश्शे के ⟨बेटा सब⟩ में से कोनो लोग रहलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/9\/1-4.1792010132460.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "आउ यरूशलयिम में"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "रहलथिन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आउ में से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामिन"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आउ में से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रयिम"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "आउ मनश्शे"
+    }
+  ],
+  "timestamp": "2026-10-14T20:35:32.461889040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 11:33",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משכילי\/יבינו",
+      "rationale": "एके जड़ बין के दू हिस्सा — समझदार ऊचे से समझावै हथिन; मगही में एकर जोड़ी घट जाय हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "बहुत",
+      "rationale": "ימים अकेले „दिन” कहऽ हइ; „बहुत दिन” के अरथ विशेषण जोड़लक हए — हिन्दी भाव के दबाव।"
+    },
+    {
+      "kind": "elision",
+      "subject": "לרבים",
+      "rationale": "रूप में पहुँचक किन्तु क्रिया के परति बाँधल बतावै हइ; मगही में पहुँचक के रूपे रखल गेलइ।"
+    }
+  ],
+  "translation": "आउ परजा के समझदार लोग बड़े लोग के समझाबथिन; आउ ऊ तलवार में आउ लपट में, बंदी में आउ लूट में ठल जातथिन — दिन ⟨बहुत⟩ ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "65cfce1f42f6a037f595fffac843de0708288b0c2858048146416fda690e5137",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/11\/33-36.1792009194038.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשכילי",
+      "gloss": "समझदार"
+    },
+    {
+      "surface": "עם",
+      "gloss": "परजा के"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "समझाबथिन"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "बड़े लोग के"
+    },
+    {
+      "surface": "ונכשלו",
+      "gloss": "आउ ठल जातथिन"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवार में"
+    },
+    {
+      "surface": "ובלהבה",
+      "gloss": "आउ लपट में"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "बंदी में"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "आउ लूट में"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:19:54.039436963Z",
+  "model": "glm-5.3"
+}

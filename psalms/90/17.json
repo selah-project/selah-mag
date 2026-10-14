@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נעם",
+      "rationale": "नोआम के अरथ में मतभेद: सुन्दरता (KJV), अनुग्रह (ASV), मनोहरता (JPS) — लिप्यन्तरन रखल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हाँ",
+      "rationale": "मगही के बाक्य-बनावट बर जोड़ल शब्द, इब्रानी में नञ हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ומעשה ידינו כוננה",
+      "rationale": "जे-जे काम हमनी के हाथ के होवे ओकरा दोहरावल गेल हइ — तुक आउ जोर, मगही में दोहराव रखल गेल।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "परमात्मा के अरज",
+      "rationale": "ई पद अदोनाय से बिनती हकइ — हमनी के काम थिर करऽ के निवेदन।"
+    }
+  ],
+  "translation": "आउ अदोनाय, हमनी के एलोहीम, के नोआम हमनी पर रहे, आउ हमनी के हाथ के काम हमनी बर थिर कर देओ, हाँ, हमनी के हाथ के काम थिर कर देओ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "19b3ecc4a0a9a66a2e90b254550fc632b7e3b1273c2bff9c0a2fbd340ecf53e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/90\/17-17.1792005681027.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ ... रहे"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "नोआम"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी पर"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "आउ ... काम"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "हमनी के हाथ के"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "थिर कर देओ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी बर"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "हाँ, ... काम"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "हमनी के हाथ के"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "थिर कर देओ ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:21.028414266Z",
+  "model": "glm-5.3"
+}

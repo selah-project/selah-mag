@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 28:31",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "संग",
+      "rationale": "मगही जोड़-संरचना बर 'संग' जोड़ल गेल; इब्रानी खाली जोड़-वाव के जोड़ऽ हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नित्य बलि",
+      "rationale": "पद नित्य बलि के नियम तय करऽ हइ — बलि-सामग्री के नाप आउ गुणवत्ता।"
+    }
+  ],
+  "translation": "नित्य बलि आउ ओकर मिन्हा के अलावा एकरा करऽ; ओ सब निर्दोस होवअ तोहनी बर, आउ ओकरा के पियावे के बलि संग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/28\/29-31.1791991585885.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "अलावा"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "नित्य"
+    },
+    {
+      "surface": "ומנחתו",
+      "gloss": "आउ ओकर मिन्हा"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "निर्दोस"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होवअ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "आउ ओकरा के पियावे के बलि"
+    }
+  ],
+  "timestamp": "2026-10-14T15:26:25.886638832Z",
+  "model": "glm-5.3"
+}

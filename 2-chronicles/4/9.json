@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 4:9",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עזרה",
+      "rationale": "एके जड़ के दू रूप हकइ — आँगन (חצר) आउ बड़ा आँगन (עזרה) — मगही में दूनो 'आँगन' हो गेलइ; इब्रानी के फरक धुँधला हो गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "करता स्पष्ट करे बर सर्बनाम जोड़ल गेलइ; इब्रानी क्रिया के रूप ही करता बतावऽ हइ।"
+    }
+  ],
+  "translation": "आउ ऊ पुरोहित सब के आँगन बनइलन, आउ बड़ा आँगन, आउ आँगन बर दुआरी सब, आउ ओकर दुआरी सब पीत्तल से मढ़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6f61e0638e90538c0ef142914a2d9b4251cdb6abfc5adaea92b83287633cd3c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/4\/9-12.1792010645181.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "आँगन"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित सब के"
+    },
+    {
+      "surface": "והעזרה",
+      "gloss": "आउ आँगन"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "ודלתות",
+      "gloss": "आउ दुआरी सब"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "आँगन बर"
+    },
+    {
+      "surface": "ודלתותיהם",
+      "gloss": "आउ ओकर दुआरी सब"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "मढ़लन"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "पीत्तल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:44:05.182371321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 28:13",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ \/ जे",
+      "rationale": "मगही के सापेक्ष पद के बर सर्बनाम जोड़ल गेलन, इब्रानी में क्रिया-विशेषण अकेले हइ"
+    }
+  ],
+  "translation": "जे अपन पाप छिपावऽ हइ, ऊ सफल नञ होतइ; बाकि जे मानऽ हइ आउ छोड़ऽ हइ, ओकरा दया मिलतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3002978ecd6e910ccfe75da8f0c6fd1b46b9c502ad660470b28e43e3f2733d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/28\/13-16.1792006999642.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "छिपावऽ हइ"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "अपन पाप"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "सफल होतइ"
+    },
+    {
+      "surface": "ומודה",
+      "gloss": "आउ मानऽ हइ"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "आउ छोड़ऽ हइ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "दया मिलतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:19.642457328Z",
+  "model": "glm-5.3"
+}

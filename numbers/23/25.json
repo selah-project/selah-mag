@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קב",
+      "rationale": "शब्द-छेद़ना (कोबना) बनाम 'शाप देना' — अंग्रेजी में curse; मगही में कोबना छेद़ने के चित्र रखलक।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קב\/ברך",
+      "rationale": "कोबना आउ बरकत — दू क्रिया के आमने-सामने दोहरावल गेलइ, संरचना साफ रहऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "बिलाम से",
+      "rationale": "बालाक सीधा बिलाम के आदेस देतन।"
+    }
+  ],
+  "translation": "आउ बालाक बिलाम से कहलन, न तो कोबो नञ करऽ तूँ ओकरा, न बरकतो नञ करऽ तूँ ओकरा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c3b31df4a71248b783e76668eac1d073e098db14a578b995522147c3a6dde198",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/23\/25-28.1791991422620.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "גם",
+      "gloss": "कोबो नञ"
+    },
+    {
+      "surface": "קב",
+      "gloss": "कोबो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "तूँ कोबऽ हऽ ओकरा"
+    },
+    {
+      "surface": "גם",
+      "gloss": "बरकतो नञ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "बरकत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "तूँ बरकत करऽ हऽ ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:23:42.620813245Z",
+  "model": "glm-5.3"
+}

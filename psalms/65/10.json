@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדת",
+      "rationale": "'याद करलन' (जेपीएस) बनाम 'भेंट\/ध्यान देलन' — पकड दुनो अरथ हकइ"
+    },
+    {
+      "kind": "predicate",
+      "subject": "measurement",
+      "rationale": "पानी के नहर भरल होनी — बरखा आउ अनाज के नाप-तौल के बिम्ब"
+    }
+  ],
+  "translation": "तूँ धरती के भेंट करलन आउ ओकरा ओहू सींचलन; ओकरा बड़ धनी बनइलन — एलोहीम के नहर पानी से भरल हकइ; तूँ ओकर अनाज तैयार करऽ हथिन, काहे कि एहने ओकरा तैयार करऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/65\/9-12.1792005235867.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "भेंट करलन"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "सींचलन"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "धनी बनइलन"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "नहर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी से"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "तैयार करऽ हथिन"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "अनाज"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "तैयार करऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:55.868284698Z",
+  "model": "glm-5.3"
+}

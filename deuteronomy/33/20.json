@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 33:20",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨यहवे⟩",
+      "rationale": "हिब्रू में फइलावे वाला के नाम नञ लिकलइ — बरकत के बोली में बल देवे वाला बतावल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברוך מרחיב גד",
+      "rationale": "खुला सवाल: 'गाद के फइलावे वाला (परमात्मा) असीस पावऽ' या 'गाद असीस पावऽ जे फइलल हे' — दू पढ़ाई संभव"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כלביא",
+      "rationale": "लबिया — शेरनी, भेड़िया के चित्र में नञ; शक्ति आउ शिकार के बात हकइ"
+    }
+  ],
+  "translation": "आउ गाद बर कहलन: गाद के फइलावे वाला ⟨यहवे⟩ असीस पावऽ; ऊ शेरनी जइसन बसऽ हइ आउ बाँह टुटावऽ हइ, मूड़ी के चोटी तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "45a4f86ff8126d6224031df365beb6b1ec601ca080e1ac3c536cbf075c024bf4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/33\/17-20.1791993004105.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולגד",
+      "gloss": "आउ गाद बर"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "असीस पावऽ"
+    },
+    {
+      "surface": "מרחיב",
+      "gloss": "फइलावे वाला"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद के"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "शेरनी जइसन"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "बसऽ हइ"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "आउ टुटावऽ हइ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "बाँह"
+    },
+    {
+      "surface": "אף",
+      "gloss": "तक"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "मूड़ी के चोटी"
+    }
+  ],
+  "timestamp": "2026-10-14T15:50:04.106241799Z",
+  "model": "glm-5.3"
+}

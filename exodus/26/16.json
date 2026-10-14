@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "होतइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के बाक्य बर जोड़ल गेलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "तख्ता के नाप",
+      "rationale": "दस अम्मा लमाई, डेढ़ अम्मा चौड़ाई — मिश्कान के तख्ता के परति नाप"
+    }
+  ],
+  "translation": "दस अम्मा तख्ता के लमाई होतइ, आउ एक अम्मा आउ आधा अम्मा एक तख्ता के चौड़ाई।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5c167a40d41cfb18674fb26f2a8541d21e464493e32e8c5936416f410d7c7713",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/26\/13-16.1791988887796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "अम्मा"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लमाई"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "तख्ता के"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "आउ एक अम्मा"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "आउ आधा"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "अम्मा"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौड़ाई"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "तख्ता के"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-10-14T14:41:27.797244850Z",
+  "model": "glm-5.3"
+}

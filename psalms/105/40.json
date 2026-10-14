@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओनी",
+      "rationale": "करता ⟨ओकनी⟩ जोड़ल गेलइ; इब्रानी क्रिया-रूप बहुबचन करता बतावऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "पेट भरलन",
+      "rationale": "ישביעם 'तृप्त कए देलन' के सुभाविक मगही रूप; साँस बर खाली पेट शरीरिक अरथ ले"
+    }
+  ],
+  "translation": "ओनी माँगलन, आउ ऊ बटेर लए अएलन, आउ अकास के रोटी से ओकनी के पेट भरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/105\/37-40.1792005866801.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "माँगलन"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आउ ऊ लए अएलन"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "बटेर"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "आउ रोटी"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "ओकनी के पेट भरलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:26.802019556Z",
+  "model": "glm-5.3"
+}

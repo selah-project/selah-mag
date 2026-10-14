@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 3:25",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הנה",
+      "rationale": "दू बेर आवऽ हलइ; मगही में 'आउ देखलन कि' के रूप में घुललइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עד בוש",
+      "rationale": "साफ अरथ: 'जबतक लज्जित नञ भेलन' — कत्तक बेसलन जे लजा लागलन"
+    }
+  ],
+  "translation": "आउ ओकनी बेसलन जबतक लज्जित नञ भेलन, आउ देखलन कि ऊ ऊपर के कोठरी के केवाड़ी नञ खोलऽ हलथिन; तब ओकनी ⟨את⟩ चाबी लेलन आउ खोललन, आउ देखलन कि ओकनी के मालिक धरती पर गिरल मिललन — मरल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fde9a3ea26724fc17eca2af8103b5b8a84c6e5b20c36d6ca1169f9f5241d6ffa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/3\/25-28.1791994048791.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחילו",
+      "gloss": "बेसलन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जबतक"
+    },
+    {
+      "surface": "בוש",
+      "gloss": "लज्जित नञ भेलन"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखलन कि"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "खोलऽ हलथिन"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "केवाड़ी"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "ऊपर के कोठरी के"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "तब ओकनी लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चाबी"
+    },
+    {
+      "surface": "המפתח",
+      "gloss": "चाबी"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "आउ खोललन"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखलन कि"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "ओकनी के मालिक"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "गिरल"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मरल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:07:28.792520722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש साँस\/परान-बल हकइ, आत्मा नञ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפה וכלמה",
+      "rationale": "दू जुड़ल सब्द — निन्दा आउ बेइज्जति — के जोड़, मगही में जोड़ बचलइ बाकि धुन नञ।"
+    }
+  ],
+  "translation": "हमर परान के दुस्मन सब लजा जाय आउ खतम हो जाय; हमर बुराय खोजे वाला सब के निन्दा आउ बेइज्जति ढक ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0a1ee5dc1511e1ef3f3520935b85d72f87a00495bbe70beb00fb03821231156b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/71\/13-16.1792005350078.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "लजा जाय"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "खतम हो जाय"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "दुस्मन सब"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान के"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "ढक ले"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "निन्दा"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "आउ बेइज्जति"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "खोजे वाला सब"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "हमर बुराय"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:50.078755913Z",
+  "model": "glm-5.3"
+}

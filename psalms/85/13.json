@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "יבולה के प्रत्यय -הּ (ओकर) के मगही में ⟨अपन⟩ से देखावल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתן \/ תתן",
+      "rationale": "एके क्रिया दू बेर — यहवे देतन आउ धरती देतइ — एहे देने के जोड़ी मगही में बचल हइ"
+    }
+  ],
+  "translation": "गाम यहवे देतन जे भला हइ, आउ हमनी के धरती देतइ ⟨अपन⟩ फसल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cf0931526d8497ec42f1c5180566b79e392002d141456bdd64445ef32aba1d3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/85\/13-14.1792005589822.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "गाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देतन"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "जे भला हइ"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "आउ हमनी के धरती"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देतइ"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "फसल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:49.823762266Z",
+  "model": "glm-5.3"
+}

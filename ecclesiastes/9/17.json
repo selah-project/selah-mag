@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बेसी",
+      "rationale": "Hebrew has no word for 'more\/better'; the comparative מן (מזעקת) alone carries the comparison, so the comparative word is supplied and bracketed"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנחת \/ זעקה",
+      "rationale": "Quiet set against outcry — restful hush vs shriek; the antithesis carries the verse"
+    }
+  ],
+  "translation": "सियाना के बात चुप्पी में सुनल जा हइ — बोकालो के बीच राज करे वाला के चिल्लाहट से ⟨बेसी⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4942a5bb515b16e718bf405fea6d11ec38523fd37d1c5d9bf58424b5c7cf178a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/9\/17-18.1792008408760.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "सियाना के"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "चुप्पी में"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "सुनल जा हइ"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "चिल्लाहट"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "राज करे वाला के"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "बोकालो के बीच"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:48.761056744Z",
+  "model": "glm-5.3"
+}

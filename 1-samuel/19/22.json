@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 19:22",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨केहू⟩",
+      "rationale": "बोलै वाला मूल में नञ हइ — हिब्रू केवल 'और उसने कहा' कहऽ हइ, कोनो कहै वाला नाँव नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בור",
+      "rationale": "'गड्ढा\/कुइयाँ' बनाम 'गुम्बज' के पढ़ै के मतभेद — कुछ पढ़ै वाला केतुरा-सेखु के चिन्हा के बात करऽ हथिन।"
+    }
+  ],
+  "translation": "आउ ऊ ओ गेलन रामाह के दने, आउ ओ अइलन ले ले ओ बड़ा कुइयाँ के जे सेखु में हलइ; आउ ऊ पूछलन आउ कहलन, कते हथिन शमूएल आउ दाविद? आउ ⟨केहू⟩ कहलन, देखा, ओकनी नायोत में हथिन, रामाह के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "968640c62f64dd850335c1eaf20d1bfa4874addaf5de62b176c881170ba92811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/19\/21-24.1791995436726.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "रामाह के दने"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन ले"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בור",
+      "gloss": "कुइयाँ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בשכו",
+      "gloss": "सेखु में"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "पूछलन"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "कते"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमूएल"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "आउ दाविद"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखा"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "नायोत में"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "रामाह के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:30:36.727596989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "अनंतिवा-पूर्ण क्रिया के दोहराव — पूरा-पूरा भरपाई — जोर देवे बर, एक क्रिया दू बेर।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המבער\/הבערה",
+      "rationale": "एके जड़ के जोड़ी — जरावै वाला \/ जरावै — इब्रानी के शब्द-मेल मगही में जड़-दोहराव से रहलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "भस्म हो जाऽ हइ",
+      "rationale": "ונאכल के साक्षात अरथ 'खइल जाऽ हइ' — आग के खाए के चित्र, मगही में भस्म धरल गेल।"
+    }
+  ],
+  "translation": "जब आग निकलऽ हइ आउ काँटा में परगास होवऽ हइ आउ ओकरा से गड़ी के ढेर या खड़ा फसल या खेत भस्म हो जाऽ हइ, जे जरावै वाला हथिन ऊ ⟨את⟩ जरावै के पूरा-पूरा भरपाई करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0bf4f97fb15e47a8ec3938b11ffbccb02b4ca14c9c1fabdb7c30713c96a91bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/22\/5-8.1791988797336.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "निकलऽ हइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "परगास होवऽ हइ"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "काँटा"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "भस्म हो जाऽ हइ"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "गड़ी के ढेर"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "खड़ा फसल"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "भरपाई"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "जे जरावै वाला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जरावै"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "जरावै"
+    }
+  ],
+  "timestamp": "2026-10-14T14:39:57.336758163Z",
+  "model": "glm-5.3"
+}

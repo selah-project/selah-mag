@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 41:13",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש here is breath\/vitality, not the throat-sense; परान keeps the life-breath shape."
+    },
+    {
+      "kind": "crux",
+      "subject": "verse order",
+      "rationale": "KJV\/ASV at this number render the 'double bridle' verse — a versification displacement; the Hebrew line given here is the flame-from-mouth line."
+    }
+  ],
+  "translation": "ओकर परान अंगारा जरावऽ हइ, आउ ओकर मुँह से लपट निकरऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c30f1dea12210883d408ee492ac8a002a524d8612a35025de15d1a8ec7781d95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/41\/13-16.1792007904125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "ओकर परान"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "अंगारा"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "जरावऽ हइ"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "आउ लपट"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ओकर मुँह से"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकरऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:58:24.126121500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "वाचा काटलन",
+      "rationale": "ברית כרת — 'वाचा काटलन' के इब्रानी चित्र (बलि के टुकड़ा के बीच से गुजरल) रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नफस पुनः परान — जीवन-बल, नञ 'आत्मा'"
+    }
+  ],
+  "translation": "आउ यहोनातान आउ दाविद वाचा काटलन, काहे कि ऊ ओकरा ⟨את⟩ अपन परान जइसन परेम करऽ हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/18\/1-4.1791995416025.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "आउ काटलन"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातान"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "आउ दाविद"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "वाचा"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "परेम में"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "अपन परान जइसन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:30:16.025849982Z",
+  "model": "glm-5.3"
+}

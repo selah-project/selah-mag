@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "मेट-अलेफ-तव (म-अत, 'के संग से') के अलेफ-तव चिन्हा जस के तस ⟨את⟩ रूप में देखावल गेलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "ए",
+      "rationale": "लामार (कहे बर) के मगही में करता ⟨ए⟩ चाही, हिब्रू में नञ हे"
+    }
+  ],
+  "translation": "जे बात यहवे के ⟨את⟩ से यिर्मयाहू के लगा अइलइ, ए कहलन:",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "70b72f669050c089236245bd671e7a822fa671e64cba1a73f833ee9149d5d39a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/18\/1-4.1792000684647.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "जे बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "अइलइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगा"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ से",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ए कहलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:58:04.647562999Z",
+  "model": "glm-5.3"
+}

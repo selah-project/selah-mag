@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 24:2",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी में क्रिया-हीन बाक्य हकइ; मगही के भाव पूरा करे बर क्रिया जोड़ल गेलन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "जंगल",
+      "rationale": "מדבर उजाड़\/चरागाह बुझाऽ हइ; 'जंगल' मगही के नजदीकी सब्द हकइ"
+    }
+  ],
+  "translation": "आउ जब शाऊल पलिश्ती सब के पाछे से लौटलन, तब ओकरा ई बतावल गेलन कि देखऽ, दाविद एन-गेदी के जंगल में हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f87057065c432e457da7a07668390ef5126ec80feb3d6ba74b30131f2e9b59ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/24\/1-4.1791995542698.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ जब हलन"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "कि जब"
+    },
+    {
+      "surface": "שב",
+      "gloss": "लौटलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "के पाछे से"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती सब"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "बतावल गेलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "עין",
+      "gloss": "एन"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "गेदी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:22.699535822Z",
+  "model": "glm-5.3"
+}

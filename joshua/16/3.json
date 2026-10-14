@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 16:3",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ימה",
+      "rationale": "Literally 'sea-ward' = westward toward the Mediterranean; rendered 'समुंदर के ओर' keeping the sea, the compass sense implied."
+    },
+    {
+      "kind": "measurement",
+      "subject": "border",
+      "rationale": "Boundary survey continues: descent westward to named termini, ending at the sea."
+    },
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "Pronoun supplied for the continuing border as subject."
+    }
+  ],
+  "translation": "आउ ऊ समुंदर के ओर उतरल, यापलेती के सीमा के दने, तलहटी के बेइत-खोरोन के सीमा तक आउ गेजेर तक; आउ ओकर निकास समुंदर के ओर भेल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5f31944a0008ab8d63a520be34c96a0693c2688f800e1743a12e8627e0675167",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/16\/1-4.1791993647917.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "आउ ऊ उतरल"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "समुंदर के ओर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "היפלטי",
+      "gloss": "यापलेती के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेइत-"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "खोरोन"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "तलहटी के"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ तक"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "गेजेर"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "תצאתו",
+      "gloss": "ओकर निकास"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "समुंदर के ओर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:00:47.918326018Z",
+  "model": "glm-5.3"
+}

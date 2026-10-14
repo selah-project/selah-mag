@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יאכלו…יאכלו",
+      "rationale": "पद 23–24 में 'खाना' क्रिया तीन बेर दोहरावल गेल — कुत्ता आउ चिरईं के सामान बनल शरीर के तालमेल"
+    }
+  ],
+  "translation": "अहाब के घर के जे नगर में मरतइ, ताहू के कुत्ता सब खातइ; आउ जे खेत में मरतइ, ताहू के अकास के चिरईं खातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d09da84b8f8b85dd9c80b308526e0f84a984ff7d7e68128fa61f1d0e47ce9baf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/21\/21-24.1791997476771.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "जे…मरतइ"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "अहाब के घर के"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खातइ"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "कुत्ता सब"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "आउ जे…मरतइ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खातइ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "चिरईं"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:04:36.773012410Z",
+  "model": "glm-5.3"
+}

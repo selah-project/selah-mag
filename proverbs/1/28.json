@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שחר",
+      "rationale": "'भोरे-भोरे खोजतइ' — मूल जड़ 'भोर होना', जेकर अरथ अगिला दिने लगन से खोजना।"
+    },
+    {
+      "kind": "addition",
+      "subject": "तुमनी के",
+      "rationale": "इब्रानी किरिया तीसरा-पुरुष में हकइ ('ऊ पुकारतइ'); पहिला-पुरुस बोलैत अपन सुनै आलु के नाम देलक।"
+    },
+    {
+      "kind": "you",
+      "subject": "तुमनी के",
+      "rationale": "1:22 से चलैत अस्वीकार करै वाला के सीधा सम्बोधन, बुद्धि के बोली में।"
+    }
+  ],
+  "translation": "तब ऊ ⟨तुमनी के⟩ पुकारतइ बाकि हम जवाब नञ देबइ; ऊ भोरे-भोरे हमरा खोजतइ बाकि हमरा नञ पातइ.",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ad5780c4251f8abf695d15eff359aaddf1e0af7378387140c35afecddcf0a001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/1\/25-28.1792006436215.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "ऊ हमरा पुकारतइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "हम जवाब देबइ"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "ऊ भोरे-भोरे हमरा खोजतइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "हमरा पातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:56.216761109Z",
+  "model": "glm-5.3"
+}

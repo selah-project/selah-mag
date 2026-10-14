@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זמרת",
+      "rationale": "'गीत\/बखान' बनाम 'बल\/सुरक्षा' (उत्पत्ति 49:3 के संग) — बड़ हिस्सा गीत लेथिन"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "हिब्रू में क्रिया-हैसियत के क्रिया नञ, मगही के जरूरत"
+    }
+  ],
+  "translation": "याह हमर जोर आउ हमर गीत हथिन; ऊ हमरा बर मुकति बनलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/118\/13-16.1792006041987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "हमर जोर"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "आउ हमर गीत"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ बनलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "मुकति"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:21.988205547Z",
+  "model": "glm-5.3"
+}

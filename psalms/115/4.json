@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी में किरिया नञ हकइ; परिचय-बाक्य के किरिया मगही माँगऽ हइ"
+    }
+  ],
+  "translation": "ओकनी के मूरति चानी आउ सोना के ⟨हथिन⟩ — आदमी के हाथ के काम।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/115\/1-4.1792006004250.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "ओकनी के मूरति"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "आउ सोना"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हाथ के"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:44.251116456Z",
+  "model": "glm-5.3"
+}

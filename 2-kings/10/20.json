@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨एक⟩",
+      "rationale": "मगही के सभा-वाक्य एहे संज्ञा-चिन्हा माँगऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש\/עצרה",
+      "rationale": "‘पवित्तर करऽ’ आउ ‘सभा’ — इब्रानी उत्सव-बिधि के स्थिर जोड़, इहाँ बाल बर छल के अस्त्र"
+    }
+  ],
+  "translation": "आउ यहू कहलन — बाल बर ⟨एक⟩ पवित्तर सभा धरवावऽ — आउ ओकरा घोसित करलन गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5580af0de05d8ee291a2c4de481d2fdd6403a012009a58abb0d0de12c7e193b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/10\/17-20.1791997946847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "यहू"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "पवित्तर करवावऽ"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "बाल बर"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "घोसित करलन गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:12:26.848834402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "बेटा के सम्बोधन",
+      "rationale": "बुद्धिमान बेटा के ओर सीधा सम्बोधन — पिता-माता के खुसी के ताकीद।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ותגל",
+      "gloss-guess": "גיל के सुभाविक अरथ घूम जाए के आधार पर अङ्ग-भङ्ग होए वाला खुसी",
+      "rationale": "‘उछलतथिन’ घूम-घूम के खुसी के चित्र देत हइ।"
+    }
+  ],
+  "translation": "तोहर बाप खुस होवतथिन आउ तोहर माय, आउ जे तोहरा जनमलथिन ऊ खुसी में उछलतथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "929f07695fdc1a7ff9bd5989217ce13ede2cbd66efb7f9290379a5ee38dd539a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/23\/25-28.1792006902547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "खुस होवतथिन"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहर बाप"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "आउ तोहर माय"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "आउ खुसी में उछलतथिन"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "जे तोहरा जनमलथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:41:42.547822437Z",
+  "model": "glm-5.3"
+}

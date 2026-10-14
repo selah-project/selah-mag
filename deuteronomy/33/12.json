@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 33:12",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חפף",
+      "rationale": "तनाख़ में एकेही जगह — ढाकऽ (रक्छा बर) के क्रिया।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישכן \/ שכן",
+      "rationale": "पद के शुरू आउ अंत में एके जड़ שכר — 'रहऽ हइ…बसऽ हथिन' — घेरबा के बनावट।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ओकर काँधा के बीच में",
+      "rationale": "'बिन्यामीन के बीच' बनाम 'यहवे के काँधा के बीच' — कोनो के मत में यहवे मन्दिर (बिन्यामीन के जमीन में) बसऽ हकइ, कोनो के मत में यहवे बिन्यामीन के ढाकऽ हकइ।"
+    }
+  ],
+  "translation": "बिन्यामीन के बारे में कहलन — यहवे के परेम कइल ऊ ⟨अकेले⟩ सुरक्छित रहऽ हइ; ऊ पूरा दिन ओकरा ढाके रहऽ हथिन आउ ओकर काँधा के बीच में बसऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "77d40ea29f102d9d8aff5a4584383bf911f798bf42e0cebab41778bb53c3cc1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/33\/9-12.1791992981660.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "बिन्यामीन के बारे में"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "ידיד",
+      "gloss": "परेम कइल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "रहऽ हइ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "सुरक्छित"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा पर ⟨अकेले⟩"
+    },
+    {
+      "surface": "חפף",
+      "gloss": "ढाके रहऽ हथिन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ बीच में"
+    },
+    {
+      "surface": "כתיפיו",
+      "gloss": "ओकर काँधा के"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "बसऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:49:41.661296252Z",
+  "model": "glm-5.3"
+}

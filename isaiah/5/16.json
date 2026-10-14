@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "पवित्तर",
+      "rationale": "हेबरू में האל הקדוש जुड़ल संज्ञा हकइ; मगही में 'एल' के आगे विसेषण दुहरावल गेलन संगति बर"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדקה",
+      "rationale": "त्सेदेक लिप्यन्तरित — 'धरम' या 'नियाव' अकेले पूरा अरथ नञ धरे हकइ"
+    }
+  ],
+  "translation": "आउ यहवे त्सबाओत नियाव में ऊँच भेलन, आउ पवित्तर एल त्सेदेक में पवित्तर भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "988038cb44c31336a7d8a568dd306b64c41acf14bf492a5add613d4a16eddeeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/5\/13-16.1791998638153.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "आउ ऊँच भेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "नियाव में"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "आउ पवित्तर एल"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "⟨पवित्तर⟩"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "पवित्तर भेलन"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "त्सेदेक में"
+    }
+  ],
+  "timestamp": "2026-10-14T17:23:58.154363612Z",
+  "model": "glm-5.3"
+}

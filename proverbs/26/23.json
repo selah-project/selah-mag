@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרש",
+      "rationale": "कुछ पांडुलिपि में מרמה (छल) पढ़ाल जाऽ हइ — तखन अरथ 'छल पर जड़ल' बनी; हमनी मूल रूप कुड़मड़ी रखलिये।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כסף סיגים",
+      "rationale": "हिब्रू के नज़ारा — बाहर चमक, भीतर बेकार धातु — ओइसने सतही होंठ आउ बुरा हिरदय के तुलना।"
+    }
+  ],
+  "translation": "कुड़मड़ी पर जड़ल चानी के बुरा मिसान जइसन — जरत होंठ आउ बुरा हिरदय।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8edf0b5fc6bdf771a940ca5dc3b8345ef3b7ca2293e1821674b1f63a9620c58a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/26\/21-24.1792006982090.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "के बुरा मिसान"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "जड़ल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "कुड़मड़ी"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "होंठ"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "जरत"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "आउ हिरदय"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:02.091413329Z",
+  "model": "glm-5.3"
+}

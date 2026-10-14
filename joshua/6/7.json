@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "आदेश",
+      "rationale": "'आगू बढ़ऽ, चक्कर लगावऽ' — जनता के प्रत्यक्ष आदेश-बोली"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "बहुवचन आदेश — पूरा जनता सम्बोधित हकइ"
+    }
+  ],
+  "translation": "आउ ओकनी लोग सब से कहलन: आगू बढ़ऽ आउ ⟨את⟩ नगर के चक्कर लगावऽ, आउ हथियारबल लोग यहवे के सन्दूक के सामने आगू जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "689f36968a95784e71d5b0093089f373cedd13f0750f262b03194f022c1359e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/6\/5-8.1791993298188.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग सब"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "आगू बढ़ऽ"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "आउ चक्कर लगावऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नगर"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "आउ हथियारबल लोग"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "आगू जातइ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:54:58.189727716Z",
+  "model": "glm-5.3"
+}

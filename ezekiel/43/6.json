@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "देखऽ",
+      "rationale": "मगही के कथा-चाल बर जोड़ल; हिब्रू में ई चिन्हा नञ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "कोनो",
+      "rationale": "מדב्र पर लिंग अस्पस्ट हइ — 'कोनो' (पुल्लिंग, जेकरा परम्परा में यहवे मानल जा हइ) बनाम 'कोनो जनाना' (स्त्रीलिंग, शेकिना-परम्परा)"
+    }
+  ],
+  "translation": "आउ हम सुनलियनि — कोनो हमरा घर से बात करत रहलक — आउ देखऽ, ओ आदमी हमरा किनारे ठाढ़ हलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f5b33ade89ac26a5bbf7726d5af91ea0e4f13369b15d6ea4b69666a1a0925b40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/43\/5-8.1792003004240.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "सुनलियनि"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बात करत"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "घर से"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आउ ओ आदמी"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हलक"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ठाढ़"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "हमरा किनारे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:36:44.241500912Z",
+  "model": "glm-5.3"
+}

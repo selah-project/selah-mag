@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הצילני \/ אנצלה",
+      "rationale": "एके जड़ רूप दू बेर — 'छुड़ा' आउ 'बचा' के दोहराव, हिब्रू के जड़-गूँज।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के नाते",
+      "rationale": "दुआ जारी हकइ — छुड़ाव के बेनती।"
+    }
+  ],
+  "translation": "हमरा कीचड़ से छुड़ा देहू, आउ हम नञ डूबी; हमरा ओकनी से बचा लिअ जे हमरा से नफरत करथिन, आउ पानी के गहिराई से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "47969150fa716fb6d3c0651bb4d6a5c51568d472cd91d13850f2a329461459bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/69\/13-16.1792005355054.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "हमरा छुड़ा देहू"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "कीचड़ से"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ … नञ"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "डूबी"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "बचा लिअ"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "जे हमरा से नफरत करथिन"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "आउ गहिराई से"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:55.055159882Z",
+  "model": "glm-5.3"
+}

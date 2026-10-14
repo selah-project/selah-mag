@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשרי … אשרי",
+      "rationale": "दू बेर दोहरावल धन्यवाद-संरचना — ओकरा ओही रूप में रखल गेलैल।"
+    },
+    {
+      "kind": "you",
+      "subject": "राजा के अगुआ",
+      "rationale": "रानी शिबा अखनियो राजा के सीधे सम्बोधन करऽ हथिन।"
+    }
+  ],
+  "translation": "भाग्यवान हथिन तोहर मनखई, भाग्यवान हथिन ई तोहर नौकर, जे हमेसा तोहरा आगू ठाढ़ रहऽ हथिन, जे ⟨את⟩ तोहर समझदारी सुनऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "16bc6228d1d334220e56b8a85afcb5b76a73bc9f5c6d8ce01aeac43850a2ac44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/10\/5-8.1791997020459.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "भाग्यवान"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "तोहर मनखई"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "भाग्यवान"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "तोहर नौकर"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "העומדים",
+      "gloss": "जे ठाढ़ रहऽ हथिन"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहरा आगू"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "हमेसा"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "जे सुनऽ हथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर समझदारी"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "तोहर समझदारी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:57:00.461331541Z",
+  "model": "glm-5.3"
+}

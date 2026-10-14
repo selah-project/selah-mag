@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המורים בקשת",
+      "rationale": "„धनुक वाला मारलन” बनाम KJV के „archers hit him” — ירה के मूल अरथ बाण फेंकल; यहाँ एकरा चालके लेलन कइल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחל",
+      "rationale": "חול — KJV „wounded” (जखमी), JPS\/ASV „in anguish” (तड़प); मगही में „तड़पे लागलन” लेलगेलइ, दुनू अरथ के भीतर।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המורים \/ היורים",
+      "rationale": "दुनू एके जड़ यרה से — धनुक वाला के दोहराव, मगही में दोहराव रखल गेलइ बाकि जड़-मेल नञ देखाऽ पावऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨उसका⟩",
+      "rationale": "עברית में कर्म-सर्बनाम ओ के क्रिया में जुड़ल हकइ (-הו), मगही के अलग सब्द चाही।"
+    }
+  ],
+  "translation": "आउ लड़ाई शाऊल पर भारी भेललइ, आउ धनुक-बाण चलावए वाला ⟨उसका⟩ ताकी ले लेलन; आउ ऊ धनुक-बाण चलावए वाला सब के ⟨कारण⟩ तड़पे लागलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9c23600ae5933edb999d17cf4f40ae530b2cf8686f77d17c64653be93dd2501b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/10\/2-3.1792012227187.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "भारी भेललइ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "लड़ाई"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "ताकी ले लेलन"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "धनुक-बाण चलावए वाला"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "धनुक से"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "तड़पे लागलन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨कारण⟩ से"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "धनुक-बाण चलावए वाला सब"
+    }
+  ],
+  "timestamp": "2026-10-14T21:10:27.188180570Z",
+  "model": "glm-5.3"
+}

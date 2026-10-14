@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפיחו",
+      "rationale": "'फूक मारना' (आग भड़काना, JPS\/ASV) बनाम KJV के 'फंदा' (מוקש से जोड़ के); जड़ פוח 'फूँक' हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "आग",
+      "rationale": "इब्रानी केवल 'नगर पर फूक मारऽ हथिन' कहऽ हइ; आग मगही में स्पस्ट करे बर जोड़ल"
+    },
+    {
+      "kind": "elision",
+      "subject": "מें",
+      "rationale": "इब्रानी सीधा 'नगर' पर किरिया लगावऽ हइ; स्थान-चिन्हा मगही के चाही"
+    }
+  ],
+  "translation": "मजाक करैया लोग नगर में ⟨आग⟩ फूक मारऽ हथिन; बाकि समझदार लोग क्रोध के घुरा ले आवऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c644f8531f7bbd514f8bcfd93b0aaa606ef3edfad4bbfd71ecdbde04cafbe7dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/29\/5-8.1792007038592.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "मजाक के"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "फूक मारऽ हथिन"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "बाकि समझदार लोग"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "घुरा ले आवऽ हथिन"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:58.593436395Z",
+  "model": "glm-5.3"
+}

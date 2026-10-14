@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלמם \/ לעולם",
+      "rationale": "शाब्दिक आवाज़ में -ם आउ -ם के दोहराव (शेलोमाम, तोवाताम) — मगही में ध्वनि-नाद खो गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "अगियार इस्राएल के — अम्मोनी आउ मोआबी (पद 4–5 के विषय) के बिरुद्ध।"
+    }
+  ],
+  "translation": "तोहर सब दिन, हमेसा बर, ओकनी के सांति आउ ओकनी के भलाई नञ खोजबू।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d6ede65aefb17f4b829a1b78ef840c148d95d542599b5cd9a3495bb81d4470a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/23\/5-8.1791992734279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "खोजबू"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "ओकनी के सांति"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "आउ ओकनी के भलाई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "तोहर दिन"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "हमेसा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:45:34.280681547Z",
+  "model": "glm-5.3"
+}

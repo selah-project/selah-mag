@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונער",
+      "rationale": "'उछाड़ देलन' (जइसन कपार से झाड़ल जा हइ) बनाम 'उलट देलन'; क्रिया के मूल चित्र झटक के फेंकल हकइ।"
+    }
+  ],
+  "translation": "आउ फिरौन आउ ओकर सेना के सुफ समुंदर में उछाड़ देलन, काहे कि सदा बर ओकर हेसेद हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ef818ee972da16c3afc2126e425ed19038582aa6ef3dc9b768a15a4099cdefdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/136\/13-16.1792006261699.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "आउ उछाड़ देलन"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "आउ ओकर सेना"
+    },
+    {
+      "surface": "בים",
+      "gloss": "समुंदर में"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "सुफ (कखर के)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:01.700589693Z",
+  "model": "glm-5.3"
+}

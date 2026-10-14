@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी क्रिया-सूत्र (copula) नञ रखऽ हइ; मगही वाक्य एकरा माँगऽ हइ"
+    }
+  ],
+  "translation": "अनाथ लोग के बाप आउ बिधवा लोग के दलील करै वाला — एलोहीम ⟨हकइ⟩ ओकर पवित्तर निवास में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/68\/5-8.1792005325217.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "बाप"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "अनाथ लोग के"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "आउ दलील करै वाला"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "बिधवा लोग के"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "निवास में"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ओकर पवित्तर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:25.218222784Z",
+  "model": "glm-5.3"
+}

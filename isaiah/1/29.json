@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 1:29",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אילים",
+      "rationale": "oaks (KJV\/ASV) बनाम terebinths (JPS) बनाम rams — इब्रानी अरथ में 'बलियान गाछ' बनाम 'मेमना' दुनो सम्भव हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מהגנות",
+      "rationale": "बगइचा — इहाँ परमेश्वर छोड़ के देवता सब बर पूजा के बगइचा बूझल जा हइ।"
+    }
+  ],
+  "translation": "काहे कि ऊ गाछ सब से लजाइतन जेकरा तोहनी चाहलन, आउ ओ बगइचा सब से मुँह कालइ होतइ जेकरा तोहनी चुनलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a37068ecedaaa0091e09e7148eea6fe65a1401d31d456dc575b440ff7e178e94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/1\/29-31.1791998498622.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "लजाइतन"
+    },
+    {
+      "surface": "מאילים",
+      "gloss": "गाछ सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "चाहलन"
+    },
+    {
+      "surface": "ותחפרו",
+      "gloss": "मुँह कालइ होतइ"
+    },
+    {
+      "surface": "מהגנות",
+      "gloss": "बगइचा सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "चुनलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:21:38.623093906Z",
+  "model": "glm-5.3"
+}

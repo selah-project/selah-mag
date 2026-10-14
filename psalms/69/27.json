@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יספרו",
+      "rationale": "'गिनती\/बतावऽ' (साक्षात अरथ गिनऽ हइ) बनाम 'बढ़ावऽ' — केहु अनुवादक एकरा 'दुख बढ़ावऽ हइ' पढ़ऽ हइ"
+    }
+  ],
+  "translation": "काहे कि जेकरा तूँ मारलन हए, ओकनी ओकरा पीछा करऽ हइ, आउ तोहर घायल लोग के दुख के ओकनी बखान करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fe724e736e71c79b85457f0e579e62b74e39481f1b0c1b3c034f1a763c946f46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/69\/25-28.1792005372228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "मारलन हए"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ओकनी पीछा करऽ हइ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ के बारे में"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "दुख"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "तोहर घायल लोग"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ओकनी बखान करऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:12.229493480Z",
+  "model": "glm-5.3"
+}

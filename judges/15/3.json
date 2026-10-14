@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 15:3",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נקיתי",
+      "rationale": "'निर्दोस होतइ' बनाम 'निर्दोस हउँ' — बहस हइ कि वर्तमान घोसना हकइ या भबिस; הפעם 'एह बेर' दुनों में टिकाव देऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפלשתים",
+      "rationale": "מן 'से\/के मुकाबला में' — 'पलिस्ती के तुलना में' के अरथ, साफ रूप देल गेल"
+    }
+  ],
+  "translation": "आउ शिमसोन ओकनी के बारे में कहलन: एह बेर हम पलिस्ती के मुकाबला में निर्दोस ⟨होतइ⟩, काहे कि हम ओकनी के संग बुराई करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "30f224efcd21ca825d03e82483f1d056469e46f0753c01fafd7ea64f8d254242",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/15\/1-4.1791994467816.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के बारे में"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "शिमसोन"
+    },
+    {
+      "surface": "נקיתי",
+      "gloss": "निर्दोस ⟨होतइ⟩"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "एह बेर"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "पलिस्ती के मुकाबला में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ओकनी के संग"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    }
+  ],
+  "timestamp": "2026-10-14T16:14:27.818022693Z",
+  "model": "glm-5.3"
+}

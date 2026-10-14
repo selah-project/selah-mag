@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 9:8",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבניה \/ יבני",
+      "rationale": "यिब्नेयाह आउ यिब्नियाह एके अक्छर के दू नाम — बिना निकाह-चिन्हा के अलग नञ दिसऽ हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "वंस-सूची",
+      "rationale": "पिता-पुत्र के कड़ी के गिनती-सूची।"
+    }
+  ],
+  "translation": "आउ यिब्नेयाह यरोहाम के बेटा; आउ एला उज्जी के बेटा, मिख्री के बेटा; आउ मेशुल्लाम शेफत-याह के बेटा, रेउएल के बेटा, यिब्नियाह के बेटा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "56f9dd9c07bd323f8f336fe866d353d3ea707eaadc17072000eb0c20ab7e6dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/9\/5-8.1792010085029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבניה",
+      "gloss": "आउ यिब्नेयाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "यरोहाम"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "आउ एला"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "उज्जी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "मिख्री"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "आउ मेशुल्लाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "शेफत-याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "रेउएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יבניה",
+      "gloss": "यिब्नियाह"
+    }
+  ],
+  "timestamp": "2026-10-14T20:34:45.030335253Z",
+  "model": "glm-5.3"
+}

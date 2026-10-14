@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 3:3",
+  "book": "malachi",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצרף \/ וטהר \/ וזקק",
+      "rationale": "पिघोवै-साफ-छानै के तीन क्रिया के दोहराव — शुद्ध करै के अखंड तस्वीर, मगही में अलग-अलग क्रिया से पूरा"
+    },
+    {
+      "kind": "elision",
+      "subject": "कारक-रूप",
+      "rationale": "मगही कारक चाहऽ हइ जे इब्रानी के ⟨את⟩ संरचना छेड़ऽ हइ"
+    }
+  ],
+  "translation": "आउ ऊ चानी पिघोवै आउ साफ करै वाला जइसन बैठतइ, आउ लेवी के बेटा सब के ⟨את⟩ साफ करतइ, आउ ⟨את⟩ ओकनी के सोना आउ चानी जइसन छानतइ; आउ ओकनी यहवे बर त्सेदेका में मिन्हा चढ़ावै वाला होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a287daf95bf2dfa4ffa3fbf265441b30dd418011c4bce72cf8009c1815a0367f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/malachi\/3\/1-4.1792004477656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आउ बैठतइ"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "पिघोवै वाला"
+    },
+    {
+      "surface": "ומטהר",
+      "gloss": "आउ साफ करै वाला"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "आउ साफ करतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लेवी के बेटा सब के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "וזקק",
+      "gloss": "आउ छानतइ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "सोना जइसन"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "आउ चानी जइसन"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "מגישי",
+      "gloss": "चढ़ावै वाला"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मिन्हा"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "त्सेदेका में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:01:17.657954906Z",
+  "model": "glm-5.3"
+}

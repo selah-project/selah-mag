@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 10:18",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המס",
+      "rationale": "'强迫劳役'与'贡物\/税'之争：KJV 作 tribute，JPS 作 levy，希伯来语本义为徭役重担"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हियाव बान्धलन",
+      "rationale": "希伯来语 התאמץ 字面为'使自己刚强'，मगही 用鼓起力气的惯用语"
+    },
+    {
+      "kind": "elision",
+      "subject": "אבן 单数",
+      "rationale": "希伯来语单数'石头'作工具格，मगही 需复数'पत्थल सब'"
+    }
+  ],
+  "translation": "तब राजा रहबाम हदोराम के पठौलन, जे मजदूरी-बेगार के ऊपर हलथिन, आउ यिस्राएल के बेटा ⟨את⟩ होकरा पत्थल सब से मारलन, आउ ऊ मर गेलन; आउ राजा रहबाम भाग के यरूशलयिम जाए बर रथ में चढ़े बर हियाव बान्धलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2ca8c44a0bf348bb73412359cc1b44a4e6628c59ce4b7ace02eec05f438e7c8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/10\/17-19.1792010752314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "पठौलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबाम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हदोराम के"
+    },
+    {
+      "surface": "הדרם",
+      "gloss": "हदोराम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "המס",
+      "gloss": "मजदूरी-बेगार"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "आउ … मारलन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "होकरा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "… के बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थल सब से"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आउ ऊ मर गेलन"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "आउ राजा"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबाम"
+    },
+    {
+      "surface": "התאמץ",
+      "gloss": "हियाव बान्धलन"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "चढ़े बर"
+    },
+    {
+      "surface": "במרכבה",
+      "gloss": "रथ में"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "भाग जाए बर"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-10-14T20:45:52.315790294Z",
+  "model": "glm-5.3"
+}

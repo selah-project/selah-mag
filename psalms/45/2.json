@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רחש",
+      "rationale": "तनाख़ में अकेली जगह — हिरदय के भीतर से उमड़ल बात"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעשי למלך",
+      "rationale": "'हमर काम राजा के बारे में' बनाम 'राजा बर गावनी' — अनुवादक लोग में झगड़ा हकइ"
+    }
+  ],
+  "translation": "हमर हिरदय अच्छा बात उबर देलक; हम राजा बर हमर काम गढ़ऽ हइ; हमर जीभ फुरताहू लेखक के कलम हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/45\/1-4.1792005111992.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "उबर देलक"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमर हिरदय"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहऽ हन"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "हमर काम"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा बर"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "हमर जीभ"
+    },
+    {
+      "surface": "עט",
+      "gloss": "कलम"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "लेखक"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "फुरताहू"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:51.993675841Z",
+  "model": "glm-5.3"
+}

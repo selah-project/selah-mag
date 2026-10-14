@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשובו... אביעה",
+      "rationale": "KJV\/ASV भबिस के रूप में लेथिन (“हम उड़ेलब”); BSB बिना-सीधा अतीत के असंभव-स्थिति में (“जे तोहनी लौटितहीँ त उड़ेलतहीँ”); इब्रानी के क्रिया-रूप दुनो बाट खोलऽ हइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "लौट आवू",
+      "rationale": "परम-समझ के पुकार — भोला लोग के वापसी के निमंत्रण"
+    }
+  ],
+  "translation": "हमरी फटकार पर लौट आवू; देखू, हम तोहनी बर हमर रूआख उड़ेलब, हम हमर बात ⟨את⟩ तोहनी जताब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7808f2645761d34e9704998dc60d7db3709166d589bd16531da455231ab3cc49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/1\/21-24.1792006429770.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "लौट आवू"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "हमरी फटकार पर"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखू"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "उड़ेलब"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "हमर रूआख"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "जताब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "हमर बात"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:49.771648564Z",
+  "model": "glm-5.3"
+}

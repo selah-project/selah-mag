@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "איש כאחיו",
+      "rationale": "शाब्दिक: 'हर एक अपन भाय जइसन' — बराबर बाँट के चलनसार मुहावरा।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרבה",
+      "rationale": "शाब्दिक 'सूखल\/बिना तेल' — मिन्हा जे तेल में मिलावल नञ हो।"
+    }
+  ],
+  "translation": "आउ हर मिन्हा तेल में मिलावल, आउ सूखल — अहरोन के सब बेटा के बर होतइ, हर एक अपन भाय समान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1c888b16fb5f9b15e3400a15ea227cb6b25dfdb10ea37e1574d880a7a417d87d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/7\/9-12.1791989549708.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आउ हर"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मिन्हा"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "मिलावल"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "तेल में"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "आउ सूखल"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब ... बर"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "अपन भाय समान"
+    }
+  ],
+  "timestamp": "2026-10-14T14:52:29.709613120Z",
+  "model": "glm-5.3"
+}

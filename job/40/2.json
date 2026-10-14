@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 40:2",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יסור",
+      "rationale": "कुछ अनुवाद 'ताड़ना करए वाला' पढ़ऽ हथिन (शद्दय के विशेषण), कुछ 'सिखावै' (क्रिया — झगड़ालू ओकरा सिखावै?); हमरा संग दोसरा वाला।"
+    },
+    {
+      "kind": "you",
+      "subject": "इय्योव",
+      "rationale": "यहवे के ई सवाल सीधे इय्योव के अभिसार हकइ।"
+    }
+  ],
+  "translation": "की ऊ जे शद्दय के संग झगड़ऽ हइ, ओकरा सिखावै? जे एलोअह के दोस लगावऽ हइ, ऊ ⟨ओकर⟩ जवाब दे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0861b0336753d9d42fcd4fed95f86231a3761ee23ab492c70e05b2fe37917617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/40\/1-4.1792007882102.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "की ऊ जे ... झगड़ऽ हइ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ओकरा सिखावै"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "दोस लगावए वाला"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "जवाब दे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:58:02.103227825Z",
+  "model": "glm-5.3"
+}

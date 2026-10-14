@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "devata sab",
+      "rationale": "אלהים אחרים are foreign gods, rendered as class word 'devata sab — dusar', never as the Name."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "vayyelekh vayya'avod",
+      "rationale": "Chain of wayyiqtol verbs ('went and served and bowed') gives narrative pace lost in the conditional frame."
+    }
+  ],
+  "translation": "आउ ऊ जाके देवता सब — दुसर — के सेवा करऽ हइ आउ ओकनी के आगे गिड़गिड़ऽ हइ — चाहे सुरुज के, चाहे चान के, चाहे अकास के जत्था के कोनो के — जेकरा हम आज्ञा नञ देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e9b94d43cecdca996ba506d597951075fcd2c4829a758a2008a479aa130d0044",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/17\/1-4.1791992647377.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "आउ जाके"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "सेवा करऽ हइ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवता सब"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दुसर"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "गिड़गिड़ऽ हइ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के आगे"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "आउ सुरुज के"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "चान के"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "कोनो के"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "जत्था"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "हम आज्ञा देलन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:44:07.378727539Z",
+  "model": "glm-5.3"
+}

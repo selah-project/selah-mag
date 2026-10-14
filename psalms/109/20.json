@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפश गला\/साँस\/परान-बल हकइ — आत्मा नञ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שטני",
+      "rationale": "शतन जड़ — दोस लगावे वाला; ई पद कोनो बेर भीतरे ढकेलल नञ जा हइ।"
+    }
+  ],
+  "translation": "ई हमरा पर दोस लगावे वाला के काम के फल यहवे के ओर से ⟨את⟩ होवे, आउ ओकनी बर जे हमर परान पर बुरा बोलऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/109\/17-20.1792006003154.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "काम के फल"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "हमरा पर दोस लगावे वाला"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "के ओर से ⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "आउ ओकनी बर जे बोलऽ हथिन"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:43.155224508Z",
+  "model": "glm-5.3"
+}

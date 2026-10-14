@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे के",
+      "rationale": "imperatives addressed directly to יהוה"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מुँह छिपावऽ",
+      "rationale": "'hide your face' — Hebrew idiom for withholding favour, kept literally"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दुख-तंगी",
+      "rationale": "צר literally 'narrow\/tight place' — Magahi compound keeps the squeezed sense"
+    }
+  ],
+  "translation": "अपन मुँह हमरा से मत छिपावऽ, जब हमरा दुख-तंगी होवतइ; अपन कान हमरा दने झुकावऽ; जब हम पुकारिअइ, जल्दी हमर जवाब देअ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/102\/1-4.1792005828514.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "छिपावऽ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "अपन मुँह"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "जब"
+    },
+    {
+      "surface": "צר",
+      "gloss": "दुख-तंगी"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "झुकावऽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "…दने"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "अपन कान"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "जब"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "हम पुकारिअइ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "जल्दी"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "हमर जवाब देअ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:48.515263961Z",
+  "model": "glm-5.3"
+}

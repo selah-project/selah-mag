@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओहे",
+      "rationale": "Hebrew על החרב has no 'own'; supplied to show it is the same sword"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हथियार उठावे वाला",
+      "rationale": "נשא כליו is literally 'lifter of his vessels\/implements', rendered as armour-bearer role"
+    }
+  ],
+  "translation": "आउ ओकर हथियार उठावे वाला देखलन कि शाऊल मर गेलन, तऽ ऊ घिनो ओहे तलवार पर गिरलन आउ मर गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "991b7ec85408e7da5b96635d84220b56b475265c6e0131cd838c9295b8af7a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/10\/5-8.1792010126891.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उठावे वाला"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ओकर हथियार"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मर गेलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "गिरलन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "घिनो"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:35:26.892516047Z",
+  "model": "glm-5.3"
+}

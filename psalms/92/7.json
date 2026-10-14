@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בער",
+      "rationale": "'पसु जइसन' चित्र हकइ — गाँवड़ा-सोच में छिपावल"
+    }
+  ],
+  "translation": "गाँवड़ा-सोच आदमी जानऽ नञ करऽ हइ, आउ मूर्ख ⟨את⟩ ई बात समझऽ नञ करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7a01b7cac8a0993826577aef2028b6bac8e98634d302f26036a23c7ee9130e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/92\/5-8.1792005737255.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "בער",
+      "gloss": "गाँवड़ा-सोच"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानऽ करऽ हइ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "आउ मूर्ख"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "समझऽ करऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई बात"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई बात"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:17.256385982Z",
+  "model": "glm-5.3"
+}

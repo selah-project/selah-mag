@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להטים",
+      "rationale": "जरत (लहटत) बनाम 'लबइ जइसन' — किछु अनुवादक एकरा शेर के लपलपावे वाली जीभ से जोड़ऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी में क्रिया-संबंधी बाक्य-सहायक नञ हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "lions-fire-teeth-sword",
+      "rationale": "शिकार के जंत्र के माला — जाल, भाला, तीर, तलवार — अगिला पद के जाल-गड्ढा के आगमन बतावऽ हइ।"
+    }
+  ],
+  "translation": "हमर परान लबइ के बीच हइ; हम जरत लोग के बीच लेटलइ हइ — आदमी के बेटा, जेकर दाँत भाला आउ तीर हइ, आउ जेकर जीभ धारिल तलवार हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/57\/5-8.1792005192659.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "लबइ"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "हम लेटलइ हइ"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "जरत लोग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "भाला"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "आउ तीर"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "आउ जेकर जीभ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "धारिल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:12.659874451Z",
+  "model": "glm-5.3"
+}

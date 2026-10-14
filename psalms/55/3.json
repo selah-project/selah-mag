@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אריד",
+      "rationale": "'भटकतइ' बनाम 'विलाप करतइ' — केजेवी 'I mourn', एएसवी 'I am restless'; जड़ के शाब्दिक चित्र इधर-उधर घूमल बटोरना हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשיחי",
+      "rationale": "'कलेस' बनाम 'चिंतन' — वाईएलटी 'meditation'; भों-भों वाला बोली के अरथ जादे निकट हकइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "एलोहीम",
+      "rationale": "सुने आउ जवाब देकर बिनती जारी हकइ"
+    }
+  ],
+  "translation": "हमरा ध्यान दिये आउ हमरा जवाब दिये; हम हमर कलेस में भटकतइ आउ शोर मचाबतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9f9f9c4459b166fd97f326903e0ba2b93be2fe3517e13adec64c86534668204f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/55\/2-3.1792012053538.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "ध्यान दिये"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "आउ जवाब दिये"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "भटकतइ"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "हमर कलेस में"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "आउ शोर मचाबतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:33.538852423Z",
+  "model": "glm-5.3"
+}

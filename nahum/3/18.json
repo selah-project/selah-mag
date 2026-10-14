@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nahum 3:18",
+  "book": "nahum",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישכנו",
+      "rationale": "'लेटलन हथिन' (rest\/dwell) बनाम KJV 'धूरी में रहतिन' — जड़ שכן, बहुत रूप 'सो गेल' के अरथ में"
+    },
+    {
+      "kind": "you",
+      "subject": "हे अस्सूर के राजा",
+      "rationale": "निनवे के राजा (अस्सूर) के सीधा सम्बोधन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רעיך",
+      "rationale": "'गड़ेरिया' — चरवाहा\/गोइठा, पशु-पालक; टनख के राजा-बिगरी के आदर के तस्वीर"
+    }
+  ],
+  "translation": "तोहर गड़ेरिया सब झपकी लेने हथिन, हे अस्सूर के राजा; तोहर बलवान सब लेटलन हथिन; तोहर लोग पहाड़ पर बिखर गेलन हथिन, आउ ⟨जे इकट्ठा करथु⟩ कोनो नञ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "295286b8265b52e6d645705d4560c8e77775675bc3f1fda32d20df6975bb6199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nahum\/3\/17-19.1792003837948.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נמו",
+      "gloss": "झपकी लेने हथिन"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "तोहर गड़ेरिया सब"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर के"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "लेटलन हथिन"
+    },
+    {
+      "surface": "אדיריך",
+      "gloss": "तोहर बलवान सब"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "बिखर गेलन हथिन"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहर लोग"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ हकइ"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "इकट्ठा करए वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T18:50:37.948898340Z",
+  "model": "glm-5.3"
+}

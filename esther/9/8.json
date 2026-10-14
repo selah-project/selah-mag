@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "नाम-सूची",
+      "rationale": "नाम-गिनती जारी — हामान के बेटा के नाम, 9:7 के सूची के दोसर भाग।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ पोरता, आउ ⟨את⟩ अदल्या, आउ ⟨את⟩ अरिदता —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1436c781cc6b90c6e2122f1d24c2af583224b647f09093b1fa8f346f02c180d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/9\/5-8.1792008679871.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पोरता"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "पोरता"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अदल्या"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "अदल्या"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अरिदता"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "अरिदता"
+    }
+  ],
+  "timestamp": "2026-10-14T20:11:19.874964690Z",
+  "model": "glm-5.3"
+}

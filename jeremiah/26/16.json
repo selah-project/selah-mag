@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 26:16",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "हिब्रू के बहुबचन (पुरोहित, नबी) के साफ करे बर 'सब' जोड़ल गेलइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "'नियाव नञ हकइ' — मगही के क्रिया बेवस्थित आवऽ हकइ; हिब्रू אין के बनावट एही हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "सरदार आउ लोग पुरोहित-नबी सब से",
+      "rationale": "अदालत के फैसला — सीधा सम्बोधन बोलल गेलइ।"
+    }
+  ],
+  "translation": "तब सरदार आउ सब लोग पुरोहित सब आउ नबी सब से कहलन — एहि आदमी बर मौत के नियाव नञ हकइ, काहे कि यहवे हमनी के एलोहीम के नाम में ऊ हमनी से बात करलन हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4a08fd985e6397ec078012d56fa4fee6a65c1f4221a8757421a29028fb97bfac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/26\/13-16.1792000844400.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "तब कहलन"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित सब"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "नबी सब"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ हकइ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "एहि आदमी बर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एहि"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "के नाम में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात करलन हे"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "हमनी से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:00:44.401694889Z",
+  "model": "glm-5.3"
+}

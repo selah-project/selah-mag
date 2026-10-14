@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 42:15",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי פרעה",
+      "rationale": "सौगंद के मुहावरा — „फिरौन जियतइ हे”; मगही में „जिया के सौगंद”।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בחן",
+      "rationale": "धातु के मूल अरथ धातु के गाल मारि जाँचल — जस कनिया के जाँच; सादा „जाँच” लेलनिहऽ।"
+    }
+  ],
+  "translation": "एकरा से तोहनी के जाँच होतइ — फिरौन के जिया के सौगंद, तोहनी एहीं से नञ जातौ, जब तक कि तोहनी के छोटा भाय एहाँ नञ अवतै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/42\/13-16.1791987725496.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "एकरा से"
+    },
+    {
+      "surface": "תבחנו",
+      "gloss": "जाँच होतइ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिया के"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "אם",
+      "gloss": "सौगंद"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "जातौ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "एहीं से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब तक कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जँ नञ"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "अवतै"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "तोहनी के भाय"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "छोटा"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "एहाँ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:22:05.497233993Z",
+  "model": "glm-5.3"
+}

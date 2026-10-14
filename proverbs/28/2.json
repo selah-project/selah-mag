@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כן יאריך",
+      "rationale": "के लम्बा होवऽ हइ — राजा के दिन, राज के टिकाव, या धरती के सुधार; KJV 'the state thereof', JPS 'established order'।"
+    },
+    {
+      "kind": "addition",
+      "subject": "टिकाव",
+      "rationale": "इब्रानी क्रिया के करम बतावे बर जोड़ल; ⟨…⟩ में चिन्हित।"
+    }
+  ],
+  "translation": "धरती के बगावत से ओकर सारदार ढेर हो जाऽ हथिन; बाकि समझे आउ जाने वाला मनुस से ⟨टिकाव⟩ लम्बा होवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/28\/1-4.1792007048809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "बगावत से"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ओकर सारदार"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "बाकि मनुस के जरे"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "समझे वाला"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जाने वाला"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसने"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "लम्बा होवऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:44:08.810153834Z",
+  "model": "glm-5.3"
+}

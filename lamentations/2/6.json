@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 2:6",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחמס כגן שכו",
+      "rationale": "'ऊ अपन डेरा के बगइचा-माड़ जइसन तोड़ देलन' — केकरा के बगइचा आउ केकरा के माड़ कहल गेल, ई संगठन पर अनुवादक में मतभेद हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמס",
+      "rationale": "क्रिया के शाब्दिक अरथ हिंसा करना; 'ताड़-मारना' संग एही ताकत के चित्र रखऽ हइ"
+    }
+  ],
+  "translation": "आउ ऊ अपन डेरा के बगइचा जइसन ताड़-मार देलन, अपन मिलन-स्थान के बरबाद कएलन; यहवे त्सियोन में परब आउ शब्बात के बिसरा देलन, आउ अपन क्रोध के गुस्सा में राजा आउ पुरोहित दुनू के तिरस्कार कएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7325af97c7934fd9b2c158bf9c36272f124c3caa63a3b6566ec05bfea38594ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/2\/5-8.1792008238839.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחמס",
+      "gloss": "आउ ताड़-मार देलन"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "बगइचा जइसन"
+    },
+    {
+      "surface": "שכו",
+      "gloss": "डेरा"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "बरबाद कएलन"
+    },
+    {
+      "surface": "מועדו",
+      "gloss": "अपन मिलन-स्थान के"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "बिसरा देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "त्सियोन में"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "परब"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "आउ शब्बात"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "आउ तिरस्कार कएलन"
+    },
+    {
+      "surface": "בזעם",
+      "gloss": "क्रोध के गुस्सा में"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "अपन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "आउ पुरोहिक"
+    }
+  ],
+  "timestamp": "2026-10-14T20:03:58.840231064Z",
+  "model": "glm-5.3"
+}

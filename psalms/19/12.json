@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "शाब्दिक अरथ एड़ी; 'इनाम\/बदला' बनाम 'परिणाम' — अनुवादक लोग मतभेद करऽ हथिन"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "'तोहर सेवक' — पद सीधे यहवे से बात करऽ हइ"
+    }
+  ],
+  "translation": "एही संग तोहर सेवक ओकरा से सचेत होवऽ हइ; ओकर रखवारी में ढेर इनाम हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/19\/9-12.1792004632006.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "एही संग"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "तोहर सेवक"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "सचेत होवऽ हइ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "ओकर रखवारी में"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "इनाम"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:52.007784551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "जल्लाद",
+      "rationale": "הטבחים शाब्दिक रूप से 'मांस काटै वाला\/कसाई'; ओहो राजा के हत्यारा-रक्षक होय करऽ हल"
+    },
+    {
+      "kind": "addition",
+      "subject": "अर्थात",
+      "rationale": "אल के अरथ दुहरा बिबरन में जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ ऊ ओ दूनो के ⟨את⟩ जल्लाद के सरदार के घर के रखवाली में रखलक — बंदी-घर में, ओहि जगह जहाँ योसेफ बान्हल रहऽ हलअ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f19d19edcc53c1c029aa89a6634d5e75d2a4de24161a969c71c25bb35d2e967a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/40\/1-4.1791987617434.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "रखलक"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओ दूनो (के)"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "रखवाली में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "שר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "जल्लाद के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "अर्थात"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "बंदी-घर"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "बान्हल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिना"
+    }
+  ],
+  "timestamp": "2026-10-14T14:20:17.435044172Z",
+  "model": "glm-5.3"
+}

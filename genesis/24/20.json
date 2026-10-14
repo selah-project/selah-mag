@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "השקת",
+      "rationale": "'watering trough' — Magahi नांद chosen for the domestic picture, not transliterated."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשאב \/ ותשאב",
+      "rationale": "infinitive then finite of the same verb — 'to draw … and drew' — the doubling is kept in 'खींचे … खींचलक'."
+    }
+  ],
+  "translation": "आउ ऊ जल्दी ककलन, आउ अपन सुराही नांद में उड़ेल देलक, आउ फेर कुइयाँ के दने पानी खींचे दौड़लक, आउ ओकर सब ऊँट बर पानी खींचलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a9b7f5303d1154c0b8a4cebaedb4cfcbb16b2233abd14e9d11e19ca19dcaed09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/24\/17-20.1791986875127.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "जल्दी ककलन"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "उड़ेल देलक"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "अपन सुराही"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "नांद"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "दौड़लक"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "कुइयाँ"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "पानी खींचे"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "खींचलक"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "ओकर ऊँट बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:07:55.128565033Z",
+  "model": "glm-5.3"
+}

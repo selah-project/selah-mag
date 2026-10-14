@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "नापतन",
+      "rationale": "नगर सब के दूरी नापल जा हकइ — एहि पद के हिरदय ई नाप हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "के",
+      "rationale": "מדדו אל के दिशा-अरथ बर मगही के जोड़",
+      "bracket": true
+    }
+  ],
+  "translation": "तब तोहर बुजुर्ग आउ तोहर निआयधीस निकलतन, आउ ओहि नगर सब के ओर नापतन जे ओहि वार-कइल के चारो दने हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "155665aeda6c0c7eb5d3a392461b1cd0ca1678c7cd555bd2c52b3f0e5b579546",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/21\/1-4.1791992621898.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "निकलतन"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "तोहर बुजुर्ग"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "तोहर निआयधीस"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "नापतन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨के⟩ ओर"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "चारो दने"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "ओहि वार-कइल के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:43:41.899469434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ולא פקדנו מאומה",
+      "rationale": "साक्षात 'किछुओ गिनल नञ' — मतलब किछुओ गुम नञ भेलइ; मगही में गुमावे के बात लेल गेलइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אתם",
+      "rationale": "एही अच्छर के दू रूप: लक्ष्य-चिन्हा (H853) आउ 'संग' (H854) — इहाँ 'संग' वाला हकइ, बाकि चिन्हा ⟨את⟩ जस के तस रहलइ।"
+    }
+  ],
+  "translation": "आउ ई आदमी हमनी बर बड़ी नीक हलन, आउ हमनी लजावल नञ गेलिये, आउ हमनी के किछुओ नञ गुमावल गेलइ — जेतना दिन हमनी ⟨את⟩ ओकनी संग खेत में रहलिये।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f31918c70d8ab991d80eaaa3feb942cda977601c4cac09f9b1e91c21798a190b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/25\/13-16.1791995624456.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "आउ ई आदमी"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "नीक हलन"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी बर"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बड़ी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "लजावल गेलिये"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "गुमावल गेलइ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "किछुओ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जेतना"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "रहलिये डोरैत"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "रहलिये"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:33:44.457965715Z",
+  "model": "glm-5.3"
+}

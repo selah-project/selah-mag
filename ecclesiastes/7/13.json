@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (दूसर)",
+      "rationale": "עותו के भीतर पुर्निहित कर्म-चिन्हा; ⟨את⟩ के रूप में देखावल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "रैहै आदेश — पढ़निहार के सीधे सम्बोधन"
+    },
+    {
+      "kind": "invitation",
+      "subject": "देखऽ",
+      "rationale": "आदेशार्थ क्रिया पढ़निहार के खींचऽ हइ"
+    }
+  ],
+  "translation": "एलोहीम के काम ⟨את⟩ देखऽ, काहे कि ऊ ⟨את⟩ जेकरा टेढ़ कएलन हे, ओकरा कोनो सीध कए सकऽ हइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "74e5c7f773e7ba8b84ce3e17a78a44db15e665abca65d65accac573a568b0dc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/7\/13-16.1792008441717.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलोहीम के काम"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सकऽ हइ"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "सीध कए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जेकरा टेढ़ कएलन हे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "टेढ़ कएलन हे"
+    }
+  ],
+  "timestamp": "2026-10-14T20:07:21.718449390Z",
+  "model": "glm-5.3"
+}

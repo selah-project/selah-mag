@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "आँगन",
+      "rationale": "आँगन के नाप — सौ कोहत गुरू सौ कोहत, चउकोना"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हलइ⟩",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के बाक्य के बर जोड़ल"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ आँगन के नापलन — लमबाई सौ कोहत आउ चौड़ाई सौ कोहत, चउकोना; आउ बेदी घर के आगू ⟨हलइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f7177f338d3a88fe3b9701660acb3e359b153b0728b45a8851bc84dc87daa11e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/40\/45-48.1792002952315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "आउ नापलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आँगन"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "आँगन"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लमबाई"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "कोहत"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आउ चौड़ाई"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "कोहत"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "चउकोना"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "आउ बेदी"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:35:52.316298892Z",
+  "model": "glm-5.3"
+}

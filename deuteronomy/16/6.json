@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "'काहे कि…उतए' — इब्रानी के 'की इम' (खाली\/बल्कि) के ताना बाक्य के ढाँचा में घुल गेल"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מועד",
+      "rationale": "पासओवर के निर्धारित समय बर मोआद शब्द इब्रानी के मौसम\/नियत-समय शब्द हकइ; 'ओही मोआद' लिप्यन्तरण रखल गेल"
+    }
+  ],
+  "translation": "काहे कि उहे जगह, जे यहवे तोहर एलोहीम ओकर नाम रहै बर चुनतइ, उतए तूँ ⟨את⟩ पसह के बलि करिहऽ — साँझ के, सुरुज डूबते के घड़ी, ओही मोआद में जे तूँ मिस्रयिम से निकलल हता।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "372e101a9a74e67a9df470aec489afe0032cb493c2df1a0aea2b351cb9dc7d65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/16\/5-8.1791992442865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "उतए"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "चुनतइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "रहै बर"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उतए"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "बलि करिहऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पसह"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पसह"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "साँझ के"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "डूबते के घड़ी"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मोआद"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "तोहरा निकलल"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम से"
+    }
+  ],
+  "timestamp": "2026-10-14T15:40:42.866203293Z",
+  "model": "glm-5.3"
+}

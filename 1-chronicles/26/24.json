@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נגיד",
+      "rationale": "नेता — नागिद सामने ठाढ़ होवे वाला, सेना-धरम-राज के सब्द"
+    },
+    {
+      "kind": "addition",
+      "subject": "रहलन",
+      "rationale": "किरिया जोड़ल — इब्रानी में नञ हइ"
+    }
+  ],
+  "translation": "आउ शेबुएल — गेरेशोम के बेटा, मोशे (मूसा) के बेटा — खजाना पर नेता रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2d2de21469c519f142704979ab883ba00839c62243d8a8c5d1f9735bd600e78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/26\/21-24.1792010494539.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "आउ शेबुएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "गेरेशोम के"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा) के"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "नेता"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "खजाना"
+    }
+  ],
+  "timestamp": "2026-10-14T20:41:34.540138572Z",
+  "model": "glm-5.3"
+}

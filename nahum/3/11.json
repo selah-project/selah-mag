@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "तूँ",
+      "rationale": "निनवे के सीधे संबोधन — दुसरा बचन स्त्री-रूप"
+    },
+    {
+      "kind": "crux",
+      "subject": "नעלमा",
+      "rationale": "'लुकाएल जातइ' (KJV) बनाम 'बेहोस हो जातइ' (JPS swoon) — עלם दुनो अरथ संभव"
+    },
+    {
+      "kind": "substitution",
+      "subject": "पनाह",
+      "rationale": "מעוז सुभाव में गढ़-शहर \/ जुड़ाव; 'पनाह' कमजोर अनुवाद"
+    }
+  ],
+  "translation": "तूँ भी नशा में डूब जातइ, तूँ ओगारल जातइ; तूँ भी दुस्मान देखते पनाह खोजबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b48b1f17ed541b62080927e7e822b6ae7594b3355a1e7e7a664f5da7501b1309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nahum\/3\/9-12.1792003824785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "तूँ भी"
+    },
+    {
+      "surface": "את",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "नशा में डूब जातइ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "हो जातइ"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "ओगारल जातइ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "तूँ भी"
+    },
+    {
+      "surface": "את",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "खोजबइ"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "पनाह"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "दुस्मान देखते"
+    }
+  ],
+  "timestamp": "2026-10-14T18:50:24.786162447Z",
+  "model": "glm-5.3"
+}

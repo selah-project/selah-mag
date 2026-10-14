@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עוגב",
+      "rationale": "बाँस के बाजा — केजेवी 'organs', एएसवी 'pipe' — सबसे अनिश्चित बाजा"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מנים",
+      "rationale": "'मिनिम' शाब्दिक अरथ 'तार\/डोर' — 'तार वाला बाजा' के जगह 'डोरी बाजा' बोल सकऽ हइ"
+    }
+  ],
+  "translation": "जस गावऽ ओकरा डफ आउ नाच में, जस गावऽ ओकरा तार वाला बाजा आउ बाँसुरी में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "00e0b663f8eade436f3748e52762c86674360c69286ee578b619572e9c60824e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/150\/1-4.1792006372106.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "जस गावऽ ओकरा"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "डफ में"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "आउ नाच"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "जस गावऽ ओकरा"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "तार वाला बाजा में"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "आउ बाँसुरी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:32:52.107404777Z",
+  "model": "glm-5.3"
+}

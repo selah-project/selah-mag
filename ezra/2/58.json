@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezra 2:58",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "392",
+      "rationale": "गिनती के पद — तीन सौ बानवे आउ दू।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "नतीनीम",
+      "rationale": "हिब्रू नतीनीम ('देल गेल लोग') के लिप्यन्तरन; बेदी-घर के काम बर देल गेल सेवक।"
+    }
+  ],
+  "translation": "नतीनीम सब आउ शलोमोह के नौकरन के बेटा — तीन सौ बानवे आउ दू।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2637b67a3efc776febbede01887c9342175a81b8f6178c54087ba3a4af72a66c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/2\/57-60.1792009242287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "नतीनीम"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आउ के बेटा"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "नौकरन के"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "बानवे"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आउ दू"
+    }
+  ],
+  "timestamp": "2026-10-14T20:20:42.288289943Z",
+  "model": "glm-5.3"
+}

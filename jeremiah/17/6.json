@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 17:6",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ערער",
+      "rationale": "तनाख में ई सब्द इहे रूप में कहुँ नञ मिलऽ हइ; झबरा-सुकखल गाछ के चित्र अनुमान पर टिकल हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "'जब' बनाम 'कि' — देखतइ नञ कि बढिया बात अवतइ; समय-अरथ लेल गेलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "केकरो",
+      "rationale": "हिब्रू के अनिर्दिष्ट नकार के बाक्य पूरा करे बर सर्बनाम जोड़ल गेलन"
+    }
+  ],
+  "translation": "आउ ऊ होतइ झबरा-गाछ जइसन सुखल जंगल-बाद में, आउ देखतइ नञ जब बढिया बात अवतइ; आउ रहतइ सुकखल जगह में, उजाड़ में, खारही धरती, जतय ⟨केकरो⟩ बसतइ नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f224d892930df3fa442b429c708188c8c72b50d06bb0455152a52c5f6b733b25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/17\/5-8.1792000558412.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "כערער",
+      "gloss": "झबरा-गाछ जइसन"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "सुखल जंगल-बाद में"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "अवतइ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "बढिया बात"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "आउ रहतइ"
+    },
+    {
+      "surface": "חררים",
+      "gloss": "सुकखल जगह"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "उजाड़ में"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "מלחה",
+      "gloss": "खारही"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "बसतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:55:58.413108668Z",
+  "model": "glm-5.3"
+}

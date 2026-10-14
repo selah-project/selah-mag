@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בניתי\/הרס · נטעתי\/נתש",
+      "rationale": "बनावट-तोड़ आउ रोपना-उखाड़ के जोड़ी-विरोध, किसान-गढ़ना के तस्वीर।"
+    },
+    {
+      "kind": "elision",
+      "subject": "היא",
+      "gloss-rationale": "",
+      "rationale": "पुनरुक्ति बल देवे वाला सर्बनाम; मगही में मुख्य बाक्य पहिले होने से विलीन हो गेल।"
+    }
+  ],
+  "translation": "एहने तू ओकरा कहबइ — एहने यहवे के बचन — देख, जे हम बनइलहीं ऊ हम ढारबइ, आउ ⟨ואת⟩ जे हम रोपलहीं ऊ हम उखाड़बइ, आउ ⟨ואת⟩ पूरा धरती।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f8a590235eed7de6e5e90bacf80bb1d69cba08f8c48ea50a904a68d81982438b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/45\/1-4.1792001323787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "तू कहबइ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "के बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "हम बनइलहीं"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "ढारबइ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "जे हम रोपलहीं"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "हम रोपलहीं"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "उखाड़बइ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "पूरा धरती"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "היא",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-10-14T18:08:43.788288269Z",
+  "model": "glm-5.3"
+}

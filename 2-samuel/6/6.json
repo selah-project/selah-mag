@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 6:6",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שמטו",
+      "rationale": "'बैल लड़खड़ाए गेलन' (अधिकतर अनुवाद) बनाम 'बैल के छोड़ देल गेलन' (YLT) — दुनो पढ़ाव संभव हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सन्दूक",
+      "rationale": "ארון के सादा अरथ 'बक्सा\/सन्दूक' हकइ — 'वाचा के सन्दूक' उपाधि मूल में नञ हइ"
+    }
+  ],
+  "translation": "आउ ओकनी नाखोन के खलिहान ले अइलन, आउ उज्जा एलोहीम के सन्दूक दने हाथ बढ़ालन आउ ओकरा पकड़लन, काहे कि बैल लड़खड़ाए गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "99189915eaf72642e10d5faa67746224728450704f4fc4027ba533f283139233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/6\/5-8.1791995993899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "खलिहान"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "नाखोन के"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "बढ़ालन"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "उज्जा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "पकड़लन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "लड़खड़ाए गेलन"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "बैल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:39:53.899836828Z",
+  "model": "glm-5.3"
+}

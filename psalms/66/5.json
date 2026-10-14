@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "लेखु आइऽ — imperative summons, draws in the hearer."
+    },
+    {
+      "kind": "crux",
+      "subject": "עלילה",
+      "rationale": "'कारना \/ काम' बनाम 'डरावना कारना' — exploit या deed; एकरा 'बिसय-बस्तु देखावऽ' रखल गेलइ।"
+    }
+  ],
+  "translation": "आइऽ आउ देखऽ एलोहीम के काम; ऊ आदमी के बेटा ऊपरे डर-भरियल बिसय-बस्तु देखावऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/66\/5-8.1792005277770.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "आइऽ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "काम"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "डर-भरियल"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "बिसय-बस्तु देखावऽ हथिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपरे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:37.771439790Z",
+  "model": "glm-5.3"
+}

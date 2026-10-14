@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ילע",
+      "rationale": "'जल्दी कइके बक दे' (ASV\/JPS) बनाम 'निगल जाए' (KJV\/ Geneva) — क्रिया के दुइ पढ़ाई।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी पद-नाम वाक्य हकइ; मगही किरिया जोड़ल गेलन।"
+    }
+  ],
+  "translation": "फंदा हकइ मनुस बर — पबित्तर बात जल्दी कइके बक दे, आउ नेद के पाछे जाके जाँच करे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3733b31310b815b78eda709ccef9694eece5e795eb3f8ce2999a3f0839a35c33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/20\/25-28.1792006813540.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "फंदा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुस बर"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "जल्दी कइके बक दे"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पबित्तर बात"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "आउ पाछे"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "नेद के"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "जाँच करे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:13.540432553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 54:2",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ऊ⟩ \/ ⟨सब⟩",
+      "rationale": "यटू (3rd plural) के करता मगही में चाही — इब्रानी ओकरा बिना कहऽ हइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "पाँच आज्ञा-रूप",
+      "rationale": "तम्बू फइलावे के लगातार आदेस — बुलावट के तान।"
+    },
+    {
+      "kind": "you",
+      "subject": "सिय्योन",
+      "rationale": "स्त्री-वचन सम्बोधन, आगू के पद के बाँझ जनाना के ही।"
+    }
+  ],
+  "translation": "अपन तम्बू के जगह फइला दे, आउ अपन मिश्कान के परदा ⟨ऊ⟩ दूर-दूर तक फैलौ; रोक मत कर, अपन रस्सी लम्बा कर आउ अपन कील ⟨सब⟩ मजबूत कर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "74e26d779e80194a9a4fa85403d49b70e77891d0fd5ff2581ee35a6d8190a6df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/54\/1-4.1791999764904.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרחיבי",
+      "gloss": "फइला दे"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "तोहर तम्बू के"
+    },
+    {
+      "surface": "ויריעות",
+      "gloss": "आउ परदा"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "तोहर मिश्कान के"
+    },
+    {
+      "surface": "יטו",
+      "gloss": "फैलौ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תחשכי",
+      "gloss": "रोक"
+    },
+    {
+      "surface": "האריכי",
+      "gloss": "लम्बा कर"
+    },
+    {
+      "surface": "מיתריך",
+      "gloss": "तोहर रस्सी"
+    },
+    {
+      "surface": "ויתדתיך",
+      "gloss": "आउ तोहर कील"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "मजबूत कर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:42:44.905467318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "भला करलन",
+      "rationale": "וייטब साकारात्मक ढँग से 'अच्छा बनइलन' हकइ; 'भला करलन' सुभाविक मगही रूप हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירב\/ויעצמו",
+      "rationale": "बढ़ल आउ बलवान भेलन — उत्पत्ति के 'बढ़ऽ आउ फैलऽ' के गूँज, फिरओन के योजना के उलटा।"
+    }
+  ],
+  "translation": "आउ एलोहीम दाय लोग के संग भला करलन, आउ लोग बढ़लन आउ बड़ी बलवान भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/1\/17-20.1791988036075.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "भला करलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "दाय लोग के संग"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "बढ़लन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "ותעצמו",
+      "gloss": "बलवान भेलन"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बड़ी"
+    }
+  ],
+  "timestamp": "2026-10-14T14:27:16.076214399Z",
+  "model": "glm-5.3"
+}

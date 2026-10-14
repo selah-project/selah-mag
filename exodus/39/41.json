@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השרד",
+      "rationale": "सिलल कपड़ा बर दुर्लब सब्द; 'सेवा के कपड़ा' कइल गेलइ, 'बुनल' या 'गूँथल' दूसर पाठ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "לכהן",
+      "rationale": "'पुरोहित बने बर' बनाम 'पुरोहित के काम करे बर' — किरिया के दू अरथ।"
+    }
+  ],
+  "translation": "सेवा के कपड़ा — पवित्तर जगह में सेवा करे बर — ⟨את⟩ पवित्तर कपड़ा अहरोन पुरोहित बर, आउ ⟨את⟩ ओकर बेटा सब के कपड़ा पुरोहित बने बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "696a491457e03c16faa0801637556b0304715a12c59ddc983248e348d290098a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/39\/41-43.1791989398171.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पवित्तर कपड़ा"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "सेवा के"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "सेवा करे बर"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "पवित्तर जगह में"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पवित्तर कपड़ा अहरोन पुरोहित बर"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "अहरोन बर"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "बेटा सब के कपड़ा"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा सब के"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "पुरोहित बने बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:49:58.172230300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 5:8",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ओकर⟩ ⟨जरूरत⟩ ⟨हलइ⟩",
+      "rationale": "इब्रानी केवल कहऽ हइ 'जहाँ ओ ⟨होतइ⟩' — मगही के साफ-साफ बर जरूरत के सब्द जोड़ल गेलन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "רכש",
+      "rationale": "רֶכֶश के अरथ: 'दौड़ू घोड़ा \/ डाक-घोड़ा' बनाम 'ऊट' कुछ अनुवादन में; दौड़ू घोड़ा लेल गेलइ।"
+    }
+  ],
+  "translation": "आउ जौ आउ पराल घोड़ा आउ दौड़ू घोड़ा बर ओही जगह ले आवल जावऽ हलन जहाँ ⟨ओकर⟩ ⟨जरूरत⟩ ⟨हलइ⟩, हर एक अपन नियाव के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "67c0c506ec3d2e7b5a79e4f076fa23dd9addcc8bc601895f9869a7259e5e4225",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/5\/5-8.1791996841369.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "आउ जौ"
+    },
+    {
+      "surface": "והתבן",
+      "gloss": "आउ पराल"
+    },
+    {
+      "surface": "לסוסים",
+      "gloss": "घोड़ा बर"
+    },
+    {
+      "surface": "ולרכש",
+      "gloss": "आउ दौड़ू घोड़ा बर"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ले आवल जावऽ हलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ओही जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिया"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "अपन नियाव के मोताबिक"
+    }
+  ],
+  "timestamp": "2026-10-14T16:54:01.370429916Z",
+  "model": "glm-5.3"
+}

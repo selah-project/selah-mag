@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כבוד … כבוד",
+      "rationale": "एके शब्द दू बेर — नाम के महिमा आउ स्तुति के महिमा — एहे जोड़ के गूँज"
+    }
+  ],
+  "translation": "बजावऽ साज़ ओकर नाम के महिमा के, ओकर स्तुति के महिमामय बनावऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b1a7f2ef87df232157658b0047ad671fbd7c46dccc167f0b2676a262b8f74fdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/66\/1-4.1792005282030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "बजावऽ साज़"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा के"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "बनावऽ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमामय"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ओकर स्तुति"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:42.031481568Z",
+  "model": "glm-5.3"
+}

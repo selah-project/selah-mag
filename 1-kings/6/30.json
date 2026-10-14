@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 6,
+  "translation": "आउ ⟨את⟩ घर के फरस सोना से मढ़लन — भीतर आउ बाहिर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "da6eafa4ad6c1b2b83f07e3d7d8b12efd0db58e82794e3d129c17b74f53b2516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/6\/29-32.1791996867232.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "फरस"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "फरस"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "मढ़लन"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "आउ बाहिर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:54:27.233022516Z",
+  "model": "glm-5.3"
+}

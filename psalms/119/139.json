@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "मिटा देलक",
+      "rationale": "צמת יוסף का एकमात्र अन्य प्रयोग 'काटना\/उखाड़ना' का अर्थ हकइ — 'जी चुराया' का नरम पढ़ी भी चलती हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צמת \/ קנאתי",
+      "rationale": "त्सादे खण्ड का तीसरा पद और 'जलन ने मुझे खा लिया' का अति-सामान्य इब्रानी चित्र।"
+    }
+  ],
+  "translation": "हमर जलन हमरा मिटा देलक हे, काहे कि हमर दुसमन तोहर बात बिसर गेलान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/137-140.1792006147547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "हमरा मिटा देलक"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "हमर जलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "बिसर गेलान"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "तोहर बात"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "हमर दुसमन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:07.547892381Z",
+  "model": "glm-5.3"
+}

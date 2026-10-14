@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "एली शेमुएल के",
+      "rationale": "परत्यक्ष सम्बोधन — एली शेमुएल के नाम लेके पुकारऽ हइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הנני",
+      "rationale": "साक्षात् „देखऽ, हम”; सम्बोधन के जवाब के चलनसार रूप हकइ।"
+    }
+  ],
+  "translation": "आउ एली ⟨את⟩ शेमुएल के पुकारलक आउ कहलन, शेमुएल, हमर बेटा। आउ ओ कहलक, देखऽ, हम इहै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/3\/13-16.1791994880698.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "पुकारलक"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "एली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेमुएल"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शेमुएल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शेमुएल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमर बेटा"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "देखऽ, हम इहै"
+    }
+  ],
+  "timestamp": "2026-10-14T16:21:20.699362981Z",
+  "model": "glm-5.3"
+}

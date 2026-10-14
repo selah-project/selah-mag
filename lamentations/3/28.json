@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "यहवे",
+      "rationale": "इब्रानी में करता बिना-नाम हकइ; ओकरा ब्रोकेट में जोड़ल गेलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "बोझ",
+      "rationale": "נטל के कारक (जे उठाएल\/रखल गेलइ) इब्रानी में बतावल नञ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "נטל עליו",
+      "rationale": "केजेवी 'ओकरा ओकरा ऊपर उठालन' (आदमी बोझ उठावऽ हइ) बनाम जेपीएस 'यहवे ओकर ऊपर रखलन' (यहवे बोझ रखऽ हइ)"
+    }
+  ],
+  "translation": "ऊ अकेले बैठतइ आउ चुप रहतइ, काहे कि ⟨यहवे⟩ ओकर ऊपर ⟨बोझ⟩ रखलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a100160c1b0dc4073013dfe319e152e603e9deb1cbdc2732e11d93167d28e2bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/3\/28-28.1792012143302.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "बैठतइ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "आउ चुप रहतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपर"
+    }
+  ],
+  "timestamp": "2026-10-14T21:09:03.303292354Z",
+  "model": "glm-5.3"
+}

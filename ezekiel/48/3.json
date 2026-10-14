@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "समुंदर ⟨पच्छिम⟩",
+      "rationale": "ימה 'समुंदर दने' पच्छिम के अरथ में"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हिस्सा⟩",
+      "rationale": "אחד 'एक' के संग हिस्सा जोड़ल गेलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "भूमि-बाँट",
+      "rationale": "गोत्र के हिस्सा के सीमा के नाप"
+    }
+  ],
+  "translation": "आउ आशेर के सीमा के ऊपर, पुरुब के किनारा से ले समुंदर ⟨पच्छिम⟩ के किनारा तक — नाफ्ताली एक ⟨हिस्सा⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "50e70d814f07851c3dac8059ac58bdb70ff0cdb15fdac0cd324660f6a272a04c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/48\/1-4.1792003131200.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आउ ऊपर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "किनारा से"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पुरुब"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ तक"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नाफ्ताली"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-10-14T18:38:51.201829496Z",
+  "model": "glm-5.3"
+}

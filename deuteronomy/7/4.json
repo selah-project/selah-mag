@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे के बोली",
+      "rationale": "'हमरा पाछे से' — यहवे खुद बोलऽ हथिन; बुतरा पद में बोलै वाला यहवे हथिन।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חרה אף (नाक भड़कल)",
+      "rationale": "इब्रानी के साक्षात तस्वीर 'नाक गरम भऽ गेल' — क्रोध; मगही में 'क्रोध भड़क जाना'।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "देवता सब (אלהים אחרים)",
+      "rationale": "देसर देवता बर जाति-सब्द 'देवता सब' — नाम एलोहीम एतए नञ आवऽ हइ।"
+    }
+  ],
+  "translation": "काहे कि ऊ ⟨את⟩ तोहर बेटा के हमरा पाछे से हटाइतइ आउ ओकनी देवता सब के सेवा करतइ, आउ यहवे के क्रोध तोहनी पर भड़क जातइ आउ तोहनी के तुरंत नास कर देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/7\/1-4.1791992167476.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "हटाइतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर बेटा के"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "तोहर बेटा"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "हमरा पाछे से"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "आउ सेवा करतइ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवता सब"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "देसर"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "आउ भड़क जातइ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "तोहनी पर"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "आउ नास कर देतइ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "तुरंत"
+    }
+  ],
+  "timestamp": "2026-10-14T15:36:07.477636014Z",
+  "model": "glm-5.3"
+}

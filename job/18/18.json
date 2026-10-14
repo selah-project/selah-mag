@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 18:18",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जातइ",
+      "rationale": "इब्रानी के करम-निर्माण अनाम करता के बिना हकइ; मगही के परति-करम रूप जोड़ल गेलन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बसल धरती",
+      "rationale": "תבל बसल-बूझल धरती के बात हकइ; 'संसार' जइसन बड़ बात नञ।"
+    }
+  ],
+  "translation": "ऊ इँजोर से अन्हार ले धकेलल जातइ आउ बसल धरती से ओकरा खदेड़ल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d439a6b2f954805fa2af8d678fa465e73bcac5ab6566fc527a1db8b7f9391ed3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/18\/17-20.1792007426512.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהדפהו",
+      "gloss": "ओकरा धकेलल जातइ"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "इँजोर से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्हार"
+    },
+    {
+      "surface": "ומתבל",
+      "gloss": "आउ बसल धरती से"
+    },
+    {
+      "surface": "ינדהו",
+      "gloss": "ओकरा खदेड़ल जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:50:26.513416904Z",
+  "model": "glm-5.3"
+}

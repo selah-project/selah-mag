@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פצחו",
+      "rationale": "'फट् के बोलऽ' — आनन्द फाट पड़े के इब्रानी मुहावरा।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "धरती के सब",
+      "rationale": "पूरा धरती के जोर-शोर से गावे के हुकुम।"
+    }
+  ],
+  "translation": "धरती के सब, यहवे बर नाद मचावऽ; फाट पड़ऽ आउ खुसी के गीत गावऽ आउ बाजना बजावऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/98\/1-4.1792005813209.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "नाद मचावऽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "फाट पड़ऽ"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "आउ खुसी के गीत गावऽ"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "आउ बाजना बजावऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:33.210361990Z",
+  "model": "glm-5.3"
+}

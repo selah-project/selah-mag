@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "esther 9:29",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תקף",
+      "rationale": "'सब ताकत' (सामर्थ्य के संग) बनाम 'सब हुक्म-हक' (अधिकार) बनाम 'ताकत के सब काम' (जेपीएस) — लिखावट के वजन के अरथ में फरक हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दोसर",
+      "rationale": "पूरिम के दोसर चिट्ठी — गिनती के हवाला, पहिला (9:20-22) के मुकाबले।"
+    }
+  ],
+  "translation": "आउ एस्तेर ⟨the⟩ रानी, अबिहायिल के बेटी, आउ मोर्द्खाय ⟨the⟩ यहूदी लिखलन ⟨את⟩ सब ताकत, ए ⟨את⟩ पूरי׮ के ई दोसर चिट्ठी पक्का करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "17796a276e1347aeeffa4ce98e6c82cc02d9afe24a9f2a6828f880b9979c85b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/9\/29-32.1792008745122.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "आउ लिखलन"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "रानी"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "अबिहायिल"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "आउ मोर्द्खाय"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "यहूदी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब ताकत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "תקף",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "לקים",
+      "gloss": "पक्का करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरिम के चिट्ठी"
+    },
+    {
+      "surface": "אגרת",
+      "gloss": "चिट्ठी"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "पूरिम के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "दोसर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:12:25.123486757Z",
+  "model": "glm-5.3"
+}

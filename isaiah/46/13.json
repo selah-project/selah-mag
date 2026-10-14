@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 46:13",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "लिशराएल तिफरति",
+      "rationale": "संयोग के फेर: „यिस्राएल — हमर शोभा” (KJV\/JPS) बनाम „यिस्राएल बर हमर शोभा” (BSV-चाल) — इब्रानी में दुनो मुमकिन हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक",
+      "rationale": "צדקה के लिप्यन्तरन त्सेदेक थिर हकइ — अरथ धरम \/ नियाव \/ सहीपन तीनो एके जड़ में।"
+    },
+    {
+      "kind": "you",
+      "subject": "हट्टे-हिरदे लोग",
+      "rationale": "पिछला पद के सम्बोधन के जारी — यहवे हट्टे-हिरदे दूर-वाला लोग से सीधे बोलथिन।"
+    }
+  ],
+  "translation": "हम हमर त्सेदेक के नजदीक कएलन — ऊ दूर नञ होतइ; आउ हमर छुटकारा ढिल नञ लगतइ; आउ हम तियोन (सिय्योन) में छुटकारा, यिस्राएल (इस्राएल) बर हमर शोभा देबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c86289585bb89cd143b327e6cfca267ea0eb894db0a06c836e7b7839e84aad2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/46\/13-13.1791999547214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבתי",
+      "gloss": "नजदीक कएलन"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "हमर त्सेदेक"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "दूर होतइ"
+    },
+    {
+      "surface": "ותשועתי",
+      "gloss": "आउ हमर छुटकारा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ढिल लगतइ"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "आउ देबइ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "तियोन में"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "छुटकारा"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "यिस्राएल बर"
+    },
+    {
+      "surface": "תפארתי",
+      "gloss": "हमर शोभा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:39:07.214971809Z",
+  "model": "glm-5.3"
+}

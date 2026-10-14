@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 47:11",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחרה",
+      "rationale": "'ओकर भोर' (शाहर, भोर) बनाम 'ओकरा जादू से हटाबइ' (जड़ שׁחר, जादू-टोना) — JPS दोसर लेऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוה \/ שואה",
+      "rationale": "बिपत्ति आउ तबाही — आवाज के मेल, तीन-तीन बेर 'तोहरा ऊपर' के दोहराव के संग चढ़ता ताल।"
+    },
+    {
+      "kind": "you",
+      "subject": "बाबुल के",
+      "rationale": "तीनों बात तोहरा ऊपर — सीधा सम्बोधन जारी हकइ।"
+    }
+  ],
+  "translation": "आउ तोहरा ऊपर बुराई आतइ — ओकर भोर तूँ नञ जानबइ; आउ तोहरा ऊपर बिपत्ति गिरतइ — ओकर कफारत तूँ करऽ नञ सकबइ; आउ तोहरा ऊपर अचानक तबाही आतइ — ओकरा तूँ नञ जानबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b1ec40faf0ffb332a7dd5325d3e1ef3b753f61e2646a997a7edc354c9c140ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/47\/9-12.1791999587998.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "आतइ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहरा ऊपर"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "जानबइ"
+    },
+    {
+      "surface": "שחרה",
+      "gloss": "ओकर भोर"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "गिरतइ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहरा ऊपर"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "बिपत्ति"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תוכלי",
+      "gloss": "सकबइ"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "ओकर कफारत"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "आतइ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहरा ऊपर"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "तबाही"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "जानबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:39:47.999337704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 16:1",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "object of took",
+      "rationale": "Hebrew gives no explicit object of ויקח; the men taken are supplied by context (KJV 'took men')"
+    }
+  ],
+  "translation": "आउ कोरह लेलन — यित्सहार के बेटा, केहात के बेटा, लेवी के बेटा — दातान आउ अबीराम के, एलियाब के बेटा सब के, आउ ओन के, पेलेत के बेटा के, रेउबेन के बेटा सब के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b08d47f344a996abd6a774dec18d811fa32e96645baca05782813867eac04585",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/16\/1-4.1791991222142.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "आउ लेलन"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "यित्सहार"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "केहात"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "ודתן",
+      "gloss": "दातान"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "अबीराम के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलियाब"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "आउ ओन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "पेलेत"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रेउबेन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:20:22.142742401Z",
+  "model": "glm-5.3"
+}

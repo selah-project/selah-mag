@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 36:29",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "कोनो",
+      "rationale": "इब्रानी में करता नञ देल हइ; प्रस्न के बाक्य मगही में कोनो चाही"
+    },
+    {
+      "kind": "crux",
+      "subject": "डेरा के गरज",
+      "rationale": "תשאות סכתו: 'ओकर डेरा के गरज' बनाम 'ओकर डेरा (बादल) के बिस्तार' — प्रसंग बादल के डेरा हकइ"
+    }
+  ],
+  "translation": "अफिर की ⟨कोनो⟩ समझऽ सकऽ हइ घन बादल के फैलाव, ओकर डेरा के गरज?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a416a156a1bade8ccc93aadc04ba34778396e301de89262bf9ce330b6f06ea57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/36\/29-32.1792007801222.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "अफिर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "की"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "समझऽ सकऽ हइ"
+    },
+    {
+      "surface": "מפרשי",
+      "gloss": "फैलाव"
+    },
+    {
+      "surface": "עב",
+      "gloss": "घन बादल"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "गरज"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "ओकर डेरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:56:41.222670117Z",
+  "model": "glm-5.3"
+}

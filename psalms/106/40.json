@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "क्रोध",
+      "rationale": "אף मूल रूप से 'नाक\/थुनकनी' हकइ — क्रोध के इब्रानी तस्वीर हइ, जइसे नाक से फूँका।"
+    }
+  ],
+  "translation": "तब यहवे के क्रोध आपन लोग पर भड़क गेलन, आउ ऊ ⟨את⟩ आपन बिरसत के घिनौना समझलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/106\/37-40.1792005886691.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "भड़क गेलन"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "आपन लोग पर"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "घिनौना समझलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन बिरसत"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "आपन बिरसत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:46.691999198Z",
+  "model": "glm-5.3"
+}

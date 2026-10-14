@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जबे अइली, तबे समझली",
+      "rationale": "इब्रानी खाली 'जबतक… तब समझली' कहऽ हइ; मगही में सकारात्मक बाक्य जोड़ल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "psalmist",
+      "rationale": "आत्म-साक्ष्य के बात, पढ़निहार के नञ"
+    }
+  ],
+  "translation": "जबतक हम एल के पबित्तर-घर सब में नञ अइली, तब तक हम ओकनी के अन्त के बारे में नञ समझली; जबे अइली, तबे समझली।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d31432a85700b1e047adc134f4595a8af7363556d66597757182c6ded057e1f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/73\/17-20.1792005411751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जबतक"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "अइली"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "पबित्तर-घर सब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "समझली"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "ओकनी के अन्त"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:51.751610281Z",
+  "model": "glm-5.3"
+}

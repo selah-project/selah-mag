@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עלה",
+      "rationale": "साक्षात अरथ „उपर जावे वाला”; „जरे-बलि” (पूरा जरे के बलि) चलनसार अरथ ले"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מעשר",
+      "rationale": "दसवाँ अंस — गिनती के नाप"
+    }
+  ],
+  "translation": "आउ तोहनी ओत्ते लाबा ⟨आपन⟩ जरे-बलि आउ ⟨आपन⟩ जीव-जंतु के बलि, ⟨את⟩ ⟨आपन⟩ दसवाँ अंस आउ ⟨את⟩ ⟨आपन⟩ हाथ के भेंट, ⟨आपन⟩ मन्नत आउ ⟨आपन⟩ स्वेच्छा के भेंट, ⟨आपन⟩ गाय-बैल आउ ⟨आपन⟩ भेड़-बकरी के पहिला जनमल बुतरू।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "762cebd8076c9fc225dcc4b7e78721d76d1c30caafbc4bfdb7495450afd79dde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/12\/5-8.1791992398588.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "आउ तोहनी लाबा"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओत्ते"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "आपन जरे-बलि"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "आपन जीव-जंतु के बलि"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आपन दसवाँ अंस"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "आपन दसवाँ अंस"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आपन हाथ के भेंट"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "आपन हाथ के"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "आपन मन्नत"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "आपन स्वेच्छा के भेंट"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "पहिला जनमल बुतरू"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "आपन गाय-बैल"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "आपन भेड़-बकरी"
+    }
+  ],
+  "timestamp": "2026-10-14T15:39:58.589034618Z",
+  "model": "glm-5.3"
+}

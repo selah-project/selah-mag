@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सब पर्दा चारो दने",
+      "rationale": "अँगना के पूरा घेरा के सामग्री के हिसाब"
+    }
+  ],
+  "translation": "अँगना के सब पर्दा, चारो दने के, महीन गूँथल सूती के ⟨हलइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "90ab2726fd36df2ea56621200cf574e7022d6a3b1296c0d14d2520ab70d36a5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/38\/13-16.1791989306050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "पर्दा"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "अँगना के"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने के"
+    },
+    {
+      "surface": "שש",
+      "gloss": "महीन सूती"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "गूँथल"
+    }
+  ],
+  "timestamp": "2026-10-14T14:48:26.051906218Z",
+  "model": "glm-5.3"
+}

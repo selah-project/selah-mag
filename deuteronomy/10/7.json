@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बर",
+      "rationale": "हिब्रू में 'के लिए\/ओर' जैसा कोई शब्द नहीं है; दिशा का अर्थ क्रिया से आता है"
+    },
+    {
+      "kind": "measurement",
+      "subject": "यात्रा-सूची",
+      "rationale": "पड़ावों के नामों की गिनती — इस्राएल के घुमाव की सूची"
+    }
+  ],
+  "translation": "ओहाँ से ओकनी गुद्गुदा के बर चललन, आउ गुद्गुदा से योत्बाता के बर — नदी-धारा के पानी के धरती।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f72b79b90df0115f418c986a9289904e8e4a8935d21c36732f8bf6e73c3b9028",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/10\/7-8.1792011650613.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "ओहाँ से"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "चललन"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "गुद्गुदा"
+    },
+    {
+      "surface": "ומין",
+      "gloss": "आउ … से"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "गुद्गुदा"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "योत्बाता"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "नदी-धारा के"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-10-14T21:00:50.614336380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तूँ",
+      "rationale": "कर्ता सर्बनाम जोड़ल गेलइ — संबोधन नगर से होतइ, इबरानी में करिया-रूपे ही काम करऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यरूशलयिम (नगर)",
+      "rationale": "यहवे नगर के सीधे संबोधन करऽ हथिन"
+    }
+  ],
+  "translation": "हमर पवित्तर चीज के तूँ तुच्छ समझलक, आउ ⟨את⟩ हमर शब्बात के तूँ अपवित्तर कइलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e4349d419cca91a0f7b943244050b137c2fb91373f257b51c78bb5813b15e3e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/22\/5-8.1792002232167.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "हमर पवित्तर चीज"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "तुच्छ समझलक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हमर शब्बात"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "हमर शब्बात"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "अपवित्तर कइलक"
+    }
+  ],
+  "timestamp": "2026-10-14T18:23:52.168321746Z",
+  "model": "glm-5.3"
+}

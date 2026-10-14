@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "ओकरा",
+      "rationale": "हेबरू में करम-सर्बनाम 'ओकरा' अकेले हकइ — की चीज हकइ, ऊ नाम लिकल बिना छोड़ल गेल हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשדי יער",
+      "rationale": "'जंगल के खेत' बनाम 'याअर के खेत' (कीर्यत-याअर, सन्दूक़ के ठिकाना) — दूनू पढ़ावा चलन में हकइ।"
+    }
+  ],
+  "translation": "देखऽ, हमनी ओकरा एप्राता में सुनलिए; ओकरा जंगल के खेत में पालिए।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/132\/5-8.1792006200871.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "हमनी सुनलिए ओकरा"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "एप्राता में"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "पालिए ओकरा"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "יער",
+      "gloss": "जंगल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:00.872352020Z",
+  "model": "glm-5.3"
+}

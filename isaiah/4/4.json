@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בער",
+      "rationale": "जराव के रूआख — आग से सफाई बनाम बरबादी के रूआख (jps: destruction)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צאת",
+      "rationale": "शाब्दिक अरथ गोबर-मैल; गन्दगी नरम रूप हकइ"
+    }
+  ],
+  "translation": "जब अदोनाय त्सियोन के बेटी सब के गन्दगी ⟨את⟩ धो देतन, आउ यरूशलयिम के खून ⟨ואת⟩ ओकर बीच से धुटाय देतन — नियाव के रूआख से आउ जराव के रूआख से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a19b5c914eb955c63f4e3e304528e109f58632fa94e03c8925e5bd87525337a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/4\/1-4.1791998638512.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जब"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "धो देतन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्सियोन के बेटी सब के गन्दगी"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "गन्दगी"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटी सब"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "त्सियोन के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "यरूशलयिम के खून"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "खून"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम के"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "धुटाय देतन"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "ओकर बीच से"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "रूआख से"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव के"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "आउ रूआख से"
+    },
+    {
+      "surface": "בער",
+      "gloss": "जराव के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:23:58.514067977Z",
+  "model": "glm-5.3"
+}

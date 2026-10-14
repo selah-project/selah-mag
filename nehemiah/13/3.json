@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मिला-जुला लोग",
+      "rationale": "ערב सचमुच 'मिस्रित भेड़ी\/बुनावट के मिलावट' — मिला-जुला जाति के लोग"
+    }
+  ],
+  "translation": "आउ जब ऊ सब ⟨את⟩ तोरा सुनलन, तब मिला-जुला लोग सब के यिस्राएल से अलग कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "82e74346f050f7983a14ff82b45861843a0229ec55164d5445f98464f7dcdfab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/13\/1-4.1792009803920.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होलन"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "जब सुनलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोरा"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "तब अलग कइलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "मिला-जुला लोग"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "यिस्राएल से"
+    }
+  ],
+  "timestamp": "2026-10-14T20:30:03.922014267Z",
+  "model": "glm-5.3"
+}

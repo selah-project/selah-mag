@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 33:18",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלם",
+      "rationale": "'शालेम' जगह के नाम (KJV) बनाम 'सांति से \/ सलामत' के क्रिया-विशेषण (JPS, ASV) — हमनी दोसर लेलने हिअए।"
+    },
+    {
+      "kind": "elision",
+      "subject": "ארם",
+      "rationale": "מפדן अर׮ एके नाम हकइ; दूनो टोकन एके रूप 'पद्दन-अराम' में मिललइ।"
+    }
+  ],
+  "translation": "आउ याकोव सांति से श्केम नगर में अइलन, जे कनान के धरती में हकइ, जब ऊ पद्दन-अराम से अइलन; आउ ऊ ⟨את⟩ ओ नगर के सामने डेरा डारलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d45c67a609bc5ec7f335d329883828afdc051532e0fdcb3d11b7518aa65b9289",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/33\/17-20.1791987351148.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आउ अइलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "सांति से"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "श्केम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान के"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "जब ऊ अइलन"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "पद्दन-अराम से"
+    },
+    {
+      "surface": "אר׮",
+      "gloss": ""
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "आउ डेरा डारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ नगर के सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ओ नगर के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:15:51.149711579Z",
+  "model": "glm-5.3"
+}

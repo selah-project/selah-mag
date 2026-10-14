@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שער",
+      "rationale": "जड़ के अरथ 'गिनना\/आँकना' (द्वारपाल के गिनती) — KJV 'सोचऽ हकइ' लेकिन JPS 'हिसाब रखऽ हकइ'; मगही में 'गिनती करऽ हकइ' लेल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפश श्वास-परान के बात हकइ, अमर आत्मा नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "सुनैत के दने",
+      "rationale": "खान-पान के निमंत्रन के सीधा बोल।"
+    }
+  ],
+  "translation": "काहे कि जइसन ऊ आपन परान में गिनती करऽ हकइ, तइसने ऊ हकइ; “खाइऽ आउ पीऽ” तोहनी कहतइ, बाकि ओकर हिरदय तोहर संग नञ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/23\/5-8.1792006928890.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "שער",
+      "gloss": "गिनती करऽ हकइ"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "आपन परान में"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसने"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ हकइ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाइऽ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "आउ पीऽ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहतइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "बाकि ओकर हिरदय"
+    },
+    {
+      "surface": "בל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहर संग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:42:08.891103923Z",
+  "model": "glm-5.3"
+}

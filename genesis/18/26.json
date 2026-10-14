@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 18:26",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨त⟩",
+      "rationale": "ससम्बन्धी बाक्य के जोड़ बर मगही के 'त' चाही जे इब्रानी में नञ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ונשאתי",
+      "rationale": "मूल 'उठाबियन \/ ढोबियन' हकइ — पाप उठावे के चाल से 'क्षमा करबियन'"
+    }
+  ],
+  "translation": "यहवे कहलन: जँ हम सदोम में पचास धरमी लोग नगर के भीतर पाबियन, ⟨त⟩ हम ओकनी के खातिर पूरा जगह के क्षमा करबियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a649f003ff1173488e283ad7b205172bfca930830a85808c11cc1bdb5f850ed5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/18\/25-28.1791986698901.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "पाबियन"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "सदोम में"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "धरमी लोग"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "ונשאתי",
+      "gloss": "क्षमा करबियन"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "जगह के"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "ओकनी के खातिर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:04:58.902313204Z",
+  "model": "glm-5.3"
+}

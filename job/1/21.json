@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 1:21",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "יהי",
+      "rationale": "jussive 'let be' rendered as रहे with optative force of blessing"
+    },
+    {
+      "kind": "crux",
+      "subject": "לקח",
+      "rationale": "'took' — KJV adds 'away'; Magahi लेलन keeps the bare taking"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערם ... ערם",
+      "rationale": "repetition of 'naked' frames both halves; Magahi keeps नाङर ... नाङर"
+    }
+  ],
+  "translation": "आउ कहलन: नाङर हम हमर माय के पेट से निकललिए, आउ नाङर हम ओहीं लौट जइबइ; यहवे देलन, आउ यहवे लेलन; यहवे के नाम असीसित रहे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "06199c6de84486b09b59a53d2c0ee266d2726eff55483cce7ac5c28a1954cee8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/1\/21-22.1792007069217.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "ערם",
+      "gloss": "नाङर"
+    },
+    {
+      "surface": "יצתי",
+      "gloss": "हम निकललिए"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "पेट से"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "हमर माय के"
+    },
+    {
+      "surface": "וערם",
+      "gloss": "आउ नाङर"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "हम लौट जइबइ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओहीं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "असीसित"
+    }
+  ],
+  "timestamp": "2026-10-14T19:44:29.217622066Z",
+  "model": "glm-5.3"
+}

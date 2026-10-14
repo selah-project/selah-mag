@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משכנות",
+      "rationale": "मिश्कान जड़ के बहुबचन — डेरा-घर; मगही में 'अइसन घर' लेल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הנמהר",
+      "rationale": "'जल्दबाज' बनाम 'आत्म-लेबे-दौड़ैया' (מהר के निज-रूप) — दूनो पढ़निहार चलन में हइ।"
+    }
+  ],
+  "translation": "काहे कि देखऽ, हम ⟨את⟩ कस्दियन के खड़ा करऽ हइ — जाति कड़वा आउ जल्दबाज, जे धरती के चउड़ा जगह पर चलऽ हइ, अइसन घर बर जे ओकर नञ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "547d8f9fac122dc5605a508cfadacbc5242deb7f338d5dadf9e692987d96aac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/habakkuk\/1\/5-8.1792003893274.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "देखऽ, हम"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "खड़ा करऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कस्दियन"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "कस्दियन"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "המר",
+      "gloss": "कड़वा"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "आउ जल्दबाज"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "जे चलऽ हइ"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "चउड़ा जगह पर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "बर लेबे बर"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "अइसन घर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:51:33.275456577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 10:44",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "'ויש' के मगही में पूरा रूप देवे लेल ⟨हलन⟩ जोड़ल गेलन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישימו בנים",
+      "rationale": "केजेवी\/जेपीएस: जनाना से बच्चा पैदा कइलन; वाईएलटी: बेटा गोद लेलन ('who adopt') — दूनू पढ़ाई मंजूर।"
+    },
+    {
+      "kind": "elision",
+      "subject": "נכריות के जड़",
+      "rationale": "'नोखरी' के अरथ विदेसी धइलन — इब्रानी के जड़ अजनबी\/दोसर के अरथ हकइ।"
+    }
+  ],
+  "translation": "ई सब विदेसी जनाना के लेनिहार हलन; आउ ओनहीं में कोनो-कोनो के जनाना ⟨हलन⟩, आउ ओकरा से बेटा पैदा भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d9f88930218dc2634fdaa8e8f6f9309c01143d9b421e4b35f6dc9759d896868d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/10\/41-44.1792009407146.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "इनहीं"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "लेनिहार"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "जनाना के"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "विदेसी"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "आउ ⟨हलन⟩"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ओनहीं में से"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "जनाना के"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "पैदा कइलन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:23:27.147857577Z",
+  "model": "glm-5.3"
+}

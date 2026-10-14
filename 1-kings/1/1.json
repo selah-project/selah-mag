@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בא בימים",
+      "rationale": "साफ अरथ 'दिन सब में अइलन' — बुढ़ापे के इब्रानी मुहावरा, चालन के 'बहुत बरिस के भ' गेलन' अरथ गढ़ल होतइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יחם",
+      "gloss-context": "",
+      "rationale": "זקן 'गरम होना' के क्रिया हकइ; मगही में संज्ञा 'गरमी अइलइ' रूप में परोल गेलइ।"
+    }
+  ],
+  "translation": "आउ राजा दाविद बुढ़ा गेलन, दिन सब में अइलन, आउ ओकरा कपड़ा सब में ढाकलन, बाकि ओकरा गरमी नञ अइलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "562ff7926eee9f9b6a2fd952ebf5bb75e2182e1ea218bf5cf298ba9de9e5b7de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/1\/1-4.1791996654008.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "आउ राजा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "बुढ़ा गेलन"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "दिन सब में"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "आउ ओकरा ढाकलन"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "कपड़ा सब में"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "गरमी अइलइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:50:54.008531861Z",
+  "model": "glm-5.3"
+}

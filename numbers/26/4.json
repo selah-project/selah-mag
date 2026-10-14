@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बीस बरिस के शर्त",
+      "rationale": "गिनती के उमर-हद दोहरावल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישראל के बेटासब के वाक्य-संबंध",
+      "rationale": "केजेवी 'जैसा यहोवा ने मूसा और इस्राएलियों को आज्ञा दी' बनाम यल्ट 'आज्ञा दी... (आज्ञा दी) — और ये इस्राएली जो बाहर निकले'"
+    }
+  ],
+  "translation": "बीस बरिस के बेटा से आउ ऊपर — जइसने यहवे ⟨את⟩ मोशे (मूसा) केरा हुकुम देलन हल — यिस्राएल (इस्राएल) के ओ बेटासब, जे मिस्रयिम (मिस्र) के धरती से निकललन हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9f791db1380c77a7650ba7abcb71779213d542ef6b50378c002d1ea6d780ff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/26\/1-4.1791991528955.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "बेटा से"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "आउ ऊपर"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकुम देलन हल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे (मूसा)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा)"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आउ बेटासब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल)"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "जे निकललन हल"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम (मिस्र)"
+    }
+  ],
+  "timestamp": "2026-10-14T15:25:28.956728638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "तोहनी सांति-बलि — परजा के सीधा आगेहाँ बात"
+    },
+    {
+      "kind": "crux",
+      "subject": "שוק",
+      "rationale": "'टाँग' बनाम परम्परा के 'काँध' — इब्रानी निचला टाँग कहऽ हइ"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ दहिना टाँग भेंट देबऽ पुरोहित के, तोहनी सांति-बलि के बलि सब में से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/7\/29-32.1791989615765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "टाँग"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "टाँग"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "दहिना"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "देबऽ"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "पुरोहित के"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "बलि सब में से"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "तोहनी सांति-बलि"
+    }
+  ],
+  "timestamp": "2026-10-14T14:53:35.767127558Z",
+  "model": "glm-5.3"
+}

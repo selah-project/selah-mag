@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 23:32",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सूची",
+      "rationale": "साहसी के नाम के सूची जारी हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בני ישן",
+      "rationale": "पाठ बहुबचन 'याशेन के बेटन' दे हइ बाकि एक्को नाम (यहोनातान) आवऽ हइ; कुछ मत 'याशेन के बेटा' पढ़ऽ हइ।"
+    }
+  ],
+  "translation": "एल्याखबा, शाल्बोनी; याशेन के बेटन — यहोनातान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d5ee87afbbc620a96e935aacb513fab9d0f9a783460fde83ab231b8636c26443",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/23\/29-32.1791996570729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליחבא",
+      "gloss": "एल्याखबा"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "शाल्बोनी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटन"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "याशेन"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातान"
+    }
+  ],
+  "timestamp": "2026-10-14T16:49:30.730311328Z",
+  "model": "glm-5.3"
+}

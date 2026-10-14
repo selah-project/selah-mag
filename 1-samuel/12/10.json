@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to यहवे",
+      "rationale": "पद के हिरदय यहवे के ओर करल दुआ हकइ — 'हमनी के छुड़ा दे'।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "העשתरोת",
+      "rationale": "अस्तारोत — देवी के बहुबचन नाम; एके लिखाई लिप्यन्तरन में रखल गेलइ।"
+    }
+  ],
+  "translation": "आउ ओकनी यहवे के ओर चिल्लावलन आउ कहलन: हमनी पाप करलनिए, काहे कि हमनी यहवे के ⟨את⟩ छोड़ देलनिए आउ बाल सब के ⟨את⟩ आउ अस्तारोत के ⟨את⟩ सेवा करलनिए; आउ अब हमनी के हमर दुसमन के हाथ से छुड़ा दे, आउ हमनी तोहर सेवा करबिये।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/12\/9-12.1791995081955.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "चिल्लावलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "हमनी पाप करलनिए"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "छोड़ देलनिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "सेवा करलनिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बाल सब"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "बाल सब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अस्तारोत"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "अस्तारोत"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "छुड़ा दे"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "हमर दुसमन"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "तोहर सेवा करबिये"
+    }
+  ],
+  "timestamp": "2026-10-14T16:24:41.956385571Z",
+  "model": "glm-5.3"
+}

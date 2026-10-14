@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "पुरखा सब संग सेलना",
+      "rationale": "‘ओकर पुरखा सब संग लेटलन’ — मरन के सुभाविक इब्रानी ढंग।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकरा",
+      "rationale": "ויקברו के करता (‘ओकनी गाड़लन’) संकुचित हकइ; मगही बर उद्देश्य साफ करे के चाही।"
+    }
+  ],
+  "translation": "आउ अबिय्याम ओकर पुरखा सब संग सेलक, आउ ओकरा दाविद के नगर में ⟨אתו⟩ गाड़लन, आउ ओकर बेटा आसा ओकर जगह राज करलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "592292ba27bbb9b76e475724a09624f5659062f79c10a8e0ba7b47de84c8c75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/15\/5-8.1791997363182.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "सेलक"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "अबिय्याम"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ओकर पुरखा सब"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "आउ गाड़लन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "अबिय्याम"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "आउ राज करलक"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "आसा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    }
+  ],
+  "timestamp": "2026-10-14T17:02:43.183497399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבקרים",
+      "rationale": "बहुबचन 'भोर-भोर' — रोज के काम के बतावऽ हइ, एक बेर के नञ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מעיר יהוה",
+      "rationale": "'यहवे के नगर' — यरूशलयिम; कइयन 'यहवे के नगर से' पढ़थिन, कइयन जुड़ल नाम।"
+    }
+  ],
+  "translation": "भोर-भोर हम धरती के सब बुरा लोग के मिटाबइ, यहवे के नगर से सब कुकरम करै वाला के काटे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/101\/5-8.1792005842687.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "भोर-भोर"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "मिटाबइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "बुरा लोग के"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "काटे बर"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "नगर से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "करै वाला के"
+    },
+    {
+      "surface": "און",
+      "gloss": "कुकरम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:02.688850642Z",
+  "model": "glm-5.3"
+}

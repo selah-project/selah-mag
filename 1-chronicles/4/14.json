@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרשים",
+      "rationale": "जगह के नाम आउ 'कारीगर' सब्द एके हऽ — नाम के अरथ पड़निहार बर खुलऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבי גיא חרשים",
+      "rationale": "'कारीगरन के घाटी के बाप' — जगह के बाप या कारीगर-गोत के मुखिया, दुनू पढ़ाई चलऽ हइ।"
+    }
+  ],
+  "translation": "आउ मिओनोताय जन्म देलन ⟨את⟩ ओफराह के; आउ सरायाह जन्म देलन ⟨את⟩ योआब के, जे-गाय-हरसियम के बाप हलथिन, काहे कि ऊ लोग हरसियम (कारीगर) हलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bb9a4193e0ceee4874a34128b6701b8af7f67b1f898ca60193e5de42ed5f2bfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/4\/13-16.1792009957496.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "आउ मिओनोताय"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओफराह"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ओफराह"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "आउ सरायाह"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योआब"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "के बाप"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "गाय (घाटी)"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "हरसियम (कारीगरन के जगह)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "हरसियम (कारीगर)"
+    },
+    {
+      "surface": "היו",
+      "gloss": "हलथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:32:37.496994262Z",
+  "model": "glm-5.3"
+}

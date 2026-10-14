@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रार्थना सीधे परमेश्वर के सामने बोलल गेलइ हे।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח קדשך",
+      "rationale": "हिन्दी के 'पवित्तर आत्मा' के चलनसार भार हकइ; इब्रानी मूल 'तोहर पवित्तर रूआख' — बतास\/साँस के जड़ जस के तस रहऽ हइ।"
+    }
+  ],
+  "translation": "हमरा अपना सामने से मत फेंक, आउ अपन पवित्तर रूआख हमरा से मत ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/51\/13-16.1792005158030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "हमरा फेंक"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "अपना सामने से"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आउ रूआख"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "अपन पवित्तर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ले"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमरा से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:38.031279069Z",
+  "model": "glm-5.3"
+}

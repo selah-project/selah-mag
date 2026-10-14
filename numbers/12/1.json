@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 12:1",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על אודות",
+      "rationale": "Hebrew's doubled 'on account of' (על + אודות) collapses into one Magahi phrase 'के कारण'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשה כשית לקח",
+      "rationale": "The verse ends by repeating the key phrase from its middle; the repetition is kept word-for-word।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכשית",
+      "rationale": "'Cushite woman' — identity debated: Zippora (Midianite) vs a second wife from Cush; the Hebrew says only 'Cushite'।"
+    }
+  ],
+  "translation": "आउ मिर्याम आउ अहरोन मोशे के बारे में बात कइलथिन — कुशी जनाना के कारण जेकरा ऊ लेलन रहथिन — काहे कि कुशी जनाना ऊ लेलन रहथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "435b65bc1f297010d79e0e39b0e4fc7154eb0e7eade173b68263d77f6fe9906d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/12\/1-4.1791991055885.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותדבר",
+      "gloss": "बात कइलथिन"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "मिर्याम"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "आउ अहरोन"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "मोशे के बारे में"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "הכשית",
+      "gloss": "कुशी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "लेलन रहथिन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "כשית",
+      "gloss": "कुशी"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "लेलन रहथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:17:35.885729149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משחת",
+      "rationale": "literally 'anointing'; KJV\/ASV add 'portion of the anointing' (supplied word), JPS 'consecrated portion' — Hebrew noun alone"
+    },
+    {
+      "kind": "substitution",
+      "subject": "आग-बलि",
+      "rationale": "אִשֵּׁי יהוה 'fire-offerings of YHWH' (so YLT), not the distinct burnt offering עולה"
+    }
+  ],
+  "translation": "ई हकइ अहरोन के अभिसेक आउ ओकर बेटा सब के अभिसेक के हिस्सा — यहवे के आग-बलि सब से — ओ दिन जब ओकनी के ⟨את⟩ यहवे बर पुरोहिती करे ला नेके आनल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e4c1f5bd048a04432ba0d321b3366c8f0767b0fa3cf9c28afa5821fb34902c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/7\/33-36.1791989583014.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "अभिसेक के हिस्सा"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन के"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "आउ ... अभिसेक के हिस्सा"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा सब के"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "आग-बलि सब से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओ दिन जब"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "नेके आनल गेलन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ओकनी के",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "पुरोहिती करे ला"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:53:03.015910592Z",
+  "model": "glm-5.3"
+}

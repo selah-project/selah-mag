@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "Hebrew last clause is verbless; Magahi copula supplied and bracketed"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पाँच खम्भा, पाँच पाद",
+      "rationale": "counting of pillars and sockets, five and five"
+    },
+    {
+      "kind": "substitution",
+      "subject": "तामा",
+      "rationale": "נחששת is copper\/bronze, not 'brass' as KJV"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ ओकर पाँच खम्भा, आउ ⟨את⟩ ओकर कुँड़ी; आउ ऊ ओकर मूड़ी आउ ओकर पट्टी सोना से मढ़लन, आउ ओकर पाँच पाद तामा के ⟨हलन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1d7fd72e490e32d0493b188ad90749b97c33401068e943b50e3d875446b28766",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/36\/37-38.1791989268781.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर पाँच खम्भा"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "ओकर खम्भा"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर कुँड़ी"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "ओकर कुँड़ी"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "मढ़लन"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ओकर मूड़ी"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "आउ ओकर पट्टी"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "आउ ओकर पाद"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "तामा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:47:48.782279476Z",
+  "model": "glm-5.3"
+}

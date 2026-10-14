@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चौक",
+      "rationale": "רחוב के सुभाविक अरथ 'चौड़ जगह \/ चौक' हकइ; 'गली' नञ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "אשर के खण्ड-बाक्य में मगही के क्रिया चाही; इब्रानी में क्रिया-हीन वर्णन हकइ।"
+    }
+  ],
+  "translation": "तब हतख निकललन मरदकय (मोर्दकै) के पास — नगर के चौक में, जे राजा के दुआरी के आगे हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9c60e0eaa0b443f2d8a10edb32e7b8c743c8d4f52ccc5ca8e9978d4d5d44f8c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/4\/6-7.1792012174135.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "तब निकललन"
+    },
+    {
+      "surface": "התך",
+      "gloss": "हतख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मरदकय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "चौक"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "שער",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-10-14T21:09:34.135633498Z",
+  "model": "glm-5.3"
+}

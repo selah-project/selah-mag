@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צלצלי",
+      "rationale": "צלצל onomatopoeia of clanging cymbals; झाँझ keeps the sound-picture partially."
+    },
+    {
+      "kind": "crux",
+      "subject": "שמע \/ תרועה",
+      "rationale": "'sounding' vs 'shouting\/trumpet-blast' cymbals — rendered गूँजै वाली vs जय-धइना के; alternatives: 'loud' and 'high-sounding' (KJV)."
+    },
+    {
+      "kind": "invitation",
+      "subject": "הללוהו",
+      "rationale": "Plural imperatives summon the congregation to praise."
+    }
+  ],
+  "translation": "गूँजै वाली झाँझ के संग ओकर परसंसा करऽ; जय-धइना के झाँझ के संग याह के परसंसा करऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "30b5d1fca940bd63f3a21a21ceaa84d0287e2e9d3c196a63dce963939971a83e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/150\/5-6.1792006358881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ओकर परसंसा करऽ"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "झाँझ के संग"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "गूँजै वाली"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "याह के परसंसा करऽ"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "झाँझ के संग"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "जय-धइना के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:32:38.881628180Z",
+  "model": "glm-5.3"
+}

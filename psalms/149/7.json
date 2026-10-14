@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "תוכחת",
+      "rationale": "'डाँट-फटकार' के जगह 'सजा' बा पढ़निहार ले सकऽ हइ; मूल सब्द बोल-गालिश बर जादे इस्तेमाल होवऽ हइ"
+    }
+  ],
+  "translation": "जाति सब में बदला लेवे बर, आउ लोग सब में डाँट-फटकार करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "138774c5926d3ebe1c2386901e2fdc7601bfdce21de5403bc196f06529cc508b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/149\/5-8.1792006404309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "करे बर"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जाति सब में"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "डाँट-फटकार"
+    },
+    {
+      "surface": "בל",
+      "gloss": "लोग सब में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:24.310478566Z",
+  "model": "glm-5.3"
+}

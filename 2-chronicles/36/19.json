@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 36:19",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישרפו…שרפו",
+      "rationale": "‘जरा देलक’ दू बेर — इब्रानी के שרף के दोहराव हकइ, विनास के गूँज; मगही में दोहराव रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "पियारल चीज",
+      "rationale": "מחמדים ‘परेम से चखबावल वस्तु’ हकइ; ‘कीमती’ नञ — परेम के बंधन, दाम के नञ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "להשחית",
+      "rationale": "‘बरबाद करे बर’ — इब्रानी के परति-क्रिया रूप (ल-नञ) मगही में ‘बर’ से परति देखावल गेल।"
+    }
+  ],
+  "translation": "आउ ओकनी एलोहीम के घर के ⟨את⟩ जरा देलक, आउ यरूशलयिम (यरूशलेम) के दीवार के ⟨את⟩ ढहा देलक; आउ ओकर सब ऊँच भवन के आग में जरा देलक, आउ ओकर सब पियारल चीज के बरबाद करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6529f69636f53f04b06982bb4adcfb3a9c39834e0ec40d3a3b3cea2267beeca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/36\/17-20.1792011451990.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישרפו",
+      "gloss": "आउ ओकनी जरा देलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलोहीम के घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "וינתצו",
+      "gloss": "ढहा देलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यरूशलयिम के दीवार"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ओकर ऊँच भवन"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "जरा देलक"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "चीज"
+    },
+    {
+      "surface": "מחמדיה",
+      "gloss": "ओकर पियारल"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "बरबाद करे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:57:31.991116844Z",
+  "model": "glm-5.3"
+}

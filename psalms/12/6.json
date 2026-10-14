@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפיח לו",
+      "rationale": "तीन पढ़ाई हकइ: 'जे हाँफऽ हकइ' (दरिद्र ओकर बाट तरसऽ हकइ), 'जे ओकरा फूँक मारऽ हकइ' (दुसमन), या 'हम ओकरा फूँक देबइ'; पहिला लेलनइ गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "यहवे के बचन परजा के बीच घोसना के रूप में दर्ज हकइ"
+    }
+  ],
+  "translation": "दरिद्र लोग के जुल्म आउ कंगाल लोग के चीख्ख के कारण — अब हम उठतइ, यहवे कहऽ हकइ — ओकरा मुक्ति में रखबइ जे हाँफऽ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/12\/5-8.1792004546847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "जुल्म"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "दरिद्र लोग के"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "कंगाल लोग के चीख्ख के कारण"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "कंगाल लोग"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "हम उठतइ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहऽ हकइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "रखबइ"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "मुक्ति में"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "जे हाँफऽ हकइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:26.847789057Z",
+  "model": "glm-5.3"
+}

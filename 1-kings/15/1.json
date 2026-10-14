@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "अठारह बरिस",
+      "rationale": "राज के बरिस गिनती — राजवंश-वृत्तांत के तारीख-पिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "आउ",
+      "rationale": "वाव-Consecutive मगही के जोड़ से पार भेलइ।"
+    }
+  ],
+  "translation": "आउ नेवात (नेबात) के बेटा राजा यरोबाम (जेरोबाम) के अठारह बरिस में अबियाम (अबीजाम) यहूदा (यहूदा) पर राज कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/15\/1-4.1791997414101.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "आउ ... बरिस में"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "अठ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यरोबाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "नेवात"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज कइलन"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "अबियाम"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:03:34.101854733Z",
+  "model": "glm-5.3"
+}

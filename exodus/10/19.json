@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח ים",
+      "rationale": "'sea-wind' i.e. west wind (from the Mediterranean) vs simple 'west wind'; literal 'समुंदर के रूआख' kept"
+    },
+    {
+      "kind": "crux",
+      "subject": "ים סוף",
+      "rationale": "'reed sea' rendered literally 'सरकंडा समुंदर'; tradition reads 'Red Sea'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "pinned as रूआख per Tier-2 — one word, wind\/breath\/spirit"
+    }
+  ],
+  "translation": "आउ यहवे बहुते ताकतवार समुंदर के रूआख के घुमा देलन, आउ ऊ ⟨את⟩ टिड्डी के उड़ा लेलक आउ सरकंडा समुंदर में धकेल देलक — पुरा मिस्रयिम (मिस्र) के सीमा में एक्को टिड्डी नञ बचल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bfcd9e32423b451923970c48b635a06b4d3ef142435fccaa540a5966ae9fa5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/10\/17-20.1791988302408.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והפך",
+      "gloss": "आउ घुमा देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर के"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ताकतवार"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "आउ ऊ उड़ा लेलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "टिड्डी के"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "टिड्डी के"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "आउ धकेल देलक"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "समुंदर में"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "सरकंडा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "बचल"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "टिड्डी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक्को"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पुरा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा में"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम (मिस्र) के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:31:42.409551262Z",
+  "model": "glm-5.3"
+}

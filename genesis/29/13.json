@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 29:13",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "emphatic wayhi 'and it came to pass' rendered as ⟨बात घटल⟩ marker plus आउ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמע",
+      "rationale": "שמע here is 'report\/tidings heard' (a noun), not the verb 'to hear' — rendered सुनाय बात to keep the noun-shape"
+    }
+  ],
+  "translation": "आउ जइसने लाबान ⟨את⟩ याकोव के सुनाय बात सुनलक — ओकर बहिन के बेटा के — तऽ ऊ ओकरा भेंट बर दौड़लक, ओकरा गले लगलक, ओकरा चूमलक, आउ ओकरा ओकर घर भीतर लानलक। आउ ऊ लाबान के ⟨את⟩ ई सब बात कहलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3af8d2e5bb4da4e4e1f028ecab1f28f15e6d6fda40f061508526d6f7d8739ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/29\/13-16.1791987135317.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ ⟨बात घटल⟩"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "जइसने सुनलक"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लाबान"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याकोव के सुनाय बात"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनाय बात"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ओकर बहिन"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "तऽ ऊ दौड़लक"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ओकरा भेंट बर"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "ओकरा गले लगलक"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "ओकरा चूमलक"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ओकरा लानलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ओकर घर"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "लाबान के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई सब बात"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T14:12:15.317938389Z",
+  "model": "glm-5.3"
+}

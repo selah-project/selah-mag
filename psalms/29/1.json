@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "एल के बेटा सब",
+      "rationale": "בני אלים: स्वर्ग-सभा के दिव्य जीव बनाम शक्तिसाल मनुस (KJV ‘हे शक्तिसाल’); इब्रानी आकार ‘एल के बेटा’ के रखलन"
+    },
+    {
+      "kind": "invitation",
+      "subject": "देउ",
+      "rationale": "तीन बेर आदेश — गीत पढ़निहार के बोलावऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבו…ליהוה",
+      "rationale": "दू बेर ओकरे जोड़ के दोहराव — बाज-बंदोबस्त के जोर"
+    }
+  ],
+  "translation": "दाविद के गीत। एल के बेटा सब, यहवे के देउ; यहवे के देउ महिमा आउ बल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "02a162fad5f156d1091e90746a6ef84308c3961a755f8396db11d58c6e6a0811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/29\/1-4.1792004766010.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "देउ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "एल के"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "देउ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "आउ बल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:06:06.011276191Z",
+  "model": "glm-5.3"
+}

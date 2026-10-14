@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "दुलहिन के सम्बोधन",
+      "rationale": "आज्ञा-रूप बाक्य — सुन, देख, झुका, बिसर जा — राजा के दुलहिन के सीधा बुलावा।"
+    },
+    {
+      "kind": "you",
+      "subject": "बेटी\/दुलहिन के",
+      "rationale": "सम्बोधित ब्यक्ति राजा के नव दुलहिन हथिन।"
+    }
+  ],
+  "translation": "सुन, बेटी, आउ देख, आउ अपन कान झुका; आउ अपन लोग आउ अपन बाप के घर बिसर जा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/45\/9-12.1792005029810.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "आउ देख"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "आउ झुका"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "अपन कान"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "आउ बिसर जा"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "अपन लोग"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आउ … घर"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "अपन बाप के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:29.810858030Z",
+  "model": "glm-5.3"
+}

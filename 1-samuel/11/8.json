@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "गिनती",
+      "rationale": "तीन लाख आउ तीस हजार के फौज के गिनती — पद सीधे गिनती के काम करऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "संख्या",
+      "rationale": "तीन लाख के आँकड़ा बटोरत अनुवादक सोचऽ हथिन — 'एलेफ' के 'हजार' नाओ 'दल\/गुट' अरथ लेल जा सकऽ हइ।"
+    }
+  ],
+  "translation": "आउ ऊ ओकनी के बेजेक में गिनलन; यिस्राएल के बेटा तीन लाख भेलन, आउ यहूदा (यहूदा) के मनखे तीस हजार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d1fdf19e0aec7b7a0182e32cbe18bab4225c670421f3abaf49ea7f0b3759d005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/11\/5-8.1791995097385.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "आउ ऊ ओकनी के गिनलन"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "बेजेक में"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "भेलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "लाख"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार भाग"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आउ मनखे"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-10-14T16:24:57.398561782Z",
+  "model": "glm-5.3"
+}

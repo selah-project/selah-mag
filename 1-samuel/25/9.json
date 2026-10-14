@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 25:9",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וינוחו",
+      "rationale": "'अराम करलन' के अरथ इहाँ 'चुप हो गेलन' हकइ — बात पूरा कइ के ओकरा जवाब के बाट जोहऽ हथिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "चुप होके",
+      "rationale": "हिब्रू क्रिया एक हकइ; मगही में अरथ खोलल गेलइ।"
+    }
+  ],
+  "translation": "दाविद के जुवन लोग अइलन आउ नाबाल से दाविद के नाम ले के ई सब बात कहलन, आउ चुप होके ठहर गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/25\/9-12.1791995550404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "जुवन लोग"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…से"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नाबाल"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "(ई)"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाम ले के"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "וינוחו",
+      "gloss": "चुप होके ठहर गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:30.404941533Z",
+  "model": "glm-5.3"
+}

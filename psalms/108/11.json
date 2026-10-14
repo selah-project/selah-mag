@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "נחני",
+      "rationale": "किछु पाठ 'हमरा ले गेलन हे' (भूतकाल) पढ़ऽ हइ — एएसवी\/वाईएलटी 'hath led'"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रश्न यहवे के ओर मुँह कइल गेल हइ — कोनो हमरा ले जतइ?"
+    }
+  ],
+  "translation": "कोनो हमरा गढ़ल नगर में ले जतइ? कोनो हमरा एदोम ले जातइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/108\/9-12.1792005961727.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "हमरा ले जतइ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "गढ़ल"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "हमरा जातइ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:01.728632708Z",
+  "model": "glm-5.3"
+}

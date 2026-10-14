@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "इस्राएल के लोग के आदेश",
+      "rationale": "तोहनी — पूरा परजा के सीधा आदेश, डहर में ठाढ़ रहे बर।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "दहिन्ना या बाम्मा",
+      "rationale": "इब्रानी के डहर-बिगाड़ के बोली — दू काति के ढलकाव।"
+    }
+  ],
+  "translation": "आउ तोहनी रखवारी करब ओकरा करे बर, जइसन यहवे तोहनी के एलोहीम ⟨את⟩ तोहनी के आज्ञा देलन हे — दहिन्ना या बाम्मा ओकरा से नञ ढरकब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c9bc3ccc57b618854b98d44444d57d267375f009a111e98104de7b6bedf364ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/5\/29-32.1791992100427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "आउ तोहनी रखवारी करब"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे बर"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा देलन हे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "ढरकब"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "दहिन्ना"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "आउ बाम्मा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:35:00.428356717Z",
+  "model": "glm-5.3"
+}

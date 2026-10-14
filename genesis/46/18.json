@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 46:18",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नफश के बर परान — साँस\/जीवन-द्रव, 'आत्मा' नञ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सोलह परान",
+      "rationale": "ज़िल्पाह के वंस के गिनती — छः आउ दस, सोलह"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी में क्रिया-संबंधी चिन्हा नञ, मगही बाक्य के बर जोड़ल"
+    }
+  ],
+  "translation": "ई ज़िल्पाह के बेटा हथिन — जिन्हीं के लावान अपन बेटी लेआह के देलन — आउ ऊ याकोव के ई ⟨את⟩ जनमलन: सोलह परान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "399b7d7c55d13171dd39ec43ef169bec8c250eaa574ed970ebd00d4c62fa1b34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/46\/17-20.1791987819579.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ज़िल्पाह के बेटा"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ज़िल्पाह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिन्हीं के"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लावान"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "लेआह के"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "अपन बेटी"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "आउ ऊ जनमलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोव के"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छः"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    }
+  ],
+  "timestamp": "2026-10-14T14:23:39.580439140Z",
+  "model": "glm-5.3"
+}

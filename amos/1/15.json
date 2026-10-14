@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 1:15",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלכם",
+      "rationale": "'ओकर राजा' बनाम मलकाम (अम्मोन के देवता) पढ़ल जाय — परम्परा में दूनो बिचार।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जइतइ",
+      "rationale": "हिब्रू हेल्के (गेलन) के भबिस के अरथ में क्रिया देलक।"
+    }
+  ],
+  "translation": "आउ ओकर राजा बन्धुआ जइतइ, ऊ आउ ओकर सरदार सब संगे — यहवे के बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8ea3357f7bb8576374b578ef6b087b6cd8cff0b290d2424767d26a7ec99e6a0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/1\/13-15.1792003408374.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "जइतइ"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "ओकर राजा"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "बन्धुआ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "आउ ओकर सरदार सब"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "संगे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "के बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:43:28.375610301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עתקה",
+      "rationale": "'बूढ़ होना' बनाम 'हट जाना\/क्षय होना' — अनुवादक लोग में मतभेद"
+    }
+  ],
+  "translation": "क्रोध से हमर आँख मात जातइ हकइ; हमर सब दुस्मन से ऊ बूढ़ होतइ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/6\/5-8.1792004415401.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "मात जातइ हकइ"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "क्रोध से"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "हमर आँख"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "बूढ़ होतइ हकइ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "दुस्मन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:00:15.402360732Z",
+  "model": "glm-5.3"
+}

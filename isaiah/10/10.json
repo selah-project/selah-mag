@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מירושלם ומשמרון",
+      "rationale": "'यरूशलयिम आउ शोमरोन से जादे' (KJV 'excel') बनाम 'यरूशलयिम आउ शोमरोन के संग' (LXX-परति पढ़ 'מי\/כי') — मी 'से जादे' लेलिये।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האליל",
+      "rationale": "शाब्दिक 'निकम्मा चीज' — पसंदगी के साथ 'मूरत' जोड़ल गेलइ काहे कि संदर्भ मूरत-पूजा के हकइ।"
+    }
+  ],
+  "translation": "जइसने हमर हाथ निकम्मा-मूरत के राज के पावलक, आउ ओकनी के तरासल मूरत यरूशलयिम (यरूशलेम) आउ शोमरोन के मूरत से जादे हथिन —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ba84caccd6ce4c747172d47641badbd41cc89c70f3e5e5012007dab28397f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/10\/9-12.1791998729040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "पावलक"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हमर हाथ"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "राज के"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "निकम्मा-मूरत"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "आउ ओकनी के तरासल मूरत"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "यरूशलयिम से"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "आउ शोमरोन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:25:29.041124646Z",
+  "model": "glm-5.3"
+}

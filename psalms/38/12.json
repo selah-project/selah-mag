@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מנגד\/מרחו",
+      "rationale": "दूनो पद में 'दूर ठाढ़' के लगभग एके लयबद्ध दोहराव — चीख रचना में साफ, मगही में दोहराव रखल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "נגעי",
+      "rationale": "'घाव' बनाम 'मार\/चोट' — ब्याधि के लक्षन पर छानल गेल"
+    }
+  ],
+  "translation": "हमरा परेम करै वाला आउ हमर संगी हमर घाव से अलग ठाढ़ हथिन, आउ हमर नातेदार दूर ठाढ़ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/38\/9-12.1792004959511.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "हमरा परेम करै वाला"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "आउ हमर संगी"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "अलग"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "हमर घाव से"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ठाढ़ हथिन"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "आउ हमर नातेदार"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ठाढ़ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:19.512228881Z",
+  "model": "glm-5.3"
+}

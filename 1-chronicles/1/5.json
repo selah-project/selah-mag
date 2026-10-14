@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "याफेत के बेटा सब",
+      "rationale": "नाम के सूची — वंशावली के गिनती।"
+    }
+  ],
+  "translation": "याफेत (याफेथ) के बेटा सब: गोमेर आउ मागोग आउ मादय आउ यावान आउ तुबल आउ मेशेख आउ तिरास।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "546c94284ef12ced0d55276aac6c88de94b4219db0e22611faddcdc5cf0b7ea4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/1\/5-8.1792009822535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सब"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "याफेत (याफेथ)"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "गोमेर"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "आउ मागोग"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "आउ मादय"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "आउ यावान"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "आउ तुबल"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "आउ मेशेख"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "आउ तिरास"
+    }
+  ],
+  "timestamp": "2026-10-14T20:30:22.536059748Z",
+  "model": "glm-5.3"
+}

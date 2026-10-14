@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "आसा आउ यहूदा के",
+      "rationale": "नबी के सीधा आदेश — जोर रखऽ, हाथ मत ढीला करऽ"
+    },
+    {
+      "kind": "you",
+      "subject": "आसा आउ यहूदा के",
+      "rationale": "संबोधन बहुबचन 'तोहनी सब' हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "मिलतइ",
+      "rationale": "יש שכर 'बदला हइ' — क्रिया मगही के बनावट बर जोड़ल"
+    }
+  ],
+  "translation": "आउ तोहनी सब जोर ले पकड़ल रहऽ, आउ तोहनी के हाथ मत ढीला करऽ, काहे कि तोहनी के काम के बदला ⟨मिलतइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "80a3343f9f00aac97a097218f227622ce7de8e108ab271d069251c8ffdadd1fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/15\/5-8.1792010974178.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "आउ तोहनी सब"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "जोर ले पकड़ल रहऽ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ढीला करऽ"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "तोहनी के हाथ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨हइ⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "तोहनी के काम के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:49:34.179180663Z",
+  "model": "glm-5.3"
+}

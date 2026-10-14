@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 24:15",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "दुस्कर्मी के",
+      "rationale": "पद सीधे दुस्कर्मी के सम्बोधन हकइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לנוה",
+      "rationale": "“घर” के जगह “डेरा\/बइठक-जगह” बाकी पढ़ाई।"
+    }
+  ],
+  "translation": "मत घात बइठ, ओ दुस्कर्मी, धरमी के घर के बिरुद्ध; ओकर आराम के जगह मत उजाड़।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a76bdced2ff10d2cf82e9cb3d8264ca2aa21490a7bff6859f9a320e3b5942e13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/24\/14-15.1792012167816.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "घात बइठ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ओ दुस्कर्मी"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "घर के बिरुद्ध"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשדד",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "רבצו",
+      "gloss": "आराम के जगह"
+    }
+  ],
+  "timestamp": "2026-10-14T21:09:27.817341030Z",
+  "model": "glm-5.3"
+}

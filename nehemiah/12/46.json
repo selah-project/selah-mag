@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 12:46",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मुखिया",
+      "rationale": "ראש शाब्दिक अरथ मूड़ी हकइ; इहाँ अरथ 'मुखिया' (गावै वाला सब के सिर)"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "इब्रानी क्रिया-विहीन खण्ड; मगही क्रिया जोड़ल गेलइ"
+    }
+  ],
+  "translation": "काहे कि दाविद आउ असाफ के दिन में, पहिले से, गावै वाला सब के मुखिया ⟨हलन⟩ — परेस के गीत आउ एलोहीम बर धन्यबाद के गीत।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "398cdb4597e9ce9c9ae63dede15a3d7b260848815d1ca761e2f97b6f4c24cf2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/12\/45-47.1792009744298.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "के दिन में"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "आउ असाफ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "पहिले से"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "गावै वाला सब के"
+    },
+    {
+      "surface": "ושיר",
+      "gloss": "आउ गीत"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "परेस के"
+    },
+    {
+      "surface": "והדות",
+      "gloss": "आउ धन्यबाद"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम बर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:29:04.299332089Z",
+  "model": "glm-5.3"
+}

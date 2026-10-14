@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ייפהו \/ יפיק",
+      "rationale": "Same letters rearranged: 'they beautify it' \/ 'it totters' — the beautified idol is one letter-shuffle from wobbling; lost in Magahi."
+    },
+    {
+      "kind": "crux",
+      "subject": "हिलऽ",
+      "rationale": "יפיק parsed from פוק 'totter, be dislodged'; some parse נפק 'go out' — 'it cannot move itself'."
+    }
+  ],
+  "translation": "चानी आउ सोना से ओकरा सजावऽ हथिन, कीला आउ हथौड़ा से ओकना मजबूत करऽ हथिन, आउ ऊ हिलऽ नञ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/10\/1-4.1792000398608.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "चानी से"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "आउ सोना से"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "सजावऽ हथिन"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "कीला से"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "आउ हथौड़ा से"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "मजबूत करऽ हथिन"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "हिलऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:53:18.609213795Z",
+  "model": "glm-5.3"
+}

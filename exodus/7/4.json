@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "सेना",
+      "rationale": "हिब्रू त्सबाओत-जड़ के त्सिबओताय — 'सेना\/मेदिनी दल' के बिना अरथ; 'जत्था' बनाम 'सेना' पर विकल्प।"
+    },
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "मगही के पार्श्व-बाक्य खातिर डैस (—) जोड़ल गेल, हिब्रू में संगति जोड़ से बनल हअ।"
+    }
+  ],
+  "translation": "आउ फरोह तोहनी के नञ सुनतइ, आउ हम ⟨את⟩ हमर हाथ मिस्रयिम पर धरबइ, आउ ⟨את⟩ हमर सेना — ⟨את⟩ हमर लोग, यिस्राएल के बेटा सब — मिस्रयिम के धरती से बड़ा नियाव के संग बाहर निकालबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ee71af541d7458f4d1e20d0686b0bca12acbecdb09fdec292f50d49715435935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/7\/1-4.1791988191670.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनतइ"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरोह"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "धरबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर हाथ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हमर हाथ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "मिस्रयिम पर"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "बाहर निकालबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर सेना"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "हमर सेना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर लोग"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमर लोग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "नियाव के संग"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "बड़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:29:51.671531585Z",
+  "model": "glm-5.3"
+}

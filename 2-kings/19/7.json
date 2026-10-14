@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 19:7",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "रूआख",
+      "rationale": "KJV 'blast', ASV\/JPS 'a spirit' — रूआख बतास\/आत्मा दुनो अरथ; हमनी रूआख जस के तस रखलहुँ"
+    },
+    {
+      "kind": "addition",
+      "subject": "भीतर",
+      "rationale": "בו ('ओकरा में') के सुभाविक चाल बर 'भीतर' स्पस्ट कएल गेल"
+    }
+  ],
+  "translation": "देखऽ, हम ओकरा भीतर रूआख देतइ, आउ ऊ कोनो खबर सुनतइ आउ अपन देस लौटतइ; आउ हम ओकरा ओकरे देस में तलवार से गिराबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "44ffc4f3c25a5f289a3a32de156a38380a29d8bb588ad69fb5bc5518f71c5fb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/19\/5-8.1791998242047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "देखऽ, हम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देतइ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा भीतर"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "आउ सुनतइ"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "कोनो खबर"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "आउ लौटतइ"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "अपन देस"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "आउ ओकरा गिराबइ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "ओकरे देस में"
+    }
+  ],
+  "timestamp": "2026-10-14T17:17:22.048593613Z",
+  "model": "glm-5.3"
+}

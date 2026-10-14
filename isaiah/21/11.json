@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דומה",
+      "rationale": "दुमा नाम आउ דומה (चुप्पी) के मिलत-जुलत सब्द — नाम में चुप्पी के गूँज, मगही में खो गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר מה מליל",
+      "rationale": "पूरा बाक्य दू बेर शब्द-शब्द दोहरावल गेल हइ — रखवार के गोल दोहराव बचल हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "מה מלילה",
+      "rationale": "'रात के का' — रात के कतना बाकी (BSB) बनाम रात के का अवस्था हइ — मूल जान-बूझ के अस्पस्ट।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "रखवार, रात के का?",
+      "rationale": "सवाल दू बेर टानऽ हइ — रखवार से जबाब के बाट जोहऽ हइ।"
+    }
+  ],
+  "translation": "भार: दुमा। हमरा के सेइर से कोनो पुकारऽ हइ — रखवार, रात के का? रखवार, रात के का?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "57878eca1b3aa738706909bb55e4ff59290939101f10add5d90986cf7df15de3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/21\/9-12.1791998883824.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "दुमा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा के"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "पुकारऽ हइ"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "सेइर से"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "रखवार"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "रात के"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "रखवार"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "रात के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:03.825049840Z",
+  "model": "glm-5.3"
+}

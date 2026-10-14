@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הכה\/הרג",
+      "rationale": "Two near-synonymous striking verbs paired (smote\/slew); Magahi keeps two distinct verbs मारलन \/ मार डारलन to preserve the escalation."
+    }
+  ],
+  "translation": "जे ढेर जाति के मारलन, आउ बलवान राजा के मार डारलन;",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6cca197ce9087e5bd4a9b5f425d10670a999cd0a54bb6d107f399bca57f677a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/135\/9-12.1792006202172.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "जे मारलन"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "आउ मार डारलन"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "बलवान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:02.173596790Z",
+  "model": "glm-5.3"
+}

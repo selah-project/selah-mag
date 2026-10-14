@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 26:5",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "कोस्ठक (इस्राएल)",
+      "rationale": "पहिला आगमन पर चलनसार रूप कोस्ठक में; आगे खाली इब्रानी रूप"
+    },
+    {
+      "kind": "addition",
+      "subject": "क्रम-बनावट",
+      "rationale": "इब्रानी पढ़निहार के सूची-चाल: 'हनोख — हनोखी के कुल-परिवार' ओकरे ढाँचा में रखल गेल"
+    }
+  ],
+  "translation": "रूबेन, यिस्राएल (इस्राएल) के पहिला जइल बेटा; रूबेन के बेटा: हनोख — हनोखी के कुल-परिवार; पल्लू — पल्लूई के कुल-परिवार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7a7213429dfc96e8641364df9b12e3e08dd04eed11d7435782d0ff449643779c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/26\/5-8.1791991460917.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "पहिला जइल बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "हनोख"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "के कुल-परिवार"
+    },
+    {
+      "surface": "החנכי",
+      "gloss": "हनोखी"
+    },
+    {
+      "surface": "לפלוא",
+      "gloss": "पल्लू"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "के कुल-परिवार"
+    },
+    {
+      "surface": "הפלאי",
+      "gloss": "पल्लूई"
+    }
+  ],
+  "timestamp": "2026-10-14T15:24:20.917891548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकरा",
+      "rationale": "असीस देवे के क्रिया में हिन्दी-मगही क्रिया के संग करम-सर्बनाम चाही; इब्रानी ⟨את⟩ से नञ"
+    }
+  ],
+  "translation": "बिहाने-बिहाने लबान उठलन, ओकरा बेटा सब के आउ बेटी सब के चुमा देलन आउ ⟨את⟩ ओकरा असीस देलन; आउ ऊ गेलन, आउ लबान अपन जगह लौट गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "593863dba75e144f05b7cff6f0d2862998a89cf2ca64430d0587032be7b8f1c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/32\/1-4.1791987309500.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "बिहाने-बिहाने उठलन"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लबान"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहान"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "चुमा देलन"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ओकरा बेटा सब के"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "आउ बेटी सब के"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "असीस देलन"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (बेटा-बेटी के)"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "लौट गेलन"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लबान"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "अपन जगह"
+    }
+  ],
+  "timestamp": "2026-10-14T14:15:09.501146050Z",
+  "model": "glm-5.3"
+}

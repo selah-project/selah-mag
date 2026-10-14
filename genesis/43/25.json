@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "भेंट",
+      "rationale": "मिन्हा इहाँ बलि-अर्थ में नञ, भेंट\/सौगात अरथ में (उत्पत्ति 43:11 के निर्णय)"
+    }
+  ],
+  "translation": "आउ ओकनी योसेफ के दुपहरिया में अवै तक ⟨את⟩ भेंट तैयार करलन, काहे कि सुनलन जे ओहीं ओकनी रोटी खातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e053f0068b63614d12d6c370f68025a2ea8540c50722cb10888c9006e573509d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/43\/25-28.1791987676887.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "तैयार करलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भेंट"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "अवै"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "दुपहरिया में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहीं"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खातइ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    }
+  ],
+  "timestamp": "2026-10-14T14:21:16.887896001Z",
+  "model": "glm-5.3"
+}

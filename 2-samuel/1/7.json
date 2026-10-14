@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הנני",
+      "rationale": "Literally 'behold me', the ready-answer formula; rendered as 'हम इहै हऽ' rather than word-for-word"
+    },
+    {
+      "kind": "you",
+      "subject": "to Saul",
+      "rationale": "The young man answers Saul's call in direct speech"
+    }
+  ],
+  "translation": "ऊ पीछे मुड़लन आउ हमरा देखलन आउ हमरा पुकारलन, आउ हम कहलियन, हम इहै हऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "54302bb1d3b8feb61d531de07c546fa66517db9344a3236e743a7e678f452d2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/1\/5-8.1791995808137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "पीछे मुड़लन"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "पीछे"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "हमरा देखलन"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "पुकारलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "कहलियन"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "हम इहै हऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:36:48.138495972Z",
+  "model": "glm-5.3"
+}

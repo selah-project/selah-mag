@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התיכנה",
+      "rationale": "'बीच वाला' बनाम JPS के 'सबसे-नीचे वाला' — दुआरी केकरा कोठरी खातिर हकइ, एह पर अनुवादक लोग बँटल हथिन।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ובלולים",
+      "rationale": "घुमावदार सीढ़ी बर इब्रानी शब्द — तनाख़ में एकरे जैसन रूप बहुते दुर्लभ हकइ।"
+    }
+  ],
+  "translation": "कोठरी के बीच वाला के दुआरी घर के दाहिने काँधा पर रहलइ, आउ घुमावदार सीढ़ी से ऊ बीच वाला पर चढ़ऽ हइ, आउ बीच वाला से तीसरा पर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "341029db1ea5f49a105a424c2b55d1b3d8ff8009e318b7bf18688bd303a8dd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/6\/5-8.1791996879927.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "कोठरी"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "बीच वाला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "काँधा"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "दाहिने"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "घुमावदार सीढ़ी से"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "चढ़ऽ हइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "बीच वाला"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आउ से"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "बीच वाला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "तीसरा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:54:39.929339723Z",
+  "model": "glm-5.3"
+}

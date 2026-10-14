@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 19:13",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨के पास⟩",
+      "rationale": "אליו के संग क्रिया मगही में जोड़ चाही"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה לך פה",
+      "rationale": "शाब्दिक ‘का तोहरा इहाँ’ — मगही में ‘तूँ इहाँ का करऽ हऽ’ के रूप में"
+    },
+    {
+      "kind": "you",
+      "subject": "एलियाहु",
+      "rationale": "बोली सीधे एलियाहु के सम्बोधन करऽ हइ"
+    }
+  ],
+  "translation": "आउ जब एलियाहु सुनलन, तब ऊ अपन मुँह अपन चोगा में लपेटलन आउ बाहर निकललन आउ गुफा के दुआर पर ठाढ़ भेलन; आउ देखौ, ओकरा एक बोली ⟨के पास⟩ अइलइ आउ कहलन: “हे एलियाहु, तूँ इहाँ का करऽ हऽ?”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6c89fcf01dbb56d6bcf0dd5ba297cce3bf430e11a7ff22afe2c2574e374644b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/19\/13-16.1791997531648.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेलल"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "जब… सुनलन"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहु"
+    },
+    {
+      "surface": "וילט",
+      "gloss": "लपेटलन"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "अपन मुँह"
+    },
+    {
+      "surface": "באדרתו",
+      "gloss": "अपन चोगा में"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "आउ निकललन"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "आउ ठाढ़ भेलन"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआर पर"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "गुफा के"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखौ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "קול",
+      "gloss": "एक बोली"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "פה",
+      "gloss": "इहाँ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "हे एलियाहु"
+    }
+  ],
+  "timestamp": "2026-10-14T17:05:31.649490668Z",
+  "model": "glm-5.3"
+}

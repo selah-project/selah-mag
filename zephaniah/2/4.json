@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עזה\/עזובה · עקרון\/תעקר",
+      "rationale": "नगर के नाम आउ ओकर सजा के क्रिया के जड़-मेल — 'अज्जा छोड़ल, एक्रोन उखाड़ल' — मगही में कुछु नञ बचऽ हइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בצהרים के दुअर्थ",
+      "rationale": "'दुअर्थ-इँजोर' — दूपहर; संग बचावल गेलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दुपहरिया",
+      "rationale": "समय के ठीक चिन्हा — बिना बतावल धकेलाव के समय"
+    },
+    {
+      "kind": "addition",
+      "subject": "(गाजा)",
+      "rationale": "पहिला आगमन पर चलनसार रूप कोस्ठक में — अनुसासन के नियम"
+    }
+  ],
+  "translation": "काहे कि अज्जा (गाजा) छोड़ल जातइ, आउ अश्केलोन उजाड़ हो जतइ; अश्दोद के दुपहरिया धकेल कए देतइ, आउ एक्रोन जड़ से उखाड़ देल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "47ff6093355a1a8358908d1c7465b1cf6ab8b0dd6941715731b9376dd7561405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zephaniah\/2\/1-4.1792004048011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "अज्जा (गाजा)"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "छोड़ल जातइ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "हो जतइ ⟨होतइ⟩"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "आउ अश्केलोन"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "अश्दोद"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "दुपहरिया"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "धकेल कए देतइ"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "आउ एक्रोन"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "जड़ से उखाड़ देल जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:54:08.013167106Z",
+  "model": "glm-5.3"
+}

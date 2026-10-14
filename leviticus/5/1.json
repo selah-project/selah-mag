@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "सपथ के बोली",
+      "rationale": "קול אלה — पब्लिक रूप से गोल जाहिर सपथ (असबी, जेपीएस) बनाम गवाह के सुनल सपथ (केजेबी); मगही में साफ रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש गले-परान-जीबन-बल हकइ; मगही परान एकरा नजदीक हकइ।"
+    }
+  ],
+  "translation": "आउ जब कोनो परान पाप करऽ आउ सपथ के बोली सुनलन, आउ ऊ ⟨गवाह⟩ — या देखलक हे, या जानलक हे — आउ बतातन नञ, त ऊ ओकर अपराध उठैलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "73b542981217c30cb37207bdfa4217c6be4f5330c0d1e24b87987c8142263341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/5\/1-4.1791989653811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "आउ परान"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "पाप करऽ हकइ"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "आउ सुनलन"
+    },
+    {
+      "surface": "קול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "सपथ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखलक"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानलक"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जब"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "बतातन"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "आउ उठैलन"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ओकर अपराध"
+    }
+  ],
+  "timestamp": "2026-10-14T14:54:13.811679958Z",
+  "model": "glm-5.3"
+}

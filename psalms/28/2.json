@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דביר",
+      "rationale": "दबीर — पबितर स्थान के भीतरी कोठरी; 'मन्दिर' (JPS) बनाम 'दबीर' (KJV); इब्रानी-निस्ठ रूप रखलन।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के निमन्त्रण",
+      "rationale": "'सुनऽ' — असीधा यहवे के निमन्त्रण।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "קדשך",
+      "rationale": "'तोहर पवित्तर' — संज्ञा-रूप में 'तोहर पवित्तर जगह' भी संभव; विशेषण के आकार रखलन।"
+    }
+  ],
+  "translation": "हमर बिनती के बोली सुनऽ, हमर पुकार में तोहरा के दने, हमर हाथ उठावै में तोहर पवित्तर दबीर के दने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/28\/1-4.1792004816305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "हमर बिनती"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "हमर पुकार में"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा के दने"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "हमर हाथ उठावै में"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हमर हाथ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "दबीर"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "तोहर पवित्तर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:06:56.305842351Z",
+  "model": "glm-5.3"
+}

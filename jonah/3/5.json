@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ביאלהים",
+      "rationale": "इब्रानी कहऽ हइ 'एलोहीम में' — बिसवास के करम 'पर' के संग आवऽ हइ।"
+    }
+  ],
+  "translation": "आउ नीनवे के मरद एलोहीम पर बिसवास कइलन, आउ उपवास परखित लेलन, आउ ओकनी बोकरा के कपड़ा पहिरलन — ओकर बड़ होवे वाला से ले के ओकर छोट होवे वाला तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "af3e8ddae28a792e8c47f3a6e265b216959c023517e350519df6ab3cc03a061e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jonah\/3\/5-8.1792003749387.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "बिसवास कइलन"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "के मरद"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "नीनवे"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "एलोहीम पर"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "परखित लेलन"
+    },
+    {
+      "surface": "צום",
+      "gloss": "उपवास"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "पहिरलन"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "बोकरा के कपड़ा"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "ओकर बड़ होवे वाला से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले के … तक"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "ओकर छोट होवे वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T18:49:09.388227335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הללו…הללו…הללוהו",
+      "rationale": "तीन गोद के स्तुति-हाँक, त्रिस्र बनावट जे मगही में दोहराव से बचावल नञ जा सकऽ हइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "अकास के पाँती",
+      "rationale": "आज्ञारूप हाँक — स्तुति करऽ — अकास के सब प्राणी के ओर"
+    }
+  ],
+  "translation": "स्तुति करऽ याह, स्तुति करऽ ⟨את⟩ यहवे के अकास से, स्तुति करऽ ओकरा ऊँच जगह में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/148\/1-4.1792006403848.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करऽ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "स्तुति करऽ ओकरा"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ऊँच जगह में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:23.848651741Z",
+  "model": "glm-5.3"
+}

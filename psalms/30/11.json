@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "सुनऽ",
+      "rationale": "यहवे के मुँह दने सीधे बुलावल गेल क्रिया-आदेस।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रार्थना यहवे के मुँह जोह के बोलल गेलइ।"
+    }
+  ],
+  "translation": "सुनऽ, यहवे, आउ हमरा किरपा करऽ; यहवे, हमरा मदद करे बाला ⟨बन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9868f0f34f6039889bf7a90527c922a354613e4b4377ce6cf4458660abda6040",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/30\/9-12.1792004723129.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "आउ हमरा किरपा करऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बन"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "मदद करे बाला"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:05:23.130059517Z",
+  "model": "glm-5.3"
+}

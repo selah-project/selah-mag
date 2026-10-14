@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אפי",
+      "rationale": "शाब्दिक अर्थ 'नाक\/नथुने का' — क्रोध का चिह्न; मगही में 'क्रोध' रेंडर किया गया।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משובתם",
+      "rationale": "शाब्दिक अर्थ 'उनका धर्मत्याग' — शूव (लौटना) से; यहाँ 'फेर आना के बिमारी' चित्र रखा गया।"
+    },
+    {
+      "kind": "crux",
+      "subject": "मמנו",
+      "rationale": "बहुवचन इस्राएल के लिए एक-वचन 'उससे' — KJV\/ASV एक-वचन रखते हैं, BSB 'उनसे' करता है।"
+    }
+  ],
+  "translation": "हम ओकर माफी देबइ — हम ओकर फेर आना के बिमारी भर देबइ; हम ओकरा स्वेच्छा से परेम करबइ, काहे कि हमर क्रोध ओकरा से फेर गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/14\/5-8.1792003333655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "भर देबइ"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "ओकर फेर आना के बिमारी"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "परेम करबइ"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "स्वेच्छा से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שב",
+      "gloss": "फेर गेलन"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "हमर क्रोध"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:42:13.656172792Z",
+  "model": "glm-5.3"
+}

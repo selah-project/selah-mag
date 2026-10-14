@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 23:13",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हिन",
+      "rationale": "ההין इब्रानी नाप के नाम हकइ — लिप्यन्तरन रखलन, अनुवाद नञ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "מינחה",
+      "rationale": "מנחा खाली मिन्हा लिप्यन्तरन हकइ (Tier-2), 'भेंट' जोड़ल नञ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नाप",
+      "rationale": "पद में नाप गिनल गेल हइ — दू इसरोन आउ हिन के चउथाय।"
+    }
+  ],
+  "translation": "आउ ओकर मिन्हा दू इसरोन सूखल पिसान होतइ, तेल में मिलाएल — आग-बलि यहवे बर, सुगन्ध बास, आउ ओकर पिये के बलि अंगूरी मद, हिन के चउथाय भाग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a10812fe3a8824e2cd1d0ca7d3f378c9568216d764b485542acd9b4dca1ad303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/23\/13-16.1791990306795.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנחתו",
+      "gloss": "आउ ओकर मिन्हा"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "इसरोन"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "सूखल पिसान"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "मिलाएल"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "तेल में"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "आग-बलि"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "सुगन्ध"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "बास"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "आउ ओकर पिये के बलि"
+    },
+    {
+      "surface": "יין",
+      "gloss": "अंगूरी मद"
+    },
+    {
+      "surface": "רביעית",
+      "gloss": "चउथाय भाग"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "हिन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:05:06.796018491Z",
+  "model": "glm-5.3"
+}

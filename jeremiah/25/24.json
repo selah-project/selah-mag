@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ערב \/ הערב",
+      "rationale": "दू अलग शब्द एके अक्षर में — अरब देस आउ मिलल-जुलल लोग; मगही में ई संगत खो गेलइ।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ अराब के सब राजा के, आउ ⟨את⟩ बेमेल-बसल लोग के सब राजा के, जे जंगल में रहऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e1b51c28eab451440b34b6a85e538d00829d1f35ff1be96fadeb38ee8e462046",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/25\/21-24.1792000730510.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ आउ",
+      "marks": "अराब के सब राजा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "अराब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ आउ",
+      "marks": "बेमेल-बसल लोग के सब राजा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "बेमेल-बसल लोग"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "रहऽ हथिन"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    }
+  ],
+  "timestamp": "2026-10-14T17:58:50.511219138Z",
+  "model": "glm-5.3"
+}

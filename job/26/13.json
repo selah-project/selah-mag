@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 26:13",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שפרה",
+      "rationale": "'जगमगावल' — ई रूप तनाख़ में खाली इहे हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בריח",
+      "rationale": "'भागैत साँप' बनाम तारा-मंडल बारहट\/बाकी — इब्रानी दुनो अरथ रखऽ हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חללה",
+      "rationale": "कुछ पाठ 'बेधलन' के जगह 'सिरजलन\/आकार देलन' पढ़ऽ हइ; मूल जड़ 'छेदना' हकइ।"
+    }
+  ],
+  "translation": "ओकर रूआख से अकास जगमगावल हइ; ओकर हाथ भागैत साँप के बेधलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fefe43562adc04eddc7a3a164d0091d7a8af82b9424a9f903a39f8f599b1a418",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/26\/13-14.1792007545954.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוחו",
+      "gloss": "ओकर रूआख से"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "जगमगावल हइ"
+    },
+    {
+      "surface": "חללה",
+      "gloss": "बेधलन"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "साँप"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "भागैत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:52:25.954600200Z",
+  "model": "glm-5.3"
+}

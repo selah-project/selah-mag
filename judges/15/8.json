@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 15:8",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שוק על ירך",
+      "rationale": "'टाँग पे जाँघ के तरे' — पूरा ताकत से बेरहम मार के इब्रानी मुहावरा; शाब्दिक रूप रखल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "מכה חגדולה",
+      "rationale": "'बड़ मार' — किछु अनुवाद 'बड़ कत्लेआम' कहऽ हइ (केजेवी); इब्रानी शाब्दिक 'बड़ मार' हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ ओकनी के टाँग पे जाँघ के तरे मारलन — बड़ मार — आउ ओ उतरलन आउ एताम चट्टान के दरार में बैठ गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bb3412b5bc51f34a0add217c92af0804083f05f1542e3cfbcc4a246851196de1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/15\/5-8.1791994495683.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "टाँग"
+    },
+    {
+      "surface": "על",
+      "gloss": "पे"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "जाँघ"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "मार"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "उतरलन"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "बैठ गेलन"
+    },
+    {
+      "surface": "בסעיף",
+      "gloss": "दरार में"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "एताम"
+    }
+  ],
+  "timestamp": "2026-10-14T16:14:55.685215628Z",
+  "model": "glm-5.3"
+}

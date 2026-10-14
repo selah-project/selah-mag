@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "छऽ हजार आउ आठ सौ",
+      "rationale": "जनगिनती — यहूदा के लड़ाकू लोग के गिनती।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלוצי צבא",
+      "rationale": "मूल: 'सेना लेल कमर कसै वाला' — हियाँ 'लड़ाई लेल तैयार सिपाही' रेंडर भेलह।"
+    }
+  ],
+  "translation": "यहूदा के बेटा, ढाल आउ भाला उठावै वाला, छऽ हजार आउ आठ सौ, लड़ाई लेल तैयार सिपाही।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d92af168d51f5de5c13f44151ec9e70448356a2d27a67f392f45a43b0cb53124",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/12\/25-28.1792010187800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "उठावै वाला"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "आउ भाला"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "छऽ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "आउ आठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "तैयार"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "लड़ाई लेल सिपाही"
+    }
+  ],
+  "timestamp": "2026-10-14T20:36:27.800979743Z",
+  "model": "glm-5.3"
+}

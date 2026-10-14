@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 131,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ממני",
+      "rationale": "किछु पढ़निहार 'हमरा बड़ी चीज' के अरथ लेथिन (हमरा बड़ी — मेरे लिए बड़ा), किछु 'हमरा से दूर' (मुझसे परे); हमनी पहिला लेलिए।"
+    },
+    {
+      "kind": "addition",
+      "subject": "title",
+      "rationale": "'चढ़ाई के गीत' — हम्मा-पार तीर्थयात्रा के गीत के परम्परा।"
+    }
+  ],
+  "translation": "चढ़ाई के गीत, दाविद (दाऊद) के। यहवे, हमर हिरदय अकड़ल नञ, आउ हमर आँखी ऊँच नञ भेलन, आउ हम बड़का बात सब में नञ टिकलिए, नञ ओ अद्भुत चीज में जे हमरा बड़ी हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1c0cb547ae6b76470ef40cc8726145e6975bbcec089364c071e37d7b93009b6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/131\/1-3.1792006190997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "चढ़ाई के"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद (दाऊद) के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "अकड़ल"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमर हिरदय"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "ऊँच भेलन"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "हमर आँखी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "टिकलिए"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "बड़का बात सब में"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "आउ ओ अद्भुत चीज में"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "जे हमरा बड़ी हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:50.997641967Z",
+  "model": "glm-5.3"
+}

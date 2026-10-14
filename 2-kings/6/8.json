@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פלני אלמני",
+      "rationale": "'अइसन-अइसन' — सो-एंड-सो के जोड़ा, नाम जान-बूझ के छिपावल गेलाह; अनुवाद में दोहराव रखल गेलाह।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחनתי",
+      "rationale": "'डेरा-छावनी' — बहुबचन के जोड़ (चाहे क्रिया एकबचनीय हवे), सैन्य डेरा के बोध।"
+    }
+  ],
+  "translation": "आउ अराम के राजा यिस्राएल से लड़ऽ रहलइ हल, आउ ओ अपन सेवकन से सलाह करलक, कहितै — अइसन-अइसन जगह हमर डेरा-छावनी होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "448e0ca9ff12856f3509e29114a52919d42231debc945d11a16bcf7b067c6657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/6\/5-8.1791997740718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "आउ राजा"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम के"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहलइ हल"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "लड़ऽ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिस्राएल से"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "सलाह करलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "संग"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "अपन सेवकन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहितै"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "डेरा-छावनी"
+    }
+  ],
+  "timestamp": "2026-10-14T17:09:00.720012502Z",
+  "model": "glm-5.3"
+}

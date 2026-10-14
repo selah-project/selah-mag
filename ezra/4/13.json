@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 4:13",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "Letter of Rehum and Shimshai directly addresses the Persian king."
+    },
+    {
+      "kind": "crux",
+      "subject": "मन-गनती, खर्चा-कर, चुंगी",
+      "rationale": "Aramaic מנדה בלו והלך — three taxes: tribute, excise, toll; exact lines between them are disputed."
+    },
+    {
+      "kind": "crux",
+      "subject": "और अंत में",
+      "rationale": "ואפת्झ: 'at the last \/ in the end' (BDB) vs KJV 'so shalt thou endamage' — causative reading."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Aramaic",
+      "rationale": "Verse is Aramaic, not Hebrew; the letter section of Ezra 4 switches language."
+    }
+  ],
+  "translation": "अब राजा के जानना जा होवे कि जे हेई नगर बनतइ आउ ओकर दीवार पूरा होतइ, त ओकनी मन-गनती, खर्चा-कर आउ चुंगी नञ देतइ आउ अंत में राजा सब के हानि होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1a4432da1d338578ac3162c4029d8cf0cc343d883fa4a5e08a267b28e105e3b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/4\/13-16.1792009326976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "अब"
+    },
+    {
+      "surface": "ידיע",
+      "gloss": "जानना जा होवे"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "होवे"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "די",
+      "gloss": "कि"
+    },
+    {
+      "surface": "הן",
+      "gloss": "जे"
+    },
+    {
+      "surface": "קריתא",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "דך",
+      "gloss": "हेई"
+    },
+    {
+      "surface": "תתבנא",
+      "gloss": "बनतइ"
+    },
+    {
+      "surface": "ושוריה",
+      "gloss": "आउ ओकर दीवार"
+    },
+    {
+      "surface": "ישתכללון",
+      "gloss": "पूरा होतइ"
+    },
+    {
+      "surface": "מנדה",
+      "gloss": "मन-गनती"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "खर्चा-कर"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "आउ चुंगी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ינתנון",
+      "gloss": "देतइ"
+    },
+    {
+      "surface": "ואפתם",
+      "gloss": "आउ अंत में"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा सब के"
+    },
+    {
+      "surface": "תהנזק",
+      "gloss": "हानि होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:22:06.977650493Z",
+  "model": "glm-5.3"
+}

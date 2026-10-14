@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आपन",
+      "rationale": "हिब्रू के בשמחת लבו में अलग सर्बनाम नञ हइ; साफ अरथ बर जोड़ल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "मענה",
+      "rationale": "'जवाब देना' बनाम 'ओकर हिरदय के खुसी से व्यस्त रखना' (जेपीएस\/किंजेम्स के फरक); कोहेलेत के जगह हर जगह अनुवादक मतभेद हकइ"
+    }
+  ],
+  "translation": "काहे कि ऊ ⟨आपन⟩ जियता के ⟨את⟩ दिनन के बेसी याद नञ करतइ, काहे कि एलोहीम ओकर हिरदय के खुसी में जवाब देथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5d2c05bc901922c8e57c1db6347ee4662cbf8b6f9527be8574fd9fd6942d6797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/5\/18-19.1792012173131.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बेसी"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "याद करतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जियता के दिनन के"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनन के"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "जियता के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "जवाब देथिन"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "खुसी में"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "हिरदय के"
+    }
+  ],
+  "timestamp": "2026-10-14T21:09:33.132251992Z",
+  "model": "glm-5.3"
+}

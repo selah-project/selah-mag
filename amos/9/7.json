@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यिस्राएल के बेटा",
+      "rationale": "सीधा सम्बोधन — यहवे यिस्राएल के पूछलक"
+    },
+    {
+      "kind": "crux",
+      "subject": "कुशी के लोग नियरे",
+      "rationale": "कठिन पद: यिस्राएल के दूसर जाति नियरे कहल जाना — पूरा बराबरी के सवाल हकइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "העליתי के कर्ता",
+      "rationale": "इब्रानी क्रिया-रूप में 'हम' भीतर हकइ; मगही के ⟨हम⟩ जोड़ल गेलै"
+    }
+  ],
+  "translation": "की तोहनी हमरा कुशी के लोग नियरे नञ हथिन, हे यिस्राएल (इस्राएल) के बेटा? यहवे के बचन। की ⟨हम⟩ यिस्राएल के ⟨את⟩ मिस्रयिम के धरती से नञ उठएलन? आउ पलिश्ती कफ्तोर से, आउ आरम किर से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "73c4d7db895e93b610bbd53c491839efecd9eb2329b73559cd8ea7ee468abb50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/9\/5-8.1792003667076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "की ... नञ"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "के बेटा नियरे"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "कुशी के लोग"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "की ... नञ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "उठएलन"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "आउ पलिश्ती"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "कफ्तोर से"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "आउ आरम"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "किर से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:47:47.077709763Z",
+  "model": "glm-5.3"
+}

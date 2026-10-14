@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאתך",
+      "rationale": "'तोहरा संग से' (JPS 'from Thee') बनाम 'तोहरा बारे में' (KJV 'of thee') — दुनो पढ़ाव परम्परा में चलन हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रसंसा के बात सीधे यहवे से कहल गेल हइ"
+    }
+  ],
+  "translation": "तोहरा ⟨את⟩-संग से आवऽ हइ हमर प्रसंसा बड़ सभा में; जे ऊ ⟨את⟩ लोग ओकरा संग डरावै छथिन, ओकनी के आगे हम अपन मन्नत पूरी करब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/22\/25-28.1792004660721.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ तोहरा संग से",
+      "marks": "हमर प्रसंसा"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "हमर प्रसंसा"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "सभा में"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "हमर मन्नत"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "पूरी करब"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ओकरा संग डरावै वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:04:20.722206623Z",
+  "model": "glm-5.3"
+}

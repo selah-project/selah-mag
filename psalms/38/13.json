@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 38:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paran",
+      "rationale": "नפש के 'परान' — जीवन-शक्ति, न कि मुक्त आत्मा।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mavakshei\/dorshei",
+      "rationale": "दू खोजय वाला के जोड़ी — वाला\/वाला प्रतिध्वनि मगही में रहल।"
+    }
+  ],
+  "translation": "आउ हमर परान के खोजय वाला फंदा डाललन, आउ हमर बुराई के पीछा करय वाला बिगार बात कहलन, आउ ठगी के बात सब दिन मन में उबारथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "15ecc37329783fe2dd5340cf9baf2798718760c5537513fb17315b6ee0d50b2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/38\/13-16.1792004970232.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינקשו",
+      "gloss": "फंदा डाललन"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "खोजय वाला"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "आउ पीछा करय वाला"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "हमर बुराई"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "बिगार बात"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "आउ ठगी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "मन में उबारथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:30.233007792Z",
+  "model": "glm-5.3"
+}

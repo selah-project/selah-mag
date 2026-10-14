@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही के बाक्य बर जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש साँस-परान के बात हकइ, देह-आत्मा वाला भेद नञ"
+    }
+  ],
+  "translation": "हमर परान ⟨हकइ⟩ हर समय हमर हथेली में, बाकि तोहर तोरा हम नञ बिसरलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c25d66ebf54a4637bc1d45fc35c5552b129120b3f369161dad96001cefcd08b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/109-112.1792006141013.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "हमर हथेली में"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "हर समय"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "बाकि तोहर तोरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "हम बिसरलइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:01.014135770Z",
+  "model": "glm-5.3"
+}

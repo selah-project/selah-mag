@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही बाक्य बर ⟨हइ⟩ जोड़ल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלוף",
+      "rationale": "अरथ जड़ — तमास\/परिचित बिद्वान — एदोम के कबीला-सरदार बर; मगही में सरदार लिखल गेल, भूमिका नञ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नाम के सूची",
+      "rationale": "सरदार सब के नाम-पंजिका — परिवार आउ जगह के हिसाब से।"
+    }
+  ],
+  "translation": "आउ ई ⟨हइ⟩ एसाव के सरदार सब के नाम, ओकनी के परिवार के मोताबिक, ओकनी के जगह के मोताबिक, ओकनी के नाम के मोताबिक: सरदार तिमना, सरदार अलवा, सरदार यतेत।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e2098ce150f374c44a3e1e5be6e090eeee5a01c539a0fd6c4bb4e5b8a48bd30b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/36\/37-40.1791987370600.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आउ ई"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "सरदार सब के"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ओकनी के परिवार के मोताबिक"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "ओकनी के जगह के मोताबिक"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "ओकनी के नाम के मोताबिक"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "तिमना"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "अलवा"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "यतेत"
+    }
+  ],
+  "timestamp": "2026-10-14T14:16:10.601162284Z",
+  "model": "glm-5.3"
+}

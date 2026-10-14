@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गोअल के अरथ",
+      "rationale": "וגאलו के मूल चित्र — कुनबा के नातेदार के फरज निभावऽ हइ, 'बचा लेना' ओकर पातर रूप हकइ"
+    }
+  ],
+  "translation": "काहे कि यहवे ⟨את⟩ याकोव के छुड़ैलन, आउ ओकरा ओकरा से बलवान के हाथ से बचा लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b8e0679aad7cc720094ac663520bb0ba4c6edd75efcdf25253b5cdd31e8a7e7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/31\/9-12.1792000885018.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "छुड़ैलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याकोब के"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब के"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "आउ ओकरा बचा लेलन"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:01:25.019107522Z",
+  "model": "glm-5.3"
+}

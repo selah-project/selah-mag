@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मरद",
+      "rationale": "גבר is a strong man; context implies the wronged husband"
+    },
+    {
+      "kind": "alternative",
+      "subject": "चमत गबर",
+      "rationale": "Syntax may read 'jealousy — the fury of a man' or 'jealousy enraging a man'; chosen the plain construct"
+    }
+  ],
+  "translation": "काहे कि जलन मरद के गुस्सा हकइ, आउ ऊ बदला के दिन दया नञ करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d58f996a7edda261c7e9c2a410c7dc325e39f21154ffa18151f4705c378c9373",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/6\/33-35.1792006523643.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "जलन"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "दया करतइ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "बदला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:23.644722540Z",
+  "model": "glm-5.3"
+}

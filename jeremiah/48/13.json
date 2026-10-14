@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 48:13",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ओकरा⟩",
+      "rationale": "मिब्ताखम (ओकर भरोसा) बेथ-एल के गुण हकइ; सर्बनाम जोड़ल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "बेथ-एल",
+      "rationale": "कइसनको पढ़निहार एकरा मूरति-स्थान (बेतेल के सोना-बछरा) के रूप में लेथिन, केमोस के समानान्तर देवता-भरोसा"
+    }
+  ],
+  "translation": "आउ मोआब केमोस से लजाइत होतइ, जइसन यिस्राएल के घर बेथ-एल से लजाइल — ⟨ओकरा⟩ भरोसा से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "06eefd8ad063313dcdd61773269a79244642834baeadf78909e8b62df708604b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/48\/13-16.1792001421751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובש",
+      "gloss": "लजाइत होतइ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "מכמוש",
+      "gloss": "केमोस से"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "लजाइल"
+    },
+    {
+      "surface": "בית",
+      "gloss": "…के घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल से"
+    },
+    {
+      "surface": "מבטחם",
+      "gloss": "ओकर भरोसा से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:10:21.752088361Z",
+  "model": "glm-5.3"
+}

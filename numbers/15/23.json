@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 15:23",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ओ दिन से … आगू",
+      "rationale": "Temporal bounding: from the day of commandment onward through all generations"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Second-person plural object of the commandments"
+    }
+  ],
+  "translation": "⟨את⟩ सब जे यहवे तोहनी के मोशे (मूसा) के हाथे आज्ञा देलन हलन — ओ दिन से जँ यहवे आज्ञा देलन हलन, आउ एकरे आगू तोहनी के पीढ़ी सब में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "16bb03f29a25ccc8c1d294b332977cad560a69f55b641d74153a8b0cfb18bbc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/15\/21-24.1791991209156.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब जे यहवे आज्ञा देलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा) के"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ओ दिन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "आउ एकरे आगू"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "तोहनी के पीढ़ी सब में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:20:09.157222187Z",
+  "model": "glm-5.3"
+}

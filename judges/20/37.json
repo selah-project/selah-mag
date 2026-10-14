@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "judges 20:37",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "तलवार के मुँह",
+      "rationale": "לפי חרב के साक्षात अरथ 'तलवार के मुँह' हकइ; एकरा जस के तस रखल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "וימשך",
+      "rationale": "'आगू बढ़लन' बनाम 'फैल गेलन \/ खिंचलन' — कतु के घात वाला नगर के भीतर कइसने दहाड़लन"
+    }
+  ],
+  "translation": "आउ घात लगावै वाला जल्दी कइलन आउ गिबियाह (गिबाआ) पर टूट पड़लन, आउ घात लगावै वाला आगू बढ़लन आउ ⟨את⟩ पूरा नगर के तलवार के मुँह से मार देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "087926b0007fcbe9523bc50bca6bf1472aacd730b88655675433d8811e930997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/20\/37-40.1791994726571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארב",
+      "gloss": "आउ घात लगावै वाला"
+    },
+    {
+      "surface": "החישו",
+      "gloss": "जल्दी कइलन"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "टूट पड़लन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "करते"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "गिबियाह"
+    },
+    {
+      "surface": "וימשך",
+      "gloss": "आगू बढ़लन"
+    },
+    {
+      "surface": "הארב",
+      "gloss": "घात वाला"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "मार देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा नगर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "के मुँह से"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    }
+  ],
+  "timestamp": "2026-10-14T16:18:46.572345046Z",
+  "model": "glm-5.3"
+}

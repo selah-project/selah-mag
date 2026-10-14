@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מדמים",
+      "rationale": "बहुबचन 'खून' — KJV 'bloodguiltiness' (खून के दोस) बनाम YLT 'blood' (खून); ⟨के दोस⟩ कोस्ठक में धरलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "एलोहीम",
+      "rationale": "प्रार्थना सीधे एलोहीम के सम्बोधन हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדקתך",
+      "rationale": "त्सेदेक-शब्द लिप्यन्तरित रखल गेलन; 'नियाव\/धरम' कोनो एक मगही सब्द पूरा भार नञ उठावऽ हइ।"
+    }
+  ],
+  "translation": "हमरा खून ⟨के दोस⟩ से बचा, एलोहीम, हमर बचाव के एलोहीम, आउ हमर जीभ तोहर त्सेदेक गाबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/51\/13-16.1792005158030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "हमरा बचा"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "खून ⟨के दोस⟩ से"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर बचाव के एलोहीम"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "हमर बचाव"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "गाबइ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "हमर जीभ"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "तोहर त्सेदेक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:38.031756682Z",
+  "model": "glm-5.3"
+}

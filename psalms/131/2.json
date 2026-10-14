@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 131,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "इब्रानी 'अगर नञ' = पक्का\/अइसने; शब्दशः लिखला से अरथ बिगड़तइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "גמול",
+      "rationale": "गमूल — दूध छुड़ावल बुतरू — तनाख़ में एही पद में एही रूप में एकबार।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "परान — नफस गला\/परान-बल, न कि अलग 'आत्मा'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלי … עלי",
+      "rationale": "'अपन माय के संग' आउ 'मुझ संग' एके शब्द — बुतरू के साँट हमरा में घुमावऽ हकइ।"
+    }
+  ],
+  "translation": "अइसने हम ⟨अपन⟩ परान के समान कइलिए आउ चुप करा लिए, जइसन माय के गोद से हटावल बुतरू ⟨ओकर⟩ माय के संग; जइसन माय के गोद से हटावल बुतरू, तइसने हमर परान ⟨हमर⟩ भीतर हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1c0cb547ae6b76470ef40cc8726145e6975bbcec089364c071e37d7b93009b6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/131\/1-3.1792006190997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अइसने"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨नञ⟩"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "समान कइलिए"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "आउ चुप करा लिए"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान के"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "जइसन माय के गोद से हटावल बुतरू"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ओकर माय"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "जइसन माय के गोद से हटावल बुतरू"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:50.997883568Z",
+  "model": "glm-5.3"
+}

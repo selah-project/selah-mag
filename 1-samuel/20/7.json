@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "गरम-गरम जोड़ — गुस्सा के दोहराव में बचावल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כלתה מעמו",
+      "rationale": "शाब्दिक: ओकरा संग से बुराई खतम हो गेलइ — अरथात् ओकर मन में फैसला हो गेलइ।"
+    }
+  ],
+  "translation": "जे ऊ एने कहितन — ठीक हए, तोहर नौकर बर सांति होतइ — बाकि जे ओकर मन बहुत गुस्सा से जलितन, त जान ले कि ओकरा से बुराई पूरा भेलइ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dacb9edc516907cce415e8d123c2a0c59b440e80b5b153b56c2e26e53fb3c4b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/20\/5-8.1791995473610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जे"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एने"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहितन"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ठीक हए"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "तोहर नौकर बर"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "बाकि जे"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "बहुत गुस्सा से"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "जलितन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर मन"
+    },
+    {
+      "surface": "דע",
+      "gloss": "जान ले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "पूरा भेलइ हे"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-10-14T16:31:13.611271234Z",
+  "model": "glm-5.3"
+}

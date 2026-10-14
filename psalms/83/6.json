@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרת ברית",
+      "rationale": "इब्रानी के साक्षात् अरथ “वाचा काटना” हकइ (गोस्ता के टुकड़ा के बीच से गुजर के); मगही में “बान्हऽ हइ” कइल जा हइ — मूर्ति तस्वीर गुम होवऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "“तोहरे विरुद्ध” — पदा असल में परमेश्मा के सोझा बोलऽ हइ।"
+    }
+  ],
+  "translation": "काहे कि ओकनी एकट्ठा हिरदय से सलाह कइलन; तोहरे विरुद्ध वाचा बान्हऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "02b742150d4ccef43bc15a48940308aed19a29ffbbb711be031338dc81698646",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/83\/5-8.1792005565098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "सलाह कइलन"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकट्ठा"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहरे विरुद्ध"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "वाचा"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "बान्हऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:25.098816036Z",
+  "model": "glm-5.3"
+}

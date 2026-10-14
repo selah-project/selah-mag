@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 8:18",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बाकि",
+      "rationale": "ולא के नकार के आगू मगही के जोड़-सब्द जोड़ल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "ענה",
+      "rationale": "'उत्तर देना' बनाम 'सुनना' — सब पुरान अनुवाद में मतभेद (KJV 'hear', YLT 'answer')"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "शमूएल के ई बात परजा के सीधे सम्बोधन हकइ"
+    }
+  ],
+  "translation": "आउ तोहनी ओही दिन ओ राजा के आगू चीखऽ हथिन जेकरा तोहनी अपन बर चुनलऽ हथिन, बाकि यहवे ओही दिन तोहनी के उत्तर नञ देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9db9c251df353233c2242dd569ea4f8d7081413830894ed2f15b5432def2974a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/8\/17-20.1791994851848.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזעקתם",
+      "gloss": "आउ तोहनी चीखऽ हथिन"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ओही⟩"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "तोहनी के राजा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "चुनलऽ हथिन"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "अपन बर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि … नञ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "उत्तर देतइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ओही⟩"
+    }
+  ],
+  "timestamp": "2026-10-14T16:20:51.849471010Z",
+  "model": "glm-5.3"
+}

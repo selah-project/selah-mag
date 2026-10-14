@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हइ⟩",
+      "rationale": "इब्रानी में क्रिया-सबंधी 'होना' नञ हकइ; मगही के चाही"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חסיד",
+      "rationale": "हेसेद जड़ के गुणवाचक सब्द — 'करुणामय' बनाम 'परम-भक्त' दू अरथ परम्परा में लड़ल हलइ"
+    }
+  ],
+  "translation": "यहवे ओकर सब रस्ता में त्सेदेक वाला ⟨हइ⟩, आउ ओकर सब काम में हेसेद वाला ⟨हइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/145\/17-20.1792006387613.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "त्सेदेक वाला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब…में"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ओकर रस्ता"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "आउ हेसेद वाला"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब…में"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ओकर काम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:07.613769081Z",
+  "model": "glm-5.3"
+}

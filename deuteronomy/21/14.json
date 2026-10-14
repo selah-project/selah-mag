@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 21:14",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לנפשה",
+      "rationale": "अक्षरसः 'ओकर परान खातिर' — 'जहाँ ओकर मन करऽ हइ' के ढंग।"
+    },
+    {
+      "kind": "crux",
+      "subject": "תתעמר",
+      "rationale": "'दास जइसन दबावै' — किसान 'बेच के व्यापार करै' बनाम 'तानाशाही करै'; जड़ ढेर धरे के अरथ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עניתה",
+      "rationale": "'दुःख देलऽ हइ' — अक्षरसः 'ओकरा दबाइल अथवा नीच कइल'।"
+    }
+  ],
+  "translation": "आउ होतइ अइसन: जे तूँ ओकरा मन नञ करऽ हइ, त ओकरा ओकर मन के मोताबिक छोड़ देबइ; बाकि बेचल नञ — ओकरा चानी में बेचबइ नञ — ओकरा के दास जइसन नञ दबाइ रखबइ, काहे कि तूँ ओकरा दुःख देलऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2a32c3936654e6efe2a2ca34729192468634b9d0c6e697075eb4efbd5720e432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/21\/13-16.1791992629670.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "मन करऽ हइ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ושלחתה",
+      "gloss": "आउ छोड़ देबइ"
+    },
+    {
+      "surface": "לנפשה",
+      "gloss": "ओकर मन के मोताबिक"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "बाकि बेचल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תמכרנה",
+      "gloss": "बेचबइ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "चानी में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תתעמר",
+      "gloss": "दास जइसन दबाइ रखबइ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा के"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עניתה",
+      "gloss": "दुःख देलऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:43:49.672446807Z",
+  "model": "glm-5.3"
+}

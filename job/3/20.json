@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "काहे कि",
+      "rationale": "यूब सीधे यहवे से पछतावे वाला सवाल हकइ, पढ़निहार के घीचऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नेफेस गला-साँस-जिनगी के जीव हकइ; परान मगही के सबसे नजदीक सब्द हकइ।"
+    }
+  ],
+  "translation": "काहे कि परेसान लोग के इँजोर देल जाऽ हइ, आउ जेकर परान कड़वा भेल हकइ ओकरा जिनगी?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d35fe2d4d5ee4ece28db970e2d86c0f4b03b53991b29abe1b1be270a26a2180e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/3\/17-20.1792007119681.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देल जाऽ हइ"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "परेसान लोग के"
+    },
+    {
+      "surface": "אור",
+      "gloss": "इँजोर"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "आउ जिनगी"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "कड़वा"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:45:19.681947790Z",
+  "model": "glm-5.3"
+}

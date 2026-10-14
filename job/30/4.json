@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 30:4",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלוח",
+      "rationale": "ई खार साग (समुंदरी साग) के नाँव पूरा तनाख़ में खाली इहे जगह जाति-सब्द के रूप में अवऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלי שיח",
+      "gloss": "किछु अनुवाद ‘कुसैल झाड़ के संग’ पढ़ऽ हथिन; मूल सब्द साग-झाड़ हकइ।"
+    }
+  ],
+  "translation": "जे खार साग साग-झाड़ के संग तोड़ऽ हथिन, आउ रेतम-गाछ के जड़ ही ओकर खाना।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/30\/1-4.1792007703978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקטפים",
+      "gloss": "जे तोड़ऽ हथिन"
+    },
+    {
+      "surface": "מלוח",
+      "gloss": "खार साग"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "साग-झाड़"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "आउ जड़"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "रेतम-गाछ के"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "ओकर खाना"
+    }
+  ],
+  "timestamp": "2026-10-14T19:55:03.979276756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דור בניך",
+      "rationale": "'तोहर बेटा सब के पीढ़ी' — कतक 'ई पीढ़ी तोहर बेटा सब के' पढ़ऽ हइ, कतक 'तोहनी के पीढ़ी'; संबंध विवादित हकइ।"
+    }
+  ],
+  "translation": "जदि हम कहितनइ जे हम एहन सुनाबइ, तब देखू — तोहर बेटा सब के पीढ़ी के संग हम बिसवासघात करितनइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/73\/13-16.1792005410322.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जदि"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "कहितनइ"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "सुनाबइ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखू"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "तोहर बेटा सब के"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "बिसवासघात करितनइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:50.323229337Z",
+  "model": "glm-5.3"
+}

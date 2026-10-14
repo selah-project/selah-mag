@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מאת המלך",
+      "rationale": "'राजा के संग से' — מאת इहाँ इब्रानी 'עם' (संग) के रूप हकइ; ⟨את⟩ चिन्हा जान-बूझ के रखल गेल हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "אין שומע",
+      "rationale": "'सुनै वाला कोनो नञ हऽ' — KJV 'नियुक्त कइल मरद नञ हकइ' कहऽ हइ; हिब्रू में 'नियुक्त' के सब्द नञ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "अवशालोम के बात झगड़ा वाला मरद से",
+      "rationale": "सीधा सम्बोधन जारी — 'तोहर बात… तोहरा'"
+    }
+  ],
+  "translation": "आउ अवशालोम ओकरा कहतन: “देखऽ, तोहर बात नीक आउ सीध हऽ, बाकि राजा के संग से ⟨את⟩ तोहरा सुनै वाला कोनो नञ हऽ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "201f4dd1f5cdecb50786c1c5aaef4ab79a5359058b0639d0182326c31740a719",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/15\/1-4.1791996302050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहतन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अवशालोम"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "तोहर बात"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "आउ सीध"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "आउ सुनै"
+    },
+    {
+      "surface": "אין",
+      "gloss": "कोनो नञ हऽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ संग से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:45:02.051830781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हथिन⟩ \/ ⟨हकइ⟩",
+      "rationale": "इब्रानी में क्रिया-होने वाला सब्द नञ हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "शाब्दिक अर्थ 'नथुने\/नाक' हकइ; जेकरा मगही में 'नाक' लेल गेलइ"
+    }
+  ],
+  "translation": "कान ओकनी के ⟨हथिन⟩, बाकि ओकनी नञ सुनऽ हथिन; नाक ओकनी के ⟨हकइ⟩, बाकि ओकनी नञ सूँघऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d238467357eb2dd7bd7606a902d92ce1147ea96c7a51483d5250e9db09898798",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/115\/5-8.1792006005837.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "कान"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि ओकनी नञ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "सुनऽ हथिन"
+    },
+    {
+      "surface": "אף",
+      "gloss": "नाक"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि ओकनी नञ"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "सूँघऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:45.838114564Z",
+  "model": "glm-5.3"
+}

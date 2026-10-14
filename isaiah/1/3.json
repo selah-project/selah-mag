@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "इब्रानी के जेतना-प्रत्यय मगही में अलग सब्द से आवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבוס",
+      "rationale": "चारनी के टोबरा — कुछ अनुवाद 'बाड़ा\/डेरा' कहऽ हइ, जे मूल अरथ (नाँवि, जहाँ दाना राखल जा हइ) से दूर हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידע ... ידע",
+      "rationale": "बैल के जानकारी आउ यिस्राएल के नञ-जानकारी में ओहे क्रिया दोहरावल गेलइ हइ — तुलना के धार"
+    }
+  ],
+  "translation": "बैल अपन मालिक के जानऽ हइ, आउ गधा अपन मालिक के चारनी के टोबरा; यिस्राएल (इस्राएल) जानऽ हइ नञ, हमर लोग समझऽ हइ नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "da722dd78e8bd6eca7990208184cbd3a02c960962f5e693af86882fb5a877dd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/1\/2-3.1792011822284.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "जानऽ हइ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "अपन मालिक के"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "आउ गधा"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "चारनी के टोबरा"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "अपन मालिक के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानऽ हइ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमर लोग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "समझऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T21:03:42.285624363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "देवता सब",
+      "rationale": "אלהים अחרים एतय दोसर जाति के देवता हकइ, एहे से जाति-सब्द, नाम नञ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "कान झुकैना",
+      "rationale": "הטו אזנם के चलनसार संकेत — ध्यान देके सुनना।"
+    }
+  ],
+  "translation": "आउ ओकनी नञ सुनलन आउ नञ ⟨את⟩ अपना कान झुकैलन ⟨कि⟩ अपन बुराई से लवटऽ होथिन, दोसर देवता सब के धूप जरावे से बचऽ होथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "39ec2f5d65db2f19a406fa4708ce109f38380bab8370d5ef5b45809204f599c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/44\/5-8.1792001408061.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "झुकैलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपना कान"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "अपना कान"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "लवटे बर"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "अपन बुराई से"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "बचे बर"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "धूप जरावे से"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "देवता सब के"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दोसर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:10:08.061849975Z",
+  "model": "glm-5.3"
+}

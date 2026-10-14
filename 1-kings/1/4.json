@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ידעה",
+      "rationale": "'जानना' — इब्रानी में शारीरिक संबंध बर साफ क्रिया; मगही में जस के तस रखल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד מאד",
+      "rationale": "'बहुते अत्यंत' — इब्रानी के दूहरा बल, एकरा दुनू सब्द में रखल गेलइ।"
+    }
+  ],
+  "translation": "आउ ऊ कनिया बुतरी बहुते सुन्दर हलथिन, आउ ऊ राजा के सेवा करए वाली भ' गेलथिन, आउ ओकर देखभाल करलथिन, बाकि राजा ओकरा नञ जानलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "562ff7926eee9f9b6a2fd952ebf5bb75e2182e1ea218bf5cf298ba9de9e5b7de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/1\/1-4.1791996654008.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "आउ ऊ कनिया बुतरी"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यंत"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "आउ भ' गेलथिन"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "सेवा करए वाली"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "आउ ओकर देखभाल करलथिन"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "आउ राजा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "जानलन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:50:54.009082885Z",
+  "model": "glm-5.3"
+}

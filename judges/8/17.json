@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के",
+      "rationale": "मगही के सम्बन्ध-चिन्हा; इब्रानी के जोड़-रूप (construct) एकरा बेहल हकइ"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ पेनुएल के मीनार गिराइलन, आउ ⟨את⟩ नगर के मरदसब के मारलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1f2e675e8619b8dcfb47faaa0eddca524b2e93d1893900a990aa4b144337b6ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/8\/17-20.1791994280761.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "पेनुएल के मीनार"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "मीनार"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "पेनुएल"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "गिराइलन"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "आउ मारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नगर के मरदसब"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मरदसब"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:11:20.762401661Z",
+  "model": "glm-5.3"
+}

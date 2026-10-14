@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "esther 9:25",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמר",
+      "rationale": "के कहलक — राजा (KJV\/JPS) या एस्तर (Wycliffe); इब्रानी के करता अस्पस्ट हकइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על ראשו",
+      "rationale": "शब्दशः 'ओकर मूड़ी पर' — ओकर अपन योजना ओही पर लौट आवऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "इब्रानी में करता के सर्बनाम नञ हकइ; मगही बाक्य बर जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "आउ जब ऊ राजा के सामने अइलन, तब ⟨ऊ⟩ पत्री के संग कहलन — ऊ बुराय जे ऊ यहूदी लोग के बिरुद्ध सोचलक हल, ऊ ओकर अपन मूड़ी पर लौट जातइ, आउ ओकरा आउ ⟨את⟩ ओकर बेटा सब के गाछ पर झूँझ देल गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0152af1cbd7db126e387eea1b89d43164019033e09588030010baf5048fb67c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/9\/25-28.1792008781912.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "आउ जब ऊ अइलन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "पत्री के"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "लौट जातइ"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "ओकर सोच"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "बुराय"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "सोचलक हल"
+    },
+    {
+      "surface": "על",
+      "gloss": "बिरुद्ध"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "यहूदी लोग के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ओकर मूड़ी"
+    },
+    {
+      "surface": "ותלו",
+      "gloss": "आउ झूँझ देल गेलइ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बेटा सब के"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा सब के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "गाछ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:13:01.912896498Z",
+  "model": "glm-5.3"
+}

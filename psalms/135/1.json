@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "परिसंसा करऽ",
+      "rationale": "तीन गो आज्ञा-रूप हमनी के बोलावऽ हइ — यहवे के सेवक के ओकर नाम के परिसंसा बर।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "हल्लेलु-याह के तीन गो दोहराव — ई पद सबसे बेसी जानल जालक इहेइ सोर में हइ।"
+    }
+  ],
+  "translation": "परिसंसा करऽ याह के, परिसंसा करऽ यहवे के नाम ⟨את⟩ के, परिसंसा करऽ यहवे के सेवक सब,",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/135\/1-4.1792006230388.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "परिसंसा करऽ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह के"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "परिसंसा करऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "परिसंसा करऽ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "सेवक सब"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:30.388916094Z",
+  "model": "glm-5.3"
+}

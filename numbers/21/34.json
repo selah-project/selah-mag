@@ -1,0 +1,147 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 21:34",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Moshe",
+      "rationale": "यहवे मोशे के सीधे सम्बोधन करऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हन",
+      "rationale": "मगही के क्रिया-रूप चाहऽ हइ; इब्रानी के נתתי एक रूप में ठाढ़ हकइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "सापेक्ष सब्द; मगही में 'जे' दू बेर अइल"
+    }
+  ],
+  "translation": "आउ यहवे मोशे (मूसा) से कहलन: ओकरा मत डर; काहे कि हम ⟨את⟩ ओकरा आउ ⟨את⟩ ओकर सब लोग के आउ ⟨את⟩ ओकर धरती के तोहर हाथ में देले हन; आउ तूँ ओकरा संग ऊहे करबऽ जे तूँ सीहोन — हेसबोन में बसल अमोरी के राजा — के संग कइलहुँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b46e000413ec5684c7b7b011047ade5448bd708bbf79004fcf5157327729df48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/21\/33-35.1791991261610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डर"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "तोहर हाथ में"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "देले हन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर सब लोग के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर लोग"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर धरती के"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ओकर धरती"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "करबऽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "कइलहुँ"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "सीहोन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "अमोरी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बसल"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "हेसबोन में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:21:01.611633354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "अँगोर-ताब चिन्हा ⟨את⟩ मगही में अलग सब्द नञ हइ; खाली चिन्हा रूप में देखावल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "यहवे यिस्राएल (जनाना रूप में) से सोधऽ हइ — 'तूँ छोड़लइ'।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "हलवाहा प्रस्न",
+      "rationale": "पहिला बाक्य तोहरा तरफ आँख उठा के सोधल प्रस्न हकइ।"
+    }
+  ],
+  "translation": "की ई तोहरा ही नञ होतइ — काहे कि तूँ छोड़लइ ⟨आपन⟩ ⟨את⟩ यहवे, तोहर एलोहीम के, ओ समय जब ऊ तोहरा रस्ता में ले जात रहलन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "82885541c6f21ed67d46aec70e3efca3f7618696944013cd0cfcb3e6fd9363cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/2\/17-20.1792000122659.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "की...नञ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "छोड़लइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ओ समय"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "ले जात रहलन"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता में"
+    }
+  ],
+  "timestamp": "2026-10-14T17:48:42.660583955Z",
+  "model": "glm-5.3"
+}

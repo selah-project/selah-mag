@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एगो",
+      "rationale": "हिब्रू में अनिश्चित संज्ञा बर कोनो अनुच्चार नञ हकइ; मगही के बाक्य-बनावट एकरा माँगऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטר\/נצר",
+      "rationale": "टहनी आउ डाँल — दू तरह के नरम डाँल-सब्द के जोड़ी, मगही में ओकर सुन्नरता हल्का हो जातइ।"
+    }
+  ],
+  "translation": "आउ यिसय (यिशै) के ठूँठ से एगो टहनी निकलतइ, आउ ओकर जड़ सब से एगो डाँल फल देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c74e25d4305f81d497d181d8591de47c9f818c0760129d2a473e3acfbd8daf8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/11\/1-4.1791998822861.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकलतइ"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "टहनी"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "ठूँठ से"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिसय के"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "आउ डाँल"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "ओकर जड़ सब से"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "फल देतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:27:02.862418821Z",
+  "model": "glm-5.3"
+}

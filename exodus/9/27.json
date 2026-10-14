@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 9:27",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Moses and Aaron",
+      "rationale": "फिरौन के बोल मोशे आउ अहरोन से सीधा कहल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאתי \/ הצדיק \/ הרשעים",
+      "rationale": "पाप-करल \/ त्सेदेक-वाला \/ बुरा — तीन ओट मिलान वाला त्रय, जे मगही में कमाल नञ रहऽ हइ"
+    }
+  ],
+  "translation": "आउ फिरौन भेजलक आउ मोशे आउ अहरोन के बोलावलक, आउ ओकनी से कहलन — “एहि बेर हम पाप करलियनि; यहवे त्सेदेक वाला हथिन, आउ हम आउ हमर लोग बुरा हइ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "981bf1191d93a45a86dd276518515ef6f8a065498da4d962aaef2955eab9bb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/9\/25-28.1791988251272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलक"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "बोलावलक"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "मोशे के"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "आउ अहरोन के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "हम पाप करलियनि"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "एहि बेर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "त्सेदेक वाला"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आउ हम"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "आउ हमर लोग"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "बुरा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:30:51.273394798Z",
+  "model": "glm-5.3"
+}

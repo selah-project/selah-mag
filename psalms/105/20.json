@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "जाति सब के शासक",
+      "rationale": "משל עמים के दू संभावित अर्थ: 'जाति सब पर शासन करय वाला' या 'जाति के सभा के सरदार' — पहिला लेल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויתירהו \/ ויפתחहו",
+      "rationale": "दू करिया के समानान्तर — खोलना आउ छोड़ना — इब्रानी के दुहराव-जोड़ी बनावट।"
+    }
+  ],
+  "translation": "राजा भेजलन आउ ओकरा खोललन — जाति सब के शासक ओकरा छोड़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/105\/17-20.1792005887187.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "आउ ओकरा खोललन"
+    },
+    {
+      "surface": "משל",
+      "gloss": "शासक"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सब के"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "ओकरा छोड़लन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:47.188463752Z",
+  "model": "glm-5.3"
+}

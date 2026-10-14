@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבדך",
+      "rationale": "KJV 'जेकर नाम अकेले यहवे' बनाम ASV\/JPS 'तूँ अकेले'; पाठ के क्रम 'अकेले' के 'तूँ' के आगे रखऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "מगही के आदर-किरिया रूप, इब्रानी के अकेल 'तूँ' के ऊपर आदर बाने।"
+    }
+  ],
+  "translation": "आउ ओकनी जानऽ ले कि तूँ हथिन, जेकर नाम यहवे, अकेले, सबसे ऊँच सब धरती के ऊपर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/83\/17-19.1792005507900.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "आउ ओकनी जानऽ ले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ हथिन"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "सबसे ऊँच"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:27.902785982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के लेवे",
+      "rationale": "मगही के क्रिया-संरचना बर जोड़ल गेलइ; इब्रानी में सीधे 'लרשת' हकइ।"
+    }
+  ],
+  "translation": "आउ यहोसुआ ⟨את⟩ लोग के पठायलन, आउ यिस्राएल के बेटा सब, हर एक अपन हिस्सा के बर, धरती के बसावे गेलन — ⟨את⟩ धरती ⟨के लेवे⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c12529aa5ffa8cb5530be64c22e0e44dc0a87fb9b0be368a4fd2301ce81987c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/2\/5-8.1791993882538.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "पठायलन"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोसुआ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "आउ … गेलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "अपन हिस्सा के बर"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "बसावे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T16:04:42.539519157Z",
+  "model": "glm-5.3"
+}

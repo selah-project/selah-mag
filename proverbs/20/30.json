@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תמריק",
+      "rationale": "माँजना के क्रिया तनख में खाली इहे जगह आवऽ हइ (पॉलिस \/ रगड़ के अरथ)"
+    },
+    {
+      "kind": "crux",
+      "subject": "חברות פצע",
+      "rationale": "KJV 'चोट के नील' (शारीरिक दण्ड फायदेमंद) बनाम YLT 'घाव के पट्टी बुराइ के संग हटावऽ हइ' — दुई पढ़ाव"
+    },
+    {
+      "kind": "substitution",
+      "subject": "पेट के भीतर के कोठरी",
+      "rationale": "חדרי בטן मन के गहिरा भीतर के चित्र हकइ, शरीर के अंग नञ"
+    }
+  ],
+  "translation": "चोट के नील आउ घाव बुराइ के माँजऽ हइ, आउ मार पेट के भीतर के कोठरी ले पहुँचऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6f470061edb896d65a39e812fe8b9cc41b6faa1019529df174eadd0c44ea442f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/20\/29-30.1792006805390.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "चोट के नील"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "घाव"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "माँजऽ हइ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "बुराइ के"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "आउ मार"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "भीतर के कोठरी ले"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "पेट के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:05.391104458Z",
+  "model": "glm-5.3"
+}

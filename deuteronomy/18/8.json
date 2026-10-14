@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממכריו",
+      "rationale": "'ओकर बेचल चीज' बनाम 'ओकर पैतृक जायदाद के बिक्री' (KJV\/JPS patrimony) — मूल पाठ 'बेचाइ' के हकइ, बाप के जायदाद के जोड़ अनुवादक के हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "על האבות",
+      "rationale": "'बाप के घराना के मोताबिक' बनाम YLT 'बाप के संग' — על के मोताबिक अनिश्चित।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלק כחלק",
+      "rationale": "हिस्सा-बर-हिस्सा के दोहराव — बराबरी के बल; मगही में 'जइसन' से जतना संभव घुलटाना।"
+    }
+  ],
+  "translation": "हिस्सा जइसन हिस्सा ओनखा खाइबइ, अलग सवते ओकर बेचल गुल, बाप-दादा के घराना के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d4f36b77386d4930422ae304e8b30a0bb4eee6c84b89fc106a55aca6020d6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/18\/5-8.1791992545095.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "जइसन हिस्सा"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ओनखा खाइबइ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "अलग सवते"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "ओकर बेचल गुल"
+    },
+    {
+      "surface": "על",
+      "gloss": "के मोताबिक"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "बाप-दादा के घराना"
+    }
+  ],
+  "timestamp": "2026-10-14T15:42:25.096346962Z",
+  "model": "glm-5.3"
+}

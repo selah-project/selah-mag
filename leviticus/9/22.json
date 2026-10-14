@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידו — हाथ एक या दू",
+      "rationale": "इब्रानी में एकबचन (यदו), किछु परम्परा दू हाथ मानऽ हइ (हस्ते)"
+    }
+  ],
+  "translation": "अहरोन ⟨את⟩ अपन हाथ लोगनि के दने उठलनक, आउ ओकनी के असीस देलनक, आउ पाप-बलि आउ होम-बलि आउ शेलमीम बलि कइल के ⟨नीचे अइलन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f25cf1c56b0912d4d34ecf05932e58170431ad7d56dec9bedd045076e8230c65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/9\/22-23.1792011602904.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "उठलनक"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन हाथ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "अपन हाथ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोगनि"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "असीस देलनक"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "नीचे अइलन"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "कइल के"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "पाप-बलि"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "होम-बलि"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "शेलमीम बलि"
+    }
+  ],
+  "timestamp": "2026-10-14T21:00:02.905267565Z",
+  "model": "glm-5.3"
+}

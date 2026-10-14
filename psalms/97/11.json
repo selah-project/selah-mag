@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी में क्रिया-सहायक नञ हइ, मगही वाक्य बुनावट बर जोड़ल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אור זרע",
+      "rationale": "'इँजोर बोलल गेलन' — खेती के तस्वीर, इँजोर बिया नियन बइठैल जा हइ"
+    }
+  ],
+  "translation": "सज्जन खातिर इँजोर बोलल गेलन हइ, आउ सीधा हिरदय वाला खातिर खुसी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/97\/9-12.1792005783453.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "इँजोर"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बोलल गेलन हइ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "सज्जन खातिर"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "आउ सीधा वाला खातिर"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "खुसी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:03.453979537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמצים",
+      "rationale": "‘बलवान’ बनाम ‘गहरा लाल’ — अनुवादक में प्रसिद्ध मतभेद; YLT ‘strong’, JPS ‘bay’"
+    },
+    {
+      "kind": "measurement",
+      "subject": "रथ-क्रम",
+      "rationale": "क्रमबद्ध गिनती जारी — तीसरा, चउथा रथ"
+    }
+  ],
+  "translation": "आउ तीसरा रथ में उज्जर घोड़ा रहलन, आउ चउथा रथ में चितकबरा आउ बलवान घोड़ा रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e74576df6465bce55df924615bbce4714a64480a427a9b21afd0505228ca428d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/6\/1-4.1792004177466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "आउ... रथ में"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोड़ा"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "उज्जर"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "आउ... रथ में"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "चउथा"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोड़ा"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "चितकबरा"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "बलवान"
+    }
+  ],
+  "timestamp": "2026-10-14T18:56:17.467943443Z",
+  "model": "glm-5.3"
+}

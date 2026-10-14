@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन \/ हलथिन",
+      "rationale": "इब्रानी क्रिया विहीन हकइ; मगही बाक्य पूरा करे बर क्रिया जोड़लक"
+    },
+    {
+      "kind": "measurement",
+      "subject": "अधिकारी-सूची जारी",
+      "rationale": "सेनापति आउ पुरोहित के नाम-सूची के पद"
+    }
+  ],
+  "translation": "आउ बेनायाहू, यहोयादा के बेटा, सेना पर ⟨हलन⟩; आउ त्सादोक आउ एब्यातार पुरोहित ⟨हलथिन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ab78f783e35bff0ad0c28134b9875f340daa485b0f0fa08f818a35ad6726c74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/4\/1-4.1791996754767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "आउ बेनायाहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "यहोयादा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "आउ त्सादोक"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "आउ एब्यातार"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "पुरोहित"
+    }
+  ],
+  "timestamp": "2026-10-14T16:52:34.768061033Z",
+  "model": "glm-5.3"
+}

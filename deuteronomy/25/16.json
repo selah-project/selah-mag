@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "gloss": "हिब्रू में क्रिया नञ हइ — 'यहवे के घिनौना' संज्ञा-वाक्य हकइ; मगही के क्रिया जोड़ल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כל עשה… כל עשה",
+      "rationale": "'हर ओकरा के जे… हर ओकरा के जे' — दोहरावल ढाँचा, बिधान के फैलाव देखावै में।"
+    }
+  ],
+  "translation": "काहे कि यहवे तोहर एलोहीम के घिनौना हकइ हर ओकरा के जे ई करऽ हइ, हर ओकरा के जे अनियाव करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5b7e9f571d5089c7dfde532e86a96fdf45aa99d72df71c6af646362df46534ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/25\/13-16.1791992690136.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "घिनौना हकइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर ओकरा के जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करऽ हइ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर ओकरा के जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करऽ हइ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "अनियाव"
+    }
+  ],
+  "timestamp": "2026-10-14T15:44:50.137849192Z",
+  "model": "glm-5.3"
+}

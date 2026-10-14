@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 26:1",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Saul",
+      "rationale": "जिफ के लोग शाऊल के सीधे संबोधन — दिया गेल खबर"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על פני הישימן",
+      "rationale": "साक्षात: येशिमोन के मुँह पर; मगही में 'के सामने' कहल गेल"
+    }
+  ],
+  "translation": "आउ जिफ के लोग शाऊल के पास गिबआ में अएलन, कहलन: की दाविद हचकिला के टीला में, येशिमोन के सामने, छिपल नञ हथिन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "82e5e74b0536333054c652363fbbf2e62bc35524e739e4c18f504836c58271c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/26\/1-4.1791995678285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "अएलन"
+    },
+    {
+      "surface": "הזפים",
+      "gloss": "जिफ के लोग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "गिबआ में"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "की … नञ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "छिपल"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "टीला में"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "हचकिला"
+    },
+    {
+      "surface": "על",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "येशिमोन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:34:38.286095275Z",
+  "model": "glm-5.3"
+}

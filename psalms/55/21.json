@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ידיו שלח",
+      "rationale": "अरथी 'हाथ बढ़ावल' — मगही में 'हाथ धरलक' कइल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלמיו \/ שלום",
+      "rationale": "ओकर सांती वाला के ऊपर ही हाथ — 'सांती' के जड़ आउ अंग्रेजी 'peace' के तालमेल।"
+    }
+  ],
+  "translation": "ऊ अपन हाथ ओकरा पर धइलक जे ओकर सांती में हलथिन; ओकर वाचा के ओ भंग कइलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "90a7f7bda4c6f34dcd96227750125f62b893a19f5cf6317094f0adfe1d6f9133",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/55\/21-24.1792005192049.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "धइलक"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "अपन हाथ"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "ओकर सांती में"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "भंग कइलक"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ओकर वाचा के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:12.049525986Z",
+  "model": "glm-5.3"
+}

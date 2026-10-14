@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאר את הלילה",
+      "rationale": "'ऊ रात के इँजोर कइलन' — केकरो बर इँजोर: यिस्राएल बर (KJV) या दुनों डेरा बर (यल्त\/जेपीएस); इब्रानी खाली कहऽ हइ कि रात इँजोर भेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זה אל זה",
+      "rationale": "'ई ओकरा नजदीक' — दुहराव वाला रूप, दुनों डेरा एक-दोसरा के नजदीक नञ अइलन"
+    }
+  ],
+  "translation": "आउ ऊ मिस्रयिम के डेरा आउ यिस्राएल के डेरा के बीच में अइलन; आउ बादर आउ अन्हार हलइ, आउ ऊ रात के ⟨את⟩ इँजोर कइलन, आउ ई अइसने ओ अइसने के नजदीक नञ अइलन पूरा रात।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "592d321cfd4bddade1a375dcd8e68fd06133a77d608c48dcc62d0bfad7dd2547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/14\/17-20.1791988458009.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आउ अइलन"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "डेरा के"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ बीच में"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "डेरा के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ हलइ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादर"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "आउ अन्हार"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "आउ इँजोर कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रात के"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "रात के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "नजदीक अइलन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई अइसने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के नजदीक"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ओ अइसने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "रात"
+    }
+  ],
+  "timestamp": "2026-10-14T14:34:18.010514528Z",
+  "model": "glm-5.3"
+}

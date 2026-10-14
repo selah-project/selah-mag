@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש 'परान\/जीवन-शक्ति' हकइ, आत्मा जइसन अलग चीज नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "והות",
+      "rationale": "הוה के दुअरथ — 'इच्छा\/चाह' (KJV 'desire') या 'तबाही\/बरबादी' (geneva 'substance' से जुड़ल पढ़ाई); 'चाह' लेलन"
+    }
+  ],
+  "translation": "यहवे धरम करै वाला के परान के भूखा नञ रखऽ हइ, आउ बेइमान लोग के चाह के धकेल देवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6e3b4b10a59ea6a7ad6bc0a497da9583e82cd33a7bae639cfaf9633e41658884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/10\/1-4.1792006616170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "भूखा रखऽ हइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरम करै वाला"
+    },
+    {
+      "surface": "והות",
+      "gloss": "आउ चाह"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बेइमान लोग"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "धकेल देवऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:56.170961668Z",
+  "model": "glm-5.3"
+}

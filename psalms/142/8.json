@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכתरו",
+      "rationale": "घेर लेना (शत्रुता-भाव) बनाम ताज पहिरावा (मैत्री-भाव) — दुनो अरथ जड़ में हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש परान-बल हकइ; आत्मा नञ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रार्थना सीधे यहवे से बोलल गेलइ हे"
+    }
+  ],
+  "translation": "हमर परान के कैद खाना से बाहिर निकाल देअ, जे हम ⟨את⟩ तोहर नाम के धन्यवाद करब; तब त्सेदेक लोग हमरा घेर लेतन, काहे कि तोहनी हमरा ओत्ते भलाई करब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/142\/5-8.1792006331033.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "बाहिर निकाल देअ"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "कैद खाना से"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान के"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "धन्यवाद करब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर नाम के"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा घेर"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "घेर लेतन"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "त्सेदेक लोग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "भलाई करब"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ओत्ते"
+    }
+  ],
+  "timestamp": "2026-10-14T19:32:11.034039921Z",
+  "model": "glm-5.3"
+}

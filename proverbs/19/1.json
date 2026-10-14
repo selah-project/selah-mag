@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "पूरी साफ दिल",
+      "rationale": "בתומו literally 'in his completeness\/blamelessness' — rendered with a Magahi idiom of clean-heartedness"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעקש שפתיו",
+      "rationale": "'crooked of his lips' — KJV 'perverse in his lips' vs some 'one who lashes with lips'; the picture is bent, twisted speech"
+    }
+  ],
+  "translation": "बेसर हकइ गरीब जे अपन पूरी साफ दिल से चलऽ हइ, ओकरा जे ओकर ओँठ टेढ़ा हथिन आउ ऊ मूर्ख हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/19\/1-4.1792006824061.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "बेसर"
+    },
+    {
+      "surface": "רש",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "चलऽ हइ"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "पूरी साफ दिल से"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "टेढ़ा"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ओकर ओँठ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:24.062108566Z",
+  "model": "glm-5.3"
+}

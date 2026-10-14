@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 32:26",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "मगही के पूरा बाक्य बर जोड़ल क्रिया-पूरक; इब्रानी खाली 'मי यहवे के? हमरा लग' कहऽ हइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "कोनो यहवे के",
+      "rationale": "डेरा के दुआरी पर पुकार — सुनैता के चुनाव बर आह्वान"
+    },
+    {
+      "kind": "you",
+      "subject": "to the camp",
+      "rationale": "मोशे के बोली डेरा के लोग के सीधे संबोधित हकइ"
+    }
+  ],
+  "translation": "आउ मोशे डेरा के दुआरी पर ठाढ़ होलन आउ कहलन: “कोनो यहवे के ⟨हकइ⟩? हमरा लग!” आउ लेवी के सब बेटा ओकरा लग जुट गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "204bd0cbcc38ce6bd8cb7c972bd0136afc21dcf57eee0aed76ce0c57c83d7861",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/32\/25-28.1791989204288.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "आउ ठाढ़ होलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "दुआरी पर"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "डेरा के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लग"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "आउ जुट गेलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:46:44.289658882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 51:7",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨लोग⟩",
+      "rationale": "इब्रानी संबोधन-बनावट में 'लोग' पहिले से बाझल हकइ; मगही के साफ बनावट बर जोड़ल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מרनइया मनुस",
+      "rationale": "אנוש मरनइया मनुस बर खास सब्द हकइ — 'आदमी' से ढेर कमजोरी के भाव"
+    },
+    {
+      "kind": "invitation",
+      "subject": "51:7",
+      "rationale": "'हमरा सुनऽ' — आज्ञारूप संबोधन, शमा के ढाँचा"
+    },
+    {
+      "kind": "you",
+      "subject": "51:7",
+      "rationale": "संबोधित: तोरा हिरदय में रखनिहार लोग"
+    }
+  ],
+  "translation": "हमरा सुनऽ हे त्सेदेक जाननिहार ⟨लोग⟩, हे लोग जेकर हिरदय में हमर तोरा हकइ; मरनइया मनुस के निंदा से डर मत आउ ओकनी के गाली सब से घबरावा मत।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9a4f1e9926828b5cac6f5d4d9ddee63d7f948302d226de0add5e940bec40d0e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/51\/5-8.1791999740488.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "जाननिहार"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "त्सेदेक"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "हमर तोरा"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "हिरदय में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "डर"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "निंदा"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मरनइया मनुस"
+    },
+    {
+      "surface": "ומגדפתם",
+      "gloss": "आउ ओकनी के गाली सब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "घबरावा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:42:20.490003236Z",
+  "model": "glm-5.3"
+}

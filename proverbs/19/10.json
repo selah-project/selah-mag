@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אף כי",
+      "rationale": "'बहुत जादे नञ' (कमतर अलिखत) बनाम 'बल्कि जादे' (बढ़त) — एहू 'how much more' बनाम 'how much less' के जुग हकइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אף",
+      "gloss-source": "",
+      "rationale": "אף के दुसर पढ़ाई 'गुस्सा' — 'गुस्सा कि दास राज करऽ हइ' — बाकि 'बहुत जादे' अलिखत जगह जादे मिलऽ हइ।"
+    }
+  ],
+  "translation": "मूरख बर ऐसन-आराम नञ ठीक हकइ, बहुत जादे नञ कि दास बर जे सरदारन पर राज करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/19\/9-12.1792006814320.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ठीक हकइ"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "मूरख बर"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "ऐसन-आराम"
+    },
+    {
+      "surface": "אף",
+      "gloss": "बहुत जादे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "दास बर"
+    },
+    {
+      "surface": "משל",
+      "gloss": "राज करऽ हइ"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "सरदारन पर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:14.321682884Z",
+  "model": "glm-5.3"
+}

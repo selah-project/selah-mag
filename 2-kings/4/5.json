@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बरतन",
+      "rationale": "मूलपाठ ओकरा लग के लक्ष्य बतावऽ हइ, बरतन सबद आगमन पर बाद के पाठ से स्पस्ट होवऽ हइ"
+    }
+  ],
+  "translation": "वू ⟨את⟩ ओकरे संग से गेलइ आउ दुआरी बन्द कएलन — अपना बर आउ अपना बेटा सब के बर; ऊ ओकरा लग बरतन लावऽ हलन आउ वू अाकर डेलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a9875895850787948e4fff4dee935780dbeec79ea2090b817e82492499e979d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/4\/5-8.1791997839291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "गेलइ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ओकरे संग से"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "बन्द कएलन"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "अपना बर"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "आउ … बर"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "लावऽ हलन"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "आउ वू"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "अाकर डेलक"
+    }
+  ],
+  "timestamp": "2026-10-14T17:10:39.291959182Z",
+  "model": "glm-5.3"
+}

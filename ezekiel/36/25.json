@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טהורים\/וטהרתם\/אטהר",
+      "rationale": "एके जड़ तबर-तबर तीन बेर आवऽ हइ; मगही में साफ\/पवित्तर के दोहराव एकरा पूरा नञ उठावऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल के परजा",
+      "rationale": "यहवे ओकरा देस-निकाला लोग के सीधे बात करऽ हथिन।"
+    }
+  ],
+  "translation": "आउ हम तोहनी के ऊपर साफ पानी छिड़कब, आउ तोहनी साफ होत — तोहनी के सब गंदगी से आउ तोहनी के सब मूरत देवता सब से हम तोहनी के ⟨את⟩ पवित्तर करब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "22db0b8bccbc122b1d89bc6e901f67801c334f3439afc9c5dbe9e05d56ee79a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/36\/25-28.1792002747416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "आउ हम छिड़कब"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तोहनी के ऊपर"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "साफ"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "आउ तोहनी साफ होत"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "तोहनी के सब"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "गंदगी से"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "आउ तोहनी के सब"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "मूरत देवता सब से"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "हम पवित्तर करब"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:32:27.417090091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כן צדקה",
+      "rationale": "'as righteousness [leads] to life' vs 'steadfast in righteousness' — כן read as 'so' or 'firm'"
+    }
+  ],
+  "translation": "जइसन त्सेदेक जिनगी बर हकइ, तइसन जे बुराई के पाछा लागऽ हइ ओकर मौत बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e7f1dabe9583a0dd9bff57175df541ac91dc0defd0875cd49ed04434823b423a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/11\/17-20.1792006648060.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "जइसन…तइसन"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "त्सेदेक"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "जिनगी बर"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "आउ पाछा लागऽ हइ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "למותו",
+      "gloss": "ओकर मौत बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:37:28.061450093Z",
+  "model": "glm-5.3"
+}

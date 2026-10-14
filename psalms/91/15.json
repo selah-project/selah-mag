@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אכבדהו",
+      "rationale": "असली जड़ 'भारी होना' — ओकर भार बढ़ाबइ; 'मान बढ़ाबइ' मुकाबला के चित्र हकइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "पुकारना",
+      "rationale": "पुकारो, जवाब मिलतइ — पद बोलावा बनावट के हकइ।"
+    }
+  ],
+  "translation": "ओ हमरा पुकारतइ आउ हम ओकर जवाब देबइ; बिपत्ती में हम ओकर संग रहबइ; हम ओकरा छुड़ाबइ आउ ओकर मान बढ़ाबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "350e53d9d9d1a37ee4016964f01e5c78257c6a62f78b4d7de4dedb33cf8fdf58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/91\/13-16.1792005735782.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "ओ हमरा पुकारतइ"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "आउ हम ओकर जवाब देबइ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संग"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "बिपत्ती में"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "हम ओकरा छुड़ाबइ"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "आउ ओकर मान बढ़ाबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:15.783665009Z",
+  "model": "glm-5.3"
+}

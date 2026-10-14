@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 16:17",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to his servants",
+      "rationale": "Sha'ul directly addresses his servants with imperatives."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "The softening particle rendered as a mild 'ना' plea; no exact Magahi equivalent."
+    }
+  ],
+  "translation": "आउ शाऊल अपन सेवकन के कहलन — देखऽ, हमरा बर कोनो ऐसन मरद जे बजावे में निपुण होवे, आउ ओकरा हमरा ले आवऊ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2deb5f0605a2be5a59ac1ecad8774917a9104b4e82509b18668e822de2f95417",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/16\/17-20.1791995297592.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "अपन सेवकन"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "מיטיב",
+      "gloss": "निपुण"
+    },
+    {
+      "surface": "לנגן",
+      "gloss": "बजावे में"
+    },
+    {
+      "surface": "והביאותם",
+      "gloss": "आउ ओकरा ले आवऊ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:28:17.593565332Z",
+  "model": "glm-5.3"
+}

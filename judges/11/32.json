@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 11:32",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "להלחם בם",
+      "rationale": "लड़ाई के क्रिया मूल में 'ओकनी के बिरुद्ध लड़ाई करे बर' — मगही में 'ओकनी से लड़ाई के बर' एके बात रखलक।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבר",
+      "rationale": "पद 29 के गुजरना के क्रिया एहियो जारी हइ — यिफ्तह के यात्रा के लय।"
+    }
+  ],
+  "translation": "तब यिफ्तह अम्मोन के बेटा सब के पास ओकनी से लड़ाई के बर गेलन, आउ यहवे ओकनी के ओकरा हाथ में देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a39444027b59617a58ff1ca5890eec9ea6c7f8369d07c927e7a378983177b8d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/11\/29-32.1791994451509.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "तब यिफ्तह पार गेलन"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "यिफ्तह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "लड़ाई के बर"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "आउ देलन ओकनी के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ओकरा हाथ में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:14:11.511098654Z",
+  "model": "glm-5.3"
+}

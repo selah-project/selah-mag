@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמו חי כמו חרון",
+      "rationale": "'जइसन कच्चा जइसन जरल' — कच्चा आउ जरल ईंधन दुनो उड़ जावऽ हइ; KJV 'both living and in his wrath' दूसर पढ़ाई हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישערנו",
+      "rationale": "शब्द-जड़ 'आँधी चलावे' बनाम 'काँटऽ हइ' — क्रोध के बतास के रूप लेलनिहार।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרון",
+      "rationale": "शाब्दिक 'क्रोध के जलन' — बाक्य के जंतरचाल में 'जरल' आउ 'क्रोध' दुनो अरथ एके सब्द में हकइ।"
+    }
+  ],
+  "translation": "एकर भाँड़ा के बेर के आग जाने से पहिले, जइसन कच्चा जइसन जरल, ओकर क्रोध के बतास ओकरा उड़ा देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/58\/9-12.1792005158094.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "से पहिले"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "जाने"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "एकर भाँड़ा"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "बेर के गाछ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "חי",
+      "gloss": "कच्चा"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "जरल \/ क्रोध के जाल"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "बतास उड़ा देतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:38.095442851Z",
+  "model": "glm-5.3"
+}

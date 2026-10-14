@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 7:26",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "गिराबैलन \/ हथिन",
+      "rationale": "इब्रानी पाँती नञ-क्रिया वाला पद नञ हकइ, बाकि मगही के क्रिया चाही — दुनू कोस्ठक में।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חללים",
+      "rationale": "मूल अरथ 'बिन्हा-घायल \/ छेदल' — मगही 'घायल' लेलन, 'घातक रूप से बिन्हा' अरथ के छोड़ऽ हकइ।"
+    }
+  ],
+  "translation": "काहे कि ऊ ढेर घायल ⟨गिराबैलन⟩, आउ ओकर मारल सब बलवान ⟨हथिन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2c5021b10bc9669fdb40cefa6f00269b147edf41173dcd54d74b4455b74f7137",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/7\/25-27.1792006548050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "घायल"
+    },
+    {
+      "surface": "הפילה",
+      "gloss": "गिराबैलन"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הרגיה",
+      "gloss": "ओकर मारल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:48.050933146Z",
+  "model": "glm-5.3"
+}

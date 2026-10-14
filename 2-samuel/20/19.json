@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 20:19",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלמי אמוני ישראל",
+      "rationale": "'हम यिस्राएल के सांति वाला आउ भरोसेमंद लोग में से हिअए' — JPS 'हमनी' पढ़ऽ हइ, KJV 'हम ओकरा में से एक' — एक-बचन बनाम बहु-बचन के फरक।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "माय",
+      "rationale": "ואם 'आउ माय' — नगर के माय-नगर (मुख्य नगर) के रूप में; 'माय' शब्द के आकृति जस के तस रखल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Joab",
+      "rationale": "जनाना योआब के दोसरा प्रस्न में सीधा घेरऽ हइ — काहे यहवे के बिरसत निगलऽ चाहऽ हऽ?"
+    }
+  ],
+  "translation": "हम यिस्राएल के सांति वाला आउ सच्चा लोग में से हिअए; तूँ एक नगर के, यिस्राएल के माय के, मारल चाहऽ हऽ; काहे यहवे के बिरसत के निगलल चाहऽ हऽ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8ad95de7365608618ac7f9b6c305ba9fc9617bdbae2756e6b10e598fadb78a20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/20\/17-20.1791996397154.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "सांति वाला"
+    },
+    {
+      "surface": "אמוני",
+      "gloss": "आउ सच्चा लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "चाहऽ हऽ"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "मारल"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "एक नगर के"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आउ माय"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "תבלע",
+      "gloss": "निगलल चाहऽ हऽ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "बिरसत के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:46:37.155427747Z",
+  "model": "glm-5.3"
+}

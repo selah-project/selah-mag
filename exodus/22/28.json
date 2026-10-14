@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 22:28",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "भँवर के रस",
+      "rationale": "דמע के शाब्दिक अरथ 'आँखी के पानी\/बूँद' — एहिठा अंगूर भँवर के रस, कोनो कोठक नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "यहवे खुद पहिला फल आउ जेठ बेटा बर अपन लोग के आदेश देतऽ हइ।"
+    }
+  ],
+  "translation": "तोहर फसल के भरपूरी आउ तोहर भँवर के रस ले देर नञ कर; तोहर बेटा सब के जेठका हमरा दे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c2af7ba27c532a768ccf1cc6ff3da38ff52fc8ca557f4944e4e16b00a82d4d52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/22\/25-28.1791988821138.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלאתך",
+      "gloss": "तोहर फसल के भरपूरी"
+    },
+    {
+      "surface": "ודמעך",
+      "gloss": "आउ तोहर भँवर के रस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "देर कर"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "जेठका"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "तोहर बेटा सब के"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:40:21.139100537Z",
+  "model": "glm-5.3"
+}

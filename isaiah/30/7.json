@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רהב הם שבת",
+      "rationale": "'रहब — ओ बैठल-ठाढ़' (अक्षर-अक्षर) बनाम KJV 'ओकर ताकत चुप बैठल में हकइ' — अक्षरे रखनी ऐ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רהב",
+      "rationale": "'रहब' बड़बोली के नाम हकइ आउ मिस्रयिम के ताना-नाम के रूप में रखल गेलऽ हकइ; नाम नञ घटाइल जा।"
+    }
+  ],
+  "translation": "आउ मिस्रयिम (मिस्र) — व्यर्थ आउ खाली — मदद करतै; एहे से हम एकरा ए नाम देलियनी: रहब, ओ बैठल-ठाढ़।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f86a79f441d015c3194ba0b934e700b3fb902f89c004290e4fd563b6b813f74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/30\/5-8.1791999238187.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "आउ मिस्रयिम"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "व्यर्थ"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "आउ खाली"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "मदद करतै"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "हम नाम देलियनी"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "एकरा"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "रहब"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "बैठल-ठाढ़"
+    }
+  ],
+  "timestamp": "2026-10-14T17:33:58.188463103Z",
+  "model": "glm-5.3"
+}

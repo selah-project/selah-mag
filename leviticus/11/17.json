@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השלך",
+      "rationale": "जल-काग (cormorant, किंगजेम्स) बनाम पेलिकन — जाति अनिश्चित हकइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הינשוף",
+      "rationale": "तनाख में ई चिरई-नाम केवल अशुद्ध-सूची में मिलऽ हइ, जाति अनिश्चित।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ छोटका उल्लू आउ ⟨את⟩ जल-काग आउ ⟨את⟩ बड़का उल्लू।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/11\/17-20.1791989759218.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "छोटका उल्लू"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "छोटका उल्लू"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "जल-काग"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "जल-काग"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "बड़का उल्लू"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "बड़का उल्लू"
+    }
+  ],
+  "timestamp": "2026-10-14T14:55:59.219417613Z",
+  "model": "glm-5.3"
+}

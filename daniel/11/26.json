@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 11:26",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פת בגו",
+      "rationale": "ई स्वाद-बिटौआ (तनाख़ में केवल एहीं) फ़ारसी के उधार सब्द हकइ — राजा के टेबल के खाना"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकरा",
+      "rationale": "करम-सम्बन्धी सर्बनाम इब्रानी प्रत्यय में भीतरे हकइ, मगही में अलग चाही"
+    }
+  ],
+  "translation": "आउ ओकर स्वाद-बिटौआ के खाए वाला ⟨ओकरा⟩ तोरतइ, आउ ओकर सेना बहि जातइ, आउ ढेर लोग मारल पड़तइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5c68907e5f0fc625db5200ce256dfbd7692c5bd13602fd261b25b8bbf3f9a158",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/11\/25-28.1792009199081.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלי",
+      "gloss": "आउ … खाए वाला"
+    },
+    {
+      "surface": "פת",
+      "gloss": "स्वाद-बिटौआ"
+    },
+    {
+      "surface": "בגו",
+      "gloss": "खाने के स्वादिष्ट चीज"
+    },
+    {
+      "surface": "ישברוהו",
+      "gloss": "ओकरा तोरतइ"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "आउ ओकर सेना"
+    },
+    {
+      "surface": "ישטוף",
+      "gloss": "बहि जातइ"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "आउ … पड़तइ"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "मारल लोग"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:19:59.082053302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,199 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 3:15",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "वाद्य-नाम",
+      "rationale": "Aramaic instrument list (קרנא משרוויתא קיתרס שבכא פסנתרין סומפניה) rendered by nearest Magahi instruments; exact identity of each is uncertain."
+    },
+    {
+      "kind": "elision",
+      "subject": "טוב 'well'",
+      "rationale": "JPS 'well' — the Aramaic leaves the good outcome unstated; supplied here as ठीक हइ."
+    },
+    {
+      "kind": "you",
+      "subject": "तीनों केरा",
+      "rationale": "direct challenge-question addressed to the three men."
+    }
+  ],
+  "translation": "अबहीं अगर तोनी तैयार ही कि जइसन समय तोनी सिंग, बाँसुरी, कितार, वीणा, साज, बाजा आउ हर तरह के बाजा के आवाज सुनब, तब गिरब आउ ओ मूरत के दण्डवत करब जे हम बनएलियनी — ठीक हइ; बाकि अगर दण्डवत नञ करब, त' ओही घड़ी तोनी के जरत आग के भट्ठी के बीच में ढकेल देल जातइ; आउ कोन देवता हइ जे तोनी के हमर हाथ से छुड़ातइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "26727df9c02b408a8c562992b9027dc8f78413a7dffad5f46f9e777eaed371df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/3\/13-16.1792008961851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "הן",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "איתיכון",
+      "gloss": "⟨ही⟩"
+    },
+    {
+      "surface": "עתידין",
+      "gloss": "तैयार"
+    },
+    {
+      "surface": "די",
+      "gloss": "कि"
+    },
+    {
+      "surface": "בעדנא",
+      "gloss": "समय"
+    },
+    {
+      "surface": "די",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "सुनब"
+    },
+    {
+      "surface": "קל",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "קרנא",
+      "gloss": "सिंग"
+    },
+    {
+      "surface": "משרוקיתא",
+      "gloss": "बाँसुरी"
+    },
+    {
+      "surface": "קיתרס",
+      "gloss": "कितार"
+    },
+    {
+      "surface": "שבכא",
+      "gloss": "वीणा"
+    },
+    {
+      "surface": "פסנתרין",
+      "gloss": "साज"
+    },
+    {
+      "surface": "וסומפניה",
+      "gloss": "बाजा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ हर"
+    },
+    {
+      "surface": "זני",
+      "gloss": "तरह के"
+    },
+    {
+      "surface": "זמרא",
+      "gloss": "बाजा"
+    },
+    {
+      "surface": "תפלון",
+      "gloss": "गिरब"
+    },
+    {
+      "surface": "ותסגדון",
+      "gloss": "आउ दण्डवत करब"
+    },
+    {
+      "surface": "לצלמא",
+      "gloss": "मूरत के"
+    },
+    {
+      "surface": "די",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "बनएलियनी"
+    },
+    {
+      "surface": "והן",
+      "gloss": "बाकि अगर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תסגדון",
+      "gloss": "दण्डवत करब"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "שעתה",
+      "gloss": "घड़ी"
+    },
+    {
+      "surface": "תתרמון",
+      "gloss": "ढकेल देल जातइ"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "भट्ठी"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "आग के"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "जरत"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आउ कोन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨हइ⟩"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "देवता"
+    },
+    {
+      "surface": "די",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ישיזבנכון",
+      "gloss": "छुड़ातइ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हमर हाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:16:01.853668300Z",
+  "model": "glm-5.3"
+}

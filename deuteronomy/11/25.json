@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 11:25",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פני",
+      "rationale": "Hebrew 'upon the face of all the land' rendered 'ओहि सब धरती के मुँह पर' — face idiom for 'over the whole land'."
+    },
+    {
+      "kind": "addition",
+      "subject": "हो पातइ",
+      "rationale": "Hebrew יתיצב lacks ability nuance; 'be able' supplied to carry the negative sense of no man standing."
+    }
+  ],
+  "translation": "कोनो मनुस तोहनी के सामने ठाढ़ नञ हो पातइ; तोहनी के डर आउ तोहनी के भय यहवे तोहनी के एलोहीम ओहि सब धरती के मुँह पर धरतन, जेकरा ऊपर तोहनी गोड़ धरब, जइसन तोहनी सब से कहलन हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a580d3b918aab859bea1fbb8c5d74578c1f424889aa8aa38792c920dfdb8e3e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/11\/25-28.1791992203842.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ठाढ़ हो पातइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोनो मनुस"
+    },
+    {
+      "surface": "בפניכם",
+      "gloss": "तोहनी के सामने"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "तोहनी के डर"
+    },
+    {
+      "surface": "ומוראכם",
+      "gloss": "आउ तोहनी के भय"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "धरतन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "תדרכו",
+      "gloss": "गोड़ धरब"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी से"
+    }
+  ],
+  "timestamp": "2026-10-14T15:36:43.842690723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आथिन",
+      "rationale": "इबरानी में क्रिया नञ हइ — 'एलोहीम हमर बर' जस के तस ठाढ़ हइ"
+    }
+  ],
+  "translation": "तब हमर दुसमन पाछे जइतै ओ दिन जब हम पुकारब; ई हम जानने हम कि एलोहीम हमर बर ⟨आथिन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/56\/9-12.1792005130102.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "पाछे जइतै"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "हमर दुसमन"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पाछे"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओ दिन"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "जब हम पुकारब"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "हम जानने हम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:10.102844601Z",
+  "model": "glm-5.3"
+}

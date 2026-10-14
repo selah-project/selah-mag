@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קולי אל אלהים",
+      "rationale": "„हमर बोली एलोहीम के दने” दू बेर दोहरावल गेलइ — पूरा पद एके जोड़ के गूँज हकइ।"
+    }
+  ],
+  "translation": "हमर बोली एलोहीम के दने जा रहलइ हे आउ हम चिचियाबइ; हमर बोली एलोहीम के दने जा रहलइ हे आउ ऊ हमरा कान देतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ac36b624f484cbc0cfdb97169212bf6862166553e03ee1f37780cad82100b747",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/77\/1-4.1792005456503.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "हमर बोली"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "आउ हम चिचियाबइ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "हमर बोली"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "आउ ऊ हमरा कान देतन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:36.504142554Z",
+  "model": "glm-5.3"
+}

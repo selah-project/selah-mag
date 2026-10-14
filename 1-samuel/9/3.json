@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 9:3",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "'चाहऽ त' — विनम्रता के कण, आदेस के नरमी; पूरा अरथ नञ आ सकऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जे शाउल के बाप हलइ",
+      "rationale": "אבי שאול संयुक्त रूप के अलग करे बर सापेक्ष उपबाक्य जोड़ल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "किश शाउल से",
+      "rationale": "पिता द्वारा पुत्र के प्रत्यक्ष सम्बोधन — आदेस।"
+    }
+  ],
+  "translation": "आउ गधिनी हरा गेलन — किश के, जे शाउल के बाप हलइ — आउ किश ओकर बेटा शाउल से कहलन: तूँ चाहऽ त अपना ⟨את⟩ संग नौजवानसब में से ⟨את⟩ एक ले, आउ उठ, जा, ⟨את⟩ गधिनी के खोज कर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "06b6e753e2393e863a91a5c6cc68639c70db572f354210b6cadfd11bf7fd0069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/9\/1-4.1791994984423.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאבדנה",
+      "gloss": "आउ हरा गेलन"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "गधिनी"
+    },
+    {
+      "surface": "לקיש",
+      "gloss": "किश के"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "बाप"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "किश"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ले"
+    },
+    {
+      "surface": "נא",
+      "gloss": "चाहऽ त"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ संग"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नौजवानसब में से एक"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "नौजवानसब में से"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "आउ उठ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "खोज कर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गधिनी"
+    },
+    {
+      "surface": "האתנת",
+      "gloss": "गधिनी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:23:04.424734971Z",
+  "model": "glm-5.3"
+}

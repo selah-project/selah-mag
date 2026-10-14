@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "एलोहीम",
+      "rationale": "दाविद सीधा एलोहीम से बिनती करऽ हे — 'हमर एलोहीम' कह के पुकारऽ हे।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ऊँच-सुरक्छित",
+      "rationale": "שגב के मूल चित्र 'ऊँच आउ अपुंज्य बनाना' हकइ; खाली 'बचाना' कहला से ऊँचाई के चित्र हट जातइ।"
+    }
+  ],
+  "translation": "हमरा हमर बैरियन के हाथ से छुड़ावऽ, हमर एलोहीम; जे हमरा ऊपर उठऽ हथिन, ओकनी के से हमरा ऊँच-सुरक्छित करऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c0b70d92579ed9dd3f30eb42c51f419df05ea4be88a0437c02de67ebc83d47e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/59\/1-2.1792012044036.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "हमरा छुड़ावऽ"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "हमर बैरियन के हाथ से"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "जे हमरा ऊपर उठऽ हथिन, ओकनी के से"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "हमरा ऊँच-सुरक्छित करऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:24.037388014Z",
+  "model": "glm-5.3"
+}

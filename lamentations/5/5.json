@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आउ",
+      "rationale": "मगही बाक्य-जोड़ बर; इब्रानी केवल छोट 'लא हונח לנו' कहऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "על צוארנו",
+      "rationale": "'हमनी के गरदन पर' — कुछ अनुवाद 'पीछा करए वाला हमनी के गरदन पर हकइ' (ASV), कुछ 'गरदन के दबाव में' (KJV) लेथिन"
+    }
+  ],
+  "translation": "हमनी के गरदन पर हमनी के पीछा करल गेलन; हमनी थक गेलहुँ छियई, आउ हमनी के बिसराम नञ देल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e4897c6c587e63c6fc9ff098eb02feddcb2cb6503c7cd2489c8e2ddd86242a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/5\/5-8.1792008312823.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "हमनी के गरदन"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "हमनी के पीछा करल गेलन"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "हमनी थक गेलहुँ छियई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "बिसराम देल गेलन"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:12.823961614Z",
+  "model": "glm-5.3"
+}

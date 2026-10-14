@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨संग⟩",
+      "rationale": "אתו (एकरा संग) के बाक्य चलावे बर मगही में अलग सब्द चाही।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחזק",
+      "rationale": "'ताकत से' बनाम 'संघर्ष करते \/ बलवान बनिये' — इब्रानी अस्पस्ट हकइ कि ऊ कइसन अइतन।"
+    }
+  ],
+  "translation": "देख, अदोनाय यहवे ताकत से अइतन, आउ ओकर भुजा मालिकी करऽ हइ; देख, ओकर इनाम ⟨संग⟩ ⟨את⟩ आउ ओकर कामकाज ओकर आगे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2b45e05ca91f290114752edbe6c4ea89335c575badc0098a7398ad28ad321a5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/40\/9-12.1791999448235.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "ताकत से"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "अइतन"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "आउ ओकर भुजा"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "मालिकी करऽ हइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर बर"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "ओकर इनाम"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर इनाम"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "आउ ओकर कामकाज"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकर आगे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:37:28.236276505Z",
+  "model": "glm-5.3"
+}

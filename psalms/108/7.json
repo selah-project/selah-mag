@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "यמינ्क वअननि क्रम",
+      "rationale": "हिब्रू में 'बचा, तोहर दहिन्ना हाथ' — किछु अनुवादक दहिन्ना हाथ के सम्बोधन मानऽ हथिन, किछु साधन मानऽ हथिन"
+    },
+    {
+      "kind": "you",
+      "subject": "एलोहीम",
+      "rationale": "सीधा अरदेस — एलोहीम के सम्बोधन"
+    }
+  ],
+  "translation": "जेसे तोहर परेम कएलोक छूटलोक जा सकथिन — तोहर दहिन्ना हाथ बचा देऊ, आउ हमर जबाब देऊ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "accf66eeec04db68f48acba385f6d0ae670b2523cdd4a238306592ca49395313",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/108\/6-7.1792012105234.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "जेसे"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "छूटलोक जा सकथिन"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "तोहर परेम कएलोक"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "बचा देऊ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "तोहर दहिन्ना हाथ"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "आउ हमर जबाब देऊ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:25.234924045Z",
+  "model": "glm-5.3"
+}

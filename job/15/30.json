@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברוח פיו",
+      "rationale": "'By the breath of his mouth' — most versions take it as God's mouth; Hebrew pronoun is ambiguous, kept literal."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ऊकरा⟩",
+      "rationale": "Object pronoun supplied — Hebrew verb ויסור carries the object implicitly."
+    }
+  ],
+  "translation": "ऊ अन्हार से नञ बचतइ; लपेट आग ओकर टहनू के सुखा देतइ, आउ ओकर मुँह के बतास ⟨ऊकरा⟩ उड़ा देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a8bcaa390c87ce71762439cbb59e98dc614e067ab78b1cb4c970a6b4c74fa02f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/15\/29-32.1792007427694.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "बचतइ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "से"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्हार"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "ओकर टहनू"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "सुखा देतइ"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "लपेट आग"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "उड़ा देतइ"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "के बतास"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ओकर मुँह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:50:27.695096484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 39:13",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רננים \/ חסידה",
+      "rationale": "कुछ अनुवाद 'शुतुरमुर्ग़' कहऽ हइ (KJV), कुछ 'बाज़' (YLT); रननिम के अरथ चिल्लावे वाला चिड़ैया हकइ; चसीदा दुतिया हकइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נעלסה",
+      "rationale": " lemma अलस के रूप — उछल-उछल के उड़ाव देना; ई रूप तनाख़ में कहीं नञ मिलऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסידה \/ חסיד",
+      "rationale": "दुतिया के नाम 'हियावऽ बाला' (हेसेद जड़) से बनल हकइ — चिड़ैया के नाम में नरमी के बात, बाकि संग वाला शुतुरमुर्ग़ में ओहे नरमी नञ हकइ"
+    }
+  ],
+  "translation": "रननिम के परख उड़ाव देवऽ हइ — की ऊ हियावऽ बाला दुतिया के परख आउ पंखा हकइ? ⟨चिड़ैया के⟩",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0d9575c97f6212d68123822bbbb901a38e1d1fd5f981c12c6b16ecfe6257aeac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/39\/13-16.1792007891223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנף",
+      "gloss": "परख"
+    },
+    {
+      "surface": "רננים",
+      "gloss": "रननिम"
+    },
+    {
+      "surface": "נעלסה",
+      "gloss": "उड़ाव देवऽ हइ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "की"
+    },
+    {
+      "surface": "אברה",
+      "gloss": "परख"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "हियावऽ बाला दुतिया"
+    },
+    {
+      "surface": "ונצה",
+      "gloss": "आउ पंखा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:58:11.224484068Z",
+  "model": "glm-5.3"
+}

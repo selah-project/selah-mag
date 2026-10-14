@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आउ ⟨भेल⟩",
+      "rationale": "ויהी मगही कथन में क्रिया माँगऽ हइ, इब्रानी के साफ क्रिया-सुरुआ हकइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ובנתיה",
+      "rationale": "'आउ ओकर बेटी' के मतलब गत के आस-पास के गाम हकइ"
+    }
+  ],
+  "translation": "आउ एकरा बाद दाविद पलिस्ती के मारलन आउ ओकरा झुका देलन; आउ पलिस्ती के हाथ से गत आउ ओकर गाम-गिराम लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/18\/1-4.1792010305680.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ ⟨भेल⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "एकरा बाद"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एकरा बाद"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पलिस्ती के"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिस्ती के"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "झुका देलन"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गत"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गत"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "आउ ओकर गाम-गिराम"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिस्ती के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:38:25.681074311Z",
+  "model": "glm-5.3"
+}

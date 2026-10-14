@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "उचारतइ",
+      "rationale": "יהגה के सुभाविक अरथ 'गुनगुनावऽ \/ बार-बार गाँवऽ' हकइ; मगही में 'उचारतइ' लेल गेलइ।"
+    }
+  ],
+  "translation": "त्सेदेक वाला के मुँह सियानप उचारतइ, आउ ओकर जीभ नियाव के बात करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9df869ae84e9d14d25c9fd70164770b15ed12d9660f4b459d621f3c963873834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/37\/29-32.1792004942654.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "त्सेदेक वाला के"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "उचारतइ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "सियानप"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "आउ ओकर जीभ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "बात करतइ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:02.654751208Z",
+  "model": "glm-5.3"
+}

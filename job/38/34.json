@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 38:34",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "की",
+      "rationale": "interrogative ה rendered as की, Magahi's question word"
+    },
+    {
+      "kind": "you",
+      "subject": "to अय्यूब",
+      "rationale": "direct second-person address continues in YHWH's questioning"
+    }
+  ],
+  "translation": "की तूँ बादर के ओहटे तोहर बोली उठावऽ हऽ — आउ पानी के ढेर तोहाँ के ढाँकतइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ffc7a8c2bb3a4ce7777be19ed9ca54c8d2f36715c7280adce13a2c2db8b13f3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/38\/33-36.1792007860825.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התרים",
+      "gloss": "की तूँ उठावऽ हऽ"
+    },
+    {
+      "surface": "לעב",
+      "gloss": "बादर के ओहटे"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "तोहर बोली"
+    },
+    {
+      "surface": "ושפעת",
+      "gloss": "आउ ढेर"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "तोहाँ के ढाँकतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:57:40.825608581Z",
+  "model": "glm-5.3"
+}

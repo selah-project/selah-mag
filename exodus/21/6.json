@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 21:6",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "एलोहीम के पास",
+      "rationale": "האלהים — 'unto God' (ASV\/JPS) vs 'unto the judges' (KJV, reading local sense); rendered literally without foreknowledge"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सुइ",
+      "rationale": "מרצע is an awl (boring tool); सुइ chosen as nearest tool word"
+    }
+  ],
+  "translation": "तब ओकर मालिक ओका एलोहीम के पास लातइ, आउ ओका दुआरी के पास या दुआरी-खम्भा के पास लातइ; आउ ओकर मालिक सुइ ले ⟨את⟩ ओकर कान के छेदतइ आउ ऊ ओकर बर सदा दासी करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/21\/5-8.1791988749796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגישו",
+      "gloss": "तब ओकर मालिक ओका लातइ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ओकर मालिक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "והגישו",
+      "gloss": "आउ ओका लातइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "המזוזה",
+      "gloss": "दुआरी-खम्भा"
+    },
+    {
+      "surface": "ורצע",
+      "gloss": "आउ छेदतइ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ओकर मालिक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर कान के"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ओकर कान"
+    },
+    {
+      "surface": "במרצע",
+      "gloss": "सुइ ले"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "आउ दासी करतइ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "सदा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:39:09.797386352Z",
+  "model": "glm-5.3"
+}

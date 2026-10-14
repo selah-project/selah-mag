@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלי פלשת התרोעעי",
+      "rationale": "'हमर कारन जय-नारा लगा' बनाम 'हमर बिरोध में चिल्ला' — KJV\/JPS 'because of me' लेवे हइ, ई कौम बिजयी या बिरोधी दुनो हो सकऽ हइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "जूता फेंकना",
+      "rationale": "पुरान समय में जमीन पर अधिकार जतावे के चलन — इब्रानी के बिम्ब जस के तस रखल गेल"
+    }
+  ],
+  "translation": "मोआब हमर नहावे के बर्तन ⟨हकइ⟩; एदोम के ऊपर हम अपन जूता फेंकब; हमर कारन, हे पलेशेत, तूँ जय-नारा लगा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/60\/9-12.1792005235060.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "बर्तन"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "हमर नहावे के"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "हम फेंकब"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "हमर जूता"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमर कारन"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "पलेशेत"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "तूँ जय-नारा लगा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:55.061501511Z",
+  "model": "glm-5.3"
+}

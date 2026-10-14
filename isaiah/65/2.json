@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 65:2",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בגावत",
+      "rationale": "סורר literally 'one who turns away'; rendered as Magahi word for rebellious\/stubborn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "नियाम",
+      "rationale": "טוב 'good' rendered by Magahi नियाम (proper\/right); negative 'not good' as नियाम नञ"
+    }
+  ],
+  "translation": "हम अपन दूनो हाथ सब दिन फइलाइलन अइसन बगावत लोग के दने, जे अइसन रस्ता पर चलऽ हथिन जे नियाम नञ हकइ, अपन इरादा के पाछे-पाछे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e3b5f8599cdbc285d3e698b08fb7c669c743d9daac2eef86a08786eab9a5fe99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/65\/2-3.1792011902653.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "फइलाइलन"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हमर दूनो हाथ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "बगावत"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "जे चलऽ हथिन"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "अइसन रस्ता पर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नियाम"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "के पाछे-पाछे"
+    },
+    {
+      "surface": "מחשבתיהם",
+      "gloss": "अपन इरादा"
+    }
+  ],
+  "timestamp": "2026-10-14T21:05:02.654394811Z",
+  "model": "glm-5.3"
+}

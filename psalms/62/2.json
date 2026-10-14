@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नफेश के अरथ परान — जीवन-शक्ति, नञ कोनो अलग आत्मा।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "एके",
+      "rationale": "अख के दुअर अरथ — 'खाली' (परति-सीमा) या 'सचमुच' (पक्का करना); 'एके' दुनो के नजदीक हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "पद 2 आउ 5",
+      "rationale": "ई पद 62:5 में लगभग जस के तस दोहरावल गेलइ — गाथा के ताना-पट्टा, जे अनुवाद में दिखऽ हकइ।"
+    }
+  ],
+  "translation": "एके एलोहीम के ऊपर चुप रहलइ हे हमर परान; ओकरा से हमर बचाव हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "99a02712f8da45a1a4f3f7df4dc6dec9be442ed979a6e6c10ebe842f699d54a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/62\/1-4.1792005259857.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "एके"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "चुप रहलइ हे"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "हमर बचाव"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:19.858422311Z",
+  "model": "glm-5.3"
+}

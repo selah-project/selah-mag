@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "अन्तिम पदलिपि में क्रिया नञ हइ; मगही वाक्य बर जोड़ल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבימלך",
+      "rationale": "शमूएल 8:17 में अहिमेलेख हकइ, एतय अबिमेलेख — पुरानपाठ के नाम-भेद"
+    }
+  ],
+  "translation": "आउ त्सादोक, अहितूब के बेटा, आउ अबिमेलेख, अब्यातार के बेटा, पुरोहित हलन, आउ शावशा लिखाकुन ⟨हलन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/18\/13-16.1792010283637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "आउ त्सादोक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "अहितूब"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "आउ अबिमेलेख"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "अब्यातार"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "आउ शावशा"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "लिखाकुन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:38:03.638407573Z",
+  "model": "glm-5.3"
+}

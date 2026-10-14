@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "5 : 100 : 10,000",
+      "rationale": "escalating ratios of pursuit, numbers kept exact"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבבה",
+      "rationale": "a myriad (ten thousand) vs indefinite 'multitude'; exact number kept as दस हजार"
+    }
+  ],
+  "translation": "आउ तोहनी में से पाँच सौ के पीछा करतइ, आउ तोहनी में से सौ हजार के पीछा करतइ; आउ तोहनी के दुस्मन तोहनी के आगू तलवार ले गिरतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "870d0c3724ce02db0aea13fe0b82dfd693986f615f07c0d759671d188980ccba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/26\/5-8.1791990407407.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "आउ पीछा करतइ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "तोहनी में से"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "आउ सौ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "तोहनी में से"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "हजार (दस हजार)"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "पीछा करतइ"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "आउ गिरतन"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "तोहनी के दुस्मन"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "तोहनी के आगू"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "तलवार ले"
+    }
+  ],
+  "timestamp": "2026-10-14T15:06:47.408169469Z",
+  "model": "glm-5.3"
+}

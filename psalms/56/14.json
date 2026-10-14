@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש साँस\/जीवन-बल हकइ, देह के अंश नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "कइयन अनुवाद एकरा प्रस्नगत रूप में रखऽ हइ ('की नञ?'), कइयन दृढ़ कथन जइसन पढ़ऽ हइ ('निस्चय' — जिस पर बचाव होए गेल)"
+    },
+    {
+      "kind": "addition",
+      "subject": "?",
+      "rationale": "हेब्रू प्रस्न-चिन्हा नञ रखऽ हइ; मगही में प्रस्न के सुर बर जोड़ल गेलइ"
+    }
+  ],
+  "translation": "काहे कि तूँ हमर परान के मौत से बचेलन — की नञ हमर गोड़ धक्का से? — एलोहीम के सामने जिअता के इँजोर में टहलै बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8ce15f1bd49ea8a6c5a21311a0669f0a6c2ccf07f0cb165dd82d2a66b4fc59d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/56\/13-14.1792005129697.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "तूँ ... बचेलन"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "मौत से"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "की नञ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "हमर गोड़"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "धक्का से"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "टहलै बर"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "באור",
+      "gloss": "इँजोर में"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जिअता के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:09.698324328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "दक्खिन",
+      "rationale": "נגב साफ दक्खिन के देस हकइ; 'नेगेब' लिप्यन्तरन के बदला अरथ-सब्द लेल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צקלג",
+      "rationale": "त्सिक्लाग नाम ई पद में तीन बेर दोहरावल गेल हइ — आक्रमण के तीन किरिया एके निसाना पर।"
+    }
+  ],
+  "translation": "भेल, जब दाविद आउ ओकर मरद तिसरा दिन त्सिक्लाग अइलन, त अमालेकी लोग दक्खिन आउ त्सिक्लाग पर धाव देलन, आउ ओकनी ⟨את⟩ त्सिक्लाग के मारलन आउ ⟨את⟩ ओकरा आग में जरा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5a1cae895f30f68d8204c6f76e15ef79df17cc33d17bcd369bcea9b5c53f4ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/30\/1-4.1791995765296.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भेल"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "अइला"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "आउ ओकर मरद"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "त्सिक्लाग"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तिसरा"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "आउ अमालेकी लोग"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "धाव देलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "दक्खिन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ पर"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "त्सिक्लाग"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्सिक्लाग"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "त्सिक्लाग"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "जरा देलन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:36:05.296747597Z",
+  "model": "glm-5.3"
+}

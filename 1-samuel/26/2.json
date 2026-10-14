@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "three thousand",
+      "rationale": "सैन्य-गिनती: तीन हजार चुनल मरद"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואתו",
+      "rationale": "अंग्रेजी 'with him'; इब्रानी ⟨את⟩-युक्त सर्बनाम जस के तस देखावल गेल"
+    }
+  ],
+  "translation": "तब शाऊल उठलन आउ जिफ के उजाड़ में उतरलन, आउ ओकरा ⟨את⟩ संग तीन हजार चुनल मरद — यिस्राएल के बछौत — दाविद के ⟨את⟩ जिफ के उजाड़ में खोजे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "82e5e74b0536333054c652363fbbf2e62bc35524e739e4c18f504836c58271c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/26\/1-4.1791995678285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "उतरलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "जिफ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ संग"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "चुनल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "खोजे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाविद"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "उजाड़ में"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "जिफ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:34:38.286329542Z",
+  "model": "glm-5.3"
+}

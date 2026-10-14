@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "तोहर संग \/ तोहर मुँह",
+      "rationale": "KJV 'with me', बाकी सब 'with us' — हेबरू तो अस्पष्ट हकइ; मगही में 'जातइ' अस्पष्टता रखऽ हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "मोशे के यहवे से",
+      "rationale": "यहवे के आगे मोशे के सीधा बिनती।"
+    }
+  ],
+  "translation": "आउ ओकरा कहलन: जँ तोहर मुँह नञ जातइ, तँ हमनी के एहाँ से मत चढ़ाव।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/33\/13-16.1791989234157.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहर मुँह"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "जातइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "हमनी के... चढ़ाव"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "एहाँ से"
+    }
+  ],
+  "timestamp": "2026-10-14T14:47:14.158640944Z",
+  "model": "glm-5.3"
+}

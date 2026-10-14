@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हुकुम-सिक्सा",
+      "rationale": "मוסר — ताड़ना आउ सिक्सा दूनो अरथ; एक मगही सब्द में पूरा नञ आवे"
+    }
+  ],
+  "translation": "हुकुम-सिक्सा आउ गुन-समझ जाने बर, समझ-बूझ के बात-बिचार समझे बर —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2cca88d6c846f7141918ca5763a5e9df5eccf4f1fb0f0a227eb2c343c45abd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/1\/1-4.1792006421490.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "जाने बर"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "गुन-समझ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "आउ हुकुम-सिक्सा"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "समझे बर"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "के बात-बिचार"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ-बूझ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:41.490989911Z",
+  "model": "glm-5.3"
+}

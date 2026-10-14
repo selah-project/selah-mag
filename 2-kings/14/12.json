@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ लोग",
+      "rationale": "इब्रानी के करता अनुमान से जोड़ल — भागै वाला यहूदा के सिपाही।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וינגף",
+      "rationale": "निफाल रूप — 'सिँह के सींग मारे जइसन हराएलन', संगे-संगे पद 11 के 'मुँह देखलन' के जवाब।"
+    }
+  ],
+  "translation": "आउ यहूदा यिस्राएल के आगू हर गेलन, आउ ऊ लोग भागलन — हर एक आदमी अपन टेंट ला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "79f467376183c28b72dd2cf392ec7129f17760c8fe22176f7423bbde43e6a6ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/14\/9-12.1791998051850.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "हर गेलन"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "भागलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक आदमी"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "अपन टेंट ला"
+    }
+  ],
+  "timestamp": "2026-10-14T17:14:11.851656101Z",
+  "model": "glm-5.3"
+}

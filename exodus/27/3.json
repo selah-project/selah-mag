@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 27:3",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לדשנו",
+      "rationale": "शाब्दिक अरथ 'ओकरा मोटा करे बर' (चिकना राख बर); मगही में 'राख हटावे बर' रूप में गेल"
+    }
+  ],
+  "translation": "आउ तूँ ओकर हांड़ी बनइबइ ओकर राख हटावे बर, आउ ओकर फावड़ी, आउ ओकर कटोरा, आउ ओकर काँटा, आउ ओकर अँगीठी-पात्र; ओकर सब बर्तन तूँ ताँबे के बनइबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "af94911547d91b63b616ff6bfa23579f4a1346476cae516f31c164523953c483",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/27\/1-4.1791988924761.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "आउ तूँ बनइबइ"
+    },
+    {
+      "surface": "סירתיו",
+      "gloss": "ओकर हांड़ी"
+    },
+    {
+      "surface": "לדשנו",
+      "gloss": "ओकर राख हटावे बर"
+    },
+    {
+      "surface": "ויעיו",
+      "gloss": "आउ ओकर फावड़ी"
+    },
+    {
+      "surface": "ומזרקתיו",
+      "gloss": "आउ ओकर कटोरा"
+    },
+    {
+      "surface": "ומזלגתיו",
+      "gloss": "आउ ओकर काँटा"
+    },
+    {
+      "surface": "ומחתתיו",
+      "gloss": "आउ ओकर अँगीठी-पात्र"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ओकर सब"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "बर्तन"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तूँ बनइबइ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ताँबे के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:42:04.762010955Z",
+  "model": "glm-5.3"
+}

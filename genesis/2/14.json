@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "नदी के नाम",
+      "rationale": "चार नदी के सूची पूरा होईल — तीसर आउ चउथा"
+    },
+    {
+      "kind": "substitution",
+      "subject": "जाऽ हइ",
+      "rationale": "ההלך 'चलय वाला' — नदी बर मगही में 'जाऽ हइ' (बहऽ हइ) चलन के सब्द"
+    }
+  ],
+  "translation": "आउ तीसर नदी के नाम हिद्देकेल हकइ; ऊ अस्सुर के पूरब दने जाऽ हइ; आउ चउथा नदी ऊ परात हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "14f0223bd1b8e83407ebe79d114a0b4fa0171a216471f3943887d0585327e69a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/2\/13-16.1791986230212.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "आउ … के नाम"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "नदी के"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तीसर"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "हिद्देकेल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "जाऽ हइ"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "पूरब दने"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सुर के"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "आउ नदी"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चउथा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "परात"
+    }
+  ],
+  "timestamp": "2026-10-14T13:57:10.212744963Z",
+  "model": "glm-5.3"
+}

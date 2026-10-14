@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के क्रिया जोड़ल गेलइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "बाट जोहना",
+      "rationale": "קוה के साक्षात अरथ 'मिलावा जोहना' हकइ; आस राखना एकर सुभाविक अरथ हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "तूँ",
+      "rationale": "परमेश्वर के सीधे सम्बोधन, एक-बचन"
+    }
+  ],
+  "translation": "तूँ हमनी के अपना सच में चलावऽ आउ सिखावऽ, काहे कि तूँ हमर छुटकारा के एलोहीम ⟨हथिन⟩; ⟨את⟩ तोहनी हम सारा दिन बाट जोहत रहलिए।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/25\/5-8.1792004734641.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "हमनी के चलावऽ"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "अपना सच में"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "आउ सिखावऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "हमर छुटकारा के"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "बाट जोहत रहलिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:05:34.642298250Z",
+  "model": "glm-5.3"
+}

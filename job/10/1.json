@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 10:1",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नפש साँस-जीवन-शक्ति हकइ; 'आत्मा' जइसन परति-अरथ नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "छोड़ देबइ हमर ऊपर",
+      "rationale": "אעזבה עלי — 'हमर ऊपर छोड़ देबइ' बनाम 'हमरा ढिल करबइ': दुनो पढ़ाव परम्परा में हइ।"
+    }
+  ],
+  "translation": "हमर परान हमर जिनगी से घिन करऽ हइ; हम हमर बिलाव ⟨हमर ऊपर⟩ छोड़ देबइ; हम हमर परान के कड़ुआही में कहबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5c6d878a811646b7a88878299167ae17e98b8886ae2974951a2f13d18b536515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/10\/1-4.1792007354340.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקטה",
+      "gloss": "घिन करऽ हइ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "हमर जिनगी से"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "छोड़ देबइ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमर ऊपर"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "हमर बिलाव"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "कहबइ"
+    },
+    {
+      "surface": "במר",
+      "gloss": "कड़ुआही में"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:49:14.341151333Z",
+  "model": "glm-5.3"
+}

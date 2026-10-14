@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मरद",
+      "rationale": "איש here marks an individual man, 'one man', folded into 'एक मरद'"
+    }
+  ],
+  "translation": "आउ ओन खेत में एक मिस्रयिमी मरद के भेटलन, आउ ⟨את⟩ ओकरा दाविद के पास लेलन गेलन, आउ ओकरा रोटी देलन आउ ओ खइलन, आउ ओकरा पानी पिअवलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/30\/9-12.1791995657125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "भेटलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "मिस्रयिमी"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "लेलन गेलन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "खइलन"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "पिअवलन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:34:17.126794851Z",
+  "model": "glm-5.3"
+}

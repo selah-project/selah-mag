@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "במות",
+      "rationale": "‘ऊँच जगह’ — बलि-स्थल बर बनल ऊँच जगह के खास बिधान-शब्द"
+    }
+  ],
+  "translation": "आउ ऊ बलि देलन आउ सुगन्ध-धुआँ चढ़ैलन ऊँच जगह पर, आउ पहाड़ी पर, आउ हरेक हरियर गाछ के नीचे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "70b7894f776396b111e608730403b00eeab34480c8bcb7a3159642fa03c263bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/16\/1-4.1791998237763.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "आउ ऊ बलि देलन"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "आउ धुआँ चढ़ैलन"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ऊँच जगह पर"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ…पर"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "पहाड़ी"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "आउ…के नीचे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "गाछ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "हरियर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:17:17.764517472Z",
+  "model": "glm-5.3"
+}

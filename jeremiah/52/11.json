@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 52:11",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בית הפקדת",
+      "rationale": "सचमुच 'नजर कइल जाय वाला के घर' (पाकेद = चुनल-गिनल जगह); 'नजर-घर' कइल गेल — 'जेल' आज के बचन होतइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד יום מותו",
+      "rationale": "काल के हद गिनल गेलइ — ओकर मरन के दिन ले, कोनो छुटकारा के बिना।"
+    }
+  ],
+  "translation": "आउ ⟨ואת⟩ सिदकियाहू के आँखी अँधइ कइलक, आउ ओकरा ताम्र के जंजीर में बान्धलक; आउ बाबुल के राजा ओकरा बाबुल ले गेलन, आउ ओकरा नजर-घर में रखलन, ओकर मरन के दिन ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f774a354f1bb6caa333b9e0b66f66cd83ecdce04581c7779b6931039a7001c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/52\/9-12.1792001648646.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आँखी"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आँखी"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "सिदकियाहू"
+    },
+    {
+      "surface": "עור",
+      "gloss": "अँधइ कइलक"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "बान्धलक"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "ताम्र के जंजीर में"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ले गेलन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबुल"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "बाबुल"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "הפקדת",
+      "gloss": "नजर-घर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "ओकर मरन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:14:08.647739183Z",
+  "model": "glm-5.3"
+}

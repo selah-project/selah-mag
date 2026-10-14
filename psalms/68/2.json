@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפניו",
+      "rationale": "इब्रानी 'ओकर अगन-भाग से' — मगही में 'ओकर मुँह से' लेल गेलइ"
+    }
+  ],
+  "translation": "एलोहीम उठतन, ओकर बैरी भाग जातथिन, आउ ओकर दुस्मान ओकर मुँह से भाग जातथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "218b294a7986a0204d0638f3c633a17a5d4da59cbbec78714547abb52da4b063",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/68\/1-4.1792005281964.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "उठतन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "भाग जातथिन"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ओकर बैरी"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "आउ भाग जातथिन"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "ओकर दुस्मान"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ओकर मुँह से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:41.965119462Z",
+  "model": "glm-5.3"
+}

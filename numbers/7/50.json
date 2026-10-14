@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨शेकेल⟩",
+      "rationale": "पद 50 में 'शेकेल' सब्द नञ हइ; पिछला पद के नाप से साफ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दस शेकेल",
+      "rationale": "सोना के कटोरा के तौल गिनाएल गेल हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हथेली-कटोरा",
+      "rationale": "כף मूल रूप में 'हथेली\/खोखला हाथ' — बरतन के आकार हथेली से आवऽ हइ"
+    }
+  ],
+  "translation": "सोना के एक हथेली-कटोरा, दस ⟨शेकेल⟩, धूप से भरल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cbe7fbb53bdad4e20700f50255b0da7a6a95aee75874419cd2523d1ba50c3301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/7\/49-52.1791990801623.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "हथेली-कटोरा"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धूप"
+    }
+  ],
+  "timestamp": "2026-10-14T15:13:21.624666421Z",
+  "model": "glm-5.3"
+}

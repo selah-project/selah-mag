@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בנה בניתי",
+      "rationale": "infinitive-absolute + finite verb ('building I built') — intensity; Magahi reduplication बनावत-बनइलिअन keeps the doubling"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זבל",
+      "rationale": "rare word 'exalted residence', kept as जेबुल rather than a plain word"
+    }
+  ],
+  "translation": "बनावत-बनइलिअन हम तोहर बर घर, जेबुल — तोहर बइठे के थिर जगह, सदा-सदा बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/8\/13-16.1791997063050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "बनावत"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "बनइलिअन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "जेबुल"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर बर"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "थिर जगह"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "तोहर बइठे के बर"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "सदा-सदा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:57:43.051268367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "मुँह में रखलन",
+      "rationale": "בפיה — बात ओकरा मुँह में रखलन; मतलब योआव ओकरा बोले बर बात सिखलन।"
+    }
+  ],
+  "translation": "आउ तूँ राजा के पास जाबइ आउ ओकरा संग ई बात कहबइ; आउ योआव ⟨את⟩ बात सब ओकरा मुँह में रखलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "372ea23b4c7856a668ad38eb43aa60b6ae69205f4ce510ad305ac0a78c71e955",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/14\/1-4.1791996231892.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "जाबइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "कहबइ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ई बात के मोताबिक"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआव"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बात सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात सब"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "ओकरा मुँह में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:43:51.893535334Z",
+  "model": "glm-5.3"
+}

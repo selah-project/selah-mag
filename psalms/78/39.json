@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "רוח के एक सब्द बतास\/साँस\/आत्मा तीन अरथ; इहाँ बतास के बिंब हकइ जे बहऽ हे आउ नञ लौटऽ हइ।"
+    }
+  ],
+  "translation": "आउ ऊ सुधारलन जे ओकनी मांस हथिन — रूआख, जे जा रहलइ हे आउ जे फेर नञ अवतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "051b0cacb9c8142fa7dd5a0aa0175cecb480187a7673de3e606bd9cb625c865b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/37-40.1792005531022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "सुधारलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ओकनी"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "जा रहलइ हे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "फेर अवतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:51.024221824Z",
+  "model": "glm-5.3"
+}

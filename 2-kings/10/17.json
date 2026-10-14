@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "मगही भूतकाल चाहऽ हइ; इब्रानी כדבר क्रिया-विहीन रूप हकइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "כדבר",
+      "gloss-less": false,
+      "rationale": "‘जइसन बचन’ — इब्रानी के बन्धुआ रूप के सीधा पार",
+      "kind_note": "substitution"
+    },
+    {
+      "kind": "you",
+      "subject": "यहू के कथा",
+      "rationale": "कथा आगे यहू के घोसना के बर तैयारी करऽ हइ"
+    }
+  ],
+  "translation": "आउ ऊ शोमरोन (सामरिया) में अइलन, आउ ⟨את⟩ सब हका मारलन जे शोमरोन में अहाब (आहाब) के बचल लोग हलन, जखन तक ओकरा नास कर देलन — जइसन यहवे के बचन हलइ, जे ऊ एलियाहू (एलिय्याह) कहा हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5580af0de05d8ee291a2c4de481d2fdd6403a012009a58abb0d0de12c7e193b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/10\/17-20.1791997946847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "शोमरोन"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "बचल लोग"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "अहाब के"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "शोमरोन में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जखन तक"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "ओकरा नास कर देलन"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "जइसन बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहा हलइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहू"
+    }
+  ],
+  "timestamp": "2026-10-14T17:12:26.848238676Z",
+  "model": "glm-5.3"
+}

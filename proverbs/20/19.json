@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 20:19",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "गुम बात \/ गोपनीय सभा के बात — ओकर खुलास करए वाला के चिनहा एह पद के बिसय हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "תתערב",
+      "rationale": "'मत घुलऽ' बनाम 'ओकरा बर जमानत मत दे' (ערב के जड़) — अनुवादक लोग दू अरथ कहऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גולה\/רכיל",
+      "rationale": "खोलै वाला आउ घूमै वाला के उलटा-फेर — 'जे घूमऽ हइ ओहे खोलऽ हइ' के बनावट।"
+    }
+  ],
+  "translation": "गुम-बात खोलै वाला होवऽ हइ ओहे जे फुस्सड़ी कइल घूमऽ हइ; आउ जे होंठ फइलावऽ हइ ओकरा संग मत घुलऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "748b86903346a29a87c3c9293d10a3738c5cd48239d46e83f3222714a58e2b75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/20\/17-20.1792006827179.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גולה",
+      "gloss": "खोलै वाला"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "गुम-बात"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "घूमऽ हइ"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "फुस्सड़ी"
+    },
+    {
+      "surface": "ולפתה",
+      "gloss": "आउ जे … फइलावऽ हइ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "होंठ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "घुलऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:27.180039630Z",
+  "model": "glm-5.3"
+}

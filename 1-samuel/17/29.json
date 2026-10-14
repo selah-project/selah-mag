@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 17:29",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דבר",
+      "rationale": "'बात\/कथन' बनाम परम्परा के 'कारण' (KJV: Is there not a cause?) — मूल शब्द 'बात' हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "दाविद के जबाब",
+      "rationale": "एलियाब के फटकार के बिरुद्ध में दाविद के सीधा जबाब।"
+    }
+  ],
+  "translation": "दाविद कहलन: हम अब का कइलियन? की ई खाली एक बात नञ हकइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d79e0dffca74dabb1e361e608392a5ba1189ff2f7bcfa7bb6dcf10a96e6fc399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/17\/29-32.1791995348880.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "कइलियन"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "की...नञ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:29:08.881393643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "में 'संग से' जोड़ल गेलइ; मार्फत-पद के अपन कोनो साफ रूप नञ हइ, ⟨את⟩ चिन्हा रखल गेलन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויט",
+      "rationale": "'टेकलक' — इब्रानी 'मोड़लक \/ दने हटलक' के सादा चाल; साहित्यिक 'झुकलक' नञ।"
+    }
+  ],
+  "translation": "आउ ओही समय में यहूदा ⟨में अपन⟩ भाय सब के ⟨את⟩ संग से नीचे उतरलक, आउ एक अदुल्लामी आदमी के लग टेकलक, ओकर नाम खीरा हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b2ec8a3f0783383dbf76f05b0576657ea541207c96c2c8a39049f2bbab938dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/38\/1-4.1791987535854.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भेलइ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "नीचे उतरलक"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ संग से",
+      "marks": "अपन भाय सब"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "अपन भाय सब"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "टेकलक"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "अदुल्लामी"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "आउ ओकर नाम"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "खीरा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:18:55.854879526Z",
+  "model": "glm-5.3"
+}

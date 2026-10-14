@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 25:28",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עשה יעשה",
+      "rationale": "अनंत-क्रिया (infinitive absolute) — पक्का करे के चाल; मगही में 'बनइ त बनतथिनेच' दोहराव से देखावल गेलइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שא לפשע",
+      "rationale": "अक्षरशः 'अपराध उठा ले' — 'क्षमा कर' चालनसार अनुवाद हकइ, बिम्ब (भार उठावे) जस के तस रखल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "दाविद",
+      "rationale": "अबिगैल के सम्बोधन आउ आसीर्बाद के निवेदन — 'तोहरा में बुराई नञ मिलतइ'।"
+    }
+  ],
+  "translation": "तोहर दासी के अपराध धर ले, प्रनाम; काहे कि यहवे हमर मालिक खातिर एक भरोसेमंद घर — बनइ त बनतथिनेच; काहे कि हमर मालिक यहवे के लड़ाई लड़लथिन, आउ तोहरा में बुराई नञ मिलतइ तोहर सब दिन में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "193b1b23fad23c9a764039782d4f7707d74ef1f55606b09075641da6cd0586e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/25\/25-28.1791995633498.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שא",
+      "gloss": "धर ले"
+    },
+    {
+      "surface": "נא",
+      "gloss": "प्रनाम"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "अपराध के"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "तोहर दासी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइ त"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "बनतथिनेच"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "हमर मालिक खातिर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "भरोसेमंद"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "लड़ाई"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हमर मालिक"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "लड़लथिन"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "आउ बुराई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "मिलतइ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा में"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "तोहर सब दिन में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:33:53.499847833Z",
+  "model": "glm-5.3"
+}

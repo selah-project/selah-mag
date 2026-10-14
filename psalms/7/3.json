@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नפश घाँटी\/परान-बल हकइ; 'आत्मा' बाद के भार हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "פרק",
+      "rationale": "पורक — 'नोच-तोड़ करना' (क्रिया जारी) बनाम 'खींच के छुड़ाना': अधिकतर 'तोड़ के फेंकना' पढ़ल जाऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "करता सर्बनाम जोड़ल गेल, हिब्रू के क्रिया रूप में पहिले से छिपल हकइ।"
+    }
+  ],
+  "translation": "नञ त ऊ सेर जइसन हमर परान के नोच डालतइ, नोच-तोड़ करतइ, आउ छुड़ाए वाला कोनो नञ होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/7\/1-4.1792004431033.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "नञ त"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "नोच डालतइ"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "सेर जइसन"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान के"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "नोच-तोड़ करतइ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ कोनो नञ होतइ"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "छुड़ाए वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:00:31.034614123Z",
+  "model": "glm-5.3"
+}

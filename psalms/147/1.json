@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "पूरा पद",
+      "rationale": "बरग-बधायल आदेस — समूह के याह के साराहा बर बोलावऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "זמרה",
+      "rationale": "गावना बनाम तार बजावना — किछु अनुवाद 'साराहा करऽ' ले (ylt), किछु 'गावऽ' (kjv)।"
+    }
+  ],
+  "translation": "याह के साराहा करऽ, काहे कि हमनी के एलोहीम के बर गावना भलइ हकइ; काहे कि ऊ सुने में मीठइ हकइ — साराहा सोहावऽ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/147\/1-4.1792006412090.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "साराहा करऽ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलइ"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "गावना"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "सुने में मीठइ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "सोहावऽ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "साराहा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:32.091286946Z",
+  "model": "glm-5.3"
+}

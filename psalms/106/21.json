@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "इब्रानी में क्रिया विशेषण-वाक्यांश हकइ; मगही में भूतकाल किरिया जोड़ल गेलन"
+    }
+  ],
+  "translation": "ओकनी एल के बिसरि गेलन — ओकरा छुड़ावेवाला के — जे मिस्रयिम (मिस्र) में बड़का काम कइलन हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "150c162f992e3756c3ed160d70e20c0e9b3694ea8e6a31a8b8e4dfe9f591c1d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/106\/21-24.1792005867795.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "बिसरि गेलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "ओकरा छुड़ावेवाला"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन हलन"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "बड़का काम"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "मिस्रयिम (मिस्र) में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:27.795785410Z",
+  "model": "glm-5.3"
+}

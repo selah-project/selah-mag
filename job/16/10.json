@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 16:10",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פעरו עלי",
+      "rationale": "मुँह बड़ कइल जे लोभ में छलाँके — दुसमनी के भूख के तकिया-कलाम"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יתמלאון",
+      "rationale": "साफ अरथ 'मोर ऊपर भरल गेलन'; 'टूट पड़लन' बाक्य के चाल के मोताबिक अनुवाद हकइ"
+    }
+  ],
+  "translation": "ओकनी आपन मुँह खोल के मोर ऊपर बोललन; बेइज्जती कइल जाए के चलते ओकनी मोर गाल पर मारलन; ओकनी सब इकट्ठा भ के मोर ऊपर टूट पड़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0bc6e80a233778cebfd09369971cd969523c4b6f19a18bc1f94bb19fd494c97a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/16\/9-12.1792007401655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פערו",
+      "gloss": "मुँह खोल के"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मोर ऊपर"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "आपन मुँह से"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "बेइज्जती कइल जाए के चलते"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "לחיי",
+      "gloss": "मोर गाल पर"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "इकट्ठा भ के"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मोर ऊपर"
+    },
+    {
+      "surface": "יתמלאון",
+      "gloss": "टूट पड़लन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:50:01.656571949Z",
+  "model": "glm-5.3"
+}

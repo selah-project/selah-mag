@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 11:19",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחלו",
+      "rationale": "जड़ 'कमजोर होबइ \/ पिघलबइ' से — 'नरम हो के बिनती करबइ' बनाम 'कातर होबइ'; बिनती-वाला पढ़ाई संदर्भ से आवऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मुँह के खातिर",
+      "rationale": "פניך 'तोहर मुँह' शाब्दिक हकइ; इब्रानी में मुँह के आगे आवऽ = अनुग्रह माँगऽ, मगही में खातिर जोड़ल गेलै।"
+    },
+    {
+      "kind": "you",
+      "subject": "जोब पर जोफर के बात",
+      "rationale": "सम्बोधन जारी — तूँ।"
+    }
+  ],
+  "translation": "आउ तूँ लेटबइ, आउ डरावे वाला कोनो नञ होतइ; आउ ढेर लोग तोहर मुँह के खातिर बिनती करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b37b1515ad3ce3ff1660a13351493b8dcad1648ed2f7982b2132dd408ce79c81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/11\/18-19.1792012159095.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורבצת",
+      "gloss": "लेटबइ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "कोनो नञ होतइ"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "डरावे वाला"
+    },
+    {
+      "surface": "וחלו",
+      "gloss": "बिनती करतइ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहर मुँह के खातिर"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T21:09:19.095702250Z",
+  "model": "glm-5.3"
+}

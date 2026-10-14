@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "आँगन",
+      "rationale": "החצर घेरल आँगन हकइ — बाड़ से घिरल जगह; आँगन ओही चित्र रखऽ हइ।"
+    }
+  ],
+  "translation": "आउ तूँ ⟨את⟩ आँगन के चारो दने बनाबइ, आउ आँगन के गेट के पर्दा ⟨את⟩ लगाबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6972e9038cb8b99c6e11b2fc1818f1877ae0f15374896d6007bc4b7b2ae62065",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/40\/5-8.1791989431732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "आउ तूँ बनाबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आँगन"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "आँगन"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "आउ तूँ लगाबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पर्दा"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "पर्दा"
+    },
+    {
+      "surface": "שער",
+      "gloss": "गेट के"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "आँगन के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:50:31.733749712Z",
+  "model": "glm-5.3"
+}

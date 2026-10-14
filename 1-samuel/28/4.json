@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקבצו \/ ויקבץ",
+      "rationale": "एक्के क्रिया (जुटना) दू बेर — पलिस्ती आउ शाऊल के काम आईन के रूप में जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ पलिस्ती जुटलक, अइलन, आउ शूनेम में डेरा डारलन; आउ शाऊल ⟨את⟩ सब यिस्राएल जुटलन, आउ ओकनी गिलबोआ में डेरा डारलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/28\/1-4.1791995735627.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "जुटलक"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिस्ती"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डारलन"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "शूनेम में"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "जुटलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब यिस्राएल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डारलन"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "गिलबोआ में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:35:35.628430628Z",
+  "model": "glm-5.3"
+}

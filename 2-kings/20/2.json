@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ ⟨आपन⟩",
+      "rationale": "इब्रानी में करता-सर्बनाम नञ हकइ; मगही के बाक्य-बनावट एकरा माँगऽ हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "अगिला पदी के बोली खोलैत हइ; स्वतंत्र अरथ नञ — 'कहऽ के' छोड़ल रहल।"
+    }
+  ],
+  "translation": "ऊ ⟨आपन⟩ ⟨את⟩ मुँह दीवार के दने घुमेलक आउ यहवे से प्रार्थना कइलक, कहऽ के —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5dcf1d1281b42ee3d28f98d5098fdeecd2876064b644263751dd85d1a795b25d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/20\/1-4.1791998385056.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "घुमेलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मुँह (आपन मुँह)"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "दीवार के"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "प्रार्थना कइलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:19:45.057339036Z",
+  "model": "glm-5.3"
+}

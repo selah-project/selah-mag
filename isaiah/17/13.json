@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 17:13",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאון\/ישאון",
+      "rationale": "substantive 'uproar' and verb 'to roar' share the root — the nations become the noise itself; lost in Magahi"
+    },
+    {
+      "kind": "addition",
+      "subject": "एकरा",
+      "rationale": "בו names the object of rebuke (the nations) but leaves the rebuker unstated; subject supplied by context"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ישאון",
+      "rationale": "root can mean 'be desolated' (so YLT 'are wasted'); taken here as 'roar' to match the water simile"
+    }
+  ],
+  "translation": "जाति सब ढेर पानी के घुँघराहट जइसन गरजतइ; बाकि ⟨एकरा⟩ डाँटतन आउ ऊ दूर भाग जा हइ, आउ पहाड़ के भूसा जइसन रूआख के आगू उड़ावल जातइ, आउ चक्कर खायल धूरी जइसन आँधी के आगू।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1eba63a3497c77aeb6ec83b0f83c491964bb75dfef2bee0e19b1ccf39713e5d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/17\/13-14.1791998871302.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "घुँघराहट जइसन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "गरजतइ"
+    },
+    {
+      "surface": "וגער",
+      "gloss": "डाँटतन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨एकरा⟩"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "भाग जा हइ"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "उड़ावल जातइ"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "भूसा जइसन"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़ के"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "וכגלגל",
+      "gloss": "आउ चक्कर खायल धूरी जइसन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "आँधी"
+    }
+  ],
+  "timestamp": "2026-10-14T17:27:51.303231138Z",
+  "model": "glm-5.3"
+}

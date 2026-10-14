@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 29:35",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אודה\/יהודה",
+      "rationale": "नाम यहूदा किरिया ङודה (स्तुति करब) से गढ़ल हइ — एहि जोड़ के गूँज मगही में नञ आवऽ हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "על כן",
+      "rationale": "दुनू शब्द मिल के 'एहे से' कइल गेल।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "जनम देबे से रुक गेलक",
+      "rationale": "लियाह के जनम के गिनती के कथा एहि पद पर थम जा हइ — चार बेटा गिनल गेल।"
+    }
+  ],
+  "translation": "आउ ऊ फेर गरभवती भेलक आउ एक बेटा के जनम देलक, आउ कहलक, ई बेर हम ⟨את⟩ यहवे के स्तुति करब; एहे से ओकर नाम यहूदा धरलक; आउ ऊ जनम देबे से रुक गेलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0e35d280aaa9c330725fb3fea65a57a3595665dc67975a2ca991e9797cdc22d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/29\/33-35.1791987083756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "गरभवती भेलक"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जनम देलक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "ई बेर"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "स्तुति करब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "धरलक"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "रुक गेलक"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "जनम देबे से"
+    }
+  ],
+  "timestamp": "2026-10-14T14:11:23.757069758Z",
+  "model": "glm-5.3"
+}

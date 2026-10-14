@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मिज़मोर",
+      "rationale": "מזמוװ वाद्य-संगीत से जुड़ल काब्य — इब्रानी रूप रखल गेल।"
+    },
+    {
+      "kind": "elision",
+      "subject": "superscription",
+      "rationale": "ई पद बिसरनी के नाम हकइ, कथा के अंग नञ।"
+    }
+  ],
+  "translation": "संगीत के अगुवा बर, गित्तीत वाद्य पर, कोरह के बेटा सब के, एक मिज़मोर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e0bbe97ccb636b5c7414918b9b102d28318473676f617e6b66fb0bc1a4d14788",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/84\/1-4.1792005667345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत के अगुवा बर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "गित्तीत वाद्य"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के बेटा सब के"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिज़मोर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:07.346519465Z",
+  "model": "glm-5.3"
+}

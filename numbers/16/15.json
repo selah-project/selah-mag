@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 16:15",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל תפן",
+      "rationale": "'do not turn (your face)' toward their offering, i.e. do not regard it; Magahi renders 'ध्यान मत देहू'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויחר",
+      "rationale": "Hebrew verb 'burned' with למשה supplied as goal — anger idiom 'it burned to Moses'"
+    }
+  ],
+  "translation": "आउ मोशे के बहुते गुस्सा भेलन, आउ ऊ यहवे से कहलन, ओकनी के मिन्हा के तरफ ध्यान मत देहू; हम ओकनी में से एक गधा नञ लेलन, आउ हम ओकनी में से ⟨את⟩ एक के बुरा नञ कएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "290932d617d32a1fd54355b3204508ec58539399152dd46af98f6ce6cf372c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/16\/13-16.1791991218095.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "गुस्सा भेलन"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "मोशे के"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "ध्यान देहू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के तरफ"
+    },
+    {
+      "surface": "מנחתם",
+      "gloss": "ओकनी के मिन्हा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "गधा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ओकनी में से"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "लेलन हम"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "הרעתי",
+      "gloss": "बुरा कएलन हम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एक"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक के"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ओकनी में से"
+    }
+  ],
+  "timestamp": "2026-10-14T15:20:18.096792844Z",
+  "model": "glm-5.3"
+}

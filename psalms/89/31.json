@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "के",
+      "rationale": "עזב के संग על बिसर्जन चिन्हा परति गढ़ल हइ"
+    }
+  ],
+  "translation": "की ओकर बेटा हमरी तोरा के छोड़ देथिन आउ हमर नियाव सब में नञ चलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e9e1a2e0c333784325d655fe3bf086de94bcd239aa8dcd63e21aee150fdfff89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/89\/29-32.1792005665599.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "की"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "छोड़ देथिन"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "हमरी तोरा के"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "आउ हमर नियाव सब में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "चलथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:05.601219019Z",
+  "model": "glm-5.3"
+}

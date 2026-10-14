@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हइ⟩",
+      "rationale": "इब्रानी में क्रिया-सम्बन्धी 'होना' नञ हकइ; मगही बाक्य बर जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "डेरा",
+      "rationale": "נוה के अरथ बसे के जगह; 'घर' पहिले आ चुकल रहलइ एहे से डेरा लेल गेल"
+    }
+  ],
+  "translation": "बुरा मनुस के घर में यहवे के सराप ⟨हइ⟩, बाकि धरमी लोग के डेरा के ऊ असीस देथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4c2febe255b67608ce402a341d5dff6805a7c4e4fb5fe890ffabef4f6ffedd2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/3\/33-35.1792006479522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "सराप"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुरा मनुस के"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "बाकि डेरा"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धरमी लोग के"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "असीस देथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:34:39.523550012Z",
+  "model": "glm-5.3"
+}

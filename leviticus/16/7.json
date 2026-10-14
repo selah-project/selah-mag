@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओ",
+      "rationale": " Hebrew के निश्चित ה के बर मगही में देखावल सर्बनाम"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ ओ दू बकरा लेतन, आउ ⟨את⟩ ओकरा यहवे के आगे — मुलाकात के तम्बू के दुआरी पर — खड़ा करतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/16\/5-8.1791990015091.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "लेतन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ दू बकरा"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "ओ बकरा"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "खड़ा करतन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (ओ दू बकरा के)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू के"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मुलाकात के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:00:15.092089386Z",
+  "model": "glm-5.3"
+}

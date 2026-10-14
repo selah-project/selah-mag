@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבן ואבן",
+      "rationale": "'A stone and a stone' — idiom for two different weights kept for cheating; rendered as repeated पत्थल, the picture kept."
+    },
+    {
+      "kind": "measurement",
+      "subject": "מאזני",
+      "rationale": "Verse concerns weighing with scales and stones — metrology in commerce."
+    }
+  ],
+  "translation": "यहवे के घिनौन पत्थल आउ पत्थल, आउ धोखा के तराजू नीक नञ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "57fc1906f284a45de7423931ea9335941ab7159984104b61e34870ca0ad661fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/20\/22-23.1792012096001.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "घिनौन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "आउ पत्थल"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "आउ तराजू"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "धोखा के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीक"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:16.002512018Z",
+  "model": "glm-5.3"
+}

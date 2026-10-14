@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עינך לא תחוס",
+      "rationale": "'तोहर आँख दया नञ करऽ' — इब्रानी के रूढ़ि, आँख के करुणा के स्रोत मानल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "हुकुम यिस्राएल के परजा के दने सीधा सम्बोधन"
+    }
+  ],
+  "translation": "तोहर आँख ओकरा पर दया नञ करऽ, आउ तूँ निर्दोस के खून यिस्राएल (इस्राएल) से मेट देबऽ, आउ तोहर बर भला होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8f6a0ea4794208b51a38e742b8475ace9b0b0704848a0c5043ad29ea8642b1f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/19\/13-16.1791992532425.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "दया करऽ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "तोहर आँख"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "आउ मेट देबऽ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "निर्दोस के"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "यिस्राएल से"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "आउ भला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:42:12.426385267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "शाब्दिक 'आपन परान ले भागलन' — 'बचावे के बर' जोड़ल गेल हे काहे कि मगही में 'परान ले भागना' अधूरा लागऽ हइ।"
+    }
+  ],
+  "translation": "आउ ऊ उठलन आउ साँझ-बतास के समय भाग गेलन, आउ ⟨את⟩ आपन तम्बू आउ ⟨את⟩ आपन घोड़ा आउ ⟨את⟩ आपन गधा छोड़ देलन — डेरा जइसन हल ओइसने — आउ आपन परान बचावे के बर भाग गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "66bb0eb6efa151f93d665b6e9dccb94fd85aeac346f71261276feee1aeab7444",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/7\/5-8.1791997847871.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "भाग गेलन"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "साँझ-बतास के समय"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "छोड़ देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन तम्बू"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "आपन तम्बू"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आपन घोड़ा"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "आपन घोड़ा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आपन गधा"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "आपन गधा"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "डेरा"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन हल ओइसने"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "भाग गेलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "बर"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "आपन परान"
+    }
+  ],
+  "timestamp": "2026-10-14T17:10:47.873099908Z",
+  "model": "glm-5.3"
+}

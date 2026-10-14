@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बहुत दिन",
+      "rationale": "लड़ाई के मइयाद गिन के बतावल गेलइ हकइ — लंबा समय।"
+    },
+    {
+      "kind": "addition",
+      "subject": "के संग",
+      "rationale": "हिब्रू 'एहन सब राजा के संग लड़ाई' कहऽ हकइ; मगही में 'के संग' जोड़ल गेलन।"
+    }
+  ],
+  "translation": "बहुत दिन लंबा यहोशू एहन सब राजा के संग ⟨את⟩ लड़ाई करलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a0304fa8d4edd730bc5cbece05d2517bb7f9a4c4a7586d0ad076c9cb402b7565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/11\/17-20.1791993567783.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करलन"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब राजा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई"
+    }
+  ],
+  "timestamp": "2026-10-14T15:59:27.784523978Z",
+  "model": "glm-5.3"
+}

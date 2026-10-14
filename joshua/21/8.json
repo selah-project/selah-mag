@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चरागाह",
+      "rationale": "מגרש चराने के खुला जमीन हकइ; नगर के आसपास के मैदान"
+    },
+    {
+      "kind": "measurement",
+      "subject": "गोरल के जरे",
+      "rationale": "गोरल से बाँट के जाँच-गिनती"
+    }
+  ],
+  "translation": "आउ यिस्राएल के बेटा लेवी के लोग के ⟨את⟩ ई नगर आउ ⟨את⟩ ओकर चरागाह देलन, जइसने यहवे मोशे के हाथ के जरे हुकुम देलन हल — गोरल के जरे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "632a3acae5424a89ae6ca78d9b22bb85144690929b2360eca75f13aabd99203b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/21\/5-8.1791993752145.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "आउ देलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "लेवी के लोग के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई नगर"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "ओकर चरागाह"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ओकर चरागाह"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकुम देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ के जरे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "गोरल के जरे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:02:32.146427370Z",
+  "model": "glm-5.3"
+}

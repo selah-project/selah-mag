@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बारह सरदार",
+      "rationale": "गिनती — बारह नायक\/सरदार, जाति के मोताबिक"
+    },
+    {
+      "kind": "crux",
+      "subject": "חצרים \/ טירת",
+      "rationale": "'डेरा\/बस्ती' बनाम 'गाँव' (KJV towns) आउ 'गढ़ी' बनाम 'किला' — घुमावदार जीवन के बस्ती के चिन्हा"
+    }
+  ],
+  "translation": "इहे यिश्माएल के बेटा सब हथिन, आउ इहे ओकनी के नाम हथिन, ओकनी के डेरा आउ ओकनी के गढ़ी के मोताबिक — बारह सरदार, ओकनी के जाति के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0b9b1cc5dc6d1465cb8be9cfc3e52427254c6a149068b50f706c01cec1530052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/25\/13-16.1791987000152.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "इहे"
+    },
+    {
+      "surface": "הם",
+      "gloss": "हथिन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "यिश्माएल"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "आउ इहे"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "ओकनी के नाम हथिन"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "ओकनी के डेरा के मोताबिक"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "आउ ओकनी के गढ़ी के मोताबिक"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह (दू)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(जोड़ल दस)"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "ओकनी के जाति के मोताबिक"
+    }
+  ],
+  "timestamp": "2026-10-14T14:10:00.153271719Z",
+  "model": "glm-5.3"
+}

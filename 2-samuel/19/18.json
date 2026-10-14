@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 19:18",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "संख्या",
+      "rationale": "हजार, पन्द्रह बेटा, बीस नौकर — गिनती के पद"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נער",
+      "rationale": "'नौकर' कइल गेलइ; מילापूर्वक 'बालक\/सेवक' दूनू अरथ हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "וצלחו",
+      "rationale": "'पार उतरलन' बनाम YLT के 'prosperously गेलन' — जड़ 'आगू धकेलना' हकइ"
+    }
+  ],
+  "translation": "आउ हजार मनखे बिन्यामीन के ओकरा संग, आउ त्सिबा, शाउल के घर के नौकर, आउ ओकर पन्द्रह बेटा आउ बीस नौकर ⟨את⟩ ओकरा संग, आउ ओकनी राजा के आगू-आगू यर्दन पार उतरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "312fa536f2ed41b050ed27c41226ea915659f49899ddeb1f60d2a071ae0d8098",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/19\/17-20.1791996505007.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלף",
+      "gloss": "आउ हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनखे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "बिन्यामीन के"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "आउ त्सिबा"
+    },
+    {
+      "surface": "נער",
+      "gloss": "नौकर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "पन्द्रह (पाँच-आउ-दस)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "नौकर"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा संग"
+    },
+    {
+      "surface": "וצלחו",
+      "gloss": "पार उतरलन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगू-आगू"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:48:25.008661748Z",
+  "model": "glm-5.3"
+}

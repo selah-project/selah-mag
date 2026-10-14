@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "खून के दामाद",
+      "rationale": "חתן דמים: 'दामाद' बनाम 'वर\/दूल्हा'; ई भी अस्पस्ट हइ कि गोड़ कियो के हथिन — यहवे के या मोशे के।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "चमड़ी",
+      "rationale": "ערלה खास बर लिंग के अगुआ-चमड़ी हकइ; साफ शब्द बर 'चमड़ी' लेलन गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "सिपोराह मोशे के",
+      "rationale": "पद सिधे मोशे के सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "तब सिपोराह एगा तीख पत्थल लेलन, आउ ⟨את⟩ आपन बेटा के चमड़ी काटलन, आउ ओकर गोड़ में लगेलन, आउ कहलन: काहे कि खून के दामाद हउ तूँ हमरा बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e014031325bbd993abce2beab89b9b4c59c4f0826779b63709dcc772c94b23b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/4\/25-28.1791988136017.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "सिपोराह"
+    },
+    {
+      "surface": "צר",
+      "gloss": "तीख पत्थल"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "काटलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बेटा के चमड़ी"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "चमड़ी"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बेटा के"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "लगेलन"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "ओकर गोड़ में"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "दामाद"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "खून"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:28:56.018489424Z",
+  "model": "glm-5.3"
+}

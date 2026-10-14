@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחילו",
+      "rationale": "Root חול 'twist\/whirl': rendered 'firm\/prosper' (KJV 'grievous', JPS 'prosper', ASV 'firm') — the wicked's ways stand steady at all times."
+    },
+    {
+      "kind": "crux",
+      "subject": "מנגדו",
+      "rationale": "'far from him' (KJV) vs 'before him' — the judgments are high, out of his sight."
+    },
+    {
+      "kind": "idiom",
+      "subject": "יפיח בהם",
+      "rationale": "'He puffs\/snorts at them' — contemptuous snort at all his adversaries, kept literally."
+    }
+  ],
+  "translation": "ओकर रस्ता हर बेरा ठाढ़ रहऽ हइ; ऊँच अकास में तोहर नियाव ⟨हइ⟩, ओकरा से बहुते दूर; ओकर सब दुस्मन सब के ऊ ⟨हवा उड़ावऽ हइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3d0ec7f7f2ba534563dbe64b24ba7705488bea745822cf09aa16a41555ebb82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/10\/5-8.1792004559808.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "ठाढ़ रहऽ हइ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ओकर रस्ता"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "עת",
+      "gloss": "बेरा"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ऊँच अकास"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "तोहर नियाव"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "ओकरा से दूर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "ओकर दुस्मन सब"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "हवा उड़ावऽ हइ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:39.809109212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकरा",
+      "rationale": "हिब्रू के क्रिया 'יהרסנה' में -נה धरती (स्त्रीलिंग) के ओर इसारा करऽ हइ; मगही में सर्बनाम जोड़ल गेलन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "तरुमोत",
+      "rationale": "'भेंट' या 'खिराज' — के जे भेंट लेवऽ हइ (रिसवत लेवै वाला) या जे खिराज वसूलऽ हइ; अनुवादक लोग दुनू धार लेलन हथिन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעמיד \/ יהרסנה",
+      "rationale": "ठाढ़ करना आउ ढेर करना — एके धरती के बिपरीत क्रिया के जोड़ी।"
+    }
+  ],
+  "translation": "राजा नियाव से धरती के ठाढ़ रखऽ हइ; बाकि जे आदमी भेंट लेवऽ हइ ऊ ⟨ओकरा⟩ ढेर कर देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2b8336082e41c1b0d1af0495e2a2ea5050121a3e7d3fea4beab8ffad2195df0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/29\/1-4.1792007012644.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "नियाव से"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "ठाढ़ रखऽ हइ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "बाकि जे आदमी"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "ओकरा ढेर कर देतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:32.645825175Z",
+  "model": "glm-5.3"
+}

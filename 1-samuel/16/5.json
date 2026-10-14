@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שלום",
+      "rationale": "एक-सब्द के जवाब — अकेले ‘सांति बर’ — बाकी पूरा बाक्य बनावे बर क्रिया जोड़ल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "आहूँ",
+      "rationale": "इब्रानी के बोलचाल के क्रिया-रूप के मगही में वर्तमान-पूर्ण के रूप देके चाही पड़ल।"
+    }
+  ],
+  "translation": "आउ कहलन — सांति बर; यहवे के बलि करे बर हम अइली आहूँ; पवित्तर होवऽ, आउ बलि पर ⟨את⟩ हमरा संग आवऽ हिअइ। आउ ऊ ⟨את⟩ यिशै आउ ⟨את⟩ ओकर बेटा सब पवित्तर कइलन, आउ ओकनी के बलि बर बलावलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b46d09a3ea86f123186b54409d2df8b17b8e1d715d92b21b5c30dd82e2a3e667",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/16\/5-8.1791995228242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति बर"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "बलि करे बर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "हम अइली आहूँ"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "पवित्तर होवऽ"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "आउ आवऽ हिअइ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ हमरा संग"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "बलि पर"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "आउ पवित्तर कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिशै"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशै"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बेटा सब"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा सब"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "आउ बलावलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "बलि बर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:27:08.243200306Z",
+  "model": "glm-5.3"
+}

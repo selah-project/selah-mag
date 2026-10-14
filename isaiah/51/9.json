@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 51:9",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עורי ×3",
+      "rationale": "एके क्रिया तीन बेर दोहरावल — जाग-जाग-जाग के ताल मगही में बचलइ हे।"
+    },
+    {
+      "kind": "crux",
+      "subject": "רהब \/ תנין",
+      "rationale": "राहब मिस्रयिम के उपनाम हकइ आउ तन्नीन समुंदर-दैत्य; किछु अनुवाद 'साँप' या 'बड़ मछरी' कहऽ हथिन।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के भुजा",
+      "rationale": "पूरा पद यहवे के भुजा के सीधा सम्बोधन हकइ — 'हे भुजा, जाग'।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "जाग, जाग",
+      "rationale": "आज्ञारूप आवाहन बाक्य के सुरु करऽ हइ।"
+    }
+  ],
+  "translation": "जाग, जाग, ताकत पहिरऽ, हे यहवे के भुजा; जाग, जइसन पहिले के दिन में, अनन्त काल के पीढ़ी-पीढ़ी में। की तूँही ऊ नञ हिअइ जे राहब के काटलक हथिन आउ तन्नीन (समुंदर-दैत्य) के घायल कएलक हथिन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e5ac8a98696d3e7742f23015c59ce496e0adf778b3fb323398ae4a5afe755ca6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/51\/9-12.1791999752472.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "जाग"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "जाग"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "पहिरऽ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "भुजा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "जाग"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "जइसन दिन में"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "पहिले के"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "पीढ़ी-पीढ़ी"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "अनन्त काल के"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "की … नञ"
+    },
+    {
+      "surface": "את",
+      "gloss": "तूँ",
+      "marks": "ऊ (हिअइ)"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "המחצבת",
+      "gloss": "काटए वाली"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "राहब"
+    },
+    {
+      "surface": "מחוללת",
+      "gloss": "घायल कएए वाली"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "तन्नीन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:42:32.472941278Z",
+  "model": "glm-5.3"
+}

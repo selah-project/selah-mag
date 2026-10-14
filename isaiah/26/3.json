@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום שלום",
+      "rationale": "दू हट्टा सांति-सांति — हिब्रू के दोहराव, पूरा सांति के भाव"
+    },
+    {
+      "kind": "crux",
+      "subject": "करता",
+      "rationale": "के रखवारी करथिन — यहवे (बाकी पढ़निहार के मत) बनाम जाति के टेकल मन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मन-बनावट",
+      "rationale": "יצर साँचा\/बनावट हकइ — 'मन' अकेले ओकर साँचे वाली तस्वीर खो देतइ"
+    }
+  ],
+  "translation": "टेकल मन-बनावट के ऊ सांति-सांति से रखवारी करथिन, काहे कि तोहनी में भरोसा हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/26\/1-4.1791999035288.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "मन-बनावट"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "टेकल"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "रखवारी करथिन"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहनी में"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "भरोसा हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:30:35.289531928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 21:9",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נפלה נפלה",
+      "rationale": "दू बेर दोहरावल गिरन — टिप्पणी के बल दू गो गिरलइ से बचल हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "אישׁ צמד פרשים",
+      "rationale": "एक आदमी रथ पर जोड़ी सवार के संग (KJV) बनाम जोड़ी-जोड़ी सवारों के टोली (JPS\/ASV)।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלהיה",
+      "rationale": "बाबुल के देवता — जाति-सब्द देवता सब, नाम नञ।"
+    }
+  ],
+  "translation": "आउ देखऽ, ई अवऽ हइ — रथ, आदमी, जोड़ी के घुसावल सवार; ऊ जबाब देलक आउ कहलन: गिरलइ, गिरलइ बाबुल, आउ ओकर देवता सब के सब खोदल मूरत धरती पर तोड़ल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "57878eca1b3aa738706909bb55e4ff59290939101f10add5d90986cf7df15de3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/21\/9-12.1791998883824.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अवऽ हइ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "रथ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "जोड़ी के"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "घुसावल सवार"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "जबाब देलक"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "गिरलइ"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "गिरलइ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबुल"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "खोदल मूरत"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "ओकर देवता सब के"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "तोड़ल गेलन"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती पर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:03.824686006Z",
+  "model": "glm-5.3"
+}

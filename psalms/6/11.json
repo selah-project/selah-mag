@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एक्को क्षण में",
+      "rationale": "רגע के संग काल-बोधक 'में' जोड़ल गेलइ; इब्रानी में खाली सब्द हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו … יבשו",
+      "rationale": "एके क्रिया पद के दोहराव — छोर पर छोर मिलावऽ हइ; मगही में दोहराव रखल गेलइ"
+    }
+  ],
+  "translation": "लजातन आउ बहुते घबरातन सब हमर दुस्मन; ऊ फिर जातन, एक्को क्षण में लजातन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dee5ab1a9dc3fc8250d6136160d50a78697b673dfd9d2308735ae6651f3a9507",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/6\/9-11.1792004388559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "लजातन"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "आउ घबरातन"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "हमर दुस्मन"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "फिर जातन"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "लजातन"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "एक्को क्षण"
+    }
+  ],
+  "timestamp": "2026-10-14T18:59:48.560030110Z",
+  "model": "glm-5.3"
+}

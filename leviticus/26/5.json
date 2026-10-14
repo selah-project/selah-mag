@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והשיג…ישיג",
+      "rationale": "same verb נשג twice, threshing reaching vintage and vintage reaching sowing — the mirror repetition softened in Magahi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "rationale": "here 'seed' means sowing-time, rendered बुवाई के बिया to keep both the seed and the season"
+    }
+  ],
+  "translation": "आउ तोहनी के दहाई ⟨את⟩ अंगूर के कटाई ले पहुँचतइ, आउ कटाई ⟨את⟩ बुवाई के बिया ले पहुँचतइ; आउ तोहनी अपन रोटी तृप्ति ले खइबऽ आउ अपन धरती में निश्चिंत रहबऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "870d0c3724ce02db0aea13fe0b82dfd693986f615f07c0d759671d188980ccba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/26\/5-8.1791990407407.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "पहुँचतइ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "दहाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अंगूर के कटाई"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "अंगूर के कटाई"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "आउ कटाई"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "पहुँचतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बुवाई के बिया"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बुवाई के बिया"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "आउ तोहनी खइबऽ"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "अपन रोटी"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "तृप्ति ले"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "आउ तोहनी रहबऽ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "निश्चिंत"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "अपन धरती में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:06:47.407695278Z",
+  "model": "glm-5.3"
+}

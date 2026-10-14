@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקרב \/ קרבן",
+      "rationale": "'नजिक लानलन' आउ 'बलि' एके जड़ (קרב) से हकइ — बलि ओहू हकइ जे नजिक लावल जाऽ हइ; मगही में एकर जोड़ मेट जाऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחטאהו",
+      "rationale": "किरिया के दु अरथ — 'ओकरा पाप-बलि कइलन' या 'ओकरा द्वारा पाप दूर कइलन'; अनुवाद में पहिलका लेल गेल"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ लोग के बलि नजिक लानलन, आउ लेलन ⟨את⟩ ओकरा बकरा — पाप-बलि — जे लोग बर हलइ, आउ ओकरा काटलन आउ पाप-बलि कइलन, जइसन पहिलका।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7b13d6658cf2d0ad38f60c1b9dbc2c93acefc7320c87c214955c01dd35d33339",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/9\/13-16.1791989725410.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "नजिक लानलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बलि"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बकरा"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "पाप-बलि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "लोग बर"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "ओकरा काटलन"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "पाप-बलि कइलन"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "जइसन पहिलका"
+    }
+  ],
+  "timestamp": "2026-10-14T14:55:25.411150332Z",
+  "model": "glm-5.3"
+}

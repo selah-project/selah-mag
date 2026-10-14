@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 40:13",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "गेट के नाप",
+      "rationale": "चउड़ाई पच्चीस अम्मा — दुआरी के बिमान के पूरा नाप"
+    },
+    {
+      "kind": "substitution",
+      "subject": "अम्मा",
+      "rationale": "אמה कोनो सादा मगही नाप नञ हइ; इब्रानी नाप के नाम लिप्यन्तरित कइल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתח נגד פתח",
+      "rationale": "दुआरी दुआरी के सामने — एके सब्द के दोहराव, इब्रानी के तुकबंदी"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ दुआरी के नापलन — कोठरी के छत से ओकर छत तक — चउड़ाई पच्चीस अम्मा, दुआरी दुआरी के सामने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "89e3fc0252fd31095496d0812a4e811cadc5731b37ebde2f49473ce710cc32fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/40\/13-16.1792002914052.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "आउ ऊ नापलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दुआरी"
+    },
+    {
+      "surface": "השער",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "מגג",
+      "gloss": "छत से"
+    },
+    {
+      "surface": "התא",
+      "gloss": "कोठरी के"
+    },
+    {
+      "surface": "לגגו",
+      "gloss": "ओकर छत तक"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चउड़ाई"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "पच्चीस (बीस आउ पाँच)"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "—"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "अम्मा"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआरी"
+    }
+  ],
+  "timestamp": "2026-10-14T18:35:14.052985392Z",
+  "model": "glm-5.3"
+}

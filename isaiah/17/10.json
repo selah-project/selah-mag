@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 17:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "तूँ",
+      "rationale": "ईशायाह इस्राएल\/यहूदा के सीधे सम्बोधन करऽ हइ — 'तोहर' के सम्बोधन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "נטעי נעמנים",
+      "rationale": "'सुहावन पौधा' (KJV, JPS) बनाम Wycliffe 'भरोसेमंद रोपनी' — ठीक अरथ बाद के संदर्भ (काटनी के नास) पर टिकल हइ।"
+    }
+  ],
+  "translation": "काहे कि तूँ अपन छुटकारा के एलोहीम के बिसरि गेलइ, आउ अपन गढ़ के चट्टान के याद नञ करलक — एहे से तूँ सुहावन पौधा रोपऽ हइ, आउ परदेसी के डार बोऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "53bd39ee18239dcbb230b601ed0b7c7b6f74d41f8ade89c8b49155072f1d59bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/17\/9-12.1791998898506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "बिसरि गेलइ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "छुटकारा के"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "आउ चट्टान"
+    },
+    {
+      "surface": "מעזך",
+      "gloss": "गढ़ के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "याद करलक"
+    },
+    {
+      "surface": "על",
+      "gloss": "एहे"
+    },
+    {
+      "surface": "כן",
+      "gloss": "से"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "रोपऽ हइ"
+    },
+    {
+      "surface": "נטעי",
+      "gloss": "पौधा"
+    },
+    {
+      "surface": "נעמנים",
+      "gloss": "सुहावन"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "आउ डार"
+    },
+    {
+      "surface": "זר",
+      "gloss": "परदेसी के"
+    },
+    {
+      "surface": "תזרענו",
+      "gloss": "बोऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:18.506798943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "मפני שאול",
+      "rationale": "इबरानी 'शाउल के मुँह से' — मुँह के मौजूदगी से भागल जाना; मगही में ओही रूप रखल गेल"
+    },
+    {
+      "kind": "alternative",
+      "subject": "KJV 'for fear of Saul'",
+      "rationale": "केजेवी 'डर के कारण' जोड़ऽ हइ; इबरानी खाली 'शाउल के मुँह से' कहऽ हइ"
+    }
+  ],
+  "translation": "आउ दाविद उठलन आउ ओही दिन शाउल के मुँह से भागलन, आउ गत के राजा अकीश के पास अइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6efd213180c175abf468ca10b49c8143be695c213b911d0096cf7044a8c8acaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/21\/9-12.1791995582699.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "भागलन"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के मुँह से"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "अकीश"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गत"
+    }
+  ],
+  "timestamp": "2026-10-14T16:33:02.700663096Z",
+  "model": "glm-5.3"
+}

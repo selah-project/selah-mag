@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "לתוגה",
+      "rationale": "तुगाह — दुख-दबाव बर बिरल पद, तनाख में एही जगह; दुख बर रखल"
+    },
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": "पुरान अनुवाद में 'ओकरा बर' बनिस्त दुख के बर गिनाहइ; दोसर पाठ 'ओकरा' बेटा बर"
+    }
+  ],
+  "translation": "जे नादान ⟨जनै⟩ हइ, ⟨ओकरा⟩ दुख बर; आउ बेसमझ के बाप खुस नञ होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a0340a5198c891f57e666575f8d848db113868bbd78eff4185e348cede8b17d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/17\/21-24.1792006745945.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "जनै"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "नादान"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "दुख बर"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा बर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "खुस होतइ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "बाप"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "बेसमझ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:05.946392664Z",
+  "model": "glm-5.3"
+}

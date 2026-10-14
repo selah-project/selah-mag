@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קולי ... קולי",
+      "rationale": "दुनो अंस में 'हमर बोली' के दोहराव — तुकबंदी के चाल, मगही में बचल हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "बिनती करए वाला यहवे के सीधे संबोधन करऽ हइ"
+    }
+  ],
+  "translation": "हमर बोली यहवे के दने — हम चीखऽ हइ; हमर बोली यहवे के दने — हम करुणा के बिनती करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/142\/1-4.1792006314955.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "हमर बोली"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "हम चीखऽ हइ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "हमर बोली"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "हम करुणा के बिनती करऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:54.956873739Z",
+  "model": "glm-5.3"
+}

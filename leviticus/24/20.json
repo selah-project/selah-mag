@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר…עין…שן",
+      "rationale": "तीन जोड़ी के दोहराव — बदला के बिधान के तालबद्ध ढाँचा, मगही में ओकर लय रक्खल गेलइ।"
+    }
+  ],
+  "translation": "टूट के बदला टूट, आँख के बदला आँख, दाँत के बदला दाँत — जइसने ओ कोनो मनुस के कुट लगावलक, ओहीने ओकरा लगायल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "eb6af1bfa56ffa5d9cb8971dfa10b84923673b11e7455c74754d0018e56990da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/24\/17-20.1791990327454.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "टूट"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "टूट"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "लगावलक"
+    },
+    {
+      "surface": "מום",
+      "gloss": "कुट"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "कोनो मनुस के"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ओहीने"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "लगायल जातइ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:05:27.455065837Z",
+  "model": "glm-5.3"
+}

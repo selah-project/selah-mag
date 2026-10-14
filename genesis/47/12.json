@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הטף",
+      "rationale": "'बच्चे\/शिशु' बनाम KJV\/ASV के 'परिवार' — इब्रानी मूल छोट बुतरू के संग्रह-सब्द हकइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפי הטף",
+      "rationale": "'बच्चनी के मुँह के अनुसार' — छोट बुतरू के जरूरत के हिसाब से खुआवऽ के इब्रानी मुहावरा।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויכלכל",
+      "rationale": "कुल-कुल दोहराव वाला क्रिया — पोसने के काम के लय, मगही में 'खुआलन' एके में घट गेल।"
+    }
+  ],
+  "translation": "योसेफ अपना बाबूजी आउ अपना भाय सब आउ ⟨את⟩ अपना बाबूजी के पूरा घर के रोटी खुआलन — बुतरू सब के मुँह के हिसाब से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9693dc305891facffcf29817cb52e3235e55f9a7ad44916777d3b594403fb01a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/47\/9-12.1791987831873.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "खुआलन"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपना बाबूजी"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "अपना बाबूजी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अपना भाय सब"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "अपना भाय सब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨आउ⟩ ⟨את⟩",
+      "marks": "अपना बाबूजी के पूरा घर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "अपना बाबूजी के"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "मुँह के हिसाब से"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "बुतरू सब"
+    }
+  ],
+  "timestamp": "2026-10-14T14:23:51.874870825Z",
+  "model": "glm-5.3"
+}

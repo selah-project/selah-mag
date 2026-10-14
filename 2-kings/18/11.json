@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बस्ती के थाम",
+      "rationale": "बन्सावल लोग के थाम-सूची — हलाह, खाबोर, गोजान, मादई के नगर — नाम के गिनती हे।"
+    },
+    {
+      "kind": "crux",
+      "subject": "נהר גוזן",
+      "rationale": "गोजान के नदी खाबोर हे, या खाबोर गोजान देस के नदी — दुनू पढ़ाव में गोजान के जगह बदलऽ हइ।"
+    }
+  ],
+  "translation": "आउ अस्सूर के राजा यिस्राएल ⟨את⟩ के अस्सूर दने बन्सा देलक, आउ ओकनी के हलाह में आउ गोजान के नदी खाबोर के तट पर आउ मादई के नगर सब में बइठालक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "edd11d51a2f50f3c90352ca2c2f79f18df630e970699f2ccb545e2d6893c2af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/18\/9-12.1791998191678.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "आउ बन्सा देलक"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "अस्सूर दने"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "आउ बइठालक"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "हलाह में"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "आउ खाबोर"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "गोजान"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "आउ नगर सब"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "मादई"
+    }
+  ],
+  "timestamp": "2026-10-14T17:16:31.679331708Z",
+  "model": "glm-5.3"
+}

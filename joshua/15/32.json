@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 15:32",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "कुल नगर बाइस आउ उन्नीस",
+      "rationale": "नगर के गिनती के बयान — कुल उन्नत्तीस नगर आउ ओकरा के गाँव।"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחצריהן",
+      "rationale": "חצרेऔן के मतलब 'गाँव' (छोट बसाहट) या 'आँगन' — अनुवादक लोग 'गाँव' लेथिन; 'आँगन' के अरथ पाछे के गिनती में नञ जुअतइ।"
+    }
+  ],
+  "translation": "आउ लेबाओत आउ शिल्हीम आउ अयिन आउ रिम्मोन — कुल नगर उन्नीस आउ बाइस, आउ ओकनी के गाँव-गाँम।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e8117b37e8af0527ddfebfb7168faf0e45bf9f1c55978b0acd869285c4b8df7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/15\/29-32.1791993601799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבאות",
+      "gloss": "आउ लेबाओत"
+    },
+    {
+      "surface": "ושלחים",
+      "gloss": "आउ शिल्हीम"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "आउ अयिन"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "आउ रिम्मोन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बाइस (बीस)"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "आउ उन्नीस (नौ)"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "आउ ओकनी के गाँव-गाँम"
+    }
+  ],
+  "timestamp": "2026-10-14T16:00:01.800445866Z",
+  "model": "glm-5.3"
+}

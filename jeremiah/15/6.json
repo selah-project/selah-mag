@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 15:6",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנחם",
+      "rationale": "נחם के दू अरथ — 'अनुताप\/रुचि बदलाव' (KJV: weary of repenting) बना 'सांत दियै से थकल' (BSB: weary of showing compassion); इहाँ अनुताप लेलियन।"
+    },
+    {
+      "kind": "you",
+      "subject": "यरूशलयिम\/यहूदा के परजा",
+      "rationale": "यहवे अपन परजा के 'तूँ' कह के दोस देतइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "करै से",
+      "rationale": "हम थक गेलियन + הנח׮ के कर्तृ-क्रिया जोड़े बर मगही में 'करै से' चाही।"
+    }
+  ],
+  "translation": "तूँ हमरा छाड़ देलऽ हऽ — यहवे के बचन — तूँ पाछे हटल जा रहलऽ हऽ; आउ हम तोहरा ऊपर हमर हाथ फैललियन आउ हम तोहरा नास कएलियन; हम अनुताप करै से थक गेलियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2abfa913b0d6f3f994c61da856ad0961241865a11e09d06c3ed730285f1b5b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/15\/5-8.1792000468239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "נטשת",
+      "gloss": "छाड़ देलऽ हऽ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "हमरा"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पाछे"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "हटल जा रहलऽ हऽ"
+    },
+    {
+      "surface": "ואט",
+      "gloss": "आउ … फैललियन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर हाथ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हमर हाथ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहरा ऊपर"
+    },
+    {
+      "surface": "ואשחיתך",
+      "gloss": "आउ हम तोहरा नास कएलियन"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "हम थक गेलियन"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "अनुताप करै से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:54:28.240343573Z",
+  "model": "glm-5.3"
+}

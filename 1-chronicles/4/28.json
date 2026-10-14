@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "चिन्हित संज्ञा",
+      "rationale": "מדबר बिना संज्ञा हइ — नाम (बेएर-शेबा, खत्सर-शुआल) के बीच के जोड़ मगही में एके नाम के रूप में लिखल गेलन।"
+    }
+  ],
+  "translation": "आउ ओकनी बेएर-शेबा आउ मोलादा आउ खत्सर-शुआल में बसलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a531f04bcba08ecae7fa274290c57b28c13506c04e4f3e41cb0e25c33a75000f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/4\/25-28.1792009944212.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "बसलन"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "बेएर में"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "आउ मोलादा"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "आउ खत्सर"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "शुआल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:32:24.213041699Z",
+  "model": "glm-5.3"
+}

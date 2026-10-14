@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 22:12",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "gloss": "इ टोकन H854 'संग' हकइ, H853 बिबध-बोधक नञ; ⟨את⟩ चिन्हा के नियम के कारण ⟨⟩ में देखावल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "छ बरिस",
+      "rationale": "छुपाव के गिनती — छ बरिस के ठीक अंक"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩-संग एलोहीम के घर में छ बरिस ले छुपल रहलन, आउ अतल्याहू धरती पर राज करऽ रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c09938c0c2352b3e1eb16fa77ca221ecea3486b7c8c4b20815322acb56e2e0d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/22\/9-12.1792011104698.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होल"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ (संग)"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "छुपल रहलन"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस ले"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "आउ अतल्याहू"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "राज करऽ रहलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T20:51:44.699611736Z",
+  "model": "glm-5.3"
+}

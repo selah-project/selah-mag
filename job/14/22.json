@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 14:22",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paran",
+      "rationale": "नפש rendered 'परान' (life-breath), not 'आत्मा'."
+    },
+    {
+      "kind": "crux",
+      "subject": "עליו",
+      "rationale": "'Upon him' — KJV 'within him', JPS 'for him\/over him'; the repeated עליו is kept literally."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עליו ... עליו",
+      "rationale": "Parallel repetition of עליו binds flesh's pain and soul's mourning; kept in Magahi."
+    }
+  ],
+  "translation": "बाकि ओकर मांस ओकरा दुखावऽ हइ, आउ ओकर परान ओकरा ऊपर सोग करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cf682905fee3686303fa0274f3e2ee71c180ed8eb1cabeb3a66987efd156636f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/14\/21-22.1792007364091.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ओकर मांस"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा दुखावऽ हइ"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "दुखावऽ हइ"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "आउ ओकर परान"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "सोग करऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:49:24.091690462Z",
+  "model": "glm-5.3"
+}

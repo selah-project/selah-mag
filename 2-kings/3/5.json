@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "במלך",
+      "rationale": " Heb. 'in\/against the king' rendered 'राजा बिरुद्ध'; the preposition ב carries hostility here."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויפשע",
+      "rationale": "literal 'broke away (from authority)'; rendered as बगावत कइलक."
+    }
+  ],
+  "translation": "आउ अहाब के मरला पर मोआब के राजा यिस्राएल के राजा बिरुद्ध बगावत कइलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "de72c38f04c22b0c941348d333157605a575036708220376c210d5bf7d2255c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/3\/5-8.1791997707034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "मरला पर"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "बगावत कइलक"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "राजा बिरुद्ध"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:08:27.035339879Z",
+  "model": "glm-5.3"
+}

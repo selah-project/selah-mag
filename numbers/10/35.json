@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 10:35",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "मोशे के प्रार्थना सीधे यहवे से बोलल गेलइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "उठऽ यहवे",
+      "rationale": "आज्ञारूपी आह्वान — मोशे यहवे के आगू बढ़े के हुकुम देथे।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "inverted nun",
+      "rationale": "मसोरेतिक पाठ में ई पद आउ 36 दुनो दने उल्टा नून चिन्हा हकइ — सन्दूक के दू प्रार्थना अलग चिन्हित होवऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मुँह",
+      "rationale": "מפניך शाब्दिक रूप से 'तोहर मुँह से' हकइ; 'सामने से' चलनसार अनुवाद चित्र मेटाव देथे।"
+    }
+  ],
+  "translation": "आउ जब सन्दूक चले लगल, मोशे (मूसा) कहलन: “उठऽ यहवे, आउ तोहर बैरी बिखर जाहों, आउ जे तोहरा नफरत करथिन, ऊ तोहर मुँह से भाग जाहों।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1cd3eabaa64e250722ecb454d73c766a0c4e5651d0be203b6b69936bb3928e40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/10\/33-36.1791990868293.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ जब"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "चले लगल"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "उठऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויפצו",
+      "gloss": "आउ बिखर जाहों"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "तोहर बैरी"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "आउ भाग जाहों"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "जे तोहरा नफरत करथिन"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "तोहर मुँह से"
+    }
+  ],
+  "timestamp": "2026-10-14T15:14:28.294406481Z",
+  "model": "glm-5.3"
+}

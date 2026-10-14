@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חברת \/ חבר",
+      "rationale": "एके जड़ के दोहराव — 'जोड़ल … जोड़ल' — जोड़ के रटाव मगही में बचोरल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "गेलन",
+      "rationale": "हिब्रू निष्पक्ष क्रिया (חבר) में करता नञ हकइ; मगही निष्पक्ष रूप 'जोड़ल गेलन' में बे-करता बनइल गेलन।"
+    }
+  ],
+  "translation": "ओकर बर काँधा के पट्टी बनइलन, जोड़ल गेलन, ओकर दूनो किनारा पर जोड़ल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b8924eb63c20d9764fda55356ca317894b0758e7cc28c3ab2316f192ee2636b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/39\/1-4.1791989381083.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "काँधा के पट्टी"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर बर"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "जोड़ल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दूनो"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "ओकर किनारा"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "जोड़ल गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:49:41.084723035Z",
+  "model": "glm-5.3"
+}

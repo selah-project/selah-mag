@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "संगीत-मुखिया",
+      "rationale": "למנצח के सार अरथ 'चमकते-दूर से दिखऽ हइ'; मुखिया\/निगरानी करनिहार अरथ मँजूर हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "शीर्सक पढ़निहार के ओर ई जसगाना के ठउर बतावऽ हइ"
+    }
+  ],
+  "translation": "संगीत-मुखिया के बर, दाविद (दाऊद) के जसगाना।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5153850697641f8e48b56e9f75a49ab15fc1715ffec9bae78abfebf663d00e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/20\/1-4.1792004674067.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-मुखिया के बर"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "जसगाना"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद (दाऊद) के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:04:34.067509967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "सेवक यिस्राएल",
+      "rationale": "यहवे सीधे सेवक के सम्बोधित करऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨अपन⟩",
+      "rationale": "इब्रानी में सर्बनाम नञ हइ; बाक्य मगही में साफ होवे बर जोड़ल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישראל",
+      "rationale": "यिस्राएल एहाँ सेवक के नाम हकइ या परम-अरथ — व्यक्ति या परजा — पुरान कहल बात में मतभेद"
+    }
+  ],
+  "translation": "आउ ओ हमरा कहलन: तूँ हमर सेवक हऽ, यिस्राएल, जेकरा में हम ⟨अपन⟩ शोभा देखावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "85ad3399b816184519876bf3c16aa2a936ac1fdc3ae4aea8d378dcd7f6a8debc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/49\/1-4.1791999670915.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "हमर सेवक"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा में"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "शोभा देखावऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:41:10.916692244Z",
+  "model": "glm-5.3"
+}

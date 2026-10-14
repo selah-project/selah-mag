@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 23:21",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ब्याज पर उधार",
+      "rationale": "נשך के साक्षात अरथ 'काटना \/ डसना' (साँप के डंक) हकइ; ब्याज के बिसयु में लिहल गेल।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "משלח ידך",
+      "rationale": "'हाथ के बिसारल' — काम में हाथ लगावे के हिब्रू मुहावरा।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "बिधान के ओझार सीधे इस्राएल के परजा से कहल गेल।"
+    }
+  ],
+  "translation": "परदेसी के तूँ ब्याज पर उधार दे सकऽ हँ, बाकि अपन भाय के ब्याज पर उधार नञ दे — जेहन धरती में तूँ गेला ओकरा बर बसे, ओही धरती में जेतना काम में तूँ हाथ बढ़ावऽ हँ, ओकरा बर यहवे तोहर एलोहीम तोहरा असीस देतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3515179111441dfa20f25aa020dff171656a1a1981a66aa74186436370e98879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/23\/21-24.1791992716221.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לנכרי",
+      "gloss": "परदेसी के"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "ब्याज पर उधार दे सकऽ हँ"
+    },
+    {
+      "surface": "ולאחיך",
+      "gloss": "बाकि अपन भाय के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "ब्याज पर उधार दे"
+    },
+    {
+      "surface": "למען",
+      "gloss": "एकरा बर"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "तोहरा असीस देतन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "जेतना काम में"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "हाथ बढ़ावऽ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेहन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "गेला"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओइ"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ओकरा बर बसे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:45:16.222388485Z",
+  "model": "glm-5.3"
+}

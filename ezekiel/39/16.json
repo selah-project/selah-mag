@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "(भीड़)",
+      "rationale": "हमोना के पहिला आगमन — कोस्ठक में अरथ समझावल गेलइ, नाम लिप्यन्तरित रहलइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המונה",
+      "rationale": "नगर के नाम हमोना 'भीड़' के जड़ से बनलइ — गोग के भीड़ के याद रखे बर"
+    }
+  ],
+  "translation": "आउ नगर के नामो हमोना ⟨भीड़⟩ होतइ; आउ ओकनी धरती के पवित्तर करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f8a13aa95c731a54b0783a2efe3d7e3c11c17a09f55739be2ad7aba17e640759",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/39\/13-16.1792002791745.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आउ ...ओ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "हमोना"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "आउ पवित्तर करतइ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:33:11.746988441Z",
+  "model": "glm-5.3"
+}

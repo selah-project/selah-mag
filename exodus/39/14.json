@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 39:14",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बारह पत्थल",
+      "rationale": "बारह नाम, बारह गोटी — गिनती के ढाँचा वाला पद।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "הנה बल देवै वाला क्रिया-चिन्हा हकइ; मगही के क्रिया बर कोस्ठक में जोड़ल गेल।"
+    }
+  ],
+  "translation": "आउ पत्थल सब यिस्राएल के बेटा सब के नाम के मोताबिक ⟨हकइ⟩ — दू-दस (बारह), ओकरा के नाम के मोताबिक; मुहर के खोदाई जइसन, हर एक ओकर नाम के संग, बारह गोटी के बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a3672582ae955081ebcf92542904b3f54d86e20403d56a8e46f5209a8ac6b20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/39\/13-16.1791989387633.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאבנים",
+      "gloss": "आउ पत्थल सब"
+    },
+    {
+      "surface": "על",
+      "gloss": "के मोताबिक"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "नाम के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨हकइ⟩"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दू-दस (बारह) का"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दू-दस (बारह) का"
+    },
+    {
+      "surface": "על",
+      "gloss": "के मोताबिक"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "ओकरा के नाम के"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "खोदाई जइसन"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "मुहर के"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "על",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "बारह का (दू)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "बारह का (दस)"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "गोटी"
+    }
+  ],
+  "timestamp": "2026-10-14T14:49:47.634359969Z",
+  "model": "glm-5.3"
+}

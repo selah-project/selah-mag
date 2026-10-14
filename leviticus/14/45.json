@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ \/ ⟨सबके⟩",
+      "rationale": "करता (पुरोहित, पइछला पद से) आउ करम-सर्बनाम इब्रानी में क्रिया के रूप में भीतर हइ; मगही में अलग से जोड़ल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "עפר — गारा",
+      "rationale": "KJV 'morter', YLT 'clay', BSB 'plaster'; मूल अरथ धूरी\/मिट्टी — घर के पलस्तर वाला गारा"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ घर तोड़लन — ⟨את⟩ ओकर पत्थल, ⟨את⟩ ओकर लकड़ी आउ ⟨את⟩ घर के सब गारा — आउ ⟨सबके⟩ नगर के बाहर, अशुद्ध जगह पर ले गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "226193c91355b95727e1298c6773228d58e7c30fcd8c1c43e6fcb895f3372090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/14\/45-48.1791989943923.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "तोड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर पत्थल"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "ओकर पत्थल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर लकड़ी"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "ओकर लकड़ी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "घर के सब गारा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "गारा"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "आउ बाहर ले गेलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह पर"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    }
+  ],
+  "timestamp": "2026-10-14T14:59:03.924142259Z",
+  "model": "glm-5.3"
+}

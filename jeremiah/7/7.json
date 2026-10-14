@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "सदी से आउ सदी ले",
+      "rationale": "למן עולם ועד עולם के दू घड़ी के मतलब बर देखल जा हइ — 'हमेसा से ले सदा तक' या 'सदा के बर' (जेएनएस\/केजेवी के 'for ever and ever')"
+    },
+    {
+      "kind": "addition",
+      "subject": "तब",
+      "rationale": "हिब्रू में सामिल नञ — पद 5–6 के अगर के जवाब के जोड़ देखावे बर मगही में जोड़ल"
+    }
+  ],
+  "translation": "तब हम ⟨את⟩ तोहनी के एही जगह में बसइबइ, ओ धरती में जे हम तोहर पुरखा के देलन रहलिये — सदी से आउ सदी ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "58b02c60bb11cf2a72f75dba882ae06d5ba5ef151d3d87d0bc84b79f03fd0a7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/7\/5-8.1792000284382.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "आउ हम बसइबइ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "जगह में"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "देलन रहलिये"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "तोहर पुरखा के"
+    },
+    {
+      "surface": "למן",
+      "gloss": "सदी से"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदी"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ ले"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदी"
+    }
+  ],
+  "timestamp": "2026-10-14T17:51:24.383180955Z",
+  "model": "glm-5.3"
+}

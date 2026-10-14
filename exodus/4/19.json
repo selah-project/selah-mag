@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש शरीर के जीवन-साँस हकइ, कोनो अलग आत्मा नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "मोशे",
+      "rationale": "यहवे मोशे के सीधे आदेस देतन।"
+    }
+  ],
+  "translation": "आउ यहवे मोशे के मिदियान में कहलन: जा, मिस्रयिम के लौट — काहे कि ऊ सब मरद मर गेलन जे ⟨את⟩ तोहर परान के खोजऽ हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "412f827a2915ba09078374531f3aad0ce3aaaad22972ddd006680bcf16569728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/4\/17-20.1791988104865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "मिदियान में"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "שב",
+      "gloss": "लौट"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मर गेलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "जे खोजऽ हलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर परान"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "तोहर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T14:28:24.866428132Z",
+  "model": "glm-5.3"
+}

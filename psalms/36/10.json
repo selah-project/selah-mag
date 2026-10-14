@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमनी",
+      "rationale": "निफाल נראה के करता मूलपाठ में नञ हइ; मगही के बाक्य बुनारी बर सर्बनाम जोड़ल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "इँजोर देखऽ हइ",
+      "rationale": "נראה के निफाल 'देखाय देतइ' (इँजोर देखाय पड़तइ) बनाम सक्रिय-रूपी पढ़ाई 'हमनी देखऽ हइ'।"
+    }
+  ],
+  "translation": "काहे कि तोहरा संग जिअन के स्रोत हकइ; तोहर इँजोर में ⟨हमनी⟩ इँजोर देखऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "770e5f4e7b6cd2b3a2e29726d5bc1fe99ae4427a2ffaeba58196f77c6a6039b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/36\/9-12.1792004839580.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहरा संग"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "स्रोत"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिअन के"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "तोहर इँजोर में"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "देखऽ हइ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "इँजोर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:19.581580045Z",
+  "model": "glm-5.3"
+}

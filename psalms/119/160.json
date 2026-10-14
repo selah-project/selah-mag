@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש",
+      "rationale": "'head\/sum' — 'the sum of thy word' (ASV\/BSB) vs 'from the beginning' (KJV) vs 'the beginning' (JPS)"
+    }
+  ],
+  "translation": "तोहर बात के सार सच हकइ, आउ हमेसा बर तोहर त्सेदेक के हर एक नियाव।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ebceea0ab5e72f3b307cc5c217ad32df22e7a88725dc4c7454dd564e18f12351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/157-160.1792006148150.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "सार"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "तोहर बात के"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "हमेसा बर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "तोहर त्सेदेक के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:08.152093058Z",
+  "model": "glm-5.3"
+}

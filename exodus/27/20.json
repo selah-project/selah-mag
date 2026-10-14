@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "मोशे (मूसा) के बर",
+      "rationale": "हिब्रू दूसरा पुरुष में मोशे के सीधे आज्ञा देत हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "להעלת ठר",
+      "rationale": "हिब्रू के साक्षात 'दिया ऊपर चढ़ावे बर' (नगत गगम् का्न); 'दिया लगावे' चलनसार अनुवाद हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हुअए",
+      "rationale": "'चोख, कूटल' दू विसेसण के बीच जोड़ संबंधबोधक हिब्रू में नञ हइ।"
+    }
+  ],
+  "translation": "आउ तूँ हुकुम देबू ⟨את⟩ यिस्राएल के बेटा सब के, आउ ओ तोहरा ले लेतइ जैतून के तेल — चोख, कूटल हुअए — दिये बर, दिया लगावे बर लगातार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f1398718c3bbea2402730bdb3602f357070127879906a933206daa8aa99117b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/27\/17-20.1791988876913.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "हुकुम देबू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के बेटा सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "आउ ओ लेतइ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा ले"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "זית",
+      "gloss": "जैतून के"
+    },
+    {
+      "surface": "זך",
+      "gloss": "चोख"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "कूटल"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "दिये बर"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "दिया लगावे बर"
+    },
+    {
+      "surface": "נר",
+      "gloss": "दिया"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "लगातार"
+    }
+  ],
+  "timestamp": "2026-10-14T14:41:16.914067837Z",
+  "model": "glm-5.3"
+}

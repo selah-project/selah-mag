@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 39:6",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתו",
+      "rationale": "इ अलेफ-ताव परिवार नञ हकइ — אִתּוֹ संग-बरत के सब्द हकइ ('ओकर संग'); चिन्हा परति रखल गेल।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "'खाली ओहे' — इब्रानी के परतिबंधी जोड़, 'बाकि खाली' के अरथ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפה תאר ויפה מראה",
+      "rationale": "सुंदर शब्द के दोहराव जे रूप आउ दरस दूनो के ढकऽ हइ।"
+    }
+  ],
+  "translation": "आउ ऊ ओकर जे कुछो हइ ऊ सब योसेफ के हाथ में छोड़ देलक, आउ ऊ ओकर संग ⟨את⟩ के कोनो चीज नञ जानलक, खाली ओहे रोटी जे ऊ खावऽ हलइ; आउ योसेफ सुंदर रूप-रंग के आउ सुंदर देखे में हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6cb89b38fe57823e7b93867d9971969a9a91d111bfb450f881f1729ae48c953e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/39\/5-8.1791987594865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "आउ छोड़ देलक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानलक"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर संग"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कोनो चीज"
+    },
+    {
+      "surface": "כי",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "אם",
+      "gloss": "खाली ओहे"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "खावऽ हलइ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ हलइ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "सुंदर"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "रूप-रंग"
+    },
+    {
+      "surface": "ויפה",
+      "gloss": "आउ सुंदर"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "देखे में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:19:54.866065752Z",
+  "model": "glm-5.3"
+}

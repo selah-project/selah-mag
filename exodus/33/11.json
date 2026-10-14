@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 33:11",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "मोशे",
+      "rationale": "क्रिया वशब के करता मूलपाठ में सर्बनाम हकइ; मगही संदर्भ साफ करे बर नाम जोड़लन"
+    },
+    {
+      "kind": "idiom",
+      "subject": "मुँह-से-मुँह",
+      "rationale": "पनिम एल पनिम इब्रानी के थिर मुहावरा — साक्षात भेंट के अरथ; जोड़-रूप में रखलन"
+    },
+    {
+      "kind": "crux",
+      "subject": "नעर",
+      "rationale": "लड़का\/सेवक-बालक बनाम 'सहायक' — जोसुआ के उमिर आउ पद दुनो के सवाल"
+    }
+  ],
+  "translation": "आउ यहवे मोशे संग मुँह-से-मुँह बात कहलन, जइसन कोनो मरद अपन मित्तर संग करऽ हइ; आउ ⟨मोशे⟩ डेरा में लौट गेलन, बाकि ओकर सेवक यहोशुआ (यहोशू), नून के बेटा, लड़का, ओहिअर के बीच से नञ हटै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "85cbddf449aa78c5af5482a86b2200eec2a0c4010073ca9bf21eef93c97f075c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/33\/9-12.1791989219676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "आउ बात कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "संग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "बात करऽ हइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "संग"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "अपन मित्तर"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "आउ लौट गेलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "डेरा"
+    },
+    {
+      "surface": "ומשרתו",
+      "gloss": "बाकि ओकर सेवक"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नून"
+    },
+    {
+      "surface": "נער",
+      "gloss": "लड़का"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "हटै"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "के बीच से"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ओहिअर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:46:59.677709432Z",
+  "model": "glm-5.3"
+}

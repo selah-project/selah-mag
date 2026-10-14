@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 11:12",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עיר ועיר",
+      "rationale": "'नगर-आउ-नगर' के दोहराव — हर एक नगर के गिनती के चाल, मगही में 'नगर-नगर' से रखल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויהי לו",
+      "rationale": "'ओकरा भेलथिन' — 'ओकरा के होगेलन' (अनुगत होगेलन) बनाम 'ओकरा के भेलन' (मिललन); अरथ के खिंचाव बाकी हइ।"
+    }
+  ],
+  "translation": "आउ हर एक नगर-नगर में ढाल आउ भाला रखलन — बहुते बेसी मजबूत करए बर; आउ यहूदाह आउ बिन्यामीन ओकरा भेलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d61eac73f0d9b36e15d62a28afb734e7e8c733e2a90a1038c8e538cb18acf4f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/11\/9-12.1792010750193.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "आउ हर एक में"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "आउ नगर"
+    },
+    {
+      "surface": "צנות",
+      "gloss": "ढाल सब"
+    },
+    {
+      "surface": "ורמחים",
+      "gloss": "आउ भाला सब"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "ओकरा के मजबूत कएलन"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "बहुते बेसी करए बर"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेलथिन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा बर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाह"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "आउ बिन्यामीन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:45:50.194307043Z",
+  "model": "glm-5.3"
+}

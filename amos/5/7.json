@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 5:7",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "कड़वा पोथा",
+      "rationale": "लआनह — कड़वा जड़ी-पोथा, विष के चिन्ह; मगही में कोनो एक पोथा के नाँव नञ चलऽ हइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "गिरा देथिन",
+      "rationale": "हनिखु — 'छाड़ देथिन \/ पड़ा रहै देथिन' दूसर पढ़ाई"
+    }
+  ],
+  "translation": "जे लोग नियाव के कड़वा पोथा बनावै लेथिन, आउ त्सेदेक के धरती पर गिरा देथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a3dadaa79f848264ca776d04166e3d095f17a8f13d5506d25479051f0f5c1940",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/5\/5-8.1792003579327.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההפכים",
+      "gloss": "जे लोग उलटथिन"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "कड़वा पोथा"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "आउ त्सेदेक"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "गिरा देथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:46:19.328205091Z",
+  "model": "glm-5.3"
+}

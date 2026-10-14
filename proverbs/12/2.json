@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "मनुस",
+      "rationale": "טוב बिशेसण हकइ; मगही के संज्ञा चाही"
+    },
+    {
+      "kind": "crux",
+      "subject": "यרשיע के करता",
+      "rationale": "कोनो दोसी ठहराबऽ हइ — यहवे (मानक पढ़ाई) बनाम ओ मनुस खुदे (किछु पढ़निहार)"
+    }
+  ],
+  "translation": "भला ⟨मनुस⟩ यहवे के रज़ामंदी पाबऽ हइ, बाकि कुटिल चाल के मनुस के ऊ दोसी ठहराबऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/12\/1-4.1792006675145.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "पाबऽ हइ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "रज़ामंदी"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "बाकि … मनुस"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "कुटिल चाल के"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "दोसी ठहराबऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:37:55.146119894Z",
+  "model": "glm-5.3"
+}

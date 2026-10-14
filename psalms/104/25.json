@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ידים",
+      "rationale": "दुअर्थक बहुबचन 'हाथ-दुई' के मतलब दुनो ओर तक फैलल — 'हाथ' शब्द अनुवाद में छूट गेलइ"
+    }
+  ],
+  "translation": "ई समुंदर, बड़ आउ चउड़ा ⟨के दुनो ओर तक⟩, ओहिने रेंगै वाला जीव बाने जेकर गिनती नञ, छोटका जीव-जंतु बड़का संग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/104\/25-28.1792005844867.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आउ चउड़ा"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "⟨के दुनो ओर तक⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिने"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "रेंगै वाला जीव"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "जीव-जंतु"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "छोटका"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "बड़का"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:04.868243463Z",
+  "model": "glm-5.3"
+}

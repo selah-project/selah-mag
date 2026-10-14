@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "पहरेदार के बुर्ज",
+      "rationale": "מגדל נוצרים — 'पहरेदार के बुर्ज' (एक-एक बुर्ज) बनाम 'अतवार के मीनार' (एक खास जगह के नाम) बीच अनुवादकन के मतभेद"
+    }
+  ],
+  "translation": "ऊ ⟨את⟩ पलिश्ती के मारलन, गाजा ले आउ ⟨את⟩ ओकर सीमा ले — पहरेदार के बुर्ज से गढ़ नगर ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f9ecda6c511acc5c8d9e2ff185d30b54354310136802932755bcd8d7183d15c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/18\/5-8.1791998192497.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पलिश्ती के"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "गाजा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर सीमा"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ओकर सीमा"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "बुर्ज से"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "पहरेदार के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "गढ़"
+    }
+  ],
+  "timestamp": "2026-10-14T17:16:32.498577769Z",
+  "model": "glm-5.3"
+}

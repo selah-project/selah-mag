@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 11:14",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הזניחם",
+      "rationale": "जड़ זנח — 'फेंट देवे, त्याग देवे, दूर कर देवे'; कतुबन 'cast them off' धरऽ हथिन, कतुबन 'रोक देवे' — मगही में 'रोक देलन' धरलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מגרשיהם",
+      "rationale": "मिग्रास = पुरोहित-गाँव के बाहर घास-जमीन; 'suburb' या 'pastureland' दूनो अधूर हकइ।"
+    }
+  ],
+  "translation": "काहे कि लेवीय सब ⟨את⟩ अपन गाँव के घास-जमीन आउ अपन जोत-जमीन छोड़ देलन आउ यहूदा आउ यरूशलयिम के चल गेलन, काहे कि यारोबाम आउ ओकर बेटा सब ओकरा यहवे बर पुरोहित के काम करे से रोक देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9b97dea88e1073a12d2c8af50f811e8bb0ad0bd8b11c7f2ff9626f34feb09699",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/11\/13-16.1792010781551.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "छोड़ देलन"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवीय सब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन गाँव के घास-जमीन"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "अपन गाँव के घास-जमीन"
+    },
+    {
+      "surface": "ואחזתם",
+      "gloss": "आउ अपन जोत-जमीन"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "आउ चल गेलन"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "आउ यरूशलयिम के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הזניחם",
+      "gloss": "ओकरा रोक देलन"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यारोबाम"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "आउ ओकर बेटा सब"
+    },
+    {
+      "surface": "מכהן",
+      "gloss": "पुरोहित के काम करे से"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:46:21.552637210Z",
+  "model": "glm-5.3"
+}

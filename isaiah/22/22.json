@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתח\/סגר",
+      "rationale": "खोलऽ\/बन्द करऽ के उलटा-पुरा जोड़ी — एकर तुकबंदी मगही में जस के तस रहऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "दुआरी",
+      "rationale": "चाबी दुआरी बर होवऽ हइ — बात साफ करे बर जोड़ल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "על שכמו",
+      "rationale": "चाबी ढाढ़ पर — पुरान समय के बड़ चाबी ढाढ़ पर टाँगल जावऽ हल; किछु अनुवादक 'ओकर अधिकार' के रूपक मानऽ हथिन।"
+    }
+  ],
+  "translation": "आउ हम दाविद (दऊद) के घर के चाबी ओकर ढाढ़ पर रखबइ, आउ ऊ दुआरी खोलतइ त कोनो बन्द नञ करतइ, आउ ऊ बन्द करतइ त कोनो खोलतइ नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "901114603bf688e6ecfab1fa184dbae5a9652b4996eb2a942a311725a196bd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/22\/21-24.1791998992972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "आउ हम रखबइ"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "चाबी"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद (दऊद)"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ओकर ढाढ़"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "आउ ऊ खोलतइ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "त कोनो नञ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "बन्द करतइ"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "आउ ऊ बन्द करतइ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "त कोनो नञ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "खोलतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:29:52.973165795Z",
+  "model": "glm-5.3"
+}

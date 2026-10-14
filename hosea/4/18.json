@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "hosea 4:18",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "बित गेलन",
+      "rationale": "סר סבאם के मतलब बाँटल हकइ: 'ओकरा मद खट्टा भेल' (KJV) बनाम 'ओकरा जुआन-पियान बित गेलन' (JPS)।"
+    },
+    {
+      "kind": "crux",
+      "subject": "דे सब",
+      "rationale": "הבו के जगह मतलबों में बाँटल हकइ: मद माँगे के चिल्लाहट 'दे सब!' बनाम 'ओकनी शरम लिये आनऽ हइ'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הזנה\/הזנו אהבו\/हבו",
+      "rationale": "दुहराव आउ एके जड़ के जोड़ी के तालमेल हकइ, जे मगही में दुहराव से कुछु कुछु बचल हकइ।"
+    }
+  ],
+  "translation": "ओकरा पियल-धुन बित गेलन; ओकनी वेस्यागमन करथिन, वेस्यागमन करथिन; ओकरा रखवाला लोग कलंक के परेम करथिन — दे सब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "623db11338dc7f46d03e3c62fb8039bbcad6eed2e692d53b58b3080dd4d302d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/4\/17-19.1792003158231.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סר",
+      "gloss": "बित गेलन"
+    },
+    {
+      "surface": "סבאם",
+      "gloss": "ओकरा पियल-धुन"
+    },
+    {
+      "surface": "הזנה",
+      "gloss": "वेस्यागमन"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "करथिन"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "परेम करथिन"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "दे सब"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "कलंक के"
+    },
+    {
+      "surface": "מגניה",
+      "gloss": "ओकरा रखवाला लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T18:39:18.231831939Z",
+  "model": "glm-5.3"
+}

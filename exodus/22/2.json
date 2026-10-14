@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "सुरुज उगलइ",
+      "rationale": "शाब्दिक सुरुज उगला — साक्षात् या रूपक ('साफ दिन में पहचानल जा सकऽ हइ'); दूनो पढ़ाई पुरान अहइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨कुछो⟩",
+      "rationale": "עד...אין लो खाली 'ओकरा नञ हकइ' — 'कुछो' साफ करे बर जोड़ल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "एके जड़ के परति — 'पूरा-पूरा भरपाई', अनिवार्य काल के ढाँचा।"
+    }
+  ],
+  "translation": "अगर सुरुज ओकरा ऊपर उगलइ, ओकरा बर खून-दोस हकइ — भरपाई जरूर करतइ; अगर ओकरा ⟨कुछो⟩ नञ हकइ, ओकरा चोरी के भरपाय में बेच दिअए जइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/22\/1-4.1791988743883.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "उगलइ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "खून-दोस"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा बर"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "भरपाई"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "जरूर करतइ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "बेच दिअए जइतइ"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "ओकरा चोरी के भरपाय में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:39:03.884104949Z",
+  "model": "glm-5.3"
+}

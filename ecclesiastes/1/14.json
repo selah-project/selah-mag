@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हेबेल",
+      "rationale": "הבל के सुभाविक अरथ 'साँस\/धुआँ' हकइ — क्षणभंगर, मगही में लिप्यन्तरन राखल गेलन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "רעות רוח",
+      "rationale": "'रूआख के पीछा' बनाम 'रूआख के बेकारी\/संताप' — רעות जड़ (רעה) के दुअर्थ।"
+    }
+  ],
+  "translation": "हम ⟨את⟩ सब काम-काज देखलन जे सुरुज के नीचे कइल गेलन; आउ देखऽ, सब हेबेल हकइ आउ रूआख के पीछा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "88885696a6c6f925e4a32cec718a1f9f8999b0bd8c499054ba50f2264dc505d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/1\/13-16.1792008354596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब काम-काज"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "काम-काज"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "कइल गेलन"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज के"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबेल"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "आउ पीछा"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:54.597398135Z",
+  "model": "glm-5.3"
+}

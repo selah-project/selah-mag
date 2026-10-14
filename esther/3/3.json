@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "उल्लंघन करना",
+      "rationale": "עובר के सुभाविक अरथ 'पार होना\/लाँघना' हकइ; ओकर चित्र टूट जाऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हल",
+      "rationale": "אשר-बाक्य में क्रिया-सहायक जोड़ल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "मारदोचै के",
+      "rationale": "नौकरनि के प्रस्न सीधे मारदोचै से पूछल गेलइ"
+    }
+  ],
+  "translation": "तब राजा के ओ नौकर, जे राजा के दुआरी पर हलन, मारदोचै से कहलनिए — काहे कि तूँ राजा के हुकम के ⟨את⟩ उल्लंघन करऽ हऽ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "26e447389593acb87bcaf790258ea7943589139c26b4a8b5eb7f4282a0c6bdeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/3\/2-3.1792012184147.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "तब ... कहलनिए"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "नौकर के"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "दुआरी पर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "मारदोचै से"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "उल्लंघन करऽ हऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हुकम के"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "हुकम के"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-10-14T21:09:44.148459462Z",
+  "model": "glm-5.3"
+}

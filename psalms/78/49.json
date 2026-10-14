@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "शब्द के सुभाव 'नाक\/मुँह' हकइ; गुस्सा के भड़ास ओकरे से बढ़ल भाव हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "משלחת מלאכי רעים",
+      "rationale": "'बुरा दूत सब के भेजऽ के बिदा' — कोनो 'बुरा दूत' के टोली (asv\/bsb) संग मतभेद"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מלאכי",
+      "rationale": "दूत (भेजल) लेल गेल; फरिस्ता नकारल रूप"
+    }
+  ],
+  "translation": "ऊ ओकनी पर अपन गुस्सा के भड़ास भेजलन — क्रोध आउ रीस आउ संकट, बुरा दूत सब के भेजऽ के बिदा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/49-52.1792005504207.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकनी पर"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "भड़ास"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "आउ रीस"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "आउ संकट"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "भेजऽ के बिदा"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "दूत सब के"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "बुरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:24.208612086Z",
+  "model": "glm-5.3"
+}

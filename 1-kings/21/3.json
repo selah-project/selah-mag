@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה",
+      "rationale": "इब्रानी के टाव-बिना-बात के ऊपरावा शब्द; मगही में ‘यहवे के दोहाई’ रूप में पार भेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בפत के जमीन",
+      "rationale": "נחלה बपत-हिस्सा हकइ — मिलल-जुलल जमीन, खाली जमीन नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ahab",
+      "rationale": "नाबोत राजा अहाब से सीधा जवाब देलक।"
+    }
+  ],
+  "translation": "आउ नाबोत अहाब से कहलक — यहवे के दोहाई, हम एहन नञ करबऽ कि हम तोहनी के ⟨את⟩ हमरा पुरखा के बपत के जमीन देबऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "43996b67bab36963950fd87267c1b0858f6b5de5696a1e2760850a9c1fe623a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/21\/1-4.1791997587597.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "नाबोत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "दोहाई"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "यहवे के आगे"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "देबऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बपत के जमीन"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "बपत के जमीन"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "हमरा पुरखा के"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:06:27.598597750Z",
+  "model": "glm-5.3"
+}

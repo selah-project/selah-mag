@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "जिनगी के भेड़",
+      "rationale": "צאר समूह-सब्द हकइ — भेड़-बकरी दुनो; मगही में 'जिनगी के भेड़' लेल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "बर",
+      "rationale": "טिबछा — 'बधावे बर' के कतारा; इब्रानी पद के अरथ अगाँ जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "काहे कि तोहर बर हमनी के पूरा दिन मारल जा रहलइ हे; हमनी के जिनगी के भेड़ जइसन गिनल जा रहलइ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "39d775d0fa7ccc85d3c1cfcd00f8a2c173c10e5de7d71c8ebdd2b36c46e03845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/44\/21-24.1792005098987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहर बर"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "मारल जा रहलइ हे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "गिनल जा रहलइ हे"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "जिनगी के भेड़ जइसन"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "बधावे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:38.988706109Z",
+  "model": "glm-5.3"
+}

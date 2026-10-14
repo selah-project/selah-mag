@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 3:15",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "सन्दूक",
+      "rationale": "ארון के सुभाविक अरथ सन्दूक हकइ; 'वाचा के सन्दूक' इब्रानी के बनावट जस के तस रखलक।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "'देख, सपना हलइ' — इब्रानी में क्रिया-संबंध नञ हल, मगही के बाक्य बर जोड़ल गेल।"
+    }
+  ],
+  "translation": "शलोमोह (सुलैमान) जागलन, आउ देख, सपना हलइ; ऊ यरूशलयिम (यरूशलेम) अइलन आउ अदोनाय के वाचा के सन्दूक के सामने ठाढ़ होलन, आउ चढ़ावे-बलि चढ़ालन आउ सांति-बलि कइलन, आउ ओकरा सब नौकर सब बर दावत कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2b7b3ec8dd27086dbb3ab53990c4ad76a58236fc6064fdb70d36db68ee13b4ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/3\/13-16.1791996744709.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "जागलन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देख"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "सपना"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ठाढ़ होलन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "वाचा"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़ालन"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "चढ़ावे-बलि"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "सांति-बलि"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "दावत"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब बर"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ओकरा नौकर सब"
+    }
+  ],
+  "timestamp": "2026-10-14T16:52:24.710571075Z",
+  "model": "glm-5.3"
+}

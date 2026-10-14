@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 3:6",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बिना",
+      "rationale": "इब्रानी 'रात ⟨बिना⟩ दरसन' सीधे कहऽ हइ; किछु अनुवाद बिना-के जोड़ऽ हथिन, इहाँ कोस्ठक रूप में देखाओल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לילה \/ וחשכה ... וקדר",
+      "rationale": "रात-अन्हार-कारिया के तीन गहरात परत — ज्योतिस के अन्हार होवे के सजा अन्हार के रूप में।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी बर — नबी सब के",
+      "rationale": "सीधा सम्बोधन अइसन नबी सब के, जे दरसन बेचऽ हलथिन।"
+    }
+  ],
+  "translation": "एहे से तोहनी बर रात होतइ ⟨बिना⟩ दरसन के, आउ अन्हार होतइ ⟨बिना⟩ साकुन के; आउ सुरुज नबी सब पर डूब जातइ, आउ दिन ओकनी पर कार हो जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2680b664c7e946c26f44baf00f8b880f5be4781886087ef0e7fff611f0a6c890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/3\/5-8.1792003774136.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "מחזון",
+      "gloss": "दरसन"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "आउ अन्हार"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "מקסם",
+      "gloss": "साकुन"
+    },
+    {
+      "surface": "ובאה",
+      "gloss": "आउ डूब जातइ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "नबी सब"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "आउ कार होतइ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ओकनी पर"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:49:34.137680878Z",
+  "model": "glm-5.3"
+}

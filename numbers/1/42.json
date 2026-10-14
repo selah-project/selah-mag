@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "गिनती",
+      "rationale": "गिनती के नियम: बीस बरिस से ऊपर, नाम के हिसाब से, बाप के घर के हिसाब से"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כל יצא צבא",
+      "rationale": "'हर ओकरा जे सेना में जाए बर निकले' — इब्रानी के साफ अरथ 'युद्ध के बर निकले बर सकै वाला सब'"
+    }
+  ],
+  "translation": "नफ्ताली के बेटा सब — ओनी के वंस-परम्परा, ओनी के परिवार के हिसाब से, ओनी के बाप के घर के हिसाब से, नाम के गिनती में, बीस बरिस के उमिर से ऊपर, हर ओकरा जे सेना में जाए बर निकले —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e5c56e667f78c107f8b770b795cabde573b9456d229d8e8cb176f85a4b20166a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/1\/41-44.1791990479432.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सब"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ्ताली"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ओनी के वंस-परम्परा"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ओनी के परिवार के हिसाब से"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "के घर के हिसाब से"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ओनी के बाप"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "गिनती में"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "नाम के"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "के उमिर से"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "आउ ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकले"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    }
+  ],
+  "timestamp": "2026-10-14T15:07:59.433287233Z",
+  "model": "glm-5.3"
+}

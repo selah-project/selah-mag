@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 24:9",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "गिनती",
+      "rationale": "जनगिनती के नतीजा — दू गिनती, यिस्राएल आउ यहूदा बर।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨आउ⟩",
+      "rationale": "אל के बाद मगही के क्रम बर बाक्य के शुरू में जोड़ल शब्द।"
+    }
+  ],
+  "translation": "आउ योआब राजा के ⟨आउ⟩ लोग के गिनती-मंडली के गिनती देलन; आउ यिस्राएल होलक आठ लाख ताकत वाला मरद, तलवार घीँचै वाला, आउ यहूदा के मरद पाँच लाख मरद।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ccb36c88e6943138e0a0fce5cd265d3d4dab3a87660e26bf9fdebdd84e6eac7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/24\/9-12.1791996610386.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गिनती"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "गिनती-मंडली"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨आउ⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "होलक"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ताकत वाला"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "घीँचै वाला"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आउ मरद"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    }
+  ],
+  "timestamp": "2026-10-14T16:50:10.387504813Z",
+  "model": "glm-5.3"
+}

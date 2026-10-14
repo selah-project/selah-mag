@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "छुपावे बर",
+      "rationale": "לכפर के सुभाविक अरथ ढकना\/छुपाना हकइ — पाछे के परम्परा के प्रायस्चित-शब्द नञ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש साँस\/जीवन-बल हकइ, मन के आत्मा नञ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירבה\/ימעिट",
+      "rationale": "बढ़ाए\/घटाए के सामान विरोध — धनी-गरीब दुनू बर एके तौल के बात।"
+    }
+  ],
+  "translation": "धनी जादे नञ देतइ आउ गरीब घटा नञ — आधा शेकेल से — यहवे के भेंट ⟨את⟩ देए बर, तोहनी के परान के छुपावे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0026fa4643c4ed30338f5fbe4bca1e078a1cb7db93dc588fc9bf2231de52f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/30\/13-16.1791989067135.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "धनी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "जादे देतइ"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "आउ गरीब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "घटा"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "आधा से"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "शेकेल"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "देए बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के भेंट"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "छुपावे बर"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "तोहनी के परान"
+    }
+  ],
+  "timestamp": "2026-10-14T14:44:27.136888980Z",
+  "model": "glm-5.3"
+}

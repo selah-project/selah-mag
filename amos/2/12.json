@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "परजा के काम के सीधे आरोप — 'तोहनी देलक', पिछला पद के परसन के जवाब।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תנבאו",
+      "rationale": "'नबी बनऽ' — ठीक क्रिया 'नबा करऽ\/भबिस बताऽ' हतइ; नबी शब्द एके जड़ के संग रखल गेलइ।"
+    }
+  ],
+  "translation": "बाकि तोहनी ⟨את⟩ नज़ीरी सब के अंगूरी मद पियै देलक, आउ नबी सब के हुकम देलक के कहऽ — नबी नञ बनऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "43d2e154267841f210e7ca85ba64e9495a4a05f5cbcb119e33166a3c35f0bb66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/2\/9-12.1792003432863.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "पियै देलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नज़ीरी सब"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "नज़ीरी सब"
+    },
+    {
+      "surface": "יין",
+      "gloss": "अंगूरी मद"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ … ऊपर"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "नबी सब के"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "हुकम देलक"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "नबी बनऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:43:52.864548931Z",
+  "model": "glm-5.3"
+}

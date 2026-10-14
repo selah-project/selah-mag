@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "पढ़निहार लोक",
+      "rationale": "सीधा आदेश — 'तूँ' के सम्बोधन, आगामी पद 5 में उल्टा आदेश आवऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "पद 4 बनाम पद 5",
+      "rationale": "एही पद कहऽ हइ 'जवाब मत दे' आउ अगिला पद 'जवाब दे' — जान-बूझ के तनाव हकइ; कइयन अनुवादक एकरा बिपरीत-बुद्धि के जोड़ा मानऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "तूँ खुद",
+      "rationale": "हिब्रू के गम अता (तूँ खुद) जोर देलक — मगही में ⟨खुद⟩ कोस्ठक से देखावल गेलइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "פן",
+      "rationale": "'काहे कि नञ जाए कि' — हिब्रू के डर-सम्बन्धी सम्मुख-सम्बन्धी के मगही के 'काहे कि... नञ' से पार कइल गेलइ।"
+    }
+  ],
+  "translation": "मूरख के ओकर मूर्खता के मोताबिक जवाब मत दे, काहे कि तूँ ⟨खुद⟩ ओकरे जइसन नञ बन जाए।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "25748eaa683f591b3e49c4a86db0095e5af6db1a0caab14ef15b47fb8e2160f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/26\/1-4.1792006974789.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תען",
+      "gloss": "जवाब मत दे"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "ओकर मूर्खता के मोताबिक"
+    },
+    {
+      "surface": "פן",
+      "gloss": "काहे कि... नञ"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "ओकरे जइसन बन जाए"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "खुद"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:42:54.790762693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת ... שבת",
+      "rationale": "'बन्न गेलइ' के दोहराव तीन लाइन के क्रम के बाँधऽ हइ — अनुवाद में जस के तस रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבת",
+      "rationale": "एकर जड़ שבת के किरिया हकइ (बन्न जाना) — शब्बात दिन के नाम से कोनो संबंध इहाँ नञ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת\/משוש के चक्र",
+      "rationale": "शुरु आउ अंत में एक्के जोड़ी — कासा-रचना, मगही में दोहरा के देखावल गेल।"
+    }
+  ],
+  "translation": "डफ के खुसी बन्न गेलइ, धमा-धम करै वाला के रौल-रपट रुक गेलइ, वीणा के खुसी बन्न गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1c403e2cd84d7ebd52de58084e75109544b1c2e7e18dbf3110537078f8ab4105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/24\/5-8.1791999033032.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "बन्न गेलइ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "खुसी"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "डफ के"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "रुक गेलइ"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "रौल-रपट"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "धमा-धम करै वाला के"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "बन्न गेलइ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "खुसी"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "वीणा के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:30:33.034000867Z",
+  "model": "glm-5.3"
+}

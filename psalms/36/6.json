@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "दूसरा बाक्य में मगही के क्रिया चाही; इब्रानी के क्रिया नञ हकइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שחקिझ",
+      "rationale": "शब्द के जड़-चित्र 'पिसल धूनी\/पतर बाष्प' हकइ; 'बादल' परम्परा के अरथ।"
+    }
+  ],
+  "translation": "यहवे, अकास में तोहर हेसेद हकइ; तोहर सच्चाई बादल ले ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3974f2fe32fd51618047ae2396e57696fcce2851acb852e3956037b9ac203b8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/36\/5-8.1792004892806.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "अकास में"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "तोहर हेसेद"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "तोहर सच्चाई"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "बादल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:08:12.807354687Z",
+  "model": "glm-5.3"
+}

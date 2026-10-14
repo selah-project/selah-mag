@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 2:12",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושפל",
+      "rationale": "केजेवी 'आउ ऊ नीच्चा कएल जातइ' (घमंडी आदमी); वाईएलटी 'हर ऊँचा आउ नीच्चा' — के नीच्चा कएल जातइ, चेतावनी के विषय या कोनो आउ?"
+    },
+    {
+      "kind": "addition",
+      "subject": "एगो",
+      "rationale": "'एगो दिन' — इब्रानी में अंक-शब्द नञ हइ, मगही के संगति बर जोड़ल।"
+    }
+  ],
+  "translation": "काहे कि यहवे त्सबाओत के एगो दिन आवऽ हइ — हर घमंडी आउ ऊँचे पर, आउ हर ओकरा पर जे उठाएल गेल हो — आउ ऊ ⟨नीच्चा कएल जातइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b7d920db671c832a981092ae3c17743596a6042774dfb31b98b3917dc5525727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/2\/9-12.1791998445047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "घमंडी"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "आउ ऊँचे"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उठाएल गेल"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "आउ नीच्चा कएल जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:20:45.048309465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רגלिझ",
+      "rationale": "शाब्दिक अरथ 'गोड़' — पैदल तीरथ के परब बर रूढ़ि; बेर ब्रैकेट में जोड़ल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "बेर",
+      "rationale": "मगही के प्रवाह बर जोड़ल — इब्रानी के पास ओकर जगह गोड़ के बहुवचन हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "एकवचन तूँ — जाति के एक ठो ठहरावल"
+    }
+  ],
+  "translation": "तीन गोड़ ⟨बेर⟩ तूँ हमरा बर बरिस में परब मनातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5093b61dc4fb56e39415ed5f925caafeb762e52504545a564b8db1341b0558f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/23\/13-16.1791988745870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "गोड़"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "परब मनातइ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "बरिस में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:39:05.871448445Z",
+  "model": "glm-5.3"
+}

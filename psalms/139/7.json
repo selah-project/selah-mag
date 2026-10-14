@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मुँह",
+      "rationale": "מפניך साक्षात 'तोहर सामने \/ तोहर अनुहार से' हकइ; मगही में 'मुँह से' ओकर नजदीकी रूप"
+    },
+    {
+      "kind": "invitation",
+      "subject": "पढ़निहार",
+      "rationale": "दुइ प्रस्न बरछा वाक्य बनावट पूछ के पढ़निहार के खींचऽ हइ"
+    }
+  ],
+  "translation": "कने जाबइ हम तोहर रूआख से? आउ कने भागबइ हम तोहर मुँह से?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/139\/5-8.1792006273484.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "कने"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "जाबइ हम"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "तोहर रूआख से"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "आउ कने"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "तोहर मुँह से"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "भागबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:13.485718997Z",
+  "model": "glm-5.3"
+}

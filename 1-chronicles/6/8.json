@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "वंसावली",
+      "rationale": "पुरोहित वंस के नाम-सूची; हेकरा बिना क्रिया के गिनती-पाँती हकइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "बनावट",
+      "rationale": "इब्रानी पाँती क्रिया नञ रखऽ हइ — किछु अनुवाद 'जन्म देलन' जोड़ऽ हइ; मगही पाँती ओकरा जस के तस छोड़ऽ हइ।"
+    }
+  ],
+  "translation": "एल्काना ओकर बेटा, आउ एब्यासाफ ओकर बेटा, आउ अस्सीर ओकर बेटा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d0fe6e3bea42eeba08feff1d46daa1d3b0810cdb3294a5922f66f72b920500ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/6\/8-8.1792012200971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "एल्काना"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "आउ एब्यासाफ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "आउ अस्सीर"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-10-14T21:10:00.971674813Z",
+  "model": "glm-5.3"
+}

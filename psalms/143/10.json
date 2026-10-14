@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हँ",
+      "rationale": "मगही के बाक्य बर सहायक क्रिया, इब्रानी में नञ हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "सिखा दे \/ ले जा — विनती सीधे परमेत्मा से"
+    },
+    {
+      "kind": "invitation",
+      "subject": "सिखा दे हन",
+      "rationale": "निवेदन के आज्ञा-रूप, तुलना बिधान के शमा संग"
+    }
+  ],
+  "translation": "तोहर राजि करे बर हमनी के सिखा दे हन; काहे कि तूँ हमर एलोअह हँ; तोहर रूआख नीक हइ — ⟨हमनी के⟩ समथर धरती में ले जा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3a91ba78e2df75e33c1d2bfca9197da87d4ab1d8944a2c55a4624a988c9ca62f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/143\/9-12.1792006296944.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "हमनी के सिखा दे"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे बर"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "तोहर राजि"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "हमर एलोअह"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "तोहर रूआख"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "हमनी के ले जा"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "समथर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:36.945340070Z",
+  "model": "glm-5.3"
+}

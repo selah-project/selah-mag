@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תביט \/ תראה",
+      "rationale": "दू देखे के किरिया — ताकना आउ देखना — जोड़ी बाँधऽ हइ।"
+    }
+  ],
+  "translation": "खाली तोहर आँख से तूँ ताकब, आउ बुरा लोग के बदला देखब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/91\/5-8.1792005747634.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "तोहर आँख से"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ताकब"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "आउ बदला"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बुरा लोग के"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "देखब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:27.635396650Z",
+  "model": "glm-5.3"
+}

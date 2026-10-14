@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "haggai 2:16",
+  "book": "haggai",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बीस→दस, पचास→बीस",
+      "rationale": "ढेर आउ पीरे के गिनती — आधे से घटके फसल के नाप।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פורה",
+      "rationale": "पूरा तनाख़ में केवल इहे जगह — आँगूर के पीरे के नाप; 'नाप' लेलक।"
+    },
+    {
+      "kind": "crux",
+      "subject": "לחשף",
+      "rationale": "जड़ के अरथ 'खोलना\/निकारना' — 'निकारे बर' लेलक; किछु पढ़ावा 'उमेद करऽ हलइ' (बीस\/पचास के उम्मेद) सुझावऽ हइ।"
+    }
+  ],
+  "translation": "ओ समय में, जब कोनो बीस के ढेर तक आवऽ हलइ, त दस मिललक; जब कोनो आँगूर के कुण्डी तक पचास नाप निकारे बर आवऽ हलइ, त बीस मिललक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "addf6d7ee631b4feb59258db5bd4dc591f40ea246b2e981010e180340e418b0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/haggai\/2\/13-16.1792004042285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהיותם",
+      "gloss": "ओ समय में"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आवऽ हलइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस के"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "त मिललक"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आवऽ हलइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "आँगूर के कुण्डी"
+    },
+    {
+      "surface": "לחשף",
+      "gloss": "निकारे बर"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "פורה",
+      "gloss": "नाप"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "त मिललक"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    }
+  ],
+  "timestamp": "2026-10-14T18:54:02.286650207Z",
+  "model": "glm-5.3"
+}

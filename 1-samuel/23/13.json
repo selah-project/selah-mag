@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 23:13",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויתהלכו ... יתהלכו",
+      "rationale": "एके जड़ के दोहराव — 'जहाँ-जहाँ टहललन ओही टहलत रहलन' — हिब्रू के धमक दोहराव में हे।"
+    },
+    {
+      "kind": "addition",
+      "subject": "करीब",
+      "rationale": "कशש के अनुमान-भाव (लगभग) स्पष्ट कइल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "छः सौ मनुस",
+      "rationale": "दाविद के टोली के गिनती।"
+    }
+  ],
+  "translation": "आउ दाविद ओकरा मरद सब के संग — करीब छः सौ मनुस — उठलन, आउ केइला से निकललन, आउ जहाँ-जहाँ टहल सकलन ओही डहर टहलत रहलन; आउ शाउल के बतावल गेलइ कि दाविद केइला से बच गेलइ हे, त ऊ निकलल बंद कइलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d8ee7a5b5657a48cc84dd20194200d35b734398fcd4464d00879abda6a4218cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/23\/13-16.1791995516487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ओकरा मरद सब के संग"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "करीब छः"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "निकललन"
+    },
+    {
+      "surface": "מקעלה",
+      "gloss": "केइला से"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "टहलत रहलन"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "जहाँ-जहाँ"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "टहल सकलन"
+    },
+    {
+      "surface": "ולשאול",
+      "gloss": "आउ शाउल के"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "बतावल गेलइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "बच गेलइ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מקעילה",
+      "gloss": "केइला से"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "बंद कइलक"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "निकलल के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:31:56.487781901Z",
+  "model": "glm-5.3"
+}

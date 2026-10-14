@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गुस्सा",
+      "rationale": "אף के सुभाविक अरथ नाक हकइ; क्रोध के अरथ चलनसार बिस्तार हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "ओकनी (पृथ्वी के राजा सब)",
+      "rationale": "यहवे के बचन ओकनी राजा सब लेवे हकइ जे सभा करलन हलन।"
+    }
+  ],
+  "translation": "तब ऊ ओकनी संग अपन गुस्सा में बात कहतन, आउ अपन जलजलाहट में ओकनी के घबरा देतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "780e99b9003d6a8cbb48b4c00d2ba0d664e906dbefaea84a48c723a4c19e5859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/2\/5-8.1792004431907.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "बात कहतन"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "ओकनी संग"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "अपन गुस्सा में"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "आउ अपन जलजלाहट में"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "ओकनी के घबरा देतन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:00:31.908296979Z",
+  "model": "glm-5.3"
+}

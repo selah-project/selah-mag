@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 29:25",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "आराम-दायक सुगंध",
+      "rationale": "ניחוח 'विश्राम देवे वाली' बास — अनुवाद में सुगंध के संग जोड़ल गेलइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "המזבחה",
+      "rationale": "बेदी पर — मगही के कारक-चिन्हा जोड़ल गेलइ"
+    }
+  ],
+  "translation": "आउ तूँ ओकनी के हाथ से ⟨אתם⟩ लेबइ, आउ बेदी पर सराप-बलि के ऊपर जराबइ — यहवे के सामने आराम-दायक सुगंध बर; ई यहवे बर आग-भेंट हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9a0dcdcfa7d8f4c0e420bc6707e78b725386be5882908c6fc59138b82d7ecad6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/29\/25-28.1791989069447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "आउ तूँ लेबइ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के हाथ से"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ओकनी के हाथ से"
+    },
+    {
+      "surface": "והקטרת",
+      "gloss": "आउ जराबइ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "बेदी पर"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "सराप-बलि"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "सुगंध बर"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "आराम-दायक"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "आग-भेंट"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:44:29.448110401Z",
+  "model": "glm-5.3"
+}

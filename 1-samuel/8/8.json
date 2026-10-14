@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 8:8",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אלהים אחרים",
+      "rationale": "दोसर जाति के देवता बर 'देवता सब' जाति-सब्द — D1 के नियम।"
+    },
+    {
+      "kind": "addition",
+      "subject": "समय-जोड़",
+      "rationale": "मगही के सीधी कड़ी बर काल-सम्बन्ध सब्द जोड़ल गेल जे इब्रानी के बनावट भीतरे रखऽ हइ।"
+    }
+  ],
+  "translation": "जस सब काम ओकनी करलन — जस दिन से हम ⟨את⟩ ओकनी के मिस्रयिम से उठालन, आउ एहि दिन ले — ओकनी हमरा छोड़लन आउ दोसर देवता सब के सेवा करलन; ओइसने ओकनी तोहनी संगो नञ करत हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3b097d6fc6f7bce8a83282347fc835f5ea576eebfe01722e6ae2fcf0808829f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/8\/5-8.1791994931712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "जस सब"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "काम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "करलन"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "जस दिन से"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "हम उठालन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एहि"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "ओकनी हमरा छोड़लन"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "आउ सेवा करलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवता सब के"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ओइसने"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ओकनी"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "करत हथिन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "संगो"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहनी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:22:11.713909165Z",
+  "model": "glm-5.3"
+}

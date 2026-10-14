@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 22:19",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एही रात",
+      "rationale": "Hebrew has הלילה 'the night' with the article; the doubled 'एही' supplies deixis the Hebrew article already carries."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יסף דבר",
+      "rationale": "'add to speak' — the verb 'add' used adverbially, 'speak further'; Magahi must split it into two words."
+    }
+  ],
+  "translation": "आउ अब तोहनी सब एही ठहरऽ — तोहनीो एही रात — आउ हम जानबी की यहवे हमरा आउ का बतातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "932bc8638c3cd4c14cf38c2cde87d32042533d7891be59d9997e47e0393fd8fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/22\/17-20.1791991392830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "तोहनी ठहरऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨माँग के⟩"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "एही"
+    },
+    {
+      "surface": "גם",
+      "gloss": "तोहनीो"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "एही रात"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "आउ हम जानबी"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बतातइ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमरा संग"
+    }
+  ],
+  "timestamp": "2026-10-14T15:23:12.831288868Z",
+  "model": "glm-5.3"
+}

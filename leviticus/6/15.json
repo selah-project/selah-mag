@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 6:15",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המשיח",
+      "rationale": "पुरोहित बर — माशियाख नञ, 'अभिसेक कइल' रूप लेल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "תחתיו",
+      "rationale": "'ओकर जगह' बनाम 'ओकर नीचे' — jps 'in his stead', दुनू पढ़ाव मौजूद"
+    },
+    {
+      "kind": "addition",
+      "subject": "होतइ",
+      "rationale": "יעשה के संग समय-स्पस्टता बर क्रिया-पूरक जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ जे पुरोहित ओकर बेटाकन में से ओकर जगह अभिसेक कइल गेल होतइ, ऊ ओकरा बनइतइ — यहवे के बर सदा के बिधान; पूरा धुआइल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8285aa262641836aafdda9359f112205371f7b9ad21de8c26108843bbfedb389",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/6\/13-16.1791989596576.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "आउ पुरोहित"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "अभिसेक कइल"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "ओकर बेटाकन में से"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "बनइतइ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "मिन्हा के"
+    },
+    {
+      "surface": "חק",
+      "gloss": "बिधान"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा के"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के बर"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "תקטר",
+      "gloss": "धुआइल जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:53:16.577247614Z",
+  "model": "glm-5.3"
+}

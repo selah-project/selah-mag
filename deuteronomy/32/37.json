@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "देवता सब",
+      "rationale": "אלהימו इहाँ दोसर जाति के देवता बर हकइ, एहे से जाति-सब्द रहलइ, नाम नञ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צור",
+      "rationale": "צור एके चट्टान यहवे बरओ हकइ (32:4) — इहाँ मूर्तिन के चट्टान कहल के व्यंग्य हकइ"
+    }
+  ],
+  "translation": "आउ कहलन — कतए हइ ओकनी के देवता सब, ओकर चट्टान जमे ओकनी भरोसा रखलन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1587efc7bb06a7ec286b79766b3718ac91eb5701e7edb39f3647766155d4c912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/32\/37-40.1791992987736.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אי",
+      "gloss": "कतए"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "देवता सब"
+    },
+    {
+      "surface": "צור",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "भरोसा रखलन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:49:47.737473394Z",
+  "model": "glm-5.3"
+}

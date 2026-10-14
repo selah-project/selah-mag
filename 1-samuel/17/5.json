@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 17:5",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "जिरह के भार",
+      "rationale": "पाँच हजार शेकेल — तौल के गिनती, ओही कात पर बिना कोनो तुलना के।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "कात-कात के जिरह",
+      "rationale": "קשקשים मछरी के कात बर बिधान हकइ; इहाँ ओकर जिरह के बनावट बतावऽ हइ।"
+    }
+  ],
+  "translation": "आउ ताम्बा के टोपी ओकर मूड़ी पर, आउ ऊ कात-कात के जिरह पहिरने हलइ; आउ ओ जिरह के भार पाँच हजार शेकेल ताम्बा के हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8866e59e1f1a781d96d653628d7ce65d84c51ed008f113b2c0f4dedf9fecaf51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/17\/5-8.1791995301688.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכובע",
+      "gloss": "आउ टोपी"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ताम्बा के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ओकर मूड़ी"
+    },
+    {
+      "surface": "ושריון",
+      "gloss": "आउ जिरह"
+    },
+    {
+      "surface": "קשקשים",
+      "gloss": "कात-कात के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "पहिरने हलइ"
+    },
+    {
+      "surface": "ומשקל",
+      "gloss": "आउ भार"
+    },
+    {
+      "surface": "השריון",
+      "gloss": "ओ जिरह के"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "शेकेल"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ताम्बा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:28:21.689351335Z",
+  "model": "glm-5.3"
+}

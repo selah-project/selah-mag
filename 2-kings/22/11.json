@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "कपड़ा फाड़लन",
+      "rationale": "इब्रानी में शोक आउ दहसत के चिन्हा — कपड़ा फाड़ल; अरथ जस के तस रखल गेल।"
+    }
+  ],
+  "translation": "आउ जैसे राजा तोरा के किताब के बात ⟨את⟩ सुनलन, तब ऊ ⟨את⟩ अपन कपड़ा फाड़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "082bf40211ddafb5ac2df370970d3739275cadb31a81d019ad4eed5815e1f8ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/22\/9-12.1791998372883.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "होलइ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "जैसे सुनलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बात"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "किताब"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "फाड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कपड़ा"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "अपन कपड़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:19:32.884467732Z",
+  "model": "glm-5.3"
+}

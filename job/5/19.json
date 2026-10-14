@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 5:19",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "छह\/सात",
+      "rationale": "संख्या-बढ़त बनावट — छह, फिर सात — अनन्त पूर्णता के सांकेतिक गिनती।"
+    },
+    {
+      "kind": "you",
+      "subject": "अय्यूब",
+      "rationale": "पूरा पद तोहनी\/तोहरा में सम्बोधित।"
+    }
+  ],
+  "translation": "छह संकट में ऊ तोहनी छुड़ाबइ, आउ सात में बुराई तोहरा नञ छुअबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "427affed229b5bac39a9b491848528afae2021d0c6c465fa74b26aefc45bdc9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/5\/17-20.1792007238115.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "संकट में"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "छुड़ाबइ"
+    },
+    {
+      "surface": "ובשבע",
+      "gloss": "आउ सात में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "छुअबइ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:18.116112573Z",
+  "model": "glm-5.3"
+}

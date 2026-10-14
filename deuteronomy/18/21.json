@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "Hebrew's בלבבך has the 2ms suffix alone; the possessive pronoun is supplied in Magahi"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "direct address — the instruction to Israel about testing a prophet's word"
+    }
+  ],
+  "translation": "आउ जब तूँ अपन हिरदय में कहऽ की हमनी कइसने जानबइ ⟨את⟩ ओ बात जेकरा यहवे नञ कहलन हे?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2cbf62c68367f8cd75fa413111d666e3bbe6dd9542c03acec4ea1b5ed457463d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/18\/21-22.1791992526297.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आउ जब"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "तूँ कहऽ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "अपन हिरदय में"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "जानबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ बात"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ओ बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "कहलन हे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:42:06.298343204Z",
+  "model": "glm-5.3"
+}

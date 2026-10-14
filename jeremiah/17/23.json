@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "गरदन अड़िग करना",
+      "rationale": "ויקשו את ערפם — गरदन कठोर कइल, इब्रानी के रूढ़ बात अवज्ञा बर; मगही में 'अड़िग गरदन' एहे चित्र रखऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ताड़ना",
+      "rationale": "מוסר चेतावनी आउ अनुसासन दुनो के अरथ रखऽ हइ; एक बचन चुनल जावऽ हल।"
+    }
+  ],
+  "translation": "बाकि ओनी सुनलन नञ, आउ ⟨את⟩ कान मत झुकालन — ओनी ⟨את⟩ गरदन अड़िग करलन, ताकि सुनऽ नञ आउ ताकि ताड़ना नञ लेवऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "138c2f1dc406141943049403a1be0e6ba256184ea735ce08de855332362a967b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/17\/21-24.1792000595015.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "मत झुकालन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कान"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "कान"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "अड़िग करलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गरदन"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "गरदन"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ताकि नञ"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "आउ ताकि नञ"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "लेवऽ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ताड़ना"
+    }
+  ],
+  "timestamp": "2026-10-14T17:56:35.016676771Z",
+  "model": "glm-5.3"
+}

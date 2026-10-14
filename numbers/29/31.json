@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 29:31",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "जरावे के पूरा बलि",
+      "rationale": "עלה 'उपर जाए वाला' बलि हकइ — पूरा जरावल जाए वाला; एक शब्द के बर ढेर शब्द।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨संग⟩",
+      "rationale": "मगही के जोड़ से संबंध साफ करे बर जोड़ल।"
+    }
+  ],
+  "translation": "आउ एक गो बकरा पाप बलि बर, नित्य के जरावे के पूरा बलि से अलग — ओकर मिन्हा आउ ओकर पियावे के भेंट ⟨संग⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "21497654e5542d7a6447446d8b9eb8bba94230e7d5c019cd06be247291811304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/29\/29-32.1791991598170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "आउ बकरा"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप बलि"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "… से अलग"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "जरावे के पूरा बलि"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "नित्य के"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "ओकर मिन्हा"
+    },
+    {
+      "surface": "ונסכיה",
+      "gloss": "आउ ओकर पियावे के भेंट"
+    }
+  ],
+  "timestamp": "2026-10-14T15:26:38.171081717Z",
+  "model": "glm-5.3"
+}

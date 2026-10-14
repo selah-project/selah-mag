@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 32:19",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "वाक्य के अरथ",
+      "rationale": "ओला केकरा ऊपरे पड़ऽ हइ आउ नगर काहे नीचा होऽ हइ — अनुवादक में बड़ मतभेद (याजकीय दंड बनाम जंगल के साफ होना)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפלה\/תשפל",
+      "rationale": "एके जड़ के जोड़ी — नीचली जगह में नीचा होना — मगही में नीचली\/नीचा से बनल रहलइ"
+    }
+  ],
+  "translation": "आउ ओला पड़तइ, जंगल के गिराव के बेरा; आउ नीचली जमीन में नगर नीचा हो जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "40a77b9aa53f19b877808e1aeb00c6b1037e72d126b03005ab66cebe2697f674",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/32\/17-20.1791999115844.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברד",
+      "gloss": "आउ ओला पड़तइ"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "गिराव के बेरा"
+    },
+    {
+      "surface": "היער",
+      "gloss": "जंगल के"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "आउ नीचली जमीन में"
+    },
+    {
+      "surface": "תשפל",
+      "gloss": "नीचा हो जातइ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:31:55.845648380Z",
+  "model": "glm-5.3"
+}

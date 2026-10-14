@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 30:25",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ऊ⟩",
+      "rationale": "इब्रानी करता के नाम नञ लेलकइ — दाविद बुझावऽ हकइ, जोड़ल गेलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "समय",
+      "rationale": "ओही दिन से एही दिन ले — बिधान के समय-सीमा तय होवऽ हकइ"
+    }
+  ],
+  "translation": "आउ ओही दिन से आगे हो गेलइ कि ⟨ऊ⟩ एकरा यिस्राएल बर बिधान आउ नियाव बनइलन, एही दिन ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "328136d43f54c64c44541612a0154d5845f1165281984a29fb3135e41b3f218b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/30\/25-28.1791995639463.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "हो गेलइ"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "ओही दिन से"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उहे"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "וישמה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "बिधान"
+    },
+    {
+      "surface": "ולמשפט",
+      "gloss": "आउ नियाव"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "यिस्राएल बर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:33:59.464491396Z",
+  "model": "glm-5.3"
+}

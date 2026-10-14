@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "गर्भ में धारण भेलै",
+      "rationale": "הרה: 'गर्भ धारण भेल' बनाम 'जनमल' — कुछ अनुवादक जनम मानऽ हथिन"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יום \/ לילה",
+      "rationale": "दिन आउ रात दुन्नो के सराप — जनम के पूरा काल के सराप, संरचना मगही में बनल रहल"
+    }
+  ],
+  "translation": "मार जावऽ ओ दिन जे महाँ हम जनमल रहीन, आउ ओ रात जे कहल गेलै — “एक मरद गर्भ में धारण भेलै।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "49b0db4e71e4397a1ad67c7edba9773d430144d901673ae76c48146c8c508694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/3\/1-4.1792007120398.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "मार जावऽ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "जनमल रहीन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "जे महाँ"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "आउ ओ रात"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहल गेलै"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "गर्भ में धारण भेलै"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "मरद"
+    }
+  ],
+  "timestamp": "2026-10-14T19:45:20.399325417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 31:3",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ — 'मिस्रयिम आदमी, एल नञ' — मगही के 'हकइ' जोड़ल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזרה \/ עוזר \/ עזר",
+      "rationale": "मदत के जड़ तीन पद में घूमऽ हइ (31:1 के लעזרह से लेके) — मदत बर मदत खोजे वाला नस्ट हो जातइ।"
+    }
+  ],
+  "translation": "आउ मिस्रयिम आदमी हकइ, एल नञ; आउ ओकनी के घोड़ा मांस हकइ, रूआख नञ; आउ यहवे अपन हाथ घुमातन, आउ मदत करए वाला लड़खड़ातइ, आउ जेकरा मदत भेटलका ऊ गिरतइ, आउ सब एक संग खतम हो जातथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f632ec8308c30b086a285f70b6e19320d059822ae3cb3da2015ceb73fa9b6cc1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/31\/1-4.1791999210112.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "आउ मिस्रयिम"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "וסוסיהם",
+      "gloss": "आउ ओकनी के घोड़ा"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "घुमातन"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "अपन हाथ"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "आउ लड़खड़ातइ"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "मदत करए वाला"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "आउ गिरतइ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "जेकरा मदत भेटलका"
+    },
+    {
+      "surface": "ויחדו",
+      "gloss": "आउ एक संग"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सब"
+    },
+    {
+      "surface": "יכליון",
+      "gloss": "खतम हो जातथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:33:30.113485610Z",
+  "model": "glm-5.3"
+}

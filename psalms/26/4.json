@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נעלמים",
+      "rationale": "लुकावे वाला — कपटी (dissemblers) बनाम परदेसी\/अज्ञात लोग; लुकावे के चित्र रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מתי",
+      "rationale": "मूल रूप मरद-मनुस (पूरा उमिर के आदमी) हकइ; जाति-सब्द के रूप बदलल गेल।"
+    }
+  ],
+  "translation": "झूठ के मनुस संग हम नञ बैठलिअइ, आउ जे आपना लुकावऽ हथिन इन्हनी संग हम नञ जातिअइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/26\/1-4.1792004776411.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "बैठलिअइ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आउ … संग"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "जे आपना लुकावऽ हथिन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "जातिअइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:06:16.412173754Z",
+  "model": "glm-5.3"
+}

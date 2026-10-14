@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ सब",
+      "rationale": "इब्रानी क्रिया 'चढ़ातइ' के करम बिना अरथ के चलतइ; परति-संदर्भ (पद 14–15 के बलि) से ⟨ऊ सब⟩ जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "आउ पुरोहित ऊ सब यहवे के आगू चढ़ातइ, आउ ⟨את⟩ ओकर पाप-बलि आउ ⟨את⟩ ओकर चढ़ावे के बलि करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "06211f9695620e15c46bcac92e0aa13af01076b858afc6a5864325e98ab479ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/6\/13-16.1791990753354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "चढ़ातइ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर पाप-बलि"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ओकर पाप-बलि"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर चढ़ावे के बलि"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ओकर चढ़ावे के बलि"
+    }
+  ],
+  "timestamp": "2026-10-14T15:12:33.355776064Z",
+  "model": "glm-5.3"
+}

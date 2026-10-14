@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרף \/ חרף",
+      "rationale": "74:17 के जाड़ा (חרף) आउ 74:18 के निंदा (חרף) एके अच्छर हकइ — मौसम आउ ताना के जोड़ी मगही में बिला जाऽ हइ"
+    }
+  ],
+  "translation": "तूँ धरती के सब सीमा ठाढ़ कइलन; गरमी आउ जाड़ा तूँ गढ़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3e75c41b88e06c8b472ba8954393a62ef7c09a1fb584779e2e479e176987f910",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/74\/17-20.1792005453972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "ठाढ़ कइलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "गरमी"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "आउ जाड़ा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "गढ़लन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:33.973411336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "मुँह ठाढ़ करना",
+      "rationale": "נתתי פני ב — 'मुँह रखबइ के विरुद्ध' — इब्रानी के रोस के चित्र, मगही में ओहे चाल रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפश here = जियावऽ परान (आदमी), 'आत्मा' नञ"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल आउ परदेसी",
+      "rationale": "बिधान सीधा यिस्राएल के घर आउ परदेसी लोग के बोलल जा रहल हकइ"
+    }
+  ],
+  "translation": "आउ यिस्राएल के घर के कोनो आदमी, चाहे ओकनी के बीच परदेस रहए वाला, जे कोनो खून खातइ — हम ओ खाए वाला परान पर अपन मुँह ठाढ़ करबइ आउ ⟨את⟩ ओकरा ओकर लोग के बीच से काट देबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/17\/9-12.1791990098126.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आउ कोनो आदमी"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोनो आदमी"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर-मन से"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आउ मन से"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "परदेस रहए वाला"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ओकनी के बीच"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खातइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "आउ … ठाढ़ करबइ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "परान पर"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "खाए वाला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खून के खाए वाला परान"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "आउ काट देबइ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ओ परान (ओकरा)"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "बीच से"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ओकर लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T15:01:38.127610268Z",
+  "model": "glm-5.3"
+}

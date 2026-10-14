@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "हिब्रू में 'ई थे' के क्रिया नञ हइ; दोसरा पाँती के बर जोड़ल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "बरिस के गिनती",
+      "rationale": "सारा के जियल के बरिस गिनल गेल — सौ आउ बीस आउ सात"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיי...שנה",
+      "rationale": "'जीवन...बरिस...जीवन' के घेरा — बिदा के गिनती दू कात से घिरल हइ"
+    }
+  ],
+  "translation": "आउ सारा के जियल-जीवन के बरिस सौ बरिस आउ बीस बरिस आउ सात बरिस भेलन — ई सारा के जियल-जीवन के बरिस हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "76da426a409e03a75f5be6fde419f10f5bd6faa6bc76dfdaa3ff6fd250d0df6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/23\/1-4.1791986859934.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भेलन"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "जियल-जीवन के"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आउ बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "आउ सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "שני",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "जियल-जीवन के"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "सारा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:07:39.934501232Z",
+  "model": "glm-5.3"
+}

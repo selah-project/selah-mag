@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 31:36",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אענדנו",
+      "rationale": "ענד (लेस जोड़ के बाँधना) पूरे तनाख में केवल यहीं एक बेर आवऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אם לא",
+      "rationale": "शपथ के नकार रूप (‘अइसन तऽ नञ हऽ’) अध्याय ३१ के शपथ-ढाँचा के संग जुड़ऽ हइ"
+    }
+  ],
+  "translation": "अइसन तऽ नञ हऽ — ओकरा हम अपन काँध पर उठाइतन, ओकरा हम अपन मुड़ी पर बाँधि देतन ताज जइसन —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d90c7d05fb5dcca40cc42a60937983bea6bb7ad1c33d316c1335f240472cd3f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/31\/33-36.1792007680115.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अइसन तऽ नञ हऽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…पर"
+    },
+    {
+      "surface": "שכמי",
+      "gloss": "अपन काँध"
+    },
+    {
+      "surface": "אשאנו",
+      "gloss": "ओकरा उठाइतन"
+    },
+    {
+      "surface": "אענדנו",
+      "gloss": "ओकरा बाँधि देतन"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "ताज जइसन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "अपन मुड़ी पर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:54:40.116210914Z",
+  "model": "glm-5.3"
+}

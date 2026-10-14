@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 39:19",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "लेहरा",
+      "rationale": "שפה शाब्दिक अर्थ 'होंठ' हकइ — किनारा बर बिस्तारित अरथ; मगही में 'लेहरा' (किनारा) लेल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ביתה",
+      "rationale": "शाब्दिक 'घर के दने' = भीतर के दने; अनुवादक लोग 'अंदर के ओर' बनाम 'नीचे के ओर' में बाँटल हथिन।"
+    }
+  ],
+  "translation": "आउ ओकनी दू सोना के अँगूठी बनइलन आउ होशेन के दू किनारा पर रखलन, ओकर लेहरा पर, जे एफोद के ओर भीतर के दने हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2fa6a78bc6c3ae794dfaa03913f0ea2077449c4a430d52f098ed25b38470ced4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/39\/17-20.1791989405270.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "आउ ओकनी बनइलन"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "अँगूठी"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "आउ रखलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "होशेन के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "ओकर लेहरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एहनो"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "एफोद के"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "भीतर के दने"
+    }
+  ],
+  "timestamp": "2026-10-14T14:50:05.271503377Z",
+  "model": "glm-5.3"
+}

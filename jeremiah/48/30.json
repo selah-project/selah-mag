@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 48:30",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא כן",
+      "rationale": "'बाकि ओकरा से कुछो नञ होतइ' — केजेवी 'त ऊ सही नञ होतइ' बनाम एएसवी 'एक्को नञ' — इब्रानी के छोट वाक्यांश पर मतभेद।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כן",
+      "rationale": "'सही' — इब्रानी के शाब्दिक अरथ 'इसे तरह से ठाढ़ होवे' हकइ; क्रिया बनावट के मगही में नञ आवे।"
+    }
+  ],
+  "translation": "हम जानत ह — यहवे के बचन — ओकर क्रोध, बाकि ओकरा से कुछो नञ होतइ; ओकर झूठ-बढ़ाई से कुछो सही नञ करलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "61322d7e5d610fc1f7e15698ad821f4c743ce0a5e498de0aec4adaade724b9c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/48\/29-32.1792001490191.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "जानत ह"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "ओकर क्रोध"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "सही"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ओकर झूठ-बढ़ाई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "सही"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "करलन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:11:30.192007505Z",
+  "model": "glm-5.3"
+}

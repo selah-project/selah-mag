@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נא",
+      "rationale": "ना-कण 'अबहीं\/हे' जइसन भाव-कण हकइ; मगही में ⟨अबहीं⟩ ब्रैकेट में देखाओल गेलन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשלם\/שלום",
+      "rationale": "शलम जड़ — चुकता करना आउ सांति एके जड़ से; मगही में ई जोड़ नञ रह पावऽ हकइ।"
+    }
+  ],
+  "translation": "यहवे के बर हम अपन मनत ⟨अबहीं⟩ चुकतइ करबइ, ओकर सब लोग के सामने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f8f10062da369522955524945906256f81a0f23e824c8a9f9eff292dd6de4891",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/116\/13-16.1792006051113.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "हम अपन मनत"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के बर"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "चुकतइ करबइ"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "… के सामने"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨अबहीं⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:31.113908875Z",
+  "model": "glm-5.3"
+}

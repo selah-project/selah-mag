@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 23:27",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערף",
+      "rationale": "'गरदन के पाछे देतइ' — भागै वाला बिरोधी के गरदन पकड़ै के मुहावरा; 'पीठ देखावइ' बनाम 'गरदन होतइ'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "पीठ",
+      "rationale": "ערף गरदन के पाछे हकइ; पूरा पीठ चलनसार समझावट हकइ"
+    }
+  ],
+  "translation": "हम ⟨את⟩ अपन दहसत तोहर आगे भेजतइ, आउ हम ओ सब लोग के मारतइ जेकरा बीच तूँ जइबउ, आउ हम तोहर सब बैरी के तोहर आगे पीठ देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/23\/25-28.1791988736150.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन दहसत"
+    },
+    {
+      "surface": "אימתי",
+      "gloss": "अपन दहसत"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "हम भेजतइ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहर आगे"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "आउ हम मारतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब लोग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "तूँ जइबउ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकरा बीच"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "आउ हम देतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर सब बैरी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "तोहर बैरी"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहर आगे"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "पीठ (गरदन के पाछे)"
+    }
+  ],
+  "timestamp": "2026-10-14T14:38:56.151069507Z",
+  "model": "glm-5.3"
+}

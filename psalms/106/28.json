@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "मरल मनुख के बलि",
+      "rationale": "זבחי מתים: मरल देवता सब के बलि (BSB जइसन) बनाम मुर्दा बलि खाए के चलन (KJV जइसन)"
+    }
+  ],
+  "translation": "आउ ऊ लोग बाल-पेओर संग जुड़लन, आउ मरल मनुख लोग के बलि खइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/106\/25-28.1792005908166.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "जुड़लन"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "बाल-पेओर संग"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "पेओर"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "खइलन"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "मरल मनुख लोग के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:08.167343231Z",
+  "model": "glm-5.3"
+}

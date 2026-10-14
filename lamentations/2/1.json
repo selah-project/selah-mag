@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 2:1",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יעיב",
+      "rationale": "शाब्दिक अरथ घना\/अन्हार होवे; 'बादल बिछावे' रूपक मानक परम्परा के हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איכה",
+      "rationale": "एकरो 'कइसने' से अरथ 'कहाँ' भी हकइ; पुस्तक के नाम एही सब्द से बनल हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "תפארת ישראל",
+      "rationale": "'इस्राएल के सोभा' — केकरो खातिर हकइ: यरूशलेम, मानदिस या पराया; चिन्हा बतावे वाला ⟨את⟩ सिरजता-खम्भा अनुसार अकास से धरती ले फेंके जाय वाला चीज के ओर इसारा करऽ हकइ।"
+    }
+  ],
+  "translation": "कइसने अदोनाय गुस्सा में ⟨את⟩ सियोन के बेटी के ऊपर बादल बिछा देलन — इस्राएल के सोभा के अकास से धरती पर फेंक देलन — आउ गुस्सा के दिन अपन गोड़ के टेकरा याद नञ करलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4021fe51af953ffa93d017a256291638f701a29cd755eb0b387b1c2559deba96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/2\/1-4.1792008283874.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "יעיב",
+      "gloss": "बादल बिछा देलन"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "गुस्सा में"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सियोन के बेटी"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "सियोन के"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "फेंक देलन"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "अकास से"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "सोभा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "याद करलन"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "टेकरा"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "अपन गोड़ के"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "गुस्सा के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:04:43.875559976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נפת",
+      "rationale": "शाब्दिक अरथ 'चालनी' \/ ऊँच जगह; कुछ अनुवाद 'इलाका' कहऽ हइ — हमनी नाम-रूप नाफात रखने हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "लאשה",
+      "rationale": "לאשה शाब्दिक रूप से 'जनाना बर' हकइ; हमनी 'बर' (के लिए) से परति कइने हइ"
+    }
+  ],
+  "translation": "बेन-अबिनदाब — नाफात-दोर के सारा; शलोमोह के बेटी ताफात ओकरा बर जनाना हलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7035d34557ff64cd5a83972db694a1f0a4cac4a69dffb39ca3d1a738d1b6e907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/4\/9-12.1791996671833.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "अबिनदाब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "नाफात"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "दोर के"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "ताफात"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह के"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "हलथिन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "बर जनाना"
+    }
+  ],
+  "timestamp": "2026-10-14T16:51:11.834303871Z",
+  "model": "glm-5.3"
+}

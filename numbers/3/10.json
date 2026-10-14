@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הזר",
+      "rationale": "'पराया\/बाहरी' (kjs 'stranger', jps 'common man') — पुरोहित बंस के बाहर के कोनो आदमी"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תפקד",
+      "rationale": "'गिनना\/देखभाल करना' — पक्का नियुक्ति (appoint) नञ, गिनती-मुहिम के काम"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ अहरोन आउ ⟨את⟩ ओकर बेटा सब के तूँ गिनबऽ हइ, आउ ऊ लोग ⟨את⟩ अपन पुरोहित-पद के रखवारी करतन; आउ पराया जे नजदीक अइतइ, ओकर मार देल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "93b481a4f8bd6fab686fa6dd2b859e127539f22b96e2d84e36b96bf6c279c18b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/3\/9-12.1791990593133.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "अहरोन के"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "ओकर बेटा सब के"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा सब"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "तूँ गिनबऽ हइ"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "आउ रखवारी करतन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन पुरोहित-पद के"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "अपन पुरोहित-पद"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "आउ पराया"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "जे नजदीक अइतइ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "मार देल जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:09:53.134300468Z",
+  "model": "glm-5.3"
+}

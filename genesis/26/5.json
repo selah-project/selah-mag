@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עקב",
+      "rationale": "'एड़ी' के अरथ 'काहे कि' — एड़ी के पाछू-फल के चलनसार मुहावरा"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "सम्बन्ध-सब्द के मगही में जरूरत नञ भेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चार-पद के सूची",
+      "rationale": "रखवारी · आज्ञा · बिधान · तोरा — चार सब्द गिनावल गेलन"
+    }
+  ],
+  "translation": "काहे कि अवराहाम हमर बोली सुनलन आउ हमर रखवारी के, हमर आज्ञा के, हमर बिधान के आउ हमर तोरा के रखवारी कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a9b5516e22a76ea7d63090255b3a608da741e8ed80e150d13c49b1059b8eacfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/26\/5-8.1791987014539.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "हमर बोली"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "रखवारी कइलन"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "हमर रखवारी"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "हमर आज्ञा"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "हमर बिधान"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "हमर तोरा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:10:14.540493868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפני איביכם",
+      "rationale": "साक्षात् 'अपन दुस्मन के तोंद के आगे' — 'के आगे हारब' बतावल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल के लोग (मोशे के जरे)",
+      "rationale": "यहवे के आदेश लोग के सीधे सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "आउ यहवे हमरा कहलन — ओकनी से कह, मत चढ़ब आउ मत लड़ब, काहे कि हम तोहनी के बीच नञ हब; अइसने नञ होवे कि तोहनी अपन दुस्मन सब के आगे हारब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "44f53345cdaabfbc8209d279cd2e4fb1382db032652a05e1db828a68791e358e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/1\/41-44.1791991918287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कह"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "चढ़ब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "लड़ब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "हम नञ हब"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "तोहनी के बीच"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "अइसने नञ होवे कि"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "हारब"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "अपन दुस्मन सब"
+    }
+  ],
+  "timestamp": "2026-10-14T15:31:58.288855705Z",
+  "model": "glm-5.3"
+}

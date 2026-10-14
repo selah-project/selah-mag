@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 31:9",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "लבשर",
+      "rationale": "मूल पद 'बसर' (इँजोर\/मांस) हकइ — 'खुसखबरी देवे' ओकरे जड़ के फैलल अरथ हकइ; मगही में खुसखबरी धरल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עצביהם",
+      "rationale": "मूल अरथ 'ओकनी के मूरत सब' — देवता सब जाति-सब्द नञ, ठोस मूरत के बात हकइ।"
+    }
+  ],
+  "translation": "आउ ओकर मूड़ी ⟨את⟩ काटलन, आउ ओकर हथियार ⟨את⟩ उतारलन, आउ पलिश्ती के धरती में चारो दने भेजलन, ओकनी के मूरत सब के घर में खुसखबरी फैलावे बर आउ ⟨את⟩ लोग के बीच।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f01ec8cba7e950f22fbeb6521a363df0fe4a8509179030ebc21b71a5d5856dec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/31\/9-12.1791995809933.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "काटलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर मूड़ी"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ओकर मूड़ी"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "उतारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर हथियार"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ओकर हथियार"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती के"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "खुसखबरी फैलावे बर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ओकनी के मूरत सब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "लोग"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T16:36:49.934096583Z",
+  "model": "glm-5.3"
+}

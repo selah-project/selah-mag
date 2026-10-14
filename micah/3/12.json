@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 3:12",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जइसन",
+      "rationale": "हिब्रू तुलना बिना 'जइसन' के ठाढ़ हकइ; मगही में उपमा-सब्द जोड़ल गेलन"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחרש",
+      "rationale": "खेत जोतल जाना — बिचार-पद के उलटा: जे नियाव टेढ़ा करथिन, ओकर नगर ही जोतल जातइ"
+    }
+  ],
+  "translation": "एहे से, तोहनी के कारण जियोन खेत जइसन जोतल जातइ, आउ यरूशलयिम मलबा के ढेर बनतइ, आउ घर के पहाड़ जंगल के ऊँच जगह जइसन होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/3\/9-12.1792003687868.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "तोहनी के कारण"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "जियोन"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत जइसन"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "जोतल जातइ"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "आउ यरूशलयिम"
+    },
+    {
+      "surface": "עיין",
+      "gloss": "मलबा के ढेर"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "बनतइ"
+    },
+    {
+      "surface": "והר",
+      "gloss": "आउ पहाड़"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "ऊँच जगह जइसन"
+    },
+    {
+      "surface": "יער",
+      "gloss": "जंगल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:07.869761374Z",
+  "model": "glm-5.3"
+}

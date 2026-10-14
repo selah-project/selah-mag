@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הקשיב",
+      "rationale": "सुभाव 'कान खड़ा करना'; मगही में 'कान धरना' के चलनसार बोली"
+    }
+  ],
+  "translation": "निश्चय एलोहीम सुनलन; हमर प्रार्थना के आवाज पर कान धरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f13630ea18a75644aaafc904cdca32724e5b75ccf6659031f7d73cc10c737c52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/66\/17-20.1792005245843.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "निश्चय"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "कान धरलन"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "के आवाज पर"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "हमर प्रार्थना"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:05.844707637Z",
+  "model": "glm-5.3"
+}

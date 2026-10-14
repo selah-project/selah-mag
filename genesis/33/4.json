@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישקהו",
+      "rationale": "किछु पांडुलिपि में ई सब्द पुरान संस्करणन में उठाइल गेल रहै; मसोरेतिक पाठ में ई मौजूद हकइ, एकरा रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויבכו",
+      "rationale": "हिब्रू बहुबचन किरिया — 'दुनु रोवलन' कहऽ हकइ; एक बचन किरिया मत धरऽ हइ"
+    }
+  ],
+  "translation": "आउ एसाव ओकरा भेंटे दौड़लन, आउ ओकरा गले लगालन, आउ ओकर गरदन पर गिरलन आउ ओकरा चूमलन, आउ ओकनी रोवलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d40ee26dd1dce151c05061d33c5fee0e0daf14f41235cec199a05eccf9b2e29c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/33\/1-4.1791987331431.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "दौड़लन"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ओकरा भेंटे"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "गले लगालन"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "गिरलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "ओकर गरदन"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ओकरा चूमलन"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ओकनी रोवलन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:15:31.433109057Z",
+  "model": "glm-5.3"
+}

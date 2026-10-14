@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נזר",
+      "rationale": "'ताज' (राजा के मुकुट, बड़का अनुवाद) बनाम 'अलग रखल संन्यास-चीन्हा' (नजीर के जड़); दुनु पढ़ावा मौजूद हइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "लदור דור",
+      "rationale": "'पीढ़ी ले पीढ़ी तक' — पूछे वाला रूप (केजेवीएम) बनाम कथन रूप (यल्त); पूछे वाला रूप लेल गेलइ"
+    }
+  ],
+  "translation": "काहे कि धन सदा बर नञ रहऽ हइ, आउ की ताज पीढ़ी ले पीढ़ी तक टिकऽ हइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "089b685c2516269e15c418bcd57debee709475f2cd6e2e5206c61eaa0805a22f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/27\/21-24.1792007034898.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "धन"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आउ की"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ताज"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "पीढ़ी ले"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी तक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:54.899806171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 23:15",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax-adjacent",
+      "subject": "מצה",
+      "rationale": "मत्सा — बिना खमीर के रोटी; एके रूप हर जगह रखल गेल"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יראו ताने रिकם",
+      "rationale": "शाब्दिक 'हमर मुँह खाली देखावतथिन' — भेंट ला के आवे के आदेश"
+    },
+    {
+      "kind": "addition",
+      "subject": "कोनो ब्यक्ति",
+      "rationale": "इब्रानी बिना कर्ता के क्रिया रखऽ हइ; मगही के स्पस्टता बर ब्रैकेट में जोड़ल"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "तूँ — एकवचन सम्बोधन"
+    }
+  ],
+  "translation": "⟨את⟩ मत्सा के परब के रखवारी करबू; सात दिन तूँ मत्सा खातइ, जइसन हम तोहनी के आज्ञा देलन — नियत समय पर, आबीव के महीना में, काहे कि ओही में तूँ मिस्रयिम (मिस्र) से निकलल गेलऽ; आउ ⟨कोनो ब्यक्ति⟩ हमर मुँह खाली-हाथ नञ देखावतथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5093b61dc4fb56e39415ed5f925caafeb762e52504545a564b8db1341b0558f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/23\/13-16.1791988745870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मत्सा के परब"
+    },
+    {
+      "surface": "חג",
+      "gloss": "परब"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "मत्सा के"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "रखवारी करबू"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खातइ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "मत्सा"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "हम तोहनी के आज्ञा देलन"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "नियत समय पर"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "महीना"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "आबीव के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओही में"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "तूँ निकलल गेलऽ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "देखावतथिन"
+    },
+    {
+      "surface": "פני",
+      "gloss": "हमर मुँह"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "खाली-हाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:39:05.871641852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עועים",
+      "rationale": "עַוְעֶה (टेढ़-मेढ़पन) तनाख़ में केवल इहाँ आवऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "रूआख — बतास\/आत्मा दुनो अरथ एके रूप में; अलग शब्द नञ।"
+    }
+  ],
+  "translation": "यहवे ओकर भीतर टेढ़-मेढ़ के रूआख मिला देलन, आउ ऊ मिस्रयिम के ⟨את⟩ हरेक काम में भटकावन — जइसन नशेवार मनुस अपन उल्टी के बीच लड़खड़ावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/19\/13-16.1791998917085.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "मिला देलन"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ओकर भीतर"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "टेढ़-मेढ़ के"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "आउ भटकावन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मिस्रयिम"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "काम में"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "जइसन लड़खड़ावऽ हइ"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "नशेवार"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "अपन उल्टी के बीच"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:37.085890765Z",
+  "model": "glm-5.3"
+}

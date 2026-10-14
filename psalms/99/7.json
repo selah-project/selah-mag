@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עדתיו",
+      "rationale": "गवाही — तोरा के गवाही वाला अरथ; 'आज्ञा' सँकरा होतइ"
+    }
+  ],
+  "translation": "बादल के खम्भा में ऊ ओकनी से बात करथिन; ओ ओकर गवाही सब के रखवारी कइलन आउ जे नियम ऊ ओकनी के देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9c29dcd4b95be0f2df3d95f849a38c88835405d3fc8b3bf7d39bf94943a5617a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/99\/5-8.1792005839396.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "खम्भा में"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "बादल के"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "बात करथिन"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "रखवारी कइलन"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ओकर गवाही सब"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "आउ नियम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ओकनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:59.397291365Z",
+  "model": "glm-5.3"
+}

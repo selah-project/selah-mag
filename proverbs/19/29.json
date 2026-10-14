@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 19:29",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נכונו",
+      "rationale": "'तैयार होवऽ हइ' — क्रिया के बनावट 'खड़ा कइल जा हइ' (सिधा ठाढ़ होना) के अरथ हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כסילים",
+      "rationale": "कसील के सुभाविक अरथ 'मोट-तन' से 'मूर्ख' — आकृति के बिंब पीछे रहि गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नियाव आउ मार",
+      "rationale": "दण्ड के निश्चित नाप-तौल — ठट्टा करै वाला बर नियाव, मूर्ख बर मार"
+    }
+  ],
+  "translation": "ठट्टा करै वाला लोग बर नियाव तैयार होवऽ हइ, आउ मूर्ख लोग के पीठ बर मार पड़ै के बाट जोहऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "84c7adda759983a21c4444784e23d64a5b7075439c223c92b82a96301cabacf7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/19\/29-29.1792006773055.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכונו",
+      "gloss": "तैयार होवऽ हइ"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "ठट्टा करै वाला लोग बर"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "ומהלמות",
+      "gloss": "आउ मार"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "पीठ बर"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "मूर्ख लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:33.056272096Z",
+  "model": "glm-5.3"
+}

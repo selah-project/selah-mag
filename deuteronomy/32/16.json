@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨देवता सब⟩",
+      "rationale": "हिब्रू खाली 'परदेसी' कहऽ हइ; पद 17 के छाया में 'देवता' जोड़ल गेल — समझावे बर"
+    }
+  ],
+  "translation": "ओकनी ओकरा परदेसी ⟨देवता सब⟩ से जलवएलन; घिनौना चीज सब से ओकरा क्रोधित कएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "984ffc9bc2d68474341d88b613dbae9148e9cafd8928321bacbf4f5550c88c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/32\/13-16.1791993033179.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "जलवएलन"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "परदेसी ⟨देवता सब⟩"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "घिनौना चीज सब"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "क्रोधित कएलन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:50:33.180316708Z",
+  "model": "glm-5.3"
+}

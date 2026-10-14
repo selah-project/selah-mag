@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 1:17",
+  "book": "ruth",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अगर",
+      "rationale": "Hebrew כי here opens the oath formula 'if'; Hindi-family readers need the conditional made explicit"
+    },
+    {
+      "kind": "addition",
+      "subject": "एक्को",
+      "rationale": "'if but death' — a lone एक्को supplies the exclusivity of the oath"
+    },
+    {
+      "kind": "you",
+      "subject": "to नाओमी",
+      "rationale": "Ruth's oath addresses Naomi directly, second person throughout"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפריד",
+      "rationale": "'part\/separate' — KJV 'part' vs YLT 'doth part between me and thee'; the verb is singular, death itself the only separator"
+    }
+  ],
+  "translation": "जे जगह तूँ मरऽ हऽ, हम ओहियो मरब, आउ ओही जगह हमर दफनावइ होतइ; यहवे हमरा एहन करऽ, आउ एहने बढ़ावऽ, अगर मौत एक्को हमरा आउ तोहरा बीच अलग करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ruth\/1\/17-20.1792008141931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "जे जगह"
+    },
+    {
+      "surface": "תמותי",
+      "gloss": "तूँ मरऽ हऽ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हम मरब"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "आउ ओही जगह"
+    },
+    {
+      "surface": "אקבר",
+      "gloss": "हमर दफनावइ होतइ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "आउ एहने"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "बढ़ावऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "המות",
+      "gloss": "मौत"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "अलग करतइ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "हमरा बीच"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "आउ तोहरा बीच"
+    }
+  ],
+  "timestamp": "2026-10-14T20:02:21.932453424Z",
+  "model": "glm-5.3"
+}

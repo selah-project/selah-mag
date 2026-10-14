@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही के कोपुला जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हेसेद",
+      "rationale": "חסद के लिप्यन्तरन रखल गेल — कोनो एक मगही सब्द (दया, परेम) ओकरा घटा देतइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बरत देना",
+      "rationale": "תשלם के जड़ של׮ (पूरा करना) हकइ; मगही में 'चुकता करना' के अरथ लेल गेल"
+    }
+  ],
+  "translation": "आउ तोहनी के, अदोनाय, हेसेद हकइ, काहे कि तूँ हर एक आदमी के ओकर काम के मोताबिक बरत देतथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8a740cd6aa8aab327e09d6480016e7944d7465cd31e3897911805dc0cf2a88cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/62\/13-13.1792005198333.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "आउ तोहनी के"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "बरत देतथिन"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "हर एक आदमी के"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "ओकर काम के मोताबिक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:18.334094347Z",
+  "model": "glm-5.3"
+}

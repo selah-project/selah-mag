@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 107:40",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "उजाड़",
+      "rationale": "तोहु — उजाड़-बिना-रस्ता के जगह; उत्पत्ति 1:2 के ओहे सब्द"
+    }
+  ],
+  "translation": "तिरस्कार ढालऽ हथिन प्रधान लोग पर, आउ ओकनी के उजाड़ में भटकावऽ हथिन, जहाँ रस्ता नञ होवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/107\/37-40.1792005933986.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ढालऽ हथिन"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "तिरस्कार"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "प्रधान लोग"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "भटकावऽ हथिन"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "उजाड़ में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:33.987716396Z",
+  "model": "glm-5.3"
+}

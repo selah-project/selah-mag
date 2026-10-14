@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे के अरदास",
+      "rationale": "पूरा पद यहवे के अरदास हकइ — लेवी के बर आसीस के निवेदन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קמיו \/ יקומון",
+      "rationale": "एके जड़ קום — 'उठै वाला' आउ 'उठे' — मगही में 'उठै वाला…उठे' के जोड़ी से रखल गेलइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חילו",
+      "rationale": "'बल' के जगह 'धन-सम्पत्ति' बढ़िया हो सकऽ हइ — चिय्ल दुनू अरथ दावऽ हइ।"
+    }
+  ],
+  "translation": "यहवे, ओकर बल पर असीस देह, आउ ओकर हाथ के काम भावऽ ले; ओकर उठै वाला के कमर मार-तोड़ दे, आउ ओकर दुस्मन के — जे फेर नञ उठे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "77d40ea29f102d9d8aff5a4584383bf911f798bf42e0cebab41778bb53c3cc1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/33\/9-12.1791992981660.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "असीस देह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ओकर बल"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "आउ काम"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ओकर हाथ के"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "भावऽ ले"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "मार-तोड़ दे"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "कमर"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "ओकर उठै वाला के"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "आउ ओकर दुस्मन के"
+    },
+    {
+      "surface": "מן",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "फेर नञ उठे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:49:41.661108783Z",
+  "model": "glm-5.3"
+}

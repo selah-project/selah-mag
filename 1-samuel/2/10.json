@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 2:10",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מריבו",
+      "rationale": "कतीब\/करे के फर्क: 'ओकर झगड़ा करै वाला' (मरיביו) बनाम 'ओकर झगड़ा' — अनुवादक अलग-अलग पढ़ऽ हथिन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सिंग",
+      "rationale": "קרן के शाब्दिक अरथ सिंग हकइ — ताकत के रूपक; 'ताकत' कइल त चित्र मट जातइ"
+    }
+  ],
+  "translation": "यहवे ⟨अपन⟩ झगड़ा करै वाला के दबा देतइ, अकास में ओकनी ऊपर गड़गड़ातइ; यहवे धरती के किनारा के नियाव करतइ, आउ ⟨अपन⟩ राजा के बल देतइ, आउ ⟨अपन⟩ माशियाख के सिंग उच्चा करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/2\/9-12.1791994720644.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "दबा देतइ"
+    },
+    {
+      "surface": "מריבו",
+      "gloss": "झगड़ा करै वाला"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ओकनी ऊपर"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "अकास में"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "गड़गड़ातइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "नियाव करतइ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "आउ देतइ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बल"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "आउ उच्चा करतइ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "सिंग"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "माशियाख"
+    }
+  ],
+  "timestamp": "2026-10-14T16:18:40.645785878Z",
+  "model": "glm-5.3"
+}

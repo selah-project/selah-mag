@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 16:31",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Jerusalem",
+      "rationale": "यरूशलयिम के सीधा सम्बोधन जारी हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "לקלס אתנן",
+      "rationale": "'दाम महंगा करऽ' (JPS 'enhanceth her hire', Targum के पीछे) बनाम 'दाम के तिरस्कार करऽ' (KJV\/ASV 'scornest hire') — शब्द קלס दुनो दने जा सकऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עשיתי \/ הייתי",
+      "rationale": "लिखाई में पहिला बचन (मैंने बनाई\/मैं थी) हकइ, बाकि qere दुसरा बचन (तूँ) पढ़ावऽ हइ; हमनी दुसरा बचन रखलिये।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גב",
+      "gloss": "'मेहराब' — शब्द के आकार गुम्बज\/मेहराब-जइसन ऊँच थाम्ब हकइ; कोनो 'इमारत' जइसन सामान्य सब्द नञ।"
+    }
+  ],
+  "translation": "जब तूँ अपन मेहराब बनावऽ हऽ हर रस्ता के मूड़ी पर, आउ अपन ऊँच जगह बनावऽ हऽ हर चौक में — तूँ अइसन वेश्या जइसन नञ भेलइ जे दाम महंगा करऽ हो, ⟨बिछौवा के दाम⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "be4e5a041212db391a0e1de49897da188e086f2714cb6c345a1f798eeb89207f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/16\/29-32.1792002046607.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבנותיך",
+      "gloss": "जब तूँ बनावऽ हऽ"
+    },
+    {
+      "surface": "גבך",
+      "gloss": "अपन मेहराब"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "के मूड़ी पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "ורמתך",
+      "gloss": "आउ अपन ऊँच जगह"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "बनावऽ हऽ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "चौक"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "भेलइ"
+    },
+    {
+      "surface": "כזונה",
+      "gloss": "अइसन वेश्या जइसन"
+    },
+    {
+      "surface": "לקלס",
+      "gloss": "दाम महंगा करऽ हो"
+    },
+    {
+      "surface": "אתנן",
+      "gloss": "बिछौवा के दाम"
+    }
+  ],
+  "timestamp": "2026-10-14T18:20:46.608825385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 2:19",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דלה דלה",
+      "rationale": "पूरक-क्रिया के दोहराव — ”खींच-खींच” दोहराव से ओकर तेज भरिया पानी खींचे के चित्र मिलऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "drew water for us",
+      "rationale": "केजेवी ”water enough” जोड़ऽ हइ; मूल कहऽ हकइ खाली ”ओ हमनी बर पानी खींचलन”।"
+    }
+  ],
+  "translation": "आउ ओकनी कहलन, “कोनो मिस्रयिम (मिस्र) के मरद ओकनी गड़ेरिया के हाथ से हमनी के छुड़वलन, आउ तः पानी खींच-खींच के हमनी बर देलन, आउ ⟨את⟩ भेड़ के पिआवलन।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6ef902e650cfb46a2d455753ba0f3c24bf9d15fe29c3295b9fa869d5e91ba189",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/2\/17-20.1791988019092.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "हमनी के छुड़वलन"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ओकनी गड़ेरिया के"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ तः"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "खींच-खींच"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "खींच के"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी बर"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "पिआवलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भेड़"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेड़"
+    }
+  ],
+  "timestamp": "2026-10-14T14:26:59.093194741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 7:4",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "इब्रानी क्रिया-रहित बाक्य; मगही बर क्रिया जोड़ल गेलन"
+    },
+    {
+      "kind": "measurement",
+      "subject": "छत्तीस हजार",
+      "rationale": "लड़ाका के टोली के गिनती"
+    }
+  ],
+  "translation": "आउ ओकरा संग, ओनकर बंसावली में, ओनकर बाप के घर के मोताबिक, लड़ाई के सेना के टोली सब ⟨हलन⟩ — छत्तीस हजार; काहे कि ओनकर ढेर जनाना आउ बेटा हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d2caa34fc1d548bc4795c1ccb2ecae836b56ff70103300a723f97bece34f11c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/7\/1-4.1792010057958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועליהם",
+      "gloss": "आउ ओकरा संग"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "ओनकर बंसावली में"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "के घर के मोताबिक"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ओनकर बाप के"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "टोली सब"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना के"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई के"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "आउ छह"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "आउ बेटा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:34:17.959381041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יברכך",
+      "rationale": "क्रिया के अरथ हकइ 'बलि देवे', बाकि इहाँ उल्टा-अरथ (euphemism) में 'कोसना' — सातो पुरान अनुवाद 'curse\/blaspheme' कहऽ हथिन।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "'जँ नञ' के इब्रानी चाल 'निश्चय ही' बतावऽ हइ; हम अक्षरशः रखनी अहइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to यहवे",
+      "rationale": "हाशातान यहवे से सीधे संबोधन में बात करऽ हइ।"
+    }
+  ],
+  "translation": "बाकि अबहीँ तोहर हाथ धेलिया देह, आउ ओकर हड्डी आउ ओकर मांस के छुअ; जँ एहन नञ होतइ त ऊ तोहर मुँह पर तोहरा बलि देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/2\/5-8.1792007131279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "धेलिया देह"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अबहीँ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तोहर हाथ"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "आउ छुअ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ओकर हड्डी"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ओकर मांस के"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहर मुँह"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ऊ तोहरा बलि देतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:45:31.279738379Z",
+  "model": "glm-5.3"
+}

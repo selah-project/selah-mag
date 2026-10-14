@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "मुकुट-घेरा",
+      "rationale": "ज़ेर: 'मुकुट' (KJV\/ASV) बनाम 'घेरा\/छल्ला' (YLt 'ring', BSB 'molding') — शब्द के अरथ फैलल हुआ घेरा हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "वेत्साप्पेता\/तेत्साप्पेन्नू",
+      "rationale": "एकेच जड़ त्साफा के क्रिया दू बेर दोहरावल गेल हइ — ढकना के बल अंग्रेजी में हटि जाथे"
+    }
+  ],
+  "translation": "आउ तूँ ओकरा ⟨את⟩ सुध सोना से मढ़बइ — भीतर से आउ बाहिर से ओकरा मढ़बइ — आउ ओकरा ऊपर सोना के मुकुट-घेरा चारो दने बनबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ee373294631b19d6f72f876a528b328eb08cf3d35438145d3cf68c8988146930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/25\/9-12.1791988848290.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "मढ़बइ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "सुध सोना"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "सुध"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "भीतर-से"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "आउ-बाहिर-से"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "मढ़बइ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "बनबइ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा-ऊपर"
+    },
+    {
+      "surface": "זר",
+      "gloss": "मुकुट-घेरा"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो-दने"
+    }
+  ],
+  "timestamp": "2026-10-14T14:40:48.291720716Z",
+  "model": "glm-5.3"
+}

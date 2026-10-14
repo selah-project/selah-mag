@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "Hebrew repetition 'holy of holies' — most holy; repetition kept as पवित्तर-पवित्तर"
+    }
+  ],
+  "translation": "आउ तूँ ⟨את⟩ बलि के बेदी आउ ⟨את⟩ ओकर सब बरतन अभिसेक करबउ, आउ ⟨את⟩ बेदी पवित्तर करबउ, आउ बेदी पवित्तर-पवित्तर होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8888f8bb1af7a7722eddddf8d16cadc26a223200a9093135e5d332c47d547d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/40\/9-12.1791989419823.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "आउ तूँ अभिसेक करबउ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बलि के बेदी"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "बलि के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "सब बरतन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ओकर बरतन"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "आउ पवित्तर करबउ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बेदी"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "पवित्तर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:50:19.824007034Z",
+  "model": "glm-5.3"
+}

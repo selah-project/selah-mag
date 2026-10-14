@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 22:8",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨उनका⟩",
+      "rationale": "क्रिया ‘मारि डारलक’ के कर्म मगही में स्पस्ट करै बर सर्बनाम जोड़ल गेल; इब्रानी क्रिया के प्रत्यय ‘-म’ में पहिले से मौजूद हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "शाराव",
+      "rationale": "शाराव ‘सरदार \/ प्रमुख’ — पद-नाम हकइ; मगही ‘सरदार’ ओहि पदबी रखऽ हकइ।"
+    }
+  ],
+  "translation": "आउ भेल — जब येहू अहाब के घर के संग नियाव करैत रहे, त ओकरा ⟨את⟩ यहूदा के सरदार आउ अहज्याहू के भाय के बेटा भेटलन, जे अहज्याहू के सेवा करैत रहथिन; आउ ऊ ⟨उनका⟩ मारि डारलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f5d356d60f494f4b6a80fd96e89800d1ec06dd2234741e7981ebcc6e45d2ead8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/22\/5-8.1792011144485.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "כהשפט",
+      "gloss": "नियाव करैत बखत"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "येहू"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "भेटलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहूदा के सरदार आउ अहज्याहू के भाय के बेटा"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आउ बेटा"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाय के"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "अहज्याहू"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "सेवा करै वाला"
+    },
+    {
+      "surface": "לאחזיהו",
+      "gloss": "अहज्याहू बर"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "मारि डारलक"
+    }
+  ],
+  "timestamp": "2026-10-14T20:52:24.486650810Z",
+  "model": "glm-5.3"
+}

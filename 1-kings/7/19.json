@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "चार हाथ",
+      "rationale": "मुकुट के नाप — चार हाथ (अँगूठी से कुहनी ले के नाप)।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "कमल",
+      "rationale": "שושרे कमल-जाति के फूल हकइ; सजावट के रूप में 'कमल-काम' रखल गेल।"
+    }
+  ],
+  "translation": "आउ मुकुट जे बरामदा में खम्भा सब के मूड़ी पर हथिन — कमल-काम, चार हाथ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "60b47b51d8411ad874f19b458f26e7254d3928a36f76d67003a09613e39949ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/7\/17-20.1791996909268.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "आउ मुकुट"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मूड़ी"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "खम्भा सब के"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "कमल"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "बरामदा में"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:55:09.269094273Z",
+  "model": "glm-5.3"
+}

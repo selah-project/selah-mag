@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 12:2",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गुरदा",
+      "rationale": "מכליות गुर्दा हकइ, भीतर के मन के चिन्हा — रूढ़ अनुवाद 'हिरदय' करऽ हइ; इहाँ अंग के रूप रखल गेलइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "मुँह में निकट",
+      "rationale": "'मुँह में' — कुछ अनुवादक 'ओकनी के होंठ पर' कहऽ हथिन; इब्रानी सीधे मुँह कहऽ हइ।"
+    }
+  ],
+  "translation": "तूँ ओकनी के रोपलन, आउ ओकनी जड़ धर लेलन; ओकनी आगू बढ़लन, आउ फल बनइलन; तूँ ओकनी के मुँह में निकट हथिन, बाकि ओकनी के गुरदा से दूर हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9dab1baf5af0687d2c37826ffe32aaa84013f11b9a5ff62d329da27cb5749440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/12\/1-4.1792000445112.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נטעתם",
+      "gloss": "रोपलन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "जड़ धर लेलन"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "आगू बढ़लन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "निकट"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ओकनी के मुँह में"
+    },
+    {
+      "surface": "ורחוק",
+      "gloss": "बाकि दूर"
+    },
+    {
+      "surface": "מכליותיהם",
+      "gloss": "ओकनी के गुरदा से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:54:05.113707499Z",
+  "model": "glm-5.3"
+}

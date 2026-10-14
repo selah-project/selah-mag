@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 1:6",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דר",
+      "rationale": "मोती-पत्थल — ई सब्द तनाख में खाली इहे हे"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סחרת",
+      "rationale": "करिया पत्थल (टाइल) — खाली इहे मिलऽ हे"
+    },
+    {
+      "kind": "crux",
+      "subject": "רצפת בהט ושש ודר וסחרת",
+      "rationale": "चारो पत्थल के नाम अनिश्चित हइ — KJV 'लाल, नीला, सेत, करिया' बनाम JPS 'हरा, सेत, सीप, गोमेद'"
+    }
+  ],
+  "translation": "चिट्ट मलमल, कपास आउ नीला — मलमल आउ जामुनी डोरी से चानी के छल्ला आउ संगमरमर के खम्भा पर बान्हलइ; सोना आउ चानी के पलंग, अलबास्तर, संगमरमर, मोती-पत्थल आउ करिया पत्थल के फर्स पर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fbf970fbc3d83fa2a6f5c8dfdb5d968c810673aef82bfbc0402c2649508e8555",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/1\/5-8.1792008563679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חור",
+      "gloss": "चिट्ट मलमल"
+    },
+    {
+      "surface": "כרפס",
+      "gloss": "कपास"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "आउ नीला"
+    },
+    {
+      "surface": "אחוז",
+      "gloss": "बान्हलइ"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "डोरी से"
+    },
+    {
+      "surface": "בוץ",
+      "gloss": "मलमल"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "आउ जामुनी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גלילי",
+      "gloss": "छल्ला"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "ועמודי",
+      "gloss": "आउ खम्भा"
+    },
+    {
+      "surface": "שש",
+      "gloss": "संगमरमर"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "पलंग"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "आउ चानी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "רצפת",
+      "gloss": "फर्स"
+    },
+    {
+      "surface": "בהט",
+      "gloss": "अलबास्तर"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आउ संगमरमर"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "आउ मोती-पत्थल"
+    },
+    {
+      "surface": "וסחרת",
+      "gloss": "आउ करिया पत्थल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:09:23.680257088Z",
+  "model": "glm-5.3"
+}

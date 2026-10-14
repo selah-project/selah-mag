@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 11:40",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "לְתַנּוֹת",
+      "rationale": "תנह तनाख़ में कहुँ आउ नञ आवऽ हइ (छोड़ के एक जगह); अरथ 'स्मरण\/बखान करना' संदर्भ से।"
+    },
+    {
+      "kind": "crux",
+      "subject": "लְתַנּוֹת",
+      "rationale": "'रोवे बर' (अनुवादक के अनुमान) बनाम 'बात करे बर\/स्मरण करे बर' — जड़ के अरथ खुला हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चार दिन बरिस में",
+      "rationale": "बरिस के चार दिन के गिनती — यिप्तह के बेटी के रीति के साइत।"
+    }
+  ],
+  "translation": "बरिस-दर-बरिस यिस्राएल के बेटी सब यिप्तह गिलादी के बेटी के स्मरण करे बर जाय करऽ हथिन — बरिस में चार दिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2626af3e011c4bd3b510093a844cea3e024ae75a459f9767e4f141370832ff63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/11\/37-40.1791994407642.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מימים",
+      "gloss": "बरिस-दर-बरिस"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "जाय करऽ हथिन"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटी सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "स्मरण करे बर"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "के बेटी"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "यिप्तह"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "गिलादी"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "बरिस में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:13:27.644181751Z",
+  "model": "glm-5.3"
+}

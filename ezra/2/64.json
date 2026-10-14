@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सभा के गिनती",
+      "rationale": "चालिस दू हजार तीन सौ साठ — नगर सभा के पूरा गिनती"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארבע רבוא",
+      "rationale": "'चालिस रिबो' — इब्रानी आँकड़ा-ढाँचा जेकरा में चार-महाजाल के ढेर अरथ छिपल हइ; मगही में चालिस हजार कहल गेलइ"
+    }
+  ],
+  "translation": "पूरा सभा एक्को जइसन — चालिस हजार दू हजार तीन सौ साठ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "35609999c5088289e00332847cbada79999d4d67ee84aec5f172969e06ce57dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/2\/61-64.1792009255459.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "एक्को जइसन"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चालिस"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दू हजार"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "साठ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:20:55.460052348Z",
+  "model": "glm-5.3"
+}

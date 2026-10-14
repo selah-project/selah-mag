@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "उमिर-सूची",
+      "rationale": "पद-पद पर उमिर गिनल गेल हइ — वंसावली के तोल-तालिका।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם",
+      "rationale": "एके शब्द 'नाम' आउ आदमी 'शेम' दुनो अरथ में हकइ; पाछला पद (बाबल के नाम) से गूँज।"
+    }
+  ],
+  "translation": "ई शेम के वंसावली हकइ: शेम सौ बरिस के हलन आउ महाबाढ़ के दू बरिस पाछे ओ ⟨את⟩ अर्पक्छद के जनम देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d600afaaff682b9f32b6c86c247364ca07dbbdb67574b0c482e52c0d1978d9ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/11\/9-12.1791986510392.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "वंसावली"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अर्पक्छद"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "अर्पक्छद"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "दू बरिस"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "पाछे"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "महाबाढ़"
+    }
+  ],
+  "timestamp": "2026-10-14T14:01:50.393691333Z",
+  "model": "glm-5.3"
+}

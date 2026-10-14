@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תגבל",
+      "rationale": "'सीमाबद्ध होतइ' — रस्सी ऐँसे के जड़; 'जुड़तइ' बनाम 'सीमा खीँचल जातइ', आउ 'के' के कर्ता (खमात या यहवे) मतभेद हकइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ऊ",
+      "rationale": "חכמה के कर्ता एक-बचन (ऊ) बाकि दू नगर (त्सोर आउ त्सिदोन) — 'ओकनी दुनो बहुते सियान हथ' दुसर पढ़निहार हकइ।"
+    }
+  ],
+  "translation": "आउ खमात ⟨ओकर⟩ सीमा बनतइ; त्सोर आउ त्सिदोन — काहे कि ऊ बहुते सियान हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c9a202bb4e68a734844dcdbcd9b335033db4cd8f27b7272f0cdf0115669ee6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/9\/1-4.1792004191432.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "खमात"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "सीमा बनतइ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकर ⟨साथ⟩"
+    },
+    {
+      "surface": "צר",
+      "gloss": "त्सोर"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "आउ त्सिदोन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "सियान"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-10-14T18:56:31.433572009Z",
+  "model": "glm-5.3"
+}

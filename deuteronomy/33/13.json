@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 33:13",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "होवऽ",
+      "rationale": "इब्रानी में क्रिया-योजक नञ हइ; मगही के बाक्य-बनावट माँगऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממגד",
+      "rationale": "मेगेद शब्द 33:13–16 में पाँच बेर दोहरावल गेल हे — अनुवाद में ओकर बाट-रिदम कुछ कम हो जाऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "रबצת — दबैल",
+      "rationale": "रबास पसु के चौपट हो के लेटे के क्रिया हकइ; गहिरऽ पानी के बर ऊ चित्र हकइ जे नीचे दबैल डेरा जइसन हे"
+    }
+  ],
+  "translation": "आउ योसेफ बर कहलन: यहवे के असीस-देल ⟨होवऽ⟩ ओकर धरती — अकास के उत्तम चीज, ओस, आउ गहिरऽ जे नीचे दबैल हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8dcf3828bacdceece413e862ac87a1fb0fd0c346a6eb533ae5240373f693a37a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/33\/13-16.1791993011907.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "आउ योसेफ बर"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "מבורכת",
+      "gloss": "असीस-देल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ओकर धरती"
+    },
+    {
+      "surface": "ממגד",
+      "gloss": "उत्तम चीज"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "ओस"
+    },
+    {
+      "surface": "ומתהום",
+      "gloss": "आउ गहिरऽ"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "दबैल"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:50:11.907702424Z",
+  "model": "glm-5.3"
+}

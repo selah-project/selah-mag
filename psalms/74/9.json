@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתנו",
+      "rationale": "इ आगमन में את (H854) क्रिया-विशेषण-पद 'हमनी संग' हकइ, सीधा-करम चिन्हा नञ — बाकि कुरसी के नियम के मोताबिक ⟨את⟩ रखल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जाननिहार",
+      "rationale": "ידע क्रिया के करता-संज्ञा बनावे लें मगही में '-निहार' जोड़ल गेलइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "עד מה",
+      "rationale": "'कते लें' — अपूर्ण प्रस्न, 'कते दिन तक' पूरा कएल गेलइ।"
+    }
+  ],
+  "translation": "हमर चिन्हा हमनी नञ देखलियनी, नबी आउ कोनो नञ बचलइ, नञ हमनी संग ⟨את⟩ जाननिहार — कते दिन तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/74\/9-12.1792005443578.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "हमर चिन्हा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "देखलियनी"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आउ कोनो"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "हमनी संग (जाननिहार)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जाननिहार"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कते दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:23.579273820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 2:15",
+  "book": "haggai",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "प्रार्थना-कोमलता के कण ('मत' जइसन) — मगही में कोनो अलग सब्द नञ देलक, बिनती के सुर 'तोहनी' में बहतै।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומעלा",
+      "rationale": "शब्दकोश-मोताबिक 'ऊपर', बाकि संदर्भ पीछे के दने देखै के कहऽ हइ (ASV 'backward'); 'ई दिन से आउ आगे-पीछे' दुनो पढ़ावा चलऽ हइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "तोहनी के हिरदय में रखऽ",
+      "rationale": "लोग सब के सीधा आग्रह — हिरदय से ध्यान देऽ।"
+    }
+  ],
+  "translation": "आउ अब, तोहनी के हिरदय में रखऽ: ई दिन से आउ ओकरा से ऊपर — ओ समय से पहिले जब यहवे के मंदिर में पत्थल पर पत्थल धरल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "addf6d7ee631b4feb59258db5bd4dc591f40ea246b2e981010e180340e418b0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/haggai\/2\/13-16.1792004042285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "रखऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "तोहनी के हिरदय में"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ई दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "आउ ओकरा से ऊपर"
+    },
+    {
+      "surface": "מטרם",
+      "gloss": "ओ समय से पहिले"
+    },
+    {
+      "surface": "שום",
+      "gloss": "धरल गेलन"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "मंदिर में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:54:02.286245932Z",
+  "model": "glm-5.3"
+}

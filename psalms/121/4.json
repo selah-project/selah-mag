@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ינום \/ יישן",
+      "rationale": "ऊँघऽ आउ सोवऽ के जोड़ी — दू नञ के संग क्रम, पद 3 के 'ऊँघऽ' के दोहराव"
+    },
+    {
+      "kind": "invitation",
+      "subject": "पढ़निहार",
+      "rationale": "'देखऽ' सीधा ध्यान खींचऽ हइ"
+    }
+  ],
+  "translation": "देखऽ — यिस्राएल (इस्राएल) के रखवार करनिहार नञ ऊँघऽ हइ आउ नञ सोवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/121\/1-4.1792006166807.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ऊँघऽ हइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "सोवऽ हइ"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "रखवार करनिहार"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:26.808962378Z",
+  "model": "glm-5.3"
+}

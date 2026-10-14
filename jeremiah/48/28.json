@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 48:28",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "मोआब के रहइया",
+      "rationale": "आज्ञा रूप में सम्बोधन — छोड़ऽ, रहऽ, बनऽ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עברי פי פחת",
+      "rationale": "'गड्ढा के मुँह के देवढ़' के दूसर पाठ 'गड्ढा के मुँह के ऊपर' (ASV) हकइ; देवढ़\/कात JPS के चलनसार रूप।"
+    }
+  ],
+  "translation": "नगर छोड़ऽ आउ चट्टान में रहऽ, मोआब के रहइया सब; आउ कबूतर जइसन बनऽ जे गड्ढा के मुँह के देवढ़ में घोंसला बनावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bca79b071df106451b80923773fb8a450588942ebaac4da452a0fffc96bea939",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/48\/25-28.1792001450980.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "छोड़ऽ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "आउ रहऽ"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "चट्टान में"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहइया सब"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "आउ बनऽ"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "कबूतर जइसन"
+    },
+    {
+      "surface": "תקנן",
+      "gloss": "घोंसला बनावऽ हइ"
+    },
+    {
+      "surface": "בעברי",
+      "gloss": "देवढ़ में"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "गड्ढा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:10:50.981057540Z",
+  "model": "glm-5.3"
+}

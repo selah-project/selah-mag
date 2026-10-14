@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨अपन⟩",
+      "rationale": "‘उसका’ — ऊ अपन लोग से बोलऽ हकइ; साफ करे बर जोड़ल"
+    },
+    {
+      "kind": "you",
+      "subject": "फिरौन के लोग",
+      "rationale": "फिरौन अपन लोग के सीधे सम्बोधन करऽ हकइ"
+    }
+  ],
+  "translation": "ऊ ⟨अपन⟩ लोग से कहलन, “देखऽ, यिस्राएल के बेटा सब के लोग बड़ हो गेल हथिन, हमनी से जादे अउसर हथिन।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1777181d08a5f2f08fe98eeffcc2c9858f50b97451757d10d76d1d9b4be10f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/1\/9-12.1791987963588.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨अपन⟩ लोग"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "आउ जादे अउसर"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "हमनी से"
+    }
+  ],
+  "timestamp": "2026-10-14T14:26:03.588766416Z",
+  "model": "glm-5.3"
+}

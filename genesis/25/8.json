@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ओकर लोग के संग जोड़ल गेलन",
+      "rationale": "ויאסף אל עמיו — मरे के बाद पुरखा के संग जुड़े के हिब्रू बिदा; अक्षरशः 'इकट्ठा कइल गेल'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "साँस ठीक हो गेलन",
+      "rationale": "גוע ठीक-ठीक साँस छोड़े के हकइ — 'साँस ठीक हो गेलन' ओही तस्वीर रखऽ हइ"
+    }
+  ],
+  "translation": "आउ अवराहाम के साँस निकललन आउ मर गेलन — बुढ़ापा में, एक बढ़िया बुढ़ापा में, बूढ़ भेल आउ सन्तुस्ट भेल; आउ ओकर लोग के संग जोड़ल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e12dea066e8fe59b0bde57fe9ee3c476792aea9d9a32cff1812983ed5dc937de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/25\/5-8.1791986953995.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "साँस निकललन"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर गेलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "बुढ़ापा में"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "बूढ़"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "सन्तुस्ट"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "जोड़ल गेलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "ओकर लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T14:09:13.996810042Z",
+  "model": "glm-5.3"
+}

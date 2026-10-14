@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "गिनती",
+      "rationale": "गिनती — लोग के गिनती के अभिव्यक्ति।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "मरद लोग",
+      "rationale": "मतई मतई 'मरद' के बहुवचन — 'गिनती के मरद' लिखा गेल; दूसर पढ़ाई 'मौत के लोग' अर्थात मतई नञ।"
+    }
+  ],
+  "translation": "जब ऊ लोग गिनती के मरद लोग रहलन — बड़ी थोरहा — आउ ओही धरती में परदेसी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/105\/9-12.1792005868421.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "जब ऊ लोग रहलन"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "मरद लोग"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती के"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "बड़ी थोरहा"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "आउ परदेसी"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओही धरती में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:28.422146505Z",
+  "model": "glm-5.3"
+}

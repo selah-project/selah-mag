@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שרץ",
+      "rationale": "किरिया के अरथ हकइ 'कुड़माड़ऽ \/ फुटना' — साग-पात जइसन जीव के उबलाव, 'उमड़लइ' में ओही तसबीर रहलइ"
+    }
+  ],
+  "translation": "ओकनी के धरती दादुर सब से उमड़लइ, ओकनी के राजा सब के कोठरी सब में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ebeee56c79bdc292f7177aea7e918b8a32a499182648018bfe86a2e90acc640c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/105\/29-32.1792005910374.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "उमड़लइ"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ओकनी के धरती"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "दादुर सब"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "कोठरी सब में"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ओकनी के राजा सब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:10.375622695Z",
+  "model": "glm-5.3"
+}

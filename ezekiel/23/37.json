@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezekiel 23:37",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאכלה",
+      "rationale": "'खाय बर' — कइसन पुरान अनुवाद 'आग से' जोड़ऽ हइ जे मूलपाठ में नञ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "העבירו להם",
+      "rationale": "'पार कएलन' — कुछ 'आग से पार कएलन' पढ़ऽ हइ, मूलपाठ खाली पार करे के कहऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאפו…נאפו",
+      "rationale": "एके किरिया दू बेर — व्यभिचार के दोहराव, मगही में दोहराव रखल गेल।"
+    }
+  ],
+  "translation": "काहे कि ओकनी व्यभिचार कएलन, आउ ओकनी के हाथ पर खून हइ, आउ ओकनी अपन मूरत सब के संग ⟨את⟩ व्यभिचार कएलन, आउ जे बेटा सब ओकनी हमरा बर जनमलन, ओकरो ओकनी ⟨את⟩ ओकनी बर खाय बर पार कएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bb35a8f3ae852229e5dbfa8bd287b55223b028a4270c4ad6b6aae9972dc4f24a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/23\/37-40.1792002373048.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נאפו",
+      "gloss": "व्यभिचार कएलन"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "आउ खून"
+    },
+    {
+      "surface": "בידיהן",
+      "gloss": "ओकनी के हाथ पर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अपन मूरत सब के संग"
+    },
+    {
+      "surface": "גלוליהן",
+      "gloss": "अपन मूरत सब"
+    },
+    {
+      "surface": "נאפו",
+      "gloss": "व्यभिचार कएलन"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ एकरो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बेटा सब"
+    },
+    {
+      "surface": "בניהן",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "जनमलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "העבירו",
+      "gloss": "पार कएलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी बर"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "खाय बर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:26:13.049433640Z",
+  "model": "glm-5.3"
+}

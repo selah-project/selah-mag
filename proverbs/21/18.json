@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "'छुटकारा-दाम' बनाम 'प्रायस्चित' (ylt atonement) — कोस्ठक के फिड़या जावै वाला दाम के चित्र हकइ"
+    }
+  ],
+  "translation": "बुरा आदमी भला लोग बर छुटकारा-दाम हकइ, आउ धोखेबाज सीधे-सादा लोग के जगह लेतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/21\/17-20.1792006836056.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "छुटकारा-दाम"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "भला लोग बर"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुरा आदमी"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "आउ जगह लेतइ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "सीधे-सादा लोग के"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "धोखेबाज"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:36.057627035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ओकनी⟩",
+      "rationale": "लेटे वाला कोनो हइ — झुण्ड — ऊ साफ करे बर सर्बनाम जोड़ल"
+    }
+  ],
+  "translation": "छोड़ल जातइ अरोएर के नगर; ओकनी झुण्ड बर होतइं आउ ⟨ओकनी⟩ लेटतइं आउ कोनो डरावे वाला नञ रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "33aebae5b3414892baed01785e786de29ff4cfa4e594b2de95438ce9123fbf95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/17\/1-4.1791998961598.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "छोड़ल जातइ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "अरोएर के"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "झुण्ड बर"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "होतइं"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "आउ लेटतइं"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "डरावे वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T17:29:21.599113246Z",
+  "model": "glm-5.3"
+}

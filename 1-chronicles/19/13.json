@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 19:13",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חזק \/ ונתחזקה",
+      "rationale": "एके जड़ के दोहराव — जड़ חזק दुनू क्रिया में; मगही में दोहराव के असर घटऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ऊहे",
+      "rationale": "मगही के बनावट बर जोड़ल सर्बनाम, इब्रानी में करता बिना जोड़ी आवऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "जोआब के बचन",
+      "rationale": "सिपाही सब के आगे कहल उत्तेजना — सीधा सम्बोधन।"
+    }
+  ],
+  "translation": "हियाव धरऽ हइ, आउ हमनी हियाव धरबी — हमनी के लोग बर आउ हमनी के एलोहीम के नगर सब बर; आउ यहवे जे अपन आँख में ठीक लागऽ हइ, ऊहे करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ee5139bebb14d12b37ce3bbf147526cbf5f38fb569989363f9c4e4d4ab369a00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/19\/13-16.1792010349239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "हियाव धरऽ हइ"
+    },
+    {
+      "surface": "ונתחזקה",
+      "gloss": "आउ हमनी हियाव धरबी"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "बर"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी के लोग"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "आउ बर"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर सब"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "जे ठीक लागऽ हइ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "अपन आँख में"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ऊहे करतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:39:09.240157500Z",
+  "model": "glm-5.3"
+}

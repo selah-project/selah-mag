@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बचेल",
+      "rationale": "ואיננו साफ रूप से 'आउ ऊ नञ हकइ' कहऽ हइ; मगही बाक्य के बर 'बचेल' जोड़ल गेलन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשפתי \/ גליתי",
+      "rationale": "दू कर्म एके तस्वीर के दोहरावऽ हथिन — कपड़ा उतरावना आउ पर्दा हटावना; पूरा उजागर करे के चित्र।"
+    },
+    {
+      "kind": "you",
+      "subject": "एसाव",
+      "rationale": "एकरा पीछा वाला पद (49:11) एसाव के ओर सीधा बोलऽ हइ।"
+    }
+  ],
+  "translation": "काहे कि हम एसाव ⟨את⟩ नाङर कर देलियनी अनी, हम ओकर लुकाएल जगह ⟨את⟩ खोल देलियनी अनी, आउ ऊ लुका नञ सकतइ; ओकर बिया लुटल गेलन, आउ ओकर भाय आउ ओकर पड़ोसी, आउ ऊ ⟨बचेल⟩ नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0300278fb040b790c5ae0e3d3a6232a7f7179eb3e875e9634d854d197dce0cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/49\/9-12.1792001500524.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "नाङर कर देलियनी अनी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एसाव"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "खोल देलियनी अनी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर लुकाएल जगह"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "ओकर लुकाएल जगह"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "आउ लुकना"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सकतइ"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "लुटल गेलन"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ओकर बिया"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आउ ओकर भाय"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "आउ ओकर पड़ोसी"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "आउ ऊ ⟨बचेल⟩ नञ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:11:40.525104188Z",
+  "model": "glm-5.3"
+}

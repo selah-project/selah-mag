@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלם",
+      "rationale": "'मूक\/चुप्पा' (ASV, YLT) बनाम 'शक्तिसाली लोग' (KJV 'congregation', BSB 'rulers') — पढ़ाई (pointing) पर फैसला टिकल हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मूक ⟨सभा⟩",
+      "rationale": "इब्रानी खाली 'मूकता' कहऽ हइ; 'सभा' के जोड़ ⟨…⟩ में देखावल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "नियाव करए वाला लोग ला",
+      "rationale": "पोथा सीधा दने सवाल करऽ हइ — आदमी के बेटा सब ला।"
+    }
+  ],
+  "translation": "की सचमुच, हे मूक ⟨सभा⟩, त्सेदेक के बात कहऽ हऽ? हे आदमी के बेटा सब, की सीध-साद नियाव करऽ हऽ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "713dd43d5eacb0e9d0e8fd6eae7ce253a19a34fa162ab39f0235912b83a44c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/58\/2-2.1792012039297.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "की सचमुच"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "हे मूक ⟨सभा⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "त्सेदेक"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "बात कहऽ हऽ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "सीध-साद"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "नियाव करऽ हऽ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सब"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:19.297880790Z",
+  "model": "glm-5.3"
+}

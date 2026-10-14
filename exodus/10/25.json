@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 10:25",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बर",
+      "rationale": "Hebrew prefix ל rendered as separate Magahi postposition"
+    }
+  ],
+  "translation": "मोशे (मूसा) कहलन: तूँ तोहनीहूँ हमनी के हाथ में बलि के पसु आउ पूरा जरे वाला बलि देबऽ, आउ हमनी यहवे, हमनी के एलोहीम बर ओकरा करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3828ba6473d71bf9ac0c8cc22ab06f62acc9441c5334459deca90b3086d79058",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/10\/25-28.1791988274687.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "तोहनीहूँ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देबऽ"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "हमनी के हाथ में"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "बलि के पसु"
+    },
+    {
+      "surface": "ועלות",
+      "gloss": "आउ पूरा जरे वाला बलि"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "आउ हमनी करबइ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T14:31:14.687833308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के सहायक क्रिया जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "डरावना",
+      "rationale": "הנוראת 'डर पैदा करे वाला' — विस्मय आउ डेर दूनों में"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल",
+      "rationale": "पद इस्राएल के सीधे सम्बोधन में हकइ, एक-बचन 'तोहर'"
+    }
+  ],
+  "translation": "ऊ तोहर स्तुति हथिन आउ ऊ तोहर एलोहीम हथिन, जे ⟨את⟩ तोहर संग ⟨את⟩ ई बड़का आउ ⟨את⟩ ई डरावना काज कइलन, जे तोहर आँखीं देखलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6ca8f4ae43bba75f44249f030c8583b682d55f5ce67b1d03935331a4ff96df33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/10\/21-22.1791992175295.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "तोहर स्तुति"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "तोहर संग ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई बड़का"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ई बड़का"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "ई डरावना"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "ई डरावना"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "तोहर आँखीं"
+    }
+  ],
+  "timestamp": "2026-10-14T15:36:15.295886704Z",
+  "model": "glm-5.3"
+}

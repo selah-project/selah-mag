@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हबल",
+      "rationale": "הבל साँस\/धुआँ के मतलब हकइ; कोहेलेत के बिस्तार-सब्द हकइ, एहे से लिप्यन्तरन रखलन"
+    },
+    {
+      "kind": "crux",
+      "subject": "लכה נא",
+      "rationale": "'चलऽ, अब' — कइयन अनुवाद एकरा 'आऽ देखऽ' जइसन आत्म-सम्बोधन मानऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנסכה",
+      "rationale": "'तोहारऽ' — धातु ठीक ओहे हकइ जे यिस्राएल के मिस्रयिम में तोहार के बात हकइ"
+    }
+  ],
+  "translation": "हम अपन हिरदय में कहलियन: चलऽ, अब हम हरस में तोहारऽ हिअइ आउ भलइ के देखिये; आउ देखऽ — ईओ हबल हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2da1288e19257dbd17f2a221370d43981aa409a8b2038fce826468db28841a95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/2\/1-4.1792008383259.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "कहलियन"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "अपन हिरदय में"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "चलऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "तोहारऽ हिअइ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "हरस में"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आउ देखिये"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "भलइ के"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ईओ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हबल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:23.260338732Z",
+  "model": "glm-5.3"
+}

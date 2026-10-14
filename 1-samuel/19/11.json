@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 19:11",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नफश = परान, प्राण-शक्ति; 'आत्मा' नहीं"
+    },
+    {
+      "kind": "you",
+      "subject": "मिकल के बात दाविद से",
+      "rationale": "सीधा संबोधन: 'जो तूँ आज रात…'"
+    }
+  ],
+  "translation": "आउ शाउल दूत भेजलक दाविद के घर में ओकर पहरा रखे बर आउ बिहान ओकरा मार डाले बर; बाकि मिकल, ओकर जनाना, दाविद के बता देलक आउ कहलक — जो तूँ आज रात ⟨את⟩ अपन परान नञ बचा लेबह, तो काल्हि तोहार मरन होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bb33ca57b978b04d0522ec25012d7b95ac8604b30feeecd4ce17b0c63aa797ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/19\/9-12.1791995412305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलक"
+    },
+    {
+      "surface": "שאוײ",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "לשמרו",
+      "gloss": "ओकर पहरा रखे बर"
+    },
+    {
+      "surface": "ולהמיתו",
+      "gloss": "आउ ओकरा मार डाले बर"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहान"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "बता देलक"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "मिकल"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ओकर जनाना"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ממלט",
+      "gloss": "बचा लेबह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन परान"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "अपन परान"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "आज रात"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "तो काल्हि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "מומת",
+      "gloss": "मरन होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:30:12.306152220Z",
+  "model": "glm-5.3"
+}

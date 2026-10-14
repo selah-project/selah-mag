@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויאסף…ויאסף",
+      "rationale": "एके क्रिया दू बेर — गोड़ समेलने आउ लोग के संग जुड़े — इब्रानी के पुनरावृत्ति, मगही में क्रिया-भेद से देखावल गेल।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "अपन लोग के संग जुड़लन",
+      "rationale": "मरे के बाद के इब्रानी बात — परिवार के कब्र के संग जुड़े के अरथ; शाब्दिक रूप रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "साँस छोड़लन",
+      "rationale": "ויגוע के शाब्दिक अरथ 'साँस बाहर कइलन' — मरन के सुन्ना परिवर्तन।"
+    }
+  ],
+  "translation": "आउ याकोव (याकूब) आपन बेटा सब के ⟨את⟩ हुकुम देके पूरा कइलन, आउ आपन गोड़ सब के बिछौना पर समेलन, आउ साँस छोड़लन, आउ आपन लोग के संग जुड़लन गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0783602e0e28a75050c9216e4d55c54aea81a80cc2bb3bc6fe006d4b8b929fcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/49\/33-33.1791987904355.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "पूरा कइलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "हुकुम देके"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन बेटा सब के"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "आपन बेटा सब के"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "समेलन"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "आपन गोड़ सब के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "बिछौना"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "साँस छोड़लन"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "जुड़लन गेलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "संग"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "आपन लोग के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:25:04.355715199Z",
+  "model": "glm-5.3"
+}

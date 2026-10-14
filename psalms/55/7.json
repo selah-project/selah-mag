@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "इब्रानी के इच्छा-मुहावरा 'काहे कि देता' — 'काश कि' के बराबर; शाब्दिक रूप रखल गेलन।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אבר",
+      "rationale": "पिंजर के पर — सुरुज आउ एही जैसन किछु जगह आवऽ हइ।"
+    }
+  ],
+  "translation": "आउ हम कहलियन — कोन देता हमनी के परें, जइसन परवान के? उड़ी गेलियन आउ आराम करियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/55\/5-8.1792005147755.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आउ हम कहलियन"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देता"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "परें"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "जइसन परवान के"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "उड़ी गेलियन"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "आउ आराम करियन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:27.756475962Z",
+  "model": "glm-5.3"
+}

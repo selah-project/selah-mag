@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 11:11",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "हो + हकइ — इब्रानी सर्बनाम हू के पुस्टि; मगही किरिया जोड़ल गेलन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "עניי הצאן",
+      "rationale": "'भेड़ के गरीब लोग' — कइयो अनुवादक एकरा 'गरीब झुंड' पढ़ऽ हइ।"
+    }
+  ],
+  "translation": "आउ ओ ओही दिन में टूट गेलन, आउ ओकनी जान गेलन — भेड़ के गरीब लोग, जे हमर ⟨את⟩ रखवारी करत रहथिन — काहे कि यहवे के बचन हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4d1b8e903065145ef7ada6ed44d23635c6329c7b863c8a4462c2c85c186b88d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/11\/9-12.1792004272140.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפר",
+      "gloss": "आउ ओ टूट गेलन"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "आउ ओकनी जान गेलन"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "गरीब लोग"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेड़ के"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "जे रखवारी करत रहथिन"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "हमर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:57:52.141841254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "बइठल",
+      "rationale": "יֹשֵב כְּרוּבִים — 'करूब पर बइठल', 'करूब के बीच बइठल' या 'करूब बनाके बइठल' (योकब-रूप ले के) — तीन पढ़ाइ मिलऽ हइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תנוט",
+      "rationale": "lemma נוּट के ई एकमात्र आगमन पूरा तनाख़ में हकइ — धरती के काँपना।"
+    }
+  ],
+  "translation": "यहवे राज करऽ हथिन — जाति सब काँपथिन; करूब सब पर बइठल, धरती हिल्लइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/99\/1-4.1792005827994.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज करऽ हथिन"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "काँपथिन"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बइठल हथिन"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "करूब सब के ऊपर"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "हिल्लइ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:47.994901921Z",
+  "model": "glm-5.3"
+}

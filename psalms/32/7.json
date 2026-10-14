@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हऽ हइ⟩",
+      "rationale": "इब्रानी में क्रिया-सम्बन्ध नञ हइ; मगही के कोठर-बाक्य एकरा माँगऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצר \/ תצרני",
+      "rationale": "צַר (संकट) आउ נצר (रखवारी) के अच्छर-गूँज — ‘संकट से रखवारी’ के उलटफेर, अनुवाद में मेटाव"
+    },
+    {
+      "kind": "you",
+      "subject": "तूँ",
+      "rationale": "स्तोत्रकार यहवे के सीधे सम्बोधन करऽ हइ"
+    }
+  ],
+  "translation": "तूँ हमर छिपावे के जगह ⟨हऽ हइ⟩; संकट से तूँ हमर रखवारी करतन; छुटकारे के गीत से तूँ हमरा घेरतन। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cac42850bfa7ce2cb4752e7f8e97df5b72c720d64892df724e302d7539d46ec6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/32\/6-7.1792012068007.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "छिपावे के जगह"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "संकट से"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "हमर रखवारी करतन"
+    },
+    {
+      "surface": "רני",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "छुटकारे के"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "हमरा घेरतन"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:48.008299699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבהל להון",
+      "rationale": "'धन बर घबराएल' बनाम 'धन के लालसा में'; हिब्रू क्रिया अंदर के काँप पर जोर देतइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "רע עין",
+      "rationale": "'बुरी आँख' — कंजूस या ईर्ष्या करए वाला; चाल के चित्र।"
+    }
+  ],
+  "translation": "धन के लालसा में घबराएल मरद बुरी आँख वाला, आउ ऊ जानऽ हइ नञ कि कमी ओकरा पर अइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d0b790fbd55f352791bbf4a66c2b18053e78c1e4fca3890fb69f98d74ac99f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/28\/21-24.1792007024170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "घबराएल"
+    },
+    {
+      "surface": "להון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरी"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानऽ हइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "कमी"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "अइतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:44.171008315Z",
+  "model": "glm-5.3"
+}

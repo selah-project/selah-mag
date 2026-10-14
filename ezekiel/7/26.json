@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 7:26",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הוה על הוה \/ שמועה אל שमועה",
+      "rationale": "ओही बात दू बेर — बरबादी के ऊपर बरबादी, सुनावल के ऊपर सुनावल; हिब्रू के दोहराव रखल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "बाकि",
+      "rationale": "हिब्रू के व-उपसर्ग के विरोधाभास मगही में 'बाकि' से देखानल"
+    }
+  ],
+  "translation": "बरबादी के ऊपर बरबादी आतइ, आउ सुनावल बात के ऊपर सुनावल बात होतइ; ओकनी नबी से दरसन खोजतइ, बाकि पुरोहित से तोरा नास होतइ, आउ बुढ़वा लोग से सलाह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5b70c1e96c66ef85364a2dab8a9a965d5d32225143d0a0838eaa387fb0aa2fa8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/7\/25-27.1792001728765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוה",
+      "gloss": "बरबादी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "बरबादी"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "आतइ"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "आउ सुनावल बात"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "सुनावल बात"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ओकनी खोजतइ"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "दरसन"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "नबी से"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "बाकि तोरा"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "नास होतइ"
+    },
+    {
+      "surface": "מכהן",
+      "gloss": "पुरोहित से"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "आउ सलाह"
+    },
+    {
+      "surface": "מזקנים",
+      "gloss": "बुढ़वा लोग से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:15:28.766033371Z",
+  "model": "glm-5.3"
+}

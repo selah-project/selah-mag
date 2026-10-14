@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 30:19",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हमनी⟩",
+      "rationale": "करता सर्बनाम इब्रानी में क्रिया के भीतर गड़ल हइ; मगही बर बाहर जोड़ल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואתמשל",
+      "rationale": "मशल (मसल) के जड़ — नोकर बनावे आउ तुलना दुनो में; 'तुलना' के रस्ता लेल गेलइ"
+    }
+  ],
+  "translation": "ऊ ⟨हमनी⟩ हमरा गीला मिट्टी में धेलन, आउ हम धूरी आउ राख संग तुलना भेलिए।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d9e472ef1d53024c6fc49c9449aec97a376dde5d77f5b2b8c5e0cc19a21f3ca7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/30\/17-20.1792007669905.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרני",
+      "gloss": "ऊ हमरा धेलन"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "गीला मिट्टी में"
+    },
+    {
+      "surface": "ואתמשל",
+      "gloss": "आउ तुलना भेलिए"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "धूरी संग"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "आउ राख"
+    }
+  ],
+  "timestamp": "2026-10-14T19:54:29.906686807Z",
+  "model": "glm-5.3"
+}

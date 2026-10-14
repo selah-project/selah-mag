@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האחיה",
+      "rationale": "शाब्दिक 'का हम जिउतब?' — भबिस के प्रस्न; कइयो अनुवाद 'ठीक होतब' कहऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מאותו",
+      "gloss": "शाब्दिक 'ओकर से' — 'ओकर द्वारा' मगही के सुभाविक रूप हकइ।"
+    }
+  ],
+  "translation": "तब राजा हाजाएल से कहलन — अपन हाथ में भेंट ले आउ एलोहीम के मनुस के भेंटे जा, आउ ⟨את⟩ ओकर द्वारा यहवे से पूछऽ कि काहे कि ई बिमारी से हम जियबइ कि नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/8\/5-8.1791998004594.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "हाजाएल"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "अपन हाथ में"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "आउ जा"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "भेंटे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "पूछऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ ओकर द्वारा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "जियबइ कि नञ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "बिमारी से"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T17:13:24.595884194Z",
+  "model": "glm-5.3"
+}

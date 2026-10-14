@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והושבתם",
+      "rationale": "पूछछार बनाम कथन: कुछ अनुवाद 'तोहनी अकेले बसब' कथन लेथिन, कुछ कटाक्ष भरल प्रस्न — मगही में प्रस्न लेलक।"
+    },
+    {
+      "kind": "you",
+      "subject": "जमींदार लोग",
+      "rationale": "सीधा सम्बोधन — बिना जगह छोड़े जोड़े वाला धनी लोग बर हाय के घोसना।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "हाय",
+      "rationale": "होय-विलाप सुनैत अनुसारी के ध्यान खींचऽ हइ।"
+    }
+  ],
+  "translation": "हाय! जे घर के पाछे घर जोड़ऽ हइ, खेत के पाछे खेत लगावऽ हइ, जखन तक कि जगह के कुछो नञ बचतइ — की तोहनी अकेले बसल रहब ओ धरती के बीच में?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/5\/5-8.1791998669305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "जोड़ऽ हइ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर के पाछे"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत के पाछे"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "लगावऽ हइ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जखन तक कि"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "कुछो नञ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "तोहनी बसल रहब"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:24:29.306673975Z",
+  "model": "glm-5.3"
+}

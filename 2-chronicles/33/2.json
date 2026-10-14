@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 33:2",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "यहवे के आँख में",
+      "rationale": "בעיני יהוה के साक्षात अरथ 'यहवे के आँख में' — मगही में ई रूप बरकरार रखल गेल हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "מפני",
+      "rationale": "'मुँह से' के साक्षात रूप रखल गेल; कइसनो अनुवाद एकरा 'आगे से' करऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "होरीश",
+      "rationale": "क्रिया के अरथ 'जगह खाली कर के अपन बनावना' हकइ; 'खदेड़लक' नजदीकी रूप हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ यहवे के आँख में बुराइ करलक, ओही घिनावना काम जे ओ जाति सब के हलइ जिनका यहवे यिस्राएल (इस्राएल) के बेटा सब के मुँह से खदेड़लक हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f4a55bf8309dca614ef373190eb333db3b48c0a55ae2b93d0d1f6876fe7337e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/33\/1-4.1792011329710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आउ ऊ करलक"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुराइ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँख में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כתועבות",
+      "gloss": "जइसन घिनावना काम"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ओ जाति सब के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "खदेड़लक हल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "मुँह से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:55:29.710833865Z",
+  "model": "glm-5.3"
+}

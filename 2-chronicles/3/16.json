@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 3:16",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "बदבीर",
+      "rationale": "'भीतरी घर (पबित्र-दुआरी) में जंजीर' बनाम KJV 'जइसन पबित्र-दुआरी में' — जंजीर के जगह कवनो हकइ एही पर पुरान अनुवाद में मतभेद हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सौ अनार",
+      "rationale": "अनार के गिनती — खम्भा के सजावट के नाप-गिनती।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "अनार",
+      "rationale": "רימונים असल फल के नाम हकइ; एतय धातु के गढ़ल अनार के आकार के सजावट हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ भीतरी घर में जंजीर बनइलन, आउ खम्भा के मूड़ी पर रखलन; आउ ऊ सौ अनार बनइलन आउ जंजीर में लगा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "197a17b7b4f6dfa549c9bf5d0ec78f6e5bda37efc77cecb52e4d1c6e0946c265",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/3\/13-16.1792010639851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आउ ऊ बनइलन"
+    },
+    {
+      "surface": "שרשרות",
+      "gloss": "जंजीर"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "भीतरी घर में"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मूड़ी"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "खम्भा के"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "आउ ऊ बनइलन"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "अनार"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "लगा देलन"
+    },
+    {
+      "surface": "בשרשרות",
+      "gloss": "जंजीर में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:43:59.852438324Z",
+  "model": "glm-5.3"
+}

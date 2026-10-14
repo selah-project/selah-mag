@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 20:18",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דוה",
+      "rationale": "תנाख़ में एक्को बेरा अइसन बिमारी बर — माहवारी के अरथ अनुसार-के जोड़ल गेल।"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (पहिला)",
+      "rationale": "ई אलेफ-ताव नञ हकइ — अगम-शब्द 'के साथ' हकइ, त चिन्हा नञ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מקור",
+      "rationale": "'स्रोत' — खुदायल झरना के साफ तस्वीर, बाकी वाक्य में बहुत निज अरथ हकइ।"
+    }
+  ],
+  "translation": "आउ जे मरद ⟨את⟩ के साथ सोवै अइसन जनाना जेकर माहवारी चलि रहलइ हे, आउ ⟨את⟩ ओकर नाङेपन खोलै, ⟨את⟩ ओकर स्रोत के नाङा करै, आउ ऊ ⟨את⟩ ओकर खून के स्रोत के खोलै — दुनो ओकनी के लोग के बीच से काट देल जइतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ca4f30609c0b26fddcbf572c0d5eb19d333ac8199141c1c3a2beef9eadc4db52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/20\/17-20.1791990257864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आउ मरद"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "सोवै"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ के साथ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "माहवारी वाली"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "आउ खोलै"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर नाङेपन"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ओकर नाङेपन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर स्रोत के"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "ओकर स्रोत"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "नाङा करै"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "खोलै"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨אत⟩",
+      "marks": "ओकर खून के स्रोत के"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "स्रोत"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "ओकर खून के"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "आउ काट देल जइतन"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दुनो"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "बीच से"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ओकनी के लोग के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:04:17.865456667Z",
+  "model": "glm-5.3"
+}

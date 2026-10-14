@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 41:16",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כפלח",
+      "rationale": "'Slice' occurs only here; read as the lower millstone-slab, a cast slab of stone."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצוק…ויצוק",
+      "rationale": "Root repetition — 'cast firm… cast hard' — an intensifying echo kept by parallel जकड़ल\/ढलल."
+    }
+  ],
+  "translation": "ओकर हिरदय पत्थल नियर जकड़ल हथ, ढलल हथ निचली चक्की-पत्थल नियर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c30f1dea12210883d408ee492ac8a002a524d8612a35025de15d1a8ec7781d95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/41\/13-16.1792007904125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבו",
+      "gloss": "ओकर हिरदय"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "जकड़ल हथ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "नियर"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "ויצוק",
+      "gloss": "ढलल हथ"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "चक्की-पत्थल नियर"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "निचली"
+    }
+  ],
+  "timestamp": "2026-10-14T19:58:24.126582002Z",
+  "model": "glm-5.3"
+}

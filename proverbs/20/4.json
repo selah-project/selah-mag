@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩",
+      "rationale": "अन्तिम खण्ड में क्रिया-संबंधक जोड़ल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחרף",
+      "rationale": "'सीतकाल' बनाम 'सीत ऋतु के बरखा' — किसान हल बरखा के समय चलावऽ हकइ, ठण्डी के कारण नञ"
+    }
+  ],
+  "translation": "सीतकाल के समय आलसी हल नञ चलातइ; कटनी में माँगतइ, आउ कुछो नञ ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/20\/1-4.1792006857133.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "सीतकाल के समय"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आलसी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "हल चलातइ"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "माँगतइ"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "कटनी में"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ कुछो नञ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:57.133978809Z",
+  "model": "glm-5.3"
+}

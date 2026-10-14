@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 28:15",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हे⟩",
+      "rationale": "נא पोला आग्रह-कण; मगही में पुकार के अनुभव ⟨हे⟩ से देल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "भरोसा रखबेलक",
+      "rationale": "הבטחת साँस ले के अरथ हकइ — 'शरण माँगल' जइसन; 'भरोसा रखबेलक' ओकरा नजदीकी रूप हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "खनन्याह के",
+      "rationale": "सीधा धिक्कार — 'सुन, खनन्याह' — एक नबी दोसरा नबी ला।"
+    }
+  ],
+  "translation": "आउ नबी यिर्मेयाह नबी खनन्याह के कहलन: सुन ⟨हे⟩ खनन्याह, यहवे तोहरा नञ भेजलन हकइ; बाकि तूँ ⟨את⟩ ई लोग के झूठ पर भरोसा रखबेलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e26f719b348cd663593b91978be91efe2cc4c737b2f14a67ef21a3783230ce43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/28\/13-16.1792000969524.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "यिर्मेयाह"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "खनन्याह"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨हे⟩"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "खनन्याह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "तोहरा भेजलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "बाकि तूँ"
+    },
+    {
+      "surface": "הבטחת",
+      "gloss": "भरोसा रखबेलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई लोग"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:02:49.525207233Z",
+  "model": "glm-5.3"
+}

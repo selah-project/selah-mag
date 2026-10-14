@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "यह את का पुराना\/पूर्वसर्ग रूप है (H854), चिह्न-वाला DOM नञ — 'ओकर संग' बतावल गेलइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמחו\/וגילו\/שישו",
+      "rationale": "आनन्द के तीन क्रिया-जड़ के तालबद्ध दोहराव, मगही में अरथ-विविधता बचावल गेलइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "बर्ताव-क्रिया",
+      "rationale": "चार बर्ताव-क्रिया ओकरा पढ़निहारा के आमंत्रित करऽ हइ जे यरूशलयिम संग आनन्द करऽ"
+    }
+  ],
+  "translation": "⟨את⟩ यरूशलयिम (यरूशलेम) के संग खुस होवऽ, आउ ओकरा में रँगऽ ओकर सब परेम करैता; ⟨את⟩ ओकर संग उछलऽ-आनन्द, ओकरा बर सोग करैता सब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e44cd6b0a79b5bf3f4a5c154b80915b908e20f7deb96fe74bec5f4908554a7bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/66\/9-12.1792000038059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "खुस होवऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यरूशलयिम"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "आउ रँगऽ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "ओकर परेम करैता"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "उछलऽ-आनन्द"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨आगे-के⟩ ओकर संग"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "आनन्द"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "सोग करैता"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:47:18.060540143Z",
+  "model": "glm-5.3"
+}

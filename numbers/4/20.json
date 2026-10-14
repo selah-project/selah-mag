@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבלע",
+      "rationale": "शाब्दिक 'निगले के बखत' — अनुवादक असहमत: 'लपेटल जाय के बखत' (KJV\/JPS) बनाम 'एक क्षण बर' (ASV, बलע के बलיעה=क्षण)"
+    }
+  ],
+  "translation": "बाकि ओन्ही भीतर नञ जातइ कि ⟨את⟩ पवित्तर के लपेटल जाय तक देखतइ, नञ त ओन्ही मर जइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "45d4616ce6586472e8b54cd37ee325fdc1a155ac0b1a1f15e09e6b296929fb44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/4\/17-20.1791990633875.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "जातइ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखे बर"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "लपेटल जाय तक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पवित्तर"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "मर जइतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:10:33.876530260Z",
+  "model": "glm-5.3"
+}

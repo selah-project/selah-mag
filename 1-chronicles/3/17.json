@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אסר",
+      "rationale": "नाम 'अस्सीर' बनाम 'बन्धक' (अस्वीर) — ASV 'the captive' लेखकऽ हे, KJV\/JPS नाम।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "अस्सीर",
+      "rationale": "दोसर पढ़ाई: येखोन्याह खुद बन्धक हल — 'येखोन्याह बन्धक के बेटा शेअल्तीएल'।"
+    }
+  ],
+  "translation": "आउ येखोन्याह के बेटा अस्सीर, शेअल्तीएल ओकर बेटा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d441a7b1d2903a43143979383fa29da12645cdc39cbcf82fde7ac14156c42565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/3\/17-20.1792009930316.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आउ … के बेटा"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "येखोन्याह"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "अस्सीर"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "शेअल्तीएल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:32:10.316473450Z",
+  "model": "glm-5.3"
+}

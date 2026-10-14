@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "के आगे-आगे",
+      "rationale": "לפני האחד — 'एक के आगे'; KJV\/ASV 'पूजा करे बर' जोड़ऽ हइ, इब्रानी पाठ में पूजा के क्रिया लिखल नञ हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "एक",
+      "rationale": "האחד के मतलब 'एक ⟨बछड़ा⟩' लिहल जा सकऽ हइ — अगला पद के ढाँचा के आधार पर।"
+    }
+  ],
+  "translation": "आउ ई बात पाप बनलइ, आउ लोग एक के आगे-आगे दान तक गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2be6b2ec286fa3886cd53339650ae541629007b54a4e34046fceac35f12437fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/12\/29-32.1791997265549.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "बनलइ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे-आगे"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    }
+  ],
+  "timestamp": "2026-10-14T17:01:05.550654083Z",
+  "model": "glm-5.3"
+}

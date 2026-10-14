@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 45:12",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "shekel, gerah, maneh",
+      "rationale": "Weight system: shekel = 20 gerahs; 20+25+15 = 60 shekels = 1 maneh."
+    },
+    {
+      "kind": "crux",
+      "subject": "המנה",
+      "rationale": "Does the maneh equal 60 shekels (sum) or is this a new 15-shekel subdivision? Renderings divide."
+    }
+  ],
+  "translation": "आउ शेकेल बीस गेरा के होतइ; बीस शेकेल, पच्चीस शेकेल, आउ पंद्रह शेकेल — मना तोहनी बर होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "03ac006ed8195ed750984cd3e44b61199d42dc8a1a88cc70cc8d021dc40f9dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/45\/9-12.1792003019989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשקל",
+      "gloss": "आउ शेकेल"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "गेरा के"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "शेकेल"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पच्चीस"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आउ पंद्रह"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "शेकेल"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "पंद्रह"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "आउ पाँच"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "शेकेल"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "मना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:36:59.990177764Z",
+  "model": "glm-5.3"
+}

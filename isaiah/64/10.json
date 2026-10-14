@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे से प्रार्थना",
+      "rationale": "पूरा अध्याय यहवे से बिनती हकइ; ई पद ओहे बिनती के हिस्सा।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सोभा",
+      "rationale": "תפארת के अरथ 'शोभा\/गौरव' हकइ; 'सोभा' ओकर सभसे नजदीक मगही रूप।"
+    },
+    {
+      "kind": "crux",
+      "subject": "पद-गिनती",
+      "rationale": "हिब्रू परम्परा में ई पद 64:10 हकइ; किछु अनुवाद में 64:11 के रूप में।"
+    }
+  ],
+  "translation": "हमनी के पवित्तर घर आउ हमनी के सोभा, जहाँ हमनी के बाप-दादा तोहनी के जस गावलन, आग में जर गेलइ, आउ हमनी के सब परेम के चीज बरबाद भे गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bc774ce81b29543c300c47e3d7ec7c3b2a3c0fa31742a26f175a7dc3efaeb8fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/64\/9-11.1792000015624.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "हमनी के पवित्तर"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "आउ हमनी के सोभा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "तोहनी के जस गावलन"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "हमनी के बाप-दादा"
+    },
+    {
+      "surface": "היה",
+      "gloss": "जर गेलइ"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "जरे बर"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "हमनी के परेम के चीज"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भे गेलइ"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "बरबादी बर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:46:55.624985872Z",
+  "model": "glm-5.3"
+}

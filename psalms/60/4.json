@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פצם",
+      "rationale": "पצם (फाड़ना, भूकम्प से) तनाख़ में केवल इहाँ आवऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרעשתה\/מטה",
+      "rationale": "हिलावे आउ डोले के जोड़ी — भूकम्प के चित्र शुरू आउ अंत में दोहरावऽ हइ।"
+    }
+  ],
+  "translation": "तूँ धरती के हिला देलऽ, ओकरा फाड़ देलऽ; ओकरा दरार के बना दे, काहे कि ऊ डाव-डोल हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/60\/1-4.1792005291462.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "तूँ हिला देलऽ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "ओकरा फाड़ देलऽ"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "बना दे"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "ओकरा दरार"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ऊ डाव-डोल हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:51.463229812Z",
+  "model": "glm-5.3"
+}

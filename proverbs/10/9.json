@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "जानल जइतइ",
+      "rationale": "יודעढ passive 'will be known' — भाववाचक पढ़ल गेलइ, इब्रानी केवल 'जानतइ' हकइ"
+    }
+  ],
+  "translation": "जे निर्दोस चाल में चलऽ हइ, ऊ अराम से चलऽ हइ; बाकि जे अपन रस्ता टेढ़ करऽ हइ, ऊ जानल जइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/10\/9-12.1792006606637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "जे चलऽ हइ"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "निर्दोस चाल में"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "चलतइ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "अराम से"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "बाकि जे टेढ़ करऽ हइ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "अपन रस्ता के"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जानल जइतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:46.637836882Z",
+  "model": "glm-5.3"
+}

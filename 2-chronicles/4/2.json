@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "समुंदर के नाप",
+      "rationale": "दस अम्मा किनारा-से-किनारा, पाँच ऊँचाई, तीस के डोरी — पूरा नाप-विवरन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "तीस के डोरी",
+      "rationale": "दस अम्मा व्यास आउ तीस अम्मा घेरा — पाई (π) के मान बिना घटाव जस के तस रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "समुंदर",
+      "rationale": "הים के शक्ल जस के तस — एक बड़ पातर-भरिया बेसिन के नाम 'समुंदर' हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ समुंदर बनइलन, गलाके ढालल — ओकर किनारा से ओकर किनारा ले अम्मा में दस, गोल, चारो दने; आउ अम्मा में पाँच ओकर ऊँचाई; आउ अम्मा में तीस के डोरी ओकरा ⟨את⟩ चारो दने घेरलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f223a9e5cbd2feef00f255ed7b18545b1e5640d32e245e72e1b901a23a2446bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/4\/1-4.1792010695471.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "समुंदर"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "गलाके ढालल"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "अम्मा में"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "ओकर किनारा से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "ओकर किनारा"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "गोल"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आउ पाँच"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "अम्मा में"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ओकर ऊँचाई"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "आउ डोरी"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "अम्मा में"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "घेरलक"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    }
+  ],
+  "timestamp": "2026-10-14T20:44:55.472411008Z",
+  "model": "glm-5.3"
+}

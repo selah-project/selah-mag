@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रार्थना सीधे यहवे से बोलल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עניי \/ משנאי",
+      "rationale": "'अनी-म' आउ 'म-सनए' के आवाज़-मेल, मगही में नञ आवऽ हइ।"
+    }
+  ],
+  "translation": "यहवे, हमर ऊपर करुना करऽ; देखऽ हमर दुख जे हमरा दुस्मन ओकनी देलकइ; तूँ जे हमनी के मौत के दुआरी से उठावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7177c1999b3dac1e63867afd0dc8bb3174a434db8c9474bf88cdd1be3a620ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/9\/13-16.1792004536626.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "हमर ऊपर करुना करऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "हमर दुख"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "हमरा दुस्मन ओकनी"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "उठावऽ हइ"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "दुआरी से"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:16.627280626Z",
+  "model": "glm-5.3"
+}

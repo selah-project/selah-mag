@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 12:2",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סף",
+      "rationale": "סף के अरथ थाली (मदिरा-पात्र) या दुआरी के चौखट — कोनो 'चकराहट के थाली' पढ़ऽ हइ, कोनो 'दुआरी-पत्थर'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "यहूदा पर भी ई रहतइ",
+      "rationale": "हिब्रू के बनावट छोट हकइ; कोनो पढ़निहार 'यहूदा घेराब में रहतइ' बोध करऽ हथिन"
+    }
+  ],
+  "translation": "देखऽ, हम ⟨את⟩ यरूशलयिम (यरूशलेम) के आसपास के सब लोग के बर चकराहट के थाली बनइब, आउ यहूदा पर भी ई यरूशलयिम के विरुद्ध घेराब में रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "44f3ab041d7ed0419f145c084d988af29903959b68d11b9b00c30789cc27c515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/12\/1-4.1792004314064.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "बनइब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यरूशलयिम (यरूशलेम)"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशלयिम (यरूशलेम)"
+    },
+    {
+      "surface": "סף",
+      "gloss": "थाली"
+    },
+    {
+      "surface": "רעל",
+      "gloss": "चकराहट"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब के बर"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "आसपास"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ भी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "घेराब में"
+    },
+    {
+      "surface": "על",
+      "gloss": "विरुद्ध"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-10-14T18:58:34.064840474Z",
+  "model": "glm-5.3"
+}

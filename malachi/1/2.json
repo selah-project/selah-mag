@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 1:2",
+  "book": "malachi",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "यहवे यिस्राएल के परजा के सीधे सम्बोधन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב ... אהב",
+      "rationale": "'परेम करलन' के दोहराव — यहवे के दावा आउ जवाब-प्रस्न दूनो में एके जड़; मगही में एके दोहराव रखल गेल।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נאם יהוה",
+      "rationale": "'यहवे के बचन' — भविस्स-वाणी के तनाख़ी चिन्हा, जस के तस रखल।"
+    }
+  ],
+  "translation": "हम तोहनी से परेम करलन, यहवे के कहनामा; बाकि तोहनी कहला, की के लेखे हम तोहनी से परेम करलन? का एसाव याकोव के भाय नञ हलन? यहवे के बचन; आउ हम ⟨את⟩ याकोव से परेम करलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "aa8fdf77aec3110d1ef8f5fe827d84ef20afdabbc248b7ad9a52816638d2eeca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/malachi\/1\/1-4.1792004324382.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "परेम करलन"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहनामा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "आउ तोहनी कहला"
+    },
+    {
+      "surface": "במה",
+      "gloss": "की के लेखे"
+    },
+    {
+      "surface": "אהבתנו",
+      "gloss": "हमनी से परेम करलन"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "का ... नञ"
+    },
+    {
+      "surface": "אח",
+      "gloss": "भाय"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोव के"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "आउ परेम करलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याकोव"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    }
+  ],
+  "timestamp": "2026-10-14T18:58:44.383366584Z",
+  "model": "glm-5.3"
+}

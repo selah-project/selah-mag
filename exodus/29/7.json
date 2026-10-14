@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "משחת के पुरक अहरोन पहिले से स्पस्ट हइ; ⟨אתו⟩ चिन्हा जान-बूझ के रहल।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "अभिषेक के आदेस — प्रत्यक्ष सम्बोधन।"
+    }
+  ],
+  "translation": "आउ तूँ अभिषेक के तेल लेबइ, आउ ओकर मूड़ी पर ढारबइ, आउ ओकरा अभिषेक करबै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e0b179099b0afd145625d1f19bd8acc874ef4663746197638099005a56b00c0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/29\/5-8.1791988973358.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "आउ तूँ लेबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अभिषेक के तेल"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "अभिषेक के"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "आउ ढारबइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ओकर मूड़ी"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "आउ अभिषेक करबै"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "अहरोन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:42:53.359677819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जे",
+      "rationale": "इब्रानी आस-भाव अच्छर अकेले बाक्य बनावै बर जोड़ल गेल"
+    }
+  ],
+  "translation": "काश जे हमर डहर ठिर जातन, तोहर बिधान के रखवारी करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "98bb0e9185f46b87e351d62541c78edc3e05053bb5c705a5a6612adebae06563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/5-8.1792006049539.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "काश जे"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ठिर जातन"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "हमर डहर"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "रखवारी करे बर"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "तोहर बिधान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:29.540524656Z",
+  "model": "glm-5.3"
+}

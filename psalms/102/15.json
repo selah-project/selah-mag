@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चाहथिन",
+      "rationale": "רצה के अरथ 'प्रसन्न होना \/ राजी होना' — मगही में 'चाहना' के नगिच्च रूप लेल गेल"
+    }
+  ],
+  "translation": "काहे कि तोहर नौकर ⟨את⟩ ओकर पत्थल सब के चाहथिन, आउ ⟨את⟩ ओकर धूरी पर अनुग्रह करथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/102\/13-16.1792005805034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "चाहथिन"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "तोहर नौकर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर पत्थल सब के"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "ओकर पत्थल सब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर धूरी"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ओकर धूरी"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "अनुग्रह करथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:25.034992305Z",
+  "model": "glm-5.3"
+}

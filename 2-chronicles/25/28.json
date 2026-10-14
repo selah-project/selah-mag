@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על הסוסים",
+      "rationale": "मूल चित्र — ओकरा घोड़ा पर उठाके लन्गेलन; मगही में चढ़ाके लानलन के चलनसार रूप।"
+    },
+    {
+      "kind": "crux",
+      "subject": "यहूदा के नगर",
+      "rationale": "पाठ कहऽ हइ यहूदा के नगर; कुछ परम्परा एकरा दाविद के नगर समझावऽ हइ (2 राजा 14:20 के संग तुलना), बाकि मूलपाठ जस के तस रखल गेलइ।"
+    }
+  ],
+  "translation": "आउ ओकरा घोड़ा सब पर चढ़ाके लानलन, आउ ⟨את⟩ ओकरा ओकर बाप-दादा के संग यहूदा के नगर में गाड़ देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3c4252ae61e6c08868669c11211cb0eac4fa74e5a0a136d724eec78f9d9f1580",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/25\/25-28.1792011176108.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "चढ़ाके लानलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "घोड़ा सब"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "गाड़ देलन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ओकर बाप-दादा"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:52:56.109984310Z",
+  "model": "glm-5.3"
+}

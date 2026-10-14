@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एकट्ठा होलन",
+      "rationale": "हिब्रू कर्तवाचक अस्पष्ट हकइ — कोन एकट्ठा करलक, ऊ नञ बतावल हकइ"
+    }
+  ],
+  "translation": "आउ राजा बेसलन, आउ ओकरा लग यहूदा आउ यरूशलयिम (यरूशलेम) के सब जेठ-बुढ़ा एकट्ठा होलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7921ae9ccd06a74b3fb2508331a18fb512dc07fafbf1eca7eea7c32a9636a3b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/23\/1-4.1791998475011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "बेसलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "एकट्ठा होलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "जेठ-बुढ़ा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "आउ यरूशलयिम (यरूशलेम)"
+    }
+  ],
+  "timestamp": "2026-10-14T17:21:15.011857950Z",
+  "model": "glm-5.3"
+}

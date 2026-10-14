@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "Hebrew lacks a copula; Magahi honorific copula supplied, unbracketed per register."
+    },
+    {
+      "kind": "you",
+      "subject": "दाविद के प्रार्थना यहवे से",
+      "rationale": "Direct address continues: अबहिं, यहवे।"
+    }
+  ],
+  "translation": "आउ अबहिं, यहवे, तूँ ही ऊ एलोहीम हथिन, आउ तूँ हमर नोकर बर ई भलाई के बात कहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "772674a1de46f0e0db15611cbdbb1ffce08e712ce12218ad5f6fb6f927de9ca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/17\/25-27.1792010331330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अबहिं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ही ऊ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "हमर नोकर"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ई भलाई"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T20:38:51.331414418Z",
+  "model": "glm-5.3"
+}

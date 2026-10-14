@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नפश गला-साँस-परान के बात हकइ, दर्शन के आत्मा नञ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר",
+      "rationale": "एहे पद दू बेर — गीत के रिफ्रेन; हर जगह एके रूप रखल गेल"
+    }
+  ],
+  "translation": "यहवे तोहरा हर बुराई से रखतइ, ऊ ⟨את⟩ तोहर परान के रखवारी करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/121\/5-8.1792006171999.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "तोहरा रखतइ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "हर … से"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "रखवारी करतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर परान"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "तोहर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:32.000099216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גרים",
+      "rationale": "sojourners\/resident-aliens rendered as परदेसी (one dwelling outside his home place)"
+    }
+  ],
+  "translation": "आउ बेरोत के लोग भाग गेलन गित्तायिम के ओर आउ ओहाँ परदेसी बन के रहलाह आज तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dc27d0b8428cea1b88cd4cc8b5cb9ee2e05f7a68bd59b38dd3951746b09ae726",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/4\/1-4.1791995915976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "आउ भाग गेलन"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "बेरोत के लोग"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "गित्तायिम के ओर"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "आउ रहलाह"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहाँ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "परदेसी बन के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    }
+  ],
+  "timestamp": "2026-10-14T16:38:35.977793933Z",
+  "model": "glm-5.3"
+}

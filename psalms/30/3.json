@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे के",
+      "rationale": "पद सीधे यहवे के संबोधन हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "चंगा करना",
+      "rationale": "רפא मूल अरथ 'सिलाई कइके मरम्मत' — चंगा करना ओकर सुभाविक चाल हकइ।"
+    }
+  ],
+  "translation": "यहवे हमर एलोहीम, हम तोहरा दने पुकारलियन, आउ तूँ हमरा चंगा करलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "762d86f72a0910b295bc8fca099d0a30b85f4b4468693a4d736a4660eeebb8a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/30\/3-4.1792012053080.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "हम पुकारलियन"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा दने"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "आउ तूँ हमरा चंगा करलन"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:33.080517177Z",
+  "model": "glm-5.3"
+}

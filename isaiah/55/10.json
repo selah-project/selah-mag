@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "इब्रानी के 'जब तक कि… नञ' ढाँचा — खाली नञ बाकि 'खाली तब' के अरथ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "आउ ओकरा",
+      "rationale": "इब्रानी के फ़ुटकर करता-प्रत्यय के मगही में सर्बनाम चाही।"
+    }
+  ],
+  "translation": "काहे कि जइसन बरखा आउ हिउँ अकास से उतरऽ हइ आउ ओत्तर लौटऽ हइ नञ, जब तक कि ऊ धरती के ⟨את⟩ नइ सिंचऽ हइ आउ ओकरा जनम देवऽ हइ आउ ओकरा उगावऽ हइ, आउ बुवइ वाला के बिया आउ खावे वाला के रोटी देवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "707efe8e388b8ae14e06693c42ae6d0dfa4746f3c02ea6ebe683db593e287ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/55\/9-12.1791999751881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "उतरऽ हइ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "बरखा"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "आउ हिउँ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ओत्तर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "लौटऽ हइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब तक कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "नइ सिंचऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "आउ ओकरा जनम देवऽ हइ"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "आउ ओकरा उगावऽ हइ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "आउ देवऽ हइ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बिया"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "बुवइ वाला के"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "आउ रोटी"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "खावे वाला के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:42:31.882352643Z",
+  "model": "glm-5.3"
+}

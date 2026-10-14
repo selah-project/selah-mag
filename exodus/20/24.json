@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "जरावल बलि",
+      "rationale": "'अला': ऊपर जाने वाला — धुआँ के साथ पूरा जलाया जाने वाला बलि"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सांति बलि",
+      "rationale": "'शलमिम': शालम जड़ से — पूर्णता\/सामंजस्य का बलि, वाचा-भोज"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल",
+      "rationale": "वेदी का नियम एक पते के रूप में — इस्राएल को आदेश"
+    }
+  ],
+  "translation": "माटी के बेदी हमरा बर बना; ओकरा ऊपर ⟨את⟩ तोहर जरावल बलि आउ ⟨את⟩ तोहर सांति बलि — ⟨את⟩ तोहर भेड़ आउ ⟨את⟩ तोहर बैल — बलि दे; हर ओहि जगह जहाँ हम ⟨את⟩ हमर नाम स्मरण करबइ, हम तोहरा लागे अइबइ आउ तोहनी के असीस देबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "598982cf26ea88b589891e70f8c1b4f6725367465155bc69cbe58aa5e3d6d2bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/20\/21-24.1791988536097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "माटी"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "बना"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "आउ बलि दे"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर जरावल बलि"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "तोहर जरावल बलि"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर सांति बलि"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "तोहर सांति बलि"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर भेड़"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "तोहर भेड़"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर बैल"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "तोहर बैल"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "स्मरण करबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर नाम"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "हमर नाम"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "अइबइ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा लागे"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "आउ असीस देबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:35:36.098738898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 4:3",
+  "book": "ruth",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מכרה",
+      "rationale": "काल बेवस्थित हकइ: 'बेच देलकइ' (पूरा होल काम) बनाम 'बेचऽ हइ' (बेचै के सोच \/ बेच रहलइ हे) — अनुवादकन में बड़ मतभेद"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הגואל",
+      "rationale": "גואल — छुड़ावै के कानूनी हक वाला नजदीकी कुटुम्बी; 'छुड़ावै वाला' ओकर काम बतावऽ हइ, पद नञ"
+    }
+  ],
+  "translation": "आउ ओ छुड़ावै वाला के कहलन: जे खेत के टुकड़ा हमर कुटुम्ब एलिमेलेख के हलइ, ओ नोअमी बेच देलकइ — जे मोआब के खेत से लौट अइलइ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f9f10f41f90983eba33f5e91f718cbea656441d54503a322e36385173b5c96e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ruth\/4\/1-4.1792008150677.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "छुड़ावै वाला के"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "खेत के टुकड़ा"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לאחינו",
+      "gloss": "हमर कुटुम्ब के"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "एलिमेलेख"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "बेच देलकइ"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "नोअमी"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "लौट अइलइ हे"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "खेत से"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    }
+  ],
+  "timestamp": "2026-10-14T20:02:30.678547875Z",
+  "model": "glm-5.3"
+}

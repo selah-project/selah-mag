@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "KJV के 'for' — मूल पाठ में जोड़-सब्द नञ हइ, दू बाक्य सीधे जुड़ल हइ।"
+    }
+  ],
+  "translation": "आउ तोहनी के ताकत बेकार खतम हो जातइ; आउ तोहनी के धरती ⟨את⟩ ओकर फसल नञ देतइ, आउ धरती के गाछ ओकर फल नञ देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3a3e711e6513bf6e920b421d8374162b00af64263649142f7ff09d7e80d229fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/26\/17-20.1791990469394.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "आउ खतम हो जातइ"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "बेकार"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "तोहनी के ताकत"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देतइ"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "तोहनी के धरती"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर फसल"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ओकर फसल"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "आउ गाछ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देतइ"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ओकर फल"
+    }
+  ],
+  "timestamp": "2026-10-14T15:07:49.396266554Z",
+  "model": "glm-5.3"
+}

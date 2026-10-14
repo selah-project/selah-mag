@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצור ועזוב",
+      "rationale": "कोनो बन्नल नञ, कोनो छोड़ल — दास आउ आजाद दुनो बतावेक बनाम छुपल-बचल समझे के पढ़ाई।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מרה מאד",
+      "rationale": "साँस बिटर-कड़वा — दुख के गहराई के इब्रानी मुहावरा।"
+    }
+  ],
+  "translation": "काहे कि यहवे यिस्राएल के ⟨את⟩ दुख-तकलीफ देखलन — ऊ बड़े कड़वाहट वाली हलइ — आउ नञ कोनो बन्नल हलइ आउ नञ कोनो छोड़ल, आउ यिस्राएल बर कोनो सहायक नञ हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d093b066989eccba0ba6c44a06b7dee63ba01adc30dd6ad57a2f7167d71bd449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/14\/25-28.1791998120094.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के दुख-तकलीफ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुख-तकलीफ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "कड़वाहट वाली"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बड़े"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "आउ नञ कोनो"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "बन्नल"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "आउ नञ कोनो"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "छोड़ल"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "सहायक"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "यिस्राएल बर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:15:20.095742631Z",
+  "model": "glm-5.3"
+}

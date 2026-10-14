@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אל אלהים יהוה",
+      "rationale": "तीन नाम एके पंक्ति में ढेरल — एल, एलोहीम, यहवे — बढ़ता पैमाना, मगही में तीनों अलग रखल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "उगे से डुबे तक",
+      "rationale": "सुरुज के आगम-जागम पूरा धरती के दायरा मापऽ हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "असाफ के बर",
+      "rationale": "לאסף के लामेद के अरथ 'असाफ के बर' या 'असाफ के परिवार के संग' — पहिला लेल गेलइ।"
+    }
+  ],
+  "translation": "जन्तर-गीत असाफ के बर। एल, एलोहीम, यहवे बोललन, आउ ऊ धरती के पुकारलन, सुरुज के उगे से ले के ओकर डुबे तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/50\/1-4.1792005111338.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "जन्तर-गीत"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "असाफ के बर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "आउ पुकारलन"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "सुरुज के उगे से"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "ओकर डुबे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:51.339088490Z",
+  "model": "glm-5.3"
+}

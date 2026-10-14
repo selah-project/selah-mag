@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 20:23",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ऊ⟩",
+      "rationale": "मूलपाठ करता के नाम नञ देतइ; किरिया के करता हम जोड़लहुँ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בלחומו",
+      "rationale": "'एकरो मांस में' (JPS) बनाम 'एकरो खावे के समय' (KJV) — सब्द खाय के बस्तु भी हकइ, खाय के क्रिया भी।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חרון אפו",
+      "rationale": "सचमुच 'एकरो नाक के जलन' — कोप के इब्रानी तसबीर, मगही में 'कोप के जलन' कइल गेल।"
+    }
+  ],
+  "translation": "जइसनहीँ एकरो पेट भरे बर होतइ, ⟨ऊ⟩ एकरो कोप के जलन एकरा पर छोड़ देतइ आउ एकरो खावे पर ओकरा ऊपरे बरखा नइअ राती झरावै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3714a0e51d74a7b38e8f0d9b31c34c02b4d63855425ba10ac6919cf1e2ad1a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/20\/21-24.1792007492692.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "भरे बर"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "एकरो पेट"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "छोड़ देतइ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "एकरा पर"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "जलन"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "एकरो कोप"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "आउ बरखा नइअ राती झरावै"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ओकरा ऊपरे"
+    },
+    {
+      "surface": "בלחומו",
+      "gloss": "एकरो खावे पर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:51:32.693375989Z",
+  "model": "glm-5.3"
+}

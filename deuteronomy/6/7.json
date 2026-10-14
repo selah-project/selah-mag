@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושננתם",
+      "rationale": "שנר के साफ अरथ 'धार देना \/ बार-बार रगड़ना' — 'दोहराना', 'सिखाना', 'चौकन्ना करना' तीनो पढ़ाइ में।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "बैठऽ-जाऽ-लेटऽ-उठऽ",
+      "rationale": "चार infinitive-construct के ताल-मेल — दिन-रात के पूरा चक्र, गद्य में सीधा लेल गेलइ।"
+    }
+  ],
+  "translation": "आउ तूँ ओकरा अपन बेटा सब के बार-बार दोहराबइ आउ ओकरा बारे में बोलबइ — जब तूँ अपन घर में बैठऽ हऽ, आउ जब रस्ता में जाऽ हऽ, आउ जब लेटऽ हऽ, आउ जब उठऽ हऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2cc6d3aec31d90024fe908c7815c1c5ab018ff8f1ed18f7a952c182e11d3de23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/6\/5-8.1791992057662.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "आउ तूँ … बार-बार दोहराबइ"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "अपन बेटा सब के"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "आउ … बोलबइ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकरा बारे में"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "जब तूँ … बैठऽ हऽ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "अपन घर में"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "आउ जब … जाऽ हऽ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता में"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "आउ जब … लेटऽ हऽ"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "आउ जब … उठऽ हऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:34:17.663276426Z",
+  "model": "glm-5.3"
+}

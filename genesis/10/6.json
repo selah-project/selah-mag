@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "वंश-सूची",
+      "rationale": "genealogy: names counted out as peoples and lands"
+    }
+  ],
+  "translation": "आउ खाम (हाम) के बेटा — कूश आउ मिस्रयिम (मिस्र) आउ पूत आउ कनान (कनान)।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ebd5cc934baef90e57014b54540e306e72bd21bfd3959badbdf44ffcba9ebd68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/10\/5-8.1791986427890.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आउ … के बेटा"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खाम (हाम)"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "आउ मिस्रयिम (मिस्र)"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "आउ पूत"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "आउ कनान (कनान)"
+    }
+  ],
+  "timestamp": "2026-10-14T14:00:27.891527056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "मगही के क्रिया चाही; इब्रानी में क्रिया-सूत्र नञ हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "עזר כנגדו",
+      "rationale": "“ओकरे सामने के सहायक” — मूल चित्र सामने-ठाढ़, सहायक-अधीन नञ; किछु अनुवाद “ओकरे बरा-बर” कहऽ हइ"
+    }
+  ],
+  "translation": "आउ यहवे एलोहीम कहलन, “आदमी के अकेला रहना भला नञ हकइ; हम ओकरा बर ओकरे सामने के सहायक बनइबी।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8e098bf6a68977770fea49f4cd8de16615b82b877d1143135adeee6cd7be4a65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/2\/17-20.1791986252704.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "היות",
+      "gloss": "रहना"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "अकेला"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "बनइबी"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा बर"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "सहायक"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "ओकरे सामने के"
+    }
+  ],
+  "timestamp": "2026-10-14T13:57:32.705534551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "शाब्दिक „तलवार के मुँह से” — धार के मुँह"
+    },
+    {
+      "kind": "you",
+      "subject": "इय्योब के सोझा",
+      "rationale": "दूत सीधा इय्योब से बोलऽ हइ — तोहरा ला"
+    }
+  ],
+  "translation": "आउ शेबा ओकनी पर आ पड़लन आउ ओकनी के ले लेलन, आउ ⟨את⟩ नौकर लोग के तलवार के मुँह से मारलन; बाकि हम खाली अकेले बचलन तोहरा ला बतावे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5792733491401a8b892c2b081b16eaf63c696502a0b7be2de2220a56401cd112",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/1\/13-16.1792007152006.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "आ पड़लन"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "ओकनी के ले लेलन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "नौकर लोग"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "नौकर लोग"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "बाकि हम बचलन"
+    },
+    {
+      "surface": "רק",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "बतावे बर"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा ला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:45:52.006928708Z",
+  "model": "glm-5.3"
+}

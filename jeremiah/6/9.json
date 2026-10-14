@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 6:9",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עולל\/יעוללו",
+      "rationale": "एके जड़ के परूप (glean\/gleaned) — इब्रानी के दोहराव मगही में गिर जात हइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סלסלूת",
+      "rationale": "लटकत टहनी — तनाख़ में एही जगह; JPS 'shoots', KJV 'baskets' के बीच फरक"
+    },
+    {
+      "kind": "crux",
+      "subject": "השב ידך",
+      "rationale": "'फेर हाथ घुमाव' बनाम 'हाथ वापिस कर' — अंगूर तोड़े वाला टोकरी भरबे बर बेर-बेर टहनी पर हाथ घुमावऽ हइ"
+    }
+  ],
+  "translation": "एहेसा यहवे त्सबाओत के बचन — टोक-टोक कइ के सिरावऽ हतइ, गाछ जइसन, यिस्राएल के बाँकी लोग के; फेर अपन हाथ घुमाव, अंगूर तोड़े वाला जइसन, टहनी सब पर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fec691d8bfd9cec6ef8ca9dc2dd2d0be446e9c84e38b023590cb6cc2e1fd20a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/6\/9-12.1792000164326.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहेसा"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "עולל",
+      "gloss": "टोक-टोक कइ के सिराव"
+    },
+    {
+      "surface": "יעוללו",
+      "gloss": "सिरावऽ हतइ"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "गाछ जइसन"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "बाँकी लोग के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "השב",
+      "gloss": "फेर घुमाव"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "अपन हाथ"
+    },
+    {
+      "surface": "כבוצר",
+      "gloss": "अंगूर तोड़े वाला जइसन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "סלסלות",
+      "gloss": "टहनी सब"
+    }
+  ],
+  "timestamp": "2026-10-14T17:49:24.327393536Z",
+  "model": "glm-5.3"
+}

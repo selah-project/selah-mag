@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 1:6",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "हाथ बल देलन",
+      "rationale": "חזקו בידיהם — 'ओकनी के हाथ मजबूत कइलन' — मगही के चलनसार बिदा-रूप।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हल",
+      "rationale": "התנדब के क्रियाहीन रूप के बर मगही के भूतकाल चाही।"
+    }
+  ],
+  "translation": "आउ ओकनी के आसपास के सब लोग ओकनी के हाथ बल देलन — चानी के बरतन से, सोना से, धन-सम्पत्ति से, आउ पसु-जानवर से, आउ कीमती चीज से — ओ सबसे अलग जे स्वेच्छा से देल गेल हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3122b01cea18a0175b919a360e3d7ccdc1ae405872dd545a65cbe591de497b4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/1\/5-8.1792009231144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "סביבתיהם",
+      "gloss": "ओकनी के आसपास के"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "बल देलन"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "ओकनी के हाथ"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "बरतन से"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी के"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "सोना से"
+    },
+    {
+      "surface": "ברכוש",
+      "gloss": "धन-सम्पत्ति से"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "आउ पसु-जानवर से"
+    },
+    {
+      "surface": "ובמגדנות",
+      "gloss": "आउ कीमती चीज से"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "अलग"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपरे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "התנדב",
+      "gloss": "स्वेच्छा से देल गेल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:20:31.145504840Z",
+  "model": "glm-5.3"
+}

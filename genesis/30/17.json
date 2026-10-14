@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "पाँचमा बेटा",
+      "rationale": "बेटा के क्रम-गिनती (पाँचमा) पद में गिनल गेल हकइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss-diff": "אל के 'के ओर' के अरथ में 'के बात' रूप में घुलावल गेलइ, काहे कि 'सुनलन + के ओर' मगही में सुभाविक नञ हइ।"
+    }
+  ],
+  "translation": "आउ एलोहीम लेआह के बात सुनलन, आउ ऊ गर्भवती भेलइ आउ याकोव (याकूब) बर पाँचमा बेटा के जनम देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1884566f52b57fb8b67d44ea2f595a85236221e18998ac86017f91aab882a478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/30\/17-20.1791987179404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआह"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "गर्भवती भेलइ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जनम देलक"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोव बर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "पाँचमा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:12:59.405156139Z",
+  "model": "glm-5.3"
+}

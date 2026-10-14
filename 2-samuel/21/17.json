@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 21:17",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "दाविद लागि",
+      "rationale": "दाविद के मनखे दाविद के आगू कसम के सीधा बात कहऽ हइ — 'तूँ नञ निकलबे'।"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתנו",
+      "rationale": "ई ׆लेफ-ताव के रूप हकइ बाकि पदसर्ग 'संग' के काम करऽ हइ — चिन्हा ग्लॉस में रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दिया",
+      "rationale": "נר के साक्षात अरथ दिया\/बाती हकइ — दाविद के जियते-रहे के रूपक।"
+    }
+  ],
+  "translation": "अउ अबीशै, त्सरुयाह के बेटा, ओकरा मदद कइलन, आउ ⟨את⟩ पलिश्ती के मारलन आउ ओकरा मार डारलन। तब दाविद के मनखे ओकरा कसम खइलन, कहऽ कि: तूँ अब फेर हमनी संग ⟨את⟩ लड़ाई बर नञ निकलबे, आउ यिस्राएल के दिया नञ बुझाबे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "eff696a0868f12bbf66ca6806a19c1c8b560b88bd6bfc3fae46da5e3b266fc6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/21\/17-20.1791996518694.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזר",
+      "gloss": "मदद कइलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "अबीशै"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "त्सरुयाह"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पलिश्ती"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "पलिश्ती"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ओकरा मार डारलन"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "कसम खइलन"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मनखे"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "निकलबे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब फेर"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ हमनी संग"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "लड़ाई बर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "बुझाबे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दिया"
+    },
+    {
+      "surface": "נר",
+      "gloss": "दिया"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:48:38.695715247Z",
+  "model": "glm-5.3"
+}

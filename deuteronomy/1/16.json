@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "तोहनी के नियाव करेवाला के",
+      "rationale": "मोशे नियाव करेवाला के सीधे संबोधन करऽ हथिन"
+    },
+    {
+      "kind": "invitation",
+      "subject": "सुनिअउ ... करिअउ",
+      "rationale": "आज्ञार्थ क्रिया — सुनिअउ आउ नियाव करिअउ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक",
+      "rationale": "צדו के लिप्यन्तरण Tier-2 नियम से — 'न्याय' एके में घटा देतइ"
+    }
+  ],
+  "translation": "आउ हम ओही समय हुकुम देलियन ⟨את⟩ तोहनी के नियाव करेवाला के, कहिअउ: तोहनी के भाय सब के बीच के बात सुनिअउ, आउ त्सेदेक के मोताबिक नियाव करिअउ — आदमी के बीच आउ ओकर भाय के बीच, आउ परदेसी के बीच।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5e26ace1addd65d2bc8f7b6d602b61e6bcc74adb2c9eb8ec8a13f0a68d31ffcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/1\/13-16.1791992005438.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "आउ हम हुकुम देलियन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के नियाव करेवाला के"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "तोहनी के नियाव करेवाला"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहिअउ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनिअउ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "तोहनी के भाय सब के"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "आउ नियाव करिअउ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "त्सेदेक"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ के बीच"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाय"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ के बीच"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "परदेसी के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:33:25.439663047Z",
+  "model": "glm-5.3"
+}

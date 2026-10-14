@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "हजार \/ दस हजार",
+      "rationale": "गिनती के तुलना — ई गीत के पूरा बिंदु हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "באלפו \/ ברבבתיו",
+      "rationale": "अनुवाद करऽ हइ 'हजार बेरी मारलन' बनाम 'हजार में मारथिन' — बपतिसमा-बहस के मूल"
+    }
+  ],
+  "translation": "आउ खेलैत जनाना सब एक-दोसरा के जबाब देलकी आउ कहलकी: “शाऊल हजार में मारथिन, आउ दाविद ओकर दस हजार में।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "820840fba9991ffd6206252921cb7c2d49af3ef3b8b7cdff731f01dd6072a652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/18\/5-8.1791995375720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "जबाब देलकी"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "जनाना सब"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "खेलैत"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "कहलकी"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "मारथिन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "हजार में"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "आउ दाविद"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "ओकर दस हजार में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:29:35.722079577Z",
+  "model": "glm-5.3"
+}

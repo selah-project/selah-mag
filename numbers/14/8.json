@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "दूध आउ मधु के बहाव",
+      "rationale": "זבת חלב ודבש — बहुत उपजाऊ धरती के स्थिर इब्रानी मुहावरा"
+    },
+    {
+      "kind": "crux",
+      "subject": "חפץ בנו",
+      "rationale": "'हमनी में राजी' बनाम 'हमनी पर परेम' — किछु अनुवाद परेम धरत हथिन"
+    }
+  ],
+  "translation": "जँ यहवे हमनी में राजी होथिन, त ऊ हमनी के एही धरती में लाबतइ आउ ओकरा हमनी के देतइ — दूध आउ मधु के बहाव वाली धरती।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "671e3b0487f09d7a3ef9bd87ea021ed250f97ec560519c4f1c37a72b75b407f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/14\/5-8.1791990996387.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "राजी होथिन"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "हमनी में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "आउ लाबतइ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ हमनी के",
+      "marks": "हमनी के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एही"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "आउ देतइ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "बहाव वाली"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "दूध"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "आउ मधु"
+    }
+  ],
+  "timestamp": "2026-10-14T15:16:36.388148861Z",
+  "model": "glm-5.3"
+}

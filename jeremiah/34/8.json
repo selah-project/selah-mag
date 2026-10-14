@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 34:8",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברिप",
+      "rationale": "शाब्दिक: वाचा ‘काटना’ — इब्रानी रस्म में जानवर काट के टुकड़ा के बीच से गुजरल जावऽ हलइ; मगही में शाब्दिक ‘काटलन’ रखल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "דרור",
+      "rationale": "‘दरोर’ — स्वतंत्रता\/छूट; कुछ अनुवादक ई सब्द विशेष सातवाँ बरिस के छूट से जोड़थिन (यहवे के बरिस, यिर्मेयाहु 34:15 संग)।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मאत",
+      "rationale": "‘के ओर से’ — शाब्दिक अरथ ‘के साथ से’ हकइ; मगही में जगह-सम्बन्ध बरे सरल रूप लेल गेलइ।"
+    }
+  ],
+  "translation": "ई बात यहवे ⟨את⟩ के ओर से यिर्मेयाहु के पास अइलइ — एकरा बाद कि राजा त्सिदकियाहु यरूशलयिम में सब लोग के संग ⟨את⟩ वाचा काटलन, ओकनी बर दरोर घोसना करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6a8bd8a6e8524e744cf586d8ea6bdf42ac4c7c19f885d9f74d0632bf6f6dd0a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/34\/5-8.1792001085902.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ई बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "अइलइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहु"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ के ओर से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "एकरा बाद"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काटलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "त्सिदकियाहु"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "वाचा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब लोग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "घोसना करे बर"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी बर"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "दरोर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:04:45.903301617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 17:1",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एही",
+      "rationale": "הלילा के हाल अरथ 'इहे रात' बर सहज रूप देल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "बारह हजार आदमी",
+      "rationale": "सेना के गिनती — अखितोफेल के योजना के हिसाब"
+    },
+    {
+      "kind": "you",
+      "subject": "अबशालोम के अगाँई",
+      "rationale": "अखितोफेल अबशालोम से सलाह बोलऽ हइ"
+    }
+  ],
+  "translation": "आउ अखितोफेल अबशालोम से कहलन — हम अबहीं बारह हजार आदमी चुनली आउ उठली आउ एही रात दाविद के पाछे दौरली।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/17\/1-4.1791996258378.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "अखितोफेल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "אבחרה",
+      "gloss": "चुनली"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ואקומה",
+      "gloss": "उठली"
+    },
+    {
+      "surface": "וארדפה",
+      "gloss": "दौरली"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "एही रात"
+    }
+  ],
+  "timestamp": "2026-10-14T16:44:18.379357883Z",
+  "model": "glm-5.3"
+}

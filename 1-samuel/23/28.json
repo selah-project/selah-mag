@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 23:28",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बिछोह के पत्थल",
+      "rationale": "जगह के नाम के अरथ के कोस्ठक — नाम लिप्यन्तरित रहल, अरथ जोड़ल गेल"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss": "",
+      "rationale": "על כן मिलके 'एही से' — अलग शब्द के रूप में ओकर अरथ नञ आवल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחלקות",
+      "rationale": "חלק (बाँटऽ) से बनल — 'बिछोह के पत्थल': शाउल आउ दाविद इहाँ बँट गेन रहथिन"
+    }
+  ],
+  "translation": "आउ शाउल दाविद के पाछे पीछा छोड़िके फिरलन आउ पलिस्ती सब के भेंट जाए लग गेलन; एही से ओही जगह के नाम सेला-हम्माख्लेकोत (बिछोह के पत्थल) धरलन गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "11b8e561d1a53e79f8fc439cbd8755035ae39d76e8ea6fb557ef844475f6d8a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/23\/25-28.1791995541392.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "फिरलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "पीछा छोड़िके"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "जाए लग गेलन"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "के भेंट"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिस्ती सब"
+    },
+    {
+      "surface": "על",
+      "gloss": "एही से ⟨काहे⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "नाम धरलन गेलन"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "जगह के"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "सेला (पत्थल)"
+    },
+    {
+      "surface": "המחלקות",
+      "gloss": "हम्माख्लेकोत (बिछोह के)"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:21.393516659Z",
+  "model": "glm-5.3"
+}

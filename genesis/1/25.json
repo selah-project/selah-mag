@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया-होवे वाला नञ हकइ; की भला हकइ — मगही के जरूरत"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बैल-बारूद",
+      "rationale": "הבהमה — बड़ चार-गोड़ वाला पसु बर मगही के सुभाविक सब्द"
+    }
+  ],
+  "translation": "आउ एलोहीम बनइलन ⟨את⟩ धरती के जीव-जंतु ओकर जाति के मोताबिक, आउ ⟨את⟩ बैल-बारूद ⟨वें⟩ ओकर जाति के मोताबिक, आउ ⟨את⟩ सब रेंगे वाला के ओकर जाति के मोताबिक; आउ एलोहीम देखलन कि भला हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fa5a5940706a609b9662839ef89eeb035bffa88f31852fdad820e65bdf6b3ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/1\/25-28.1791986245009.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती के जीव-जंतु"
+    },
+    {
+      "surface": "חית",
+      "gloss": "जीव-जंतु"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ओकर जाति के मोताबिक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "बैल-बारूद"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "बैल-बारूद"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ओकर जाति के मोताबिक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "सब रेंगे वाला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "रेंगे वाला"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "माटी के"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ओकर जाति के मोताबिक"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "आउ देखलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    }
+  ],
+  "timestamp": "2026-10-14T13:57:25.010409137Z",
+  "model": "glm-5.3"
+}

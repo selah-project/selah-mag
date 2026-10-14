@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हेसेद",
+      "rationale": "חסד लिप्यन्तरित रहल; कोनो एक मगही सब्द (दया\/परेम) ओकरा घटा देतइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ओकर⟩",
+      "rationale": "गीत के बर संबंध-सर्बनाम इब्रानी में नञ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to the psalmist's own soul",
+      "rationale": "पद 9–12 के एकठाम के सन्दर्भ: बोलयिहार अपन परान से बात करऽ हइ।"
+    }
+  ],
+  "translation": "दिन-दिन यहवे अपन हेसेद के हुकुम देतन, आउ रात में ⟨ओकर⟩ गीत हमरा संग होतइ — हमर जिअ के एलोअह ⟨के बर⟩ बिनती।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/42\/9-12.1792004988526.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "दिन-दिन"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "हुकुम देतन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "अपन हेसेद"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "आउ रात में"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमरा संग"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "बिनती"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "एलोअह ⟨के बर⟩"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "हमर जिअ के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:48.526797362Z",
+  "model": "glm-5.3"
+}

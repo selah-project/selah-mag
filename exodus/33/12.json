@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "मोशे सीधे यहवे संग बोलऽ हइ — तूँ-सम्बोधन"
+    },
+    {
+      "kind": "addition",
+      "subject": "कोना",
+      "gloss": "अशेर के बाद सर्बनाम के चुनाव अस्पस्ट हकइ; 'जे चीज\/जे अक्स' — कोना लेलन"
+    },
+    {
+      "kind": "elision",
+      "subject": "וגם",
+      "rationale": "'आउ साथे' — मगही में दुहराव भारी लागऽ हइ, साफ 'आउ' रहल"
+    }
+  ],
+  "translation": "आउ मोशे यहवे संग कहलन: देखऽ, तूँ हमरा से कहऽ हइ — ई लोग के ⟨את⟩ ऊपर ले जा — आउ तूँ हमरा नञ जतावलहुँ जे ⟨את⟩ कोना के हमरा संग भेजब; आउ तूँ कहलहुँ: हम तोहरा नाम से जानऽ हइ, आउ तूँ हमरी आँख में अनुग्रह पावलहुँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "85cbddf449aa78c5af5482a86b2200eec2a0c4010073ca9bf21eef93c97f075c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/33\/9-12.1791989219676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "संग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "העל",
+      "gloss": "ऊपर ले जा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई लोग के"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "हमरा जतावलहुँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे कोना के हमरा संग भेजब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "भेजब"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमरा संग"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "कहलहुँ"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "हम तोहरा जानऽ हइ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाम से"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "पावलहुँ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "हमरी आँख में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:46:59.677915271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שפתי\/ספרתי",
+      "rationale": "sifarti bisfatay — कहावट आउ ओंठ के साँझा स-प-र जड़ के गूँज, मगही में खो गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पूरा पद परमेश्वर के सीधे सम्बोधन में हइ (तोहरा मुँह)।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ספרתי",
+      "rationale": "मूल क्रिया गिनती के अरथ रखऽ हइ — गिन-गिन के कहना।"
+    }
+  ],
+  "translation": "हमरा ओंठ से हम तोहरा मुँह के सब नियाव गिन-गिन के कहलिए।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a103e228e52cbf7f75f96eca95234b9257a48fdd132605aaf0d044e4e94c0c61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/13-16.1792006061935.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "हमरा ओंठ से"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "गिन-गिन के कहलिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "तोहरा मुँह के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:41.936033749Z",
+  "model": "glm-5.3"
+}

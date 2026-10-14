@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גוי…גוי \/ ממלכה…עם",
+      "rationale": "समानान्तर दोहराव — जाति से जाति, राज्य से लोग — इब्रानी के जोड़ी-बनावट हकइ।"
+    }
+  ],
+  "translation": "आउ ओनी एक जाति से दोसर जाति के दने टहललथिन, आउ एक राज्य से दोसर लोग के दने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dbf305ca65a08a091f81c88818028dcc7e2e5e8365711583bf4575e3db36e2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/16\/17-20.1792010199669.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "टहललथिन"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "एक जाति से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "दोसर जाति"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "आउ एक राज्य से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "עם",
+      "gloss": "दोसर लोग"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दोसर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:36:39.671002362Z",
+  "model": "glm-5.3"
+}

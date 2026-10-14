@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ציים",
+      "rationale": "जंगल के रहैया (बनजारा) बनाम जंगली जानवर — दूनो पाठ चलन में हइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "धूरी चाटना",
+      "rationale": "עפר ילחכו के परति-अनुवाद; आत्मसमर्पण के इब्रानी चित्र, जस के तस रखल गेल।"
+    }
+  ],
+  "translation": "ओकरे आगूँ जंगल के रहैया घुटना टेकतथिन, आउ ओकर दुस्मन धूरी चाटतथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "63f0d56d1d04716c83a1a61f91f75b1d1f3ec7aedc1192ba97e512b5c85cdda1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/72\/9-12.1792005320951.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "ओकरे आगूँ"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "घुटना टेकतथिन"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "जंगल के रहैया"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "आउ ओकर दुस्मन"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूरी"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "चाटतथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:20.951819624Z",
+  "model": "glm-5.3"
+}

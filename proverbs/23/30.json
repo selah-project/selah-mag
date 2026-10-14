@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ממסך",
+      "rationale": "मिलाल मद (पानी या मसाला संग मिलाल अंगूरी मद) खाली इहे पाँती में आवऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "रहलन \/ रहऽ हइ",
+      "rationale": "इब्रानी के बिकल्प-किरिया बूतल चाल देखावे बर मगही में सहायक किरिया जोड़ल गेलइ"
+    }
+  ],
+  "translation": "जे अंगूरी मद के पाछे टिकल रहऽ हइ, जे मिलाल मद खोजे जा रहलन हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "81a1400b73ccd98cfeaa6818ffad817c361743a882b99ab47d64c5907d5c406f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/23\/29-32.1792006941862.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "जे टिकल रहऽ हइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "היין",
+      "gloss": "अंगूरी मद"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "जे जा रहलन हइ"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "खोजे"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "मिलाल मद"
+    }
+  ],
+  "timestamp": "2026-10-14T19:42:21.862745101Z",
+  "model": "glm-5.3"
+}

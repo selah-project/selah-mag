@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 1:10",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "हिरदय अंगूरी मद से भावल",
+      "rationale": "עשתה כטוב לב ביין के चाल — 'हिरदय मद से अच्छा भेल' धार्मिक-प्रबचन हकइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सातवाँ दिन \/ सात खोजा",
+      "rationale": "सात के गिनती दू बेर — दिन आउ खोजा सब, पाठ के बनावट"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨आगे⟩",
+      "rationale": "את פני के चाल में मगही के 'आगे' जोड़ल गेलइ; 'मुँह' इब्रानी के हकइ"
+    }
+  ],
+  "translation": "सातवाँ दिन, जइसन राजा के हिरदय अंगूरी मद से भावल हलइ, ऊ मेहुमान, बिज्ता, हरबोना, बिग्ता, अबग्ता, जेतर आउ करकस के कहलन — ई सात खोजा, जे राजा अहश्वेरोश के ⟨आगे⟩ ⟨את⟩ मुँह के सेवा करथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fe5a3fb65ca18f924811ba7cb1573bd07e27d81351854287fbf50aec3b545b39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/1\/9-12.1792008585522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवाँ"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "जइसन भावल"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "अंगूरी मद से"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "למהומן",
+      "gloss": "मेहुमान के"
+    },
+    {
+      "surface": "בזתא",
+      "gloss": "बिज्ता"
+    },
+    {
+      "surface": "חרבונא",
+      "gloss": "हरबोना"
+    },
+    {
+      "surface": "בגתא",
+      "gloss": "बिग्ता"
+    },
+    {
+      "surface": "ואבגתא",
+      "gloss": "अबग्ता"
+    },
+    {
+      "surface": "זתר",
+      "gloss": "जेतर"
+    },
+    {
+      "surface": "וכרכס",
+      "gloss": "आउ करकस"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "खोजा"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "जे सेवा करथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "राजा अहश्वेरोश के मुँह"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह के"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "अहश्वेरोश"
+    }
+  ],
+  "timestamp": "2026-10-14T20:09:45.523571938Z",
+  "model": "glm-5.3"
+}

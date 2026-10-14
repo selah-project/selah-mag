@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חדש",
+      "rationale": "'नव-चान' (new moon, JPS\/BSB) बनाम 'महीना' (month, KJV\/Geneva) — एके सब्द दू अरथ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בגדו",
+      "rationale": "'बेइमानी कइलन' (dealt treacherously) बनाम 'धोखा देलन' (transgressed) — जड़ בגד के कपड़ा-ढाकल चित्तार।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנים זרים",
+      "rationale": "'परदेसी बेटा' — होसे के पूरा किताब के मूल बिसय (वेश्यागामी) के जान-बूझ के गूँज।"
+    }
+  ],
+  "translation": "ओकनी यहवे के संग बेइमानी कइलन, काहे कि ओकनी परदेसी बेटा जनलन; अब नव-चान ⟨את⟩ ओकनी के हिस्सा ⟨संग⟩ खा जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/5\/5-8.1792003203721.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे के संग"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "बेइमानी कइलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "जनलन"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "खा जातइ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नव-चान"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के हिस्सा"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "ओकनी के हिस्सा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:40:03.722619285Z",
+  "model": "glm-5.3"
+}

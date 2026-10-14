@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תכבה…ישתק",
+      "rationale": "दू समानान्तर बाकांश — आग\/लकड़ी आउ झगड़ा\/चुगलीखोर के समान बनावट, उपमा के ढाँचा।"
+    }
+  ],
+  "translation": "लकड़ी के अभाव में आग बुझ जातइ, आउ चुगलीखोर के अभाव में झगड़ा थिर हो जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a4d1658b670530c0c88c2c8dedb6453aa08a75076a469900f032720404026761",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/26\/17-20.1792006983066.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "अभाव में"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "लकड़ी के"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "बुझ जातइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "आउ … अभाव में"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "चुगलीखोर के"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "थिर हो जातइ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "झगड़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:03.067112225Z",
+  "model": "glm-5.3"
+}

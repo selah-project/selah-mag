@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישר הדבר בעיניו",
+      "rationale": "शाब्दिक “बात ओकर आँख में सीधा भइल”; मगही में “भला लागल” चलनसार रूप लेलन जाए।"
+    }
+  ],
+  "translation": "आउ मिकल, शाऊल के बेटी, ⟨את⟩ दाविद के परेम करए लागलन; आउ लोग शाऊल के बताए देलन, आउ ई बात ओकर आँख में भला लागल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c0d7ff89ece34cccc17b28f885a6ca4888c97d2209aa8cd33cafc59ec1bc66e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/18\/17-20.1791995447002.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "आउ परेम करए लागलन"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "मिकल"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाविद"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "आउ बताए देलन"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शाऊल के"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "आउ भला लागल"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ई बात"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ओकर आँख में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:30:47.003758504Z",
+  "model": "glm-5.3"
+}

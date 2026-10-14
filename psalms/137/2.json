@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "Hebrew suffix -ינו already carries 'our'; Magahi needs अपन to make possession natural"
+    }
+  ],
+  "translation": "ओकर बीच के बेत के गाछ पर हमनी अपन किन्नर टाँगलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/137\/1-4.1792006274755.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "बेत के गाछ"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ओकर बीच"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "हमनी टाँगलन"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "अपन किन्नर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:14.756345331Z",
+  "model": "glm-5.3"
+}

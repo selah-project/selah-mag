@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקדם",
+      "rationale": "'पूरुब दने' बनाम 'पहिले से\/आदि में' — मिक्दम जगह या समय दुनू बतावऽ सकऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "एक",
+      "rationale": "'एक बगइचा' — इब्रानी में अंक नञ, मगही में गिनती के अनुभव बर जोड़ल।"
+    }
+  ],
+  "translation": "आउ यहवे एलोहीम एदेन में पूरुब दने एक बगइचा रोपलन, आउ ओत्ते रखलन ⟨את⟩ ओ मनुस के जेकरा ऊ गढ़लन हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "68450a8e65de4b0b6f44a3c7ad1421b87e4c46e29674bb8f9f92acd3c2a6860f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/2\/5-8.1791986221275.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "आउ रोपलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "גן",
+      "gloss": "एक बगइचा"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "एदेन में"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "पूरुब दने"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "आउ रखलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओत्ते"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ मनुस"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुस के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "गढ़लन हलन"
+    }
+  ],
+  "timestamp": "2026-10-14T13:57:01.277024860Z",
+  "model": "glm-5.3"
+}

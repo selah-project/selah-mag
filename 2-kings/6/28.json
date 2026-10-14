@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "मה לך",
+      "rationale": "शाब्दिक 'तोहरा का हइ' — मगही में 'तोहरा का सुटलइ हे' बोलचाल के रूप में"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנך \/ בני",
+      "rationale": "'तोहर बेटा \/ हमर बेटा' के ठीक-ठीक जोड़ी — आज-कालि के छंद में बाँटल समझौता"
+    }
+  ],
+  "translation": "आउ राजा ओकरा कहलन — तोहरा का सुटलइ हे? ओ जनाना कहलक — ई जनाना हमरा कहलक हलइ — अपन बेटा दे, आउ हमनी आज ⟨את⟩ ओकरा खाइबी, आउ कालि ⟨את⟩ हमर बेटा खाइबी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1c6f1a96d620082cfdd351ca1709737b16e15d2b76f3a607175a588ee22557fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/6\/25-28.1791997788826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ओ जनाना"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "कहलक हलइ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "תני",
+      "gloss": "दे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन बेटा के"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "अपन बेटा"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "आउ ओकरा खाइबी"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "हमर बेटा के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमर बेटा"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "खाइबी"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "कालि"
+    }
+  ],
+  "timestamp": "2026-10-14T17:09:48.827206180Z",
+  "model": "glm-5.3"
+}

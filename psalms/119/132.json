@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "सीधा अरजी परमात्मा के आगे — आँख उठावऽ के आग्रह"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמשפט",
+      "rationale": "'जइसन चलन हकइ' बनाम 'जइसन नियाव हकइ' — KJV 'as thou usest'; משפפ दुनो अरथ देहऽ हइ"
+    }
+  ],
+  "translation": "हमरा के दने मुँह कर ⟨आउ⟩ हम पर करुना कर, जइसन तोहरा चलन हकइ तोहरा नाम के परेम करै वाला लोग के संग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/129-132.1792006122910.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "मुँह कर"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा के दने"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "हम पर करुना कर"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "जइसन तोहरा चलन हकइ"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "परेम करै वाला लोग"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहरा नाम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:42.911848398Z",
+  "model": "glm-5.3"
+}

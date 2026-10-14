@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "देवता सब के",
+      "rationale": "आदेस ओही सम्बोधित के ओर चलऽ हइ।"
+    }
+  ],
+  "translation": "कमजोर आउ निहोरा के नियाव करऽ; दुखी आउ गरीब के त्सेदेक ठहरावऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fd0b5a856df469a1725c7e70f3e40706c44adbb9d2a44daed8d77efdac23230a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/82\/1-4.1792005569993.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "नियाव करऽ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "कमजोर"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "आउ निहोरा"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुखी"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "आउ गरीब"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "त्सेदेक ठहरावऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:29.994245508Z",
+  "model": "glm-5.3"
+}

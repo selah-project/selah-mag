@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשוב",
+      "rationale": "एहे किरिया दू बेर आवऽ हइ — फेर जीबइ आउ फेर उठबइ — ई दोहराव मगही में बचल हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הראיתנו \/ תחיינו के बहुबचन",
+      "rationale": "केएसबी में „हमनी“ हकइ, जेएसबी में एकल „हम“ — इब्रानी प्रत्यय साफ़ी बहुबचन हकइ, बाकि अन्तिम תעלנी एकबचन हकइ।"
+    },
+    {
+      "kind": "secret",
+      "subject": "धरती के गहिराई",
+      "rationale": "मिथहोमोत — गड्ढा-लोक के गहिराई — मरन के पाछे के लुकल जगह के बतावऽ हइ।"
+    }
+  ],
+  "translation": "जे हमनी के बहुत संकट देखालन आउ बुरा दिन देखालन, तोहनी फेर हमनी के जियाबऽ हथिन; आउ धरती के गहिराई से तोहनी फेर हमनी... हमरा उठबइ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0118286a10e1e46bee30527964de21356cbc3893839826f74c7f2befec4d037f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/71\/17-20.1792005367562.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "देखालन"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "संकट"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "बुरा दिन"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "जियाबऽ हथिन"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "गहिराई से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "उठबइ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:07.563711735Z",
+  "model": "glm-5.3"
+}

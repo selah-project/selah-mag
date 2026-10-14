@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 20:6",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "पंद्रह बरिस",
+      "rationale": "जीवन-मोड़ गिनती में तय होवऽ हइ — ठीक पंद्रह बरिस जोड़ल जातइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "גנותי על",
+      "rationale": "इब्रानी के साक्षात् अरथ 'ऊपर बाड़ लगाबइ' — ढाल बन के रखवारी।"
+    },
+    {
+      "kind": "elision",
+      "subject": "ומכף",
+      "gloss-note": "",
+      "rationale": "'हाथ के ताली से' — इब्रानी के मूल चित्र के 'हाथ से' में घटावल गेल।"
+    }
+  ],
+  "translation": "आउ हम तोहर दिन के ऊपर पंद्रह बरिस जोड़बइ; आउ अस्सूर के राजा के हाथ से हम तोहरा आउ ⟨את⟩ एही नगर के छुड़ाबइ, आउ हम एही नगर के ऊपर ढाल बन के रखवारी करबइ — हमर खातिर आउ हमर सेवक दाविद के खातिर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3eae1c460f6e6b72680ed04a18185fc3887462980c27ba63c3501742e5ccf956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/20\/5-8.1791998339697.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והספתי",
+      "gloss": "जोड़बइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "तोहर दिन"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पंद्रह (पाँच…)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "…दस)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "आउ … हाथ से"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर के"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "तोहरा छुड़ाबइ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "एही नगर"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एही"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "ढाल बन के रखवारी करबइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एही"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "हमर खातिर"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "आउ … खातिर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "हमर सेवक"
+    }
+  ],
+  "timestamp": "2026-10-14T17:18:59.698115037Z",
+  "model": "glm-5.3"
+}

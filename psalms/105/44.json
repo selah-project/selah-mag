@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बारस के रूप में लेना",
+      "rationale": "ירש is to dispossess and occupy, more forceful than 'inherit'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ועמל",
+      "rationale": "some read 'wealth gotten by toil' (Ps 111:2 sense) rather than the toil itself"
+    }
+  ],
+  "translation": "आउ ऊ ओकनी के जाति सब के धरती देलन, आउ लोग सब के मेहनत ओकनी बारस के रूप में लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/105\/41-44.1792005864290.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "आउ देलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब के"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "आउ मेहनत"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "लोग सब के"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "बारस के रूप में लेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:24.292095896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אין אלהים",
+      "rationale": "‘ओकर सब चाल में: एलोहीम नञ हइ’ — के दुष्ट के कहनामा हइ, के कवि के — asv\/jps एकरा उद्धरन बनावऽ हथिन"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כגבה אפו",
+      "rationale": "सुभाविक चित्र: ‘मुँह (नथुन) के उचाई’ — अकड़ से नथुना ऊपर उठऽ हइ"
+    }
+  ],
+  "translation": "दुष्ट अपन मुँह के अकड़ में यहवे के खोज नञ करऽ हइ; ओकर सब कुटिल चाल में ⟨एलोहीम नञ हइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/10\/1-4.1792004566210.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "के अकड़ में"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "अपन मुँह के"
+    },
+    {
+      "surface": "בל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "खोज करऽ हइ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ हइ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "कुटिल चाल में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:46.212352965Z",
+  "model": "glm-5.3"
+}

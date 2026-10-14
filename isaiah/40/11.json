@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 40:11",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלות",
+      "rationale": "'दूध पिआवऽ वाली भेड़' बनाम 'गर्भवती भेड़' — इब्रानी शब्द दुध-सम्बन्धी हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרעה \/ ירעה",
+      "rationale": "एके जड़ के दू रूप (गड़रिया \/ चरावऽ) — इब्रानी के जोड़ी, मगही में कम दिसऽ हइ।"
+    }
+  ],
+  "translation": "जइसन गड़रिया ओकर झुण्ड चरातन — भुजा से मेमना सब एकट्ठा करतन, ओकर गोद में उठातन, दूध पिआवऽ वाली सब के अगुआई करतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2b45e05ca91f290114752edbe6c4ea89335c575badc0098a7398ad28ad321a5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/40\/9-12.1791999448235.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרעה",
+      "gloss": "जइसन गड़रिया"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "ओकर झुण्ड"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "चरातन"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "भुजा से"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "एकट्ठा करतन"
+    },
+    {
+      "surface": "טלאים",
+      "gloss": "मेमना सब"
+    },
+    {
+      "surface": "ובחיקו",
+      "gloss": "आउ ओकर गोद में"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "उठातन"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "दूध पिआवऽ वाली सब"
+    },
+    {
+      "surface": "ינהל",
+      "gloss": "अगुआई करतन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:37:28.236474801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 4:36",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ליסרך",
+      "rationale": "हिब्रू यासर दंड देके आउ बात से दुनो सिखाबे के अरथ देलक हे — इहाँ 'सिखाबे बर' लेलन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "सुनावे \/ देखावे \/ सुनबे",
+      "rationale": "अकास-से-सुन आउ धरती-पर-देख के जोड़ी — आग के बीच से बात दुनो के जोड़ऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल के परजा",
+      "rationale": "पूरा पद तोहनी के बारे में हकइ।"
+    }
+  ],
+  "translation": "अकास से ऊ तोहनी के सुनबइलन ⟨את⟩ ओकर बोली, तोहनी के सिखाबे बर; आउ धरती पर ऊ तोहनी के देखबइलन ⟨את⟩ ओकर बड़ आग; आउ ओकर बात तूँ सुनलक आग के बीच से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cfdeedfa4b2e5dc6cdec02ecb1a8524350bf5a06077d20111b4287955c9943dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/4\/33-36.1791992140366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "השמיעך",
+      "gloss": "ऊ तोहनी के सुनबइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बोली"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ओकर बोली"
+    },
+    {
+      "surface": "ליסרך",
+      "gloss": "तोहनी के सिखाबे बर"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ ... पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "הראך",
+      "gloss": "ऊ तोहनी के देखबइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बड़ आग"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "ओकर आग"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "आउ ओकर बात"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "तूँ सुनलक"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "के बीच से"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आग"
+    }
+  ],
+  "timestamp": "2026-10-14T15:35:40.367281911Z",
+  "model": "glm-5.3"
+}

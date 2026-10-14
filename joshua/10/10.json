@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 10:10",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हलचल में डेलन",
+      "rationale": "ויהומם के शाब्दिक अरथ 'हलचल में डालल' हकइ — घबराहट या तबाही के बिगाड़ल अरथ के जगह शाब्दिक चाल रखल गेलइ।"
+    }
+  ],
+  "translation": "आउ यहवे ओकनी के यिस्राएल के सामने हलचल में डेलन, आउ ओकनी के गिबोन में भारी मार मारलन; आउ बेत-चोरोन के चढ़ाइ के रस्ते से ओकनी के खेजलन, आउ ओकनी के अजेका ले आउ मकेदा ले मारलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c741e3fc4a09238b1d666fe19129aa6ca4422efa9a885629d9a0c5800d9f4c85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/10\/9-12.1791993440192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהמם",
+      "gloss": "हलचल में डेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "मार"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "भारी"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "गिबोन में"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "खेजलन"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ते से"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "चढ़ाइ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "चोरोन"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "अजेका"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ … ले"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "मकेदा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:57:20.193392606Z",
+  "model": "glm-5.3"
+}

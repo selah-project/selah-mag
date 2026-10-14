@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "'आउ होलक' — ओकरा नगर हलन के घोसना बर किरिया-बोली, अरथ के बोझ ओकरा के आगे के बाक्य पर पड़ल हे"
+    },
+    {
+      "kind": "measurement",
+      "subject": "तेईस नगर",
+      "rationale": "नगर के गिनती"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יאיר \/ עיר",
+      "rationale": "यायिर ('ओ पराक्रम करतन') आउ ढिर (नगर) के अच्छर-मेल — मगही में गुम"
+    }
+  ],
+  "translation": "आउ सेगूब के यायिर (याइर) ⟨את⟩ जनम होलक, आउ ओकरा गिलाद के धरती में तेईस नगर हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6cdf964d06b405ba928c9883a91d37b5554a7cbd71e3802289c528d02cca780a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/2\/21-24.1792009879918.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "आउ सेगूब"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यायिन"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "यायिर"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होलक"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बाइस"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "आउ तीन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:31:19.919063135Z",
+  "model": "glm-5.3"
+}

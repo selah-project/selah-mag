@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 20:28",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יגלו\/יגל",
+      "rationale": "पद 27 'खोलऽ हइ' आउ पद 28 'जा हटतइ' — एके जड़ गלה के दोहराव"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "मूल 'नाक\/थुथनी' — कोप के धुआँ के चित्र; मगही में 'कोप' लेलक"
+    }
+  ],
+  "translation": "ओकर घर के फसल जा हटतइ; ओकर कोप के दिन में बहि जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "808d4f9111a4f9943accc31da01a87509ac0d05ddc141915a5c83eaae2861ea4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/20\/25-28.1792007528552.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגל",
+      "gloss": "जा हटतइ"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "फसल"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ओकर घर के"
+    },
+    {
+      "surface": "נגרות",
+      "gloss": "बहि जातइ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ओकर कोप के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:52:08.552987456Z",
+  "model": "glm-5.3"
+}

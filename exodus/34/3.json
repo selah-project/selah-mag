@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 34:3",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גם … גם",
+      "rationale": "‘आउ सेहे… सेहे’ के दोहराव — पहाड़ के पबित्तरता बर सीमा खींचऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "नञ दिहु",
+      "rationale": "मगही के नकारात्मक आज्ञा बर किरिया-पूरक; इब्रानी में אל + किरिया पूरा बात कहऽ हइ।"
+    }
+  ],
+  "translation": "आउ कोनो मरद तोहरा संग नञ चढ़तइ; आउ पूरा पहाड़ में कोनो मरद के देखाइ नञ दिहु; भेड़ आउ बैल सब सेहे ओ पहाड़ के सामने नञ चराइ दिहु।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1f91e99dbbd63c3aeef2239d1ae6461368a1ccd96c2fca88ced504e513e33c62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/34\/1-4.1791989200765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आउ कोनो मरद"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़तइ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहरा संग"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोनो मरद के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "देखाइ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा … में"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "גם",
+      "gloss": "सेहे"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेड़ सब"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "आउ बैल सब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "चराइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के तरफ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:46:40.766919728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אין לה ולד",
+      "rationale": "शाब्दिक: 'ओकरा बुतरू नञ' — 'बाँझ' के दोहराव, इब्रानी के ताकि के बनावट।"
+    }
+  ],
+  "translation": "आउ साराय बाँझ हली — ओकरा कोनो बुतरू नञ हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e6f48ac4a94a4e9ee9cef3b9acbf058591b0f52dc402ee82a9a9724d10cfc8fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/11\/29-32.1791986608453.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "आउ हली"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "साराय"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "बाँझ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ हलइ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "बुतरू"
+    }
+  ],
+  "timestamp": "2026-10-14T14:03:28.454752110Z",
+  "model": "glm-5.3"
+}

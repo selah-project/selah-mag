@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सामग्री के सूची",
+      "rationale": "पद मिश्कान के हिस्सा सब के गिनती वाली सूची हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קרשים",
+      "rationale": "केवेश 'तख्ता' — स्लैब\/फल्या; 'फ्रेम' बाद के ब्याख्या होतइ।"
+    }
+  ],
+  "translation": "⟨את⟩ मिश्कान, ⟨את⟩ ओकर तम्बू आउ ⟨את⟩ ओकर ओढ़ना, ⟨את⟩ ओकर कुँड़ी आउ ⟨אत⟩ ⟨את⟩ ओकर तख्ता, ⟨את⟩ ओकर सलाख, ⟨את⟩ ओकर खम्भा आउ ⟨את⟩ ओकर पाया।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3721dd6abfef58bb0395f9712a6065e5d96aa8062f39c472ac0101ef6a09f21f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/35\/9-12.1791989124860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मिश्कान"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मिश्कान"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर तम्बू"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ओकर तम्बू"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "ओकर ओढ़ना"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "ओकर ओढ़ना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर कुँड़ी"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "ओकर कुँड़ी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "ओकर तख्ता"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "ओकर तख्ता"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर सलाख"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "ओकर सलाख"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर खम्भा"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "ओकर खम्भा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "ओकर पाया"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ओकर पाया"
+    }
+  ],
+  "timestamp": "2026-10-14T14:45:24.861676493Z",
+  "model": "glm-5.3"
+}

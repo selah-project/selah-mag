@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עכकन्ना",
+      "rationale": "כפרת के अरथ — 'ढकन्ना' (लिड, जेहन jps कहऽ हइ) बनाम 'कफ्फारा-आसन' (mercy seat, जेहन kjv कहऽ हइ); मूल जड़ כפר से"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ढकन्ना",
+      "rationale": "कोहनी में नाप — दू आउ आध लमबाई, एक आउ आध चौड़ाई"
+    }
+  ],
+  "translation": "आउ ऊ बनइलन ढकन्ना, खरा सोना के; ओकर लमबाई दू कोहनी आउ आध, आउ ओकर चौड़ाई एक कोहनी आउ आध।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "65ff8cd433a706fac5a3ccd5c9e632db4f75022f8ae92788d5e9b06882df973e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/37\/5-8.1791989277712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "ढकन्ना"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "खरा"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "दू कोहनी"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "आउ आध"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "ओकर लमबाई"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "आउ एक कोहनी"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "आउ आध"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ओकर चौड़ाई"
+    }
+  ],
+  "timestamp": "2026-10-14T14:47:57.712841230Z",
+  "model": "glm-5.3"
+}

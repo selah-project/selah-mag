@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "भोर\/रात सब",
+      "rationale": "हेसेद-भोर आउ भरोसेदारी-रात के समानांतर जोड़ी — दिन-रात के पूरा घेरा।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हेसेद",
+      "rationale": "एक्को इब्रानी सब्द — दया, परेम, वफादारी सब भीतर; लिप्यंतरन रखल गेल।"
+    }
+  ],
+  "translation": "भोर में तोहर हेसेद बतावे बर, आउ रात सब में तोहर भरोसेदारी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/92\/1-4.1792005747506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "बतावे बर"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "भोर में"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "तोहर हेसेद"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "आउ तोहर भरोसेदारी"
+    },
+    {
+      "surface": "בליײות",
+      "gloss": "रात सब में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:27.507503191Z",
+  "model": "glm-5.3"
+}

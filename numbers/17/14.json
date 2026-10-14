@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "14,700",
+      "rationale": "महामारी के मरनिहार के गिनती — चौदह हजार आउ सात सौ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המתים … המतים",
+      "rationale": "मरनिहार शब्द दू बेर दोहरावल गेलइ — गिनती आउ कोराख के बात, दूनो हिस्सा में।"
+    }
+  ],
+  "translation": "आउ महामारी में मरनिहार चौदह हजार आउ सात सौ हलन, कोराख के बात पर मरनिहार के छोड़ के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8532717346571cd1685c516bb1c1b35099c01211a7d228dec66fa84fcae5f33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/17\/13-16.1791991164707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "हलन"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मरनिहार"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "महामारी में"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चौदह (चार)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "चौदह (दस)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "आउ सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "के छोड़ के"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मरनिहार के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोराख"
+    }
+  ],
+  "timestamp": "2026-10-14T15:19:24.707978515Z",
+  "model": "glm-5.3"
+}

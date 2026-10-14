@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "वאת הכוכבים",
+      "rationale": "'आउ ⟨את⟩ तारा सब' — सुरुज-चान के संग तारा सब ब्रज लिस्ट में हकइ, बाकि KJV के 'he made the stars also' एकरा अलग कथन बना देलकइ।"
+    }
+  ],
+  "translation": "आउ एलोहीम बनइलन ⟨את⟩ दू बड़का ज्योति-धारी सब — ⟨את⟩ बड़का ज्योति-धारी दिन पर राज करे बर, आउ ⟨את⟩ छोटका ज्योति-धारी रात पर राज करे बर — आउ ⟨את⟩ तारा सब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a6c8848f1ec5934cf37513f2c9cd4ebec9aad6c165f2a0036feef99f8b86fca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/1\/13-16.1791986233563.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आउ बनइलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दू बड़का ज्योति-धारी सब"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "ज्योति-धारी सब"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "बड़का"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बड़का ज्योति-धारी"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ज्योति-धारी"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "बड़का"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "राज करे बर"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन पर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "छोटका ज्योति-धारी"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ज्योति-धारी"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "छोटका"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "राज करे बर"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "रात पर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "तारा सब"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "तारा सब"
+    }
+  ],
+  "timestamp": "2026-10-14T13:57:13.564853577Z",
+  "model": "glm-5.3"
+}

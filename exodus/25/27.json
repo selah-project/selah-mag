@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "घर के रूप में",
+      "rationale": "לבתים साफ कहऽ हइ — ठीका डंडा के घर होतइ; छवि जस के तस रखलक।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "डंडा के घर… डंडा बर",
+      "rationale": "कुछ अनुवादक दुनू के एके मानऽ हथिन (ठीका बड़ी के जगह); मूल दू अलग बिसेसनी हकइ।"
+    }
+  ],
+  "translation": "किनारा के ठीक-भिरले ठीका रहतइ होतइ — डंडा के घर के रूप में, डंडा लगावे बर — जे ओकरा जरिए ⟨את⟩ मेज ढोवल जा सकअ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea5e9a797728651f6df21bd05726f5741bc56229b5afe779990134120dc5ef48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/25\/25-28.1791988858466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "ठीक-भिरले"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "रहतइ होतइ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ठीका"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "घर के रूप में"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "डंडा बर"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ढोवे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेज"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "मेज"
+    }
+  ],
+  "timestamp": "2026-10-14T14:40:58.467912386Z",
+  "model": "glm-5.3"
+}

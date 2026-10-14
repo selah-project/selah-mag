@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "शेकेल",
+      "rationale": "Hebrew says only 'ten [of] gold' — the unit shekel is implied, supplied in brackets."
+    },
+    {
+      "kind": "substitution",
+      "subject": "कचौड़ी",
+      "rationale": "כף is the hollow palm of the hand; rendered as a small dish."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ten of gold",
+      "rationale": "weight of the gold vessel given as ten."
+    }
+  ],
+  "translation": "एक सोना के कचौड़ी, दस ⟨शेकेल⟩, धुन से भरल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c846c29cdc00f52bdd43dc2eaa122f53da1229b0a0b968d0f135893ae8328980",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/7\/13-16.1791990706339.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "कचौड़ी"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धुन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:11:46.340670680Z",
+  "model": "glm-5.3"
+}

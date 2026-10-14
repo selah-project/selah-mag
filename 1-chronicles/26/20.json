@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 26:20",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के बीच",
+      "rationale": "इब्रानी सिर्फ 'आउ लवियन' कहऽ हइ — अरथ लवियन के बीच से एक अहियाह; कोस्ठक में समझावल जाई।"
+    },
+    {
+      "kind": "addition",
+      "subject": "रहथिन",
+      "rationale": "इब्रानी में क्रिया नञ हइ — 'अहियाह ... पर' जस के तस ठाढ़ हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הקדשים",
+      "rationale": "'पवित्तर चीज' — समर्पित वस्तु सब के खजान; कुछ अनुवाद 'समर्पित चीज' कहऽ हइ।"
+    }
+  ],
+  "translation": "आउ लवियन ⟨के बीच⟩ — अहियाह ⟨रहथिन⟩ एलोहीम के घर के खजान सब पर आउ पवित्तर चीज के खजान सब पर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e879bdd42e87a64f017a316ddc64c77ab2169f9b77a446994d38acd84e1d4d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/26\/17-20.1792010511661.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "आउ लवियन"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "अहियाह"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "खजान सब"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "आउ खजान सब"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "पवित्तर चीज के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:41:51.662094736Z",
+  "model": "glm-5.3"
+}

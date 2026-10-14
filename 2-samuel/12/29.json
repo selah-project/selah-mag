@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ओकरा संग लड़ाइ कइलन",
+      "rationale": "וילחם בה शाब्दिक रूप से 'उसमें लड़ा' है; मगही में संग के जरूरत हकइ"
+    }
+  ],
+  "translation": "आउ दाविद ⟨את⟩ सब लोग के जुटालन आउ रब्बाह लेल गेलन, आउ ओकरा संग लड़ाइ कइलन आउ ओकरा जीत लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "936d153ee2b2f78b34c4651dd78800f3303730400f4a93745dea4a8f2079fe3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/12\/29-31.1791996203040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "जुटालन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब लोग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "रब्बाह"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "लड़ाइ कइलन"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ओकरा जीत लेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:43:23.040809545Z",
+  "model": "glm-5.3"
+}

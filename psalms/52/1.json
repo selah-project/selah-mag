@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "'चमकै वाला \/ बड़वा' के अरथ बिस्तर में 'संगीत-प्रमुख' रूप में गेलइ"
+    }
+  ],
+  "translation": "संगीत-प्रमुख बर; बुद्धि-गीत; दाविद बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/52\/1-4.1792005192054.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-प्रमुख बर"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "बुद्धि-गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:12.055458291Z",
+  "model": "glm-5.3"
+}

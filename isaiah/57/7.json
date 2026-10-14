@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 57:7",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बिछौना",
+      "rationale": "משכब विषयवास बर प्रयुक्त हकइ — ऊँच जगह पर बलि-बेदी नञ, बिछौना रखबे के कथा हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לזבח \/ זבח",
+      "rationale": "एके जड़ के दोहराव — 'बलि काटे बर बलि', क्रिया आउ कर्म दुनो में ध्वनि-मेल।"
+    }
+  ],
+  "translation": "ऊँच आउ उठल पहाड़ पर तू तोहर बिछौना बिछौली; ओहीं तू चढ़ली बलि काटे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ec57c862093da13194b14939a24bdddb41423c6e32fa124d1cb90d28c6381a61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/57\/5-8.1791999813229.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ऊँच"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "आउ उठल"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "बिछौली"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "तोहर बिछौना"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ओहीं"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहीं"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "चढ़ली"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "बलि काटे बर"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    }
+  ],
+  "timestamp": "2026-10-14T17:43:33.230758621Z",
+  "model": "glm-5.3"
+}

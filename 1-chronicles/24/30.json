@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 24:30",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इबरानी में क्रिया नञ हइ; मगही वाक्य बर जोड़ल गेलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "वंसावली",
+      "rationale": "लेवी के घर-घर के नाम-गिनती हकइ"
+    }
+  ],
+  "translation": "आउ मूशी के बेटा: महली आउ एदेर आउ यरीमोत। ई लेवी के लोग के बेटा हथिन, आपन-आपन बाप के घर के माफिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "352c2dafc13af84ef5096bf47057fa3848c612cc5d143186e3e14e86056ffab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/24\/29-31.1792010450257.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आउ … के बेटा"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "मूशी"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "महली"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "आउ एदेर"
+    },
+    {
+      "surface": "וירימות",
+      "gloss": "आउ यरीमोत"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवी के लोग"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घर के माफिक"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "आपन-आपन बाप के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:40:50.257613666Z",
+  "model": "glm-5.3"
+}

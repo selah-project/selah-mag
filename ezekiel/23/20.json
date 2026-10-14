@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 23:20",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זרמה",
+      "rationale": "बहाव (तरल के फूटन) — पूरा तनाख़ में खाली एही पद में दू बेर।"
+    },
+    {
+      "kind": "crux",
+      "subject": "פלגשיהם",
+      "rationale": "रखैनी \/ परमसुख — JPS 'रखैनी-ब्यावहार' के रस्ता लेलक; शब्द के आकार 'रखैनी' हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשר\/בשרם · זרמת\/זרमתם",
+      "rationale": "मांस-मांस आउ बहाव-बहाव के झूला — चियास्टिक दोहराव।"
+    }
+  ],
+  "translation": "ऊ ओकनी के रखैनी दने तड़पलक, जेकर मांस गधा के मांस जइसन — ओकनी के मांस — आउ घोड़ा के बहाव जइसन ओकनी के बहाव।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e8bced39adb3596534f00a4184fafed1cde2a15a62220c9996dbf1342702bb30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/23\/17-20.1792002413219.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעגבה",
+      "gloss": "आउ तड़पलक"
+    },
+    {
+      "surface": "על",
+      "gloss": "दने"
+    },
+    {
+      "surface": "פלגשיהם",
+      "gloss": "ओकनी के रखैनी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "חמורים",
+      "gloss": "गधा के"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "ओकनी के मांस"
+    },
+    {
+      "surface": "וזרמת",
+      "gloss": "आउ बहाव"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोड़ा के"
+    },
+    {
+      "surface": "זרמתם",
+      "gloss": "ओकनी के बहाव"
+    }
+  ],
+  "timestamp": "2026-10-14T18:26:53.220562562Z",
+  "model": "glm-5.3"
+}

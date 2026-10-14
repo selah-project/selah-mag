@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨अके⟩",
+      "rationale": "इब्रानी के बात बहुबचन के कठोरता देखावऽ हइ; मगही में अके-बचन जोड़ल गेल"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "अमनम खे गेल छोट सब्द बाकी के बात में घुसल रहल"
+    },
+    {
+      "kind": "crux",
+      "subject": "व्यंग्य",
+      "rationale": "बड़ा-बड़ा अनुवाद ई पाँती के सीधा पढ़ऽ हथिन; इयोव के बोली व्यंग्य हकइ — तोहनी अके लोग बाकि सब से बेसी समझदार हकिया?"
+    }
+  ],
+  "translation": "सच्चइ, तोहनी सब ⟨अके⟩ लोग हकिया, आउ तोहनी के संग अके समझदारी मर जइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8e855829b1bb2db29faa567f04008eeb388d7577fd6a1e29143d5a18a231bdce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/12\/1-4.1792007335828.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "सच्चइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी सब"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "तोहनी के संग"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "मर जइतइ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "समझदारी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:48:55.829523504Z",
+  "model": "glm-5.3"
+}

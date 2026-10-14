@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 1:13",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "नसेबाइ",
+      "rationale": "לשכורा — नसा होए वाली, मगही के चलनसार सब्द।"
+    },
+    {
+      "kind": "you",
+      "subject": "छन्ना",
+      "rationale": "कथा छन्ना के केंद्र में रखऽ हइ, हेकरा अगिला पद में सीधा संबोधन आवऽ हइ।"
+    }
+  ],
+  "translation": "आउ छन्ना ऊ हिरदय में बात कहऽ रहलइ हलइ; खाली ओकर ओँठ हिलतइ हलइ आउ ओकर आवाज सुनल नञ जातइ हलइ; तब एली ओकरा नसेबाइ समझलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "56a964ae5905dd4befa74b4b11a7d23deb74c15c4c379024b8d6e51e5ca0c379",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/1\/13-16.1791994768030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחנה",
+      "gloss": "आउ छन्ना"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "बात कहऽ रहलइ हलइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "में"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "רק",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "ओकर ओँठ"
+    },
+    {
+      "surface": "נעות",
+      "gloss": "हिलतइ हलइ"
+    },
+    {
+      "surface": "וקולה",
+      "gloss": "आउ ओकर आवाज"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनल जातइ हलइ"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "तब ओकरा समझलक"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "एली"
+    },
+    {
+      "surface": "לשכרה",
+      "gloss": "नसेबाइ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:19:28.030849402Z",
+  "model": "glm-5.3"
+}

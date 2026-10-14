@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ינין",
+      "rationale": "यू रूप तनाख़ में खाली इहे आवऽ हइ; जड़ נון के अरथ — नया फुटाना निकलऽ (कहियो न मरे)।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ינין",
+      "rationale": "'फुटैत रहे \/ सन्तति चलतइ' बनाम किछु परम्परा के 'बढ़तइ जातइ' — दुनो नून (फुटाना) के चाले।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויתברכו בו",
+      "rationale": "'ओकरा से असीस लेतइ' (बरक करे के जरे) बनाम 'ओकरा में असीस पातइ' — इब्रानी निपि दुनो अरथ धरे।"
+    }
+  ],
+  "translation": "ओकर नाम सदा बर रहे; सुरुज के आगे ओकर नाम फुटैत रहे, आउ ओकरा में सब जाति असीस लेतइ; सब जाति ओकरा धन्य कहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/72\/17-20.1792005361365.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "फुटैत रहे"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "असीस लेतइ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "धन्य कहतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:01.365537044Z",
+  "model": "glm-5.3"
+}

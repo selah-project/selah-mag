@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 11:5",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मरन होतइ",
+      "rationale": "ומत कालवाचक क्रिया हकइ; मगही में 'मरन होतइ' के नामवाचक रूप लेल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "तक",
+      "rationale": "עד के दायरा पूरा करे बर दू संयोजक मिलावल गेल"
+    }
+  ],
+  "translation": "आउ मिस्रयिम (मिस्र) के धरती में हर पहिला-जनमल के मरन होतइ — ओकर गद्दी पर बैठल फिरौन के पहिला-जनमल से ले के चक्की के पाछे वाली दासी के पहिला-जनमल तक, आउ हर जीव-जंतु के पहिला-जनमल तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6e839c6d81b89b530cacaf66b4c73fd56c0d010503c22f9765b0923bf02d5e40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/11\/5-8.1791988336478.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומת",
+      "gloss": "आउ ... मरतइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "पहिला-जनमल"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम (मिस्र) के"
+    },
+    {
+      "surface": "מבכור",
+      "gloss": "पहिला-जनमल से"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "बैठल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ओकर गद्दी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले के ... तक"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "पहिला-जनमल"
+    },
+    {
+      "surface": "השפחה",
+      "gloss": "दासी के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "पाछे"
+    },
+    {
+      "surface": "הרחים",
+      "gloss": "चक्की"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ हर"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "पहिला-जनमल"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "जीव-जंतु के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:32:16.479218950Z",
+  "model": "glm-5.3"
+}

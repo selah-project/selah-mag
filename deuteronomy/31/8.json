@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहोशुआ के",
+      "rationale": "एक-बचन सम्बोधन जे आगमन श्लोक के बहुबचन से बदलऽ हइ — यहोशुआ अकेले बतावऽ हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "ולא... אשר अनुपस्थित अनुवाद",
+      "rationale": "छह पद में से एक पद के शब्दानुवाद के बजाय एक ही संरचना में दिखाया गया है — ग्लॉस में शब्द-जोड़ी संरक्षित है"
+    },
+    {
+      "kind": "substitution",
+      "subject": "तोहर मन तुरतइ",
+      "rationale": "תחत का चित्र 'टूट जाना\/सदमा से गिर जाना' है; मगही में 'मन तुरना' के रूप में दिखाया गया"
+    }
+  ],
+  "translation": "आउ यहवे ऊ हकइ जे तोहर आगू-आगू चलऽ हइ; ऊ तोहर संग रहतइ; ऊ तोहरा ढीला नञ करतइ आउ तोहरा छोड़तइ नञ; डरबू नञ आउ तोहर मन नञ तुरतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c1616bfc945716b24b37b1f5dedf411c1c17f5f484fc6f1d66229893557a65a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/31\/5-8.1791993112398.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ हकइ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "चलऽ हइ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहर आगू-आगू"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहर संग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "तोहरा ढीला करतइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "तोहरा छोड़तइ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डरबू"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तोहर मन तुरतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:51:52.399603982Z",
+  "model": "glm-5.3"
+}

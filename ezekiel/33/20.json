@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यिस्राएल के घर",
+      "rationale": "अदोनाय सीधे यिस्राएल के घर के ओर बोलतन हथिन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "איש כדרכיו",
+      "rationale": "शाब्दिक 'हर आदमी अपन रस्ता के मोताबिक' — 'हर एक' में 'आदमी' के आकार रखल गेलइ।"
+    }
+  ],
+  "translation": "आउ तोहनी कहऽ हइ, अदोनाय के रस्ता सधल नञ होतइ; हर एक अपन रस्ता के मोताबिक हम तोहनी सब के नियाव करतइ, हे यिस्राएल (इस्राएल) के घर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cc98f7b43999e4502979c3d2a816e8fc0e86dcf1e4e3453cae846493b8f47d51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/33\/17-20.1792002605104.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "आउ तोहनी कहऽ हइ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "सधल होतइ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय के"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक आदमी"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "अपन रस्ता के मोताबिक"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "हम नियाव करतइ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी सब के"
+    },
+    {
+      "surface": "בית",
+      "gloss": "के घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:30:05.105794761Z",
+  "model": "glm-5.3"
+}

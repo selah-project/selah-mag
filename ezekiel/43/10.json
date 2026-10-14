@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे → यहेजकेल",
+      "rationale": "'तूँ आदमी के बेटा' — सीधा संबोधन नबी से।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नाप",
+      "rationale": "पद परजा के मंदिर के बनावट नापे के आदेस देऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "תכנית",
+      "rationale": "'बनावट\/प्रतिरूप' बनाम JPS 'सही-सही नापऽ' — शब्द आकार-विन्यास के अरथ हकइ।"
+    }
+  ],
+  "translation": "तूँ आदमी के बेटा, यिस्राएल के घर के बर ओ घर के बात ⟨את⟩ हि देखा दे आउ ओ घर ⟨את⟩, ताकि ओकनी अपन अधरम सब से लजातइ, आउ ओकनी ओकर बनावट के नाप ⟨את⟩ लेतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "269d28a48addbe680ee8da00a3018da41435581ffe5761aa7ab1efed45e71e7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/43\/9-12.1792002995423.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "बात हि देखा दे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ घर"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ओ घर"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ताकि ओकनी लजातइ"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "अपन अधरम सब से"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "आउ ओकनी नाप लेतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बनावट"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "बनावट"
+    }
+  ],
+  "timestamp": "2026-10-14T18:36:35.424697150Z",
+  "model": "glm-5.3"
+}

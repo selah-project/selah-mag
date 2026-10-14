@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 6:34",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ओढ़ लेलन",
+      "rationale": "לבש 'clothed' — the Spirit wraps Gideon like a garment; KJV softens to 'came upon'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויזעק אביעזר",
+      "rationale": "'Abiezer was called\/alarm-sounded after him' — tribe assembled by the horn (KJV) vs Abiezer summoned (YL T)."
+    }
+  ],
+  "translation": "आउ यहवे के रूआख ⟨את⟩ गिदोन के ओढ़ लेलन, आउ ऊ सिंग बजावलक, आउ अबीएजेर ओकरा पाछा जुड़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f400795a03e4f0d40d078b59238be634684544a97733b3a091a8f48c2c10eca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/6\/33-36.1791994095512.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "आउ रूआख"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "ओढ़ लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गिदोन"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "गिदोन"
+    },
+    {
+      "surface": "ויתקע",
+      "gloss": "बजावलक"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "सिंग"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "पुकारलन"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "अबीएजेर"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ओकरा पाछा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:08:15.513441549Z",
+  "model": "glm-5.3"
+}

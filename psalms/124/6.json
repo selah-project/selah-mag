@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "शिकार",
+      "rationale": "טרף के साफ अरथ 'फाड़ल मांस \/ दबाप' हकइ — दाँत के चित्र के संग मेल"
+    }
+  ],
+  "translation": "धन्य हथिन यहवे, जे हमनी के ओकनी के दाँत के शिकार नञ देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/124\/5-8.1792006215076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "शिकार"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "ओकनी के दाँत के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:15.077570526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "यहवे के मुँह",
+      "rationale": "על פי यהוה — 'मुँह के मोताबिक' हिब्रू के थिर मुहावरा हकइ: यहवे के बोलल बात के अनुसार।"
+    },
+    {
+      "kind": "mystery",
+      "subject": "कैद में रखना",
+      "rationale": "फैसला रोकल गेलइ जे तक यहवे के बात साफ नञ होतइ — बात छिपावल-रोकल रहलइ।"
+    }
+  ],
+  "translation": "आउ ओकनी ओकरा कैद में रखलन, जे यहवे के मुँह के बिधान से ओकनी के साफ कइल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "047fa15ed21e9e729c53e9308fb1c673d0f8cf731bc1e88d3858209807430370",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/24\/9-12.1791990314222.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "आउ ओकनी ओकरा रखलन"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "कैद में"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "साफ कइल जावे बर"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "על",
+      "gloss": "के मोताबिक"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:05:14.223889595Z",
+  "model": "glm-5.3"
+}

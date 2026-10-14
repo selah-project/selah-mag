@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבר",
+      "rationale": "केएमएस 'crooked one' (נוער) पढ़ैत हे, बाकी बहुतांत बरर के जड़ से 'चुनल\/साफ' लेथिन; हमनी बहुतांत के संग गेलियै"
+    },
+    {
+      "kind": "crux",
+      "subject": "תתפתל",
+      "rationale": "पथल के जड़ — 'लड़ैया' (वाईएलटी), 'घुमावदार' (जेपीएस), 'मुड़-टेढ़ा' — हमनी टेढ़ा के दोहराव रखनियै जे पंक्ति के गूँज बचावैत हे"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבר\/תתברר · עקש\/תתפתל",
+      "rationale": "पिछला पद के गुण-क्रिया जोड़ी एहो जारी हकइ"
+    }
+  ],
+  "translation": "साफ-सुथरा के संग तूँ साफ-सुथरा रहऽ हँ, आउ टेढ़ा के संग तूँ टेढ़ा रहऽ हँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/18\/25-28.1792004635314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "साफ-सुथरा"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "साफ-सुथरा रहऽ हँ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आउ के संग"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "टेढ़ा"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "टेढ़ा रहऽ हँ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:55.315087525Z",
+  "model": "glm-5.3"
+}

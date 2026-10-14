@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 5:11",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עבור",
+      "rationale": "מעבור खाली भण्डारल अन्न बर हकइ — ई अरथ में ई बात तनाख़ में लगभग एके जगह मिलऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "पुरान अनाज या फसल",
+      "rationale": "KJV “old corn” बनाम ASV\/JPS “produce” — מעבור हאארेत्स के “भण्डारल अनाज” कहल जाहइ।"
+    }
+  ],
+  "translation": "आउ पेसह के दूसर दिन ओकनी धरती के बचल अनाज खइलन — मत्सोत आउ भुनल अनाज — ओही दिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "662836b8102c407828ef7febc216b2e30182917de1914aaf2292651067490d66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/5\/9-12.1791993164787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "आउ खइलन"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "बचल अनाज"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "दूसर दिन"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पेसह के"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "मत्सोत"
+    },
+    {
+      "surface": "וקלוי",
+      "gloss": "आउ भुनल अनाज"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ओ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:52:44.788867250Z",
+  "model": "glm-5.3"
+}

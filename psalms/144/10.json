@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ जे",
+      "rationale": "करता के परति बोध बर; इब्रानी में केवल क्रियाविशेषण रूप हकइ"
+    }
+  ],
+  "translation": "ऊ जे राजा सब के छुटकारा देवऽ हइ, जे अपन सेवक दाविद (दाऊद) के ⟨את⟩ बुरा तलवार से बचावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fa4b39483378402d6989b6af92f97147696edaea31adf9fe7f45740254aa48c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/144\/9-12.1792006374125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "ऊ जे देवऽ हइ"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "छुटकारा"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "राजा सब के"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "जे बचावऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाविद"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "अपन सेवक"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:32:54.126802889Z",
+  "model": "glm-5.3"
+}

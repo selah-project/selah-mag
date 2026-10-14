@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 24:15",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש איש",
+      "rationale": "दोहरावल 'मरद मरद' — 'हर एक मरद' के बल; शाब्दिक दोहराव रखल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "मोशे के जरे यिस्राएल के बेटा सब के सीधे आदेस"
+    }
+  ],
+  "translation": "आउ यिस्राएल के बेटा सब से तूँ कहऽ हइ, कहऽ हइ: जे कोनो मरद अपन एलोहीम के गाली दतइ, ओकर पाप ऊ उठतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2a67669dd2498a209861ab6443f3a40175ed9f58b1df0152939da521fa82efb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/24\/13-16.1791990354366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "आउ से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "तूँ कहऽ हइ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "गाली दतइ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "अपन एलोहीम"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ओकर उठतइ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "पाप"
+    }
+  ],
+  "timestamp": "2026-10-14T15:05:54.367567228Z",
+  "model": "glm-5.3"
+}

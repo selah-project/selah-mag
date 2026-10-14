@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 2:1",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "निन्दिया भाग गेलइ",
+      "rationale": "נהיתה עליव 'उस पर हो गई' — 'उस पर आई' बनाम 'उससे छूट गई' (KJV\/ASV 'ब्रोक\/वेंट फ्रॉम') — literal पक्ष लिहल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "gloss-note": "",
+      "rationale": "רוח के एके रूप 'रूआख' — बतास\/साँस\/रूआख तीन अरथ एके सब्द में"
+    }
+  ],
+  "translation": "आउ नबूकदनेत्सर के राज के दू बरिस में नबूकदनेत्सर सुपना सुपना देखलन, आउ ओकर रूआख हिलने लागल आउ ओकर निन्दिया ओकरे ऊपर भाग गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "34ce5c76c3c4e70cd3243e9b95f73c28e3690bc218fe7841e30f6cc98b2d6197",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/2\/1-4.1792008759404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "आउ … बरिस में"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "राज के"
+    },
+    {
+      "surface": "נבכדנצר",
+      "gloss": "नबूकदनेत्सर"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "सुपना देखलन"
+    },
+    {
+      "surface": "נבכדנצר",
+      "gloss": "नबूकदनेत्सर"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "सुपना सुपना"
+    },
+    {
+      "surface": "ותתפעם",
+      "gloss": "आउ हिलने लागल"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ओकर रूआख"
+    },
+    {
+      "surface": "ושנתו",
+      "gloss": "आउ ओकर निन्दिया"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "भाग गेलइ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरे ऊपर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:12:39.404754889Z",
+  "model": "glm-5.3"
+}

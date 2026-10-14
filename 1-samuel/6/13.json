@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 6:13",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "आँखि उठइलन",
+      "rationale": "עיניהם נשאו — 'ओकनी आँखि उठइलन' कहावत, अक्षरश: आँखि के उठएलन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "के लोग",
+      "rationale": "希ब्रू बिना संज्ञा के क्रिया-बहुवचन कहऽ हइ; संदूक देखए वाला बेत-शेमेश के लोग हथिन।"
+    }
+  ],
+  "translation": "आउ बेत-शेमेश (बेथ-शेमेश) के लोग घाटी में गहूम के कटाई करत रहलथिन; ओकनी ⟨את⟩ आँखि उठइलन, आउ ⟨את⟩ संदूक के देखलन, आउ देखऽ के खुसी भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fa9adcabb47aa46ae65748c1e0a6e9d02cc2345ec9a1461c4de6814f204b57a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/6\/13-16.1791994931222.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "आउ बेत-शेमेश"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "बेत-शेमेश"
+    },
+    {
+      "surface": "קצרים",
+      "gloss": "कटाई करत"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "कटाई"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "गहूम के"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "घाटी में"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "उठइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आँखि"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "आँखि"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "संदूक"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "संदूक"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "खुसी भेलन"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखऽ के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:22:11.222811613Z",
+  "model": "glm-5.3"
+}

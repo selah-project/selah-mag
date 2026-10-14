@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जे",
+      "rationale": "हिब्रू के ह-participle के जोड़ बतावे बर 'जे' जोड़ल गेलइ — ई पद पिछरा पद के बरनन के चाल में हकइ"
+    }
+  ],
+  "translation": "जे अकास के बादल से ढाकऽ हइ, धरती बर बरखा तैयार करऽ हइ, पहाड़ पर घास उगावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/147\/5-8.1792006411022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "जे ढाकऽ हइ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "बादल से"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "तैयार करऽ हइ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती बर"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "बरखा"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "उगावऽ हइ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़ पर"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "घास"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:31.023596163Z",
+  "model": "glm-5.3"
+}

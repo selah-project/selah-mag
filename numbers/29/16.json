@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 29:16",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "पाप बलि",
+      "rationale": "हत्तात अपने आप में 'पाप' आउ 'पाप के बलि' दुनू होवऽ हइ; बलि के अरथ लेल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नित्य बलि के जोड़",
+      "rationale": "परब के बलि नित्य जरे बलि, ओकर मिन्हा आउ पेय बलि के अलावा होवऽ हइ।"
+    }
+  ],
+  "translation": "आउ एक बकरा के बछरू — पाप बलि बर; नित्य जरे बलि के अलावा, ओकर मिन्हा आउ ओकर पेय बलि।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7caf05065640b1824b8b630d3c1d122bce379eb6dc62d5a423443722addb795c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/29\/13-16.1791991603401.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "आउ बकरा के बछरू"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरा के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप बलि"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "के अलावा"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "जरे बलि"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "नित्य"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "ओकर मिन्हा"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "आउ ओकर पेय बलि"
+    }
+  ],
+  "timestamp": "2026-10-14T15:26:43.402690763Z",
+  "model": "glm-5.3"
+}

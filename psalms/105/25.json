@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हिरदय",
+      "rationale": "לב अरथ में हिरदय-भाव-इरादा सब समाहित हकइ; मगही 'हिरदय' इत्तर भाव नञ देखावऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "पलट देलन",
+      "rationale": "करता यहवे हकइ — ओकर ही पहिले पढ़निहार के हिरदय पलटलक, जेकरा कइयो आदमी के स्वतंत्र-इच्छा के पक्ष में पढ़ऽ हइ"
+    }
+  ],
+  "translation": "ऊ ⟨ओकर⟩ हिरदय पलट देलन कि ऊ ⟨ओकर⟩ लोग से दुसमनी करे, आउ ओकर सेवक के बिरुद्ध धोखा करे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0ce82b55faf7b5863002d5902b7e43ce75609cd8c4b992d0d5e236f06f0aa84d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/105\/25-28.1792005914107.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "पलट देलन"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ओकर हिरदय"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "दुसमनी करे बर"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर लोग"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "धोखा करे बर"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "ओकर सेवक के बिरुद्ध"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:14.108454961Z",
+  "model": "glm-5.3"
+}

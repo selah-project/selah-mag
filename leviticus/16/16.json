@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 16:16",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וכפר",
+      "rationale": "כפר के सुभाविक अरथ ढाकना हकइ — 'expiate\/atonement' परति के अरथ; मगही में 'ढाक-शुद्ध करना' दुनो के जोड़ऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "इहा אתם (עִמָּם) 'संग' बर preposition हकइ — direct-object marker את नञ; दुनो के लिखाई एक्को हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אהל מועד",
+      "rationale": "'tabernacle of congregation' चलनसार हकइ; अरथ 'मूलाकात (नियत समय) के तम्बू'।"
+    }
+  ],
+  "translation": "आउ ऊ यिस्राएल के बेटा सब के गंदगी से आउ ओकनी के सब पाप के बगावत से पवित्तर जगह के ढाक-शुद्ध करतन; आउ ओही काम ऊ मूलाकात के तम्बू बर करतइ, जे ओकनी के गंदगी के बीच में ⟨את⟩ ओकनी के संग रहऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "599dd9c9827c6af35139595dfc9803e5ec7682da8900d6118de49e069c81a5c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/16\/13-16.1791990060473.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ढाक-शुद्ध करतन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बर"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्तर जगह"
+    },
+    {
+      "surface": "מטמאת",
+      "gloss": "गंदगी से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ומפשעיהם",
+      "gloss": "आउ ओकनी के बगावत से"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "आउ ओही"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "तम्बू बर"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मूलाकात के"
+    },
+    {
+      "surface": "השכן",
+      "gloss": "रहऽ हइ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ओकनी के संग"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "טמאתם",
+      "gloss": "ओकनी के गंदगी के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:01:00.474538449Z",
+  "model": "glm-5.3"
+}

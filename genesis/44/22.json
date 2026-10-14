@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "कोन मरतइ",
+      "rationale": "\"ומת\" के करता मूलपाठ में खुलल नञ हइ — बाकी अनुवादक बाप के मरना समझऽ हथिन (बूढ़ा याकोव), कत्तू सब्द के रूप बुतरू दने भी जा सकऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזב...אביו",
+      "rationale": "\"छोड़ना-बाप\" के जोड़ी दू बेर दोहरावल गेलइ — बुतरू के बाप से जुड़ाव के बोझ आवाज में हइ।"
+    }
+  ],
+  "translation": "आउ हमनी हमर मालिक के कहलीं: ई बुतरू ⟨את⟩ अपन बाप के नञ छोड़ि सकऽ हइ; आउ जे ⟨את⟩ अपन बाप के छोड़तइ, ऊ मरि जतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5c3d7b915734945335198bfb967da9e29d2b152041fa9243dd5f30456f19980c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/44\/21-24.1791987713064.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "कहलीं"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ले"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हमर मालिक"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सकऽ हइ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ई बुतरू"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "छोड़े बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन बाप के"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "अपन बाप के"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "आउ छोड़तइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन बाप के"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "अपन बाप के"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "मरि जतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:21:53.065503158Z",
+  "model": "glm-5.3"
+}

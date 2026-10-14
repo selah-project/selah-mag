@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 1:3",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "नाम-सूची जारी",
+      "rationale": "वंश-गिनती के सूची के भाग"
+    }
+  ],
+  "translation": "इस्साखार, ज़बुलून आउ बिन्यामीन —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b38a24f04bb804665731a3d0914fac7206ba14193922a5f26e45f04c7f21c9a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/1\/1-4.1791988017063.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "इस्साखार"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ज़बुलून"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "आउ बिन्यामीन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:26:57.063930698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "एलोहीम के नज़र में",
+      "rationale": "לאלהים — 'एलोहीम के नज़र में बड़' (अत्यंत पैघ, सम्भवतः भीगोला मुहावरा) बनाम 'एलोहीम के नगर'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "तीन दिन के चाल",
+      "rationale": "מהלך שלשת ימים — नाप-बड़का मुहावरा, तीन दिन के पैदल दूरी"
+    }
+  ],
+  "translation": "आउ योना उठलन आउ यहवे के बचन के मोताबिक निनवे के लग गेलन; आउ निनवे एलोहीम के नज़र में पैघ नगर हलइ — तीन दिन के चाल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1598c608c54b2c3303f31bc4961b6b3ff43b1815d2272faab2a9adeb44f79505",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jonah\/3\/1-4.1792003685787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लग"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "निनवे"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "बचन के मोताबिक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "आउ निनवे"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "पैघ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम के नज़र में"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "चाल"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:05.788573118Z",
+  "model": "glm-5.3"
+}

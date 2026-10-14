@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "התחמס",
+      "rationale": "תחמ׸ तनाख़ में केवल इहाँ; KJV 'night hawk', JPS 'night-hawk'।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "השחף",
+      "rationale": "שחף केवल इहाँ; 'पतरा' के अरथ में — समुंदरी काँव \/ gull।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בת היענה",
+      "rationale": "इब्रानी 'शुतुरमुर्ग के बेटी' — आकार जस के तस रखलन, 'उल्लु' (KJV) नञ।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ शुतुरमुर्ग के बेटी, आउ ⟨את⟩ रात के बाज, आउ ⟨את⟩ समुंदरी काँव, आउ ⟨את⟩ बाज अपन जाति के मोताबिक,",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f5d836106688e4b60f37766d428d2e754de45d182a38bd9c71a090c89893bada",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/14\/13-16.1791992366018.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "शुतुरमुर्ग के बेटी"
+    },
+    {
+      "surface": "בת",
+      "gloss": "के बेटी"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "शुतुरमुर्ग"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "रात के बाज"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "रात के बाज"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "समुंदरी काँव"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "समुंदरी काँव"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "बाज"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "बाज"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "अपन जाति के मोताबिक"
+    }
+  ],
+  "timestamp": "2026-10-14T15:39:26.019605752Z",
+  "model": "glm-5.3"
+}

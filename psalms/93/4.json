@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אדירים…אדיר",
+      "rationale": "तुलना के बनावट — 'यहवे से बड़' बनाम 'यहवे के ऊपर बड़' — अनुवादक लोग इहे ढाँचा दू तरह से गढ़ऽ हथिन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדירים \/ אדיר",
+      "rationale": "एके जड़ के दोहराव — लहार बड़, बाकि ऊपर रहल यहवे ओकरा से बड़ — इब्रानी के मुकाबला बिना जोड़ के तनाव बनावऽ हइ।"
+    }
+  ],
+  "translation": "बहुते पानी के आवाज सब से बड़, समुंदर के बड़ उफनल लहार सब से बड़ — ऊँचाहन पर रहल यहवे सब से बड़ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/93\/1-4.1792005759742.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "आवाज सब"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "सब से बड़"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "उफनल लहार"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "सब से बड़"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "ऊँचाहन पर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:39.743598309Z",
+  "model": "glm-5.3"
+}

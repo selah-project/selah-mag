@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתרם",
+      "rationale": "'excellency' (KJV) बनाम 'tent-cord' (ASV\/JPS) — दूनो अरथ जड़ יתר से; एहीं डेरा के रस्सी लेल गेल"
+    },
+    {
+      "kind": "alternative",
+      "subject": "यश के बात",
+      "rationale": "यतरम के 'शेष\/बड़प्पन' पढ़ले पर: का ओकनी के बड़प्पन ओकरा संग नञ गेल मोरऽ हइ"
+    }
+  ],
+  "translation": "का ओकनी के डेरा के रस्सी ओकरा में से नञ उखड़ल गेल मोरऽ हइ? ओकनी मरऽ हइ, आउ समझदारी में नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "98c66a954ce7359a7b3be65c0b13aa5cd5d830fe48a913901c53f679bd8fd1cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/4\/21-21.1792007059328.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "का...नञ"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "उखड़ल गेल"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "डेरा के रस्सी"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "मरऽ हइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "समझदारी में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:44:19.329084092Z",
+  "model": "glm-5.3"
+}

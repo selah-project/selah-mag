@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ऊ सब⟩",
+      "rationale": "इब्रानी के क्रिया-रूप में छिपल करता सर्बनाम, मगही में साफ करे बर जोड़ल"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויבשו",
+      "rationale": "एके जड़ दू अरथ: 'सूख जाना' या 'लजा जाना' — संदर्भ पानी के हकइ एहे से 'सूख'"
+    }
+  ],
+  "translation": "देखऽ, ऊ पानी रोकऽ हइ आउ ⟨ऊ सब⟩ सूख जातइ; ऊ ओकरा छोड़ देतइ आउ धरती ओकनी के पलट देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1918f7a0cb6ae538439044e5127df1d65cb5d5dd8a2d0fea7d6a6edd0ed57fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/12\/13-16.1792007303266.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "रोकऽ हइ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "आउ सूख जातइ"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "आउ ओकरा छोड़ देतइ"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "आउ पलट देतइ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T19:48:23.267227178Z",
+  "model": "glm-5.3"
+}

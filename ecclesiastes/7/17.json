@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלא עתך",
+      "rationale": "'बिना अपन समय के' — KJV\/ASV\/JPS 'before thy time'; YLT पठन 'within thy time' ओ गवाही में हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "दू निषेध-आदेस (मत कर \/ मत बन) कोनहोँ पढ़निहार के सीधे सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "तूँ बेसी अधरम मत कर, आउ तूँ मूरख मत बन; काहे कि तूँ बिना अपन समय के मर जाबइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/7\/17-20.1792008466815.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "अधरम कर"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बेसी"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "बन"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "मर जाबइ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "अपन समय"
+    }
+  ],
+  "timestamp": "2026-10-14T20:07:46.816235306Z",
+  "model": "glm-5.3"
+}

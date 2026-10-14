@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וזרקת",
+      "rationale": "'छिड़कबह' बनाम JPS के 'dash' — जराप-बलि के खून फेंकल\/छिड़कल दुनों किसिम कहल जा हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "मोशे के आदेश",
+      "rationale": "तीनो क्रिया मोशे के तूँ-रूप के हुक्म।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ मेढ़ा के बध करबह, आउ ⟨את⟩ ओकर खून लेबह आउ बेदी पर चारो दने छिड़कबह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9add2af65bcddda5ee8f68e7d4941529b4651a20b0d414dc91cbbd2063f100f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/29\/13-16.1791989008861.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "आउ बध करबह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेढ़ा"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "आउ लेबह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर खून"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ओकर खून"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "आउ छिड़कबह"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    }
+  ],
+  "timestamp": "2026-10-14T14:43:28.862739012Z",
+  "model": "glm-5.3"
+}

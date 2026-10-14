@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "नगर के डहर जाए लागे",
+      "rationale": "मूर्ख साधारण रस्ता भी नञ जानऽ हइ — मुहावरा हकइ या सचमुच के बात, विद्वान् सब बाँटल हथिन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मूर्खन",
+      "rationale": "הכסילים बहुबचन हकइ; मगही में सम्मान-बहुबचन रखल गेलइ"
+    }
+  ],
+  "translation": "मूर्खन के मेहनत ओकनी के थका देतइ, काहे कि ऊ नञ जानऽ हइ कइसे नगर के डहर जाए लागे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a7bef985286695657c9a47bf990373100c1b6cd74c5cd2aa10812e10914e0dea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/10\/13-16.1792008431949.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "मेहनत"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "मूर्खन के"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "ओकनी के थका देतइ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानऽ हइ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "जाए लागे कइसे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के डहर"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:07:11.950657564Z",
+  "model": "glm-5.3"
+}

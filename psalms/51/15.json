@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "लोग",
+      "rationale": "इब्रानी बहुबचन ⟨लोग⟩ बिना धरल जा सकऽ हइ; मगही में संग्रह-चिन्हा जोड़ल गेलन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שׁוב",
+      "rationale": "पद 14 के השיבה (फेर दे) आउ इहाँ यשובु (लवटबथिन) — एके जड़, वापसी के सुतार।"
+    }
+  ],
+  "translation": "हम अपराधी लोग के तोहर रस्ता सिखाबइ, आउ पापी लोग तोहरा ले लवटबथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/51\/13-16.1792005158030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "हम ... सिखाबइ"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "अपराधी लोग के"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "तोहर रस्ता"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "आउ पापी लोग"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा ले"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "लवटबथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:38.031627884Z",
+  "model": "glm-5.3"
+}

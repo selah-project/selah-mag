@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "העם \/ עם",
+      "rationale": "पहिला 'परजा' पर संकेत-चिन्हा हइ, दोसरा पर नञ — एके सब्द दू बेर, पहिला निश्चित दूसरा अनिश्चित।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמח \/ יאנח",
+      "rationale": "खुसी आउ आह — दुनू धड़कन-वाला क्रिया के समानान्तर जोड़ी, संगीतात्मक विरोध।"
+    }
+  ],
+  "translation": "जब त्सेदेक वाला लोग बढ़ऽ हथिन तब परजा खुस होवऽ हइ; बाकि जब दुष्ट राज करऽ हइ तब परजा आह भरऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2b8336082e41c1b0d1af0495e2a2ea5050121a3e7d3fea4beab8ffad2195df0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/29\/1-4.1792007012644.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "जब ... बढ़ऽ हथिन"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "त्सेदेक वाला लोग"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "खुस होवऽ हइ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजा"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "बाकि जब ... राज करऽ हइ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "आह भरऽ हइ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "परजा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:32.645544460Z",
+  "model": "glm-5.3"
+}

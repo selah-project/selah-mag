@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעשות",
+      "rationale": "'जे एलोहीम सिरजे बर कइलक' बनाम 'जे एलोहीम सिरजलक आउ बनइलक' — इब्रानी के अन्तिम शब्द के जोड़ा मुश्किल हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת",
+      "rationale": "छूटले के किरिया के जड़ एहे हकइ जेकर से शब्बात नाम बनल हकइ"
+    }
+  ],
+  "translation": "आउ एलोहीम ⟨את⟩ सातवाँ दिन के असीस देलन आउ ओकरा पवित्तर कइलन, काहे कि ओही में ऊ ओकर सब काम से छूटलन जे एलोहीम सिरजलन रहन ⟨करे बदले⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/2\/1-4.1791986303641.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "असीस देलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सातवाँ दिन"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवाँ"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "पवित्तर कइलन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (सातवाँ दिन के)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओही में"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "छूटलन"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब काम से"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "ओकर काम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "सिरजलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨करे बदले⟩"
+    }
+  ],
+  "timestamp": "2026-10-14T13:58:23.642921485Z",
+  "model": "glm-5.3"
+}

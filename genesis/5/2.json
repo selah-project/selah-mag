@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "सिरजल गेलन",
+      "rationale": "हिफिल हबर्तमान कर्म-कर्ता रूप हकइ; मगही में कर्म-वाच्य लेल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "नाम आदम",
+      "rationale": "एक नाम दुनो बर — 'आदम' नाम नञ त 'मनुस-जाति' साझा नाम"
+    }
+  ],
+  "translation": "मरद आउ जनाना — ओकनी के सिरजलन, आउ ओकनी के असीस देलन, आउ ओकनी के नाम ⟨את⟩ आदम कहलन, जेदिन ओकनी सिरजल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "15f53f05ed9dc5c8e575f47e8c45e4cc2dae8a8e6b6ae293393699da45f61565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/5\/1-4.1791986320426.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "आउ जनाना"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "सिरजलन"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "असीस देलन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के नाम"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदम"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "जेदिन"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "सिरजल गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T13:58:40.427442359Z",
+  "model": "glm-5.3"
+}

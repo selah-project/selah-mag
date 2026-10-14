@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "अंगूरी मद के घर",
+      "rationale": "בית היין: 'house of wine' के शाब्दिक अरथ बनाम 'banqueting house' (KJV\/JPS) — literal रखल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ודגלו",
+      "rationale": "דגל क्रिया हकइ: 'उ परेम के झंडा फहरा देलन' बनाम 'झंडा ऊपर हकइ' — क्रिया के नाम-रूप दूनो चलऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के बाक्य बर जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "ऊ हमनी के अंगूरी मद के घर में लानलन, आउ ओकर झंडा हमरा ऊपर ⟨हकइ⟩ परेम के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/2\/1-4.1792007965487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "हमनी के लानलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "היין",
+      "gloss": "अंगूरी मद के"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "आउ ओकर झंडा"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ऊपर"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "परेम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:59:25.488489155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יחיל",
+      "rationale": "חול के जड़ — घूमना\/मरोड़ना; हिरदय 'पीड़ित' नञ, 'घुमरावत' हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "के",
+      "rationale": "सम्बन्ध-चिन्हा मगही चाहऽ हइ, इब्रानी सम्बन्धी-रूप में जोड़ल रहऽ हइ।"
+    }
+  ],
+  "translation": "हमरा हिरदय भीतरे घुमरावऽ हइ, आउ मौत के दहसत हमरा ऊपर गिरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/55\/5-8.1792005147755.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "हमरा हिरदय"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "घुमरावऽ हइ"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "भीतरे"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "आउ दहसत"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत के"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "गिरलन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ऊपर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:27.756119953Z",
+  "model": "glm-5.3"
+}

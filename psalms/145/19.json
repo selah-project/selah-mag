@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आउ",
+      "rationale": "वाव-योजक अंतिम क्रिया में आगे बहत हइ, क्रिया-दंडी में फेर से जोड़ल गेलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רצון",
+      "rationale": "'इच्छा\/पसंद के वस्तु' — 'इच्छा पूरी करना' बनाम 'इच्छित काम करना' दू पढ़निहार चलनसार हकइ"
+    }
+  ],
+  "translation": "जे ऊ के डरथिन ओकनी के खुसी के काम करतइ, आउ ⟨את⟩ ओकनी के पुकार सुनतइ आउ ओकनी के छुड़ा देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/145\/17-20.1792006387613.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "खुसी के काम"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "जे ऊ के डरथिन"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के पुकार"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ओकनी के पुकार"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनतइ"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "आउ ओकनी के छुड़ा देतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:07.614104347Z",
+  "model": "glm-5.3"
+}

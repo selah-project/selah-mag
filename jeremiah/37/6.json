@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "कथा-जोड़ के किरिया, मगही में 'आउ होलन' छोटकर अरथ बहैत हकइ"
+    }
+  ],
+  "translation": "आउ यहवे के बचन नबी यिर्मेयाहू के दने अइलन, कहैत —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2f7b31a09fd8b400ed6a68ae6ca127a2e7f6dc87d28e45734f4b19d3ed30a71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/37\/5-8.1792001169031.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होलन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहैत"
+    }
+  ],
+  "timestamp": "2026-10-14T18:06:09.032742602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सात सय \/ तीन सय",
+      "rationale": "जनाना आउ रखैन के गिनती — संख्या जस के तस।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שרות",
+      "rationale": "शाब्दिक 'रईस\/नवाब जनाना' — 'रानी दरजा के' लेल गेल।"
+    }
+  ],
+  "translation": "आउ ओकरा जनाना भेलन — रानी दरजा के सात सय, आउ रखैन तीन सय; आउ ओकर जनाना सब ओकर हिरदय के ⟨את⟩ घुमा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b241f353cc1a0426e58394d62b0e8045655584f8d89797b259e33eb2d05c323d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/11\/1-4.1791997268921.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "रानी दरजा के"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "आउ रखैन"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "घुमा देलन"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ओकर जनाना सब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर हिरदय"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर हिरदय"
+    }
+  ],
+  "timestamp": "2026-10-14T17:01:08.923012100Z",
+  "model": "glm-5.3"
+}

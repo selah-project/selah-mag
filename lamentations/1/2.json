@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 1:2",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בכו תבכה",
+      "rationale": "हिब्रू के परितक्रम-अनन्ताशीष ‘रोवऽ-रोवऽ’ से पार कइल गेलन — बेहद तीखा रोना।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "तसल्ली देवै वाला",
+      "rationale": "मनचम ध्वनि-आधारित रूप; हिब्रू के साफ साँस-सिसकी के चित्र हकइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "बेवफा भ गेलन",
+      "rationale": "बगदू के बर दूसर पढ़ाई — छल-कपट कइलन बनाम सादे तौर पर बेवफाई कइलन।"
+    }
+  ],
+  "translation": "रोवऽ-रोवऽ रात भर रोवऽ हे, आउ ओकर आँसू ओकर गाल पर; सब परेमी में ओकरा कोनो तसल्ली देवै वाला नञ हइ — सब संगी ओकरा धोखा देलन, ओकनी ओकर दुसमन भ गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/1\/1-4.1792008184997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכו",
+      "gloss": "रोवऽ-रोवऽ"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "रोवऽ हे"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात भर"
+    },
+    {
+      "surface": "ודמעתה",
+      "gloss": "आउ ओकर आँसू"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לחי׹",
+      "gloss": "ओकर गाल"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "तसल्ली देवै वाला"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब … में"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "परेमी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "רעיה",
+      "gloss": "संगी"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "धोखा देलन"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "היו",
+      "gloss": "भ गेलन"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לאיבים",
+      "gloss": "दुसमन के रूप में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:03:04.998458554Z",
+  "model": "glm-5.3"
+}

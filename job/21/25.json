@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש घाँटी\/परान-बल हकइ, “आत्मा” नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "भलाई के चखलक नञ",
+      "rationale": "בטובה: “सुख के संग नञ खइलक” बनाम “भलाई के स्वाद नञ लेलक” — दुनू पढ़ाही चलऽ हइ"
+    }
+  ],
+  "translation": "आउ ई कड़वा परान लेके मरऽ हइ, आउ भलाई के चखलक नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "286d68257cc6d09c800b35b1906d137cc01f2b131505ae6ece66a117b4bcef70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/21\/25-28.1792007519178.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "आउ ई"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरऽ हइ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "परान लेके"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "कड़वा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ ... नञ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "चखलक"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "भलाई के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:51:59.179236248Z",
+  "model": "glm-5.3"
+}

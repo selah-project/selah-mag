@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "इब्रानी के करता बिना हइ; जनम देवइ वाली के बर सर्बनाम जोड़ल गेलन"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותהר",
+      "rationale": "शाब्दिक 'गर्भ धारण केलन'; KJV\/ASV 'जनम देलन' पढ़ऽ हइ, BSB मरियाम के एही जनाना के बेटी मानऽ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "वंसावली",
+      "rationale": "नाम के सूची — परिवार के गिनती"
+    }
+  ],
+  "translation": "आउ एजराह के बेटा लोग ⟨हलन⟩ — येतेर, मेरेद, एफेर आउ यालोन; ऊ ⟨את⟩ मरियाम, ⟨את⟩ सम्माय आउ ⟨את⟩ यिश्बाख — एस्तेमोआ के बाप — के जनम देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bf9ec42565c2bca2dc01a8495ff0520ed3cc10058d8e7b839bbb2c52757ed2a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/4\/17-20.1792009979527.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "के बेटा लोग"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "एजराह"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "येतेर"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "मेरेद"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "एफेर"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "यालोन"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मरियाम"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "मरियाम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सम्माय"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "सम्माय"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "यिश्बाख"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "यिश्बाख"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "के बाप"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "एस्तेमोआ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:32:59.527994668Z",
+  "model": "glm-5.3"
+}

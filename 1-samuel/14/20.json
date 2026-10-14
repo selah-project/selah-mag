@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויזעק",
+      "rationale": "जड़ ל़ाअक ‘चीखना\/पुकारना’ हकइ — केजेवी ‘जुटलन’ पढ़ऽ हइ (जड़ זעק के अरथ बदल के); मगही रूप शाब्दिक चीख रखलक हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨पर⟩",
+      "rationale": "इब्रानी के ב (‘में\/संग’) बिना कारक-चिन्हा के छोड़ल नञ जा सकऽ हकइ — मगही के ‘पर’ जोड़ल गेलन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהומה גדולה מאד",
+      "rationale": "तीन-स्तर के बढ़त — ‘घमासान, बड़, बेहद’ — इब्रानी के लय जस के तस रखल गेलन।"
+    }
+  ],
+  "translation": "आउ शाऊल आउ ⟨את⟩ ओकरा संग के सारा लोग चीखलन, आउ लड़ाई ले अइलन; आउ देखऽ — हर मरद के तलवार ओकर संगी ⟨पर⟩ हलइ, बेहद बड़ घमासान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/14\/17-20.1791995257831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "चीखलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सारा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकरा संग",
+      "marks": "सारा लोग — जे ओकरा संग हलन"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आउ अइलन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "लड़ाई"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर मरद के"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ओकर संगी पर"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "घमासान"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बेहद"
+    }
+  ],
+  "timestamp": "2026-10-14T16:27:37.832596807Z",
+  "model": "glm-5.3"
+}

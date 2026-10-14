@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मूड़ी",
+      "rationale": "ראשים 'सिर' हकइ — नदी के चार सोत\/धारा के बिंब; मगही में 'मूड़ी' ओहे आकार रखऽ हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चार मूड़ी",
+      "rationale": "नदी के बँटाव के गिनती — चार।"
+    }
+  ],
+  "translation": "आउ एगो नदी एदेन से निकललइ बगइचा के सींचे बर ⟨את⟩; आउ ओहीं से ऊ बँटलइ आउ चार मूड़ी बनलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b4cd62958375c9359b944679d157bf42a17e537c70d4a3e3bc7e8a8a53562873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/2\/9-12.1791986210280.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "आउ एगो नदी"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकललइ"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "एदेन से"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "सींचे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बगइचा"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "बगइचा"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "आउ ओहीं से"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "बँटलइ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "बनलइ"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "मूड़ी"
+    }
+  ],
+  "timestamp": "2026-10-14T13:56:50.280939275Z",
+  "model": "glm-5.3"
+}

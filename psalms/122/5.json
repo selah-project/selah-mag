@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी में क्रिया 'बैठल' के रूप बर आदर-चिन्हा; मगही के क्रिया-रूप जोड़ल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כסאות … כסאות",
+      "rationale": "'गद्दी सब' के दोहराव बनावट के बल हकइ, मगही में बरकरार"
+    }
+  ],
+  "translation": "काहे कि ओहाँ नियाव बर गद्दी सब बैठल हथिन, गद्दी सब दाविद के घर के बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/122\/5-8.1792006216811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओहाँ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बैठल हथिन"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "गद्दी सब"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "नियाव बर"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "गद्दी सब"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "के घर के बर"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:16.812049098Z",
+  "model": "glm-5.3"
+}

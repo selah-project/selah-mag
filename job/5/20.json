@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨बचाबइ⟩",
+      "rationale": "दोसरा खंड में किरिया हिब्रू में नञ हइ; मगही के बाक्य बर जोड़ल गेलइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "मिडी खेरेब",
+      "rationale": "'तलवार के हाथ' — तलवार के ताकत\/जोर बूझऽ हइ, साक्षात हाथ नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "अय्यूब",
+      "rationale": "पद तोहनी के सम्बोधित।"
+    }
+  ],
+  "translation": "अकाल में ऊ तोहनी मौत से छुड़ाबइ, आउ लड़ाई में तलवार के हाथ से ⟨बचाबइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "427affed229b5bac39a9b491848528afae2021d0c6c465fa74b26aefc45bdc9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/5\/17-20.1792007238115.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "अकाल में"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "छुड़ाबइ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "मौत से"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "आउ लड़ाई में"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:18.116285235Z",
+  "model": "glm-5.3"
+}

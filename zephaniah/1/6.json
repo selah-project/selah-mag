@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "मאחרי יהוה",
+      "rationale": "'यहवे के पाछे-पाछे' इब्रानी के चाल हकइ — अनुगमन\/सेवा के बात, जगह के नञ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקשו \/ דרשהו",
+      "rationale": "खोजना आउ पूछना के जोड़ — दुनो उपासना-किरिया हकइ, बिपरीत जोड़ में।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ ओकनी जे यहवे के पाछे से पाछुटऽ हथिन, आउ जे यहवे के ⟨את⟩ नञ खोजलन, आउ ओकरा नञ पूछलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1eb731c5e0f0e9912241346514f8cff2b9092818e7dd1f891c3361c51a6bea84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zephaniah\/1\/5-8.1792004034693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी जे पाछुटऽ हथिन"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "ओकनी जे पाछुटऽ हथिन"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "के पाछे से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "खोजलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "पूछलन ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:53:54.693839567Z",
+  "model": "glm-5.3"
+}

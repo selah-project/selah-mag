@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 3:8",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "छोड़ देलन",
+      "rationale": "ויעזבו शाब्दिक 'छोड़लन' — किछु अनुवादक 'मरमत कइलन' पढ़ैथन; इब्रानी के क्रिया जस के तस रखल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सुनार",
+      "rationale": "צורפים शाब्दिक 'गलाने वाला (धातु)' — मगही के चलनसार सब्द 'सुनार' लेल गेल।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "जादे चौड़ दीवार ले",
+      "rationale": "दीवार के खण्ड के सीमा गिनल गेल — मरमत-सूची के नाप।"
+    }
+  ],
+  "translation": "ओकर हाथ पर मजबूत कइलन उज्जिएल, खर्हयाह के बेटा, सुनार ⟨के लोग में⟩; आउ ओकर हाथ पर मजबूत कइलन खनन्याह, अतर बनावे वाला के बेटा; आउ ओकनी यरूशलयिम (यरूशलेम) के छोड़ देलन जादे चौड़ दीवार ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "217cefa16862cfc74f140a9b4521dbf164465f026c6c4f7ccbbaef9b1283f894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/3\/5-8.1792009551504.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "के हाथ पर"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "मजबूत कइलन"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "उज्जिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חרהיה",
+      "gloss": "खर्हयाह"
+    },
+    {
+      "surface": "צוװפים",
+      "gloss": "सुनार"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ ... के हाथ पर"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "मजबूत कइलन"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "खनन्याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "הרקחים",
+      "gloss": "अतर बनावे वाला"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "आउ छोड़ देलन"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम (यरूशलेम)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "הרחבה",
+      "gloss": "जादे चौड़"
+    }
+  ],
+  "timestamp": "2026-10-14T20:25:51.505816520Z",
+  "model": "glm-5.3"
+}

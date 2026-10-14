@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 42:9",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही वाक्य बर कोपुला जोड़ल गेलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "मन्दिर के नाप",
+      "rationale": "यहेजकेल के मन्दिर-दरसन के नाप-तुला बिवरन हकइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "המבוא",
+      "rationale": "एही सब्द में 'दुआरी' आउ 'पुरुब' दूनो अरथ रहऽ हइ; 'पुरुब' अलग टोकन מहाकदीम से अइलइ हे"
+    }
+  ],
+  "translation": "आउ एहन कोठरी सब के नीचे पुरुब दने दुआरी ⟨हलइ⟩ — ओकनी में अइला पर बाहरी अँगना से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5777e8551d22f600cc5b2629594a64f84dbbd8935ee4c52bcf01828cf0b1d571",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/42\/9-12.1792002892547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומתחתה",
+      "gloss": "आउ नीचे"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "कोठरी सब के"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "המבוא",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "מהקדים",
+      "gloss": "पुरुब दने"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "अइला पर"
+    },
+    {
+      "surface": "להנה",
+      "gloss": "ओकनी में"
+    },
+    {
+      "surface": "מהחצר",
+      "gloss": "अँगना से"
+    },
+    {
+      "surface": "החצנה",
+      "gloss": "बाहरी"
+    }
+  ],
+  "timestamp": "2026-10-14T18:34:52.548005181Z",
+  "model": "glm-5.3"
+}

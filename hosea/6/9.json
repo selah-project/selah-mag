@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 6:9",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרך ירצחו שכמה",
+      "rationale": "'रस्ता में श्केम के दने हत्या' — KJV 'on the way by consent' (דרך के मुहावरा अरथ 'मिल-बन के') बनाम YLT\/JPS 'way to Shechem'।"
+    },
+    {
+      "kind": "crux",
+      "subject": "זמה",
+      "rationale": "'बुराही के काम' — शब्द के अरथ बुराही के योजना; KJV 'lewdness' बनाम 'wickedness\/mischief'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ ... חבר כהנים",
+      "rationale": "एकमात्र आदमी बर घात, आउ पुरोहित के पूरा गुट — एकल बनाम संगठित हिंसा के विरोध, मगही में ढाँचा बचलइ हे।"
+    }
+  ],
+  "translation": "आउ जइसन लुटेरा के गुट आदमी बर घात लगावऽ हइ, तइसन ही पुरोहित के गुट रस्ता में श्केम (शेक्म) के दने हत्या करऽ हइ — काहे कि बुराही के काम कइलन हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4c212fba03380a400af8e336dee8efce17cec33a4ad7e25fdf71794ce997d413",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/6\/9-11.1792003185320.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכחכי",
+      "gloss": "जइसन घात लगावऽ हइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी बर"
+    },
+    {
+      "surface": "גדודים",
+      "gloss": "लुटेरा के गुट"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "गुट"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "पुरोहित के"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता में"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "हत्या करऽ हइ"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "श्केम के दने"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "बुराही के काम"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "कइलन हे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:39:45.320837470Z",
+  "model": "glm-5.3"
+}

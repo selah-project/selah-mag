@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 9:13",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "मोशे के मुँह से फरौन से सीधा सम्बोधन — यहवे के बचन ओकरा दुआरी पर पहुँचऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלח\/יעבדני",
+      "rationale": "छोड़ऽ आउ सेवा करऽ के जोड़ी — छोड़ के उद्देस्ये सेवा हइ, दुनो क्रिया एके बाक्य में बाँधल हइ।"
+    }
+  ],
+  "translation": "यहवे मोशे से कहलन — बिहाने बिहाने उठि के फरौन के सामने ठाढ़ होऽ, आउ ओकरा कहऽ: एना कहलन यहवे, हेब्रियों के एलोहीम — मोर ⟨את⟩ लोग के छेड़ि दे, जे ओकनी मोर सेवा करथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c415027e0b7c37f18d6118a581063d4f1209b3383bd695b38e4ccf74204f6cd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/9\/13-16.1791988283214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "बिहाने बिहाने उठि के"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहान"
+    },
+    {
+      "surface": "והתיצב",
+      "gloss": "ठाढ़ होऽ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौन"
+    },
+    {
+      "surface": "ויאמרת",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "हेब्रियों के"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "छेड़ि दे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "मोर लोग"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ओकनी मोर सेवा करथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:31:23.215182244Z",
+  "model": "glm-5.3"
+}

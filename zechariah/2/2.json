@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זרו",
+      "rationale": "जड़ खर (छीटना\/बिखेरना) एही पद में आउ 4 पद मेन लौटऽ हइ — सिंग जे छितरावले ओही जड़ से ओकरा उलटा कइल जइतन।"
+    }
+  ],
+  "translation": "आउ हम ओ दूत से कहलियन जे हमरा बोलऽ हलथिन — ई का हथिन? ऊ हमरा कहलन — ई ऊ सिंग हथिन जे ⟨את⟩ यहूदा, ⟨את⟩ यिस्राएल आउ यरूशलयिम के छितराए देलन हलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "87127273f0aad37dc18402250ecd967bed47e5bb104bb664187d7f6f2bfe4e81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/2\/1-4.1792004163143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आउ हम कहलियन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ओ दूत"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बोलऽ हलथिन"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ऊ कहलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "ऊ सिंग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "छितराए देलन हलथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहूदा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "आउ यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-10-14T18:56:03.144292957Z",
+  "model": "glm-5.3"
+}

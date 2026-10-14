@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפסים",
+      "rationale": "'चित्रावली' बनाम 'बड़ चौड़' बनाम 'लम्बा बाँह के' — पालिताव्य हकइ; मगही में चित्रावली लेल गेल"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "'हमर बिनती' जइसन नरमी के सब्द; मगही में 'तूँ' बनावट में घुल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "अपन बाप के पास",
+      "rationale": "भायन अपन बाप याकोव से सीधा बोलऽ हइ"
+    }
+  ],
+  "translation": "आउ ओनी चित्रावली कुरता भेजलन आउ अपन बाप के पास ले आएलन आउ कहलन — “ई हमनी के मिलल हइ; तूँ पहचानऽ कि तोहर बेटा के कुरता हइ कि नञ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "692fc290941d03bb23df236d8ec60075afe942876746287f4a2ad1221c28fab8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/37\/29-32.1791987498799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चित्रावली कुरता"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "कुरता"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "चित्रावली"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ले आएलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "अपन बाप"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "हमनी के मिलल हइ"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "पहचानऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "कुरता"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "तोहर बेटा के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हइ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:18:18.801425739Z",
+  "model": "glm-5.3"
+}

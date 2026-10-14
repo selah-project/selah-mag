@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 10:14",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलक",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के वाक्य बनावे बर जोड़ल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सेना के सूची",
+      "rationale": "डेरा-दल के चाल क्रम आउ सेनापति के नाम गिनावल जा रहलइ"
+    }
+  ],
+  "translation": "आउ यहूदा के बेटा सब के डेरा-दल के झंडा ओकर सेना के मोताबिक पहिला चललक, आउ ओकर सेना पर नचशोन (नाखशोन) बेटा अम्मीनादाब हलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b98a625e121261270c9b90ff8d78a19bf62e4eb00fc94fbafe264a21515a8c97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/10\/13-16.1791990862995.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "चललक"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "झंडा"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "डेरा-दल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ओकर सेना के मोताबिक"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ पर"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ओकर सेना"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "नचशोन (नाखशोन)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "अम्मीनादाब"
+    }
+  ],
+  "timestamp": "2026-10-14T15:14:22.996068349Z",
+  "model": "glm-5.3"
+}

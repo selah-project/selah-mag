@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमनी",
+      "rationale": "इब्रानी पद में करता-सर्बनाम अकेले हकइ; मगही बनावट बर जोड़ल।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पुरुब आउ पछुँह",
+      "rationale": "पूरा धरती के दुनों छोर के गिनती — सुरुज उगल से डूबल तक, कोनो जाति बाकी नञ।"
+    }
+  ],
+  "translation": "एकरा बर कि पुरुब से, जहाँ सुरुज उगऽ हे, आउ पछुँह तक सब जानथिन जे हमरे बिना कुछो नञ — हम यहवे हमनी, आउ दोसर कोनो नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a2319d47bf10e5600081d6627eb87009091f23f577112c5d2b1cfb5b64ecdd40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/45\/5-8.1791999644363.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "एकरा बर"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "जानथिन"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "पुरुब से"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सुरुज (के उगल)"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "आउ पछुँह तक"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "कुछो नञ"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "हमरे बिना"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "दोसर कोनो"
+    }
+  ],
+  "timestamp": "2026-10-14T17:40:44.364559029Z",
+  "model": "glm-5.3"
+}

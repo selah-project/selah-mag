@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 38:27",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "आधार के गिनती",
+      "rationale": "सौ आधार = सौ किक्कर, एक-एक किक्कर हर आधार — गिनती के दुहराव।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ככר\/אדן",
+      "rationale": "सौ-बर-सौ के दुहराव इब्रानी के तुल्यान्तर हकइ; मगही में संख्या-संरचना राखल गेल।"
+    }
+  ],
+  "translation": "आउ सौ किक्कर चानी ढलाई बर होलन — ⟨את⟩ पवित्तर के आधार आउ ⟨ואת⟩ परदे के आधार बर; सौ आधार सौ किक्कर बर, हर आधार बर एक किक्कर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "72142e2c512027b19cb84e1c8f31c09de88e3e9e3d206baab9789faea5f974e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/38\/25-28.1791989345744.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होलन"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "किक्कर"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "चानी के"
+    },
+    {
+      "surface": "לצקת",
+      "gloss": "ढलाई बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पवित्तर के आधार"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "आधार"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्तर के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "परदे के आधार"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "आधार"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "परदे के"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "आधार"
+    },
+    {
+      "surface": "למאת",
+      "gloss": "सौ किक्कर बर"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "किक्कर"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "किक्कर"
+    },
+    {
+      "surface": "לאדן",
+      "gloss": "आधार बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:49:05.745677769Z",
+  "model": "glm-5.3"
+}

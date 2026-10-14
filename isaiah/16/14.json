@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 16:14",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאमר",
+      "rationale": "'कहऽ कि' क्रिया-विशेषण के कोनो साफ मगही रूप नञ — अर्धविराम से उद्धरण शुरू होलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "लोग",
+      "rationale": "'बचल' संज्ञा बनावे बर मगही में संबोधन-सब्द जोड़ल गेलइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "मजदूर के बरिस जइसन",
+      "rationale": "तय समय के गिनती — मजदूर के बरिस पूरा गिनल जा हइ; निश्चित मयाद के बात"
+    },
+    {
+      "kind": "measurement",
+      "subject": "तीन बरिस",
+      "rationale": "बरिस के गिनती से मयाद तय होवऽ हइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "वनिकलה",
+      "rationale": "'हल्का हो जइतइ' बनाम 'तुच्छ मानल जइतइ' — जड़ के सुभाविक अरथ 'हल्का' हकइ"
+    }
+  ],
+  "translation": "आउ अब यहवे कहलन — तीन ⟨में⟩ बरिस, मजदूर के बरिस जइसन, मोआब के महिमा सब घना भीड़ के संग हल्का हो जइतइ; आउ बचल ⟨लोग⟩ बड़ी थोर, छोटहा, ताकतवार नञ होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "870e4684410408948a75e637a5e4ec954c3d01dac2ff35f6377cb2f23a8bf700",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/16\/13-14.1791998872987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "जइसन बरिस"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "मजदूर के"
+    },
+    {
+      "surface": "ונקלה",
+      "gloss": "हल्का हो जइतइ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "के संग सब"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "भीड़"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "घना"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "आउ बचल"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "बड़ी थोर"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "छोटहा"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "ताकतवार"
+    }
+  ],
+  "timestamp": "2026-10-14T17:27:52.988199181Z",
+  "model": "glm-5.3"
+}

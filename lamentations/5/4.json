@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יבאו",
+      "rationale": "'Our wood comes for a price' — Hebrew 'comes' rendered as 'comes at a price'; KJV reads 'is sold unto us'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בכסף",
+      "rationale": "כסף literally 'silver', rendered as 'money\/payment' here."
+    }
+  ],
+  "translation": "हमर पानी चानी देके पीलिऐनि, हमर लकड़ी दाम देके आवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e29e6d0fa4219d79e0b7e7a8123e85c32b15763f1b200b118a7ca81a55a30274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/5\/1-4.1792008327269.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "हमर पानी"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "चानी देके"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "पीलिऐनि"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "हमर लकड़ी"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "दाम देके"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "आवऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:27.270266228Z",
+  "model": "glm-5.3"
+}

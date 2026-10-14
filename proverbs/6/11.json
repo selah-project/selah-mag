@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "जइसन यात्री",
+      "rationale": "किमहलेच — आवऽ-जावऽ वाला; गरीबी अचानक आ जाए वाली जइसन ओहू तेज अइतइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "मगन",
+      "rationale": "עיש מגן: ढाल धरनिहार (हथियार ल मरद) बनाम किछु 'लुटेरा' पढ़निहार — हमनी ढाल के आकार रखलिए"
+    }
+  ],
+  "translation": "आउ तोहर गरीबी अइतइ जइसन यात्री, आउ तोहर कमी जइसन ढाल धरनिहार मरद।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "532396e5db5b86b07b5ff7bba1564058f28ec2ef4836b75cf3c5851434f7d978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/6\/9-12.1792006537068.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "आउ अइतइ"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "जइसन यात्री"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "तोहर गरीबी"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "आउ तोहर कमी"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "जइसन मरद"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ढाल धरनिहार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:37.068977171Z",
+  "model": "glm-5.3"
+}

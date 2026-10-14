@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to you",
+      "rationale": "Direct address to God throughout the psalm."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנוש\/אדם",
+      "rationale": "Two words for mortal man paired in parallel, both singular-of-kind; Magahi keeps both मनुस and आदमी."
+    },
+    {
+      "kind": "crux",
+      "subject": "תפקדנו",
+      "rationale": "פקד ranges from 'visit\/care for' to 'muster\/number'; rendered देखब-भाल (attend to)."
+    }
+  ],
+  "translation": "मनुस का हकइ जे तोहनी ओकरा याद करऽ हथिन? आउ आदमी के बेटा, जे तोहनी ओकरा देखब-भाल करऽ हथिन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "268bfcd211b5d4c36c7f6e12facb2d85493245ab393c1b5c4a8577bb5f61ff54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/8\/5-8.1792004503192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "का हकइ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "याद करऽ हथिन"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "आउ बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "देखब-भाल करऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:01:43.192825400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 35:13",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "पसह",
+      "glossary": "",
+      "rationale": "פסח सिरजल नाम हकइ, अनुवाद नञ कइल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "थारी",
+      "rationale": "צלחות — फैलल थारी-नियन बर्तन।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "व्यंजन-सूची",
+      "rationale": "बर्तन के गिनती — तीन किसिम के बर्तन गिनाओल गेल हे।"
+    }
+  ],
+  "translation": "आउ ओनी पसह के आग में नियाव के मोताबिक पकइलन, आउ पवित्तर चीज सब के हांड़ी में, देगची में आउ थारी में पकइलन, आउ जल्दी सब लोग के बेटा सब के पाछाँ दौरा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d5007b1e9c4799e437850f4b1c94b052fc51bc488ff37a0354e9e878492c834a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/35\/13-16.1792011448033.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבשלו",
+      "gloss": "पकइलन"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पसह"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "नियाव के मोताबिक"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "आउ पवित्तर चीज सब"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "पकइलन"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "हांड़ी में"
+    },
+    {
+      "surface": "ובדודים",
+      "gloss": "देगची में"
+    },
+    {
+      "surface": "ובצלחות",
+      "gloss": "थारी में"
+    },
+    {
+      "surface": "ויריצו",
+      "gloss": "दौरा देलन"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:57:28.034514664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכר",
+      "rationale": "‘देख के पहचानलक’ बनाम ‘सउंप देलक’ — अनुवादक लोग बँटल हथिन; शाउल के बोली में ‘हमर हाथ में दे देलक’ अर्थ लेल गेलन"
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "rationale": "‘और’ वर्ग का वॉव शब्दोत्तर प्रभाव — मगही में क्रिया-क्रम से ही समझाया गया"
+    }
+  ],
+  "translation": "आउ शाउल के बतावल गेलन कि दाविद केइला अइलन हथिन; आउ शाउल कहलन: एलोहीम ⟨אתו⟩ हमर हाथ में सउंपलक हथिन, काहे कि ऊ दुआरी आउ काठी ⟨वाला⟩ नगर में आवे के चलते बंद भ गेलन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f765b91ec771635750517e5b559e3ada8496408aab9c43e04f844148f249c2e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/23\/5-8.1791995484182.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "बतावल गेलन"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शाउल के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "केइला"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "सउंपलक हथिन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "एलोहीम"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "हमर हाथ में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "बंद भ गेलन हथिन"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "आवे के चलते"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "दुआरी आउ"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "काठी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:31:24.183499505Z",
+  "model": "glm-5.3"
+}

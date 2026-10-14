@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מיום",
+      "rationale": "'दिन से' — अरथ में 'दिन बने से पहिले' (KJV) बनाम 'सदा से' (BSB) के झगड़ा"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישיבנה",
+      "rationale": "'फेर हटाबइ' — शाब्दिक 'ओकरा फेर घुमातइ' (שׁוּब)"
+    }
+  ],
+  "translation": "हाँ, दिन से हम ही हमनी आहाँ, आउ हमर हाथ से कोनो छुड़ावऽ वाला नञ हकइ; हम काम करतइ \/ केलन, आउ कोन ओकरा फेर हटातइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a025a3c1177220ce017b475ab165d8d4b78e00be61537f3e97ad32d620f83671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/43\/13-16.1791999448979.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "दिन से"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ही हमनी आहाँ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ हकइ"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "हमर हाथ से"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "छुड़ावऽ वाला"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "हम काम करतइ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आउ कोन"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "ओकरा फेर हटातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:37:28.979543483Z",
+  "model": "glm-5.3"
+}

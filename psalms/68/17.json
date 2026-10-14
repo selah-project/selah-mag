@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 68:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרצדון",
+      "rationale": "'डाह के नजर मारना' बनाम 'छलाँग मारना' (किंग जेम्स) — जड़ रासद शायद ईर्ष्या से लड़ना"
+    },
+    {
+      "kind": "hapax",
+      "subject": "גבננים",
+      "rationale": "गबनור्न — पहाड़ के गुब्बारे\/चोटी — तनाख में केवल इहे जगह"
+    },
+    {
+      "kind": "you",
+      "subject": "पहाड़ सब",
+      "rationale": "पहाड़ सबके सीधे सम्बोधन — गढ़ल सम्बोधन"
+    }
+  ],
+  "translation": "काहे डाह के नजर मारऽ हौ, ऊँचा-ऊँचा पहाड़ सब? ई पहाड़ एलोहीम चाहलन जे ओकरा में बसथिन; हाँ, यहवे ओही में सदा बसतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b8db233452fd8e4af835b37129aed01f1c56633a7eca456d475864a089c608f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/68\/17-20.1792005353076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "תרצדון",
+      "gloss": "डाह के नजर मारऽ हौ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़ सब"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "ऊँचा-ऊँचा"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ई पहाड़"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "चाहलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לשבתו",
+      "gloss": "जे ओकरा में बसथिन"
+    },
+    {
+      "surface": "אף",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "बसतइ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:53.076895926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 12:21",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהו … תהו",
+      "rationale": "उत्पत्ति 1:2 वाला सब्द दू बेर — सुरुआत में आउ अन्त में — व्यर्थता पर कड़ी; मगही में 'व्यर्थ' के दोहरावे से बनावट रहऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יועילו \/ הואיל",
+      "rationale": "योעל (लाभ) आउ पाछे 22 में होअिल (मनजूर) एके जड़ के गूँज हकइ"
+    }
+  ],
+  "translation": "आउ मत घूरऽ जाव, काहे कि ओकरा पाछे ⟨את⟩ व्यर्थ चीज के दने — जे लाभ नञ देतइ आउ नञ छुड़ावतइ — काहे कि व्यर्थ हथिन ओकनी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "355249c35f14cc1f503c6276f85b62bcaa89a7b3c182666f2cf9082e0d11c036",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/12\/21-24.1791995111677.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "घूरऽ जाव"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ओकरा पाछे"
+    },
+    {
+      "surface": "התהו",
+      "gloss": "व्यर्थ चीज"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "लाभ देतइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "छुड़ावतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "व्यर्थ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ओकनी हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:25:11.677657020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जादे",
+      "rationale": "'संगी सब से जादे' — तुलना हिब्रू में मात्र संदर्भ से बने, क्रिया-विशेषण मगही में जोड़ल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהבת\/ותשנא",
+      "rationale": "परेम-घृणा के सामानान्तर जोड़ी"
+    }
+  ],
+  "translation": "तूँ त्सेदेक के परेम करऽ हऽ आउ अधरम से घृणा करऽ हऽ; एहे से एलोहीम, तोहर एलोहीम, तोहरा खुसी के तेल से अभिसेखलन — तोहर संगी सब से जादे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/45\/5-8.1792005100018.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "परेम करऽ हऽ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "त्सेदेक"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "आउ घृणा करऽ हऽ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "अधरम"
+    },
+    {
+      "surface": "על",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "तोहरा अभिसेखलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "खुसी के"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "तोहर संगी सब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:40.020084293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 25:12",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויהפכו … וישבו",
+      "rationale": "'फेरलन … लौटलन' — क्रिया के दोहराव वापसी के धीमा, पूरा बनावऽ हइ।"
+    }
+  ],
+  "translation": "आउ दाविद के जुवन लोग अपन रस्ता फेरलन, आउ लौटलन, अइलन आउ ओकरा ई सब बात बतौलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/25\/9-12.1791995550404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהפכו",
+      "gloss": "फेरलन"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "जुवन लोग"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "अपन रस्ता"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "लौटलन"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "बतौलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "(ई)"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:30.405502754Z",
+  "model": "glm-5.3"
+}

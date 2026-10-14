@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "हाथ फेरावे",
+      "rationale": "להשיב ידו शाब्दिक 'ओकर हाथ वापस लावे' — सत्ता फेर जीते के मुहावरा; नदी = फरात अनुमानित, पाठ में नाम नञ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "नदी",
+      "rationale": "दोसर पढ़ाई: 'ओकर सीमा फेर पावे' — יד के अरथ सीमा\/अधिकार"
+    }
+  ],
+  "translation": "आउ दाविद ⟨את⟩ हददएजेर, रेहोब के बेटा, जोबा के राजा, के मारलन, जब ऊ नदी पर ओकर हाथ फेरावे बर गेला हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea9f104a90429fb30e53e49e39483cd0d351f76a1e611f435127358209d57e50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/8\/1-4.1791996042419.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हददएजेर"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "हददएजेर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "रेहोब"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "जोबा"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "जब ऊ गेला हल"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "फेरावे बर"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "नदी पर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:40:42.420921716Z",
+  "model": "glm-5.3"
+}

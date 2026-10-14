@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 2:7",
+  "book": "haggai",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמדת כל הגוים",
+      "rationale": "'the desire of all nations' (KJV) vs 'the treasures\/choicest things of all nations' (JPS\/ASV); rendered 'चाह-चीज' holding both"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נאם",
+      "rationale": "oracle-formula rendered 'के बचन' per fixed phrase"
+    }
+  ],
+  "translation": "आउ हम ⟨את⟩ सब जाति के हिलाइबइ, आउ सब जाति के चाह-चीज अइतइ, आउ हम ⟨את⟩ एहि घर के महिमा से भर देबइ — यहवे त्सबाओत के बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5e4e3500ae71cb45ec9fd368eb71c05e736aa845b0f742768916a97495f86783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/haggai\/2\/5-8.1792004041778.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרעשתי",
+      "gloss": "आउ हम हिलाइबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब जाति"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "आउ अइतइ"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "चाह-चीज"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जाति के"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "आउ हम भर देबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एहि घर"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एहि"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "के बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    }
+  ],
+  "timestamp": "2026-10-14T18:54:01.779986492Z",
+  "model": "glm-5.3"
+}

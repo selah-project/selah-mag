@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הערקים",
+      "rationale": "जड़ ערק — किछु पढ़ऽ हथिन ‘जे भागऽ हथिन’ (कूकर के तरफ), किछु ‘जे कुतरऽ हथिन’ (सूख धरती के)।"
+    },
+    {
+      "kind": "crux",
+      "subject": "אמש",
+      "rationale": "‘काल्हि रात’ के सीधा अरथ बेमेल लागऽ हइ; चलनसार अरथ ‘पहिले के समय’ हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨के जगह⟩",
+      "rationale": "इब्रानी के दु सब्द (उजाड़-तूफान आउ बरबादी) के जोड़ बर मगही में माला चाही।"
+    }
+  ],
+  "translation": "कंगाली आउ भूख में उजाड़, जे सूख धरती कुतरऽ हथिन — काल्हि रात के उजाड़-तूफान आउ बरबादी ⟨के जगह⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/30\/1-4.1792007703978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "कंगाली में"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "आउ भूख में"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "जे कुतरऽ हथिन"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "सूख धरती"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "काल्हि रात"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "उजाड़-तूफान"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "आउ बरबादी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:55:03.979110240Z",
+  "model": "glm-5.3"
+}

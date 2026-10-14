@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הולידו את קינן",
+      "rationale": "עשרה के अंदर आच्छादित संख्या संरचना को माघी में एक संयुक्त संख्या में विलीन कर दिया गया है।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "अठासी सौ पंद्रह बरिस",
+      "rationale": "पितर-सूची के आयु-गिनती।"
+    }
+  ],
+  "translation": "आउ एनोस, ⟨את⟩ केनान के जनला के बाद, अठासी सौ पंद्रह बरिस जिअलन, आउ बेटा-बेटी के जनलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4f515e3036934676c57d5cecdb8efc917370915710efb561e7be7820307b9e49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/5\/9-12.1791986262276.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "जिअलन"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "एनोस"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "जनला के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "केनान के"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "केनान"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पंद्रह"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "पंद्रह"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "अठासी"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जनलन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "बेटी"
+    }
+  ],
+  "timestamp": "2026-10-14T13:57:42.278446320Z",
+  "model": "glm-5.3"
+}

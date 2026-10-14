@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "गिनती",
+      "rationale": "सेना के गिनती — 57,400"
+    },
+    {
+      "kind": "addition",
+      "subject": "हजार\/सय",
+      "rationale": "इब्रानी संख्या जोड़ रूप में हइ; मगही में नाप-सब्द जोड़ल गेलइ"
+    }
+  ],
+  "translation": "आउ ओकर सेना, आउ ओकर गिनल लोग — सात आउ पचास हजार आउ चारि सय।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5c8ef20b7aab85768818fdc0f9de7f879c082f23492656f5c0291ed5ac0eb6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/2\/5-8.1791990556004.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "आउ ओकर सेना"
+    },
+    {
+      "surface": "ופקודיו",
+      "gloss": "आउ ओकर गिनल लोग"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "आउ पचास"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आउ चारि"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    }
+  ],
+  "timestamp": "2026-10-14T15:09:16.005706833Z",
+  "model": "glm-5.3"
+}

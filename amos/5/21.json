@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "amos 5:21",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אריח",
+      "rationale": "'सूँघब' (literal) बनाम 'रुचि लेब' — किछु अनुवादक मेटावल-अरथ लेथिन (asv\/jps), किछु साक्षात् गंध (kjv)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חגיכם",
+      "rationale": "חג परब होवे या ओकर बलि-पशु — एहीं परब के अरथ लेलगै"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "यहवे इस्राएल के सीधे सम्बोधन"
+    }
+  ],
+  "translation": "हम तोहनी के परब सब के घृणा कइलन, त्याग देलन, आउ तोहनी के उत्सव-सभा सब के गंध ⟨हम⟩ सूँघब नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d5eaed421cdd709104698850b82996d13217bc65fe642a6efecda9189b37aa96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/5\/21-24.1792003547557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "घृणा कइलन"
+    },
+    {
+      "surface": "מאסתי",
+      "gloss": "त्याग देलन"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "तोहनी के परब सब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "सूँघब"
+    },
+    {
+      "surface": "בעצרתיכם",
+      "gloss": "तोहनी के उत्सव-सभा सब"
+    }
+  ],
+  "timestamp": "2026-10-14T18:45:47.557809301Z",
+  "model": "glm-5.3"
+}

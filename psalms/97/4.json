@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "काँपलक",
+      "rationale": "חול के सुभाविक चित्र 'मरोड़ खाना \/ छटपटाना' हकइ — प्रसूता के पीड़ा जइसन; 'काँपना' चलनसार अनुवाद हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "ברקיו बहुबचन हकइ; मगही में 'सब' जोड़ल"
+    }
+  ],
+  "translation": "ओकर बिजली सब दुनिया के इँजोर देलकन; धरती देखलक आउ काँपलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/97\/1-4.1792005756817.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "इँजोर देलकन"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "ओकर बिजली सब"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "दुनिया"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "देखलक"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "आउ काँपलक"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:36.818741993Z",
+  "model": "glm-5.3"
+}

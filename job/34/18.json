@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 34:18",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨तूँ⟩",
+      "rationale": "इब्रानी में कहल गेल सब्द खाली विशेषण हकइ; सर्बनाम मगही में जोड़ल गेलन"
+    },
+    {
+      "kind": "crux",
+      "subject": "का ई प्रसन हइ या हवाला",
+      "rationale": "हאמर के अरथ — 'का ई ठीक हइ कहना?' (KJV\/JPS) या 'जे कहऽ हइ' — अगिला पद के वाक्य के हिस्सा"
+    }
+  ],
+  "translation": "जे राजा से कहऽ हइ, ⟨तूँ⟩ निकम्मा, आउ बड़ लोग से, ⟨तूँ⟩ दुष्ट?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e48203d75f7dc2a0718d925269797892361d95e659e65cc307bc86692cd4e3d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/34\/17-20.1792007813692.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा से"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "निकम्मा"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "बड़ लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:56:53.693563936Z",
+  "model": "glm-5.3"
+}

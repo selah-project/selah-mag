@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הכתף",
+      "rationale": "काँधा — दुआरी के एक तरफे के पर्दा बर चलनसार तस्वीर; काँधा जस के तस रखलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पंद्रह अमा · खम्भा तीन · पाया तीन",
+      "rationale": "अँगना के दुआरी के नाप आउ गिनती"
+    }
+  ],
+  "translation": "एक काँधे के पर्दा पंद्रह अमा ⟨हलइ⟩; ओकरा के खम्भा तीन आउ ओकरा के पाया तीन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "90ab2726fd36df2ea56621200cf574e7022d6a3b1296c0d14d2520ab70d36a5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/38\/13-16.1791989306050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "पर्दा"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पंद्रह ⟨पाँच⟩"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨दस⟩ पंद्रह"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "अमा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के तरफे"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "काँधे के"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "ओकरा के खम्भा"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "आउ ओकरा के पाया"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:48:26.051613769Z",
+  "model": "glm-5.3"
+}

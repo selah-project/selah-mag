@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "दिन-गिनती",
+      "rationale": "बलि के खए के तीन-दिन के हिसाब — पहिला दिन, अइला दिन, तीसरा दिन आग में"
+    },
+    {
+      "kind": "addition",
+      "subject": "जातइ",
+      "rationale": "Magahi passive needs the auxiliary; Hebrew יאכל is a simple passive verb form"
+    }
+  ],
+  "translation": "तोहरे बलि के दिने ऊ खाइल जातइ आउ अइला दिने भी; जे तीसरा दिन ले बचतइ, ऊ आग में जराइल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/19\/5-8.1791990059052.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिने"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "तोहरे बलि के"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाइल जातइ"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "आउ अइला दिने"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "आउ जे बचतइ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "जराइल जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:00:59.053013105Z",
+  "model": "glm-5.3"
+}

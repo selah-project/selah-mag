@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨मनुस⟩",
+      "rationale": "इब्रानी के ह-पार्टिसिपल करता हकइ; मगही सापेक्ष बाक्य में ‘जे मनुस’ चाही"
+    },
+    {
+      "kind": "crux",
+      "subject": "לגעת בך",
+      "rationale": "‘तोहरा के छूऽ हे’ — कोमल बोली; अरथ ‘तोहरा बिरोध करऽ हे’ बूझल जा हइ"
+    }
+  ],
+  "translation": "आउ राजा कहलन, जे ⟨मनुस⟩ तोहरा से कोनो बात कहतइ, ओकरा हमरा लावऽ, आउ ऊ आगू तोहरा के छूवऽ के नञ जोतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b1802e3378ad2be28406f9b4f91b7775b657e4cff246c88d03f7a3dcf2f4eb18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/14\/9-12.1791996177670.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "जे ⟨मनुस⟩ कहतइ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा से"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "ओकरा लावऽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "जोतइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "छूवऽ के"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:42:57.672479329Z",
+  "model": "glm-5.3"
+}

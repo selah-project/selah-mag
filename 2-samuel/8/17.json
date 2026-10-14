@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 8:17",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "लिखाक",
+      "rationale": "סופר: राजकीय लिखाक\/अभिलेख-रखइया — बिल्कुल सादा काती नञ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "अधिकारी-सूची",
+      "rationale": "दाविद के दरबार के अधिकारिन के नाम-गिनती — नाम-अभिलेख।"
+    }
+  ],
+  "translation": "आउ त्सादोक अहीतूव के बेटा आउ अहीमेलेख एव्यातार के बेटा पुरोहित हलन; आउ सेरायाह लिखाक हलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "36f1517263a9e3607e8592cd122ca3fb6028a6e94f6467e09c9ba512c956412d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/8\/17-18.1791995921897.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "आउ त्सादोक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "अहीतूव"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "आउ अहीमेलेख"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "एव्यातार"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "आउ सेरायाह"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "लिखाक"
+    }
+  ],
+  "timestamp": "2026-10-14T16:38:41.897912431Z",
+  "model": "glm-5.3"
+}

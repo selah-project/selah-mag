@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויקשו את ערפם",
+      "rationale": "'गरदन करड़ करलन' — हिब्रू बिद्रोह के ठेठ बोली, जस के तस रखल गेलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הזידו",
+      "rationale": "मूल अरथ 'उबल परलन\/बेहद बनलन'; मगही में 'घमंड करलन' — अकड़ के चित्र"
+    }
+  ],
+  "translation": "बाकि ऊ ⟨सब⟩ आउ हमनी के बाप-दादा घमंड करलन, आउ ⟨את⟩ अपन गरदन करड़ करलन, आउ तोहर आज्ञा के नञ सुनलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ad5aa74b501354e5c5559b9518269c92666a5586cf26d15d6de05129678ce5a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/9\/13-16.1792009681607.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "बाकि ऊ ⟨सब⟩"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "आउ हमनी के बाप-दादा"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "घमंड करलन"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "आउ करड़ करलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन गरदन"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "अपन गरदन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "तोहर आज्ञा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:28:01.608805144Z",
+  "model": "glm-5.3"
+}

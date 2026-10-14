@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחתו \/ ותנחת",
+      "rationale": "एके जड़ दू बेर — तीर के उतरै आउ हाथ के दबै — एकरूप चलन मगही में टूट गेल"
+    }
+  ],
+  "translation": "काहे कि तोहर तीर हमरा ⟨में⟩ धँसल गेलन, आउ तोहर हाथ हमरा पर दबाव देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/38\/1-4.1792004962602.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "तोहर तीर"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "धँसल गेलन"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा ⟨में⟩"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "आउ दबाव देलन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा पर"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तोहर हाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:22.603698850Z",
+  "model": "glm-5.3"
+}

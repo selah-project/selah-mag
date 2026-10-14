@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "धन्यवाद देतइ",
+      "rationale": "יָדָह के सुभाविक अरथ 'फेंकना' से आवऽ हइ — सराहना भेंट के रूप में; 'सराहतइ' दोसर पाठ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לְעֹלָם וָעֶד",
+      "rationale": "दू बरति-बचन जोड़ल हइ — 'हमेसा बर आउ सदा बर' — दुनू अलग रखल गेलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पीढ़ी आउ पीढ़ी",
+      "rationale": "समय के गिनती — हर पीढ़ी में नाम के स्मरण"
+    },
+    {
+      "kind": "you",
+      "subject": "राजा के",
+      "rationale": "तोहर नाम, तोहरा — सीधा संबोधन"
+    }
+  ],
+  "translation": "हम तोहर नाम के हर पीढ़ी आउ पीढ़ी में याद करतइ; एही से जाति सब तोहरा हमेसा बर आउ सदा बर धन्यवाद देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e4583dcb573e45621006a1ebcc6f61dcb9c4febaf70590d3f7a37fe238abfa71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/45\/17-18.1792005029494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "याद करतइ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "דר",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "आउ पीढ़ी"
+    },
+    {
+      "surface": "על",
+      "gloss": "एही"
+    },
+    {
+      "surface": "כן",
+      "gloss": "से"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "तोहरा धन्यवाद देतइ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "हमेसा बर"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ सदा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:29.495547805Z",
+  "model": "glm-5.3"
+}

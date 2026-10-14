@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "पतאים",
+      "rationale": "केजेवी 'छोड़ऽ सरल लोग के' (संगत छोड़ऽ) बनाम जेपीएस 'सरलपन छोड़ऽ' — पद आदमी के बतावै हकइ, सलाह नञ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואשרו",
+      "rationale": "जड़ 'सीधा होना' हकइ — 'टेकऽ' (चलऽ) के जगह 'सीध रस्ते पर चलऽ' दोसर पाठ।"
+    },
+    {
+      "kind": "you",
+      "subject": "सरल लोग के",
+      "rationale": "बुद्धि सीधे सरल लोग के सम्बोधित करै हकइ।"
+    }
+  ],
+  "translation": "छोड़ऽ ⟨सरल बे-समझ के संगत⟩ आउ जियऽ; आउ समझ के रस्ते पर टेकऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ba54514a2842e0a842f4b9a272f64e53e48c68672d900aa915d7f018379fe2f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/9\/5-8.1792006604119.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "छोड़ऽ"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "सरल बे-समझ"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "आउ जियऽ"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "आउ टेकऽ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ते पर"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:44.120506221Z",
+  "model": "glm-5.3"
+}

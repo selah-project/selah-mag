@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 12:3",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משכילים \/ יזהרו",
+      "rationale": "समझ रखए वाला (משכיל) आउ चमक (זהר) के जड़ के गूँज हकइ — बुधियारी एहे से चमकऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक",
+      "rationale": "צדק के लिप्यन्तरन रखल गेलइ; एकरा 'धरम' में घटावल नञ होल।"
+    }
+  ],
+  "translation": "आउ बुधिमान लोग अकास के चमक जइसन चमकतन, आउ जे ढेर लोग के त्सेदेक के रस्ता पकड़ावऽ हइ, ऊ तारा जइसन सदा आउ हमेसा ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2d95ae562d8431f663a4358103d934815dd6c6740e404f853e14e360e492b4d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/12\/1-4.1792009231605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמשכלים",
+      "gloss": "आउ बुधिमान लोग"
+    },
+    {
+      "surface": "יזהרו",
+      "gloss": "चमकतन"
+    },
+    {
+      "surface": "כזהר",
+      "gloss": "चमक जइसन"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "ומצדיקי",
+      "gloss": "आउ जे त्सेदेक के रस्ता पकड़ावऽ हइ"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "ढेर लोग के"
+    },
+    {
+      "surface": "ככוכבים",
+      "gloss": "तारा जइसन"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ हमेसा ले"
+    }
+  ],
+  "timestamp": "2026-10-14T20:20:31.606967200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "भोर-भोर करऽ हो",
+      "rationale": "הניעמו — 'इधर-उधर भटकाऽ हो' बनाम 'तितर-बितर करऽ हो' (KJV 'scatter'); दुनू पढ़ाही मिललइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "काहे कि",
+      "rationale": "פן के सन्धेय अरथ 'काहे कि ... नञ भूलऽ हो' हकइ; मगही में नञ बाक्य के अन्त में।"
+    },
+    {
+      "kind": "you",
+      "subject": "अदोनाय",
+      "rationale": "पद अदोनाय के सीधा सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "ओकनी के मत मार, काहे कि हमरा लोग भूल जइतन; तोहरा बल से ओकनी के भोर-भोर करऽ हो, आउ ओकनी के नीचे ले आ, हमरा ढाल अदोनाय।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/59\/9-12.1792005213181.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "मार"
+    },
+    {
+      "surface": "פן",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "भूल जइतन"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमरा लोग"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "भोर-भोर करऽ हो"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "तोहरा बल से"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "आउ ओकनी के नीचे ले आ"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "हमरा ढाल"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:33.182542500Z",
+  "model": "glm-5.3"
+}

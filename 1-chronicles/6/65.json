@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकर",
+      "rationale": "מגרשיה के प्रत्यय -יה में 'ओकर' बाट रहलइ, बाकि 'चरागाह' के संग अलग देखावल गेलन"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नगर के सूची",
+      "rationale": "लेवी के नगर के गिनती-सूची जारी हइ — रामोत, महनयिम"
+    }
+  ],
+  "translation": "आउ गाद के जाति से ⟨את⟩ रामोत ⟨את⟩ गिलाद में, आउ ⟨את⟩ ओकर चरागाह, आउ ⟨את⟩ महनयिम, आउ ⟨את⟩ ओकर चरागाह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "572d7e694a51a1fb8c8cfb2c640e722b221575997c06d9ea7eabde234e9a0472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/6\/65-66.1792009990292.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "आउ जाति से"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रामोत"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "रामोत"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "गिलाद में"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर चरागाह"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ओकर चरागाह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "महनयिम"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "महनयिम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर चरागाह"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ओकर चरागाह"
+    }
+  ],
+  "timestamp": "2026-10-14T20:33:10.292492243Z",
+  "model": "glm-5.3"
+}

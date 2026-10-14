@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא פנים",
+      "rationale": "शाब्दिक 'मुँह उठाना' — पक्षपात देखावे के इब्रानी मुहावरा हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פנים…פנים",
+      "rationale": "पनीम के दोहराव — जाति के मुँह कठोर, आउ ऊ बूढ़ के मुँह नञ उठावऽ हइ"
+    }
+  ],
+  "translation": "मुँह के कठोर जाति, जे बूढ़ के मुँह नञ उठातइ आउ नादान बर अनुग्रह नञ करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4890059a52f7828bcf5de89d1469a071cb3eea7240c9b7a27ddc856ea091e274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/28\/50-51.1792011676632.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "עז",
+      "gloss": "कठोर"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "उठातइ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "बूढ़ के"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "आउ नादान बर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "अनुग्रह करतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T21:01:16.632689482Z",
+  "model": "glm-5.3"
+}

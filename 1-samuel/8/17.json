@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 8:17",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "दसवाँ हिस्सा लेतइ",
+      "rationale": "עשר क्रिया के अरथ हइ दसवाँ अंस लेना — टीका-क्रिया के एके शब्द में घटा देना मगही में ठीक नञ होतइ"
+    }
+  ],
+  "translation": "तोहनी के भेड़-बकरी के दसवाँ हिस्सा ऊ लेतइ, आउ तोहनी ऊकर दास बन जातऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9db9c251df353233c2242dd569ea4f8d7081413830894ed2f15b5432def2974a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/8\/17-20.1791994851848.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צאנכם",
+      "gloss": "तोहनी के भेड़-बकरी"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "दसवाँ हिस्सा लेतइ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "आउ तोहनी"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "बन जातऽ हथिन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ऊकर"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "दास"
+    }
+  ],
+  "timestamp": "2026-10-14T16:20:51.849274949Z",
+  "model": "glm-5.3"
+}

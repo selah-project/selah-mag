@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "पीठ पर मारलन",
+      "rationale": "אחור 'पाछे के भाग' — पीठ पर मारल भागै वाला के चित्र, जेकर किछु पढ़निहार 'बेइज्जत जगह' ले हथिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "दुसमन सब",
+      "rationale": "צריו एकबचन; मगही के जएस-संख्या बर बहुबचन जोड़ल गेल।"
+    }
+  ],
+  "translation": "आउ ओकरा दुसमन सब के पीठ पर मारलन, ओकनी के सदा के बेइज्जती देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/65-68.1792005543679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ओकरा दुसमन सब"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पीठ पर"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "बेइज्जती"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा के"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ओकनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:03.680796325Z",
+  "model": "glm-5.3"
+}

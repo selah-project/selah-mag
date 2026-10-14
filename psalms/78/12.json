@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "करता-सर्बनाम हिब्रू किरिया रूप में छिपल हलइ; मगही बाक्य में अलग देखावल गेल।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "जगह के नाम",
+      "rationale": "मिस्रयिम आउ त्सोअन के खेत — जगह के ठीक नाम, इतिहास के गवाही बाँधै वाला।"
+    }
+  ],
+  "translation": "ओकनी के पुरखा सब के सामने ऊ अचरज के काम कइलन, मिस्रयिम (मिस्र) के धरती में, त्सोअन के खेत में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/9-12.1792005465224.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ओकनी के पुरखा सब"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "अचरज के काम"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "के धरती में"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "के खेत"
+    },
+    {
+      "surface": "צען",
+      "gloss": "त्सोअन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:45.227083269Z",
+  "model": "glm-5.3"
+}

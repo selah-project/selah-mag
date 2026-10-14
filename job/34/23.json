@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "यשים עוד",
+      "rationale": "केजेवी 'ओकरा बेसी नञ धरै'; जेपीएस 'मुआद नञ ठरावऽ हकइ' — इब्रानी अस्पस्ट हकइ कि ऊ आदमी बर किछो दोबारा नञ ठरावऽ हकइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "नियाव में जाय",
+      "rationale": "दोसर पढ़ाई: आदमी खुद एल के आगे नियाव में जाय, न कि एल आदमी के नियाव करै आवऽ होवै।"
+    }
+  ],
+  "translation": "काहे कि ऊ आदमी बर दोबारा किछो नञ ठरावऽ हकइ, जे ऊ एल के आगे नियाव में जाय।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4e522a6dc3bda0f5a5d33fb9a866d9e44a6ebdfc17d58bc0586f9af5476f3d84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/34\/21-24.1792007749273.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ठरावऽ हकइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "दोबारा"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "जाय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "नियाव में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:55:49.274633922Z",
+  "model": "glm-5.3"
+}

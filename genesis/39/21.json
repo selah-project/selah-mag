@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "इ这里的 את 'के संग' के अरथ में हकइ, DOM नञ; ⟨את⟩ चिन्हा जान-बूझ के रखल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויט אליו חסד",
+      "rationale": "'हेसेद ओकरा तने बढ़लन' — अनुवादक 'अनुकम्पा देखलन' कइलन, मूल रूप 'तने गेल \/ झुकल'।"
+    }
+  ],
+  "translation": "आउ यहवे ⟨את⟩ योसेफ के संग रहलन, ओकरा तने हेसेद बढ़लन, आउ बंदी-घर के सरदार के आँख में ओकर अनुग्रह देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e7021eb3202ab55b7f3374ae437367b22f0aaeb88576f12a8637770a72a1e3da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/39\/21-23.1791987541521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ … रहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योसेफ के संग"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "बढ़लन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा तने"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँख में"
+    },
+    {
+      "surface": "שר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "बंदी-घर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:19:01.522330200Z",
+  "model": "glm-5.3"
+}

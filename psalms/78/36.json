@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויפתוהו",
+      "rationale": "'चापलूसी करथिन' (KJV) बनाम 'धोखा देथिन' (YSV\/BSB); पतתह = बहकावा, मगही में 'धोखा देलन'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "मुँह \/ जीभ",
+      "rationale": "मुँह-जीभ के समानान्तर जोड़ी, इब्रानी के बनावट जस के तस रहल।"
+    }
+  ],
+  "translation": "बाकि ओकनी ओकरा अपन मुँह से धोखा देलन, आउ अपन जीभ से ओकरा झूठ बोलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/33-36.1792005508373.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "ओकरा धोखा देलन"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "अपन मुँह से"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "अपन जीभ से"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "झूठ बोलथिन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:28.375507995Z",
+  "model": "glm-5.3"
+}

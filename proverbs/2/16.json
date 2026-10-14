@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 2:16",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "बेगान जनाना",
+      "rationale": "זרה\/נכרי: कुछ अनुवाद 'पराई जनाना' (व्यभिचारिणी) कहऽ हइ, कुछ 'अजनबी' — मूल शब्द दुनो ढंग ले सकऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "बाक्य ओकरा सीधे सम्बोधन करऽ हइ जेकरा तोरा सिखावल गेल हइ (पद 1 के पुतर)"
+    }
+  ],
+  "translation": "तोहनी छुड़ावे बर बेगान जनाना से, अजनबी जनाना से, जेकर बात चिकना करलक हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "63fe996d07235417bd280007e301249c080a6e2a6fdc11c62a828a02ea2bd02c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/2\/13-16.1792006458246.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "तोहनी छुड़ावे बर"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "जनाना से"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "बेगान"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "अजनबी जनाना से"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ओकर बात"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "चिकना करलक हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:34:18.247226302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 10:7",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨आग⟩",
+      "rationale": "वישא के करम केहो स्पष्ट नञ हइ — जे उठाएल गेलन (आग के अंगारा) कोष्ठक में जोड़ल गेलन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मुट्ठी",
+      "rationale": "חפנी द्वैत (dual) हकइ — 'दुनो मुट्ठी (हाथ की तरफ)' — एके 'हाथ' में घटाबे से द्वैत रूप मिट जातइ"
+    }
+  ],
+  "translation": "आउ करूब ⟨את⟩ ओकर हाथ करूबिम सब के बीच से बढ़ाए देलक, ओ आग के ओर जे करूबिम सब के बीच हलइ; ऊ ⟨आग⟩ उठइलन आउ देलन लिनन के कपड़ा पहिरनिहार के दुनो मुट्ठी में, आउ ऊ लेलन आउ बाहर निकललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e2236e5a7fa0344afe3005c2ebac59864fc0aab1cb4d22de9f7ffaa2c1e2e3f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/10\/5-8.1792001921804.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "बढ़ाए देलक"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "करूब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर हाथ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "מבינות",
+      "gloss": "बीच से"
+    },
+    {
+      "surface": "לכרובים",
+      "gloss": "करूबिम सब के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בינות",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "करूबिम सब के"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "उठइलन"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "दुनो मुट्ठी"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "पहिरनिहार"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "लिनन के कपड़ा"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "बाहर निकललन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:18:41.805438292Z",
+  "model": "glm-5.3"
+}

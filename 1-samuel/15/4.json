@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सैनिक के गिनती",
+      "rationale": "लोक-गणना के दृश्य — दू सौ हजार पैदल आउ दस हजार यहूदा के मरद।"
+    }
+  ],
+  "translation": "आउ शाऊल ⟨את⟩ परजा के बोलारलन आउ तलाईम में ओकनी के गिनलन — दू सौ हजार पैदल सैनिक आउ दस हजार ⟨את⟩ यहूदा के मरद।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/15\/1-4.1791995304374.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "आउ बोलारलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परजा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजा"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "आउ गिनलन ओकनी के"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "तलाईम में"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दू सौ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "पैदल सैनिक"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "आउ दस"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहूदा के मरद"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:28:24.375963330Z",
+  "model": "glm-5.3"
+}

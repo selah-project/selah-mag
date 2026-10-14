@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 22:25",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बेदी के खाना",
+      "rationale": "לחם एहाँ अक्षरशः 'खाना\/भोजन' हकइ — बेदी के खाना, खाली रोटी नञ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परदेसी के बेटा",
+      "rationale": "בן נכर अक्षरशः 'परदेस के बेटा' — परदेसी आदमी बर इडियम"
+    }
+  ],
+  "translation": "आउ परदेसी के बेटा के हाथ से तोहनी ⟨את⟩ एलोहीम के बेदी के खाना ए सब में से कोनो बलि नञ चढ़ाबऽ — काहे कि ए में ऊन के बिगाड़ हकइ, ऊन में दाग हकइ; ऊ तोहनी बर मंजूर नञ होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2e7d5e5d8f97a10237ced78f12a4d38cfe4bbd61fb3f714a33e82bf935f3fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/22\/25-28.1791990168875.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומיד",
+      "gloss": "आउ … के हाथ से"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "चढ़ाबऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलोहीम के बेदी के खाना"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "बेदी के खाना"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ए सब में से"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "ऊन के बिगाड़"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ए में"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दाग"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ऊन में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "मंजूर होतइ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:02:48.876395443Z",
+  "model": "glm-5.3"
+}

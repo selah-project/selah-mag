@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 6:1",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "मगही के करम-स्पस्टता बर सर्बनाम जोड़ल, इब्रानी में नञ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चार रथ",
+      "rationale": "गिनती — चार रथ आउ दू पहाड़ के गिनल बयान"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ההרים הרי",
+      "rationale": "‘पहाड़... पहाड़ के पहाड़’ — इब्रानी के दोहराव, मगही में रखल गेल"
+    }
+  ],
+  "translation": "आउ हम फेर अइलन, आउ हम अपन आँख उठइलन आउ देखलन, आउ देखऽ — चार रथ निकलत रहलन दू पहाड़ के बीच से, आउ ऊ पहाड़ ताँबा के पहाड़ रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e74576df6465bce55df924615bbce4714a64480a427a9b21afd0505228ca428d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/6\/1-4.1792004177466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשב",
+      "gloss": "फेर अइलन"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "उठइलन"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "अपन आँख"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "रथ"
+    },
+    {
+      "surface": "יצאות",
+      "gloss": "निकलत रहलन"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "के बीच से"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "וההרים",
+      "gloss": "आउ ऊ पहाड़"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "के पहाड़"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ताँबा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:56:17.467529319Z",
+  "model": "glm-5.3"
+}

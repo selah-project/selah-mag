@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 8:19",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "तुलना के बाक्य बर मगही किरिया माँगऽ हइ जे इब्रानी के नञ हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחרוץ",
+      "rationale": "शाब्दिक 'खरादल\/कटल सोना' — खरदाई के चाल रखल गेल, 'fine gold' के चलनसार रूप नञ।"
+    }
+  ],
+  "translation": "हमर फल खरादल सोना आउ शुद्ध सोना से बढ़िया हइ, आउ हमर आमदनी चुनल चानी से बढ़िया हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/8\/17-20.1792006589732.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "פריי",
+      "gloss": "हमर फल"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "से खरादल सोना"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "आउ शुद्ध सोना से"
+    },
+    {
+      "surface": "ותבואתי",
+      "gloss": "आउ हमर आमदनी"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "चानी से"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "चुनल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:29.733055122Z",
+  "model": "glm-5.3"
+}

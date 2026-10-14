@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बिद्रोह",
+      "rationale": "למרות जड़ मरर 'कड़वा होना' से हकइ; ओकरा कड़वाहट के चित्र मगही में पूरा नञ आवऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "करते रहलन",
+      "rationale": "ויוסיפו ढाँचा 'जोड़ऽ हइ' बिस्तार अरथ में 'आगू बढ़ावऽ' — किरिया के रूप मगही में अलग चाही।"
+    }
+  ],
+  "translation": "आउ ओकनी ओकर बिरुद्ध फेर आउ-फेर पाप करते रहलन, सूखल जंगल में एल्योन के बिद्रोह कए रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/17-20.1792005475892.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "फेर आउ-फेर करते रहलन"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "पाप करते रहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर बिरुद्ध"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "बिद्रोह कए रहलन"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "सूखल जंगल में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:55.893067420Z",
+  "model": "glm-5.3"
+}

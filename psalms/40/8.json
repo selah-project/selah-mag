@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमरा बर \/ हमरा बारे में",
+      "rationale": "עלי के अरथ 'हमरा ऊपर\/बारे में' हकइ; लि आउ עלי के साफ अरथ बर मगही में जोड़ल गेल।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "जे हमरा बर लिखावल गेल हकइ",
+      "rationale": "JPS के पढ़ाई: गुठी 'हमरा बर लिखावल' — 'हमरा बारे में लिखल' के दूइया अरथ।"
+    }
+  ],
+  "translation": "तब हम कहलन: देखऽ, हम अइलन — किताब के गुठी में हमरा बारे में लिखल हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1b36c23f3912af408b64b2067bc2ca86a38f1bfbb4f73c1c716271d62b3e01b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/40\/5-8.1792005022442.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "हम कहलन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "हम अइलन"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "किताब के गुठी में"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "किताब"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "लिखल"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा बारे में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:22.444054425Z",
+  "model": "glm-5.3"
+}

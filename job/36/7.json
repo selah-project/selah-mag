@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 36:7",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "'अपन आँख' — इब्रानी के सम्बन्ध-बोधक मगही में जोड़ल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואת מלכים לכסא",
+      "rationale": "'राजा सब के संग सिंहासन पर' — 'ल' एहाँ 'के संग' हकइ (केजेवी 'with kings'); कुछ 'सिंहासन बर राजा बनाके' पढ़ऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकनी के",
+      "rationale": "विगबहु के करम स्पष्ट करे बर सर्बनाम जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "ऊ धरमी के अपन आँख से नञ हटाथिन, आउ ⟨את⟩ राजा सब के संग सिंहासन पर बैठाथिन ⟨ओकरा⟩ सदा बर, आउ ऊ ⟨ओकनी के⟩ ऊँचा करथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "78e5cf3a1af13bdb455f47633abea07ade59989055aec705fe3bc00747b378e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/36\/5-8.1792007761796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "हटावऽ करथिन"
+    },
+    {
+      "surface": "מצדיק",
+      "gloss": "धरमी के"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "अपन आँख"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "राजा सब के"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा सब के"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "सिंहासन पर"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "बैठाथिन सदा बर"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨सदा बर⟩"
+    },
+    {
+      "surface": "ויגבהו",
+      "gloss": "ऊँचा करथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:56:01.797820172Z",
+  "model": "glm-5.3"
+}

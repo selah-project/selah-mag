@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איתן",
+      "rationale": "'अखड़\/पत्थलील' (KJV rough) बनाम 'बरिस के बहै वाला' (LXX\/ASV running water) — दूनू परम्परा में चलन में हथिन"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ערפו",
+      "rationale": "अरथ-साफ बर 'गरदन तोड़ देबै'; इब्रानी के अक्षर-अरथ 'ओकर गरदन के मारै' हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "के \/ आउ \/ ओ",
+      "rationale": "मगही के वाक्य-बनावट बर जोड़",
+      "bracket": true
+    }
+  ],
+  "translation": "आउ ओहि नगर के बुजुर्ग ⟨את⟩ बछिया के एक अखड़ नाले में उतारतन, जेकरा में नञ जुताई जातइ आउ नञ बिया डारल जातइ, आउ ओत्ते नाले में ⟨आउ⟩ ओ ⟨את⟩ बछिया के गरदन तोड़ देतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "155665aeda6c0c7eb5d3a392461b1cd0ca1678c7cd555bd2c52b3f0e5b579546",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/21\/1-4.1791992621898.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "उतारतन"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "बुजुर्ग"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बछिया के"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "बछिया के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨के⟩ भीतर"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नाले"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "अखड़"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "जुताई जातइ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "बिया डारल जातइ"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "गरदन तोड़ देतन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओत्ते"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बछिया के"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "बछिया के"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "नाले में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:43:41.899861486Z",
+  "model": "glm-5.3"
+}

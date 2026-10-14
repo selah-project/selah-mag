@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "अलग हो जाऽ हइ",
+      "rationale": "JPS reads 'his friend separates himself from him' (the friend as subject); the Hebrew verb allows both readings"
+    }
+  ],
+  "translation": "दौलत ढेर संगी जोड़ऽ हइ, बाकि गरीब ओकर संगी से अलग हो जाऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/19\/1-4.1792006824061.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "दौलत"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "जोड़ऽ हइ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "संगी"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "बाकि गरीब"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ओकर संगी"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "अलग हो जाऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:24.062575772Z",
+  "model": "glm-5.3"
+}

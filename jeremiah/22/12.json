@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "देस-निकाला",
+      "rationale": "Hebrew הגלו is 'uncovered\/exiled' — Magahi compound 'देस-निकाला' (sent out of the land) carries the exile sense."
+    }
+  ],
+  "translation": "काहे कि जे जगह में ओकनी ओकरा देस-निकाला कएलन, ओहाँ ऊ मरतइ, आउ ⟨את⟩ ई धरती के ऊ फेर नञ देखतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "68e313fa423846f545e34bf1cd0b4e2cc22250a1989a922465a63d0384f1e1cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/22\/9-12.1792000671785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "जे जगह में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "देस-निकाला कएलन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (शल्लूम)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहाँ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरतइ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखतइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:57:51.786652856Z",
+  "model": "glm-5.3"
+}

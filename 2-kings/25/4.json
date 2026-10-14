@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 25:4",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דרך הערבה",
+      "rationale": "अराबाह — यर्दन के सुखल घाटी के खास नाम; 'मैदान' कहला ओकर सुभाव मिटा दतइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "दुई",
+      "rationale": "नञ — हमतयिम खुद द्विबचन हकइ ('दुई दीवार'); दुआल के जोड़ देखावल गेलन।"
+    },
+    {
+      "kind": "you",
+      "subject": "कथा के मोड़",
+      "rationale": "नञ — ई कथा बर्नन हकइ, कोनो सीधा सम्बोधन नञ हइ।"
+    }
+  ],
+  "translation": "आउ नगर के दीवार तोड़ देल गेलइ, आउ सब जंगी मरद रात में भाग गेलन — दुई दीवार के बीच के दुआरी के रस्ता से, जे राजा के बगइचा के पर हलइ — आउ कसदी (कलदी) नगर के चारो दने हलन; आउ ऊ अराबाह के रस्ता ले के गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "793c1b79d6a46f73a9d80ef205e48a6527eba2c2b3bdf4185fe617aa96db5e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/25\/1-4.1791998568621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבקע",
+      "gloss": "तोड़ देल गेलइ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "जंगी"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता से"
+    },
+    {
+      "surface": "שער",
+      "gloss": "दुआरी के"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच के"
+    },
+    {
+      "surface": "החמתים",
+      "gloss": "दुई दीवार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גן",
+      "gloss": "बगइचा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "וכשדים",
+      "gloss": "आउ कसदी (कलदी)"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "आउ गेलन"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "अराबाह के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:22:48.622583827Z",
+  "model": "glm-5.3"
+}

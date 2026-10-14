@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एक जगह",
+      "rationale": "אל मקום एक — preposition अलग टोकन हकइ; मगही में एके जोड़ में आवऽ हइ"
+    }
+  ],
+  "translation": "आउ एलोहीम कहलन, “अकास के नीचे के पानी एक जगह जुटतइ, आउ सुकल धरती देखातइ।” आउ अइसने भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8f62476ec3a8ec90584dda549afd1ebb203cffe7948ea8641e427d4533d89a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/1\/9-12.1791986214015.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "जुटतइ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "आउ देखातइ"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "सुकल धरती"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेलन"
+    },
+    {
+      "surface": "כן",
+      "gloss": "अइसने"
+    }
+  ],
+  "timestamp": "2026-10-14T13:56:54.015967639Z",
+  "model": "glm-5.3"
+}

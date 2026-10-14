@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 3:21",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פטישיהון",
+      "rationale": "Aramaic word for a garment, only here in the Tanakh; root suggests 'hammered-out-wide', hence a wide gown."
+    },
+    {
+      "kind": "hapax",
+      "subject": "וכרבלתהון",
+      "rationale": "כרבלה, a mantle, appears only here in the Tanakh; rendered by sound (करबल) since no Magahi garment matches."
+    },
+    {
+      "kind": "crux",
+      "subject": "four garments",
+      "rationale": "The four clothing terms (सरबल, पटिस, करबल, लबस) are each rare or unique; translators dispute whether they mean cloaks, tunics, trousers, or turbans."
+    }
+  ],
+  "translation": "तब ओही मनुस सब, सरबल में, पटिस में, करबल में आउ ओकर लबस में बान्धल गेलन, आउ ओकनी के जरत आग के भट्ठी के बीच में डेराइल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0359d7ce3d372823c5547351c09f803d646be5a471c1d897944bf779c144458e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/3\/21-24.1792008912130.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "तब"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "मनुस सब"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "כפתו",
+      "gloss": "बान्धल गेलन"
+    },
+    {
+      "surface": "בסרבליהון",
+      "gloss": "सरबल में"
+    },
+    {
+      "surface": "פטישיהון",
+      "gloss": "पटिस में"
+    },
+    {
+      "surface": "וכרבלתהון",
+      "gloss": "आउ करबल में"
+    },
+    {
+      "surface": "ולבשיהון",
+      "gloss": "आउ लबस में"
+    },
+    {
+      "surface": "ורמיו",
+      "gloss": "डेराइल गेलन"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "भट्ठी"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "आग के"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "जरत"
+    }
+  ],
+  "timestamp": "2026-10-14T20:15:12.130592532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "मंदिर के नाप",
+      "rationale": "खम्भा सब के चौड़ाइ छह-छह हाथ नापल गेलन हे"
+    },
+    {
+      "kind": "crux",
+      "subject": "האילים",
+      "rationale": "खम्भा सब बनाम 'मजबूत आदमी\/सेनापति' — इहा बनावट के मजबूत खम्भा के अरथ हकइ"
+    }
+  ],
+  "translation": "आउ ऊ हमरा मंदिर में ले अइलन, आउ ऊ ⟨את⟩ खम्भा सब के नापलन — छह हाथ चौड़ा इहाँ से आउ छह हाथ चौड़ा उहाँ से — तम्बू के चौड़ाइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "06266189c20529ec0fe75827fefb6b29e921711727c661649548500231871397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/41\/1-4.1792002935201.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "हमरा ले अइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "मंदिर"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "आउ नापलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खम्भा सब"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "खम्भा सब"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौड़ा"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "इहाँ से"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आउ छह"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौड़ा"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "उहाँ से"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौड़ाइ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "तम्बू"
+    }
+  ],
+  "timestamp": "2026-10-14T18:35:35.201695698Z",
+  "model": "glm-5.3"
+}

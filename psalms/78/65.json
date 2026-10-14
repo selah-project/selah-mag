@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "मתרונן",
+      "rationale": "רנן साहित्यिक अरथ में 'जय-जयकार करना' हकइ; 'हाँक मारना' बनाम 'जय-जयकार' — मद के उछाल के संग ले।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "सुतावल जनाना जइसन जागलन",
+      "rationale": "इब्रानी परमेश्वर के सुतै के आदमी जइसन देखावऽ हइ — ओकर निष्क्रियता के चित्र, सच्ची निन्दा नञ।"
+    }
+  ],
+  "translation": "तब अदोनाय जइसन सुतलऽ आदमी जागलन, जइसन बलवान जे अंगूरी मद के नसे हाँक मारऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/65-68.1792005543679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "जागलन"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "जइसन सुतलऽ आदमी"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "जइसन बलवान"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "हाँक मारऽ हइ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "अंगूरी मद"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:03.680260598Z",
+  "model": "glm-5.3"
+}

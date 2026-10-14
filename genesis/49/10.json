@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 49:10",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שיײה",
+      "rationale": "पुरान पढ़ाई में 'शिलो' नाम, 'ओकर जे ओकरा हकइ तक', या 'जब तक ओकरा बिछउआ अवतइ' — सबढ़ अरथ चलऽ हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "मगही के जुड़ाव 'जब तक... नञ' में ⟨जोड़ सब्द⟩ रूप में रहलइ"
+    }
+  ],
+  "translation": "यहूदा से राज-छड़ी नञ हटतइ, आउ ओकर गोड़ के बीच से बिधान-लिखै वाला नञ; जब तक शिलो नञ अवतइ; आउ ओकरा जाति सब के आज्ञा-पालन होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0acda0678629bb60e16fc3a1cb81802d47e019186d924266b70249a4a6218f90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/49\/9-12.1791987940275.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "हटतइ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "राज-छड़ी"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "यहूदा से"
+    },
+    {
+      "surface": "ומחקק",
+      "gloss": "आउ बिधान-लिखै वाला"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "के बीच से"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ओकर गोड़"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब तक"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨जोड़ सब्द⟩"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "अवतइ"
+    },
+    {
+      "surface": "שילה",
+      "gloss": "शिलो"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "आउ ओकरा"
+    },
+    {
+      "surface": "יקהת",
+      "gloss": "आज्ञा-पालन"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सब"
+    }
+  ],
+  "timestamp": "2026-10-14T14:25:40.276125097Z",
+  "model": "glm-5.3"
+}

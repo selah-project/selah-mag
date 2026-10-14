@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 1:36",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census-roster",
+      "rationale": "बिन्यामीन के कुल के नाम-हिसाब से गिनती के आदेश वाला पद"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יצא צבא",
+      "rationale": "सैनिक बन के सेना में जावे के इब्रानी मुहावरा — शाब्दिक अरथ ‘सेना निकलऽ’"
+    }
+  ],
+  "translation": "बिन्यामीन के बेटासब के — ओकनी के खानदान, ओकनी के परिवार, ओकनी के बाप के घर के हिसाब से, नाम के गिनती में, बीस बरिस के बेटा से ऊपर ले, हर एक जे सेना बर निकलऽ हइ —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6f5e098990f847ae9956c71d9dc885da0003a9457309993b8676fde891e66a8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/1\/33-36.1791990496170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "के बेटासब के"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ओकनी के खानदान"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ओकनी के परिवार"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "के घर"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ओकनी के बाप"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "गिनती में"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "बेटा से"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "आउ ऊपर ले"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलऽ हइ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:08:16.171692398Z",
+  "model": "glm-5.3"
+}

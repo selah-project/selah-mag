@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עם נחलה",
+      "rationale": "'बपौती के संग' — ASV 'बपौती जइसन' पढ़ऽ हइ; 'संग' अरथ बाकी जत्था किताब में आवऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के बाक्य बर जोड़ल गेलइ"
+    }
+  ],
+  "translation": "बपौती के संग होसियारी भला हइ, आउ सुरुज देखए वाला बर ओकर फायदा हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ad77871e5be5f099165824c9a33a57bdd351680d26b38bc1ed1c0d76f964092a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/7\/9-12.1792008437282.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "भला हइ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "होसियारी"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "बपौती"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "आउ फायदा"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "देखए वाला बर"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    }
+  ],
+  "timestamp": "2026-10-14T20:07:17.283034163Z",
+  "model": "glm-5.3"
+}

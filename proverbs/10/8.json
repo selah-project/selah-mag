@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ילבט",
+      "rationale": "lemma לבט तनाख़ में खाली इहे एक जगह आवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "गिर जइतइ",
+      "rationale": "ילבן 'गिरऽ हइ \/ ढेर होके गिरतइ' (KJV\/JPS) बनाम रब्बी परम्परा में 'पिटल जइतइ' (Wycliffe\/Geneva 'beaten')"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ओठै वाला मूरख",
+      "rationale": "שפתים 'ओठ' के बहुबचन बिसेसना के रूप में लेल गेलइ; दोसर पढ़ाई — मूरख के ओठ आपहीं गिरतइ"
+    }
+  ],
+  "translation": "हिरदय के चतुर आदेस लेवऽ हइ, बाकि ओठै वाला मूरख गिर जइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "36b0543c3ca8a3601ea51b94f7f80f707c801c1018dd861a1a59b95dd93270bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/10\/5-8.1792006608306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "चतुर"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय के"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "लेवऽ हइ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "आदेस"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "बाकि …मूरख"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ओठै वाला"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "गिर जइतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:48.306944289Z",
+  "model": "glm-5.3"
+}

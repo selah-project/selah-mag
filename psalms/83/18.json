@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עדי עד",
+      "rationale": "दुहरा 'ad ad' — मगही में एक 'सदा तलक' में घटल; दुहराव के अतरक गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בושׁ\/חפר",
+      "rationale": "लज्जा के दु जड़ के तानाबाना — सरम आउ लज्जा दुनू के दोहराव इब्रानी के बनावट हकइ।"
+    }
+  ],
+  "translation": "ओकनी सरमावऽ आउ घबरावऽ सदा तलक, आउ लज्जा से ओकनी के नस्ट हो जावऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/83\/17-19.1792005507900.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ओकनी सरमावऽ"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "आउ घबरावऽ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "सदा तलक"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨तक⟩"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "आउ लज्जा से"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "ओकनी के नस्ट हो जावऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:27.902251722Z",
+  "model": "glm-5.3"
+}

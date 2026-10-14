@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 73:28",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बखान करी",
+      "rationale": "לספर के अरथ हकइ गिनती-तल गढ़ल अभिलेख बनावल; मगही में 'बखान\/बतावल' लेल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "קרבת אלהים לי טוב",
+      "rationale": "'एलोहीम के नजदीकी हमरा बर भला हकइ' बनाम 'महरूब\/आत्मिक नजदीकी' — की भौतिक मन्दिर-नजदीकी चाही या साँझेदारी"
+    },
+    {
+      "kind": "elision",
+      "subject": "שתי के करता",
+      "rationale": "इब्रानी पद में करता वाक्य से साफ हकइ; मगही में 'हम' जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ हमरा बर एलोहीम के नजदीकी भला हकइ; हम अदोनाय यहवे के हमर शरण बनइलिएँ अछि, ताकि तोहर सब काम के बखान करी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4181a412bb64166fdd25fcabbf8172bb80e13e699eb0bd334f20ad99d03e5922",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/73\/28-28.1792012082920.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आउ हम"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "नजदीकी"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "बनइलिएँ अछि"
+    },
+    {
+      "surface": "באדני",
+      "gloss": "अदोनाय के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "हमर शरण"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "बखान करे बर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מלאכותיך",
+      "gloss": "तोहर काम"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:02.920762595Z",
+  "model": "glm-5.3"
+}

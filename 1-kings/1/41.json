@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 1:41",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע\/וישמע",
+      "rationale": "वाक्य के दुनो किनारे 'सुनना' के दोहराव — अदोनियाहु के सुनल आउ योआब के सुनल, चियास्टिक ढाँचा।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "होमה",
+      "rationale": "हिब्रू क्रिया 'भिनभिनाना\/गूँजना' के साँस लेवे वाला सामान्य क्रिया हकइ; 'गूँजऽ हइ' ओकर नजदीकी चित्र हकइ।"
+    }
+  ],
+  "translation": "अदोनियाहु आउ सब बुलावल ⟨लोग⟩ जे ⟨את⟩ संग हलन, खाए के खतम कइलन, आउ योआब सिंग के आवाज सुनलक आउ कहलक, “काहे नगर के आवाज गूँजऽ हइ?”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4ca43b0ba9238ec91b49c99242d574dc12c866bacaca837f02421d0338adfde8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/1\/41-44.1791996691189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "आउ सुनलन"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "अदोनיׯाहु"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "הקראים",
+      "gloss": "बुलावल ⟨लोग⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ संग"
+    },
+    {
+      "surface": "והם",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "खतम कइलन"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "खए के"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "आउ सुनलक"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आवाज"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "सिंग"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הומה",
+      "gloss": "गूँजऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:51:31.190571427Z",
+  "model": "glm-5.3"
+}

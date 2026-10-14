@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "amos 5:24",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बहे",
+      "rationale": "दोसर क्रिया हिब्रू में अछूट हकइ — मगही के बाक्य-बनावट माँगऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויגל",
+      "rationale": "'बहे' (जस के तस, यगल) बनाम 'लोकटाव\/उमड़ी के आव' — ylt\/jps के बेर-बेर रूप"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כנחל",
+      "rationale": "नहल = बरसाती के बहैत झरना, सूखल नञ — 'बरसाती नदी' के साक्षात् चित्र"
+    }
+  ],
+  "translation": "आउ नियाव पानी जइसन बहे, आउ त्सेदेक सदा बहैत बरसाती नदी जइसन ⟨बहे⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d5eaed421cdd709104698850b82996d13217bc65fe642a6efecda9189b37aa96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/5\/21-24.1792003547557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "आउ बहे"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "पानी जइसन"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "आउ त्सेदेक"
+    },
+    {
+      "surface": "כנחל",
+      "gloss": "बरसाती नदी जइसन"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "सदा बहैत"
+    }
+  ],
+  "timestamp": "2026-10-14T18:45:47.558325681Z",
+  "model": "glm-5.3"
+}

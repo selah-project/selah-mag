@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 21:16",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "टाट",
+      "rationale": "בשו — मोटा जुट के कपड़ा; शोक के चिन्हा; 'गोहर' बनाम 'टाट'।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "अपन",
+      "rationale": "את के बाद सर्बनाम जोड़े के चलन अनुवाद के हकइ — इब्रानी में केवल आँख के जोड़ हकइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "מלאך ङהוה के दो गुण",
+      "rationale": "शलופा (निकालल) आउ ठितुया (तनल) — दू क्रिया जस के तस रखल गेल, जोड़ल नञ।"
+    }
+  ],
+  "translation": "आउ दाविद ⟨את⟩ अपन आँख उठायलक आउ ⟨את⟩ यहवे के दूत के देखलक — जे धरती आउ अकास के बीच ठाढ़ हल, आउ ओकर तलवार ओकर हाथ में निकालल हल, यरूशलयिम के ऊपर तनल हल; आउ दाविद आउ बुढ़ा लोग टाट पहिरल संग अपन मुँह पर गिर गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6622344e411bed2f75dcdf45edb198fb3409d98dc2e8e2bc5adfd420d64f78cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/21\/13-16.1792010387454.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "आउ उठायलक"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन आँख"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "अपन आँख"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "आउ देखलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के दूत"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ठाढ़ हल"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ के बीच"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "आउ ओकर तलवार"
+    },
+    {
+      "surface": "שלופה",
+      "gloss": "निकालल हल"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ओकर हाथ में"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "तनल हल"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "आउ गिर गेलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "והזקנים",
+      "gloss": "आउ बुढ़ा लोग"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "पहिरल"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "टाट"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "अपन मुँह"
+    }
+  ],
+  "timestamp": "2026-10-14T20:39:47.455582168Z",
+  "model": "glm-5.3"
+}

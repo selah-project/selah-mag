@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זבחו זבחי",
+      "rationale": "क्रिया-संज्ञा के दोहराव (बलि करऽ हिअइ बलि के), मगही में एक क्रिया एक संज्ञा में घुसा के छूट गेलइ।"
+    }
+  ],
+  "translation": "आउ ओकनी धन्यवाद के बलि चढ़ावतान आउ ओकर काम के गीत-मंगल के संग बतावतान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "32b3bdf2ef70ff9323cc2b8bb60a56545d3f518e1d08e8a3fe1e66c14c6b3938",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/107\/21-24.1792005899127.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזבחו",
+      "gloss": "आउ ओकनी बलि चढ़ावतान"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "…के बलि"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "धन्यवाद के"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "आउ बतावतान"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ओकर काम के"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "गीत-मंगल के संग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:59.128167988Z",
+  "model": "glm-5.3"
+}

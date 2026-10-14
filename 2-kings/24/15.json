@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ \/ ओकनी सबके",
+      "rationale": "मूलपाठ तर्क-पद (chiasm) है — सूची से पहिले और बाद में क्रिया दोहराया; मगही में सर्वनाम जोड़ना पड़ा"
+    },
+    {
+      "kind": "crux",
+      "subject": "खोजा-खोजी",
+      "rationale": "סריסים: शाब्दिक रूप से खोजा, पर दरबारी अधिकारी भी हो सकता है"
+    }
+  ],
+  "translation": "आउ ⟨ऊ⟩ ⟨את⟩ यहोयाखीन के बाबेल बन्धुआ बनइलन, आउ राजा के ⟨את⟩ माय के, आउ राजा के ⟨את⟩ जनाना के, आउ ओकर ⟨את⟩ खोजा-खोजी के, आउ देस के ⟨את⟩ बलबान के — ओकनी सबके यरूशलयिम से बाबेल ले जा के बन्धुआ बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1020c0378af9c8aef3281dfc2dce0df678513a663b4f20f11722a8292cf75ccd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/24\/13-16.1791998568238.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "आउ बन्धुआ बनइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहोयाखीन"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "यहोयाखीन"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "बाबेल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "राजा के माय"
+    },
+    {
+      "surface": "אם",
+      "gloss": "माय"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "राजा के जनाना"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर खोजा-खोजी"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "खोजा-खोजी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "देस के बलबान"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "बलबान"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देस के"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "ले गेलन"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "बन्धुआ बना के"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "यरूशलयिम से"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "बाबेल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:22:48.240377852Z",
+  "model": "glm-5.3"
+}

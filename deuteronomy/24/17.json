@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "कानूनी हुकुम इस्राएल के सीधे सम्बोधन में हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परदेसी",
+      "rationale": "גר सामान्य 'अजनबी' नञ; बसरत करत परदेसी, जेकरा नियाव के हक हकइ।"
+    }
+  ],
+  "translation": "परदेसी के नियाव टेढ़ नञ करऽ, अनाथ के ⟨नञ⟩ — आउ बिधवा के कपड़ा गिरवी नञ रखऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a4db4aa2f796a9a3589c3c7c90ecb070fffdc8208893bc0d8dbacd8bba3313b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/24\/17-20.1791992783505.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "टेढ़ करऽ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "גר",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "गिरवी रखऽ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "बिधवा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:46:23.506526122Z",
+  "model": "glm-5.3"
+}

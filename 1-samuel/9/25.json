@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Sha'ul",
+      "rationale": "Shemuel speaks with Sha'ul alone on the roof — direct address setting before the private revelation."
+    },
+    {
+      "kind": "secret",
+      "subject": "roof conversation",
+      "rationale": "Shemuel separates Sha'ul to the roof for a private talk, the threshold of the concealed word of 9:27."
+    }
+  ],
+  "translation": "आउ ओनी ऊँच जगह से नगर में उतरलन, आउ ऊ शाऊल के संग छत पर बात कएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d4748ec66df2da1064461909ccf169dc39e942acf8dc181828d36a511374cc56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/9\/25-27.1791995035266.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "उतरलन"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "ऊँच जगह से"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "बात कएलन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "छत"
+    }
+  ],
+  "timestamp": "2026-10-14T16:23:55.266622895Z",
+  "model": "glm-5.3"
+}

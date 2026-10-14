@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "वंसावली",
+      "rationale": "पिता-पुत्र के कड़ी — नाम के गिनती।"
+    }
+  ],
+  "translation": "आउ अत्ताय के नतान जन्म देलक, आउ नतान के जाबाद जन्म देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e76c525b795bbad94390b5430f8f48126788b6524e3bac070f25ab5dd989caf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/2\/33-36.1792009849372.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "आउ अत्ताय के"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "जन्म देलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नतान के"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नतान"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "आउ नतान के"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म देलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जाबाद के"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "जाबाद"
+    }
+  ],
+  "timestamp": "2026-10-14T20:30:49.373786192Z",
+  "model": "glm-5.3"
+}

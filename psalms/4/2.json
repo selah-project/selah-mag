@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक",
+      "rationale": "צדק के लिप्यन्तरन Tier-2 पिन हकइ; अकेले 'धरम' नकारल गेलइ हे"
+    },
+    {
+      "kind": "addition",
+      "subject": "जब",
+      "rationale": "बिन्दुबिन्दु क्रिया (infinitive construct) के आरम्भ बर मगही में 'जब' जोड़ल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "एलोहीम के संबोधन",
+      "rationale": "प्रार्थना सीधे एलोहीम से बात करऽ हइ"
+    }
+  ],
+  "translation": "जब हम पुकारलियनी, हमरा जवाब देला, हमर त्सेदेक के एलोहीम; संकट में तोहनी हमरा चौड़ा कएलन; हमरा करुणा कर, आउ हमर बिनती सुन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/4\/1-4.1792004442834.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "जब हम पुकारलियनी"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "हमरा जवाब देला"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "हमर त्सेदेक"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "संकट में"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "तोहनी चौड़ा कएलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "हमरा करुणा कर"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "आउ सुन"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "हमर बिनती"
+    }
+  ],
+  "timestamp": "2026-10-14T19:00:42.835056464Z",
+  "model": "glm-5.3"
+}

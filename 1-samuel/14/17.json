@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 14:17",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "פקדו",
+      "rationale": "गिनती के आदेस — सैनिक सभ के गिनल जावऽ, पद में गिनती-मापन के चलन हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשא כליו",
+      "rationale": "शाब्दिक अरथ ‘ओकर सामान ढोवइया’ — ‘हथियार ढोवइया’ ओकर काम के बतावऽ हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथियार",
+      "rationale": "כלי शाब्दिक रूप से ‘सामान\/बर्तन’ हकइ; ‘हथियार’ सन्दर्भ के अनुसार जोड़ल साफ़ीकरण हकइ।"
+    }
+  ],
+  "translation": "आउ शाऊल ओ लोग के, जे ⟨את⟩ ओकरा संग हलन, कहलन, “गिनऽ ले आउ देखऽ की हमनी में से कओन गेलन हकइ।” आउ ओकनी गिनलन, आउ देखऽ, योनतान आउ ओकर हथियार ढोवइया नञ हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/14\/17-20.1791995257831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकरा संग",
+      "marks": "ओ लोग — जे ओकरा संग हलन"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "गिनऽ ले"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ले"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कओन"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "हमनी में से"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "आउ ओकनी गिनलन"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "योनतान"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "आउ ढोवइया"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ओकर हथियार"
+    }
+  ],
+  "timestamp": "2026-10-14T16:27:37.832019032Z",
+  "model": "glm-5.3"
+}

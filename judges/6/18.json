@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 6:18",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "'हमर बिनती हइ' के जोर बाला कण, मगही में अलग सब्द नञ रहल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנכי",
+      "rationale": "इब्रानी 'हम-हम' कहके जोर देत हइ; मगही में दोहराव नञ रहल"
+    }
+  ],
+  "translation": "एहीं से मत जाहू, जब तक हम तोहरा लौटके नञ अइबइ; हम ⟨את⟩ हमर मिन्हा निकालबइ आउ तोहर सामने रखबइ। ऊ कहलन, हम तोहर लौटल तक बैठल रहबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "eeb1eb7c7e240d774b70231b341bd0845962b2ae9d4f7b58ee439c75f9133f22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/6\/17-20.1791994146209.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "תמש",
+      "gloss": "जाहू"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "एहीं से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब तक"
+    },
+    {
+      "surface": "באי",
+      "gloss": "अइबइ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "והצאתי",
+      "gloss": "निकालबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर मिन्हा"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "हमर मिन्हा"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "रखबइ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहर सामने"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "बैठल रहबइ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "तोहर लौटल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:09:06.210790760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "पत्थल जइसने \/ सिरिस जइसने",
+      "rationale": "'जइसने' के तुलना-कथा — किताबी अतिशयोक्ति, चानी पत्थल जइसन आम, देवदार सिरिस जइसन ढेर"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ल⟩",
+      "rationale": "देवदार बर करम-चिन्हा मगही में चाही, इब्रानी ⟨את⟩ से पहिले क्रिया आगे-पाछे बाटित रहलइ"
+    }
+  ],
+  "translation": "आउ राजा ⟨את⟩ चानी ल यरूशलयिम में पत्थल जइसने बनइलन, आउ ⟨את⟩ देवदार ⟨ल⟩ सिरिस के गाछ जइसने देलन, जे समथर जमीन में हकइ — बहुतायत से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c8171e20d8316bc2cbb3fae2224e3cb7849598c946e5d9c0df32e23b56b911ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/10\/25-28.1791996985141.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चानी"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "पत्थल जइसने"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "देवदार"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "देवदार"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "सिरिस के गाछ जइसने"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "समथर जमीन में"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "बहुतायत से"
+    }
+  ],
+  "timestamp": "2026-10-14T16:56:25.142975290Z",
+  "model": "glm-5.3"
+}

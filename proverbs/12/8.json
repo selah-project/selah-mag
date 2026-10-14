@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 12:8",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आदमी",
+      "rationale": "दोसर अर्ध-पद में पाता स्पस्ट करे बर सर्बनाम जोड़ल गेलन; इब्रानी में कुछो नञ हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "वाला",
+      "rationale": "מנעוה לב (टेढ़ हिरदय) के बनावट मगही में वाला-जोड़ से देखावल गेलन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "נעוה",
+      "rationale": "शब्दकोश में 'टेढ़ होना' बतावल हकइ बाकि प्रचलित अर्थ 'मनोहर \/ सुहावना' हकइ — JPS एकरा 'distorted understanding' लेतथिन, दोसर 'सुहावना' पढ़ावै हथिन।"
+    }
+  ],
+  "translation": "आदमी ओकर समझ के मोताबिक परसंसा पावऽ हइ; बाकि टेढ़ हिरदय वाला ⟨आदमी⟩ तिरस्कार पातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d2779ffb0844c10ed427f898d0e6419f70e0ab81aee59b173f3351f6e1aae832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/12\/5-8.1792006657946.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפי",
+      "gloss": "के मोताबिक"
+    },
+    {
+      "surface": "שכלו",
+      "gloss": "ओकर समझ"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "परसंसा पावऽ हइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ונעוה",
+      "gloss": "आउ टेढ़"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "तिरस्कार बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:37:37.947431191Z",
+  "model": "glm-5.3"
+}

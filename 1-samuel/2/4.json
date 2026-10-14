@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ताकत⟩",
+      "rationale": "חיײ सीधे 'बल' हकइ; 'काठी में बान्हऽ' के संग ओकर अरथ ताकत भेलइ — कोस्ठक में देखावल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חתים\/נכשלים",
+      "rationale": "उलट-सीधा जोड़ी — तूटल धनुक आउ लड़खड़ावल जे बलवान हो गेलन; इब्रानी के उलटफेर के चाल"
+    }
+  ],
+  "translation": "बलवान लोग के धनुक टूट गेलन, आउ लड़खड़ावल लोग ⟨ताकत⟩ काठी में बान्ह लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "de876f4b77ed6ae946f0fbcb09ebde86173e2e0da637a189c61241495c1bd821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/2\/1-4.1791994783684.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "धनुक"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "बलवान लोग के"
+    },
+    {
+      "surface": "חתי׮",
+      "gloss": "टूट गेलन"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "आउ लड़खड़ावल लोग"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "काठी में बान्ह लेलन"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨ताकत⟩"
+    }
+  ],
+  "timestamp": "2026-10-14T16:19:43.685650483Z",
+  "model": "glm-5.3"
+}

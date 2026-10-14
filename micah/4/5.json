@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "चलतइ",
+      "rationale": "इब्रानी के क्रिया अनिश्चित चाल बतावऽ हइ (जे चलऽ हइ); भबिस के रूप एक सम्भावना हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "अपन देवता",
+      "rationale": "אלהיו दोसर जाति के देवता बर हकइ — जाति-सब्द, नाम नञ।"
+    }
+  ],
+  "translation": "काहे कि सब जाति के लोग चलतइ, हर एक अपन देवता के नाम में; बाकि हमनी चलबइ यहवे हमनी के एलोहीम के नाम में, सदा आउ हमेसा तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7f87565b349dc80012fa70b7aebb8aa033c465e0096602a9ea374f1e4a352b08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/4\/5-8.1792003724829.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "जाति के लोग"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "चलतइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "के नाम में"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "अपन देवता"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "बाकि हमनी"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "चलबइ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "के नाम में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ हमेसा तक"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:44.830244956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מקרה",
+      "rationale": "'नियति\/होवै वाला बात' — मूल शब्द 'मिलै वाला' (chance occurrence), भाग्य जइसन कोनो शब्द नञ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לזבח \/ איננו זבח",
+      "rationale": "एके जड़ ज़बाख के दोहराव — जोड़ी-जोड़ी विरोध वाला सूची-चाल, मगही में संरचना तो रहऽ हइ बाकि ध्वनि-मेल नञ।"
+    }
+  ],
+  "translation": "सब के सब नियति एक्कै होवऽ हइ — धरमी बर आउ दुष्ट बर, भला बर आउ पवित्तर बर आउ अपवित्तर बर, बलि करै वाला बर आउ जे बलि नञ करै; जइसन भला, तइसन पापी; जे सौगन खावऽ हइ, तइसन जे सौगन से डरऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4cd7115eadb43106d51f68cd3f6c5b4c96fe8f0204e1b497ec13331bc7484705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/9\/1-4.1792008531460.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "सब के सब"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "नियति"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब बर"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "होवऽ हइ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक्कै"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "धरमी बर"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "आउ दुष्ट बर"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "भला बर"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "आउ पवित्तर बर"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "आउ अपवित्तर बर"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "आउ बलि करै वाला बर"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि करै"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "जइसन भला"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "तइसन पापी"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "जे सौगन खावऽ हइ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "तइसन जइसन"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "सौगन"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "से डरै वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T20:08:51.461526622Z",
+  "model": "glm-5.3"
+}

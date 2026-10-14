@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 21:29",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "काहे कि",
+      "rationale": "हिब्रू बाक्य बिना जोड़-सब्द के सुरू होवऽ हइ; संबंध आगे के पद से हकइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "במה",
+      "rationale": "ऊँच जगह — पूजा के जगह बर बाद के बिधान एकरा नकारऽ हइ, इहाँ तटस्थ अरथ में"
+    },
+    {
+      "kind": "elision",
+      "subject": "हलन",
+      "rationale": "हिब्रू में क्रिया नञ हइ; मगही के बाक्य बर ⟨हलन⟩ के जरूरत"
+    }
+  ],
+  "translation": "काहे कि यहवे के मिश्कान, जे मोशे जंगल में बनइलन, आउ जलावे बर बलि के बेदी ओही समय में गिबओन ⟨के ऊँच जगह⟩ में हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6f0077f9b1066bd85709a0b803cc34f21569a4eb57baef8bc5629e1685b6726c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/21\/29-30.1792010277116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשכן",
+      "gloss": "आउ मिश्कान"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "आउ बेदी"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "जलावे बर बलि के"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "ऊँच जगह में"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "गिबओन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:37:57.116947996Z",
+  "model": "glm-5.3"
+}

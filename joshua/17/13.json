@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 17:13",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למס",
+      "rationale": "बेगारी — लगान के रूप में जबरजस्ती के मजदुरी, इब्रानी के बोझ-शब्द के चित्र"
+    },
+    {
+      "kind": "crux",
+      "subject": "והורש לא הורישו",
+      "rationale": "“पूरा नञ हटइलन” बनाम “ओकरा बिल्कुल नञ हटइलन” — क्रिया के पुनरावृत्ति बल देलै"
+    }
+  ],
+  "translation": "आउ ई होलइ कि जब यिस्राएल के बेटा सब बलवान भेलन, तब ओकनी ⟨את⟩ कनानी के बेगारी में धरलन, बाकि ओकरा ओकर जगह से पूरा नञ हटइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a029d06d78c7145688d42ddc78e803b9636c5fc21ca289aa415005e785e644f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/17\/13-16.1791993710521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ ई होलइ कि"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "बलवान भेलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ओकनी धरलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कनानी के"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "कनानी"
+    },
+    {
+      "surface": "למס",
+      "gloss": "बेगारी में"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "आउ हटावे में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "हटइलन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:01:50.522511877Z",
+  "model": "glm-5.3"
+}

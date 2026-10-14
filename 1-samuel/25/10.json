@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המתפרצים",
+      "rationale": "'फूट के निकलऽ हथिन \/ तोड़ के भागऽ हथिन' — शब्द के मूल चित्र हकइ 'तोड़ के बाहर होना', 'भागना' नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "नाबाल के बोली",
+      "rationale": "दाविद के सेवक लोग के सीधे संबोधन — तिरस्कार भरल प्रस्न।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבל",
+      "rationale": "नाबाल के नाम आउ 'मूरख' (נבל) के मेल — ओकर बोली एही सब्द के गवाही देऽ हइ।"
+    }
+  ],
+  "translation": "आउ नाबाल दाविद के सेवक लोग के ⟨את⟩ जवाब देलक आउ कहलक — दाविद कोन हकइ? आउ यिस्सी के बेटा कोन हकइ? आज कतेक सेवक हो गेल हथिन जे अपन-अपन मालिक के आगू से भागऽ हथिन, हर एक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/25\/9-12.1791995550404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब देलक"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नाबाल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाविद के सेवक लोग के"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "सेवक लोग"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आउ कोन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिस्सी के"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "हो गेल हथिन \/ बढ़ल"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "भागऽ हथिन \/ फूट के निकलऽ हथिन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…के आगू से"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "अपन मालिक"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:30.405158618Z",
+  "model": "glm-5.3"
+}

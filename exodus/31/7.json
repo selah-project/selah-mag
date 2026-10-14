@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפרת",
+      "rationale": "मूल अरथ 'ढक्कन' हकइ; 'प्रायस्चित के ढक्कन' (चलनसार अनुवाद) बनाम 'सन्दूक के ढक्कन' — ढक्कन लेलियै।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מועד",
+      "rationale": "'नियत समय\/मिलन' — 'मिलन के तम्बू' लेलियै, चलनसार 'सभा' नञ।"
+    }
+  ],
+  "translation": "⟨את⟩ मिलन के तम्बू, आउ ⟨את⟩ गवाही के सन्दूक, आउ ⟨את⟩ ओकर ऊपर के ढक्कन, आउ ⟨את⟩ तम्बू के सब बरतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ab0aac9159f03ddc7a5f585b187148160817e71b381f5d3c797b694af0b804f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/31\/5-8.1791989090724.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मिलन के तम्बू"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "गवाही के सन्दूक"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "गवाही के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ढक्कन"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ढक्कन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सब बरतन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बरतन"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "तम्बू के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:44:50.725448752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ועל ידו",
+      "rationale": "'ओकर हाथ के नीचे' — इब्रानी 'ओकर हाथ पर' अरथात ओकर अधीन, 'बगल में' नञ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सौ अस्सी हजार",
+      "rationale": "सेना के गिनती।"
+    }
+  ],
+  "translation": "आउ ओकर हाथ के नीचे येहोजावाद, आउ ओकरा संग सौ अस्सी हजार लड़ाई बर तैयार सैनिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "76d826484116622dbb00ad9c26b8d70c7f9ea3731f22c47cfecd0c944c703f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/17\/17-19.1792010895231.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आउ … के नीचे"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "येहोजावाद"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "आउ ओकरा संग"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "आउ अस्सी"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "तैयार"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "लड़ाई बर सैनिक"
+    }
+  ],
+  "timestamp": "2026-10-14T20:48:15.231887066Z",
+  "model": "glm-5.3"
+}

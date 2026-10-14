@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "तीस दिन",
+      "rationale": "बिलाप के नियत समय — गिनती।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मैदान",
+      "rationale": "בערבות — बिस्तर घाटी\/रेतिल मैदान (यर्दन के पूरब के अराबा); 'मैदान' निकटतम रूप।"
+    }
+  ],
+  "translation": "आउ यिस्राएल (इस्राएल) के बेटा ⟨את⟩ मोशे बर मोआब के मैदान में रोलन तीस दिन; आउ मोशे बर रोवे-विलाप के दिन पूरा भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "03f4fddf3f8c4eb367c85ded4bf2314bddad1e38aa2eb2110b57cdca35216597",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/34\/5-8.1791993090057.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "आउ रोलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "मैदान में"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब के"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "आउ पूरा भेलन"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "रोवे"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "विलाप"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:51:30.058179023Z",
+  "model": "glm-5.3"
+}

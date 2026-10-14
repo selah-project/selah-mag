@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להלך נגד החיים",
+      "rationale": "'जीवता लोग के आगू चलल' — क्या गरीब के फायदा हकइ जे अकेले जिए लोग के सामने उचित चलल जानऽ हकइ? KJV\/JPS\/BSB में तीन तरह के जोड़।"
+    },
+    {
+      "kind": "rhetorical-question",
+      "subject": "की…हकइ? \/ की…?",
+      "rationale": "दू प्रस्न — समझदारी आउ गरीबी दुनों के बढ़तवा पर प्रस्नचिन्हा।"
+    }
+  ],
+  "translation": "काहे कि समझदार के मूरख ले की बेसी हकइ? गरीब के की, जे जीवता लोग के आगू चलल जानऽ हइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e25dd4707c12d39be825e519c7342db0a22f56572462426e3cdb4b54ed67138c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/6\/5-8.1792008484652.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "बेसी"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "समझदार के"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "गरीब के"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जानऽ हइ"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "चलल"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवता लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T20:08:04.653102967Z",
+  "model": "glm-5.3"
+}

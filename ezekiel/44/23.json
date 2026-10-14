@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "साधारण",
+      "rationale": "चोल = बेपवित्तर \/ साधारण; 'अपवित्तर' बाद के धरमबिग्यान के बोझ उठावऽ हइ"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ हमरा लोग के ओकनी सिखातइ पवित्तर आउ साधारण के बीच; आउ अशुद्ध आउ शुद्ध के बीच ओकनी के जनावतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7ab6c9c89820e84f6d4d11774b0556f74dd025635a126514b61ea4e8abfd18a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/44\/21-24.1792003053265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हमरा लोग के"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमरा लोग के"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "सिखातइ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "आउ साधारण"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ के बीच"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "आउ शुद्ध"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "ओकनी के जनावतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:37:33.266252521Z",
+  "model": "glm-5.3"
+}

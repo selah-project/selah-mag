@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 2:2",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "अगर हम तोहरा छोड़बइ",
+      "rationale": "शपथ के ढाँचा — इब्रानी 'אם אעזבך' में 'नञ' नञ हकइ; मतलब 'कखनो नञ छोड़बइ'।"
+    },
+    {
+      "kind": "you",
+      "subject": "एलिजा",
+      "rationale": "एलियाहू एलिजा के सीधे सम्बोधन करऽ हथिन।"
+    },
+    {
+      "kind": "elision",
+      "subject": "नא",
+      "rationale": "विनती के चिन्हा 'नא' बतियानी में 'तोहनी' से पार भेल, बाकि अरथ पूरा नञ आवऽ हकइ।"
+    }
+  ],
+  "translation": "एलियाहू एलिजा संग बतियालन: तोहनी इहै रहऽ, काहे कि यहवे हमरा बेइत-एल (बेथेल) धरि भेजलन हे। एलिजा कहलन: यहवे जीवित हथिन आउ तोहर परान जीवित हकइ, अगर हम तोहरा छोड़बइ। आउ दुनो बेइत-एल उतरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b8d8752e18c862d7f7357253945aff81203ab1c27a6bb7a93babfbe4358f77c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/2\/2-3.1792011840781.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "बतियालन"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "संग"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "एलिजा"
+    },
+    {
+      "surface": "שב",
+      "gloss": "रहऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "פה",
+      "gloss": "इहै"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "हमरा भेजलन हे"
+    },
+    {
+      "surface": "עד",
+      "gloss": "धरि"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेइत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "एलिजा"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "आउ जीवित"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "तोहर परान"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "हम तोहरा छोड़बइ"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "उतरलन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेइत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-10-14T21:04:00.782342964Z",
+  "model": "glm-5.3"
+}

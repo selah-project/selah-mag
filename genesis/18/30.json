@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 18:30",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יחר",
+      "rationale": "literally 'to burn\/blaze up'; rendered क्रोधित होना (be angry), the idiom's sense"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "the softening particle has no separate Magahi word; its plea-force bracketed"
+    },
+    {
+      "kind": "you",
+      "subject": "to Adonai",
+      "rationale": "Abraham addresses Adonai directly in the bargaining"
+    }
+  ],
+  "translation": "ऊ कहलक, “अदोनाय क्रोधित नञ होवथिन, आउ हम बोलब — काहे कि अइसन त ओहाँ तीस ⟨मिलथिन⟩?” आउ ऊ कहलन, “जँ हम ओहाँ तीस पाब त नञ करब।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a56702be094720332b840152301de10ac427a52aa987c4a68b04d097fee8c570",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/18\/29-32.1791986751682.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨बिनती हकइ⟩"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "क्रोधित होवथिन"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "अदोनाय के"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "आउ हम बोलब"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "काहे कि अइसन त"
+    },
+    {
+      "surface": "ימצאון",
+      "gloss": "मिलथिन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहाँ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "करब"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "पाब"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहाँ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    }
+  ],
+  "timestamp": "2026-10-14T14:05:51.683812638Z",
+  "model": "glm-5.3"
+}

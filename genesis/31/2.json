@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "איננו עמו כתמול שלשום",
+      "rationale": "literally 'not with him as yesterday, day-before-yesterday' — idiom for 'not as formerly'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मुँह",
+      "rationale": "פני 'face' — countenance\/attitude; magahi मुँह keeps the literal face"
+    }
+  ],
+  "translation": "आउ याकोव लाबान के ⟨את⟩ मुँह के देखलन, आउ देखऽ — ओ पहिले जइसन हलइ, तइसन ओकरा संग नञ हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c18f01c20658d1d3b1531353c17f2891c1d965ede789c4d16e8a7a36b2fe9e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/31\/1-4.1791987257047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मुँह"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लाबान"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "नञ हलइ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "पहिले"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "तइसन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:14:17.048609674Z",
+  "model": "glm-5.3"
+}

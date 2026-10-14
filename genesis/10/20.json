@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לשנתם",
+      "rationale": "मूल 'जीभ' — भासा के अरथ में 'बोली' रखल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सूची-समापन",
+      "rationale": "खाम के वंश-सूची के समापन गिनती — परिवार, बोली, धरती, जाति के मोताबिक।"
+    }
+  ],
+  "translation": "ई सब खाम के बेटा लोग हथिन — ओकनी के परिवार के मोताबिक, ओकनी के बोली के मोताबिक, ओकनी के धरती में, ओकनी के जाति के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bc613200da5eb1e09cbc1b28970cb6bfa0959dc458ac71ee07ab0c6f4f0b80ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/10\/17-20.1791986507035.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा लोग"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खाम के"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ओकनी के परिवार के मोताबिक"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ओकनी के बोली के मोताबिक"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ओकनी के धरती में"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "ओकनी के जाति के मोताबिक"
+    }
+  ],
+  "timestamp": "2026-10-14T14:01:47.036802185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक",
+      "rationale": "कצדקि त्सेदेक के रूप हकइ; Tier-2 नियम के मोताबिक लिप्यन्तरन"
+    },
+    {
+      "kind": "addition",
+      "subject": "एहे से",
+      "rationale": "व-वाव के निचोड़, हिब्रू के जोड़ के मगही में अलग सब्द चाही"
+    }
+  ],
+  "translation": "एहे से यहवे हमरा हमर त्सेदेक के मोताबिक फेर देलन, हमर हाथ के सफाई के मोताबिक, ओकर आँखी के सामने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/18\/25-28.1792004635314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "फेर देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "हमर त्सेदेक के मोताबिक"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "सफाई के मोताबिक"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हमर हाथ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ओकर आँखी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:55.314780759Z",
+  "model": "glm-5.3"
+}

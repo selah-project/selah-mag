@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 16:9",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אריוך",
+      "rationale": "רוה 'to slake thirst' — 'I water\/drench you with my tears', not literal drinking."
+    },
+    {
+      "kind": "crux",
+      "subject": "הידד",
+      "rationale": "'shout' — battle-cry (KJV\/ASV) vs vintage-shout of treaders (context of v.10); rendered plain 'shout'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבכי…דמעתי",
+      "rationale": "weeping-tears chain echoes Jer 48:32, a near-verbatim Moab oracle."
+    }
+  ],
+  "translation": "एही कारण हम याज़ेर के रोवै से रोब — शिबमा के बेल बर; हमर आँसू से हम तोहरा भिजाब, हे खेशबोन आउ हे एलआले; काहे कि तोहर गरमी के फल आउ तोहर फसल पर धइ-धइ के शोर गिर गेलइ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bf9593849a5e5153b36bb4168f6b9b067a8895822ab24fa9211e4cbe4a7827e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/16\/9-12.1791998873361.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एही कारण बर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही कारण"
+    },
+    {
+      "surface": "אבכה",
+      "gloss": "हम रोब"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "रोवै के संग"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "याज़ेर"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "बेल"
+    },
+    {
+      "surface": "שבמה",
+      "gloss": "शिबमा"
+    },
+    {
+      "surface": "אריוך",
+      "gloss": "भिजाब"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "हमर आँसू से"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "खेशबोन"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "आउ एलआले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "קיצך",
+      "gloss": "तोहर गरमी के फल"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ पर"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "तोहर फसल"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "धइ-धइ के शोर"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "गिर गेलइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:27:53.361967527Z",
+  "model": "glm-5.3"
+}

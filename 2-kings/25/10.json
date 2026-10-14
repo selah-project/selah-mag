@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רב טבחים",
+      "rationale": "साफ अरथ हकइ 'कसाइ सब के सरदार' (वधशाला के प्रधान); लिप्यन्तरन रब-तबाहिम रखल गेलइ, पहिला आगमन पर कोस्ठक में समझावल गेलइ।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ यरूशलयिम के चारों दने के दीवार कस्दी के सब सैनिक ढहा देलन जे रब-तबाहिम (हमारा मालिक, सेनापति) के संग हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/25\/9-12.1791998510606.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दीवार"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों दने"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ढहा देलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सैनिक"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "कस्दी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "רב",
+      "gloss": "रब"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "तबाहिम"
+    }
+  ],
+  "timestamp": "2026-10-14T17:21:50.607499255Z",
+  "model": "glm-5.3"
+}

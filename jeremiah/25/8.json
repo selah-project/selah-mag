@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के बचन",
+      "rationale": "נאם ׯहवे के इब्रानी रूप में कर्ता-क्रिया जोड़ल पड़ल — मगही में 'यहवे त्सबाओत के बचन' रूप लेलक"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "यहाँ אשर कारण-उपवाक्य का सम्बन्धक है, मगही में 'काहे कि' से काम लेलक"
+    },
+    {
+      "kind": "you",
+      "subject": "यहूदा के लोग",
+      "rationale": "तोहनी — सीधा सम्बोधन, यहवे ओकरा परजा के ओकर बात न सुने के दोस देत हइ"
+    }
+  ],
+  "translation": "एहे से एहना यहवे त्सबाओत के बचन हकइ: काहे कि तोहनी ⟨את⟩ हमर बात के नञ सुनलनिहार रहलनिहार — काहे कि तोहनी हमर बात सब के नञ सुनलनिहार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dbd736f1164304f01e13af7db089faf385bccd14648b557efbe6c9be1f58a6a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/25\/8-8.1792011858847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "के बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "יען",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "सुनलनिहार"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर बात सब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "हमर बात सब"
+    }
+  ],
+  "timestamp": "2026-10-14T21:04:18.847766762Z",
+  "model": "glm-5.3"
+}

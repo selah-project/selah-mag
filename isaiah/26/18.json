@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 26:18",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "रूआख 'बतास' — खाली हवा जनमलिये, कोनो फल नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפלו ישבי תבל",
+      "rationale": "'दुनिया के रहइआ गिरलन' — कोनो दुसमन के गिरावे के अरथ या JPS के 'जी उठलन' (נפל के अरथ-परति) — दुनो पढ़ावा चलऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרינו\/חלנו\/ילדנו",
+      "rationale": "तीन क्रिया प्रसूति के छंद बानहि के हइ — विफल जनम के तस्वीर।"
+    }
+  ],
+  "translation": "हमनी गरभवती भेलिये, ठाक सहलिये, जनमलिये त ⟨बतास⟩ — धरती पर बचाव नञ कइलिये, आउ दुनिया के रहइआ के गिरना भी नञ भेल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "606c279460d2fc9aba5e4280947b919581a273c7ad90da5c5454085569511dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/26\/17-20.1791999062561.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרינו",
+      "gloss": "गरभवती भेलिये"
+    },
+    {
+      "surface": "חלנו",
+      "gloss": "ठाक सहलिये"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "ילדנו",
+      "gloss": "जनमलिये"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "बतास"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "बचाव"
+    },
+    {
+      "surface": "בל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "कइलिये"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "गिरना"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहइआ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "दुनिया के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:31:02.562342412Z",
+  "model": "glm-5.3"
+}

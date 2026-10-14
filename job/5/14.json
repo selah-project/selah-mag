@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 5:14",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "रात जइसन",
+      "rationale": "इब्रानी में 'जइसन' के तुलना-सब्द स्पस्ट नञ हकइ; अरथ साफ़ करे बर जोड़ल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בצהरים",
+      "rationale": "दुअल 'दू इँजोर' — दुपहरिया; इँजोर के दोहरी बनावट मगही में नञ आ पावऽ हइ।"
+    }
+  ],
+  "translation": "दिन में ओकनी अन्हार से भेंट करऽ हइ, आउ दुपहरिया में रात जइसन टटोलऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c7d2aec0790f3f4feb2a623ec8498f6c0e9d95f0edbddc968efc20ed0c53fcff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/5\/13-16.1792007209630.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "יפגשו",
+      "gloss": "भेंट करऽ हइ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्हार से"
+    },
+    {
+      "surface": "וכלילה",
+      "gloss": "आउ रात जइसन"
+    },
+    {
+      "surface": "ימששו",
+      "gloss": "टटोलऽ हइ"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "दुपहरिया में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:46:49.631487541Z",
+  "model": "glm-5.3"
+}

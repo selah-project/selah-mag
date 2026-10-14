@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 29:28",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ארכה היא",
+      "rationale": "शाब्दिक: 'लम्बा ऊ हइ' — KJV\/JPS 'बंदी लम्बा हइ' (captivity जोड़थिन), YLT 'ऊ लम्बा हइ'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בבל",
+      "rationale": "'हमनी के दने बाबेल में' — कतुबा 'हमनी बाबेल में के दने' पढ़थिन; पतरी बाबेल के निर्वासित मनईन के आएल रहे"
+    }
+  ],
+  "translation": "काहे कि एही बर ऊ हमनी के दने बाबेल में भेजलक, ई कहित कि अउरी देर हइ — घर बनावऽ, आउ बस जावऽ, आउ बारी रोपऽ, आउ ⟨את⟩ ओकर फल खावऽ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c40a7c7739b793dfc9173434f1c7de3744cfc1690de4916a55f5cef29d64ac7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/29\/25-28.1792000920427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "על",
+      "gloss": "एकरे"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही बर"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजलक"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "हमनी के दने"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल में"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ई कहित"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "अउरी देर"
+    },
+    {
+      "surface": "היא",
+      "gloss": "हइ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "बनावऽ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "घर सब"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "आउ बस जावऽ"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "आउ रोपऽ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "बारी सब"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "आउ खावऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर फल"
+    },
+    {
+      "surface": "פריהן",
+      "gloss": "ओकर फल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:02:00.429149697Z",
+  "model": "glm-5.3"
+}

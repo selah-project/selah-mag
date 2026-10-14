@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 26:23",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "दूनो कुनिया",
+      "rationale": "בירכתים ׯरכה (पिछवाड़ा) का द्विबचन हकइ — दो कुनिया; 'पिछवाड़ा' के दुहराव।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दू तखता",
+      "rationale": "कुनिया के तखता के गिनती।"
+    }
+  ],
+  "translation": "आउ मिश्कान के पिछल कुनिया बर दू तखता बनाबऽ — पिछवाड़ा के दूनो कुनिया पर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9adc01df8a0dc59b933c85a15f4d4d634222922ff17ba516ddd47f98782d39ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/26\/21-24.1791988837013.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "आउ दू"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "तखता"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "बनाबऽ"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "कुनिया बर"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मिश्कान"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "दूनो कुनिया पर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:40:37.013968344Z",
+  "model": "glm-5.3"
+}

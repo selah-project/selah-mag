@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 9,
+  "translation": "आउ ⟨את⟩ मांस आउ ⟨את⟩ खाल ओ डेरा के बाहरे आग में जरालन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "aaad847a22f39bff0395895f94587c598660adf1c3798e31d9160b4edb928c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/9\/9-12.1791989706767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "मांस"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "खाल"
+    },
+    {
+      "surface": "העור",
+      "gloss": "खाल"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "जरालन"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहरे"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "डेरा के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:55:06.768916862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 30:17",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Verse addresses Israel in the second person singular."
+    },
+    {
+      "kind": "substitution",
+      "subject": "देवता सब",
+      "rationale": "אלהים छोटका-जाति के अरथ में: देवता सब, नाम एलोहीम नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונדחת",
+      "rationale": "नादख: 'धक्का देके भगावल' (KJV drawn away) बनाम 'भटक गेल' — कारण बनाम परिणाम।"
+    }
+  ],
+  "translation": "आउ यदि तोहर हिरदय फिर जा हइ आउ तूँ सुनऽ मत करऽ, आउ तूँ धक्का खाके भटक जातइ, आउ दोसर देवता सब के आगू दण्डवत करऽ हइ आउ ओकनी के सेवा करऽ हइ,",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "965050add94972e57b1a8194578138a08fe5de8138585eef10a6d78fefcd29a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/30\/17-20.1791993046228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ यदि"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "फिर जा हइ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "तोहर हिरदय"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ ... मत"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "सुनऽ करऽ"
+    },
+    {
+      "surface": "ונדחת",
+      "gloss": "धक्का खाके भटक जातइ"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "दण्डवत करऽ हइ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "देवता सब के आगू"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "आउ ओकनी के सेवा करऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:50:46.229401138Z",
+  "model": "glm-5.3"
+}

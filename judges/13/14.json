@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 13:14",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "सर्बनाम",
+      "rationale": "इब्रानी के क्रिया-रूप जनाना (ओकरा) के बतावऽ हइ; अनुवाद में अलग सर्बनाम नञ जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "तेज मद",
+      "rationale": "שכर जाति-सब्द हकइ — अंगूर से बनल नञ — तेज मद ओकर सभसे नजदीक मगही रूप"
+    },
+    {
+      "kind": "you",
+      "subject": "मनोह",
+      "rationale": "दूत मनोह से जनाना के बर दुहरावल नियम कहऽ हइ"
+    }
+  ],
+  "translation": "अंगूर के गाछ से जे किछु निकरऽ हइ ओकरा मत खाए, आउ अंगूरी मद आउ तेज मद मत पीए, आउ कोनो अशुची चीज मत खाए; जे सब हम ओकरा आज्ञा देलन हे, ओकरा रखवारी करे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4124afd7a0153c4645a93563cb537d729bcfea148320eb3666efaae20b3dc932",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/13\/14-15.1792011675466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "जे किछु भी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकरऽ हइ"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "अंगूर के गाछ से"
+    },
+    {
+      "surface": "היין",
+      "gloss": "अंगूर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाए"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "आउ अंगूरी मद"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "आउ तेज मद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "पीए"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ कोनो"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "अशुची चीज"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जे सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צויתיה",
+      "gloss": "आज्ञा देलन हे"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "रखवारी करे"
+    }
+  ],
+  "timestamp": "2026-10-14T21:01:15.467021376Z",
+  "model": "glm-5.3"
+}

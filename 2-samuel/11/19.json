@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨कहऽ हइ⟩",
+      "rationale": "לאמר introduces direct speech; bracketed since Magahi needs the frame verb"
+    },
+    {
+      "kind": "you",
+      "subject": "दूत",
+      "rationale": "Joab's instruction addresses the messenger directly — 'when YOU finish speaking'"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ दूत के आज्ञा देलन ⟨कहऽ हइ⟩: जब तूँ राजा के लगा ⟨את⟩ लड़ाई के सब बात कहि चुकऽह —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "01f9f21ef46f01b11b1e3e1788231c07640dcbabf0c97afa04d493cc9ccd5f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/11\/17-20.1791996168041.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "आज्ञा देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दूत"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨कहऽ हइ⟩"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "जब तूँ … चुकऽह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लड़ाई के सब बात"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "लड़ाई के"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "कहि"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:42:48.042173704Z",
+  "model": "glm-5.3"
+}

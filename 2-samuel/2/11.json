@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "राज-काल",
+      "rationale": "दाविद के खेब्रोन के राज के सात बरिस आउ छह महीना के गिनती।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "मगही बाक्य बर किरिया जोड़ल गेलन; इब्रानी के 'वय्ही' ओकरा लेले हइ।"
+    }
+  ],
+  "translation": "आउ दिन के गिनती, जे दाविद यहूदा के घर पर खेब्रोन में राजा रहलन, सात बरिस आउ छह महीना हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0ee6f91da8c11f6284c71095e8cd8f8c1d2c1df106a0b431eb45ed6dae18ff07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/2\/9-12.1791995817273.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेलन"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "खेब्रोन में"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "आउ छह"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "महीना"
+    }
+  ],
+  "timestamp": "2026-10-14T16:36:57.274197819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 32:2",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המטרה",
+      "rationale": "Literally 'the guard\/watch' (from נטר, to watch); rendered पहरेदार के अँगना, the courtyard of the guard."
+    },
+    {
+      "kind": "addition",
+      "subject": "में",
+      "rationale": "Hebrew construct 'courtyard of the guard which [is in] the house' lacks a locative; Magahi supplies ⟨में⟩."
+    }
+  ],
+  "translation": "आउ तखन बाबेल के राजा के सेना यरूशलयिम के घेराव करऽ हलइ, आउ यिर्मेयाहू नबी ओ पहरेदार के अँगना में बन्द हलइ जे यहूदा के राजा के घर ⟨में⟩ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5ac7d8e27ee2320ca5fd7b32c8d475e3591a5e333086d90052dca9e63c71fa1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/32\/1-4.1792000990566.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואז",
+      "gloss": "आउ तखन"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल के"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "घेराव करऽ हलइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "וירמיהו",
+      "gloss": "आउ यिर्मेयाहू"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "כלוא",
+      "gloss": "बन्द"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "अँगना में"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "पहरेदार के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:03:10.567650846Z",
+  "model": "glm-5.3"
+}

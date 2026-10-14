@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התפלשתי",
+      "rationale": "form is first-person 'I rolled myself' (ASV) but context is imperative 'roll thyself' (KJV\/JPS); imperative read here."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עפרה\/עפר",
+      "rationale": "town name בית לעפרה puns on עפר 'dust' — 'house of dust, roll in dust'; kept by gloss धूरी के घर।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "verse is a chain of direct commands — do not tell, do not weep, roll in the dust — addressed to the people."
+    },
+    {
+      "kind": "you",
+      "subject": "to the people of Judah",
+      "rationale": "second-person plural commands address the threatened towns directly."
+    }
+  ],
+  "translation": "गत (गथ) में मत कहऽ; बिलख-बिलख के मत रोवऽ; बेत-लेअफरा (धूरी के घर) में धूरी में लोटऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/1\/9-12.1792003691503.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "गत में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "रोवऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "रोवऽ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "लेअफरा में"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूरी में"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "लोटऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:11.504410774Z",
+  "model": "glm-5.3"
+}

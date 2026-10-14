@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 39:1",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बरिस आउ महीना के गिनती",
+      "rationale": "घेराबन्दी के मिति गिन के देल गेलइ — नौवाँ बरिस, दसवाँ महीना।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדקיהו = त्सिदकियाहू",
+      "rationale": "इब्रानी-निस्ठ रूप; चलनसार 'सिदकियाह' के जगह।"
+    }
+  ],
+  "translation": "जब त्सिदकियाहू यहूदा के राजा के बरिस नौवाँ हल, दसवाँ महीना में, तब बवल के राजा नवुकदरेस्सर आउ ओकर पूरा सेना यरूशलयिम ऊपर अइलन, आउ ओकनी ओकरा घेर लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "165028f1741c1b507e606daec09be736c48d7e915bae80b8fd56dffd4f1b403a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/39\/1-4.1792001226241.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "התשעית",
+      "gloss": "नौवाँ"
+    },
+    {
+      "surface": "לצדקיהו",
+      "gloss": "त्सिदकियाहू के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "महीना में"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "दसवाँ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "नवुकदरेस्सर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बवल"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ पूरा"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "आउ घेर लेलन"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:07:06.241859702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "बहुवचन דעריך — मगही में बहुवचन साफ करे बर 'सब' जोड़ल"
+    },
+    {
+      "kind": "invitation",
+      "subject": "लिखऽ",
+      "rationale": "आदेशार्थ क्रिया, इस्राएल के सीधे सम्बोधन"
+    }
+  ],
+  "translation": "आउ ओकरा लिखऽ तोहर घर के केवाड़ी-डाँठी पर आउ तोहर दुआरी सब पर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d7fb53a9cfb304c68e6e3cd85885b49b85e4abe1083bee400de1bdf009fbcba4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/6\/9-12.1791992070524.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "आउ लिखऽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "केवाड़ी-डाँठी"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "तोहर घर के"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "आउ तोहर दुआरी सब पर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:34:30.525070326Z",
+  "model": "glm-5.3"
+}

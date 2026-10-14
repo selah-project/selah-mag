@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מוט \/ מטה",
+      "rationale": "Rhyming word-pairs — head\/tail and palm-branch\/reed — a four-part merism for high and low together, cut off in one day."
+    }
+  ],
+  "translation": "आउ यहवे यिस्राएल में से मूड़ी आउ पुँछ काटलन — ताड़ के पात आउ नरकट — एके दिन में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "42ca7d0bca494e704e552907524bdd4fd1cd418ef68f4569c31a7e8e373fbe14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/9\/13-16.1791998764462.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "आउ काटलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "यिस्राएल में से"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मूड़ी"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "आउ पुँछ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ताड़ के पात"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "आउ नरकट"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-10-14T17:26:04.462902971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 9:24",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ופקדתי",
+      "rationale": "פקד = 'देखे बर आना\/फेर से देखना' — दोस के साथे बरखा\/सजा दोनों अरथ; मगही में 'दोस लेबइ' लिहल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מול \/ ערלה",
+      "rationale": "'खतना कइल पर बिना-खतना में' — विरोधाभास, जइसन जे खतना कइल बाकी ओकर असल अरथ में नञ हथिन; बनावट जस के तस रखल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दिन अवतइन",
+      "rationale": "भबिस के समय के गिनती — 'दिन अवतइन' के घोसना"
+    }
+  ],
+  "translation": "देखऽ, दिन अवतइन — यहवे के बचन — आउ हम हर खतना कइल लोग पर, ⟨जे बिना खतना के हथिन⟩, दोस लेबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b3e2015ff7cacddbec6b2f7acd94d8e202b66beb95e684303266be1dbae96c58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/9\/21-24.1792000386757.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "באים",
+      "gloss": "अवतइन"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "आउ हम दोस लेबइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "מול",
+      "gloss": "खतना कइल"
+    },
+    {
+      "surface": "בערלה",
+      "gloss": "बिना खतना में"
+    }
+  ],
+  "timestamp": "2026-10-14T17:53:06.758764899Z",
+  "model": "glm-5.3"
+}

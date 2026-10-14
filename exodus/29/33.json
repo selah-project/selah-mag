@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "हाथ भरऽ",
+      "rationale": "למלא את ידם शब्दशः 'हाथ भरना' — अभिसेक\/नियुक्ति के रूढ़ि, 'करार करना' नञ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "कפר",
+      "rationale": "शब्दशः 'ढकना\/कवर करना' — पाप के ढकावा के चित्र; 'माफ करना' ओकर अरथ-परति हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "मोशे आउ अहरोन के बेटा सब",
+      "rationale": "विधि-बिधान के बात, पुरोहित बर नियम देल जा रहलइ।"
+    }
+  ],
+  "translation": "आउ ओकनी ⟨את⟩ ओकरा खइबन जेकरा संग पाप माफ भेलन, ओकनी के हाथ भरऽ बर, ⟨את⟩ ओकनी के पवित्तर करऽ बर; बाकि कोनो बिदेसी ओकरा नञ खातइ, काहे कि ऊ पवित्तर हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/29\/33-36.1791989007612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "आउ ओकनी खइबन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (जेकरा संग पाप माफ भेलन, ओकरा)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा संग"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "पाप माफ भेलन"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकनी के बर"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "भरऽ बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के हाथ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ओकनी के हाथ"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "पवित्तर करऽ बर"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "बाकि बिदेसी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खातइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ऊ (हथिन)"
+    }
+  ],
+  "timestamp": "2026-10-14T14:43:27.613173491Z",
+  "model": "glm-5.3"
+}

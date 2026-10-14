@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 17:16",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לא תספון",
+      "rationale": "'नञ जोड़बहू' (יסף — जोड़ना) के साक्षात्त अनुवाद मगही में दोहराव लगतइ; एके 'नञ लौटबहू' में घटायल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישיב\/לשוב\/השיב",
+      "rationale": "शब्द जड़ שוב तीन बेर लौटना के चाल से दोहरायल गेल हकइ — एके जस के तस रखल गेलइ।"
+    }
+  ],
+  "translation": "खाली ऊ अपना बर घोड़ा नञ बढ़ातइ, आउ लोग ⟨את⟩ मिस्रयिम नञ लौटातइ, घोड़ा बढ़ावे खातिर; आउ यहवे तोहनी के कहलन — ए रस्ता नञ लौटबहू आगे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fb93a644399278cbc3bdd3864d21705c0f3d2b167c4a49d46b7b6e2d1e874288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/17\/13-16.1791992599476.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "बढ़ातइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "अपना बर"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोड़ा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "लौटातइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "למען",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "बढ़ावे"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "घोड़ा"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "लौटबहू"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "लौटबे"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:43:19.478159592Z",
+  "model": "glm-5.3"
+}

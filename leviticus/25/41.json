@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 25:41",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ושב \/ ישוב",
+      "rationale": "एके जड़ שוב के दू कड़ी — बाक्य के बीच आउ अंत में; मगही में 'लौटतइ' दू बेर रखलन जे मेल देखावऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "जोत",
+      "rationale": "אחזת के साफ अरथ हकइ 'कबजा कइल जमीन'; मगही के 'जोत' पुश्तैनी जमीन के धारणा के नेड़े हइ।"
+    }
+  ],
+  "translation": "आउ ऊ तोहरा संग संगे निकलतइ — ऊ आउ ओकर बेटा ओकरा संग — आउ ओकर कुनबा के दने लौटतइ, आउ ओकर बाप-दादा के जोत के दने लौटतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0cbf453f429bb9c268be295e009ff9c12a8f20e278a7b5816376636f9b04e5c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/25\/41-44.1791990371223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आउ निकलतइ"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "तोहरा संग संगे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "आउ ओकर बेटा"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "आउ लौटतइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "ओकर कुनबा"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ के दने"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "जोत"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ओकर बाप-दादा के"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "लौटतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:06:11.223837758Z",
+  "model": "glm-5.3"
+}

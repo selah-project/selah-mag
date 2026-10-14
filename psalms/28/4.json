@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תן...תן...השב",
+      "rationale": "'देऽ… देऽ… लौटा देऽ' — तीन छोट क्रिया के दोहराव, इब्रानी के तीन-ठोकर लय रखलन।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के निमन्त्रण",
+      "rationale": "बदला के माँग असीधा यहवे से — पहिला पद के पुकार के जारी।"
+    }
+  ],
+  "translation": "ओकनी के ओकनी के काम के मोताबिक देऽ आउ ओकनी के करतूत के बुराय के मोताबिक, ओकनी हाथ के काम के मोताबिक ओकनी के देऽ; ओकनी के बदला ओकनी के ऊपर लौटा देऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/28\/1-4.1792004816305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "देऽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "ओकनी के काम के मोताबिक"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "आउ बुराय के मोताबिक"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ओकनी के करतूत"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "काम के मोताबिक"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ओकनी हाथ के"
+    },
+    {
+      "surface": "תן",
+      "gloss": "देऽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "השב",
+      "gloss": "लौटा देऽ"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "ओकनी के बदला"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के ऊपर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:06:56.306160573Z",
+  "model": "glm-5.3"
+}

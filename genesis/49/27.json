@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 49:27",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया-संबंध संबंधक पद से आवऽ हइ; मगही के बाक्य बर पूरक क्रिया जोड़ल गेल"
+    },
+    {
+      "kind": "elision",
+      "subject": "עד",
+      "rationale": "एहि ठाम ढाँचा-सब्द हकइ (शिकार के पद के छू के), अलग से पार नञ भेल"
+    }
+  ],
+  "translation": "बिन्यामिन बघिया हकइ — ओ टाढ़ि-माड़ि करऽ हइ: भोर में ओ ⟨את⟩ शिकार खातइ, आउ साँझ के ओ लूट बाँटतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "45a2df613e7481f28f920b62cfce61ee1061ef1e8ef0b85d8f57dea01516d529",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/49\/25-28.1791987973704.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנימין",
+      "gloss": "बिन्यामिन"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "बघिया"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "टाढ़ि-माड़ि करऽ हइ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "भोर में"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खातइ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "शिकार"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "आउ साँझ के"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "बाँटतइ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लूट"
+    }
+  ],
+  "timestamp": "2026-10-14T14:26:13.705560918Z",
+  "model": "glm-5.3"
+}

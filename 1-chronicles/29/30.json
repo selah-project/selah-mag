@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 29:30",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "बेरा ओकर ऊपर गुजरलन",
+      "rationale": "העתים עברו עליו — बेरा ओकर ऊपर से गुजरलन, इब्रानी के जिउता चित्र जस के तस रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "देस",
+      "rationale": "ממלכोत 'राज-देस' हकइ; दू बेरा मल्छुत (राज) आउ ममलाखोत (देस) के अलग रखल गेल"
+    }
+  ],
+  "translation": "संग ओकर पूरा राज आउ ओकर बलबान, आउ ओही सब बेरा जे ओकर ऊपर गुजरलन, आउ यिस्राएल के ऊपर, आउ धरती-धरती के सब देस के ऊपर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5592f389db6bfa8865b62136cafdf3a80b9650326fe5fe00985c61ef424eca58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/29\/29-30.1792010501707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ओकर राज"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "आउ ओकर बलबान"
+    },
+    {
+      "surface": "והעתים",
+      "gloss": "आउ ओही सब बेरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "गुजरलन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ … के ऊपर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ के ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "देस के"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "धरती-धरती के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:41:41.708574322Z",
+  "model": "glm-5.3"
+}

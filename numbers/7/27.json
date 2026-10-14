@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בן בקר \/ בן שנתו",
+      "rationale": "'गाम-गोरू के बेटा' आउ 'बरिस के बेटा' — इब्रानी के बनावट जस के तस रखल गेल, दुनों जगह 'बेटा' के बाँध।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולה",
+      "rationale": "'जे उपरे चढ़ऽ हे' — पूरा चढ़ावे के बलि; चढ़ावे के बलि रूप देल गेल।"
+    }
+  ],
+  "translation": "एक बैल, गाम-गोरू के बेटा; एक मेढ़ा; एक मेमना, एक बरिस के बेटा, चढ़ावे के बलि बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fc9c3b44be14dafa07e8189698a99cf553e332ae990cf0cbe606cb179f43d84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/7\/25-28.1791990702810.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाम-गोरू"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एक बरिस के"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "चढ़ावे के बलि बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:11:42.810975385Z",
+  "model": "glm-5.3"
+}

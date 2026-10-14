@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨इहाँ⟩",
+      "rationale": "הנה एकरा बतावऽ हकइ; ठहरल जगह मगही में इहाँ जोड़ल गेल"
+    },
+    {
+      "kind": "elision",
+      "subject": "אני",
+      "rationale": "इब्रानी में खाली हम — पूरा बचन हम हऽ में थोड़े बढ़लइ"
+    }
+  ],
+  "translation": "आउ ओकरा कहलन: हम हऽ; जा, तोहर मालिक से कह: देखु, एलियाहू ⟨इहाँ⟩ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6c88113b5098a970a07713e3add1de52a5f7289c21b7f014a84c527a851cac37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/18\/5-8.1791997437031.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम हऽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कह"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "तोहर मालिक से"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखु"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहू"
+    }
+  ],
+  "timestamp": "2026-10-14T17:03:57.032721269Z",
+  "model": "glm-5.3"
+}

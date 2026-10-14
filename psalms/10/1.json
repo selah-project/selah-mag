@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "काहे (दुसर बेर)",
+      "rationale": "दोसर प्रस्न के काहे हिन्दी-रीति से जोड़ल गेलन; इब्रानी एके पाछे नञ कहऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के",
+      "rationale": "सीधा यहवे से प्रस्न, प्रार्थना के सुरुआत"
+    }
+  ],
+  "translation": "काहे यहवे तूँ दूर ठाढ़ हथिन? काहे मुसीबत के बेला में छिपऽ हथिन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/10\/1-4.1792004566210.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ठाढ़ हथिन"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "छिपऽ हथिन"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "बेला में"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "मुसीबत के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:46.211629565Z",
+  "model": "glm-5.3"
+}

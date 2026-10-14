@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मांस",
+      "rationale": "שאर मांस\/बिया-बस्तर के नाते साँस-मांस हकइ; 'भोजन' चौड़ा अरथ दोसर बाट।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "देखऽ",
+      "rationale": "הן पढ़निहार के ध्यान खींचऽ हइ — सुनैयार के ओर ओढ़ाव।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יוכל \/ יכין",
+      "rationale": "दुनो प्रस्न य-क-ल आउ כ-ו-न के ताल मिला के गढ़ल संदेह के जोड़ी बनावऽ हइ।"
+    }
+  ],
+  "translation": "देखऽ, ऊ पत्थल के मारलन आउ पानी बहे गेलन, नदी-नाली बह गेलन; की ऊ रोटी भी देवे में सक्छम हथिन? अपन लोग खातिर मांस तैयार करतन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/17-20.1792005475892.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "צור",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "ויזו׬ו",
+      "gloss": "बहे गेलन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "नदी-नाली"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "बह गेलन"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सक्छम हथिन"
+    },
+    {
+      "surface": "תת",
+      "gloss": "देवे में"
+    },
+    {
+      "surface": "אם",
+      "gloss": "की"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "तैयार करतन"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "अपन लोग खातिर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:55.894262222Z",
+  "model": "glm-5.3"
+}

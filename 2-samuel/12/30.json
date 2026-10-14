@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 12:30",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלכם",
+      "rationale": "‘ओकर राजा के’ बनाम ‘मलकाम’ (मिलकोम, अम्मोन के देवता के नाम) — JPS देवता-नाम लेथिन, KJV\/ASB ‘ओकर राजा’ लेथिन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ככר",
+      "rationale": "किकर — वजन के नाप (एक तुला जतना सोना), गोल गोलाई से नाम पड़ल हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "इब्रानी पाँती में क्रिया हकइ (ומשקלה…ותהי), बाकि मगही के पाँती में जुड़ल क्रिया-रूप ⟨⟩ में चिन्हित"
+    }
+  ],
+  "translation": "आउ ऊ ओकर मूड़ी से ⟨את⟩ मलकाम के मुकुट लेलन, आउ ओकर भार ⟨हलइ⟩ एक किकर सोना आउ कीमती पत्थल, आउ ऊ दाविद (दाऊद) के मूड़ी पर रहलइ; आउ नगर के लूट ऊ बहुते बड़ी मात्रा में निकाललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b75eebf3a6db0a751add79e0483c8d65d7a9dbd5d63e404d3f60d29d01286ff2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/12\/30-31.1792011786873.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "आउ लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मलकाम के मुकुट"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "मुकुट"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "मलकाम के"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "मूड़ी"
+    },
+    {
+      "surface": "ומשקלה",
+      "gloss": "आउ ओकर भार"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "एक किकर"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "आउ पत्थल"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "कीमती"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "आउ रहलइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मूड़ी"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद (दाऊद)"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "आउ लूट"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "निकाललन"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बड़ी मात्रा में"
+    }
+  ],
+  "timestamp": "2026-10-14T21:03:06.874589253Z",
+  "model": "glm-5.3"
+}

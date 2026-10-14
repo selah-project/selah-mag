@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 40:29",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "העלה \/ ויעל",
+      "rationale": "burnt-offering (ओकर ऊपर जाए वाला) आउ 'चढ़ालन' एके जड़ עלה — मगही में ई जोड़ी गायब हो जातइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משכן",
+      "rationale": "משכ्ट — ओही Tier-2 पिन वाला रूप, 'निवास' अनुवाद नञ।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ जरावे के बलि के बेदी रखलन मिश्कान — मुलाकात के तम्बू — के दुआरी पर, आउ ओकरा पर ऊ ⟨את⟩ जरावे के बलि आउ ⟨את⟩ मिन्हा चढ़ालन, जइसने यहवे ⟨את⟩ מोशे के आज्ञा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "65335cc9f3ffd49ede044f71f1437408c902db7027be15d71ccac7849d457240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/40\/29-32.1791989451404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "जरावे के बलि के बेदी"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "जरावे के बलि के"
+    },
+    {
+      "surface": "שם",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआरी पर"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "मिश्कान"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मुलाकात के"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़ालन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जरावे के बलि"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "जरावे के बलि"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "मिन्हा"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "मिन्हा"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    }
+  ],
+  "timestamp": "2026-10-14T14:50:51.404646443Z",
+  "model": "glm-5.3"
+}

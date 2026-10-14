@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 20:40",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הנה והנה",
+      "rationale": "'hither and thither' pair, the servant's evasive excuse — kept as इधर-उधर"
+    },
+    {
+      "kind": "addition",
+      "subject": "आप",
+      "rationale": "אתה emphatic pronoun 'you yourself' rendered by तूँ आप"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल के राजा",
+      "rationale": "the king delivers the verdict directly to the disguised prophet"
+    }
+  ],
+  "translation": "आउ जइसन तोहर सेवक इधर-उधर काम करऽ रहलन, तइसन ओ गायब भेलन। तब यिस्राएल के राजा ओकरा कहलन, एही तोहर नियाव हकइ — तूँ आप ओकर फैसला कएलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5b18b7915fb778cc7b350cdfb33b9143762108e9dc68a9fb6dd3789a2be0233a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/20\/37-40.1791997531894.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ जइसन"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "तोहर सेवक"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "काम करऽ रहलन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "इधर"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "उधर"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "गायब भेलन"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "तब कहलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "तोहर नियाव"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ आप"
+    },
+    {
+      "surface": "חרצת",
+      "gloss": "फैसला कएलइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:05:31.896140194Z",
+  "model": "glm-5.3"
+}

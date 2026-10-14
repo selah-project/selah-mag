@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 7:10",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨मन⟩",
+      "rationale": "इब्रानी में खाली 'भेजलन' हकइ; मगही में के भेजल ई बतावै बर मन जोड़ल गेलन।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "धरती ओकर सब बात के बोझ नञ उठा पातइ",
+      "rationale": "लिटरल: 'धरती सह नञ पातइ' — इब्रानी के הכיל (सहै\/धारण करै) के बोझ-चित्र।"
+    },
+    {
+      "kind": "you",
+      "subject": "to यारोबेअम",
+      "rationale": "अमात्स्याह के संदेस राजा यारोबेअम के नाम के सामने हकइ।"
+    }
+  ],
+  "translation": "तब अमात्स्याह, बेत एल के पुरोहित, यिस्राएल के राजा यारोבेअम के पास ⟨मन⟩ भेजलन, कहऽ के: अमोस तोहर बिरुद्ध बेत यिस्राएल के बीच साजिस कइलन हे; धरती ओकर ⟨את⟩ सब बात के बोझ नञ उठा पातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1049fde033480a5577e80d4867640c2cbe73defcc689bca51e6f0d00ef4df4aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/7\/9-12.1792003610057.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "अमात्स्याह"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यारोबेअम"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "साजिस कइलन"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहर बिरुद्ध"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "अमोस"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "उठा पातइ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "להכיל",
+      "gloss": "बोझ बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब ओकर बात"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ओकर बात"
+    }
+  ],
+  "timestamp": "2026-10-14T18:46:50.058889210Z",
+  "model": "glm-5.3"
+}

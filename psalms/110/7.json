@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על כן",
+      "rationale": "दुइ टोकन मिलकर एके जोड़-सब्द 'एहे से' बनलइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "मूड़ी",
+      "rationale": "पद 6 के कुचलल मूड़ी आउ एहाँ ऊँच होवे वाला मूड़ी — ओही सब्द दुइ तरफ, मगही में बनल रहलइ"
+    }
+  ],
+  "translation": "रस्ता में नाला से ऊ पानी पीतइ; एहे से ऊ मूड़ी ऊँच करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/110\/5-7.1792005982291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "नाला से"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता में"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "पानी पीतइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ऊँच करतइ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मूड़ी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:22.292895514Z",
+  "model": "glm-5.3"
+}

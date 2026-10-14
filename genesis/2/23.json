@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 2:23",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש\/אשה",
+      "rationale": "मरद\/जनाना के इब्रानी जोड़ी इश\/इश्शा के स्वर-मेल मगही में नञ बच पावऽ हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "הפעם",
+      "rationale": "'एहे बेर' के ओही आगे के बाक्य में घुल गेल — असल में 'अब तक नञ, एहे बेर' के हवाला हकइ"
+    }
+  ],
+  "translation": "आउ आदमी कहलन: ई हमरा हड्डी के हड्डी आउ हमरा मांस के मांस हइ; एकरा जनाना कहल जातइ, काहे कि ई मरद के में से लेल गेलइ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f140cd0774f5bb110bd3acd7ed3aec53bebda3d6b35a55e10dd6ed8102089fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/2\/21-24.1791986220701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "एहे बेर"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "हड्डी"
+    },
+    {
+      "surface": "מעצמי",
+      "gloss": "हमरा हड्डी के"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "आउ मांस"
+    },
+    {
+      "surface": "מבשרי",
+      "gloss": "हमरा मांस के"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "एकरा"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "कहल जातइ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "मरद के में से"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "लेल गेलइ हइ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T13:57:00.702373526Z",
+  "model": "glm-5.3"
+}

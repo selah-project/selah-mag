@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 5:6",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חדלו",
+      "rationale": "'चुप भेलन' — अक्षरशः 'बन्न हो गेलन'; सड़क सुनसान भ गेलन"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעל",
+      "rationale": "याएल कौन — केनानी जनाना (4:17) कि कोनो अउर; अनुवादक मतभेद"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקלקלות",
+      "rationale": "शब्द के आकार टेढ़ापन के नकल करऽ हइ — दोहराव वाला अक्षर"
+    }
+  ],
+  "translation": "शमगर, अनात के बेटा, के दिन में, याएल के दिन में, पक्का रस्ता चुप भेलन, आउ पगडन्डी में जाए वाला लोग टेढ़ा-मेढ़ा रस्ता में चलऽ लागलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "599c823998dacf9f09627b24e3b06eee888c983c179f9be30c59187207eafd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/5\/5-8.1791994037067.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימי",
+      "gloss": "के दिन में"
+    },
+    {
+      "surface": "שמגר",
+      "gloss": "शमगर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "अनात"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "के दिन में"
+    },
+    {
+      "surface": "יעל",
+      "gloss": "याएल"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "चुप भेलन"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "पक्का रस्ता"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "आउ जाए वाला लोग"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "पगडन्डी में"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "चलऽ लागलन"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "रस्ता में"
+    },
+    {
+      "surface": "עקלקלות",
+      "gloss": "टेढ़ा-मेढ़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:07:17.068107028Z",
+  "model": "glm-5.3"
+}

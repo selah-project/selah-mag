@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "बिना धन के",
+      "rationale": "בלא הון — 'बिना धन' बनाम JPS 'थोर दाम'; साफ अरथ 'कुछो नञ' हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद सीधे यहवे से बोलऽ हइ (दूसरा पुरुष रूप)।"
+    }
+  ],
+  "translation": "तोहनी आपन परजा के बिना धन के बेस देतथिन, आउ ओकनी के दाम से जादे नञ कइलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae5db8211991fba40a7be49d8a8fef6e18c73abf8fefdfb9a9b7cf74c6b387de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/44\/13-16.1792005073634.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "बेस देतथिन"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "आपन परजा के"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "הון",
+      "gloss": "धन के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "जादे कइलथिन"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "ओकनी के दाम से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:13.634610654Z",
+  "model": "glm-5.3"
+}

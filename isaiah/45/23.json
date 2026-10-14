@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 45:23",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשבעתי \/ תשבע",
+      "rationale": "same root שבע (to seven oneself, swear) opens and closes the verse — a self-oath frame lost in the target language"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨आप⟩",
+      "rationale": "Hebrew בי 'by me' carries the reflexive sense 'by myself'; the reflexive pronoun is supplied"
+    }
+  ],
+  "translation": "हमरा ⟨आप⟩ के जरे शपथ लेलन अइसन — मुँह से त्सेदेक के बचन निकलल, ऊ फेर नञ लौटतइ: कि हमरा दने हर गोड़ी झुकतइ, हर जीभ शपथ लेतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d8abf4e963898c70c2c03225f104d787dae45d16d992388ac19f7f3aefe7fc9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/45\/21-24.1791999650970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "हमरा ⟨आप⟩ के जरे"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "शपथ लेलन"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "मुँह से"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "त्सेदेक"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "फेर लौटतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा दने"
+    },
+    {
+      "surface": "תכרע",
+      "gloss": "झुकतइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "गोड़ी"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "शपथ लेतइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:40:50.971272133Z",
+  "model": "glm-5.3"
+}

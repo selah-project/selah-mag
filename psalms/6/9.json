@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "दुष्करम करै वाला",
+      "rationale": "बिनती करै वाला अपन दुस्मन सब के सीधे सम्बोधन करऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बुराई",
+      "rationale": "און के सुभाविक अरथ 'कोरा खालीपन' हकइ; 'बुराई' काम-पक्छ लेलन"
+    }
+  ],
+  "translation": "हमरा से हट जाउ, सब बुराई करै वाला; काहे कि यहवे सुनलन हमर रोए के आवाज।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dee5ab1a9dc3fc8250d6136160d50a78697b673dfd9d2308735ae6651f3a9507",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/6\/9-11.1792004388559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "हट जाउ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "करै वाला"
+    },
+    {
+      "surface": "און",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "हमर रोए"
+    }
+  ],
+  "timestamp": "2026-10-14T18:59:48.559726275Z",
+  "model": "glm-5.3"
+}

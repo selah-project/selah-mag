@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "את…את…את…ואת",
+      "rationale": "तीन पितामह के आगे तीन मालिकाना-चिन्हा दोहराव — वाचा के साँकल के ताल मगही में ⟨את⟩ चिन्हा से बचल हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "את אברהם",
+      "rationale": "एह पद के कोनो अनुवाद ‘अवराहाम के संग’ कहऽ हइ, कोनो ‘अवराहाम ले’ — preposition या DOM; हमनी ⟨את⟩ रखलियै आउ ‘के संग’ अन्त में"
+    }
+  ],
+  "translation": "आउ एलोहीम ⟨את⟩ ओकनी के कराह सुनलन, आउ एलोहीम ⟨את⟩ ओकर वाचा के याद रखलन — ⟨את⟩ अवराहाम (अब्राहम), ⟨את⟩ यित्सहाक (इसहाक) आउ ⟨את⟩ याकोव (याकूब) के संग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "83a87c186a844b9a3823942c09b5ec4114d9aaed6f8622eea264855397fa0620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/2\/21-24.1791988041775.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के कराह"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "ओकनी के कराह"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "याद रखलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर वाचा"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ओकर वाचा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अवराहाम"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यित्सहाक"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सहाक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "याकोव"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    }
+  ],
+  "timestamp": "2026-10-14T14:27:21.776812197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מריבה\/מ׸ה",
+      "rationale": "दुनो जगह के नाम इब्रानी क्रिया से बनल हे — 'झगड़ा' (ריב) आउ 'परख' (נסה), निर्गमन 17 आउ गिनती 20 में"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल के परजा",
+      "rationale": "सीधा तोहनी के सम्बोधन — हिरदय मत कठोर करऽ के हुक्म"
+    }
+  ],
+  "translation": "तोहनी के हिरदय मत करऽ — जइसन मेरीवा में, जइसन मासा के दिन, जंगल में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/95\/5-8.1792005734931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "करऽ — सख्त"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "तोहनी के हिरदय"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "जइसन मेरीवा में"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "जइसन के दिन"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "मासा"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:14.932510240Z",
+  "model": "glm-5.3"
+}

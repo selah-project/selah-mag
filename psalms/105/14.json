@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकनी बर",
+      "rationale": "Hebrew says 'he argued against them [on behalf of] kings' — the 'for their sakes' sense of עליהם is smoothed."
+    }
+  ],
+  "translation": "ऊ कोनो आदमी के ओकनी के दबावे नञ देलन, आउ ओकनी बर राजा सब के फटकारलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/105\/13-16.1792005883679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "कोनो आदमी के"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "ओकनी के दबावे"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "फटकारलन"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ओकनी बर"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:43.680343837Z",
+  "model": "glm-5.3"
+}

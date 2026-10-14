@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 15:12",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יד",
+      "rationale": "मूल पद 'हाथ' हकइ; एहीं अरथ खड़ा कइल यादगार\/स्मारक हकइ — 'हाथ-यादगार' में दूनो चित्र रखल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "מציב לו יד",
+      "rationale": "'अपन बर खड़ा कइल' — अरथ यादगार जीत के चिन्हा बनावे के हकइ बनाम कुछ पढ़ाई में दोसर अरथ।"
+    }
+  ],
+  "translation": "आउ शमुएल भोरे-भोरे उठलन शाउल से भेंट करे बर बिहान; आउ शमुएल के बतावल गेल, कहऽ हइ — शाउल करमेल अइल, आउ देखऽ, ऊ अपन बर एक हाथ-यादगार खड़ा करत हे; फेर ऊ घूमल, पार गेलन, आउ गिलगल उतरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ba43f99a3c7cdd72ae973bb7ae84440742d3dadf7ce155d8a1c59e1d7240c6b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/15\/9-12.1791995232025.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "भोरे-भोरे उठलन"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "भेंट करे बर"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहान"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "आउ बतावल गेल"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "शमुएल के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइल"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "הכרמלה",
+      "gloss": "करमेल"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "מציב",
+      "gloss": "खड़ा करत"
+    },
+    {
+      "surface": "לו",
+      "gloss": "अपन बर"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ-यादगार"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "फेर घूमल"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "आउ पार गेलन"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "आउ उतरलन"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "गिलगल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:27:12.027197953Z",
+  "model": "glm-5.3"
+}

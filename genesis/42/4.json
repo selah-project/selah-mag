@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के संग",
+      "ratioale": "",
+      "rationale": "हिब्रू केवल 'ओकर भाय सब के सँग' के अरथ में जोड़ सँ देखऽ हइ; मगही में 'संग' जोड़ल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "אסון",
+      "rationale": "'हानि \/ दुर्घटना \/ मौत' — किछु अनुवादक मौत के अरथ लेथिन (जेनेवा), किछु सामान्य हानि।"
+    }
+  ],
+  "translation": "बाकि याकोव ⟨את⟩ बिन्यामीन के — योसेफ के भाय के — ⟨את⟩ ओकर भाय सब के संग नञ भेजलन, काहे कि कहलन कि कतै ओकरा कोनो हानि न परे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "547d547c27efad83795ca3814cf075a8efaa862db5947442577c73cf11dec6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/42\/1-4.1791987744427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "बिन्यामीन के"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाय"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर भाय सब के"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाय सब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "פן",
+      "gloss": "कतै न"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "ओकरा परे"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "कोनो हानि"
+    }
+  ],
+  "timestamp": "2026-10-14T14:22:24.428295442Z",
+  "model": "glm-5.3"
+}

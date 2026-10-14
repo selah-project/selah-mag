@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 33:13",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצאתי חן... אמצא חן",
+      "rationale": "हेबरू 'अनुग्रह पावल' के दोहराव एकै बाक्य में — विनती के फँसाव, मगही में दोहराव रखल गेल।"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "बिनती का चिन्ह ('अइ, मत'), दू जगह ⟨बिनती⟩ के रूप में चिन्हित।"
+    },
+    {
+      "kind": "you",
+      "subject": "मोशे के यहवे से",
+      "rationale": "पूरा पद यहवे के आगे मोशे के सीधा बिनती-बोल हकइ।"
+    }
+  ],
+  "translation": "आउ अब, जँ हम तोहर आँख में अनुग्रह पावलिए हलिये, तँ हमरा ⟨את⟩ तोहर रस्ता जनाव, ताकि हम तोहरा जानब आउ तोहर आँख में अनुग्रह पावब; आउ देख, काहे कि ई जाति तोहर लोग हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/33\/13-16.1791989234157.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨बिनती⟩"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "पावलिए हलिये"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "तोहर आँख में"
+    },
+    {
+      "surface": "הודעני",
+      "gloss": "हमरा जनाव"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨बिनती⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर रस्ता"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "तोहर रस्ता"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "आउ तोहरा जानब"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ताकि"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "पावब"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "तोहर आँख में"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आउ देख"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहर लोग"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ई जाति"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T14:47:14.158355689Z",
+  "model": "glm-5.3"
+}

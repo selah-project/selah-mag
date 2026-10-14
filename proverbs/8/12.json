@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के संग",
+      "rationalale": "इब्रानी के ב-रहित ठाढ़ बनावट (चतुरायी बसऽ हइ) के मगही में साफ करे बर जोड़ल गेलन।",
+      "rationale": "इब्रानी के बिना-परतिसर्ग बनावट के मगही में साफ करे बर जोड़ल गेलन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערמה · מזמות",
+      "rationale": "दुनो सब्द नञ-बराबर अरथ दे सकऽ हथिन — धूर्तता बनाम चतुरायी; इहाँ बढ़िया अरथ रखल गेलन।"
+    }
+  ],
+  "translation": "हम हिकमत हमर, चतुरायी ⟨के संग⟩ बसऽ हइ, आउ चालाकी के ज्ञान पावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7bf49462191565032b5e4c2f0216d6ebdf11826bea8f07bf665bfc49cd0ae9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/8\/9-12.1792006548716.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "हिकमत"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "बसऽ हइ"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "चतुरायी"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "आउ ज्ञान"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "चालाकी के"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "पावऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:48.717395152Z",
+  "model": "glm-5.3"
+}

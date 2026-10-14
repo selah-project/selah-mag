@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "Hebrew possessive suffix on פניו already carries 'his'; अपन supplied to make the reflexive plain in Magahi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני...בני...בני",
+      "rationale": "'My son' three times framing the name twice — the drumbeat of grief, kept by repetition in Magahi"
+    }
+  ],
+  "translation": "आउ राजा ⟨את⟩ अपन मुँह ढाँकलन, आउ राजा बड़का आवाज से चीत्तन — हमर बेटा अबशालोम! अबशालोम, हमर बेटा, हमर बेटा!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2833f676bee4b3aabb94c57ca4ca3288575400bc6b5d040637883b9028a34be3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/19\/5-8.1791996530831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "आउ राजा"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "ढाँकलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन मुँह"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "अपन मुँह"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "चीत्तन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़का"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमर बेटा"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमर बेटा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमर बेटा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:48:50.832091280Z",
+  "model": "glm-5.3"
+}

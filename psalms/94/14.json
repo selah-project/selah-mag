@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יטש \/ יעזב",
+      "rationale": "समानांतर क्रिया-जोड़ी 'छोड़ना \/ त्यागना' के दुहराव रखल गेलइ।"
+    }
+  ],
+  "translation": "काहे कि यहवे ओकर लोग के नञ छोड़तन, आउ ओकर बिरासत के नञ त्यागतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c9a08e5c29c1506f3893aaf998809516621aba1058ba6867a065c6c93e25ca0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/94\/13-16.1792005746347.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "छोड़तन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर लोग के"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "आउ ओकर बिरासत के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "त्यागतन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:26.348181839Z",
+  "model": "glm-5.3"
+}

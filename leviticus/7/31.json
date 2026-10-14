@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के",
+      "rationale": "सम्प्रदान के बर इब्रानी ⟨ל⟩ के जगह मगही के 'के' — बेवस्थित जोड़"
+    }
+  ],
+  "translation": "आउ पुरोहित ⟨את⟩ चरबी बेदी पर जरातइ; आउ छाती अहरोन (हारून) आउ ओकर बेटा सब के होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/7\/29-32.1791989615765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "आउ जरातइ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चरबी"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "बेदी पर"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "छाती"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "अहरोन के"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "आउ ओकर बेटा सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:53:35.766977317Z",
+  "model": "glm-5.3"
+}

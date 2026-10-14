@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עושיהם \/ בוטח בהם",
+      "rationale": "'बनाए हुए' और 'उन पर भरोसा करने वाले' — दोनों का एक जैसा दोष है, दोहराव से फंसाया गया है"
+    },
+    {
+      "kind": "alternative",
+      "subject": "यहयू",
+      "rationale": "'हो जाएँगे' — आशीर्वाद की तरह आज्ञा या वादा के रूप में पढ़ा जा सकता है, केवल भविष्यवाणी नहीं"
+    }
+  ],
+  "translation": "जे ओकनी के बनावऽ हथिन, ऊ सब ओकनी जइसन हो जातथिन — हर ऊ जे ओकनी में भरोसा रखऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d238467357eb2dd7bd7606a902d92ce1147ea96c7a51483d5250e9db09898798",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/115\/5-8.1792006005837.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "ओकनी जइसन"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "हो जातथिन"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "जे ओकनी के बनावऽ हथिन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर ऊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "भरोसा रखऽ हइ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकनी में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:45.838394581Z",
+  "model": "glm-5.3"
+}

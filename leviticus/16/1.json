@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "दूनो",
+      "rationale": "मगही सर्बनाम बर साफ करे लागि जोड़ल — इब्रानी में करम-प्रत्यय से ही साफ हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות\/וי׮תו",
+      "rationale": "मौत के दो बेर दोहराव — आरम्भ आउ अंत में — मगही में ढाँचा दिसऽ हकइ"
+    }
+  ],
+  "translation": "यहवे मोशे (मूसा) से कहलन, अहरोन (हारून) के दू बेटा के मरला के बाद, जखन ऊ दूनो यहवे के सामने अइलन आउ मर गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e09f2501975e233fe541d6cffc035133522fcb252ea6750f4b9ae54699c0b02a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/16\/1-4.1791990103233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मरला"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "मर गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:01:43.234391810Z",
+  "model": "glm-5.3"
+}

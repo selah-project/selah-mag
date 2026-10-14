@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שית",
+      "rationale": "पोसाक बर ई सब्द तनाख़ में खाली इहे एक बेर आवऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ונצרת לב",
+      "rationale": "'हिरदय के रखवारी करए वाली' के चाल इहाँ धूर्तता बर हइ — नजर रखै वाली, घात लगावै वाली।"
+    }
+  ],
+  "translation": "आउ देखऽ, कोनो जनाना ओकर सामने अइलइ — बदचलन के पोसाक पहिरले आउ हिरदय से धूर्त।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fbac9cc4dd90a4963e5eba25fd1b7a5243986de6745fb49ce8abd68ad9e327de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/7\/9-12.1792006534549.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ओकर सामने अइलइ"
+    },
+    {
+      "surface": "שית",
+      "gloss": "पोसाक"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "बदचलन के"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "आउ धूर्त"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:34.550485494Z",
+  "model": "glm-5.3"
+}

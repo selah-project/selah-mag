@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "जानलन नञ",
+      "rationale": "लोक-अनुवाद में 'जानता नञ था' बतावऽ हइ — कतार में बदलाव, इक्केरोती सम्बन्ध तोड़े के बात"
+    },
+    {
+      "kind": "crux",
+      "subject": "नया राजा",
+      "rationale": "ई नया राजा कोन हलइ — नया घराना के राजा या पुरान घराना के राजा जे यूसुफ के भूल गेलन; अनुवाद खुला छोड़ल गेल"
+    }
+  ],
+  "translation": "तब मिस्रयिम के ऊपर एक नया राजा ठाढ़ भेलन, जे योसेफ के जानलन नञ ⟨את⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "406f8d910e217f78ee0f790cebd8359187c427da38e49e31dbe924665a71ba69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/1\/5-8.1791987939248.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ठाढ़ भेलन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नया"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योसेफ के"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:25:39.249143233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन कपड़ा (दोसर वाक्यांश में)",
+      "rationale": "इब्रानी केवल कहऽ हइ 'आउ ओकरा संग के सब आदमी फाड़लन' — कपड़ा दुहरावल जरूरी भेल।"
+    }
+  ],
+  "translation": "आउ दाविद अपन कपड़ा के पकड़लन आउ फाड़ देलन, आउ जे ⟨את⟩ ओकरा संग हलन, ऊ सब आदमी ⟨अपन कपड़ा⟩ फाड़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5619cd07f1b0d571aa6e268bbb265290d7488c073bb5ca52860133e7f48b4dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/1\/9-12.1791995827555.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "पकड़लन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "अपन कपड़ा"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "फाड़ देलन"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ अउ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकरा संग",
+      "marks": "दाविद के संग के आदमी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:37:07.556672200Z",
+  "model": "glm-5.3"
+}

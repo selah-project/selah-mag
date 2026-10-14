@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "गिनती",
+      "rationale": "सात शब्बात के गिनती — ओमेर के गिनती के आदेश।"
+    },
+    {
+      "kind": "crux",
+      "subject": "השבת",
+      "rationale": "शब्बात के मतलब अतवार या पसह के पहिला दिन — बाद के परम्परा में बड़ झगड़ा हकइ; लिप्यन्तरन रखलन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבע שבתות",
+      "rationale": "सात\/शब्बात के आवाज के मेल — इब्रानी के दोहराव।"
+    }
+  ],
+  "translation": "आउ तोहनी शब्बात के अगला दिन से गिनती करबऽ — जऊन दिन तोहनी ⟨את⟩ लहरावे के ओमेर अइने देलहु, ओही दिन से — सात पूरा शब्बात होतइं।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a10812fe3a8824e2cd1d0ca7d3f378c9568216d764b485542acd9b4dca1ad303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/23\/13-16.1791990306795.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "आउ तोहनी गिनती करबऽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "अपन बर"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "अगला दिन से"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "शब्बात के"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "जऊन दिन से"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "अइने देलहु"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लहरावे के ओमेर"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "ओमेर"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "लहरावे के"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "शब्बात"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "होतइं"
+    }
+  ],
+  "timestamp": "2026-10-14T15:05:06.796456013Z",
+  "model": "glm-5.3"
+}

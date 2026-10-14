@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 19:2",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बिचार में हइ",
+      "rationale": "मבקש के साक्षात अरथ 'खोजऽ हइ' — कातरक-खोजी के चाल बिचार से देखाओल गेल"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "विनती के छोट चिन्हा नञ, अनुवाद में काज के बिना छूटल — ⟨ना⟩ से अंशतः देखाओल"
+    },
+    {
+      "kind": "you",
+      "subject": "योनातान के दाविद से बात",
+      "rationale": "सीधा सम्बोधन — 'तोहरा', 'रहु', 'लुक जा'"
+    }
+  ],
+  "translation": "आउ योनातान दाविद के बतअलन कहऽ कि: हमर बाप शाऊल तोहरा मारए के बिचार में हइ; एही से अबहीं बिहान में अपन रखवारी करऽ, लुकाएल जगह में रहु आउ लुक जा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8aa75d55e958161244f0b5750fd14d1a199e0a0c6a110c5ab9cfb236f7ad040f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/19\/1-4.1791995450345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "बतअलन"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "योनातान"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ कि"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "बिचार में हइ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमर बाप"
+    },
+    {
+      "surface": "להמיתך",
+      "gloss": "तोहरा मारए"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "एही से अबहीं"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "अपन रखवारी करऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ना⟩"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहान में"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "रहु"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "लुकाएल जगह में"
+    },
+    {
+      "surface": "ונחבאת",
+      "gloss": "लुक जा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:30:50.346344248Z",
+  "model": "glm-5.3"
+}

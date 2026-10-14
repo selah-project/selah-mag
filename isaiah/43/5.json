@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "याकोव\/यिस्राएल",
+      "rationale": "यहवे ओकर परजा के सीधे सम्बोधन करऽ हइ — डरू मत।"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "את के नजदीकी अरथ (संग) बिना जोड़ले पार नञ हो सकऽ हकइ; ⟨את⟩ चिन्हा रखल गेल।"
+    }
+  ],
+  "translation": "डरू मत, काहे कि हम ⟨את⟩ तोहर संग हइ; पुरब से हम तोहर बिया लाबतइ, आउ पछिम से हम तोहरा एकट्ठा करब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ec114a528fb269933b530985c3872a18513e153d524a5f1b9d4b72bd464fa70f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/43\/5-8.1791999436031.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डरू"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "तूँ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "पुरब से"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "लाबतइ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "तोहर बिया"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "आउ पछिम से"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "तोहरा एकट्ठा करब"
+    }
+  ],
+  "timestamp": "2026-10-14T17:37:16.032432627Z",
+  "model": "glm-5.3"
+}

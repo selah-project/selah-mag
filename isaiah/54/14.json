@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 54:14",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עשק",
+      "rationale": "'oppression\/unjust gain' rendered as दलेली; Hebrew covers fraud, distress and unjust gain together."
+    },
+    {
+      "kind": "alternative",
+      "subject": "רחקי",
+      "rationale": "Read as imperative 'be far!' (JPS, YLT); could also be indicative 'you will be far' (KJV)."
+    },
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "Subject pronoun supplied for the second clause; Hebrew verb alone."
+    }
+  ],
+  "translation": "त्सेदेक में तूँ ठिकाना पाबी; दलेली से दूर रहु, काहे कि तूँ डरबी नञ; आउ तबाही से, काहे कि ऊ तोहरा लग नञ अटुबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/54\/13-16.1791999703197.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצדקה",
+      "gloss": "त्सेदेक में"
+    },
+    {
+      "surface": "תכונני",
+      "gloss": "तूँ ठिकाना पाबी"
+    },
+    {
+      "surface": "רחקי",
+      "gloss": "दूर रहु"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "दलेली से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "तूँ डरबी"
+    },
+    {
+      "surface": "וממחתה",
+      "gloss": "आउ तबाही से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "अटुबइ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा लग"
+    }
+  ],
+  "timestamp": "2026-10-14T17:41:43.198367402Z",
+  "model": "glm-5.3"
+}

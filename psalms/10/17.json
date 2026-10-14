@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "इब्रानी में सम्बोधन-सब्द नञ हइ; बुलावे के चाल साफ करे बर जोड़ल"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद सीधे यहवे के सम्बोधन करऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "तैयार करब",
+      "rationale": "תכין: 'हिरदय तैयार करना' बनाम 'हिरदय सिधारना\/मजबूत करना' — अनुवादकन में मतभेद"
+    }
+  ],
+  "translation": "दीन लोग के चाह सुनलन तूँ, हे यहवे; ओकनी के हिरदय तैयार करब; तोहर कान ध्यान देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e2b23a3a01bf394a79c20d1a9c7190b1343e3bee361fa6d5f3234839841df454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/10\/17-18.1792004507779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "चाह"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "दीन लोग के"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "सुनलन तूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "तैयार करब"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ओकनी के हिरदय"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "ध्यान देतइ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "तोहर कान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:01:47.779448742Z",
+  "model": "glm-5.3"
+}

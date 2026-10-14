@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 9:26",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ים סוף",
+      "rationale": "'नरकता-समुंदर' के चलनसार रूप 'लाल समुंदर' हकइ; सुप = नरकता, ओकरा लिप्यन्तरित रखल गेलन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שפת",
+      "rationale": "'ओठ' के जगह 'किनारा' — समुंदर के ओठ, बिंब तनिक घटल।"
+    }
+  ],
+  "translation": "आउ राजा शलोमो जहाज के बेड़ा बनइलन एत्स्योन-गेबेर में, जे ⟨את⟩ एलोत के संग ⟨हइ⟩, सुप-समुंदर के किनारा पर, एदोम के धरती में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "391e4aa4ce5bf703c0e466d1ca6ab4933123c95d460f0b6ca60b7da7dffc8d35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/9\/25-28.1791997084484.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "जहाज के बेड़ा"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "एत्स्योन में"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "गेबेर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलोत"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "एलोत"
+    },
+    {
+      "surface": "על",
+      "gloss": "किनारा पर"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "सुप (नरकता)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-10-14T16:58:04.485799139Z",
+  "model": "glm-5.3"
+}

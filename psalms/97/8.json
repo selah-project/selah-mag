@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "यहूदा के बेटी सब",
+      "rationale": "'बेटी सब' के अरथ यहूदा के नगर सब भी होवऽ हइ (BSB जइसन); रूप जस के तस रखल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद के अंत में सीधा सम्बोधन — 'हे यहवे'।"
+    }
+  ],
+  "translation": "त्सियोन सुनलन आउ खुस होलन, आउ यहूदा के बेटी सब खुसी कएलथिन — तोहर नियाव के खातिर, हे यहवे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "90ca7e6f79129eb100cd2a224c5a80a2d7aa9fcba58f34eadf132578bf49818c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/97\/5-8.1792005764121.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "आउ खुस होलन"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "त्सियोन"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "आउ खुसी कएलथिन"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटी सब"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "למען",
+      "gloss": "के खातिर"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "तोहर नियाव"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:44.122809192Z",
+  "model": "glm-5.3"
+}

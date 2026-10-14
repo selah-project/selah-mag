@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 12:27",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פסח\/פסח",
+      "rationale": "The noun Passover and the verb 'to skip over, spare' are the same root — बलि and लाँघ गेलन break the pun apart"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פסח (क्रिया)",
+      "rationale": "The verb's core sense 'hop, skip over' survives here only in the Passover etymology"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "The answer commanded of the parents is delivered in first person plural — हमनी के घर"
+    }
+  ],
+  "translation": "तब तोहनी कहब — ई यहवे के पसह के बलि हकइ, जे मिस्रयिम में यिस्राएल (इस्राएल) के बेटासब के घर के ऊपरों लाँघ गेलन हथिन — जब ऊ ⟨את⟩ मिस्रयिम के मारलन आउ ⟨את⟩ हमनी के घर के बचइलन। आउ लोग मूड़ी झुकालन आउ दण्डवत कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "48ffd44da23574992d5445cd36b6c613f84b3de5457ce6c79c11f18c0112e97f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/12\/25-28.1791988425076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "तब तोहनी कहब"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पसह"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "लाँघ गेलन हथिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपरों"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "घर"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटासब के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल)"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "मिस्रयिम में"
+    },
+    {
+      "surface": "בנגפו",
+      "gloss": "जब ऊ मारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मिस्रयिम"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "हमनी के घर"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "हमनी के घर"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "बचइलन"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "मूड़ी झुकालन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "दण्डवत कइलन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:33:45.077796069Z",
+  "model": "glm-5.3"
+}

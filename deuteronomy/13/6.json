@@ -1,0 +1,168 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 13:6",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סרה",
+      "rationale": "'Apostasy\/rebellion' vs 'perversion' (JPS) — the noun denotes turning away from prescribed authority."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלם החלום",
+      "rationale": "Verb-noun cognate construction, 'dreams the dream', infinitive-absolute-like doubling lost in translation."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Judicial command addressed to Israel in the plural, shifting to singular for the personal application."
+    }
+  ],
+  "translation": "आउ ओहे नबी, चाहे सपना देखए वाला ओहे, मार देल जातइ, काहे कि ओ यहवे तोहनी के एलोहीम के विरुद्ध बिद्रोह के बात कहलक — जे ⟨את⟩ तोहनी के मिस्रयिम (मिस्र) के धरती से निकाललन आउ दासता के घर से तोहनी के छुड़ैलन — ओ रस्ता से तोहनी के हटावे बर जे यहवे तोहर एलोहीम तोहनी के चले बर हुकुम देलन; आउ तोहनी के बीच से बुराई के तोहनी मेटाबै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "eb099aedd85daf184805e78897f807560452dc1f2489903a2fd8df715b9fcade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/13\/5-8.1791992488264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנביא",
+      "gloss": "आउ ओहे नबी"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहे"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "सपना देखए वाला"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "सपना"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहे"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "मार देल जातइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "बिद्रोह के बात"
+    },
+    {
+      "surface": "על",
+      "gloss": "के विरुद्ध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "जे निकाललन"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "के धरती से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "והפדך",
+      "gloss": "आउ छुड़ैलन"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "के घर से"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "दासता के"
+    },
+    {
+      "surface": "להדיחך",
+      "gloss": "तोहनी के हटावे बर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ओ रस्ता"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "हुकुम देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "चले बर"
+    },
+    {
+      "surface": "בה",
+      "gloss": "एकरा में"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "आउ तोहनी मेटाबै"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुराई के"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "तोहनी के बीच से"
+    }
+  ],
+  "timestamp": "2026-10-14T15:41:28.265684938Z",
+  "model": "glm-5.3"
+}

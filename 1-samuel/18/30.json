@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 18:30",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שכל",
+      "rationale": "'समझदारी से काम करलक' (KJV\/ASV) बनाम 'सफल भेलाइल' (JPS) — क्रिया के दुनो अरथ हकइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מדי צאתם",
+      "rationale": "'जब-जब ऊ निकलथिन' — हर खेप के दोहराव बतावऽ हइ, एक बेर के घटना नञ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "विरोध",
+      "rationale": "दाविद के सब नौकर से तुलना — बेसी\/कम के गिनती वाला ढाँचा।"
+    }
+  ],
+  "translation": "आउ पलिस्ती के सरदार सब बाहर निकललन; आउ जब-जब ऊ निकलथिन, दाविद शाउल के सब नौकर से बेसी समझदारी से काम करलक, आउ ओकर नाम बहुत महान भेलाइल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b730fc5cc880ad3008028311b1af05296bbae4e930523479319bceb199ecd97b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/18\/29-30.1791995332522.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "आउ …बाहर निकललन"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदार सब"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिस्ती"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेलाइल"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "जब-जब"
+    },
+    {
+      "surface": "צאתם",
+      "gloss": "ऊ निकलथिन"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "समझदारी से काम करलक"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब …से"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "नौकर"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "आउ …महान भेलाइल"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    }
+  ],
+  "timestamp": "2026-10-14T16:28:52.523793408Z",
+  "model": "glm-5.3"
+}

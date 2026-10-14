@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "समय के सूची",
+      "rationale": "नियत-समय के गिनती के भाग, हर जोड़ी उलट अरथ में।"
+    }
+  ],
+  "translation": "मारे के समय, आउ भला करे के समय; ढहे के समय, आउ बनावे के समय।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/3\/1-4.1792008355352.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "मारे के समय"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "मारे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आउ भला करे के समय"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "भला करे के"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ढहे के समय"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "ढहे के (तोड़े के)"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आउ बनावे के समय"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनावे के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:55.353737030Z",
+  "model": "glm-5.3"
+}

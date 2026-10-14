@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "उदासी में",
+      "rationale": "קדר के सुभाविक अरथ 'अँजरा-सँअर होना' हकइ; मगही में 'उदासी' से चित्र घटि जाहए"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी में क्रिया-सहायक नञ हइ, मगही बाक्य बर चाही"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למה...למה",
+      "rationale": "'काहे' के दुहराव — विलाप के ताल, जस के तस रखल गेलइ"
+    }
+  ],
+  "translation": "काहे कि तूँ हमर गढ़ी के एलोहीम हथिन — काहे हमरा त्याग देलन हथिन? काहे हम उदासी में घूमऽ हइ दुस्मन के पीड़ा के भीतर?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/43\/1-4.1792005002178.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "हमर गढ़ी"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "हमरा त्याग देलन हथिन"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "उदासी में"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "घूमऽ हइ"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "पीड़ा के भीतर"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "दुस्मन के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:02.179637867Z",
+  "model": "glm-5.3"
+}

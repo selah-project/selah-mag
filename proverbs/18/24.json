@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 18:24",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨आपन बर⟩",
+      "rationale": "להתרעע आत्मवाचक हकइ — „आपन बर टूटल“ — मगही में आपन जोड़लक"
+    },
+    {
+      "kind": "crux",
+      "subject": "איש רעים להתרעע",
+      "rationale": "KJV „दोस्त रखै वाला दोस्ती देखावे“ बनाम ASV\/JPS „बड़ा संगी आपन नास बर“ — इब्रानी के शाब्दिक चाल टूटे के हकइ"
+    }
+  ],
+  "translation": "बड़ा संगी वाला आदमी ⟨आपन बर⟩ टूट-बिखर जातइ, बाकि अइसनो परेम करै वाला हकइ जे भाय ले जादा चिपकल रहऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e4af18e36e0975735f481dfd132b2d83c359484072359cc04906a397d4e002ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/18\/21-24.1792006790554.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "संगी सब के"
+    },
+    {
+      "surface": "להתרעע",
+      "gloss": "टूट-बिखर जाबे बर"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "बाकि अइसनो … हकइ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "परेम करै वाला"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "चिपकल"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "भाय ले जादा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:50.555958329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "Hebrew has no copula; Magahi needs it for the adjective-predicate"
+    }
+  ],
+  "translation": "काहे कि बात तोहरा बड़ी नजदीक हइ — तोहर मुँह में आउ तोहर हिरदय में — ओकरा करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/30\/13-16.1791992949779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "नजदीक"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बड़ी"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "तोहर मुँह में"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "आउ तोहर हिरदय में"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "ओकरा करे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:49:09.780430094Z",
+  "model": "glm-5.3"
+}

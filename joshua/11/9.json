@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עקר",
+      "rationale": "शब्द के अरथ हकइ जड़ से उखाड़ल, खास अरथ में घोड़ा के नस काटल — मगही में नस काटलन धरलइ।"
+    }
+  ],
+  "translation": "आउ यहोसुअ ओकनी के ऊ कइलन जे यहवे ओकरा कहलन हल; ओकनी के घोड़ा के ⟨את⟩ नस काटलन, आउ ओकनी के रथ के ⟨את⟩ आग में जरा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/11\/9-12.1791993526332.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोसुअ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन हल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के घोड़ा"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ओकनी के घोड़ा"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "नस काटलन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के रथ"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "ओकनी के रथ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "जरा देलन"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:58:46.333512200Z",
+  "model": "glm-5.3"
+}

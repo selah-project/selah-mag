@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "लिखनिहार",
+      "rationale": "ספרים के साक्षर के चाल में राजकीय लिपिक के पद हकइ; 'लिखनिहार' साफ पर ओही चित्र रखऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "याद रखनिहार",
+      "rationale": "המזכיר 'जिकर करनिहार' — राज के घटना गिनत-रिकॉर्ड करनिहार अधिकारी"
+    },
+    {
+      "kind": "measurement",
+      "subject": "अधिकारी-सूची जारी",
+      "rationale": "पद नाम आउ पद के पद-सूची हकइ"
+    }
+  ],
+  "translation": "एलिखोरेफ आउ अखिय्याह, शीशा के बेटा, लिखनिहार; यहोशाफात, अखिलूद के बेटा, याद रखनिहार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ab78f783e35bff0ad0c28134b9875f340daa485b0f0fa08f818a35ad6726c74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/4\/1-4.1791996754767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "एलिखोरेफ"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "आउ अखिय्याह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "शीशा"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "लिखनिहार"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोशाफात"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "अखिलूद"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "याद रखनिहार"
+    }
+  ],
+  "timestamp": "2026-10-14T16:52:34.767921199Z",
+  "model": "glm-5.3"
+}

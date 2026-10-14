@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 11:6",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפלים לתושיה",
+      "rationale": "'असल अक्कल दू गुना हकइ' — अनुवादक मतभेद: अक्कल दू गुना\/बहु-परती (KJV, BSB) बनाम तूंहूँ पाप के दू-गुना सजा पातै (Wycliffe)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישה",
+      "rationale": "नשה: 'माफ करना' बनाम 'भूल जाना' (YLT) — दुनो परम्परा में चलन हकइ"
+    },
+    {
+      "kind": "secret",
+      "subject": "תעלמות",
+      "rationale": "एलोअह के गुप्त बात — छिपल ज्ञान के जिक्र"
+    }
+  ],
+  "translation": "आउ तोहनी के अक्कल के गुप्त बात बताथिन, काहे कि असल अक्कल दू गुना हकइ; आउ जान, कि एलोअह तोहर किछु पाप माफ करथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ee13c2c189a8dc22359355045e8953618a04de69ccc54542c572e284d181c291",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/11\/5-8.1792007346038.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "आउ बताथिन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "गुप्त बात"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "अक्कल के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כפלים",
+      "gloss": "दू गुना"
+    },
+    {
+      "surface": "לתושיה",
+      "gloss": "असल अक्कल बर"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "आउ जान"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "माफ करथिन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "किछु पाप"
+    }
+  ],
+  "timestamp": "2026-10-14T19:49:06.039726923Z",
+  "model": "glm-5.3"
+}

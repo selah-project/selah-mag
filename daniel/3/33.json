@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 3:33",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עם דר ודר",
+      "rationale": "'युग-युग ले' — Aramaic idiom 'with generation and generation' rendered as Magahi idiom"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन \/ हकइ",
+      "rationale": "Hebrew (Aramaic) nominal clause lacks copula; Magahi verb supplied"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלכותה מלכות",
+      "rationale": "repetition of 'kingdom ... kingdom' kept as 'राज ... राज'"
+    }
+  ],
+  "translation": "ओकर चिन्हा कतना बड़ हथिन आउ ओकर अचरज कतना बलवान हथिन! ओकर राज अनन्त राज हकइ आउ ओकर अधिकार युग-युग ले चलऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f77d8a591a7fe70843da7d2b6adb1b5bbaacf5038a22fa1d7be9ad7a799029dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/3\/33-33.1792008817664.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתוהי",
+      "gloss": "चिन्हा"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "कतना"
+    },
+    {
+      "surface": "רברבין",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "ותמהוהי",
+      "gloss": "आउ अचरज"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "कतना"
+    },
+    {
+      "surface": "תקיפין",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "מלכותה",
+      "gloss": "ओकर राज"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "राज"
+    },
+    {
+      "surface": "עלם",
+      "gloss": "अनन्त"
+    },
+    {
+      "surface": "ושלטנה",
+      "gloss": "आउ ओकर अधिकार"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ले"
+    },
+    {
+      "surface": "דר",
+      "gloss": "युग"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "आउ युग"
+    }
+  ],
+  "timestamp": "2026-10-14T20:13:37.665350646Z",
+  "model": "glm-5.3"
+}

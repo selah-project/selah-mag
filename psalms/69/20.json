@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमरा",
+      "rationale": "object pronoun supplied where Hebrew suffix carries it on the noun"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "direct second-person address to YHWH throughout the verse"
+    }
+  ],
+  "translation": "तूँ जानथिन हमर बेइज्जती आउ हमरा लज्जा आउ हमर कलंक; हमरा दुसमन सब तोहर सामने हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3541448ad988430c7c0e9cd622498bc9ae204fe97471d965f9f45c6b53dceaea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/69\/17-20.1792005371315.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "जानथिन"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "हमर बेइज्जती"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "आउ हमरा लज्जा"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "आउ हमर कलंक"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "तोहर सामने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "हमरा दुसमन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:11.316373276Z",
+  "model": "glm-5.3"
+}

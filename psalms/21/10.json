@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לעת פניך",
+      "rationale": "साक्षात 'तोहर मुँह के बेरा' — मुँह आवे के बेरा, जस के तस रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "कोप",
+      "rationale": "אף के साक्षात अरथ 'नाक \/ नथुना' हकइ; कोप ओकर परम्परागत अरथ हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבלעם \/ ותאכלם",
+      "rationale": "निगलना आउ खाना — दू क्रिया के जोड़ी, आग जइसन खाए के चित्र।"
+    }
+  ],
+  "translation": "तूँ ओकनी के आग के चूल्हा नइ रखब, तोहर मुँह के बेरा, यहवे; ओकर कोप में ओकनी के निगल लेतन, आउ आग ओकनी के खा जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/21\/9-12.1792004635507.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "ओकनी के नइ रखब"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "आग के चूल्हा नइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग के"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "बेरा"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहर मुँह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ओकर कोप में"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "ओकनी के निगल लेतन"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "आउ ओकनी के खा जातइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:55.508353161Z",
+  "model": "glm-5.3"
+}

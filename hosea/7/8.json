@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 7:8",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "राख में सेकल रोटी",
+      "rationale": "עגה गोल राख-रोटी हकइ — चूल्हा के राख में सेकल जाए वाला; सादे रोटी नञ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפרים...אפרים",
+      "rationale": "नाम के दोहराव — जाति के संबोधन, बिना क्रिया के ठाढ़ — इब्रानी के बुलावनी ढाँचा हकइ।"
+    }
+  ],
+  "translation": "एप्रैम जाति सभ के बीच ऊ मिल गेलइ हे; एप्रैम बिना पलटल राख में सेकल रोटी भेलइ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a24c437edf1bd670d9addc9e26ea4962e81d9bc325ba0f3cf69aa202b6eaa001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/7\/5-8.1792003379939.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "एप्रैम"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "जाति सभ के बीच"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "יתבולל",
+      "gloss": "मिल गेलइ हे"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एप्रैम"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भेलइ हे"
+    },
+    {
+      "surface": "עגה",
+      "gloss": "राख में सेकल रोटी"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "הפוכה",
+      "gloss": "पलटल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:42:59.940413338Z",
+  "model": "glm-5.3"
+}

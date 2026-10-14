@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के",
+      "rationale": "मगही के करम-चिन्हा जोड़ल गेलइ; इब्रानी के प्रत्यक्ष-करम चिन्हा एहियो नञ हइ।"
+    }
+  ],
+  "translation": "जइसन आग जंगल के जरावऽ हइ, आउ जइसन लपट पहाड़ के जरावऽ हइ —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3a2aca48bae78c1fa2b32b6f4b36eeea1721c5d1353370da30cb41cfa9628ce8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/83\/13-16.1792005548502.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "जइसन आग"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "जरावऽ हइ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "जंगल"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "आउ जइसन लपट"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "जरावऽ हइ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:08.503907783Z",
+  "model": "glm-5.3"
+}

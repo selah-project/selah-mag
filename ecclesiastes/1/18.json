@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברב…רב",
+      "rationale": "एक ही शब्द-जड़ का दोहराव: 'बहुतता में… बहुत' — कसी हुई छंद-रचना, जो आंशिक रूप से ढेर\/ढेर से बची है"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יוסיף…יוסिण",
+      "rationale": "क्रिया का पुनरावृत्त: 'बढ़ाना… बढ़ाना' — बढ़ती ज्ञान = बढ़ता दर्द, दोनों पंखों में समान रूप से सुरक्षित है"
+    }
+  ],
+  "translation": "काहे कि ढेर बुद्धि में ढेर दुख-छींटा हकइ, आउ जे जानकारी बढ़ावऽ हइ ऊ दुखौक बढ़ावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f8e4ddfd134e2f66f9d8524b8f85e73840c15349004a8d0c64adcb76e939e5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/1\/17-18.1792008306301.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ढेर में"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "दुख-छींटा"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "आउ बढ़ावऽ हइ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "जानकारी"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "बढ़ावऽ हइ"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "दुखौक"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:06.301981896Z",
+  "model": "glm-5.3"
+}

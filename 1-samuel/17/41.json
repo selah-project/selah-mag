@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-samuel 17:41",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "चलत-चलत",
+      "rationale": "Hebrew repeats infinitives הלך וקרב to show the approach step by step; Magahi needs doubling to keep the picture"
+    }
+  ],
+  "translation": "आउ पलिस्ती चललक, चलत-चलत आउ नजदीक होते-होते दाविद लागे अइलक, आउ ओ मनुस ढाल उठावने ओकर आगे-आगे चललक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "89b451cf4c78c8112e53eb22c64d8df8cf73f2ef168c05ac3796b2370ae12e83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/17\/41-44.1791995336780.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "चललक"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "पलिस्ती"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "चलत-चलत"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "आउ नजदीक होते-होते"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लागे"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "आउ ओ मनुस"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उठावने"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकर आगे-आगे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:28:56.780632108Z",
+  "model": "glm-5.3"
+}

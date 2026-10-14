@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 5:14",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यरूशलयिम",
+      "rationale": "पद यरूशलयिम के सीधे सम्बोधन करऽ हइ (तोहनी \/ तोहर)।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרבה",
+      "rationale": "मूल अरथ 'सूखा' हकइ; मगही में ⟨खंडहार⟩ कइल गेल — बरखा के अभाव के तस्वीर हट गेल।"
+    }
+  ],
+  "translation": "आउ हम तोहनी ⟨खंडहार⟩ आउ ओ जाति सब में बेइज्जती बनइलिअइ — जे तोहर चारो दने हथिन — हर गुजरे वाला के आँख के सामने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8ccfe23b3d5a6a02451a89799e5558989965e652ad4456ff330c6874932eec00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/5\/13-16.1792001814018.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנך",
+      "gloss": "आउ हम तोहनी बनइलिअइ"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "⟨खंडहार⟩"
+    },
+    {
+      "surface": "ולחרפה",
+      "gloss": "आउ बेइज्जती"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जाति सब में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "तोहर चारो दने"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "आँख के सामने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "गुजरे वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T18:16:54.018795894Z",
+  "model": "glm-5.3"
+}

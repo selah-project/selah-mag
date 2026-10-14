@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 21:5",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census totals",
+      "rationale": "verse lists counted men-at-arms: 1,100,000 Israel, 470,000 Judah"
+    },
+    {
+      "kind": "crux",
+      "subject": "numbers",
+      "rationale": "1 Chr 21:5 totals differ from 2 Sam 24:9 (800,000 \/ 500,000); ancient discrepancy left as-is"
+    }
+  ],
+  "translation": "आउ योआब ⟨את⟩ लोग के गिनती के अंक दाविद के देलन; आउ सब्बे यिस्राएल होलन एक हजार हजार आउ एक सौ हजार मरद, तलवार खीँचै वाला; आउ यहूदा चार सौ सत्तर हजार मरद, तलवार खीँचै वाला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0f9a8426d4367a67f33caef5f2996115b2f5856fe1f7b27c698d2067078718ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/21\/5-8.1792010306446.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग के गिनती के अंक"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "अंक"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "होलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब्बे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "आउ एक सौ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "खीँचै वाला"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "आउ यहूदा"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "आउ सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "खीँचै वाला"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    }
+  ],
+  "timestamp": "2026-10-14T20:38:26.447611160Z",
+  "model": "glm-5.3"
+}

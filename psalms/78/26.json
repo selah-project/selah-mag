@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बतास",
+      "rationale": "इब्रानी में 'बतास' सब्द नञ हइ — खाली 'पुरुब' आउ 'दक्खिन' कहल गेल हइ; बतास संदर्भ से आवऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "יסע",
+      "rationale": "यात्रा के किरिया (डेरा उखाड़ के चलना) — बतास के संग 'बेसाह देना' लेल गेल।"
+    }
+  ],
+  "translation": "ऊ पुरुब के अकास में बेसाह देलन आउ अपन बल से दक्खिन के हाँक देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/25-28.1792005486341.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסעע",
+      "gloss": "बेसाह देलन"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पुरुब के"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "अकास में"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "हाँक देलन"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "अपन बल से"
+    },
+    {
+      "surface": "תי׮ן",
+      "gloss": "दक्खिन के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:06.342616618Z",
+  "model": "glm-5.3"
+}

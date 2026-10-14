@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 48:35",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨जे⟩…⟨के⟩",
+      "rationale": "इब्रानी में कर्म सीधा बिद्यमान बचन-किरिया में हइ; मगही के बनावट बर 'जे…के' के जोड़ल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "במה",
+      "gloss_missing": false,
+      "rationale": "बिमा — पहाड़ी जैसन ऊँच जगह बर पूजा के; 'ऊँच जगह' के चलनसार रूप नञ लेलक।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאלהיו",
+      "rationale": "अन्य देवता बर जाति-सब्द 'देवता सब' — नाम नञ।"
+    }
+  ],
+  "translation": "आउ हम मोआब में बन्द कर देबइ — यहवे के बचन — ऊ ⟨जे⟩ बिमा पर चढ़ावा चढ़ावऽ हइ आउ ऊ ⟨जे⟩ ओकर देवता सब बर धूप जरावऽ हइ ⟨के⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "57163ed55904db948701e9c08562a34c4d7d8b336cf9da856f1f11600a5523d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/48\/33-36.1792001461565.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "आउ हम बन्द कर देबइ"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "मोआब में"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "के बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "चढ़ावा चढ़ावऽ हइ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "बिमा पर"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "आउ धूप जरावऽ हइ"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "ओकर देवता सब बर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:11:01.566836165Z",
+  "model": "glm-5.3"
+}

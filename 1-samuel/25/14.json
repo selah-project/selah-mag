@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 25:14",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויעט",
+      "rationale": "साक्षात अरथ 'ओकरा ऊपर झपटलक' (चिड़ई जइसन); केजेवी 'गाली देलक', यंग के पाठ साक्षात झपटना — मगही में झपटना के रूप लेल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לברך",
+      "rationale": "'असीस देवे' — इब्रानी बरख घुटना टेके धनबाद के बातो हकइ; 'अभिवादन करे' (केजेवी) नरम रूप।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נער\/מהנעरים",
+      "rationale": "नौजवान…नौजवानन में से — एके जड़ के दोहराव।"
+    }
+  ],
+  "translation": "आउ नाबाल के जनाना अबिगयिल के गोड़ नौजवानन में से एक बतावलक, कहऽ — देखऽ, दाविद जंगल से दूत भेजलन हल ⟨את⟩ हमर मालिक के असीस देवे बर, बाकि ऊ ओकनी ऊपर टूट पड़लक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f31918c70d8ab991d80eaaa3feb942cda977601c4cac09f9b1e91c21798a190b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/25\/13-16.1791995624456.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאביגיל",
+      "gloss": "आउ अबिगयिल के गोड़"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नाबाल"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "बतावलक"
+    },
+    {
+      "surface": "נער",
+      "gloss": "नौजवान"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "नौजवानन में से"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजलन हल"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "מהמדבר",
+      "gloss": "जंगल से"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "असीस देवे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर मालिक"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "हमर मालिक"
+    },
+    {
+      "surface": "ויעט",
+      "gloss": "बाकि टूट पड़लक"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकनी ऊपर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:33:44.457781877Z",
+  "model": "glm-5.3"
+}

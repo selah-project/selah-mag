@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 9:1",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "कहऽ के",
+      "rationale": "לאमर (कहऽ के) बोलचाल के जोड़ हकइ जे अनुवाद में दुआरी बनऽ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "समय-गिनती",
+      "rationale": "बरिस दोएका, पहिला महीना — तारीख गिनल गेलइ हे"
+    },
+    {
+      "kind": "you",
+      "subject": "मोशे",
+      "rationale": "यहवे मोशे से सीधे बोलऽ हइ"
+    }
+  ],
+  "translation": "यहवे मोशे से बोललन — उजाड़ सीनै में, मिस्रयिम के धरती से ओकनी के निकलल के दोएका बरिस में, पहिला महीना में — कहऽ के:",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ce9e7835df5b90f08726f5addab408b39b5709056e758b0bffd17ea91f56ee3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/9\/1-4.1791990942339.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "उजाड़ में"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "सीनै"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "दोएका"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "ओकनी के निकलल के"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "महीना में"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:15:42.340544775Z",
+  "model": "glm-5.3"
+}

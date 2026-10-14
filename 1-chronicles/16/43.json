@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨आपन⟩",
+      "rationale": "इब्रानी में पुरुष-प्रत्यय 'ओकर' बिहान के किरिया-रूप में संकेत करऽ हकइ; स्पस्टता बर मगही में जोड़ल गेल।"
+    },
+    {
+      "kind": "elision",
+      "subject": "איש",
+      "rationale": "'हर एक आदमी' के छोट रूप 'हर एक' लेल गेल — दुहराव टाले बर।"
+    }
+  ],
+  "translation": "आउ सब लोग गेलन, हर एक अपन घर; आउ दाविद मुड़लन ⟨आपन⟩ ⟨את⟩ घर के असीस देबे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "57f81b0feca48bbce70bd141720713744a0b577a58bb4d14a91d42f7815ef9ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/16\/41-43.1792010283161.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "आउ गेलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "अपन घर"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "आउ मुड़लन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "असीस देबे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घर (ओकर घर के)"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "घर के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:38:03.162104669Z",
+  "model": "glm-5.3"
+}

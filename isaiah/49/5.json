@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 49:5",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישראל לא יאסף",
+      "rationale": "KJV पढ़तइ 'यद्यपि यिस्राएल एकट्ठा नञ होतइ'; ASV\/JPS गिनती के अनुसार 'आउ कि यिस्राएल एकट्ठा होतइ' पढ़ऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨तैंो भी⟩",
+      "rationale": "मगही के 'though' बर जोड़; इब्रानी में ई बचन नञ हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עזי",
+      "rationale": "'बल' — इब्रानी ढ बल\/सुरक्छा\/महिमा दुनो के धारण करऽ हकइ।"
+    }
+  ],
+  "translation": "आउ अब यहवे कहलन हकइ — ऊ जे हमरा गभ से गढ़े हथिन, ओकर सेवक बनावे बर, याकोव (याकूब) के ओकरा दने लौटावे बर आउ यिस्राएल (इस्राएल) के एकट्ठा करे बर — यिस्राएल एकट्ठा नञ होतइ ⟨तैंो भी⟩ हम यहवे के आँख में आदर पाबइ, आउ हमर एलोहीम हमर बल होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bdeb651d350b03c2eab85c2a9ccdb527acce351b210a9652ffbb7c2e3cbdcb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/49\/5-8.1791999699497.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יצרי",
+      "gloss": "हमरा गढ़े हथिन"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "गभ से"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "सेवक बर"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "לשובב",
+      "gloss": "लौटावे बर"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा दने"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "आउ यिस्राएल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "एकट्ठा होतइ"
+    },
+    {
+      "surface": "ואכבד",
+      "gloss": "आउ हम आदर पाबइ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँख में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "आउ हमर एलोहीम"
+    },
+    {
+      "surface": "היה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "हमर बल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:41:39.498687413Z",
+  "model": "glm-5.3"
+}

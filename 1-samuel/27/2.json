@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "छह सौ मरद",
+      "rationale": "दाविद के टोली के गिनती"
+    }
+  ],
+  "translation": "आउ दाविद उठलन आउ पार गेलन — ऊ ⟨खुद⟩ आउ छह सौ मरद जे ओकर संग हलन — अकीश के ओर, माओक के बेटा, गात के राजा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "527976c3c2d06e0af59fec4758d4ad651b778cfebf7d4266e8a548d0d226bce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/27\/1-4.1791995721670.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "पार गेलन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आउ छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "अकीश"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "माओक"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गात"
+    }
+  ],
+  "timestamp": "2026-10-14T16:35:21.671765976Z",
+  "model": "glm-5.3"
+}

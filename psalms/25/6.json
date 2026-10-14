@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "इब्रानी बहुबचन (רחמים, חסדים) के मगही खम्भा अलग से देखावऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר \/ תזכר \/ זכר",
+      "rationale": "पद 6–7 में 'याद रख' के तीन बार वापसी — मगही में ओकर जोड़ बनऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रार्थना सीधे यहवे से बात करऽ हइ"
+    }
+  ],
+  "translation": "याद रख, यहवे, तोहर रहम ⟨सब⟩ आउ तोहर हेसेद ⟨सब⟩, काहे कि सब समय से ऊ सब हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c0fd9e15a1bb0755c9c620e1e126453a2d67f0b9df3631458117bb3b55350eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/25\/6-7.1792012060816.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "याद रख"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "तोहर रहम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "आउ तोहर हेसेद"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "सब समय से"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ सब"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:40.817127252Z",
+  "model": "glm-5.3"
+}

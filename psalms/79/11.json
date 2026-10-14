@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בני תמותה",
+      "rationale": "'मौत के बेटा' — मूल के आकृति जस के तस रखल गेलइ; कोठरी अनुवाद 'जे मरे बर ठहरल होवे' गढ़ऽ हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הותר",
+      "rationale": "होफल किरिया — 'छोड़ल जा\/बचल रहे'; KJV 'preserve' बनाम YLT 'leave'।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אנקת",
+      "rationale": "शाब्दिक 'चीख' हकइ — 'तड़प' नरम रूप; अरथ ओहेच रहऽ हइ।"
+    }
+  ],
+  "translation": "बंदी के तड़प तोहर आगू आवे; तोहर भुजा के पराक्रम के मोताबिक मौत के बेटा सब छूट जावे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/79\/9-12.1792005525664.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहर आगू"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "बंदी के तड़प"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "बंदी"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "के मोताबिक"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "तोहर भुजा के पराक्रम"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "छूट जावे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…के बेटा सब"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "मौत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:45.667177229Z",
+  "model": "glm-5.3"
+}

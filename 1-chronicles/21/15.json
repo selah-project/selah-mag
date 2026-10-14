@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 21:15",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מन बदललन",
+      "rationale": "וינחם — 'पछतावा' बनाम 'मन बदलल' (relented); इहे जगह अनुताप के जानल-मानल कठिनाई हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "רב",
+      "rationale": "केवल एक सब्द — 'बहुत भेल \/ बस ढेर भेल'; KJV 'It is enough'।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨एक⟩",
+      "rationale": "मगही के बाक्य बर अनिश्चित संख्या जोड़ल गेल; इब्रानी में नञ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "दूत से",
+      "rationale": "यहवे बरबाद करै वाला दूत के सीधे सम्बोधन करऽ हथिन।"
+    }
+  ],
+  "translation": "आउ एलोहीम यरूशलयिम (यरूशलेम) के बरबाद करै बर ⟨एक⟩ दूत भेजलन; आउ जइसने ऊ बरबाद करऽ लगलन, यहवे देखलन आउ ओ बुराई पर मन बदललन, आउ बरबाद करै वाला दूत से कहलन — बहुत भेल, अब तोहर हाथ रोक दे; आउ यहवे के दूत अरनान (ओरनान) यबूसी के खलिहान के संग ठाढ़ हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6622344e411bed2f75dcdf45edb198fb3409d98dc2e8e2bc5adfd420d64f78cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/21\/13-16.1792010387454.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "आउ भेजलन"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "यरूशलयिम के"
+    },
+    {
+      "surface": "להשחיתה",
+      "gloss": "ओकरा बरबाद करै बर"
+    },
+    {
+      "surface": "וכהשחית",
+      "gloss": "आउ जइसने बरबाद करऽ लगलन"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וינח׮",
+      "gloss": "आउ मन बदललन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ओ बुराई"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "दूत से"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "बरबाद करै वाला"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुत भेल"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "रोक दे"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तोहर हाथ"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "आउ दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ठाढ़ हल"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "खलिहान"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "अरनान"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "यबूसी"
+    }
+  ],
+  "timestamp": "2026-10-14T20:39:47.455351952Z",
+  "model": "glm-5.3"
+}

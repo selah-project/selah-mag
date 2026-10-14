@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "शפכה",
+      "rationale": "'बहा देना' — हिब्रू में कदम बहा गेल, मगही में ओहे चाल रखल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "נטוי\/שפכה",
+      "rationale": "कुछ पांडुलिपि में 'נטוי' आउ 'שפכה' दुनू ठीक, कुछ में 'נמטו\/נשפכו'; अरथ एके — लगभग फिसलन"
+    }
+  ],
+  "translation": "बाकि हम — हमर गोड़ लगभग टेढ़ गेलन, हमर कदम लगभग जइसे पानी बहा गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/73\/1-4.1792005395193.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "बाकि हम"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "लगभग"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "टेढ़ गेलन"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "हमर गोड़"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "जइसे कोनो नञ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "बहा गेलन"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "हमर कदम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:35.194092468Z",
+  "model": "glm-5.3"
+}

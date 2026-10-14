@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "काहे कि",
+      "rationale": "infinitive of purpose 'לדעת' carried by the conjunctive 'काहे कि', not in Hebrew"
+    },
+    {
+      "kind": "elision",
+      "subject": "copula",
+      "rationale": "Hebrew verbless clause 'thy salvation among all nations' — no verb supplied"
+    }
+  ],
+  "translation": "⟨काहे कि⟩ धरती में तोहर रस्ता जानल जा हइ, आउ सब जाति के बीच तोहर मुक्ति।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4c5ce1a2835f37e54c6874feaffd4e42e7f06998b1b43ac47104c0d6394c6581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/67\/1-4.1792005265199.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "जानल जा हइ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "तोहर रस्ता"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "तोहर मुक्ति"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:25.200270943Z",
+  "model": "glm-5.3"
+}

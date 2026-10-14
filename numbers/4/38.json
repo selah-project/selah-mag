@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 4:38",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के मोताबिक",
+      "rationale": "ל-पूर्व (मोताबिक) बतावे बर मगही में जोड़ल।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "गेर्शोन के बेटा के गिनती के सूची-पद।"
+    }
+  ],
+  "translation": "आउ गेर्शोन के बेटा के गिनल, ओकनी के परिवार आउ ओकनी के बाप के घर के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "153b6e5146795d6232295451dea64ae46833aed2ab002b3e86e4621b262cee08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/4\/37-40.1791990610815.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "आउ गिनल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा के"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "गेर्शोन"
+    },
+    {
+      "surface": "למשפחותם",
+      "gloss": "ओकनी के परिवार के मोताबिक"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "आउ घर के मोताबिक"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ओकनी के बाप के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:10:10.816514525Z",
+  "model": "glm-5.3"
+}

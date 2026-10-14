@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 16:17",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מילन के तम्बू",
+      "rationale": "אהל מועד के साक्षात् अर्थ 'नियत समय का तम्बू' हकइ; 'मिलन के तम्बू' चलनसार समझ देलक।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जखन … तक",
+      "rationale": "इब्रानी के ढाँचा (बबאो…עד दאתו) के मगही में जोड़ने बर।"
+    }
+  ],
+  "translation": "आउ कोनो आदमी मिलन के तम्बू में नञ रहतइ जखन ऊ पवित्तर जगह में प्रायस्चित करे बर भीतर जातइ, ओकर निकलल तक; आउ ऊ अपना बर, अपन घर बर आउ यिस्राएल के सारा कहल बर प्रायस्चित करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a17951f644ba6e4159dd6373631f4a90397291ef9a694cbace2753afb91de8d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/16\/17-20.1791990064162.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आउ कोनो"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "तम्बू में"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "ओकर भीतर जाए पर"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "प्रायस्चित करे बर"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "पवित्तर जगह में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "ओकर निकलल"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "आउ प्रायस्चित करतइ"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "अपना बर"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "आउ … बर"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "अपन घर"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "आउ … बर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "कहल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:01:04.163024444Z",
+  "model": "glm-5.3"
+}

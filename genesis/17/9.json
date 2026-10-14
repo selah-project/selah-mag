@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "अवराहाम के",
+      "rationale": "एलोहीम अवराहाम के सीधे सम्बोधन करऽ हइ — वाचा के आज्ञा।"
+    },
+    {
+      "kind": "addition",
+      "subject": "पीढ़ी-दर-पीढ़ी",
+      "rationale": "לדרת׮ के बहुवचन के अरथ फइलावे बर।"
+    }
+  ],
+  "translation": "आउ एलोहीम अवराहाम (अब्राहम) के कहलन — आउ तूँ हमरी वाचा ⟨את⟩ के रखवारी करबइ, तूँ आउ तोहर बिया तोहरा पाछे ओकनी के पीढ़ी-दर-पीढ़ी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "830bf8de48cd4b90be25c13d566580a155d0cba7b29fc22b571c328057bde33b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/17\/9-12.1791986634233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमरी वाचा"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "हमरी वाचा"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "रखवारी करबइ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "आउ तोहर बिया"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "तोहरा पाछे"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ओकनी के पीढ़ी-दर-पीढ़ी"
+    }
+  ],
+  "timestamp": "2026-10-14T14:03:54.233890397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 28:19",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "इब्रानी में क्रिया-विहीन खंड; मगही के पूरा बाक्य चाही"
+    },
+    {
+      "kind": "crux",
+      "subject": "यहवे के हाथ से",
+      "rationale": "लिखाई यहवे के हाथ से अइल (यहवे नञ लिखलन) चाहे यहवे के हाथ दाविद पर रहल — KJV 'by his hand upon me' बनाम YLT 'from the hand of Jehovah'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "नमूना",
+      "rationale": "मन्दिर के नमूना यहवे से लिखाई में अइल — स्वर्ग से देखावल गढ़नी"
+    }
+  ],
+  "translation": "“ई सब लिखाई में ⟨हलइ⟩, यहवे के हाथ से, ऊ ⟨हमरा⟩ समझालन — नमूना के सब काम।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5bb8b088f2a783f3b5805c59ac20b353ddb731a3add5795ab2a41bae7cf62dce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/28\/17-20.1792010586236.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "लिखाई में"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमर ऊपर"
+    },
+    {
+      "surface": "השכיל",
+      "gloss": "समझालन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מלאכות",
+      "gloss": "काम"
+    },
+    {
+      "surface": "התבנית",
+      "gloss": "नमूना के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:43:06.237597957Z",
+  "model": "glm-5.3"
+}

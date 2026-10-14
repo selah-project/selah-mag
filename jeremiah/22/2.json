@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 22:2",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "पुकार के बर मगही के चिन्हा जोड़ल गेल, इब्रानी में नञ हकइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "सुनऽ",
+      "rationale": "राजा आउ ओकर लोग के सीधा पुकार — सुनऽ के आदेश"
+    },
+    {
+      "kind": "you",
+      "subject": "यहूदा के राजा",
+      "rationale": "दाविद के गद्दी पर बैठल राजा के संबोधन"
+    }
+  ],
+  "translation": "आउ कहा — सुनऽ यहवे के बात, हे यहूदा के राजा, जे दाविद के गद्दी पर बैठल हथिन; तूँ, तोहर नौकर लोग आउ तोहर लोग, जे एहन केवाड़ी सभे में अवैत हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9babd1d519357962e6f83ff1549314723379076eaf179b902b4adc50530a1a79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/22\/1-4.1792000664194.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "आउ कहा"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "जे बैठल हथिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "गद्दी"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "आउ तोहर नौकर लोग"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "आउ तोहर लोग"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "जे अवैत हथिन"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "केवाड़ी सभे में"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "एहन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:57:44.195244727Z",
+  "model": "glm-5.3"
+}

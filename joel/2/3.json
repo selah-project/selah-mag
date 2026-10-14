@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 2:3",
+  "book": "joel",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चाटत जरऽ हे",
+      "rationale": "תלהט के साक्षात अरथ 'चाटना' — लपट के जीभ-जइसन चाट; मगही में ओही तसवीर रखल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "पहिला अनुपात-वाक्य में मगही के क्रिया-सहायक जोड़ल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לפניו \/ ׵אחריו",
+      "rationale": "आगे-पाछे के दुहराव चार बेर — आग आगे, लपट पाछे, बगइचा आगे, उजाड़ पाछे — विपरीत-जोड़ के बनावट।"
+    }
+  ],
+  "translation": "ओकरा आगे आग खावऽ हइ, आउ ओकरा पाछे लपट चाटत जरऽ हे; ओकरा आगे धरती एदेन के बगइचा जइसन हइ, आउ ओकरा पाछे उजाड़ रेगिस्तान; आउ ओकरा से बचैत कोनो नञ बचलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5df513279c7cf6c3f98b6ef6db00330b8f3ca0f12508f62eb7935d58d68b0288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joel\/2\/1-4.1792003506351.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "ओकरा आगे"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "खावऽ हइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "आउ ओकरा पाछे"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "चाटत जरऽ हे"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "लपट"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "बगइचा जइसन"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "एदेन के"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकरा आगे"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "आउ ओकरा पाछे"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "उजाड़ रेगिस्तान"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "बरबाद"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "बचैत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "बचलइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:45:06.352139042Z",
+  "model": "glm-5.3"
+}

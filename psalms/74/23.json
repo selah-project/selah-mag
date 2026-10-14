@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "शब्द सब के बोली",
+      "rationale": "קול शत्रु के बोलल दुर्बचन बुझावऽ हइ, खाली आवाज नञ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול\/שאון",
+      "rationale": "बोली आउ हल्ला के सोझा जोड़ी — चित्कार के चढ़त तस्वीर"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के ओर",
+      "rationale": "प्रार्थना परमेश्वर के सम्बोधन में जारी हकइ"
+    }
+  ],
+  "translation": "तोहर बैरी सब के बोली मत बिसरऽ; तोहर विरोधी के हल्ला लगातार चढ़त रहऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "39cb3110782b1e51d8213863432bb7799bec990105c6d57346399b1de4477c38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/74\/21-23.1792005427336.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "बिसरऽ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "तोहर बैरी सब के"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "हल्ला"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "तोहर विरोधी के"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़त रहऽ हइ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "लगातार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:07.337415654Z",
+  "model": "glm-5.3"
+}

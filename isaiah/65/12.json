@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 65:12",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ומניתי \/ למני",
+      "rationale": "पद 11 के देवता 'मनी' आउ पद 12 के 'हम गिनब' (מנה) एके जड़ के हकइ — जे मनी बर मद भरलक, ऊ खुद गिनल जातइ; मगही में ई खेल हरा जा हइ"
+    }
+  ],
+  "translation": "आउ हम ⟨את⟩ तोहनी तलवार बर गिनब, आउ तोहनी सब बधिया बर गोड़ा धरब — काहे कि हम पुकारलन आउ तोहनी जवाब नञ देलह, हम कहलन आउ तोहनी नञ सुनलह; बाकि तोहनी हमर आँख में बुराई कएलह आउ ओकरा बछलह जेकरा हम नञ चाहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "66a8d8bb9585ec4ed4f2166197f0e5f6ff7414decf13f2e137566e4ce5aa3afd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/65\/9-12.1792000069966.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומניתי",
+      "gloss": "आउ हम गिनब"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी",
+      "marks": "तलवार बर गिनल जाए वाला"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "तलवार बर"
+    },
+    {
+      "surface": "וכלכם",
+      "gloss": "आउ तोहनी सब"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "बधिया बर"
+    },
+    {
+      "surface": "תכרעו",
+      "gloss": "गोड़ा धरब"
+    },
+    {
+      "surface": "יען",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "हम पुकारलन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "जवाब देलह"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "हम कहलन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "सुनलह"
+    },
+    {
+      "surface": "ותעשו",
+      "gloss": "बाकि कएलह"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "हमर आँख में"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "आउ ओकरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "चाहलन"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "बछलह"
+    }
+  ],
+  "timestamp": "2026-10-14T17:47:49.967975019Z",
+  "model": "glm-5.3"
+}

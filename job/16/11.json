@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 16:11",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עויל",
+      "rationale": "'कुटिल\/बैर-हरामी' बनाम 'जबरदस्ती करे वाला' — कुछ अनुवादक एकरा संज्ञा ('अत्याचारी') मानऽ हथिन"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ירטני",
+      "rationale": "यारत के क्रिया-रूप तनाख़ में बिरल हइ — सिर के बल गिरा देवे के साफ तसबीर"
+    }
+  ],
+  "translation": "एल मोका कुटिल लोग के हवाले कर देलक आउ पापी लोग के हाथ में मोका उछाल देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0bc6e80a233778cebfd09369971cd969523c4b6f19a18bc1f94bb19fd494c97a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/16\/9-12.1792007401655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסגירני",
+      "gloss": "मोका हवाले कर देलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "עויל",
+      "gloss": "कुटिल लोग"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ ... में"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "पापी लोग"
+    },
+    {
+      "surface": "ירטני",
+      "gloss": "मोका उछाल देलक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:50:01.656727429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרי",
+      "rationale": "'विरोध' बनाम 'हठ' \/ 'तोड़-भाव' — KJV 'contrary', YLT 'opposition'; शब्द के सही अरथ विवादित हकइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सात गुना",
+      "rationale": "שבע — सात के परति गिनती, परमेश्वर के ताड़ना के पूरा माप"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף אני",
+      "rationale": "'तबहु हम' — इब्रानी दुहराव जोर देवऽ हइ कि यहवे खुद ताड़ना करतइ"
+    }
+  ],
+  "translation": "आउ हम विरोध के गुस्सा में तोहनी के संग चलब, आउ तबहु हम ⟨את⟩ तोहनी के सात गुना तोहनी के पाप बर ताड़ना करब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "aa765f56269c280b716b6135d87d5ef5bdf18b65b27fb9740af7f67db6054c5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/26\/28-28.1792011576696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "हम चलब"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "तोहनी के संग"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "गुस्सा में"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "विरोध के"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "हम ताड़ना करब"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के"
+    },
+    {
+      "surface": "אף",
+      "gloss": "तबहु"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात गुना"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "तोहनी के पाप"
+    }
+  ],
+  "timestamp": "2026-10-14T20:59:36.696458711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המקנה ההוא",
+      "rationale": "'that livestock' — KJV reads 'those other cattle' (Amalek's plunder driven ahead of it); referent ambiguous"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זה שלל דוד",
+      "rationale": "refrain-like slogan 'this is David's plunder' — a cry that names the booty after its recoverer"
+    }
+  ],
+  "translation": "आउ दाविद लेलन ⟨את⟩ सब भेड़ आउ गाय-बैल; ओकनी के ओही माल-जाल के आगू हाँकल गेलन गेलन, आउ कहलन — ई दाविद के लूट हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "31b5fe3aca73b7a6992470c867813d96506513fc751385bf45d5038431dc2b45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/30\/17-20.1791995727640.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब भेड़ आउ गाय-बैल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "आउ गाय-बैल"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "हाँकल गेलन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "माल-जाल"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लूट"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:35:27.641603404Z",
+  "model": "glm-5.3"
+}

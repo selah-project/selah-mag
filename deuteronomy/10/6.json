@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 10:6",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מוסרה \/ מוסרות",
+      "rationale": "स्थान-नाम मोसेरा गिनती 33:31 के मोसेरोत से जुड़ऽ हइ — एके जड़, दू रूप"
+    },
+    {
+      "kind": "measurement",
+      "subject": "यात्रा-सूची",
+      "rationale": "पड़ाव-नाम के गिनती (बेरोत बने-याकान → मोसेरा) — यात्रा का लेखा"
+    },
+    {
+      "kind": "substitution",
+      "subject": "पुरोहित के काज करे लगलन",
+      "rationale": "ויכהן क्रिया हकइ — “पुरोहित बनलन” नञ, “पुरोहित के काज करे लगलन” जादे ठीक"
+    }
+  ],
+  "translation": "आउ यिस्राएल के बेटा सब बेरोत बने-याकान के लोग के जगह से मोसेरा ले जान लगलन; ओहाँ अहरोन (हारून) मरलन आउ ओहाँ गाड़ल गेलन, आउ ओकर बेटा एलाजार ओकर जगह पुरोहित के काज करे लगलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "90dd3fcf65d724abf946a7227785e053bad11fd840f519357542fb67aae09562",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/10\/5-6.1792011660091.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "के बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "जान लगलन"
+    },
+    {
+      "surface": "מבארת",
+      "gloss": "बेरोत"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बने"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "याकान"
+    },
+    {
+      "surface": "מוסרה",
+      "gloss": "मोसेरा ले"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहाँ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मरलन"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "गाड़ल गेलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहाँ"
+    },
+    {
+      "surface": "ויכהן",
+      "gloss": "पुरोहित के काज करे लगलन"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाजार"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    }
+  ],
+  "timestamp": "2026-10-14T21:01:00.092261666Z",
+  "model": "glm-5.3"
+}

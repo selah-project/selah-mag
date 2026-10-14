@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "के संग",
+      "rationale": "על मूल रूप में 'ऊपर\/पर' हकइ; 'के संग' भोजन के संगति के अरथ देलकइ।"
+    }
+  ],
+  "translation": "आउ ओकरा ⟨את⟩ मांस एही रात में खाबइ — आग में भुनल; बिना खमीर के रोटी अउ कड़वा साग के संग ओकरा खाबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "31d3c46c1a9004d30ec02c9d2ed1e5d8d5878316f9d497d064ecd750daeea695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/12\/5-8.1791988335715.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "आउ खाबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मांस"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "भुनल"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "बिना खमीर के रोटी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "कड़वा साग"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "खाबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:32:15.716862465Z",
+  "model": "glm-5.3"
+}

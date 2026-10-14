@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 10:5",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "רכבי סוסים",
+      "rationale": "सवारनी के घोड़ी — हिन्दी\/अंगरेजी के 'riders on horses' लंबा हकइ; मगही में 'घोड़ी के सवार' एके बात कहऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "आउ ओ",
+      "rationale": "क्रिया के करता संज्ञा-पद से अलग बतावे बर जोड़ल, हिब्रू में क्रिया-रूपे काम चलावऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के जन",
+      "rationale": "यहवे के संग होवे के घोसना — ओकनी बर ताकत के बाचा।"
+    }
+  ],
+  "translation": "आउ ओ बीरनी जइसन होतइ — लड़ाई में गली के कीचड़ रौरऽ हइ — आउ ओ लड़तइ, काहे कि यहवे ओकनी के संग हथिन, आउ ओ घोड़ी के सवारनी के लजा देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9673acada831d6f6b8a432867083438694cd5935c0468f51ebe476f7e49a291b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/10\/5-8.1792004300097.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "आउ ओ होतइ"
+    },
+    {
+      "surface": "כגברים",
+      "gloss": "बीरनी जइसन"
+    },
+    {
+      "surface": "בוסים",
+      "gloss": "रौरऽ हइ"
+    },
+    {
+      "surface": "בטיט",
+      "gloss": "कीचड़"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "गली"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "लड़ाई में"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "आउ ओ लड़तइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ओकनी के संग"
+    },
+    {
+      "surface": "והבישו",
+      "gloss": "आउ लजा देतइ"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "सवारनी के"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोड़ी"
+    }
+  ],
+  "timestamp": "2026-10-14T18:58:20.098022405Z",
+  "model": "glm-5.3"
+}

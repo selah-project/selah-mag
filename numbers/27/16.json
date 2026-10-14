@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הרוחת",
+      "rationale": "רוח के ई बहुबचन रूप तनाख़ में खाली इहे जगह आवऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפקד",
+      "rationale": "पाकद — 'नियुक्त करऽ' बनाम 'गिनऽ \/ देखभाल करऽ'; संदर्भ उत्तराधिकारी माँगऽ हइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "मोशे के प्रार्थना",
+      "rationale": "मोशे यहवे से जमात बर अगुवा माँगऽ हइ — प्रार्थना-वाक्य।"
+    }
+  ],
+  "translation": "यहवे, सब मांस के रूआख सब के एलोहीम, जमात के ऊपर एक आदमी नियुक्त करतइ,",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bce42ac82121b26e6d49a1c5de78855d9b844375f9b75e99703654ea2261e66f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/27\/13-16.1791991601821.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "नियुक्त करतइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "रूआख सब के"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक आदमी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "जमात"
+    }
+  ],
+  "timestamp": "2026-10-14T15:26:41.822981041Z",
+  "model": "glm-5.3"
+}

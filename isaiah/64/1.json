@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "המסים",
+      "rationale": "सूखल काठ-झार — ई पद तनाख़ में खाली इहे आवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "पद-बाँट",
+      "rationale": "इब्रानी गिनती में ई पद 63:19 के दोसरा हिस्सा हकइ; किताबन में पद-नम्बर में मतभेद हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אש ... אש",
+      "rationale": "आग के दू हर दोहरावल गेलन हे — जरावऽ आउ उबालऽ दूनो आग के काम"
+    }
+  ],
+  "translation": "जइसने आग सूखल काठ-झार के जरावऽ हइ, आग ⟨से⟩ पानी के उबाल देवऽ हइ, तोहर नाम तोहर दुसमनन के जनावे बर, तोहर मुँह से जाति सब काँपऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/64\/1-4.1791999890513.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "जइसने जरावऽ हइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "सूखल काठ-झार"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "उबाल देवऽ हइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "जनावे बर"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "तोहर दुसमनन के"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "तोहर मुँह से"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "काँपऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:44:50.514328637Z",
+  "model": "glm-5.3"
+}

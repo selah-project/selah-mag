@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנצרני",
+      "rationale": "नत्सर — रखवारी करना; किछु अनुवादक भबिस के रूप ले हथिन, किछु हुकम के रूप में पढ़ा हथिन („रखवारी कर!”)"
+    }
+  ],
+  "translation": "यहवे, हमरा छुड़ाउऽ हथिन बुरा आदमी के हाथ से; हिंसा करे वाला मरद से हमर रखवारी करऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/140\/1-4.1792006297680.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "हमरा छुड़ाउऽ हथिन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "आदमी के हाथ से"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "मरद से"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "हिंसा करे वाला"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "हमर रखवारी करऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:37.680738364Z",
+  "model": "glm-5.3"
+}

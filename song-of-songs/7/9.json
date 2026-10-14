@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 7:9",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שדיך",
+      "rationale": "पद सीमा पर बझन: JPS एकरा गोड़ के बाक्य से जोड़ऽ हइ (स्तन), बाकी अनुवाद पाछे के तालु-बाक्य से (मुँह के छत)।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סנסניו",
+      "rationale": "תמर के डाल बर ई सब्द तनाख़ म एही जगह आवऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמר \/ סנסניו",
+      "rationale": "ताड़-गाछ चढ़े के चित्र आउ स्तन के दाख-गुच्छा के चित्र म समानान्तर, मगही म चित्र बचलइ बाकि ध्वनि-खेल नञ।"
+    }
+  ],
+  "translation": "हम कहलियन — हम ताड़ के गाछ म चढ़ब, ओकर डालियन के पकड़ब; आउ तोहर स्तन दाख के गुच्छा जइसन होवतइ, आउ तोहर नाक के खुसबू सेब जइसन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/7\/9-12.1792008066786.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "हम कहलियन"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "हम चढ़ब"
+    },
+    {
+      "surface": "בתמר",
+      "gloss": "ताड़ के गाछ म"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "पकड़ब"
+    },
+    {
+      "surface": "בסנסניו",
+      "gloss": "ओकर डालियन के"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "आउ होवतइ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "तऽ"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "तोहर स्तन"
+    },
+    {
+      "surface": "כאשכלות",
+      "gloss": "गुच्छा जइसन"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "दाख के"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "आउ खुसबू"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "तोहर नाक के"
+    },
+    {
+      "surface": "כתפוחים",
+      "gloss": "सेब जइसन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:01:06.786835421Z",
+  "model": "glm-5.3"
+}

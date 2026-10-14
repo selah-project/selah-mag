@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 26:14",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "रेफाइम",
+      "rationale": "רפאים — मेला लोग के परछाइं-जइसन साया; लिप्यन्तरन रखलन, साया नञ कहलन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "देखलन",
+      "rationale": "פקדת: 'देखलन \/ सैन्य-गिनती कएलन \/ दंड देलन' — कोनो एक अरथ चुनल जा हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "पुरान कण-सब्द, 'ओकनी के' रूप में घुसरल।"
+    }
+  ],
+  "translation": "मेला लोग नञ जिअतइ; रेफाइम नञ उठतइ; एहे से तूँ ओकनी के देखलन आउ ओकनी के बरबाद कएलन, ओकनी के सब स्मृति मेटाए देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d80426e4f83cc4b3a4d76dcde864a4eb8786ca61ec68d98a04f1acafd04189c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/26\/13-16.1791999012757.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתים",
+      "gloss": "मेला लोग"
+    },
+    {
+      "surface": "בל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "जिअतइ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "रेफाइम"
+    },
+    {
+      "surface": "בל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "उठतइ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "बरबाद कएलन"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "मेटाए देलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "स्मृति"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ओकनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:30:12.758440912Z",
+  "model": "glm-5.3"
+}

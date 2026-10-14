@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 57:5",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באלים",
+      "rationale": "Strong's 410 (देवता सब) बनाम אלה के बहुबचन 'टेरेबिन्थ गाछ सब' (JPS); कोनोटिव में ही सही, दुनो आकार एके अच्छर के हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गरम होवऽ हथिन",
+      "rationale": "הנחमיׂ शाब्दिक 'गरम होना' हकइ — कामुक उत्तेजना के छवि।"
+    },
+    {
+      "kind": "you",
+      "subject": "व्यभिचारी परजा",
+      "rationale": "यहवे ओकरा बेईमान लोग के संबोधित करऽ हथिन।"
+    }
+  ],
+  "translation": "जे देवता सब के संग गरम होवऽ हथिन, हर हरियर गाछ के नीचे; जे बुतरू सब के नाला में काटऽ हथिन, पहाड़ के चीरा सब के नीचे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ec57c862093da13194b14939a24bdddb41423c6e32fa124d1cb90d28c6381a61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/57\/5-8.1791999813229.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנחמים",
+      "gloss": "गरम होवऽ हथिन"
+    },
+    {
+      "surface": "באלים",
+      "gloss": "देवता सब के संग"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "गाछ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "हरियर"
+    },
+    {
+      "surface": "שחטי",
+      "gloss": "काटऽ हथिन"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "बुतरू सब के"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "नाला में"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "סעפי",
+      "gloss": "चीरा सब के"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "पहाड़ के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:43:33.230392762Z",
+  "model": "glm-5.3"
+}

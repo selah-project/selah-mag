@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "रमותך",
+      "rationale": "ढेर (लास के ढेर) बनाम केजेभी 'height' आउ जेपीएस 'foulness'; इब्रानी रूप लास के ढेर के हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "फिरओन",
+      "rationale": "पूरा पद सीधा फिरओन के सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "आउ हम रखबइ ⟨את⟩ तोहर मांस पहाड़ सब के ऊपर, आउ घाटी सब हम भर देबइ तोहर ढेर से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e5633830e5fc24685ae250da5e045fbf1822becc8f2c9ad347a3d517e7741ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/32\/5-8.1792002602811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "रखबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर मांस"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "तोहर मांस"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पहाड़ सब"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "भर देबइ"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "घाटी सब"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "तोहर ढेर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:30:02.812433274Z",
+  "model": "glm-5.3"
+}

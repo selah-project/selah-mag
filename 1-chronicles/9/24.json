@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "רוחות के अरथ इहाँ दिसा हइ, बतास नञ — बाकि सब्द रूआख एके रखल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चार रूआख",
+      "rationale": "चारो दिसा के गिनती-बिन्यास"
+    }
+  ],
+  "translation": "चार रूआख बर दुआरी के रखवारा रहलन — पूरुब, समुंदर-दिसा, उत्तर-दिसा आउ दक्खिन-दिसा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4af917128977be64890599bf9c0f40bec729b6745ca4bd5d4db81380f0168f51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/9\/21-24.1792010101421.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "चार बर"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "दुआरी के रखवारा"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "पूरुब"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "समुंदर-दिसा"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "उत्तर-दिसा"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "आउ दक्खिन-दिसा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:35:01.422787625Z",
+  "model": "glm-5.3"
+}

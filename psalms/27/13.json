@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לולא",
+      "rationale": "'जे नञ' के अरथ बाझल: कतुबी 'हम हार गेलियन होतइ' जोड़ऽ हइ, jps सीधे 'अगर नञ भरोसा होतै' रखऽ हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "जीवन के धरती",
+      "rationale": "חיים बहुबचन — 'जीवनिहार सब के धरती' दोसर पाठ होतइ, बाकि 'जीवन के धरती' एके ठाढ़ रहल।"
+    }
+  ],
+  "translation": "जे नञ हम भरोसा कइलियन होतइ, त यहवे के भलाई के देखल नञ होतइ जीवन के धरती में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7279dd61c31884fd87504f0892046dbd010a32df671d465ed354dd2a9719f65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/27\/13-14.1792004708583.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "जे नञ"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "हम भरोसा कइलियन होतइ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "के देखल"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "के धरती में"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:05:08.584054284Z",
+  "model": "glm-5.3"
+}

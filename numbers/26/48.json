@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 26:48",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "सामूहिक वंशज-रूप बताबै बर मगही बहुवचन चिन्हा"
+    },
+    {
+      "kind": "measurement",
+      "subject": "कुनबा-सूची",
+      "rationale": "जनगणना के परिवार-सूची के अंग"
+    }
+  ],
+  "translation": "नाफ्ताली के बेटासब अपन-अपन कुनबा के मोताबिक: याख्त्सेल बर ⟨याख्त्सेली⟩ सब के कुनबा, गूनी बर ⟨गूनी⟩ सब के कुनबा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "36fc106033eeb60e15efad36217d1bfe0fa2a5297bcab6604bb3a7376ed06897",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/26\/45-48.1791991539345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटासब"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नाफ्ताली"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "अपन-अपन कुनबा के मोताबिक"
+    },
+    {
+      "surface": "ליחצאל",
+      "gloss": "याख्त्सेल बर"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "היחצאלי",
+      "gloss": "याख्त्सेली सब"
+    },
+    {
+      "surface": "לגוני",
+      "gloss": "गूनी बर"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "הגוני",
+      "gloss": "गूनी सब"
+    }
+  ],
+  "timestamp": "2026-10-14T15:25:39.346821660Z",
+  "model": "glm-5.3"
+}

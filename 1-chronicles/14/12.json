@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאמר",
+      "rationale": "'दाविद कहलन' — कहलन के बाद आदेस के बात हिब्रू में लिखल नञ हइ; KJV 'आदेस देलन' जोड़ऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלהיהם",
+      "rationale": "पलिस्ती के देवता बर जाति-सब्द 'देवता सब' — नाम एलोहीम इ जगह नञ।"
+    }
+  ],
+  "translation": "आउ ओकनी ओइयों ⟨את⟩ ओकर देवता सब के छोड़ देलन, आउ दाविद कहलन, आउ ओकनी के आग में जरा देल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f5152e0182668c46a733286843579704ca1972295636f3d7003dc8295cca337a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/14\/9-12.1792010174076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "आउ ओकनी छोड़ देलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओइयों"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर देवता सब के"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ओकर देवता सब के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "आउ जरा देल गेलन"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:36:14.077516420Z",
+  "model": "glm-5.3"
+}

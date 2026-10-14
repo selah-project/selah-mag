@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "कोनो बत नञ हइ",
+      "rationale": "अनुवादक मतभेद: KJV 'जहाँ ओकनी के आवाज नञ सुनाय' (कतहु नञ) बनाम YLT\/JPS 'ओकनी के बत नञ हइ' (अकास के गवाही बिना बोली)।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दबरिम",
+      "rationale": "עברית बहुबचन 'दबरिम' — मगही एक-बचन 'बचन' बनावल गेलइ।"
+    }
+  ],
+  "translation": "कोनो बत नञ हइ आउ कोनो बचन नञ; बिना सुनाए ओकनी के आवाज।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1785af0bc752d5a093ad7b37a44aec101912dfa3b6e9d28b151c82204e510173",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/19\/3-4.1792012056036.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "नञ हइ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "बत"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "सुनाए"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ओकनी के आवाज"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:36.037534221Z",
+  "model": "glm-5.3"
+}

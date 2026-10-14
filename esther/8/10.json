@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 8:10",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האחשתרנים",
+      "rationale": "फारसी उधार सब्द: 'खच्चर' बनाम 'राज-प्रजनित घोड़ा' — अनुवादक लोग मतभेद करथिन"
+    },
+    {
+      "kind": "elision",
+      "subject": "נשלח … ויכתב के करता",
+      "rationale": "इब्रानी निष्ठ क्रिया बिना करता के हकइ; मगही के बनावट निष्ठ रूप में रखल गेल"
+    }
+  ],
+  "translation": "आउ राजा अखशवेरोश के नाम से लिखल गेलन, आउ राजा के अँगूठी से मोहर लगावल गेलन, आउ पत्र सब भेजल गेलन दौड़ै वाला सब के हाथे, घोड़ा पर सवार — राजा के डाक-घोड़ा, खच्चर सब, घोड़ी के बेटा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e3e5cd678a38e069c7c1897d4a8e0c31d43f1a2521e76f70bd441980cfdfaa22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/8\/9-12.1792008791063.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "लिखल गेलन"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाम से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "अखशवेरोश"
+    },
+    {
+      "surface": "ויחתם",
+      "gloss": "मोहर लगावल गेलन"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "अँगूठी से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "भेजल गेलन"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "पत्र सब"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथे"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "दौड़ै वाला सब के"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "घोड़ा पर"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "सवार"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "राजा के डाक-घोड़ा"
+    },
+    {
+      "surface": "האחשתרנים",
+      "gloss": "खच्चर सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "הרמכים",
+      "gloss": "घोड़ी के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:13:11.064626564Z",
+  "model": "glm-5.3"
+}

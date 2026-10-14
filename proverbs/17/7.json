@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "אף כि जोड़ल रूप 'अउ ना कि' में एके गेलइ; अलग से कुछो नञ लिखल"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתר",
+      "rationale": "'जादे बात \/ ऊँच बात' बनाम 'बढ़िया बात' — कोनो अनुवाद 'सुंदर बोली' कहऽ हइ"
+    }
+  ],
+  "translation": "मूर्ख के बर ऊँच-ऊँच बात नञ ठीक हकइ, अउ ना कि बड़ा आदमी के बर झूठ के ओठ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7a87d983accc2290c15828830f664af899b684e8e6921402010114f4e44a659f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/17\/5-8.1792006764185.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ठीक हकइ"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "मूर्ख के बर"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ओठ के"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ऊँच-ऊँच बात"
+    },
+    {
+      "surface": "אף",
+      "gloss": "अउ ना कि"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "बड़ा आदमी के बर"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:24.186502702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 28:24",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एक",
+      "rationale": "हिब्रू में अंक नञ हइ; मगही वाक्य बर एक जोड़ल गेल।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מרבק",
+      "rationale": "बड़का (पसु के बाड़ा) — तनाख़ में खाली इहे जगह।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मत्ज्जा",
+      "rationale": "बिना खमीर के रोटी — खमीर-रहित अरथ मगही में अलग सब्द नञ होवे से रूप लिप्यन्तरित रहल।"
+    }
+  ],
+  "translation": "आउ जनाना के पास घर के बड़का में एक बछड़ा हलकइ; ऊ बड़का जल्दी कइलकइ आउ ओकरा काट देलकइ; आउ आटा लेलकइ, ओकरा गूँथलकइ आउ ओकरा के मत्ज्जा बनौलकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e5a2cc75600b19ff486a0f12983903878d85de0fc9edf0bdedf3b1d9da4a1729",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/28\/21-24.1791995677369.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשה",
+      "gloss": "जनाना के पास"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "बछड़ा"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "बड़का में"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "जल्दी कइलकइ"
+    },
+    {
+      "surface": "ותזבחהו",
+      "gloss": "ओकरा काट देलकइ"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "लेलकइ"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "आटा"
+    },
+    {
+      "surface": "ותלש",
+      "gloss": "गूँथलकइ"
+    },
+    {
+      "surface": "ותפהו",
+      "gloss": "बनौलकइ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "मत्ज्जा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:34:37.370896307Z",
+  "model": "glm-5.3"
+}

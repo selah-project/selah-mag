@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פני",
+      "rationale": "'मुँह\/अगल-बगल' के जगह मगही में 'आगे' — इब्रानी के आकृति-अरथ ग्लॉस में रखल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבע פעמים",
+      "rationale": "सात बेर के दोहराव पवित्तर पूरा होवे के गिनती हकइ; मगही में गिनती जस के तस।"
+    }
+  ],
+  "translation": "आउ पुरोहित ⟨את⟩ ओकर अँगुरी खून में डुबातन, आउ खून में से सात बेर यहवे के आगे, पवित्तर के परदा के आगे, छिड़कतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/4\/5-8.1791989626684.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "आउ डुबातन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर अँगुरी"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ओकर अँगुरी"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "खून में"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "आउ छिड़कतन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परदा के आगे"
+    },
+    {
+      "surface": "פני",
+      "gloss": "आगे (मुँह के दने)"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्तर के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:53:46.685666602Z",
+  "model": "glm-5.3"
+}

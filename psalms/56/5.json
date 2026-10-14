@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מה יעשה בשר לי",
+      "rationale": "'मांस हमरा की करतइ' — कुछु अनुवाद क्षमता बतावऽ हथिन ('की कर सकऽ हइ'), पर इब्रानी साफ सत्यरूप हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मांस",
+      "rationale": "בשर मनुस के नाजुक देह बुजावऽ हइ — 'मनुस-जाति' के बदला रूप-रूपाय के रखल गेल"
+    }
+  ],
+  "translation": "एलोहीम में हम ओकर बचन के सराहना करऽ हिअइ, एलोहीम में हम भरोसा रखलिए — डरावऽ नञ हम, मांस हमरा की करतइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ecc13b0c2336edb4420eb17561ef44c6826d10fcfb9e63b65f7c38429f3da8bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/56\/5-8.1792005190673.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "एलोहीम में"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "सराहना करऽ हिअइ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ओकर बचन"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "एलोहीम में"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "भरोसा रखलिए"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "डरावऽ हिअइ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:10.674410175Z",
+  "model": "glm-5.3"
+}

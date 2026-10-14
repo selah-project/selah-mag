@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "इहाँ אתט केतनौ निसानी नञ, बलुक 'ओकनी' (पुरुष-बहुबचन सर्बनाम) हकइ — ओकरा डंडा कहऽ हइ, मेज के नञ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "शित्ताम",
+      "rationale": "बबूल-जाति के काँटेदार गाछ; नाम हकइ एहे से लिप्यन्तरन रखलक, 'बबूल' नञ।"
+    }
+  ],
+  "translation": "आउ तूँ ⟨את⟩ डंडा बनाबइ, शित्ताम के लकड़ी के, आउ तूँ ओकनी के सोना से मढ़ देबइ, आउ ओकनी के जरिए ⟨את⟩ मेज ढोवल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea5e9a797728651f6df21bd05726f5741bc56229b5afe779990134120dc5ef48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/25\/25-28.1791988858466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "आउ तूँ बनाबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "डंडा"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "डंडा"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "लकड़ी के"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "शित्ताम के"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "आउ तूँ मढ़ देबइ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ओकनी के"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना से"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "आउ ढोवल जातइ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकनी के जरिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेज"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "मेज"
+    }
+  ],
+  "timestamp": "2026-10-14T14:40:58.468122486Z",
+  "model": "glm-5.3"
+}

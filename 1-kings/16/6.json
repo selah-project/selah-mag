@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "slept with his fathers",
+      "rationale": "עם אבתיו विष्क्यान: euphemism for dying, rendered literally 'सुतलन' keeping the picture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "बाप-दादा",
+      "rationale": "אבתיו plural of אב — ancestors; Magahi plural idiom used for the plural form."
+    }
+  ],
+  "translation": "आउ बासाके ओकर बाप-दादा के संग सुतलन, आउ तिर्साह में ओकर गाड़ल गेलन; आउ एला, ओकर बेटा, ओकर जगह राज करलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "358ddb6159f4f329c581e58cc5d04a4ad391262b9aaa95365cdda115335db540",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/16\/5-8.1791997382447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "सुतलन"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "बासाके"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ओकर बाप-दादा के"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "आउ गाड़ल गेलन"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "तिर्साह में"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "आउ राज करलक"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एला"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    }
+  ],
+  "timestamp": "2026-10-14T17:03:02.448002699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 7:10",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל פניו — ओकर मुँह के सामने",
+      "rationale": "इब्रानी के मुहावरा: खुलेआम, तुरत-तुरत दने संकेत; साफ-साफ अरथ देबे पड़ल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר \/ שלם के बदले",
+      "rationale": "पद 9 के שמר (रखवारी) आउ पद 10 के שלם (बदला देना) के ध्वनि-मेल वापसी के ढाँचा बनावऽ हे"
+    }
+  ],
+  "translation": "आउ ओ ओकर दुसमनन के ओकर मुँह के सामने बदला देथिन, ओकर नास करै बर; ओ ओकर दुसमन के बर देर नञ करतइ — ओकर मुँह के सामने ओकरा बदला देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b377460bc6c27090c48d7e29e992180703f669ae29e9aebbc6228e65331ddd42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/7\/9-12.1791992210279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשלם",
+      "gloss": "आउ बदला देथिन"
+    },
+    {
+      "surface": "לשנאיו",
+      "gloss": "ओकर दुसमनन के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ओकर मुँह"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "ओकर नास करै बर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יאחר",
+      "gloss": "देर करतइ"
+    },
+    {
+      "surface": "לשנאו",
+      "gloss": "ओकर दुसमन के बर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ओकर मुँह"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "बदला देतइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:36:50.279796057Z",
+  "model": "glm-5.3"
+}

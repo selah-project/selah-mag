@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ठाठ-बाट",
+      "rationale": "עצביהם — मूरत-गढ़ल देव-प्रतिमा; ठाठ-बाट (गढ़ल चीज) रखल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצביהם\/מוקש",
+      "rationale": "मूरत आउ जाल — दुनू के साँझा स्वरिक रेखा, मगही में खो गेल"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ ओकनी के ठाठ-बाट सेवा करलन, आउ ऊ ओकनी बर जाल बनलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "950321a3ca814b9cfca93860183c6f93df7911542003aeac4928611d3820b884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/106\/36-36.1792012087266.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "सेवा करलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के ठाठ-बाट"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ओकनी के ठाठ-बाट"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "बनलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी बर"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "जाल"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:07.267076528Z",
+  "model": "glm-5.3"
+}

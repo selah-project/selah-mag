@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "पच्छिम दने",
+      "rationale": "ים के अरथ समुंदर हकइ, बाकि समुंदर के जगह से दिसा के नाम बन गेलइ — पच्छिम।"
+    },
+    {
+      "kind": "crux",
+      "subject": "לבוא חמת",
+      "rationale": "'खमात के दुआरी' (लेबो-हमात, जगह के नाम) बनाम 'खमात में आवत ले' — दू पढ़निहार मंजूर हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही के वाक्य बर ⟨हकइ⟩ जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "आउ पच्छिम दने के किनारा — बड़ समुंदर ⟨हकइ⟩, सीमा से लेके खमात ⟨के दुआरी⟩ के सामना ले; ई पच्छिम दने के किनारा ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8e51bdb071da7355d297c607cd8f79072710eba1f933177af0f5e567deaaca8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/47\/20-20.1792011931489.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "आउ किनारा"
+    },
+    {
+      "surface": "ים",
+      "gloss": "पच्छिम दने"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "सामना"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "आवे के"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "खमात"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ים",
+      "gloss": "पच्छिम दने"
+    }
+  ],
+  "timestamp": "2026-10-14T21:05:31.490384213Z",
+  "model": "glm-5.3"
+}

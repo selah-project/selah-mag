@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 42:5",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "साँस",
+      "rationale": "נשमה साँस हकइ; रूआख (רוח) से अलग सब्द हकइ, दूनो के अलग रखल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "बसल",
+      "rationale": "לעם עליה — ओकरा ऊपर के लोग; सुभाविक मगही बर 'बसल' जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "एहना कहलन एल यहवे — जे अकास के सिरजलन आउ ओकनी के फइलावलन, जे धरती के फइलावलन आउ ओकर उपज के, जे ओकरा ऊपर बसल लोग के साँस देवऽ हथिन आउ ओकरा भीतर टहलय वाला के रूआख।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7294204b0af95baeca3f0942f42341d00ef6d8221416a49022d49af7a8c48344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/42\/5-8.1791999427696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "האל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "सिरजै वाला"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ונוטיהם",
+      "gloss": "आउ ओकनी के फइलावै वाला"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "फइलावै वाला"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "וצאצאיה",
+      "gloss": "आउ ओकर उपज"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देवऽ हथिन"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "साँस"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "लोग के बर"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आउ रूआख"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "टहलय वाला के बर"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा भीतर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:37:07.697351769Z",
+  "model": "glm-5.3"
+}

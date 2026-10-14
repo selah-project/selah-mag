@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "संगीत-विराम चिन्हा, लिप्यन्तरित सेला रहलइ"
+    }
+  ],
+  "translation": "तूँ बुराई के परेम करऽ हकइ भलाई के बदला, झूठ के — त्सेदेक बोले के बदला। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/52\/5-8.1792005168878.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "तूँ परेम करऽ हकइ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "भलाई के बदला"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोले के बदला"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "त्सेदेक"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:48.879071083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के",
+      "rationale": "בכל העמים के बर मगही के सम्प्रदान चिन्हा 'के' जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "जाति सब के बीच ⟨את⟩ ओकर महिमा के बतावऽ, सब लोग के बीच ओकर अचम्मक काम सब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "457c151114f005f2d00a5d9b2bd1dec0b569555b7ea1cd676cffe67b7ee81a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/16\/21-24.1792010162468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "बतावऽ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जाति सब के बीच"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर महिमा"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ओकर महिमा"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "लोग के बीच"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "ओकर अचम्मक काम सब"
+    }
+  ],
+  "timestamp": "2026-10-14T20:36:02.469150493Z",
+  "model": "glm-5.3"
+}

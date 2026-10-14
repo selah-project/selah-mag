@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "इस्राएल",
+      "rationale": "हुकुम इस्राएल के बहुबचन में सीधे तोहनी के बोलल गेलइ हे।"
+    },
+    {
+      "kind": "elision",
+      "subject": "לא … אחרי",
+      "rationale": "हिब्रू बनावट 'नञ जाबइ … के पीछे' मगही में क्रम बदल के सीधे 'के पीछे नञ जाबइ' भऽ गेलइ।"
+    }
+  ],
+  "translation": "दोसर देवता सब के पीछे नञ जाबइ — ओ लोग के देवता सब के, जे तोहनी के चारो दने हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/6\/13-16.1791992070347.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "जाबइ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पीछे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवता सब"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "ओ लोग के देवता सब के"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "तोहनी के चारो दने"
+    }
+  ],
+  "timestamp": "2026-10-14T15:34:30.348311407Z",
+  "model": "glm-5.3"
+}

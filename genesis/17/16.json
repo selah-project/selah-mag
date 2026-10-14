@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 17:16",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "माय",
+      "rationale": "לגוים साफ़-साफ़ 'माय' नञ कहऽ हइ; मगही पाठक बर जोड़ल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתה",
+      "rationale": "एकरा आकार में -ה लगल हकइ — 'ओकरा' (सारा) दने इसारा; ⟨את⟩ परिवार के रूप।"
+    }
+  ],
+  "translation": "आउ हम ओकरा ⟨את⟩ असीस देबइ, आउ ओकरा से तोहनी के एक बेटा देबइ; हम ओकरा असीस देबइ आउ ऊ जाति सब के माय होतइ; जाति सब के राजा ओकरा से होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/17\/13-16.1791986698569.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברכתי",
+      "gloss": "आउ हम असीस देबइ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "हम देबइ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "וברכתיה",
+      "gloss": "आउ हम ओकरा असीस देबइ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "आउ ऊ होतइ"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "जाति सब के (माय)"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सब के लोग के"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:04:58.570929819Z",
+  "model": "glm-5.3"
+}

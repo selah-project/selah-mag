@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हम",
+      "rationale": "इब्रानी के पहिला बचन बिना सर्बनाम के हकइ; मगही के किरिया रूप ओकरा माँगऽ हइ"
+    }
+  ],
+  "translation": "हम नञ मरब, काहे कि जीब, आउ याह के काम सब के सुनाब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/118\/17-20.1792006036267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "मरब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "जीब"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "आउ सुनाब"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "के काम सब के"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:16.267985668Z",
+  "model": "glm-5.3"
+}

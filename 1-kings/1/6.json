@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצבו",
+      "rationale": "'दुख देना' बनाम 'डाँटना\/रोकना' — कतुवा हिन्दी\/अंगरेजी अनुवाद 'displeased\/rebuked' कहऽ हइ, मगही मूल के तस्वीर रखऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकर माय",
+      "rationale": "या (करता) मगही के किरिया-रूप के बदले सर्बनाम माँगऽ हइ; इब्रानी खाली या हकइ।"
+    }
+  ],
+  "translation": "आउ ओकर बाप ओकर जनमदिन से कहनो दिन ओकरा दुख नञ देलन, कहऽ कि काहे एहन कइलऽ ह? आउ ऊ रूप में बहुत सुन्दर हलइ, आउ ⟨אתו⟩ ओकर माय अबशालोम के बाद जनलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/1\/5-8.1791996640948.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "दुख देलन"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ओकर बाप"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ओकर जनमदिन से"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ कि"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "कइलऽ ह"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ ओहो"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "रूप"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (जेकरा जनलथिन)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनलथिन"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    }
+  ],
+  "timestamp": "2026-10-14T16:50:40.949451133Z",
+  "model": "glm-5.3"
+}

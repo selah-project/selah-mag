@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जेसे",
+      "rationale": "मगही के मीमांसा-जोड़; इब्रानी के व-संयोजन सीधा हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "योसेफ के आज्ञा भायन लगे सीधे निर्देसित हकइ।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ तोहनी के छोटका भाय हमरा लाबउ, जेसे तोहनी के बात साबित होतइ आउ तोहनी नञ मरबउ। आउ ओकनी एहन कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d104c970e2a5ef8838e0d24a1eede219368c1bf2f2cabca0d6f4673deafa5572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/42\/17-20.1791987699437.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के छोटका भाय"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "भाय"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "छोटका"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "लाबउ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "साबित होतइ"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "तोहनी के बात"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "मरबउ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:21:39.438875923Z",
+  "model": "glm-5.3"
+}

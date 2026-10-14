@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מצפון",
+      "rationale": "'छिपल-अन्हार दिसा' के जड़-अरथ मगही में खाली दिशा-नाम 'उत्तर' रहि गेल"
+    },
+    {
+      "kind": "mystery",
+      "subject": "यहवे के बात",
+      "rationale": "जे खोजल जा हइ ऊ नञ मिलतइ — पाठ जान-बूझ के बाट रउकऽ हइ"
+    }
+  ],
+  "translation": "आउ ऊ समुंदर से समुंदर ले भटकतइ, उत्तर से ले पूरुब ले दौड़तइ-घुमतइ, यहवे के बात ⟨את⟩ खोजे के बर — बाकि नञ पाबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "afb258fcd798d2b5067b7b193cc9e6248516f227d6ab1b7dbd2aca4a02cb560f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/8\/9-12.1792003621172.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "आउ भटकतइ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "समुंदर से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "उत्तर से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "पूरुब"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "दौड़तइ-घुमतइ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "खोजे के बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के बात"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "पाबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:47:01.174008698Z",
+  "model": "glm-5.3"
+}

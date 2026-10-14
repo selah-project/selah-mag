@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "दीप सब",
+      "rationale": "अאיम के बहुबचन चिन्हा मगही में 'सब' से पार भेलइ, इब्रानी के बहुबचन-अच्छर अपन अनुवाद-खम्भा में नञ रहतइ।"
+    }
+  ],
+  "translation": "दीप सब देखलन आउ डरलन; धरती के छोर सब काँपलन; ओ लोग पास अइलन आउ अइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1dc903695f7053f3f1e8b90fa48511e2e19d713141337230f5c7f827f7143126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/41\/5-8.1791999433599.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "איים",
+      "gloss": "दीप सब"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "आउ डरलन"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "छोर सब"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "काँपलन"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "पास अइलन"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "आउ अइलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:37:13.599708678Z",
+  "model": "glm-5.3"
+}

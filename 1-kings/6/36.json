@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "तीन गट्ठी … हेक गट्ठी",
+      "rationale": "आँगन के दीवार के गट्ठी के गिनती।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כרתת",
+      "rationale": "काटल गाट-काठ बर ई सब्द तनाख़ में खाली एही जगह आवऽ हइ।"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ भीतरी आँगन बनइलन — तीन गट्ठी गढ़ल पत्थल के आउ हेक गट्ठी काटल देवदार-गाछ के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b25c9ed274b22d760f116411b721134b066bfbefbe0b0a52ebc6cb48fd133eb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/6\/33-36.1791996852487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "आउ ऊ बनइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भीतरी आँगन"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "आँगन"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "भीतरी"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "गट्ठी"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "गढ़ल पत्थल के"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "आउ हेक गट्ठी"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "काटल"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "देवदार-गाछ के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:54:12.488269976Z",
+  "model": "glm-5.3"
+}

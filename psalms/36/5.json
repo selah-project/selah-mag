@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "און",
+      "rationale": "शब्द के जड़-अरथ 'शून्यता\/व्यर्थता' हकइ; 'बुराई' परम्परा के अरथ लेलक।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על ... על",
+      "rationale": "दू बार 'पर' — बिछइया पर गढ़ना आउ रस्ता पर ठाढ़ होना, एके संरचना।"
+    }
+  ],
+  "translation": "बुराई ओकर बिछइया पर गढ़ल जा रहलइ हे; ऊ ऐसन रस्ता पर ठाढ़ होवऽ हइ जे नीक नञ हकइ; बुराई से ओकरा घिन नञ आवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3974f2fe32fd51618047ae2396e57696fcce2851acb852e3956037b9ac203b8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/36\/5-8.1792004892806.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "गढ़ल जा रहलइ हे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ओकर बिछइया"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ठाढ़ होवऽ हइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "घिन आवऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:08:12.807152690Z",
+  "model": "glm-5.3"
+}

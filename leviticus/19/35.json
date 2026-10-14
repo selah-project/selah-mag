@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "नाप-तौल",
+      "rationale": "नाप, तौल आउ माप के नियम — गिनती-नाप के पद।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "हुक्म तोहनी (इस्राएल) से कहल गेलइ।"
+    }
+  ],
+  "translation": "नियाव में, लम्बाई के नाप में, तौल में आउ तरल नाप में अन्याय मत करऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c1e30096f888f3c498b18cc43848958914de0e4fa12873ffd47901f172fba920",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/19\/33-36.1791990151859.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "अन्याय"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "नियाव में"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "लम्बाई के नाप में"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "तौल में"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "आउ तरल नाप में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:02:31.860640239Z",
+  "model": "glm-5.3"
+}

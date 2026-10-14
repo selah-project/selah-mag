@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 31:9",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וסלעו",
+      "rationale": "'ओकर किल्ला-पहाड़' — KJV 'his strong hold' (अस्सीरिया के किल्ला) बनाम ASV\/JPS 'his rock shall pass away' (पहाड़ नञ, बल्कि पहाड़ जइसन ओकर आश्रा डरे से मिट जातइ)।"
+    },
+    {
+      "kind": "crux",
+      "subject": "אור",
+      "rationale": "אור इहाँ 'लौ\/जोत' — YLT 'light' बनाम KJV\/JPS 'fire'; मगही में आग लेलन गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨से⟩",
+      "rationale": "מנ׸ संग 'से' चिन्हा मगही के बनावट बर जोड़ल।"
+    }
+  ],
+  "translation": "आउ ओकर किल्ला-पहाड़ डर से पार हो जातइ, आउ ओकर सरदार निसान ⟨से⟩ तुट जातान — यहवे के बचन, जेकर आग त्सियोन में हइ आउ जेकर भट्ठी यरूशलयिम में हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cbabc08e2aad7e74e0ba3d32b7e9fecc2130778bd6527655d781a279576904f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/31\/9-9.1791999091142.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסלעו",
+      "gloss": "आउ ओकर किल्ला-पहाड़"
+    },
+    {
+      "surface": "ממגור",
+      "gloss": "डर से"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "पार हो जातइ"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "आउ तुट जातान"
+    },
+    {
+      "surface": "מנס",
+      "gloss": "निसान"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ओकर सरदार"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "के बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "אור",
+      "gloss": "आग"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "त्सियोन में"
+    },
+    {
+      "surface": "ותנור",
+      "gloss": "आउ भट्ठी"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    }
+  ],
+  "timestamp": "2026-10-14T17:31:31.142898389Z",
+  "model": "glm-5.3"
+}

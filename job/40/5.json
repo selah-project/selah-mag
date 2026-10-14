@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "जवाब नञ देब",
+      "rationale": "אענה के दू सम्भब अरथ — 'जवाब देब' या 'जवाब माँगब'; अयूब के मुँह बन्न कइल बात के बाद पहिला अरथ ठहरऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "अयूब के बोली",
+      "rationale": "अयूब यहवे के ओर अपन आप के बोल रहल हथिन — 'हम' अयूब हकइ।"
+    }
+  ],
+  "translation": "एक बेर हम कहलियन, बाकि जवाब नञ देब; दू बेर, बाकि आगू किछो नञ जोड़ब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "eecdcb60c3a117f6cbe252a60a944108a61a88970171344893a5e9fe9a62be08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/40\/5-8.1792007843126.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "एक बेर"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "हम कहलियन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "जवाब देब"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "दू बेर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "आगू जोड़ब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:57:23.126484033Z",
+  "model": "glm-5.3"
+}

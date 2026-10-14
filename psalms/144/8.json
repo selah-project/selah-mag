@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ימינם ימין",
+      "rationale": "'ओकनी के दहिन्ना हाथ — दहिन्ना हाथ' के दोहराव जस के तस रखल गेलइ"
+    }
+  ],
+  "translation": "जेकर मुँह झूठ बोलऽ हइ, आउ ओकनी के दहिन्ना हाथ धोखा के दहिन्ना हाथ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3823681dd95ba4e8da74844860cec153bb0ccfe1195e43e232858978f5b1f86d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/144\/5-8.1792006367814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलऽ हइ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "आउ ओकनी के दहिन्ना हाथ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "दहिन्ना हाथ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "धोखा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:32:47.816399562Z",
+  "model": "glm-5.3"
+}

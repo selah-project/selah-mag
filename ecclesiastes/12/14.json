@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "नעל׮ — लुकावल चीज",
+      "rationale": "छिपावल काम नियाव में आबतइ — छिपल बात के खोले के बात।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אם טוב ואם רע",
+      "rationale": "'चाहे भलाइ चाहे बुराइ' — इब्रानी के जोड़ी-ढाँचा मगही में जस के तस रखल गेलइ।"
+    }
+  ],
+  "translation": "काहे कि एलोहीम ⟨את⟩ हरेक काम के नियाव में ला हइ — हरेक लुकावल चीज पर, चाहे भलाइ होवे चाहे बुराइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f54211c6719b6fd9a8034a900125db913846010ef32518f189808d8dc58e8d62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/12\/13-14.1792008523548.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हरेक काम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ला हइ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "नियाव में"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "लुकावल चीज"
+    },
+    {
+      "surface": "אם",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाइ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराइ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:08:43.549775432Z",
+  "model": "glm-5.3"
+}

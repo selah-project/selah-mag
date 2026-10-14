@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 29:18",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चढ़ावे बर बलि",
+      "rationale": "עלה के सुभाविक अरथ 'ऊपर चढ़े वाला' — पूरा जरे बर बलि; चढ़े के तस्वीर रखल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationacle": null,
+      "rationale": "हוא (ऊ) बिना किरिया के ठाढ़ हकइ; मगही के 'ऊ हकइ' में किरिया जोड़ल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ניחוח \/ מנוחה",
+      "rationale": "ניחוח 'आराम देवए वाला' — मन के आराम के जड़ से; सुगन्ध के संग जड़ी बाँधल रहल।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ पूरा मेढ़ा बेदी पर जराब — धुआँ बनाके — चढ़ावे बर बलि; ऊ यहवे बर हकइ; सुगन्ध, आराम देवए वाला — आग के भेंट यहवे बर — ऊ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "726529bc76c5389857739c8463775b54626592956593f976d260c32766ab5dcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/29\/17-20.1791989077192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטרת",
+      "gloss": "जराब, धुआँ बनाके"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा मेढ़ा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "बेदी पर"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ावे बर बलि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "सुगन्ध"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "आराम देवए वाला"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "आग के भेंट"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:44:37.193672397Z",
+  "model": "glm-5.3"
+}

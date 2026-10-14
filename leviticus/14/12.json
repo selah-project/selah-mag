@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אשם",
+      "rationale": "शब्दशः 'दोस\/अपराध' — बलि के नाम बन गेलै; 'दोस-बलि' रूप लेल गेलै"
+    },
+    {
+      "kind": "elision",
+      "subject": "תנופה",
+      "rationale": "हिलावे के क्रिया के संग भेंट-संज्ञा दोहरावल गेलै — हिब्रू के नाम-क्रिया जोड़"
+    }
+  ],
+  "translation": "आउ पुरोहित एक मेमना ⟨את⟩ लेतइ आउ ⟨את⟩ दोस-बलि बर पेसकऽ हइ, आउ तेल के लोग ⟨את⟩, आउ ⟨את⟩ ओकनी के हिलावऽ हइ — हिलावे के भेंट — यहवे के आगे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0b6c410f78695d1a3ab5f62248d0fc3afdcda1cfe357b03686afc6f09f72a96a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/14\/9-12.1791989834719.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "आउ लेतइ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एक मेमना"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "आउ पेसकऽ हइ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "दोस-बलि बर"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "दोस-बलि बर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "तेल के लोग"
+    },
+    {
+      "surface": "לג",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेल के"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "आउ हिलावऽ हइ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "हिलावे के भेंट"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T14:57:14.720438541Z",
+  "model": "glm-5.3"
+}

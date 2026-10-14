@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 29:15",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכי אחי אתה",
+      "rationale": "'Is it because you are my brother?' — question (KJV\/ASV\/JPS) vs affirmative 'because you are' vs 'only\/surely my brother'; YLT keeps the question"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jacob",
+      "rationale": "direct address with questions and one imperative (הגידה 'tell me')"
+    }
+  ],
+  "translation": "आउ लाबान याकोव के कहलक, “काहे कि तूँ हमर भाय हऽ, की एकरे से तूँ हमरा बिन मजूरी के काम करब? हमरा बता — तोहर मजूरी का हतइ?”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3af8d2e5bb4da4e4e1f028ecab1f28f15e6d6fda40f061508526d6f7d8739ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/29\/13-16.1791987135317.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लाबान"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोव के"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "काहे कि की"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "हमर भाय"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ हऽ"
+    },
+    {
+      "surface": "ועבדתני",
+      "gloss": "तूँ हमरा काम करब"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "बिन मजूरी के"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "बता"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "משכרתך",
+      "gloss": "तोहर मजूरी"
+    }
+  ],
+  "timestamp": "2026-10-14T14:12:15.318355865Z",
+  "model": "glm-5.3"
+}

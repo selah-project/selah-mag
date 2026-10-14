@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एहिमे",
+      "rationale": "सूची सुरू करे बर मगही के जोड़ल संकेत-सब्द, इब्रानी में नञ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "वंसावली",
+      "rationale": "नाम के सूची — नाखोर के संतान के गिनती"
+    }
+  ],
+  "translation": "एहिमे ⟨את⟩ उत्स ⟨उकर⟩ पहिलका बेटा, आउ ⟨את⟩ बूज़ ⟨उकर⟩ भाय, आउ ⟨את⟩ कमुएल — ऊ अराम के बाप।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "048fff63d264ef0b7b8364e40f9f6f837931577d30188f5f5709fdf4f07d308d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/22\/21-24.1791986797003.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उत्स"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "उत्स"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ओकर पहिलका बेटा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "बूज़"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "बूज़"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाय"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "कमुएल"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "कमुएल"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "बाप"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    }
+  ],
+  "timestamp": "2026-10-14T14:06:37.003799934Z",
+  "model": "glm-5.3"
+}

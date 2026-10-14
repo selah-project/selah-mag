@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 23:6",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "लेके",
+      "rationale": "इब्रानी ‘एक एफोद ओकर हाथ में उतरलक’ कहऽ हइ — मगही में ‘लेके’ जोड़ल गेलन"
+    }
+  ],
+  "translation": "आउ जखन अहीमेलेख के बेटा अब्यातार दाविद के काँह केइला में भाग गेलन, तखन एक एफोद ओकर हाथ में ⟨लेके⟩ उतरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f765b91ec771635750517e5b559e3ada8496408aab9c43e04f844148f249c2e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/23\/5-8.1791995484182.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होलन"
+    },
+    {
+      "surface": "בברח",
+      "gloss": "भाग जाए के बखत"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "अब्यातार"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "अहीमेलेख के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के काँह"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "केइला"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "एक एफोद"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "उतरलन"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ओकर हाथ में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:31:24.183316785Z",
+  "model": "glm-5.3"
+}

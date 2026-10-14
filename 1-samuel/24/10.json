@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "तूँ",
+      "rationale": "दाविद शाऊल से प्रस्न रूप में सीधे सम्बोधन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בוקש רעתך",
+      "rationale": "शाब्दिक 'तोहर बुराई खोजऽ हइ' — 'नुकसान पहुँचावे के चाहऽ' के सामान्य अरथ टालल गेल"
+    }
+  ],
+  "translation": "आउ दाविद शाऊल के कहलन — काहे तूँ आदमी के बात ⟨את⟩ सुनऽ हइ, कहऽ — देख, दाविद तोहर बुराई खोजऽ हइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "66a3adc3d2b944a593391fd188ace5b5baf914af50ca625a5e13847a6176090f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/24\/9-12.1791995578933.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शाऊल के"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "सुनऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आदमी के बात"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "खोजऽ हइ"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "तोहर बुराई"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:58.934616348Z",
+  "model": "glm-5.3"
+}

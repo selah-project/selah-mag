@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 3:11",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשה — अपन परान के",
+      "rationale": "נפש परान\/गला\/जीवन-बल हकइ; आत्मा नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "צדקה נפשה",
+      "rationale": "'अपन परान के धरमी ठहरालक' — खाली तुलना में धरमी, पूरा अरथ में नञ; किछु अनुवादक 'दोसर से बेसी सही' कहऽ हथिन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משבה ישראל \/ מבגדה יהודה",
+      "rationale": "משובה (मुड़ल) आउ בוגדה (बेइमान) के ध्वनि-जोड़ी मूल में आमने-सामने ठाढ़ हइ।"
+    }
+  ],
+  "translation": "आउ यहवे हमरा से कहलन: मुड़ल इस्राएल बेइमान यहूदा के तुलना में अपन परान के निर्दोस साबित कइलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c63838554e6c371edb09746e1bf79fb38c20f614e28729cab04f49efc42f203e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/3\/9-12.1792000067984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "निर्दोस साबित कइलक"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "अपन परान के"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "मुड़ल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "מבגדה",
+      "gloss": "बेइमान"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:47:47.985912226Z",
+  "model": "glm-5.3"
+}

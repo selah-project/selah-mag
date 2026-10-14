@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 23:3",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפניכם",
+      "gloss-is-rationale": false,
+      "rationale": "साक्षात् ‘तोहनी के आगे-आगे \/ तोहनी के मुँह स’ — मुहावरा ‘के कारण’ में देखावल"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी (यिस्राएल)",
+      "rationale": "यिहोसुआ सीधा इस्राएल के जबाब दऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हाव",
+      "rationale": "मगही वर्तमान-पूर्व किरिया; इब्रानी सिद्ध काल हकइ"
+    }
+  ],
+  "translation": "आउ तोहनी देखल हाव कि तोहनी के यहवे एलोहीम ए ⟨את⟩ सब ⟨את⟩ ई जाति सभे के तोहनी के मुँह के कारण कइलन — काहे कि तोहनी के यहवे एलोहीम ऊहें हकइ जे तोहनी बर लड़ऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8c2f9da2dec990b34a449ef06ca44ce1e4510c6ac9bb0075ecde4b755cf3c926",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/23\/1-4.1791993888840.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "आउ तोहनी"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "देखल हाव"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब जे ऊ कइलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जाति सभे के"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "तोहनी के मुँह के कारण"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहें"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "लड़ऽ हइ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:04:48.841943571Z",
+  "model": "glm-5.3"
+}

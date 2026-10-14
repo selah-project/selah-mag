@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "अनुवाद में करता सर्बनाम जोड़ल गेलइ; इब्रानी के क्रिया-रूपे (יעזבנו\/יטשנו) करता बतावऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזב\/נטש",
+      "rationale": "दू नजदीक-अरथ वाला क्रिया के जोड़ी — छोड़ना आउ त्याग करना — एके छंद बान्हऽ हइ"
+    }
+  ],
+  "translation": "यहवे हमनी के एलोहीम हमरा संग रहतन, जइसन ऊ हमनी के बाप-बाबूजी के संग हलन; ऊ हमनी के मत छोड़े आउ मत त्यागे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d611074c2dce6dc2205ae58c87777883de1ccc264ba1c45a58d28c1951626fb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/8\/57-60.1791997040613.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "रहतन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमरा संग"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हलन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "हमनी के बाप-बाबूजी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "छोड़े"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "त्यागे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:57:20.613604292Z",
+  "model": "glm-5.3"
+}

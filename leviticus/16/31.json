@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת שבתון",
+      "rationale": "एके जड़ के दोहराव — 'पूरा आराम के शब्बात' — मगही में जोड़-शब्द से टिकाएल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी सब",
+      "rationale": "यिस्राएल से सीधा सम्बोधन।"
+    }
+  ],
+  "translation": "शब्बात, शब्बात-आराम, ई तोहनी सब बर हकइ, आउ तोहनी ⟨את⟩ अपन परान के सताबइ — सदा के बिधान हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "12e00a8d15d084c617f4e7bdaac6e3d7f70e67ca3461688c69cf413ea2c7f886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/16\/29-32.1791990057413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "शब्बात"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "शब्बात-आराम"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ई ... हकइ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी सब बर"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "सताबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन परान"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "अपन परान"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "बिधान"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:00:57.414312097Z",
+  "model": "glm-5.3"
+}

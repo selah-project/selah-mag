@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרשו\/חरשים",
+      "rationale": "एके जड़ के दो रूप — जोतलन\/हासक — इब्रानी के शब्द-खेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "למענותם",
+      "rationale": "'ओकनी के लाम' — 'आपन खेत के' सर्बनाम जोड़लक स्पस्टता बर"
+    }
+  ],
+  "translation": "हासक जोतऽ हलथिन हमरा पीठ पर, ओकनी आपन खेत के लाम बिलकुल लम्बा केलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/129\/1-4.1792006181190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "हमरा पीठ"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "जोतलन"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "हासक"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "लम्बा केलन"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "आपन खेत के लाम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:41.191064032Z",
+  "model": "glm-5.3"
+}

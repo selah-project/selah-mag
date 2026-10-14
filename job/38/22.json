@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 38:22",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "में",
+      "rationale": "Hebrew אל needs a locative word in Magahi"
+    },
+    {
+      "kind": "you",
+      "subject": "अय्यूब से",
+      "rationale": "direct rhetorical question to Job"
+    },
+    {
+      "kind": "secret",
+      "subject": "खजाना",
+      "rationale": "God's storehouses of snow and hail are withheld, reserved places no human enters"
+    }
+  ],
+  "translation": "का तूँ फिरनी के खजाना ⟨में⟩ पहुँचला हकिस, आउ ओला के खजाना देखला हकिस?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7f3bcddf8957dfa69d99b4fcd933a31116a69114508ac44a828cc81783f1928b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/38\/21-24.1792007838011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבאת",
+      "gloss": "का तूँ पहुँचला हकिस"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨में⟩ के"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "खजाना"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "फिरनी के"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "आउ खजाना"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ओला के"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "देखला हकिस"
+    }
+  ],
+  "timestamp": "2026-10-14T19:57:18.012309544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨होतइ⟩",
+      "rationale": "इब्रानी में किरिया नञ हकइ; मगही के बाक्य के बर चाही।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सेवा के काम",
+      "rationale": "מלאכת עבדה के ढाँचा — दू सब्द के जोड़, 'सेवा-किसिम के काम' के अरथ।"
+    }
+  ],
+  "translation": "पहिला दिन ⟨होतइ⟩ पवित्तर सभा; सेवा के काम कुछो नञ करब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a4755544a3aef69c9be778ec04a4bf1ec4fed2bb3903010a442cdcec4be6e760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/23\/33-36.1791990306793.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन पर"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुछो"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवा के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करब"
+    }
+  ],
+  "timestamp": "2026-10-14T15:05:06.794068362Z",
+  "model": "glm-5.3"
+}

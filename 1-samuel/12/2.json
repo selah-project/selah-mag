@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 12:2",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בני הנם אתכם",
+      "rationale": "עם-बिल्कुल (पासा-पासी) के ⟨את⟩ — चिन्हा जस के तस रखल, पर अरथ “संग” बेदखल।"
+    }
+  ],
+  "translation": "आउ अब देखऽ — राजा तोहनी के आगू चलऽ हइ, आउ हम बूढ़ा भेलहुँ आउ सेँदर होएलहुँ, आउ हमर बेटा, देखऽ, तोहनी संग ⟨את⟩ हथिन; आउ हम तोहनी के आगू अपने जवानी से एही दिन ले चललहुँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8cd5788a29a0ef5ff52376b89afa0ca78dab6d9eae9face0727e1bcd513a3320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/12\/1-4.1791995147822.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "चलऽ हइ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "तोहनी के आगू"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आउ हम"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "बूढ़ा भेलहुँ"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "सेँदर होएलहुँ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आउ हमर बेटा"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी संग"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आउ हम"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "चललहुँ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "तोहनी के आगू"
+    },
+    {
+      "surface": "מנערי",
+      "gloss": "अपने जवानी से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    }
+  ],
+  "timestamp": "2026-10-14T16:25:47.823750804Z",
+  "model": "glm-5.3"
+}

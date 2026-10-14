@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כס",
+      "rationale": "एही पद इहाँ अकेला मिलऽ हइ — 'शपथ' (कוס\/נשׂא כס से, 'शपथ उठइल') बनाम 'सिंहासन' (כסא के आधा लिखाई); 'सिंहासन' लेल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "आहि",
+      "rationale": "हिब्रू में क्रिया नञ हइ — 'हाथ सिंहासन पर' — मगही के बाक्य बर क्रिया कोस्ठक में जोड़ल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पीढ़ी दर पीढ़ी",
+      "rationale": "מדר דר — पीढ़ी-गिनती के थिर इब्रानी पदबंध, युद्ध के काल के नाप"
+    }
+  ],
+  "translation": "आउ कहलन — काहे कि याह के सिंहासन पर हाथ ⟨आहि⟩: यहवे बर अमालेक से युद्ध हतइ, पीढ़ी दर पीढ़ी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1954886aa6b4636e41f652343acf47fdb9f1cf61858f53f02a5207633bfe44c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/17\/13-16.1791988507309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כס",
+      "gloss": "सिंहासन"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "अमालेक से"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "पीढ़ी दर"
+    },
+    {
+      "surface": "דר",
+      "gloss": "पीढ़ी"
+    }
+  ],
+  "timestamp": "2026-10-14T14:35:07.310968244Z",
+  "model": "glm-5.3"
+}

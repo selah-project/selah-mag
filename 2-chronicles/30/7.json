@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 30:7",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "चिट्ठी के अगिला पंक्ति — सीधा संबोधन चालू हे।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מעלו ב",
+      "rationale": "'के संग बिसवासघात कइलन' — इब्रानी मעל के साक्षात्कार-चोरी के मुहावरा हकइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויתנם",
+      "rationale": "सादे भूत (यलत: 'दे देलन') के जगह मकसद बतावल भी संभव हे: 'एहे से दे देलन'।"
+    }
+  ],
+  "translation": "आउ तोहनी अपन बाप-दादा आउ अपन भाय सब जइसन मत बनऽ, जे ओकनी के बाप-दादा के एलोहीम यहवे के संग बिसवासघात कइलन, आउ ऊ ओकनी के उजाड़बा बर दे देलन — जइसन तोहनी देखऽ हिअऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b7a0d1bea36f5c727fe81ef7ed8097ab69814497332639b5fa4e991b95eb60de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/30\/5-8.1792011382132.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "बनऽ"
+    },
+    {
+      "surface": "כאבותיכם",
+      "gloss": "अपन बाप-दादा जइसन"
+    },
+    {
+      "surface": "וכאחיכם",
+      "gloss": "आउ अपन भाय सब जइसन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "बिसवासघात कइलन"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे के संग"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ओकनी के बाप-दादा के"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "आउ दे देलन ओकनी के"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "उजाड़बा बर"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "देखऽ हिअऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:56:22.133477183Z",
+  "model": "glm-5.3"
+}

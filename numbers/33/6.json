@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "אשר בקצה के संग जुड़ल क्रिया मगही में चाही; इब्रानी में क्रिया नञ हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "यात्रा-सूची",
+      "rationale": "पड़ाव-सूची के लगातार गिनती जारी हकइ।"
+    }
+  ],
+  "translation": "आउ सुक्कोत से चललन, आउ एताम में डेरा डेलन, जे उजाड़ के किनारे पर हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "49da895dff103b1bd0acc3b21d913a12c1653b4a085751e167812718f31cb6f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/33\/5-8.1791991825879.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चललन"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "सुक्कोत"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डेलन"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "एताम में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "के किनारे पर"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "उजाड़"
+    }
+  ],
+  "timestamp": "2026-10-14T15:30:25.880006232Z",
+  "model": "glm-5.3"
+}

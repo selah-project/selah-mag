@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 39:18",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨पाँख⟩",
+      "rationale": "תמריא खुद 'ऊ आपन के कोड़ा मारऽ हइ' कहऽ हइ; पाँख इब्रानी में नञ हइ, अनुवादक जोड़लक।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תמריא",
+      "rationale": "मूल तस्वीर 'कोड़ा मारना\/फड़फड़ाना' हकइ; 'उन्नऽ हइ' (lift up, KJV) चित्र चुपचाप बदलऽ हइ।"
+    }
+  ],
+  "translation": "जब समय आवऽ हइ, ऊ अकास में आपन ⟨पाँख⟩ फड़फड़ावऽ हइ, घोड़ा आउ ओकर सवारी पर हँसऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b0824b03a1eb400679b7a1c8600f2827655390c27762f80533db61b8cf597d83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/39\/17-20.1792007874716.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כעת",
+      "gloss": "जब समय"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "अकास में"
+    },
+    {
+      "surface": "תמריא",
+      "gloss": "फड़फड़ावऽ हइ"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "हँसऽ हइ"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "घोड़ा पर"
+    },
+    {
+      "surface": "ולרכבו",
+      "gloss": "आउ ओकर सवारी पर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:57:54.716882929Z",
+  "model": "glm-5.3"
+}

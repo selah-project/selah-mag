@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 5:31",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "सम्बोधन-चिन्हा 'हे' — हिब्रू में संज्ञा-संबोधन सीधे हकइ, मगही के सम्बोधन बनावे बर।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के सोझा",
+      "rationale": "देबोरा के गीत के अन्तिम आवाज — यहवे के सीधे सम्बोधन।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चालिस बरिस",
+      "rationale": "अराम के मोल-तोल — चालिस बरिस के गिनती।"
+    }
+  ],
+  "translation": "एहने सब तोहर बैरी, ⟨हे⟩ यहवे, नास होतन; बाकि जे ओकरा परेम करऽ हथिन, ऊ सब ओकर बल के साथे निकलैत सुरुज के साने होतन। आउ धरती चालिस बरिस अराम से रहलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "242a1fc8fabba68013ae9021278123d1c2d18440fb795377f523dbca3b996f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/5\/29-31.1791994086639.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "नास होतन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "तोहर बैरी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואהביו",
+      "gloss": "आउ ओकरा परेम करै वाला सब"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "निकलैत के साने"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "בגברתו",
+      "gloss": "ओकर बल के साथे"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "आउ अराम से रहलइ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालिस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    }
+  ],
+  "timestamp": "2026-10-14T16:08:06.640480463Z",
+  "model": "glm-5.3"
+}

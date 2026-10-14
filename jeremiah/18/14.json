@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 18:14",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "बरफ आउ लेबानोन के जोड़",
+      "rationale": "मूलपाठ में बरफ के संग लेबानोन जुड़ल हकइ या चट्टान से — अनुवादक में मतभेद; इब्रानी के ढाँचा जस के तस रखल गेलन"
+    },
+    {
+      "kind": "alternative",
+      "subject": "זרים",
+      "rationale": "'परदेसी' के जगह किछु पढ़निहार 'बहे वाला' (खार-जड़) ले हथिन"
+    }
+  ],
+  "translation": "की खेत के चट्टान के बरफ छोड़ देतइ, लेबानोन के? की परदेसी ठंडा टपकत पानी उखाड़ल जातइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "70f6398f96cfbcdf984f978fe9fece1f71e4c77e2ff7f588feecc75f3f60160a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/18\/13-16.1792000635443.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היעזב",
+      "gloss": "छोड़ देतइ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "बरफ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "लेबानोन"
+    },
+    {
+      "surface": "אם",
+      "gloss": "की"
+    },
+    {
+      "surface": "ינתשו",
+      "gloss": "उखाड़ल जातइ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ठंडा"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "टपकत"
+    }
+  ],
+  "timestamp": "2026-10-14T17:57:15.444691265Z",
+  "model": "glm-5.3"
+}

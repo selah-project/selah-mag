@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 1:6",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויעל \/ ויעל",
+      "rationale": "एके क्रिया दू बेर — चढ़लन आउ चढ़ाएलन — चढ़ाव के दोहराव, मगही में जड़ के एकरूपता बचलइ नञ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עלות",
+      "rationale": "'ऊपर जावे वाला' बलि — पूरा जरे वाला बलि के चिन्हा"
+    }
+  ],
+  "translation": "आउ सुलेमान ओहाँ यहवे के आगू, मिलन-तम्बू के तामर (ताँबा) के बेदी पर चढ़लन, आउ ओकरा पर हजार सम्पूर्ण-बलि चढ़ाएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cf03eae87b8b4aed02b64bdd04f0cebe2d6230099efec1d4e327d7cbf9dc7d5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/1\/5-8.1792010548854.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "आउ चढ़लन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलेमान"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहाँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "तामर (ताँबा) के"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन (नियत समय) के"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "आउ चढ़ाएलन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "सम्पूर्ण-बलि"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-10-14T20:42:28.854811308Z",
+  "model": "glm-5.3"
+}

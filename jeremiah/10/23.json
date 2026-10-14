@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 10:23",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकर अपन हाथ में",
+      "rationale": "इब्रानी खाली 'नञ आदमी के ओकर रस्ता' कहऽ हइ; साफ करे खातिर जोड़ल।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "यहवे के सीधे संबोधन — 'हम जानऽ हिअइ, यहवे' — प्रार्थना के सुरुआत।"
+    },
+    {
+      "kind": "crux",
+      "subject": "והכין",
+      "rationale": "'कदम तय करना' (direct\/establish) — किछु परम्परा एकरा 'ओकर कदम गढ़े' के रूप में लेऽ हइ।"
+    }
+  ],
+  "translation": "हम जानऽ हिअइ, यहवे, कि आदमी के रस्ता ओकर अपन हाथ में नञ हकइ; चलैत मनुस के अपन कदम तय करना नञ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "93273d961e0ece9667e215f449193c52e7cd634457e66cadb78ef9de3b0cf20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/10\/21-24.1792000324705.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "हम जानऽ हिअइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "रस्ता ओकर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मनुस के"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "चलैत"
+    },
+    {
+      "surface": "והכין",
+      "gloss": "कदम तय करना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर कदम"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "ओकर कदम"
+    }
+  ],
+  "timestamp": "2026-10-14T17:52:04.706138809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמתלהמים",
+      "rationale": "KJV 'घाव' बनाम ASV\/JPS 'स्वादिष्ट टिकिया' — जड़ 'भीतर जरे' से; हमनी टिकिया लेलिये काहे कि 'उतरऽ हइ' के संग ओइसने अरथ खुलऽ हइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מתלהמים",
+      "rationale": "ई रूप तनाख़ में केवल इहें पाओल जाऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जइसन",
+      "rationale": "हिब्रू के छोट क से तुलना दर्शावे बर जोड़ल।"
+    }
+  ],
+  "translation": "चुगलखोर के बात ⟨जइसन⟩ स्वादिष्ट टिकिया होला, आउ ऊ पेट के भीतरका कोठरी में उतर जाला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8edf0b5fc6bdf771a940ca5dc3b8345ef3b7ca2293e1821674b1f63a9620c58a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/26\/21-24.1792006982090.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "के बात"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "चुगलखोर"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "जइसन स्वादिष्ट टिकिया"
+    },
+    {
+      "surface": "והם",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "उतर जाला"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "के भीतरका कोठरी"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "पेट"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:02.091249189Z",
+  "model": "glm-5.3"
+}

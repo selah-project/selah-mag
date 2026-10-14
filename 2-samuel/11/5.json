@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "दूत",
+      "rationale": "वतשלच के साथ 'दूत' जोड़ल गेलइ — इब्रानी केवल 'भेजलन' कहऽ हइ"
+    }
+  ],
+  "translation": "आउ ओ जनाना गर्भवती भेलइ, आउ ऊ दूत पठौलन आउ दाविद के बतौलन, आउ कहलन — हम गर्भवती हई।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a2c575487de200cd410a976549c0616e89e0d2e633f2c25212900018da4f0dd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/11\/5-8.1791996137892.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "गर्भवती भेलइ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ओ जनाना"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "दूत पठौलन"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "बतौलन"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "गर्भवती"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    }
+  ],
+  "timestamp": "2026-10-14T16:42:17.892593503Z",
+  "model": "glm-5.3"
+}

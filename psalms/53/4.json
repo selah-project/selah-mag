@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נאלחו",
+      "rationale": "अलख के सुभाविक अरथ 'खराब-मिल गेल \/ दूध जइसन फट गेल'; 'बिगाड़ गेलन' सादा हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סג",
+      "rationale": "सुग — पीछे हटऽ हल — ओकरा जगह पसार 53:6 में लौटऽ हइ; मगही में एकर गूँज नञ आवऽ हइ।"
+    }
+  ],
+  "translation": "सब पीछे हट गेलन, संग-संग बिगाड़ गेलन; भला करै वाला कोनो नञ, कोनो एको नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "11f4fd5d5f402ea558e860ad4da049524b37a5cbce193374b0584f471e58d19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/53\/1-4.1792005159987.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "सब"
+    },
+    {
+      "surface": "סג",
+      "gloss": "पीछे हट गेलन"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "संग-संग"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "बिगाड़ गेलन"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करै वाला"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "कोनो…एको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एको"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:39.989025935Z",
+  "model": "glm-5.3"
+}

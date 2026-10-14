@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 42:21",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आउ",
+      "rationale": "वाव-consecutive बर मगही जोड़-सब्द"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "यहोहानान आउ ओकर संगी लोग के सीधा सम्बोधन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बोली",
+      "rationale": "בקול 'के बोली के आगे नञ' — मगही में 'सुनलअ' के संग क्रिया-बनावट"
+    }
+  ],
+  "translation": "आउ हम अइन दिन तोहनी के बता देलन, बाकि तोहनी यहवे अपन एलोहीम के बोली नञ सुनलअ, आउ ओकरा नञ जे बात बर ऊ हमरा तोहनी लग भेजलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "59922d913c0474355f59827384d0411eb2d3e8430a8f223cc8899b9933e4c7f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/42\/21-22.1792001292613.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואגד",
+      "gloss": "आउ हम बता देलन"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "היום",
+      "gloss": "अइन दिन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "सुनलअ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "के बोली"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "अपन एलोहीम"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "आउ ओकरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "भेजलन हमरा"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "तोहनी लग"
+    }
+  ],
+  "timestamp": "2026-10-14T18:08:12.614636168Z",
+  "model": "glm-5.3"
+}

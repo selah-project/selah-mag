@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישבעו",
+      "rationale": "שבע (कसम खाना) आउ שבע (सात) एक जड़ के नजदीक हकइ — बियरशेबा के कथा के सात-कसम के धागा।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "וישכימו בבקר",
+      "rationale": "साक्षात: बिहाने बोझ उठाइलन; चलन के अरथ जल्दी उठलन।"
+    }
+  ],
+  "translation": "आउ होकनी बिहाने जल्दी उठलन, आउ एक-दोसरा के कसम खइलन, आउ यित्सहाक होकनी के बिदा कएलन, आउ होकनी ओकरा संग ⟨את⟩ से सांति में गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "10d6e7aa241884c11c370f83d78c57be6045a987b2605a4919a51b7795e5f248",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/26\/29-32.1791987037470.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "आउ होकनी बिहाने जल्दी उठलन"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहाने"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "आउ कसम खइलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "दोसरा के"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "आउ यित्सहाक होकनी के बिदा कएलन"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सहाक"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "आउ होकनी गेलन"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ओकरा संग ⟨את⟩ से",
+      "marks": "यित्सहाक"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "सांति में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:10:37.471617265Z",
+  "model": "glm-5.3"
+}

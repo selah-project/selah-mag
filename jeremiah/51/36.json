@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 51:36",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ריב\/נקם roots doubled",
+      "rationale": "verb-noun pairs: I will plead your plea, avenge your avengement — repetition preserved"
+    },
+    {
+      "kind": "alternative",
+      "subject": "והבשתי",
+      "rationale": "root usually 'be ashamed'; here 'dry up' — water sense taken with the parallel sea\/spring"
+    }
+  ],
+  "translation": "एहे से यहवे एहने कहलन हे, हम तोहर मुकदमा लड़बइ आउ तोहर बदला लेबइ; आउ ओकर समुंदर ⟨את⟩ हम सूखा देबइ आउ ओकर झरना ⟨את⟩ हम बना देबइ सूखल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "44aa8c39415fcf5b5269d67b80b88d08ebd6bdf4910dc4c03635472d1de21a6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/51\/33-36.1792001644429.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "हे, हम"
+    },
+    {
+      "surface": "רב",
+      "gloss": "मुकदमा लड़बइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर मुकदमा"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "तोहर मुकदमा"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "आउ बदला लेबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर बदला"
+    },
+    {
+      "surface": "נקמתך",
+      "gloss": "तोहर बदला"
+    },
+    {
+      "surface": "והחרבתי",
+      "gloss": "आउ सूखा देबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर समुंदर"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ओकर समुंदर"
+    },
+    {
+      "surface": "והבשתי",
+      "gloss": "आउ बना देबइ सूखल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर झरना"
+    },
+    {
+      "surface": "מקורה",
+      "gloss": "ओकर झरना"
+    }
+  ],
+  "timestamp": "2026-10-14T18:14:04.431369316Z",
+  "model": "glm-5.3"
+}

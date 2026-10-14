@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 49:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ירעם",
+      "rationale": "רעה के मूल चित्र 'चराना' हकइ; मौत गोहारी कइ के चरावऽ हकइ — मगही 'ओकना चरातइ' मूल चित्र रखऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "מזבל לו",
+      "rationale": "'रहे के जगह ओकरा बर' — अरथ के दू रस्ता: शेओल ओकरा बर घर होतइ (YLT) बनाम ओकर घर नञ रहतइ (KJV\/ASV)।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זבול",
+      "rationale": "זבוײ 'ऊँच निवास' बर कुल मिलाके कुछेक जगह; इहाँ ओकर बिलकुल साँझा रूप मंजूर कएल गेलन।"
+    }
+  ],
+  "translation": "भेड़ के झुंड जइसन ओकना शेओल बर धराहइ गेलन हे; मौत ओकना चरातइ; आउ सीधा-सादा लोग भोर में ओकनी पर राज करतइ; ओकनी के सुरत शेओल में घसितइ — रहे के जगह ओकरा बर नञ रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/49\/13-16.1792005082521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצאן",
+      "gloss": "भेड़ के झुंड जइसन"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शेओल बर"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "धराहइ गेलन हे"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ओकना चरातइ"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "आउ राज करतइ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकनी पर"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "सीधा-सादा लोग"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "भोर में"
+    },
+    {
+      "surface": "וצירם",
+      "gloss": "आउ ओकनी के सुरत"
+    },
+    {
+      "surface": "לבלות",
+      "gloss": "घसितइ बर"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "מזבל",
+      "gloss": "रहे के जगह"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:22.523707015Z",
+  "model": "glm-5.3"
+}

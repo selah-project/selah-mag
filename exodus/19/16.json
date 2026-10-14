@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 19:16",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קלת",
+      "gloss-context": "קול = sounds\/voices; rendered 'गड़गड़ाहट' (thunder) per context, literal is 'आवाज सब'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שפר",
+      "rationale": "ram's-horn vs generic trumpet; rendered plain 'सिंग'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨भेल⟩",
+      "rationale": "Magahi verb of being supplied where Hebrew ויהי carries 'and it came to pass'"
+    }
+  ],
+  "translation": "आउ तीसरा दिन के भोर होवे ले एतना भेल कि गड़गड़ाहट आउ बिजुरी ⟨भेल⟩, आउ एगोठा घना बादल पहाड़ पर छलइ, आउ सिंग के बोली बहुते जोर से ⟨भेल⟩ — आउ डेरा में रहल सब लोग काँपि गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f44a019e4fb83735145b00c9c7f001bc980c12004bfd3329979dfc71dfd20e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/19\/13-16.1791988529842.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भेल"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "בהית",
+      "gloss": "होवे ले"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "भेल कि"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "गड़गड़ाहट"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "आउ बिजुरी"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "आउ बादल"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "घना"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "आउ बोली"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "सिंग के"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "जोर"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "काँपि गेलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "डेरा में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:35:29.843625780Z",
+  "model": "glm-5.3"
+}

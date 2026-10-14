@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हेसेद",
+      "rationale": "חסद के लिप्यन्तरन रखल गेलइ; कोनो एक मगही सब्द ओकरा पूरा नञ उठावऽ हइ।"
+    }
+  ],
+  "translation": "हमरा के हेसेद बाला एलोहीम आगे-आगे जा के भेंट करतइ; एलोहीम हमरा हमरा बैरी के देखाबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/59\/9-12.1792005213181.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "हमरा के हेसेद बाला"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "आगे-आगे जा के भेंट करतइ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "हमरा देखाबइ"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "हमरा बैरी के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:33.182396799Z",
+  "model": "glm-5.3"
+}

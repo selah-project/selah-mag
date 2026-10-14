@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "छौ बरिस",
+      "rationale": "बरिस के गिनती — शमिता चक्र के जंतर"
+    },
+    {
+      "kind": "substitution",
+      "subject": "काट-छाँटऽ हकइ",
+      "rationale": "תזמर अंगूर के बगइचा के छाँटे के खास काम हकइ; एक्के इब्रानी सब्द बर मगही के दू सब्द"
+    }
+  ],
+  "translation": "छौ बरिस तोहर खेत बुनऽ हकइ आउ छौ बरिस तोहर बगइचा काट-छाँटऽ हकइ आउ ⟨את⟩ ओकर फल के बटोरऽ हकइ —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3fb618c5046f94c280399f06b0f15e0e5ea5b84ce72e6807b3cf3e47d0c2db06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/25\/1-4.1791990372643.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "छौ बरिस"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "बुनऽ हकइ"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "तोहर खेत"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आउ छौ बरिस"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "काट-छाँटऽ हकइ"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "तोहर बगइचा"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "आउ बटोरऽ हकइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर फल"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ओकर फल"
+    }
+  ],
+  "timestamp": "2026-10-14T15:06:12.644837610Z",
+  "model": "glm-5.3"
+}

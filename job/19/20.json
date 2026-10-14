@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "दाँत के चमड़ी",
+      "rationale": "बिदेसी मुहावरा जस के तस रखल — दाँत पर चमड़ी नञ होवऽ हइ; अरथ: बड़ी जोखिम से अँगुरी-भर बचलियइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "דבקה",
+      "gloss": "स्त्री-रूप क्रिया: हड्डी नञ बल्कि 'हमर शरीर के सार' (עצם) चिपकल — दुइका ढंग मंजूर"
+    }
+  ],
+  "translation": "हमर हड्डी हमर चमड़ी आउ हमर मांस से चिपक गेलन, आउ हम दाँत के चमड़ी ला बचाके निकललियइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0a1dd68ddaf6b1b486b359db961adea4a7cac95176dd7be16d3b2a88faa964f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/19\/17-20.1792007456296.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "हमर चमड़ी से"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "आउ हमर मांस से"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "चिपक गेलन"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "हमर हड्डी"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "आउ हम बचाके निकललियइ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "…के चमड़ी ला"
+    },
+    {
+      "surface": "שני",
+      "gloss": "हमर दाँत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:50:56.297913510Z",
+  "model": "glm-5.3"
+}

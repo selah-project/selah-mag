@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आउ",
+      "rationale": "Magahi वाक्य-जोड़ बर वाव-consecutive के आगाम-सब्द जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ यहवे मोशे के बात के मोताबिक कइलन, आउ मेंढक घर से, आँगन से आउ खेत से मर गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b10277754b60013bb6c026cf58bc04071dc21f5f02ec830d6a6d2e96f71d4cd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/8\/9-12.1791988229432.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "बात के मोताबिक"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "मर गेलन"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "मेंढक"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "आँगन"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आउ से"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "खेत"
+    }
+  ],
+  "timestamp": "2026-10-14T14:30:29.432878416Z",
+  "model": "glm-5.3"
+}

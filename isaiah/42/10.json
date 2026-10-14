@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "गावऽ",
+      "rationale": "कथा पढ़निहार के गाने के हुक्म — सम्बोधन बचन।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "धरती के किनारा से",
+      "rationale": "परिधि से केंद्र दने स्तुति के नाप — समुंदर, ओकर भरल चीज, टापू, रहै वाला।"
+    }
+  ],
+  "translation": "यहवे बर नया गीत गावऽ, ओकर स्तुति धरती के किनारा से; जे समुंदर में उतरऽ हथिन आउ ओकर सब भरल चीज, टापू आउ ओकर रहै वाला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "283b51a72dc1ace145851846f3e4ecab8c5d3280644b94ba304ac661891ebf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/42\/9-12.1791999426357.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "गावऽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नया"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ओकर स्तुति"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "किनारा से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "उतरै वाला"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "आउ ओकर सब भरल चीज"
+    },
+    {
+      "surface": "איים",
+      "gloss": "टापू"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "आउ ओकर रहै वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T17:37:06.358488459Z",
+  "model": "glm-5.3"
+}

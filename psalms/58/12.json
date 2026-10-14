@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אך … אך",
+      "rationale": "'अवस्य … अवस्य' के दोहराव — पसलम के अन्तिम घोसना के ताल हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהים שפטים",
+      "rationale": "'एलोहीम नियाव करऽ हइ' — क्रिया बहुबचन रूप में हकइ; कोनो बहु-देवता अरथ नञ, एलोहीम एके परमेश्मा बर नाम हकइ।"
+    }
+  ],
+  "translation": "आउ मनुस कहतइ कि अवस्य त्सेदेक वाला बर फल हकइ, अवस्य एलोहीम हकइ जे धरती में नियाव करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/58\/9-12.1792005158094.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहतइ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "אך",
+      "gloss": "अवस्य"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "त्सेदेक वाला बर"
+    },
+    {
+      "surface": "אך",
+      "gloss": "अवस्य"
+    },
+    {
+      "surface": "יש",
+      "gloss": "हकइ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "नियाव करऽ हइ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:38.095722727Z",
+  "model": "glm-5.3"
+}

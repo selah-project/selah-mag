@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 17:2",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "पंक्ति बान्धलन",
+      "rationale": "ערך मिलחמה सेना-पंक्ति में तैयार होबा हकइ; शाब्दिक 'लड़ाई के कतार में रखलन'"
+    }
+  ],
+  "translation": "आउ शाऊल आउ यिस्राएल (इस्राएल) के आदमी जुटलन, आउ एला के घाटी में डेरा गाड़लन, आउ पलिश्ती सब के सामना बर लड़ाई के पंक्ति बान्धलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/17\/1-4.1791995329864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "आउ शाऊल"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आउ आदमी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "जुटलन"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा गाड़लन"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "घाटी में"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "एला"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "पंक्ति बान्धलन"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई के"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "के सामना बर"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती सब"
+    }
+  ],
+  "timestamp": "2026-10-14T16:28:49.865898271Z",
+  "model": "glm-5.3"
+}

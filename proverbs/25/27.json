@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया-वाक्य नञ हकइ; मगही के पूरा बाक्य बर जोड़ल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "कבדם",
+      "rationale": "‘ओकनी के महिमा’ बनाम ‘आपन महिमा’ — पुरान अनुवाद में दुनो पढ़ावा मिलऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבדם\/כבוד",
+      "rationale": "एके जड़ के दुहराव — ‘महिमा खोजबा महिमा नञ’ के उलटा-मोड़"
+    }
+  ],
+  "translation": "बेसी शहद खाना बढ़िया नञ ⟨हकइ⟩, आउ आपन महिमा के खोजबा महिमा नञ ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2591fc4176d9e4fb80ba66b9151bd1e46b9d17ed4724f704e8e94bd45e83f85d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/25\/25-28.1792006957510.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "शहद"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "बेसी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "आउ खोजबा"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "आपन महिमा के"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:42:37.511557665Z",
+  "model": "glm-5.3"
+}

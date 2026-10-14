@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מים \/ נחל \/ מקור",
+      "rationale": "पानी-नदी-झरना के तुकबंदी: बोली के गहिर पानी आउ बुद्धि के बहै वाला सोता — एके छबि दू कड़ी में बान्हल हइ"
+    }
+  ],
+  "translation": "आदमी के मुँह के बात गहिर पानी हकइ; बुद्धि के झरना उमड़ल नदी हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "50aaf93b6d741bd5d77493cd145cc6db9def980cd4127926ff6786f05573804a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/18\/1-4.1792006776077.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "गहिर"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह के"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "उमड़ल नदी"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "उमड़ै वाला"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:36.078816118Z",
+  "model": "glm-5.3"
+}

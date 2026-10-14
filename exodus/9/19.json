@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "העז",
+      "rationale": "'साँस रोक के हटाव' बनाम 'मजबूत कर' बनाम 'जल्दी भितर ले आ' — hiphil of עוז; KJV\/ASV 'gather\/hasten', YLT 'strengthen'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨अपन⟩",
+      "rationale": "हिब्रू में possessive pronoun नञ हइ, मगही वाक्य-बनावट बर जोड़ल गेलइ"
+    }
+  ],
+  "translation": "आउ अब जोह के ⟨अपन⟩ माल-जाल ⟨את⟩ आउ ⟨את⟩ सब कुछ जे तोहर खेत में हइ घर भितर कर ले; हर आदमी आउ पसु जे खेत में मिलतइ आउ घर भितर नञ जुटतइ, ओकरा ऊपर बरद गिरतइ आउ ऊ मरतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fa10d8b2c4d577dcada5a42380744f250c4b7dba3d345b71496d6615b1339f1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/9\/17-20.1791988274594.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "जोह के"
+    },
+    {
+      "surface": "העז",
+      "gloss": "घर भितर कर ले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "माल-जाल"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "तोहर माल-जाल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सब कुछ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "आउ पसु"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "मिलतइ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "जुटतइ"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "घर भितर"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "गिरतइ"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "बरद"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "आउ ऊ मरतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:31:14.595914894Z",
+  "model": "glm-5.3"
+}

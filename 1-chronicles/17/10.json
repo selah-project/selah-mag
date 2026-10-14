@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 17:10",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בית",
+      "rationale": "दाविद यहवे बर घर बनावे चाहऽ हलथिन; बाक्य पलट के यहवे दाविद बर „घर” (वंश) बनावे के बचन देथिन — एही शब्द-उलटी पूरा भबिसबाणी के जिब्हा हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "दाविद",
+      "rationale": "नातम दाविद के सीधा बचन — यहवे नातम के बोली।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "शोफ्तीम",
+      "rationale": "„नियायकर्ता” — शोफ्तीम न्याय करे वाला अगुआ लोग, राजा नञ।"
+    }
+  ],
+  "translation": "आउ ओही दिन के दिन से जहिना हम अपन लोग यिस्राएल पर नियायकर्ता आदेश देलन हलइ; आउ हम तोहर सब दुसमन के ⟨את⟩ दबा देतइ, आउ हम तोहा बतावऽ हइ: यहवे तोहर बर घर बनातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c38e68cae1293cc5cde40c214ebcc71b69d926a17a32f6dcbf8cf55fc953d0b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/17\/9-12.1792010323223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמימים",
+      "gloss": "आउ ओही दिन के दिन से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहिना"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "हम आदेश देलन"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "नियायकर्ता"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "अपन लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "והכנעתי",
+      "gloss": "आउ हम दबा देतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर सब दुसमन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "तोहर दुसमन"
+    },
+    {
+      "surface": "ואגד",
+      "gloss": "आउ हम बतावऽ हइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहा"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आउ घर"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "बनातइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर बर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T20:38:43.223908075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "कर्धनि",
+      "rationale": "קנאह से कइल; किछु अनुवादक ई के 'उत्साह' कहऽ हथिन — बाकि 'जलन\/कर्धनि' के मूल अरथ हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "כאיש מלחמות",
+      "rationale": "'लड़ाई के मरद' बनाम 'सेनापति' — इब्रानी बहुबचन 'लड़ाई सब' के आकार रखल गेलइ"
+    }
+  ],
+  "translation": "यहवे जइसन बलवान बाहर जाथिन, जइसन लड़ाई के मरद कर्धनि जगाथिन; ऊ गरजथिन, हाँ, चित्कार करथिन, अपन बैरी सब पर प्रबल होथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ce744ac742634978006c718f1e4652dc374f105280324f4ffb59f3d4c75d46e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/42\/13-16.1791999492183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "जइसन बलवान"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "बाहर जाथिन"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "जइसन मरद"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "लड़ाई के"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "जगाथिन"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "कर्धनि"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "गरजथिन"
+    },
+    {
+      "surface": "אף",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "चित्कार करथिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "अपन बैरी सब"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "प्रबल होथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:38:12.184081042Z",
+  "model": "glm-5.3"
+}

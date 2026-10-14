@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויתילדו",
+      "rationale": "'जन्म बतैलन' के बदले वंश-बिरादरी बतैलन — पेडिग्री देखावे के शाब्द।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לגלגלתם",
+      "rationale": "'खोपड़ी' के शाब्दिक चित्र — मूड़ी-मूड़ी (सिर-सिर गिनती)।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "जनगिनती",
+      "rationale": "बीस बरिस से ऊपर के सबके नाम के गिनती।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ पूरा सभा के दोसरा महीना के पहिला दिन एकट्ठा कइलन गेलै, आउ ऊ अपन परिवार के हिसाब से, अपन बाप के घर के हिसाब से, नाम के गिनती में अपन वंश-बिरादरी बतैलन, बीस बरिस से ऊपर, मूड़ी-मूड़ी के हिसाब से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5838d805e1730833b235a238c4f25a536657472b152ade4d3e2413dec3bff45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/1\/17-20.1791990539662.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा सभा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "एकट्ठा कइलन गेलै"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "पहिला दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीना के"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोसरा"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "वंश-बिरादरी बतैलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के हिसाब से"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "अपन परिवार"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घर के हिसाब से"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "अपन बाप के"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "गिनती में"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम के"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "बीस बरिस से"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "मूड़ी-मूड़ी के हिसाब से"
+    }
+  ],
+  "timestamp": "2026-10-14T15:08:59.663835683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "चरवाहा लोग के",
+      "rationale": "हवा-वाक्य सीधे चरवाहा लोग के सामने बोलल गेलइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הוי",
+      "rationale": "इब्रानी के शोक-हाय के रूप; मगही में „हाय!“ राखल गेलइ।"
+    }
+  ],
+  "translation": "हाय! चरवाहा लोग, जे नास करऽ हथिन आउ तितर-बितर करऽ हथिन ⟨את⟩ हमर चरागाह के भेड़ के — यहवे के बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d2e90f6b9d8caa26d81b7ea4847707972dc7915f35fa0d89d5558ff0da9083d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/23\/1-4.1792000720606.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "चरवाहा लोग"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "नास करऽ हथिन"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "आउ तितर-बितर करऽ हथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर चरागाह के भेड़ के"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़ के"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "हमर चरागाह"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "के बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:58:40.607391344Z",
+  "model": "glm-5.3"
+}

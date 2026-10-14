@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हल",
+      "rationale": "Copula-like stative 'हल' added twice; Hebrew participles מת משכב stand bare."
+    }
+  ],
+  "translation": "आउ एलिशा घर के भीतर अइलन, आउ देखौ — बुतरू मरलक हल, ओकरा खाटिया पर पड़ल हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e0985edefff9edffb4a7e8361c2fdbfead6d1a1306d7c74515005a1fca730e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/4\/29-32.1791997804942.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "एलिशा"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "घर के भीतर"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखौ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "बुतरू"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मरलक"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "पड़ल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "ओकरा खाटिया"
+    }
+  ],
+  "timestamp": "2026-10-14T17:10:04.944038337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 25:7",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נפקד",
+      "rationale": "'गुम भेलइ' (कुछो अनुपस्थित नञ) — YLT 'nothing was looked after by them' के उलटा अरथ बाटे; अधिकतर अनुवाद 'missing' लेथिन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכלמנום",
+      "gloss": "'बेइज्जत कइलियइ' — मूल अरथ 'बेइज्जत करब \/ ताना मारब', जानबूझ के अपमान।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "כל ימי",
+      "rationale": "'जितना दिन' — समय के गिनती, पूरा अवधि के दावा।"
+    }
+  ],
+  "translation": "आउ अब हम सुनलियइ जे तोहर भेड़ काटल जा रहलइ हे; अब तोहर गोरु-चरावै वाला जे तोहर हलन, हमनी संग रहलन; हमनी ओकनी के नञ बेइज्जत कइलियइ आउ ओकनी के कोनो चीज नञ गुम भेलइ, जितना दिन ऊ कारमेल में रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d7b421baf077d7196740e308789e062aa0cdf7e6c22eadf11f1c018405a2d73e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/25\/5-8.1791995604627.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "हम सुनलियइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "גזזים",
+      "gloss": "भेड़ काटल जा रहलइ हे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "गोरु-चरावै वाला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी संग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "הכלמנום",
+      "gloss": "बेइज्जत कइलियइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "נפקד",
+      "gloss": "गुम भेलइ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कोनो चीज"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जितना"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "היותם",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "कारमेल में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:33:24.628701424Z",
+  "model": "glm-5.3"
+}

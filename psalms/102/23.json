@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जब",
+      "rationale": "इब्रानी के ב… के अरथ ('के जुटे पर') मगही में 'जब' से खोलल गेलइ।"
+    }
+  ],
+  "translation": "जब जाति सब एक संग जुट जातइ, आउ राज सब, यहवे ⟨את⟩ के सेवा करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1a911999b1db84bce8f509248ec33996601627511da2e7176016adf9601d03eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/102\/21-24.1792005779265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "जब … जुट जातइ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एक संग"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "आउ राज सब"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "सेवा करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:59.266468901Z",
+  "model": "glm-5.3"
+}

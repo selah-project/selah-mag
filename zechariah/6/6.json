@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 6:6",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨में⟩",
+      "rationale": "Magahi needs the locative; Hebrew has the prefixed ב alone."
+    },
+    {
+      "kind": "crux",
+      "subject": "השחרים",
+      "rationale": "‘कारिया’ — שחר root ‘dusky\/black’; YLT reads ‘brown’।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אל אחריהם",
+      "rationale": "‘ओकनी के पाछे’ — शाब्दिक ‘to their hind part’; BSB एकरा ‘west’ ले के पढ़ऽ हइ।"
+    }
+  ],
+  "translation": "जेमा कारिया घोड़ी हथिन ऊ उत्तर देस के ओर जा रहलइ हथिन, आउ सफेद घोड़ी ओकनी के पाछे निकललन, आउ चित्त-भर्र घोड़ी दक्खिन देस के ओर निकललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7df23a8c6f971657e148a061574fec0d51f6c80c97112701353658eaabe3b0df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/6\/5-8.1792004184801.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जेमा"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨में⟩"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "घोड़ी"
+    },
+    {
+      "surface": "השחרים",
+      "gloss": "कारिया"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "जा रहलइ हथिन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देस"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "והלבנים",
+      "gloss": "आउ सफेद"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "निकललन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "והברדים",
+      "gloss": "आउ चित्त-भर्र"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "निकललन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देस"
+    },
+    {
+      "surface": "התימן",
+      "gloss": "दक्खिन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:56:24.802777606Z",
+  "model": "glm-5.3"
+}

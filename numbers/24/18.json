@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 24:18",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ओकर दुसमन के",
+      "rationale": "איביו के संबंध: 'ओकर दुसमन के कब्जा' (एदोम के दुसमन यिस्राएल के कब्जा में) बनाम 'जे ओकर दुसमन हलन' (सेइर आप ही दुसमन) — अनुवादक में मतभेद।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בहादुरी",
+      "rationale": "חיײ बल\/दौलत\/सेना — इहाँ 'बल-बहादुरी के काम' के छाप लेल गेलइ।"
+    }
+  ],
+  "translation": "आउ एदोम के कब्जा होतइ आउ सेइर के कब्जा होतइ, ओकर दुसमन के; आउ यिस्राएल बहादुरी करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9a1c4f95fbfc837165fe6a31afa07b6a96491cf87ec32aecbe53476753c9dcf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/24\/17-20.1791991498601.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "के कब्जा"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "के कब्जा"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ओकर दुसमन के"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "आउ यिस्राएल"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बहादुरी"
+    }
+  ],
+  "timestamp": "2026-10-14T15:24:58.601949912Z",
+  "model": "glm-5.3"
+}

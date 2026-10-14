@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यरूशलयिम आउ जियोन",
+      "rationale": "ओहि दिन के दुआरी-बात — डर मत, हाथ मत ढीला कर — सीधा सम्बोधन।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ירפו ידיך",
+      "rationale": "इब्रानी मुहावरा 'हाथ ढीला होव' = हिम्मत हारी; मगही में ओहे तस्वीर रखलन।"
+    }
+  ],
+  "translation": "ओहि दिन यरूशलयिम से कहल जातइ: डर मत; जियोन, तोहर हाथ मत ढीला होव।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e2b334d80f6cc2dbf70f7bc997366bfbe79139ff9a01477e342a3ff30d29af37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zephaniah\/3\/13-16.1792003969589.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ओहि दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहल जातइ"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "यरूशलयिम से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "डर"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "जियोन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ढीला होव"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "तोहर हाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:52:49.590749765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 19:17",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "לחגא",
+      "rationale": "साँच अरथ 'चक्कर' हकइ जे पड़निहार के आगू घुमावऽ हइ; 'डर' साँच गिरावऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "יועץ עליו",
+      "rationale": "'ओकर ऊपरे सलाह करतइ' — कतु मतलब 'ओकर बिरुद्ध' (KJV 'against') या 'ओकर बारे में' (Wycliffe)।"
+    },
+    {
+      "kind": "mystery",
+      "subject": "यहवे के सलाह",
+      "rationale": "यहवे के सलाह — ओही बात जे मिस्रयिम के भबिस तय करऽ हइ — पाठ में छिपल-सजाएल हइ।"
+    }
+  ],
+  "translation": "आउ यहूदा के धरती मिस्रयिम बर चक्कर-देवे-वाला डर बनतइ; जे कोनो ओकरा ⟨את⟩ ओकरा याद करतइ, ऊ डरतइ, यहवे त्सबाओत के सलाह के कारण जेकरा ऊ ओकर ऊपरे सलाह करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2cc5f62d213d0192f810c16963c35cfd6ca1a008943ae3bf1acb3d3fc601a40e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/19\/17-20.1791998956392.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "आउ … बनतइ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "मिस्रयिम बर"
+    },
+    {
+      "surface": "לחגא",
+      "gloss": "चक्कर-देवे-वाला डर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जे कोनो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יזכיר",
+      "gloss": "याद करतइ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (धरती के)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "יפחד",
+      "gloss": "डरतइ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "सलाह करतइ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपरे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:29:16.393238926Z",
+  "model": "glm-5.3"
+}

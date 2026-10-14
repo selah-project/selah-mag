@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ओखारलन",
+      "rationale": "תסיע खुद 'खूँटा ओखाड़ के चलऽ हइ' — बेल के बर ओखाड़ल \/ उखाड़ के लियावल के अरथ में लेल गेलअ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पूरा पद यहवे से दूसरे पुरुस के बोली में हइ।"
+    }
+  ],
+  "translation": "मिस्रयिम (मिस्र) से अँगूर के बेल ओखारलन हथिन; जाति सब धपेलन हथिन, आउ ओकरा रोपलन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/80\/9-12.1792005514445.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "अँगूर के बेल"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम (मिस्र) से"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "ओखारलन हथिन"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "धपेलन हथिन"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "आउ ओकरा रोपलन हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:34.446227534Z",
+  "model": "glm-5.3"
+}

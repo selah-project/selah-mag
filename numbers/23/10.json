@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "कर सकऽ हइ",
+      "rationale": "दोसर पंक्ति के क्रिया हिब्रू में दोहरावल नञ हकइ; मगही वाक्य बर जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש गला\/परान-बल हकइ, आत्मा नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבע",
+      "rationale": "'चउथाई' (गोत्र-फौज के चउथा भाग) बनाम 'अगल-बल' (जेपएस) — शाब्दिक रूप रखल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "धूरी गिनना",
+      "rationale": "गिनती\/नाप के बिम्ब — याकोव के बिया-बराबर बहुलता"
+    }
+  ],
+  "translation": "की माय याकोव के धूरी गिन सकऽ हइ, आउ यिस्राएल के ⟨את⟩ चउथाई के गिनती ⟨कर सकऽ हइ⟩? हमर परान सीध-साद लोग के मौत नियन मरतइ, आउ हमर अंत ओकर नियन होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/23\/9-12.1791991432333.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "की माय"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "गिन सकऽ हइ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूरी"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "आउ गिनती"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के चउथाई"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "चउथाई"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "मरतइ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "सीध-साद लोग"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "हमर अंत"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ओकर नियन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:23:52.334349330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ידרכון",
+      "rationale": "अरथ 'पैर रख के कमान मोड़ल' — क्रिया के मूल तस्वीर 'रौरी करना' हकइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "על יתר",
+      "rationale": "יֶתֶर के 'माला-डोर' या 'बचल ढिग' दू अरथ; 'डोर पर' लेलन"
+    }
+  ],
+  "translation": "काहे कि देखौ, बुरा लोग कमान रौरी के चढ़ावऽ हइ; ओकनी के तीर डोर पर तैयार करलन हे — अन्हार में सीधा-हिरदय लोग के मारे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/11\/1-4.1792004583442.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखौ"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "बुरा लोग"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "रौरी के चढ़ावऽ हइ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "कमान"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "तैयार करलन हे"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "ओकनी के तीर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "डोर"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "मारे बर"
+    },
+    {
+      "surface": "במו",
+      "gloss": "में"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "अन्हार"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:03.442837882Z",
+  "model": "glm-5.3"
+}

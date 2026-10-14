@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישאו את קולם",
+      "rationale": "शाब्दिक ‘अपन बोली उठइलन’ — जोर से रोवे के इब्रानी चाल; जस के तस रखलन।"
+    },
+    {
+      "kind": "elision",
+      "subject": "גבעת שאול",
+      "rationale": "संबंध-समास ‘शाउल के गिबाह’ — इब्रानी के जुड़ल रूप मगही में खुललन।"
+    }
+  ],
+  "translation": "आउ दूत शाउल के गिबाह में अइलन, आउ ओ बात लोग के कान में कहलन; आउ पूरा लोग ⟨את⟩ अपन बोली उठइलन आउ रोवलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4ddc603da9ad16e68a52645577d22fcb183c15c5ec506e1a16ecd59a9a3340c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/11\/1-4.1791995128238.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "गिबाह में"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल के"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ओ बात"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "कान में"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "उठइलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन बोली"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "अपन बोली"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "रोवलन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:25:28.239142806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चउरासी हजार छे सौ",
+      "rationale": "इब्रानी अंक-बनावट „चार आउ अस्सी हजार आउ छे सौ” के मगही में एके जोड़ल रूप, बाकि अंक जस के तस रहल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "गिनती",
+      "rationale": "यहूदा के सेना के जनगिनती — अनुवाद में 74,600"
+    }
+  ],
+  "translation": "आउ ओकर सेना, आउ ओकर गिनल लोग — चउरासी हजार छे सौ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "67ea8d55c4d98711b0aecf04bcec4e41108230a0ec21729a4f61efa4f99beeff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/2\/1-4.1791990549531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "आउ ओकर सेना"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "आउ ओकर गिनल लोग"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "आउ अस्सी"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आउ छे"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:09:09.532860369Z",
+  "model": "glm-5.3"
+}

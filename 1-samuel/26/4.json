@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל נכון",
+      "rationale": "याल्त 'Nachon' नाम मानऽ हइ; केजेवी 'of a certainty' (पक्का) — दू रस्ता"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "'नाखोन' पढ़ैत अरथ में 'अएलन' में मिलि गेल"
+    }
+  ],
+  "translation": "आउ दाविद जासूस भेजलक आउ जानलक कि शाऊल पक्का अएलन हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "82e5e74b0536333054c652363fbbf2e62bc35524e739e4c18f504836c58271c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/26\/1-4.1791995678285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलक"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "जासूस"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "जानलक"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अएलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "נכון",
+      "gloss": "पक्का"
+    }
+  ],
+  "timestamp": "2026-10-14T16:34:38.286632329Z",
+  "model": "glm-5.3"
+}

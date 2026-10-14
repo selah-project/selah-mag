@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "इब्रानी में क्रिया नञ हइ — पदलिपि सूची हकइ; मगही के वाक्य बर क्रिया जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मजकिर\/रिकार्डर",
+      "rationale": "מזכיר के शाब्दिक अरथ 'याद रखए वाला' — राज के याद-पुस्तक के अधिकारी"
+    }
+  ],
+  "translation": "आउ योआव, त्सरूयाह के बेटा, सेना के मुखिया ⟨हलन⟩, आउ यहोशाफात, अहिलूद के बेटा, याद-पुस्तक रखए वाला ⟨हलन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/18\/13-16.1792010283637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "आउ योआव"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "त्सरूयाह"
+    },
+    {
+      "surface": "על",
+      "gloss": "के मुखिया"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "सेना के"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "आउ यहोशाफात"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "अहिलूद"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "याद-पुस्तक रखए वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T20:38:03.638253072Z",
+  "model": "glm-5.3"
+}

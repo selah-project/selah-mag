@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 17:13",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המול ימול",
+      "rationale": "क्रिया के दू हिस्सा (infinitive absolute) — निश्चय बतावै के इब्रानी ढंग; 'जरूर' से परति देल गेल।"
+    },
+    {
+      "kind": "elision",
+      "subject": "לברית עולם",
+      "rationale": "'वाचा बर' संग 'सदा-सदा' — इब्रानी के बंधल रूप मगही में दू टुकड़ा में आवऽ हइ।"
+    }
+  ],
+  "translation": "जे तोहर घर में जनमल आउ जे तोहर चानी से कीनल गेल, ऊ जरूर खतना करावल जतइ; आउ हमर वाचा तोहनी के मांस में सदा-सदा के वाचा रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/17\/13-16.1791986698569.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המול",
+      "gloss": "जरूर"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "खतना करावल जतइ"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "जनमल"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "तोहर घर में"
+    },
+    {
+      "surface": "ומקנת",
+      "gloss": "आउ कीनल गेल"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "तोहर चानी से"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "आउ रहतइ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "हमर वाचा"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "तोहनी के मांस में"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "वाचा बर"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा-सदा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:04:58.570280870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "तोहर",
+      "rationale": "यहवे मोशे के बोली में यिस्राएल के सीधे सम्बोधन करऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "अउट होतइ",
+      "rationale": "ורם सीधा अरथ हइ 'ऊँच होना' — हिरदय के ऊँच होना; 'घमंड' टीका हकइ, रूप नञ।"
+    }
+  ],
+  "translation": "आउ तोहर हिरदय अउट होतइ, आउ तूँ ⟨את⟩ यहवे तोहर एलोहीम के भूल जाहऽ हउ — जे तोहरा दासन के घर से, मिस्रयिम (मिस्र) के धरती से निकाललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dd6fbb2a5ed679a18fc009a8b9828b2fe39d80c1b2a6f547c759f1104f1e8e45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/8\/13-16.1791992236104.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "अउट होतइ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "तोहर हिरदय"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "आउ भूल जाहऽ हउ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "जे निकाललन तोहरा"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर से"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "दासन के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:37:16.105149398Z",
+  "model": "glm-5.3"
+}

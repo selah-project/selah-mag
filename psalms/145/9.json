@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; बिसेसण-वाक्य क्रिया माँगऽ हइ"
+    }
+  ],
+  "translation": "यहवे सबके बर भला ⟨हकइ⟩, आउ ओकर करुणा ओकर सब काम पर ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/145\/9-12.1792006386305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सबके बर"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "आउ ओकर करुणा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ओकर काम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:06.305992796Z",
+  "model": "glm-5.3"
+}

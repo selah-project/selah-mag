@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 18:8",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हल",
+      "rationale": "हिब्रू के किरिया में पूर्वकालीन भाव बिना सहायक किरिया के हइ, मगही के 'हल' जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "संकट",
+      "rationale": "התלאה — कठिनाई आउ परेसानी के जड़, 'तकलीफ' के निकट"
+    }
+  ],
+  "translation": "आउ मोशे आपन ससुरा के ⟨את⟩ सब ऊ बतावलन जे यहवे फिरौन आउ मिस्रयिम के यिस्राएल के बर कइलन हल, ⟨את⟩ सब संकट जे ओकरा रस्ता में भेंटल हल, आउ यहवे ओकरा छुड़ा लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1462f57dd45120a449fc42a0966db636b332ad3bdc9f0379665d15af46473121",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/18\/5-8.1791988580023.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "बतावलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "आपन ससुरा के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन हल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "फिरौन के"
+    },
+    {
+      "surface": "ולמצרים",
+      "gloss": "आउ मिस्रयिम के"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बर"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "कारण से"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब संकट"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "התלאה",
+      "gloss": "संकट"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מצאתם",
+      "gloss": "भेंटल हल"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता में"
+    },
+    {
+      "surface": "ויצלם",
+      "gloss": "छुड़ा लेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T14:36:20.024106719Z",
+  "model": "glm-5.3"
+}

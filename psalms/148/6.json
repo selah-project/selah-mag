@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לעד לעולם",
+      "rationale": "दू समानार्थी काल-पद जोड़ल — सदा बर, हमेसा बर — इब्रानी के दोहराव साँझ रहलइ।"
+    }
+  ],
+  "translation": "आउ ऊ ओकनी के थिर कए देलन सदा बर, हमेसा बर; ऊ नियम देलन — जे लाँग कोनो नञ जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8a1ea9d970a6a07ae02a25b9c0c437023422c34240da20f834533a7ee05463f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/148\/5-8.1792006389774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "आउ ओकनी के थिर कए देलन"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "हमेसा बर"
+    },
+    {
+      "surface": "חק",
+      "gloss": "नियम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:09.775219282Z",
+  "model": "glm-5.3"
+}

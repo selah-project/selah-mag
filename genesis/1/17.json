@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "अकास के विस्तार",
+      "rationale": "רקיע के सुभाविक अरथ 'फैरावल चीज' हकइ; 'firmament' के परम्परा-सब्द नञ लेल गेलइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "रखलन",
+      "rationale": "ויתן 'देलन' के जड़ हकइ; बिस्तार में रखे के अरथ में 'रखलन' लेल गेलइ"
+    }
+  ],
+  "translation": "आउ एलोहीम ओकनी के अकास के विस्तार में रखलन, धरती पर इँजोर देवे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3d7ee85ee00b330d68da31cd2ba362a971dd108816d683c5d937666260e90550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/1\/17-20.1791986253726.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "आउ रखलन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "अकास के विस्तार में"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "इँजोर देवे बर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T13:57:33.727475633Z",
+  "model": "glm-5.3"
+}

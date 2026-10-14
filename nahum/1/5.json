@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 1:5",
+  "book": "nahum",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "तेबल",
+      "rationale": "תבל बसल-होए वाली धरती बर अलग सब्द हकइ; लिप्यन्तरन रखलन, कोस्ठक में अरथ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "उठऽ हकइ",
+      "rationale": "ותשא: 'उठ गेल' (asv\/jps 'upheaved') बनाम kjv 'जर गेल' — क्रिया 'उठाना' के मूल अरथ लेलन।"
+    }
+  ],
+  "translation": "पहाड़ ओकरा से काँपऽ हथिन, आउ टिला गलि गेलन हथिन; धरती ओकर मुँह के आगे उठऽ हकइ, आउ तेबल ⟨अर्थात् सारी बसल धरती⟩ आउ ओकर सब बसइका।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2753e24e13d4cfac7b4006ad05314ad699fbf76baec817c473e4a5a738a79613",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nahum\/1\/5-8.1792003857743.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "काँपऽ हथिन"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "आउ टिला"
+    },
+    {
+      "surface": "התמגגו",
+      "gloss": "गलि गेलन हथिन"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "उठऽ हकइ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ओकर मुँह के आगे"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "तेबल"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "बसइका"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-10-14T18:50:57.743869857Z",
+  "model": "glm-5.3"
+}

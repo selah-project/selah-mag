@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 18:7",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יורש עצר",
+      "rationale": "'कबजा रखए वाला, रोक-टोक वाला' — KJV 'magistrate', ASV 'possessing authority', BSB 'oppressive ruler'; इब्रानी दू शब्द के तस्बीर अस्पस्ट हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ओ⟩",
+      "rationale": "इब्रानी में निर्देशार्थक कण मगही में दोहराव माँगऽ हइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכלים",
+      "rationale": "बहुवचन कारक रूप एही पद के ई आकृति तनाख में एही जगह मिलऽ हइ"
+    }
+  ],
+  "translation": "आउ पाँच आदमी गेलन, आउ लाइस में अइलन, आउ देखलन ⟨את⟩ ⟨ओ⟩ लोग के जे ओकर भीतर अराम से बैठल — त्सिदोनी के चलन के मोताबिक, चुप आउ निश्चिन्त; आउ धरती में कोनो ओकरा कोनो बात पर लजावे वाला नञ हलइ, कबजा रखए वाला, रोक-टोक वाला; आउ ऊ लोग त्सिदोनी से दूर हलथिन, आउ कोनो आदमी के संग ओकनी के कोनो बात नञ हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "43a5ed515c5c8cc5d672344d451b1748d4d046f9315c6f3407be8db2ec0bf944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/18\/5-8.1791994570280.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "आउ गेलन"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आउ अइलन"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "लाइस"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "आउ देखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ओकर भीतर"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "बैठल"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "अराम से"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "चलन के मोताबिक"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "त्सिदोनी के"
+    },
+    {
+      "surface": "שקט",
+      "gloss": "चुप"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "आउ निश्चिन्त"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ हलइ"
+    },
+    {
+      "surface": "מכלים",
+      "gloss": "लजावे वाला"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कोनो बात"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "कबजा रखए वाला"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "रोक-टोक वाला"
+    },
+    {
+      "surface": "ורחקים",
+      "gloss": "आउ दूर"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ लोग"
+    },
+    {
+      "surface": "מצדנים",
+      "gloss": "त्सिदोनी से"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आउ बात"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:16:10.281176194Z",
+  "model": "glm-5.3"
+}

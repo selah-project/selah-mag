@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 2:3",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "सेब",
+      "rationale": "תפוח: 'apple' (KJV) बनाम 'apricot' \/ 'citron' \/ 'quince' — कौन फूल के गाछ, प्राचीन जमीन में अनिश्चित हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "तालु",
+      "rationale": "חך मूल रूप से तालु\/मुँह के भीतर हकइ — 'taste' के जगह अंग के रूप रखल गेलइ।"
+    }
+  ],
+  "translation": "जइसन जंगल के गाछ सब में सेब के गाछ, तइसने हमर परेमी मरद सब के बीच। ओकर छाँव में हम ओकरा चाहलिए आउ बैठलिए, आउ ओकर फल हमर तालु बर मीठा हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/2\/1-4.1792007965487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתפוח",
+      "gloss": "जइसन सेब के गाछ"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "गाछ सब में"
+    },
+    {
+      "surface": "היער",
+      "gloss": "जंगल के"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसने"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "हमर परेमी"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "मरद सब"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "ओकर छाँव में"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "चाहलिए"
+    },
+    {
+      "surface": "וישבתי",
+      "gloss": "आउ बैठलिए"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "आउ ओकर फल"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "मीठा"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "हमर तालु बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:59:25.488349251Z",
+  "model": "glm-5.3"
+}

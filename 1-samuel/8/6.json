@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 8:6",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רע בעיני",
+      "rationale": "'आँख में बुरा लागल' — इब्रानी के साक्षात मुहावरा जस के तस रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויתפלל",
+      "rationale": "पल्ल जड़ के अरथ 'नियाव करना\/बिचौली करना' हकइ; मगही में 'बिनती करलक' लेल गेल।"
+    }
+  ],
+  "translation": "आउ ई बात शमुएल के आँख में बुरा लागल, काहे कि ओकनी कहलन, हमनी के एक राजा देऽ जे हमनी के नियाव करतइ; आउ शमुएल यहवे के आगे बिनती करलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3b097d6fc6f7bce8a83282347fc835f5ea576eebfe01722e6ae2fcf0808829f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/8\/5-8.1791994931712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "आउ बुरा लागल"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ई बात"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँख में"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "देऽ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "एक राजा"
+    },
+    {
+      "surface": "לשפטנו",
+      "gloss": "हमनी के नियाव करे बर"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "आउ बिनती करलक"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:22:11.713524308Z",
+  "model": "glm-5.3"
+}

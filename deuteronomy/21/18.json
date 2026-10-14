@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סורר ומורה",
+      "rationale": "'बगावट करए वाला आउ खिस्साकार' बनाम 'जिद्दी आउ बागी' — दू अलग सब्द जेकरा अनुवादक मिला दे देथिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "तब भी",
+      "rationale": "हिब्रू के वाव-लो के निरन्तरता स्पस्ट करे बर जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "जब कोनो मरद के बेटा होवऽ हइ जे बगावट करए वाला आउ खिस्साकार होवऽ हइ, ऊ अपन बाप के बोली आउ अपन माय के बोली नञ सुनऽ हइ, आउ ओकरा ताड़ना देलन जातइ, तब भी ऊ ओकनी के नञ सुनऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0318a50caa5066129ab87ff107c42a9ae2653e60d5306603e729f4b5da763c3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/21\/17-20.1791992596972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होवऽ हइ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "कोनो मरद के"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "बगावट करए वाला"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "खिस्साकार"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ हइ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "अपन बाप के"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "आउ बोली"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "अपन माय के"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ताड़ना देलन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "तब भी नञ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनऽ हइ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओकनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:43:16.973547059Z",
+  "model": "glm-5.3"
+}

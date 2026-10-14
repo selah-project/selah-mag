@@ -1,0 +1,162 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 22:5",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמרו\/ולשמר",
+      "rationale": "verse opens and closes its chain on the same verb שמר — guard — framing the whole exhortation"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש is breath-throat-life-force, not an immaterial 'soul'"
+    },
+    {
+      "kind": "you",
+      "subject": "to the two-and-a-half tribes",
+      "rationale": "plural imperatives and 'your God \/ your heart \/ your soul' address the departing Transjordan warriors directly"
+    }
+  ],
+  "translation": "बाकि बड़े ध्यान से रखवारी करऽ ⟨את⟩ आज्ञा आउ ⟨את⟩ तोरा के पालन करे बर, जेकरा तोहनी के मोशे, यहवे के सेवक, हुक्म देलन — यहवे ⟨את⟩ ङ यहवे, तोहनी के एलोहीम, के परेम करे बर, आउ ओकर सब रस्ता पर चले बर, आउ ओकर आज्ञा के रखवारी करे बर, आउ ओकरा से चिपटे रहे बर, आउ तोहनी के पूरा हिरदय आउ तोहनी के पूरा परान से ओकर सेवा करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "461740c9fa07d3b232e62f07f58b3d79621eb8740bdd3dde3b36f64db44f5994",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/22\/5-8.1791993805447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "रखवारी करऽ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बड़े ध्यान से"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "पालन करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आज्ञा"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तोरा"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुक्म देलन"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी के"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "परेम करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "चले बर"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "रखवारी करे बर"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "ולדבקה",
+      "gloss": "चिपटे रहे बर"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "ולעבדו",
+      "gloss": "सेवा करे बर"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "परान"
+    }
+  ],
+  "timestamp": "2026-10-14T16:03:25.448787074Z",
+  "model": "glm-5.3"
+}

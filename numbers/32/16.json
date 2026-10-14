@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 32:16",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טף",
+      "rationale": "ש'तף' के परति-अरथ 'बुतरू सब' — शाब्दिक चित्र 'फुटतल भाग' (टट्टू-बच्चा जइसन दौड़ैवाला छोट लोग)।"
+    },
+    {
+      "kind": "elision",
+      "subject": "גדרת צאן",
+      "rationale": "'भेड़ के बाड़ा' — इब्रानी दू गिनल-पाछल सब्द, मगही में एक जोड़ बनावऽ हइ।"
+    }
+  ],
+  "translation": "आउ ओकनी ओकरा लगे अइलन आउ कहलन: हमनी इहाँ हमनी के माल-जाल बर भेड़ के बाड़ा बनइब, आउ हमनी के बुतरू सब बर नगर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a69f441f1e8ad518205c66b18daa656d75d7ec50ec4651fc88af0af37686d52f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/32\/13-16.1791991728031.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "लगे अइलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "גדרת",
+      "gloss": "बाड़ा"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़ के"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "बनइब"
+    },
+    {
+      "surface": "למקננו",
+      "gloss": "हमनी के माल-जाल बर"
+    },
+    {
+      "surface": "פה",
+      "gloss": "इहाँ"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "आउ नगर"
+    },
+    {
+      "surface": "לטפנו",
+      "gloss": "हमनी के बुतरू सब बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:28:48.032401367Z",
+  "model": "glm-5.3"
+}

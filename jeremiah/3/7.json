@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "लौटतइ",
+      "rationale": "תשוב — KJV 'तूँ लौट' (आदेस) बनाम ASV\/JPS 'ऊ लौटतइ' (भबिस-अनुमान); MT बिन्दु भबिस दने जा हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "करता-सर्बनाम हमरा चाही बाकि हिब्रू क्रिया-रूपे करता बतावऽ हइ"
+    }
+  ],
+  "translation": "आउ हम कहलिन: ⟨ऊ⟩ ई ⟨את⟩ सब कइले के बाद हमरा लौटतइ — बाकि ऊ लौटलन नञ; आउ ओकर बेइमान बहिन यहूदा ⟨एकरा⟩ देखलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a7484f205294b91bbfad7d9fa3d9829055fb744ac52f3c3dc7234f2151b425e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/3\/5-8.1792000142223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आउ हम कहलिन"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "कइले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "लौटतइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि … नञ"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "लौटलन"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "आउ देखलन"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "बेइमान"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "बहिन"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:49:02.225028471Z",
+  "model": "glm-5.3"
+}

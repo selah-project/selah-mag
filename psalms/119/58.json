@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "तोहर मुँह के बिनती करलियन",
+      "rationale": "साक्षात अरथ 'हम तोहर मुँह के चिकनावलियन'; अरथ हकइ अनुरोध करना, मुँह के सामने झुकावना"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रार्थना सीधे यहवे से बोलल जा रहलइ हे"
+    }
+  ],
+  "translation": "हम पूरा हिरदय लेके तोहर मुँह के बिनती करलियन; हमरा पर किरपा कर, जैसन तू कहलन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c62d2c6fea25db93bcfc62af3daededb83a0ba52cc58de8d8fc166957f86fe8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/57-60.1792006077272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "बिनती करलियन"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहर मुँह"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा … लेके"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "हमरा पर किरपा कर"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "जैसन तू कहलन हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:57.273495447Z",
+  "model": "glm-5.3"
+}

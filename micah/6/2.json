@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האתנים",
+      "rationale": "'Enduring ones \/ chieftains' — KJV 'strong foundations', JPS 'enduring rocks, the foundations of the earth'; rendered थिर (firm, lasting)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריב",
+      "rationale": "Third occurrence of the root in two verses; the courtroom word ripples through the summons."
+    },
+    {
+      "kind": "you",
+      "subject": "to the mountains",
+      "rationale": "The mountains and foundations are addressed as the jury of YHWH's case."
+    }
+  ],
+  "translation": "पहाड़ सब, सुनऽ ⟨את⟩ यहवे के मुकदमा, आउ तोहनी धरती के थिर नींव सब; काहे कि यहवे के अपन लोग के संग मुकदमा हइ, आउ यिस्राएल के संग ऊ बहस करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9ad175fe4fb4690c9f177b589b370d6657e43313f3c45eb16c487a3d02116303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/6\/1-4.1792003903534.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़ सब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के मुकदमा"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "मुकदमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "आउ तोहनी थिर"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "नींव सब"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "मुकदमा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के बर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "अपन लोग"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आउ के संग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "बहस करतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:51:43.535623848Z",
+  "model": "glm-5.3"
+}

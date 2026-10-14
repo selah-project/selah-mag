@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "देवता सब",
+      "rationale": "एदोम के אלהי बर जाति-सब्द 'देवता सब' — नाम नञ; अध्याय 25:14 के मूरत पूजा के जवाब"
+    },
+    {
+      "kind": "addition",
+      "subject": "जे ... जातइ",
+      "rationale": "למען तित्सम के उद्देस्य-धारा मगही में सापेक्ष बाक्य से पार करे के चाही"
+    }
+  ],
+  "translation": "आउ अमत्स्याहू सुनलन नञ, काहे कि ऊ एलोहीम के ओर से हलइ — जे ओकनी के हाथ में देल जातइ — काहे कि ओकनी ⟨את⟩ एदोम के देवता सब के खोजलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3c73157d85abfb30c9da5ae49ebe9d8351a0879b6fb9600d18723f267b9f09d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/25\/17-20.1792011215021.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ ... नञ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "अमत्स्याहू"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "एलोहीम के ओर से"
+    },
+    {
+      "surface": "היא",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "देल जातइ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "खोजलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एदोम के देवता सब"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "देवता सब"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:53:35.022921818Z",
+  "model": "glm-5.3"
+}

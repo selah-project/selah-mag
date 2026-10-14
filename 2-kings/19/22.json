@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 19:22",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "ई אֵत बिदेसी-प्रश्न के 'के संग' चिन्हा हकइ, DOM नञ; फिर भी ⟨את⟩ जस के तस देखावल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "सेन्नाखेरिब",
+      "rationale": "प्रश्न सीधे सेन्नाखेरिब के — 'तोहर', 'कइलहुँ' के जवाब माँगऽ हइ"
+    }
+  ],
+  "translation": "⟨את⟩ ककरा निंदा कइलहुँ, आउ ककरा गाली दिअलहुँ? ककरा बिरुद्ध तोहर बोली ऊँचा कइलहुँ, आउ ऊँचाई पर तोहर आँख उठावलहुँ — यिस्राएल के पवित्तर हुआ के बिरुद्ध!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae3696727f4a4e40ae520358119b4ab3d68c5252949e0ba2c15e4d643d892830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/19\/21-24.1791998350175.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ककरा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ककरा"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "निंदा कइलहुँ"
+    },
+    {
+      "surface": "וגדפת",
+      "gloss": "गाली दिअलहुँ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ … बिरुद्ध"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ककरा"
+    },
+    {
+      "surface": "הרימות",
+      "gloss": "ऊँचा कइलहुँ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "उठावलहुँ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ऊँचाई पर"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "तोहर आँख"
+    },
+    {
+      "surface": "על",
+      "gloss": "बिरुद्ध"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पवित्तर हुआ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:19:10.176377557Z",
+  "model": "glm-5.3"
+}

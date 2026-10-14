@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के बाक्य बर जोड़ल गेल"
+    },
+    {
+      "kind": "invitation",
+      "subject": "हमनी के एलोहीम यहवे के ऊँच करऽ",
+      "rationale": "बहु-आदेशी आह्वान — पढ़निहार आउ परजा के बुलावल गेल हे"
+    },
+    {
+      "kind": "you",
+      "subject": "परजा",
+      "rationale": "बहुबचन आदेश रूप (רוממו) सीधे समूह के सम्बोधित करऽ हइ"
+    }
+  ],
+  "translation": "हमनी के एलोहीम यहवे के ऊँच करऽ — आउ ओकर पवित्तर पहाड़ पर दण्डवत करऽ — काहे कि पवित्तर हथिन हमनी के एलोहीम यहवे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8dda68d17645219ad927aa35bcd62768128258e2e667d0d4787e74b6284eaca3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/99\/9-9.1792005765359.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "ऊँच करऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "आउ दण्डवत करऽ"
+    },
+    {
+      "surface": "להר",
+      "gloss": "पहाड़ पर"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ओकर पवित्तर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:45.360514117Z",
+  "model": "glm-5.3"
+}

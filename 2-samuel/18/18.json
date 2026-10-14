@@ -1,0 +1,161 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 18:18",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מצבת",
+      "rationale": "स्मारक-पत्थल — 'मीनार-पत्थल' लिया गेलै, खड़ा-पत्थल के तस्वीर रखऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יד אבשלם",
+      "rationale": "नाम के जोड़ — 'अवशालोम के हाथ' — स्मारक अपन बनइल वाला के हाथ के काम कहावऽ हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "בעבור",
+      "rationale": "'एकर कारन' से पार — इब्रानी के बनावट बिलग नञ होवऽ हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד היום הזה",
+      "rationale": "'ई दिन तक' — समय के गिनती वाला चिन्हा, नाम के स्थायी याद के दावा।"
+    }
+  ],
+  "translation": "आउ अवशालोम लेलन आउ अपन जिअते-भर ⟨את⟩ मीनार-पत्थल खड़ा करलकै जे राजा के घाटी में हकइ, काहे कि कहलन — हमरा कोनो बेटा नञ हकइ जे हमर नाम याद रखतइ; आउ ओ मीनार के ओकर नाम पर बोलायलकै, आउ ओकरा ई दिन तक “अवशालोम के हाथ” कहल जा हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "55ad37954593afbc7201f5b1e3381cbbb79c1c57497192c855de34734fe1f49e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/18\/18-19.1792011777724.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשלם",
+      "gloss": "आउ अवशालोम"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "खड़ा करलकै"
+    },
+    {
+      "surface": "לו",
+      "gloss": "अपन बर"
+    },
+    {
+      "surface": "בחיו",
+      "gloss": "जिअते-भर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मीनार-पत्थल"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "मीनार-पत्थल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "घाटी में"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ हकइ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "एकर कारन"
+    },
+    {
+      "surface": "הזכיר",
+      "gloss": "याद करे बर"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "हमर नाम"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "बोलायलकै"
+    },
+    {
+      "surface": "למצבת",
+      "gloss": "मीनार के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "कहल गेलै"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "अवशालोम"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ई दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T21:02:57.725593676Z",
+  "model": "glm-5.3"
+}

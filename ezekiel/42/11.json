@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 42:11",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; कोपुला जोड़ल गेलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "लमाई आउ चौड़ाई",
+      "rationale": "कोठरी के नाप के तुला — जइसन लमाई, तइसने चौड़ाई"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मोदाइहम",
+      "rationale": "साहित्यिक अंग्रेजी 'fashions' के जगह साक्षात 'निकले के रस्ता' ( exits) लेल गेलइ"
+    }
+  ],
+  "translation": "आउ ओकनी के सामने रस्ता ⟨हलइ⟩, उत्तर दने के कोठरी सब के दिठाइ जइसन — जइसन ओकर लमाई, तइसने ओकर चौड़ाई; आउ ओकनी के सब निकले के रस्ता, ओकनी के बनावट जइसने आउ ओकनी के दुआरी जइसने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5777e8551d22f600cc5b2629594a64f84dbbd8935ee4c52bcf01828cf0b1d571",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/42\/9-12.1792002892547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודרך",
+      "gloss": "आउ रस्ता"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ओकनी के सामने"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "दिठाइ जइसन"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "कोठरी सब के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "उत्तर दने"
+    },
+    {
+      "surface": "כארכן",
+      "gloss": "लमाई जइसन"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसने"
+    },
+    {
+      "surface": "רחבן",
+      "gloss": "चौड़ाई"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "מוצאיהן",
+      "gloss": "ओकनी के निकले के रस्ता"
+    },
+    {
+      "surface": "וכמשפטיהן",
+      "gloss": "आउ ओकनी के बनावट जइसने"
+    },
+    {
+      "surface": "וכפתחיהן",
+      "gloss": "आउ ओकनी के दुआरी जइसने"
+    }
+  ],
+  "timestamp": "2026-10-14T18:34:52.548438444Z",
+  "model": "glm-5.3"
+}

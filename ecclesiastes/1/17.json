@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רעיון רוח",
+      "rationale": "'वेग-विक्षोभ' (KJV यत्न) बनाम 'पवन का चारण\/पीछा' (ASV\/JPS) — शाब्दिक चित्र 'वायु का चराना' का रूपक खो गया है; मैंने शाब्दिक चित्र को सुरक्षित रखा है"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨आउ⟩",
+      "rationale": "שגם का 'भी\/संग' बल, जिसे दो 'आउ' से उलझाया गा"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדעת…ודעת",
+      "rationale": "'जानने' की पुनरावृत्ति बुद्धि और मूर्खता दोनों के तलाश के समानांतर आगमन का अंकन करती है"
+    }
+  ],
+  "translation": "आउ हम अपन हिरदय के देलन बुद्धि जाने बर, आउ पागलपन आउ मूर्खता जाने बर; हम जानलन कि ई ⟨आउ⟩ रूआख के ब्याकुलता हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f8e4ddfd134e2f66f9d8524b8f85e73840c15349004a8d0c64adcb76e939e5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/1\/17-18.1792008306301.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमर हिरदय"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "जाने बर"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "आउ जाने बर"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "पागलपन"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "आउ मूर्खता"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "हम जानलन"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "कि आउ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "ब्याकुलता"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:06.301753077Z",
+  "model": "glm-5.3"
+}

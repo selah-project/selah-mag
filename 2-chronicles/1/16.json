@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 1:16",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקוא",
+      "rationale": "'कूअ' (किलिकिया के देस कूआ) बनाम 'सन के सूत' (KJV — बाद के मासोरेटिक अच्छर-बाँट) बनाम 'झुंड में' (ASV) — इहाँ जगह के नाम धरल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ומקוא … מקוא",
+      "rationale": "एके सब्द दू बेर — स्रोत आउ बिक्री-दुआरी दूनो कूअ हइ, इब्रानी के बुनावट"
+    }
+  ],
+  "translation": "आउ शलोमो के घोड़ा के निकास मिस्रयिम (मिस्र) से आउ कूअ से हलइ; राजा के सौदागर कूअ से दाम दइके लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b522cde81c7d4a1fae2e0916c314ca6b3c0a090920620ba3779150bcae1ea46d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/1\/13-16.1792010554300.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "निकास"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "घोड़ा के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "शलोमो के"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम से"
+    },
+    {
+      "surface": "ומקוא",
+      "gloss": "आउ कूअ से"
+    },
+    {
+      "surface": "סחרי",
+      "gloss": "सौदागर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "מקוא",
+      "gloss": "कूअ से"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "दाम दइके"
+    }
+  ],
+  "timestamp": "2026-10-14T20:42:34.301903830Z",
+  "model": "glm-5.3"
+}

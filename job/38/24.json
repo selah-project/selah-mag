@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 38:24",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפץ קדים",
+      "rationale": "'scatters the east wind' (KJV) vs 'east wind scattered' (ASV\/JPS) — subject ambiguity: light or the wind"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אור",
+      "rationale": "here likely lightning (verse 25 context), not daylight"
+    },
+    {
+      "kind": "invitation",
+      "subject": "प्रस्न",
+      "rationale": "where-question draws the hearer into God's interrogation of Job"
+    }
+  ],
+  "translation": "कतए ई रस्ता हकइ जेकरासे इँजोर बाँटल जातइ, जे पुब बतास के धरती पर बिखेरऽ हकइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7f3bcddf8957dfa69d99b4fcd933a31116a69114508ac44a828cc81783f1928b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/38\/21-24.1792007838011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "कतए"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "बाँटल जातइ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "इँजोर"
+    },
+    {
+      "surface": "יפץ",
+      "gloss": "बिखेरऽ हकइ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पुब बतास के"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T19:57:18.012590119Z",
+  "model": "glm-5.3"
+}

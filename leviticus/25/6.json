@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तोहनी",
+      "rationale": "इब्रानी एकबचन 'तूँ' में बात करऽ हइ बाकि एहियो ल-बहुबचन (לכם) आवऽ हइ; ⟨तोहनी⟩ जोड़ल गेलन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבת הארץ",
+      "rationale": "'धरती के शब्बात' = धरती के अराम के बरिस के उपज; ई उपज हकइ, दिन नञ।"
+    }
+  ],
+  "translation": "आउ धरती के शब्बात ⟨तोहनी⟩ बर खाय के चीज होतइ — तोहरा बर, तोहरा नौकर बर आउ तोहरा बाँड़ी बर, तोहरा मजदूर बर आउ तोहरा संग रहे वाला परदेसी बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a41bade2eac609d4621619da794c6d8244eac84883d27511db8ea86e6074f80d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/25\/5-8.1791990345771.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "आउ … होतइ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "शब्बात"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "खाय के चीज"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा बर"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "तोहरा नौकर बर"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "तोहरा बाँड़ी बर"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "तोहरा मजदूर बर"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "तोहरा परदेसी बर"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "रहे वाला"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहरा संग"
+    }
+  ],
+  "timestamp": "2026-10-14T15:05:45.772540934Z",
+  "model": "glm-5.3"
+}

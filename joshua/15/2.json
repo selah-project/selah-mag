@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 15:2",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "जीभ",
+      "rationale": "लाशोन समुंदर के बहत फाट के कहल गेलइ हे — जीभ के आकार वाला खाड़ी।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलक",
+      "rationale": "वाव-हया क्रिया मगही के बाक्य में 'हलक' रूप में जोड़ल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सीमा",
+      "rationale": "सीमा के नाप-बिन्दु गिनावल जा रहलइ हे।"
+    }
+  ],
+  "translation": "अउ ओकनी के दक्खिन के सीमा लवन-समुंदर के छोर से ⟨हलक⟩ — ओ जीभ से जे दक्खिन के दने मुँह करऽ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a2987bc052a89e383e03b6d6af677d83b94d83b83b4dede1430cdd13f7fed002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/15\/1-4.1791993589331.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "हलक ⟨हलक⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "दक्खिन"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "छोर"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "लवन-"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הלשן",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "मुँह करऽ हे"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "दक्खिन के दने"
+    }
+  ],
+  "timestamp": "2026-10-14T15:59:49.332617101Z",
+  "model": "glm-5.3"
+}

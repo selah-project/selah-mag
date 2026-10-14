@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 9:11",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת",
+      "rationale": "साक्षात् 'काटल जाना' — नास होना; मगही में 'काटल' के साक्षात् चित्र रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מבול",
+      "rationale": "बाढ़ — ई विशेष बाढ़; 'जल-प्रलय' संस्कृत-भारी होतइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוד…עוד",
+      "rationale": "'अब के बाद' दू बेर दोहरावल गेल — प्रतिज्ञा के दुहरा जोर।"
+    }
+  ],
+  "translation": "आउ हम ⟨את⟩ हमर वाचा ⟨את⟩ तोहनी संग खड़ा करबइ, आउ अब के बाद कोनो मांस बाढ़ के पानी से आउ काटल नञ जइतइ, आउ अब के बाद बाढ़ धरती के बरबाद करे बर नञ होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fb44e1092d1fb740f0e2f3310daf8425a79afdba70c5fbdf1ff70fd622b8241d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/9\/9-12.1791986457257.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "आउ हम खड़ा करबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर वाचा"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "हमर वाचा"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी संग"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "काटल जइतइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब के बाद"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "पानी से"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "बाढ़ के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब के बाद"
+    },
+    {
+      "surface": "מבול",
+      "gloss": "बाढ़"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "बरबाद करे बर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:00:57.259060488Z",
+  "model": "glm-5.3"
+}

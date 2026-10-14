@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 17:27",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ומברך",
+      "rationale": "Passive 'it is\/shall be blessed' (KJV\/ASV) vs JPS's jussive 'so let it be blessed'; Magahi आसीस-भरल रहतइ leans durative."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברכת \/ ומברך",
+      "rationale": "Root ברך repeated: 'You bless — [it] blessed'; the echo kept with the one आसीस stem."
+    }
+  ],
+  "translation": "आउ अबहिं तूँ राजी होलन आसीस देवे खातिर ⟨את⟩ हमर नोकर के घर के, जे ऊ सदा तोहरे सामने रहतइ; काहे कि तूँ, यहवे, आसीस देलन, आउ ऊ सदा आसीस-भरल रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "772674a1de46f0e0db15611cbdbb1ffce08e712ce12218ad5f6fb6f927de9ca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/17\/25-27.1792010331330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अबहिं"
+    },
+    {
+      "surface": "הואלת",
+      "gloss": "राजी होलन"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "आसीस देवे खातिर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर नोकर के घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "हमर नोकर के"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "रहतइ जे"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहरे सामने"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "आसीस देलन"
+    },
+    {
+      "surface": "ומברך",
+      "gloss": "आसीस-भरल"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:38:51.331573809Z",
+  "model": "glm-5.3"
+}

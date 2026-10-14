@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 32:4",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הנתן ינתן",
+      "rationale": "Infinitive absolute: 'giving he shall be given' — certainty by doubled verb; Magahi captures it with जरूर but the doubling itself is lost."
+    },
+    {
+      "kind": "idiom",
+      "subject": "mouth to mouth, eye to eye",
+      "rationale": "Hebrew says 'his mouth will speak with his mouth, his eyes see his eyes' — face-to-face confrontation; kept literally since Magahi carries the picture."
+    }
+  ],
+  "translation": "आउ त्सिद्कियाहू यहूदा के राजा कसदी सब के हाथ से नञ बचतइ, काहे कि ओ बाबेल के राजा के हाथ में जरूर देल जातइ, आउ ओकर मुँह ओकर मुँह से बात करतइ आउ ओकर आँखी ⟨את⟩ ओकर आँखी के देखतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5ac7d8e27ee2320ca5fd7b32c8d475e3591a5e333086d90052dca9e63c71fa1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/32\/1-4.1792000990566.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדקיהו",
+      "gloss": "आउ त्सिद्कियाहू"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "बचतइ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "कसदी सब के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "जरूर"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "देल जातइ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल के"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आउ बात करतइ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ओकर मुँह"
+    },
+    {
+      "surface": "עם",
+      "gloss": "से"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ओकर मुँह"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "आउ ओकर आँखी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर आँखी के"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ओकर आँखी"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "देखतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:03:10.568078240Z",
+  "model": "glm-5.3"
+}

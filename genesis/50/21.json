@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על לבם",
+      "rationale": "'ओकनी के हिरदय पर बात कहलन' — इब्रानी मुहावरा, अरथ हइ धीरज देके मन के भारी हटावना।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וינחם",
+      "rationale": "पियल (sigh) से बनल क्रिया; मगही में 'धीरज देलन' लेल गेलइ, शब्दशः 'ऊ ओकनी बर साँस लेलन'।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the brothers of Joseph",
+      "rationale": "योसेफ़ ओकर भाय सब के सीधे सम्बोधन करऽ हइ — 'डरियो मत'।"
+    },
+    {
+      "kind": "you",
+      "subject": "to the brothers of Joseph",
+      "rationale": "तोहनी — भाय सब बर ताना-प्रत्यक्ष सम्बोधन।"
+    }
+  ],
+  "translation": "आउ अब डरियो मत; हम तोहनी के ⟨את⟩ आउ तोहनी के बुतरू सब के ⟨את⟩ पालतइ। आउ ऊ ओकनी के धीरज देलन आउ ओकनी के हिरदय पर बात कहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6343e7145f69ba2644b17f9d786797df1c9e41780e6d7862b6e1abea30edbff8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/50\/21-24.1791988017864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "डरियो"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "पालतइ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "तोहनी के बुतरू सब के"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "तोहनी के बुतरू सब"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "धीरज देलन"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ओकनी के"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "बात कहलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ओकनी के हिरदय"
+    }
+  ],
+  "timestamp": "2026-10-14T14:26:57.865110499Z",
+  "model": "glm-5.3"
+}

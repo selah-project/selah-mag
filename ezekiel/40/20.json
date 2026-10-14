@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 40:20",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "इब्रानी के वाक्यांश में क्रिया नञ हइ; मगही बर जोड़ल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "लमबाई आउ चउड़ाई",
+      "rationale": "मन्दिर के दुआर के नाप-तोल के पद"
+    }
+  ],
+  "translation": "आउ बाहरी आँगन के जे दुआर के मुँह उत्तर दने हलइ, ओकर लमबाई आउ चउड़ाई ऊ नापलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "624b53936760db4875832a30b07aee5f6ecf77b8b9326f62ebb97ec475c73cff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/40\/17-20.1792002920878.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשער",
+      "gloss": "आउ दुआर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ओकर मुँह"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "दने"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "आँगन के"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "बाहरी"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ऊ नापलन"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ओकर लमबाई"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "आउ ओकर चउड़ाई"
+    }
+  ],
+  "timestamp": "2026-10-14T18:35:20.879632357Z",
+  "model": "glm-5.3"
+}

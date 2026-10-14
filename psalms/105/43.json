@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "लोग",
+      "rationale": "בחיריו is a plural adjective 'his chosen ones'; head noun supplied"
+    }
+  ],
+  "translation": "आउ ऊ खुसी संग आपन लोग के निकाललन, जयकारा संग ⟨את⟩ आपन चुनल लोग के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/105\/41-44.1792005864290.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "आउ निकाललन"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "आपन लोग के"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "खुसी संग"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "जयकारा संग"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन चुनल लोग के"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "आपन चुनल लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:24.291955155Z",
+  "model": "glm-5.3"
+}

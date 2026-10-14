@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 17:32",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל יפל לב",
+      "rationale": "इब्रानी के मुहावरा 'हिरदय न गिरे' — डर न घटे; मगही में साक्षात चित्र रखल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "शाऊल",
+      "rationale": "दाविद के सीधा बात राजा शाऊल के, आत्म-छोट नोकर के रूप में।"
+    }
+  ],
+  "translation": "दाविद शाऊल के कहलन: केहु आदमी के हिरदय ओकरा ऊपर मत गिरे; तोहर नोकर जइतइ आउ एहे पलिस्ती के संग लड़तइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d79e0dffca74dabb1e361e608392a5ba1189ff2f7bcfa7bb6dcf10a96e6fc399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/17\/29-32.1791995348880.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "गिरे"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "तोहर नोकर"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "जइतइ"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "लड़तइ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "पलिस्ती"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एहे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:29:08.881934539Z",
+  "model": "glm-5.3"
+}

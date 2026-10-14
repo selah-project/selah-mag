@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 16:11",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "प्रत्यय-बद्ध सर्बनाम अलग सब्द में देखावल गेलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "लेवी के गोत्र के",
+      "rationale": "הלוי नाम के बनस्ल जाति-सब्द हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "तूँ",
+      "rationale": "इस्राएल के सम्बोधन"
+    }
+  ],
+  "translation": "आउ तूँ यहवे अपन एलोहीम के सामने खुस होबइ — तूँ, अपन बेटा, अपन बेटी, अपन नौकर, अपन नौकरानी, आउ लेवी के गोत्र के जे तोहरा दुआरी में रहऽ हे, आउ परदेसी, आउ अनाथ, आउ बेवा जे तोहरा बीच में रहऽ हे — ओही जगह जे यहवे अपन एलोहीम अपन नाम रखै बर चुनतन, ओहीं।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bb34b9172bdacd966f11e5e688dcc25d9234e57f14d6bf7b7b94714e77b58086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/16\/9-12.1791992381800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמחת",
+      "gloss": "आउ तूँ खुस होबइ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "अपन एलोहीम"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "आउ अपन बेटा"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "आउ अपन बेटी"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "आउ अपन नौकर"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "आउ अपन नौकरानी"
+    },
+    {
+      "surface": "והלוי",
+      "gloss": "आउ लेवी के गोत्र के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "तोहरा दुआरी में"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "आउ परदेसी"
+    },
+    {
+      "surface": "והיתום",
+      "gloss": "आउ अनाथ"
+    },
+    {
+      "surface": "והאלמנה",
+      "gloss": "आउ बेवा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तोहरा बीच में"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ओही जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "चुनतन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "अपन एलोहीम"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "रखै बर"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "अपन नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहीं"
+    }
+  ],
+  "timestamp": "2026-10-14T15:39:41.802017233Z",
+  "model": "glm-5.3"
+}

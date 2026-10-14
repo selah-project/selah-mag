@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हर एक⟩",
+      "rationale": "इब्रानी में 'हर' नञ हइ; कोनो संख्यक-सब्द नञ जोड़ल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושאלה",
+      "rationale": "'माँगतइ' बनाम 'उधार लेतइ' (KJV 'borrow') — काहे कि लौटावे के बात पाठ में कत्तो नञ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונצלתם",
+      "rationale": "'लुट लेबऽ' बनाम 'छुड़ा लेबऽ' — एके जड़ दुनो अरथ देलक हइ"
+    }
+  ],
+  "translation": "आउ ⟨हर एक⟩ जनाना अपन पड़ोसनी आउ ओकर घर में टिकल परदेसनी के ले चानी के बरतन, सोना के बरतन आउ कपड़ा माँगतइ, आउ तोहनी ओकरा अपन बेटा आउ अपन बेटी के ऊपर पहिराबऽ, आउ तोहनी ⟨את⟩ मिस्रयिम के लुट लेबऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "756e820c391c09522ada565f4c107fca40c31b7e511203abd2cfcbcb674970f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/3\/21-22.1791988059632.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "आउ माँगतइ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "अपन पड़ोसनी"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "आउ परदेसनी"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ओकर घर में टिकल"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बरतन"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी के"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "सोना के बरतन"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "आउ कपड़ा"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "आउ तोहनी पहिराबऽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "अपन बेटा के"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ ऊपर"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "अपन बेटी के"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "आउ लुट लेबऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मिस्रयिम"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:27:39.633575335Z",
+  "model": "glm-5.3"
+}

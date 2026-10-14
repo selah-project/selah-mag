@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 15:29",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מרשעים के מקभ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ — ‘यहवे दूर हथिन’ अपने आप पूरा बाक्य हकइ।"
+    }
+  ],
+  "translation": "यहवे बुरा लोग से दूर हथिन, बाकि सज्जान लोग के प्रार्थना सुनथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a48a3aa2832e661bbdea4bf222c5a7e084844425869bfeb5476f4b34fe5dbef3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/15\/29-32.1792006763932.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "बुरा लोग से"
+    },
+    {
+      "surface": "ותפלת",
+      "gloss": "बाकि…के प्रार्थना"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "सज्जान लोग"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:23.932467385Z",
+  "model": "glm-5.3"
+}

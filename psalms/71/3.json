@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צוית להושיעני",
+      "rationale": "‘तूँ बचावै के आगु देलन हऽ’ बनाम ‘बचा ले बर आगु दे’ (KJV\/JPS में काल आउ पढ़ाई दुनू में मतभेद)।"
+    }
+  ],
+  "translation": "हमरा बर चट्टान-घर बन जा, जहाँ हम सदा आवऽ हिअइ; बचावै के आगु तूँ देलन हऽ; काहे कि तूँ हमर चट्टान आउ हमर गढ़ हऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/71\/1-4.1792005340697.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "बन जा"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "घर"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "आवऽ हिअइ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "आगु देलन हऽ"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "बचावै के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "हमर चट्टान"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "आउ हमर गढ़"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:40.698490196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 6:4",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हाथी दाँत",
+      "rationale": "שן मूल रूप से 'दाँत' हकइ; संदर्भ से हाथी दाँत (आइवरी) साफ़ करे बर"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וסרחים",
+      "rationale": "'तानल\/फैलल' — 'बेलौज बजावे' वाला अरथ भी लिहल जा हइ, पर मूल 'फैल जाना' हे"
+    }
+  ],
+  "translation": "जे हाथी दाँत के पलंग पर लेटऽ हथिन आउ अपना खाट पर तानल रहऽ हथिन, आउ भेड़ के झुंड में से मेमना खावऽ हथिन आउ बास के बीच से बछड़ा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2f1e7dd81ee922eded610b0788c5c1779fbddd0c256c6bce444b7413fd3da228",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/6\/1-4.1792003592040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השכבים",
+      "gloss": "लेटऽ हथिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "पलंग"
+    },
+    {
+      "surface": "שן",
+      "gloss": "हाथी दाँत के"
+    },
+    {
+      "surface": "וסרחים",
+      "gloss": "आउ तानल रहऽ हथिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ערשותם",
+      "gloss": "अपना खाट"
+    },
+    {
+      "surface": "ואכלים",
+      "gloss": "आउ खावऽ हथिन"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "מצאן",
+      "gloss": "भेड़ के झुंड में से"
+    },
+    {
+      "surface": "ועגלים",
+      "gloss": "आउ बछड़ा"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "बीच से"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "बास के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:46:32.041897339Z",
+  "model": "glm-5.3"
+}

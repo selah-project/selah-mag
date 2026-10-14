@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כסוחים",
+      "rationale": "כסח के ई संज्ञा-रूप तनाख़ में खाली इहे जगह आवऽ हइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "משרתות שיד",
+      "rationale": "'चूना जरावे' — चूना-भट्ठी के तस्वीर, पूरा जरके राख होवे के अरथ।"
+    }
+  ],
+  "translation": "आउ जाति सब चूना के जरावे जइसन भेतइ; काँटा सब, काटल-कुटल ⟨जइसन⟩, आग में जरतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a56ab7d8fc4f967477cd1ba253603db4e6465427fc768b472f00a4fee4b6809b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/33\/9-12.1791999118803.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "भेतइ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "जरावे जइसन"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "चूना"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "काँटा सब"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "काटल-कुटल"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "जरतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:31:58.805027273Z",
+  "model": "glm-5.3"
+}

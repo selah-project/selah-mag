@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "एल-पहाड़",
+      "rationale": "चार हाथ आउ चार सींग — बेदी के ऊपरी हिस्सा के नाप।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הראל \/ אראיל",
+      "rationale": "'एल के पहाड़' बनाम 'बेदी-चूल्हा' (asv 'hearth') — दूनो रूप एहे पद के रूप हथिन; रूप के चाल बचावऽ लेल 'एल-पहाड़' लिखलह।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ऊँच⟩",
+      "rationale": "मूल केवल 'चार हाथ' कहथे; मगही में नाप के स्पष्ट बर 'ऊँच' जोड़ल गेल।"
+    }
+  ],
+  "translation": "आउ एल-पहाड़ चार हाथ ⟨ऊँच⟩; आउ एल-पहाड़ से ऊपर तक चार सींग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "99079149b9664cb21d26999b6c55fa98dc7725cca1ac2bb6f224514b389e80c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/43\/13-16.1792002986287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "आउ एल-पहाड़"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "आउ एल-पहाड़ से"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "आउ ऊपर तक"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "सींग"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-10-14T18:36:26.288226983Z",
+  "model": "glm-5.3"
+}

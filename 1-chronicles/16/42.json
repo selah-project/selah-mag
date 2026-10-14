@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 16:42",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מצלתים",
+      "rationale": "द्विबचन रूप — 'दू-टुकरा टाल' — दुआरा धातु के टुकरा; मगही 'टाल' में द्विबचन के आकार गायल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "למשמיעים",
+      "rationale": "'सुनाबे वाला' के मूल धातु सुनाना हकइ; 'बजावे वाला' संगीत-संदर्भ के खिसकैल अरथ हकइ।"
+    }
+  ],
+  "translation": "आउ ओकनी के संग हेमान आउ येदूतून — बिगुल आउ टाल बजावे वाला बर, आउ एलोहीम के गीत के बाजा; आउ येदूतून के बेटा दुआरी पर रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "57f81b0feca48bbce70bd141720713744a0b577a58bb4d14a91d42f7815ef9ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/16\/41-43.1792010283161.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמהם",
+      "gloss": "आउ ओकनी के संग"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "हेमान"
+    },
+    {
+      "surface": "וידותון",
+      "gloss": "आउ येदूतून"
+    },
+    {
+      "surface": "חצצרות",
+      "gloss": "बिगुल"
+    },
+    {
+      "surface": "ומצלתים",
+      "gloss": "आउ टाल (दू-टुकरा)"
+    },
+    {
+      "surface": "למשמיעים",
+      "gloss": "बजावे वाला बर"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "आउ बाजा"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत के"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आउ बेटा"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "येदूतून के"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "दुआरी पर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:38:03.161905885Z",
+  "model": "glm-5.3"
+}

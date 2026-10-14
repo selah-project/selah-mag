@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गोड़-भाग",
+      "rationale": "שׁוֹक literally lower leg (as of a runner), rendered 'shoulder' by KJV-era versions, 'thigh' by JPS\/ASV"
+    },
+    {
+      "kind": "measurement",
+      "subject": "למנה",
+      "rationale": "literally something weighed out — a weighed portion"
+    }
+  ],
+  "translation": "अहरोन (हारून) के बेटा सब में से जे ⟨את⟩ सांति-बलि के खून आउ ⟨את⟩ चरबी परोसऽ हइ, ओकरा बर दहिना गोड़-भाग तौलल हिस्सा बनतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e4c1f5bd048a04432ba0d321b3366c8f0767b0fa3cf9c28afa5821fb34902c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/7\/33-36.1791989583014.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "जे परोसऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सांति-बलि के खून"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "सांति-बलि के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "चरबी"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "बेटा सब में से"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन (हारून) के"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा बर"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "बनतइ होतइ"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "गोड़-भाग"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "दहिना"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "तौलल हिस्सा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:53:03.015466644Z",
+  "model": "glm-5.3"
+}

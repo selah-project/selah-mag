@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 34:28",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "मोशे",
+      "rationale": "करता इब्रानी में छिपल हकइ (पिछला पद से), मगही केरा स्पष्ट करे खातिर ⟨…⟩ में जोड़लन।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चालीस दिन आउ चालीस रात",
+      "rationale": "गिनती — उपवास के काल, दू बेर दोहरावल चालीस।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עשרת הדברים",
+      "rationale": "'दस बचन' — शाब्दिक 'दस बात'; 'दस आज्ञा' परम्परा के शब्द हकइ, मूल में 'बचन' हइ।"
+    }
+  ],
+  "translation": "आउ ऊ ⟨मोशे⟩ ओहाँ यहवे के संग चालीस दिन आउ चालीस रात रहलन; रोटी नञ खइलन आउ पानी नञ पीलन; आउ ऊ पट्टिया पर ⟨את⟩ वाचा के बात सब लिखलन — दस बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2d6bd0adbc87d9a368c6f1c18a6b150108173d678c61e712bcb3ca3b2ecaa4ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/34\/25-28.1791989165755.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहाँ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "आउ चालीस"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खइलन"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "आउ पानी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "पीलन"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "आउ लिखलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "पट्टिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वाचा के बात सब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात सब"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "वाचा के"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "दस"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बचन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:46:05.756841428Z",
+  "model": "glm-5.3"
+}

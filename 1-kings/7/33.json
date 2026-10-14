@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 7:33",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हाथ-धुरी",
+      "rationale": "ידותם के शाब्दिक अरथ 'ओकनी के हाथ' हकइ; रथ के अंग बतावै बर धुरी जोड़ल गेल"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חשקיהם \/ חשריהם",
+      "rationale": "दुनू पद तनाख़ में एही जगह मिलऽ हइ — तीली आउ नाभ बर गढ़ल तकनीकी सब्द"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चक्का के बनावट",
+      "rationale": "रथ के चक्का के तुलना से अंग के नाप-बखान"
+    }
+  ],
+  "translation": "आउ चक्कियन के काम रथ के चक्का के काम जइसन हलइ — ओकनी के हाथ-धुरी, ओकनी के पिठ-बाड़ी, ओकनी के तीली आउ ओकनी के नाभ; सब ढलाइल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "340cb0d766be05c5ab741643c4c89ae5d27070f46f62e296166667903e3186b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/7\/33-36.1791996875235.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעשה",
+      "gloss": "आउ के काम"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "चक्कियन के"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "जइसन के काम"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "चक्का"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "रथ के"
+    },
+    {
+      "surface": "ידותם",
+      "gloss": "ओकनी के हाथ-धुरी"
+    },
+    {
+      "surface": "וגביהם",
+      "gloss": "आउ ओकनी के पिठ-बाड़ी"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "आउ ओकनी के तीली"
+    },
+    {
+      "surface": "וחשריהם",
+      "gloss": "आउ ओकनी के नाभ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ढलाइल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:54:35.235973410Z",
+  "model": "glm-5.3"
+}

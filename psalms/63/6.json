@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש परान-बल हकइ, देह के अलग जिया हकइ नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלב",
+      "rationale": "ylt 'दूध' धरऽ हे, बाकी सब 'सान\/मज्जा' — चरबी के अरथ संगत हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "तोहरा",
+      "rationale": "इब्रानी में प्रशंसा के लक्ष्य बतावल नञ हे"
+    }
+  ],
+  "translation": "जइसन सान आउ चिकनाई से ⟨हमर⟩ परान भर जातइ; आउ खुसी के बोली से हमर मुँह ⟨तोहरा⟩ जस गावतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/63\/5-8.1792005261602.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "सान"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "आउ चिकनाई"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "भर जातइ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "आउ खुसी के बोली से"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "जय-जयकार के"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "जस गावतइ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "हमर मुँह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:21.602932923Z",
+  "model": "glm-5.3"
+}

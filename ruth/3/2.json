@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "मדעתनו",
+      "rationale": "'जान-पहचान वाला' बनाम अनुवादक के 'गोत-बन्धे' (kinsman) — कइथा गोत-नाते के अरथ गिरह लेलकइ; इब्रानी शब्द के साक्षर अरथ 'जान-पहचान' हकइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (נעरותיव) के संग",
+      "rationale": "एह अलेफ-तव छोड़ देवे के संग वाला चिन्हा हकइ, सीधा करम-चिन्हा नञ; पाठ में रहलइ बाकि क्रिया के साथ मिल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ओफानना",
+      "rationale": "जरा = दाना उड़ावल; मगही के सुप-ओफाने के क्रिया से देखाओल गेल।"
+    }
+  ],
+  "translation": "आउ अब — की बोअज हमनी के जान-पहचान वाला नञ हकइ, जेकर बुरिया के संग तूँ रहलइ? देख, ऊ एही रात जौ के खलिहान ⟨את⟩ ओफानतइ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dbb9a084c7daf989b62d592c2865d0508d20dc6c9940d8b4588d0f3c0e417192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ruth\/3\/1-4.1792008141993.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "की ... नञ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "बोअज"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "हमनी के जान-पहचान वाला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "היית",
+      "gloss": "रहलइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बुरिया के संग"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "ओकर बुरिया के संग"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "ओफानतइ हे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जौ के खलिहान"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "खलिहान"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "जौ के"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "एही रात"
+    }
+  ],
+  "timestamp": "2026-10-14T20:02:21.994076878Z",
+  "model": "glm-5.3"
+}

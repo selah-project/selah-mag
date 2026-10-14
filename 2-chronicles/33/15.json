@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סמל",
+      "rationale": "मूल 'आकृति\/तस्वीर' हकइ; 'मूरति' चलनसार रूप लेल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "आउ",
+      "rationale": "आखिरी उपवाक्य के जोड़े बर कोस्ठक में जोड़ल मिलावट"
+    }
+  ],
+  "translation": "आउ ऊ देसी ⟨את⟩ देवता सब आउ ⟨את⟩ मूरति के यहवे के घर से हटइलन, आउ ओ सब बेदी जे ऊ यहवे के घर के पहाड़ी पर आउ यरूशलयिम में बनइलक हल, ⟨आउ⟩ ओकरा नगर के बाहर फेंक देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4b0cb76929afad433507c630364a65d7093d825737423b24442da157d8fa2582",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/33\/13-16.1792011348999.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "हटइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "देसी देवता सब"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "देवता सब"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "देसी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "मूरति"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "मूरति"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "के घर से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनइलक"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ी पर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "के घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "आउ यरूशलयिम में"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "फेंक देलक"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "नगर के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:55:49.000551606Z",
+  "model": "glm-5.3"
+}

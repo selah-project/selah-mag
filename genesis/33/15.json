@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "इब्रानी 'संग' खाली कहथिन; 'अपन' संबंध साफ करे बर जोड़ल गेलन।"
+    },
+    {
+      "kind": "elision",
+      "subject": "למה זה",
+      "rationale": "शाब्दिक: 'काहे ई?' — याकोव एसाव के पेसकश के बिना कारण नकार देथिन।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "बעיני",
+      "rationale": "'आँख में अनुग्रह पाना' — इब्रानी के चालित बात, मगही में जस के तस रखल गेलन।"
+    }
+  ],
+  "translation": "आउ एसाव कहलन, चाही त हम ⟨את⟩ अपन संग के लोग में से किछु तोहरा संग रखि देतै; बाकि ऊ कहलन, ई काहे? हमरा हमर मालिक के आँख में अनुग्रह मिलतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3a4fba03f067c5d6768d4fca5d5918a35f3a360e2747b7cd5b56a5bf6731d822",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/33\/13-16.1791987287837.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "रखि देतै"
+    },
+    {
+      "surface": "נא",
+      "gloss": "चाही त"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहरा संग"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ अपन संग"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "मिलतइ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँख में"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हमर मालिक"
+    }
+  ],
+  "timestamp": "2026-10-14T14:14:47.838690301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "फल",
+      "rationale": " Hebrew यितेन केवल 'देता है' कहता है; 'फल' इसलिए जोड़ा गया कि 'देता है' अकेले अधूरा लगता है (YLT शाब्दिक रखता है)"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצוד",
+      "rationale": "'बुरों का जाल' — शिकार का जाल बनाम (संभव) मासरोतिक 'उनका शिकार\/लूट' (JPS 'शिकार')"
+    }
+  ],
+  "translation": "दुस्ट बुरा लोग के जाल के चाहऽ हइ, बाकि धरमी लोग के जड़ फल देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/12\/9-12.1792006646099.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "चाहऽ हइ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुस्ट"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "जाल"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "बुरा लोग के"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "बाकि जड़"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धरमी लोग के"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "फल देतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:37:26.100157401Z",
+  "model": "glm-5.3"
+}

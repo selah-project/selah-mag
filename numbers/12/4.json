@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 12:4",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "मिर्याम, अहरोन, मोशे",
+      "rationale": "Imperative 'Come out, you three' — a direct summons by यहवे to the three।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी तीन गो",
+      "rationale": "Direct address by यहवे to Moses, Aaron and Miriam।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלשתכם \/ שלשתם",
+      "rationale": "'You three' and 'the three (of them)' echo each other at command and fulfilment; the echo is kept।"
+    }
+  ],
+  "translation": "आउ यहवे अचानक मोशे आउ अहरोन आउ मिर्याम से कहलन, तोहनी तीन गो भेंट के तम्बू में बाहर निकलऽ। आउ ओकनी तीनो बाहर निकललथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "435b65bc1f297010d79e0e39b0e4fc7154eb0e7eade173b68263d77f6fe9906d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/12\/1-4.1791991055885.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "मिर्याम"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "बाहर निकलऽ"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "तोहनी तीन गो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "भेंट के"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "आउ बाहर निकललथिन"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "ओकनी तीनो"
+    }
+  ],
+  "timestamp": "2026-10-14T15:17:35.886225063Z",
+  "model": "glm-5.3"
+}

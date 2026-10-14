@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כסל",
+      "rationale": "כסל के मूल अरथ 'कमर के चिकनाहट'; व्यंग्य में 'मूर्खता' — अनुवादक लोग 'ओकनी के भरोसा' (BSB) भी कहऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואחריהם בפיהם",
+      "rationale": "'ओकनी के बाद के लोग ओकनी के बात से' बनाम 'ओकनी के संग ओकनी के मुँह में' (शेओल के मुँह); परति के ढाँचा खुलल हइ।"
+    }
+  ],
+  "translation": "ई ओकनी के रस्ता हकइ — ओकनी बर मूर्खता; आउ ओकनी के बाद के लोग ओकनी के बात से खुस होतइ। सेलाह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/49\/13-16.1792005082521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ओकनी के रस्ता"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "मूर्खता"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ओकनी बर"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "आउ ओकनी के बाद के"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ओकनी के मुँह से"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "खुस होतइ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेलाह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:22.523195317Z",
+  "model": "glm-5.3"
+}

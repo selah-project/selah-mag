@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी के छोड़ल धातु-क्रिया (copula) मगही में चाही; कोस्ठक में देखावल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנוש\/אדם बनाम רמה\/תולעה",
+      "rationale": "दू भिन्न-भिन्न मगरमच्छ के सब्द जोड़ी हकइ — एकरा दू किसिम के कीड़ा में पार करल गेलइ, सब्द के जोड़ी के फरक हट गेलइ।"
+    }
+  ],
+  "translation": "आउ जादे त कि मनुस ⟨हइ⟩ इल्ली, आउ आदमी के बेटा ⟨हइ⟩ कीड़ा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2bf0ab9a81aaace5fc1e3ca7d1f71278e2de5d4d2ec4a6f70fd5a5b021a3d784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/25\/5-6.1792007545282.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "आउ जादे त"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "इल्ली"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "आउ बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "कीड़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:52:25.283399753Z",
+  "model": "glm-5.3"
+}

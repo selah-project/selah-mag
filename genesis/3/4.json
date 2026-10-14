@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות תמתון",
+      "rationale": "क्रिया के दोहराव (infinitive absolute) — 'मरते-मरते मरबऽ' — पुरा जोर देबे बर; साँप ओही रचना उलट के नकारऽ हइ।"
+    }
+  ],
+  "translation": "आउ साँप जनाना से कहलन, मरते-मरते नञ — तोहनी नञ मरबऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a700f949133974de2274d0c924c426bc0771e9a00f90f5959b103eeacfe55278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/3\/1-4.1791986290321.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "साँप"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मरते-मरते"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "मरबऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T13:58:10.322516320Z",
+  "model": "glm-5.3"
+}

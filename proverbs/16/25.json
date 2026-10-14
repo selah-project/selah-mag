@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "सीधा लागऽ हइ",
+      "rationale": "ישר לפני איש: 'आदमी के आगू सीधा' — बड़का अनुवाद 'लागऽ हइ' कहऽ हइ; इब्रानी खाली 'सीधा' कहऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "लागऽ हइ",
+      "rationale": "इब्रानी क्रिया-रहित हकइ; ⟨लागऽ हइ⟩ जोड़ल गेलइ"
+    }
+  ],
+  "translation": "कोनो रस्ता आदमी के आगू सीधा लागऽ हइ, बाकि ओकर अन्त मौत के रस्ता हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0cf071747af59804ffa791b5ff4fdb3e309376c98002a761a828368a35808735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/16\/25-28.1792006722407.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "हकइ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "कोनो रस्ता"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "बाकि ओकर अन्त"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:38:42.408059127Z",
+  "model": "glm-5.3"
+}

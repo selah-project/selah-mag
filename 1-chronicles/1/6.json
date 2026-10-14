@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "दिफत",
+      "rationale": "इब्रानी इहाँ ओकरा दिफत लिखऽ हइ (उत्पत्ति 10:3 रिफत); लिपिक के अच्छर-बदली के गढ़ल सोझा हकइ — इब्रानी पाठ जस के तस रखल गेल।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "गोमेर के बेटा सब",
+      "rationale": "नाम के सूची — वंशावली।"
+    }
+  ],
+  "translation": "आउ गोमेर के बेटा सब: अशकनाज़ आउ दिफत आउ तोगर्मा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "546c94284ef12ced0d55276aac6c88de94b4219db0e22611faddcdc5cf0b7ea4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/1\/5-8.1792009822535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आउ … के बेटा सब"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "गोमेर"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "अशकनाज़"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "आउ दिफत"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "आउ तोगर्मा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:30:22.536323980Z",
+  "model": "glm-5.3"
+}

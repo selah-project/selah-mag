@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 11:10",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "इब्रानी के सौगंध-ढाँचा „जँ नञ“ — ग्यारहू के रूप में ग्रहण करे के चाही: जँ हमनी एहना नञ करबी त यहवे गवाह रहतन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "रहतन",
+      "rationale": "मगही के क्रिया-रूप जोड़ल गेलइ; इब्रानी שומע ढाँचा के नञ-पूर्ण रूप में हकइ।"
+    }
+  ],
+  "translation": "आउ गिलाद के बूढ़ा लोग यिफ्ताह के कहलन: यहवे हमनी के बीच सुनै वाला ⟨रहतन⟩; जँ हमनी तोहर बात के मोताबिक एहना नञ करबी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c1cbff1d83a31e289fbdb0d55a46ebd363cb9d5aee62e2bca56cc949732406fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/11\/9-12.1791994424446.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "बूढ़ा लोग"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "यिफ्ताह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨रहतन⟩"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनै वाला"
+    },
+    {
+      "surface": "בינותינו",
+      "gloss": "हमनी के बीच"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "तोहर बात के मोताबिक"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "करबी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:13:44.447165239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 43:12",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משנה \/ תשיבו \/ המושב",
+      "rationale": "मिशने (दो गुना) आउ शुव जड़ के वापसी बार-बार — दुहरावा चानी आउ लौटावा दुनो ओकरे जड़ से बुनल हकइ; मगही में ओकरो जुड़ाव कम हो जा हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "'ई होतइ' के जोड़ — इब्रानी के सर्बनाम-क्रिया बिना क्रिया के ठाढ़ हकइ; मगही क्रिया जोड़ल गेलन।"
+    }
+  ],
+  "translation": "आउ हाथ में दू गुना चानी लेऽ; आउ जे चानी तोहनी के थैला के मुँह में वापस रखल गेलन, ⟨את⟩ ओ चानी हाथ में ले जाके लौटा दिअऽ — कबो ई कोनो चूक होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9a796b3950205bbb30a1eb477fa235c07c0a35b40e685a0a64b8863d039aeecf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/43\/9-12.1791987736016.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "आउ चानी"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "दू गुना"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "लेऽ"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "चानी"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ओ चानी"
+    },
+    {
+      "surface": "המושב",
+      "gloss": "वापस रखल गेलन"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "मुँह में"
+    },
+    {
+      "surface": "אמתחתיכם",
+      "gloss": "तोहनी के थैला के"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "लौटा दिअऽ"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "हाथ में ले जाके"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "कबो"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "कोनो चूक"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ई…होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:22:16.017585020Z",
+  "model": "glm-5.3"
+}

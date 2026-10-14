@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 21:7",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קשב ... רב קשב",
+      "rationale": "के-सब-ब ... रब के-सब-ब के जिह्वा-पट्टी; मगही मा दोहराव से एकर किनारा रखल गेलै।"
+    },
+    {
+      "kind": "crux",
+      "subject": "צמד פרשים",
+      "rationale": "'जोड़ी मा सवार' (KJV\/JPS) बनाम एक्के शब्द 'रथ-जोड़ी' — इहाँ दूनो के मिला के रखल गेलै।"
+    }
+  ],
+  "translation": "आउ जब ऊ देखतन — घोड़े के सवारन के जोड़ी-जोड़ी, गधा पर सवार, ऊँट पर सवार — तब ऊ कान लगालन, बहुते ध्यान से कान लगालन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b7182f630223fbd1087c8365412220fe075068049971970cb37fb53b34df13a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/21\/5-8.1791998937615.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "आउ देखतन"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "रथ"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "जोड़ी"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "घोड़े के सवार"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "सवार"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "गधा"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "सवार"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ऊँट"
+    },
+    {
+      "surface": "והקשיב",
+      "gloss": "आउ कान लगालन"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "ध्यान"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "ध्यान"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:57.616300990Z",
+  "model": "glm-5.3"
+}

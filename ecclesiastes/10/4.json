@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "रूआख — 'गुस्सा\/मन के भाव' बनाम सुख 'बतास' — इहाँ हुकमरनै के चढ़ल भाव हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרפא",
+      "rationale": "'चंगा करै वाला' — KJV 'yielding', JPS 'gentleness', YLT 'yielding'; ठंडापन\/शांति चुनल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "חטאים",
+      "rationale": "पाप या पापी — YLT 'sinners' पढ़ऽ हइ, बाकी 'पाप' (जुर्माना अरथ) बेसी मान्य हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "to the courtier\/servant",
+      "rationale": "सीधा सम्बोधन — हुकमरनै के नीचे काम करै वाला के बर सलाह"
+    }
+  ],
+  "translation": "जे हुकम चलावै वाला के रूआख तोहारा पर चढ़ऽ हइ, अपन जगह मत छोड़; काहे कि ठंडापन बड़ा पाप के थिर करा देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/10\/1-4.1792008459311.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जे"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "हुकम चलावै वाला के"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "चढ़ऽ हइ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहारा पर"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "अपन जगह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "छोड़"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ठंडापन"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "थिर करा देतइ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "पाप के"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "बड़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:07:39.312951888Z",
+  "model": "glm-5.3"
+}

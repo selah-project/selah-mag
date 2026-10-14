@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישמע אל",
+      "rationale": "Hebrew 'hear toward' = grant the prayer; rendered 'के बात सुनलन'"
+    }
+  ],
+  "translation": "आउ यहवे हिज्किय्याहू के बात सुनलन, आउ ⟨את⟩ लोग के चंगा कएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fad44f8a5d360335bf114b94f5a252b2905c33a0c9ad4300b1bf6de7e5f2baf3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/30\/17-20.1792011315009.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "आउ सुनलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के बात"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "हिज्किय्याहू के"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "आउ चंगा कएलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग के"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T20:55:15.010502359Z",
+  "model": "glm-5.3"
+}

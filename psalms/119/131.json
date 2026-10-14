@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "मुँह फइलावलन आउ हाँफते भएलन",
+      "rationale": "तड़प के तसवीर — जइसन पियासा मुँह फइलावऽ हइ; शाब्दिक रूप रखल गेल"
+    }
+  ],
+  "translation": "हम मुँह फइलावलन आउ हाँफते भएलन, काहे कि हम तोहरा आज्ञा बर तड़पलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/129-132.1792006122910.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "फइलावलन"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "हाँफते भएलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "तोहरा आज्ञा बर"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "तड़पलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:42.911713314Z",
+  "model": "glm-5.3"
+}

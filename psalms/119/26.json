@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "जबाब देलहू",
+      "rationale": "ותענני के 'सुनलहू' आउ 'जबाब देलहू' दुनू अरथ हकइ; जवाब देना एहे संदर्भ में ठीक लागऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रार्थना के बिचला पंक्ति सीधे परमेश्मा से बात हकइ"
+    }
+  ],
+  "translation": "हम ⟨हमर⟩ रस्ता बतौलियन, आउ तूँ हमनी के जबाब देलहू; ⟨तोहर⟩ बिधान हमनी सिखाऊ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f2437ca5471d849fd018ef3d09d157df70e1778b313c840a6add240c85a42e60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/25-28.1792006072314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "हमर रस्ता"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "बतौलियन"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "आउ तूँ हमनी के जबाब देलहू"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "हमनी सिखाऊ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "तोहर बिधान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:52.315236627Z",
+  "model": "glm-5.3"
+}

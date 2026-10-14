@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תלכון\/תלכו",
+      "rationale": "एके क्रिया दू बेर — 'जइबऽ ... जाबऽ' — इब्रानी के दोहराव जस के तस रखल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "חן",
+      "rationale": "अनुग्रह बनाम करुना — 'एकर आँखि में अनुग्रह मिलतइ' के अरथ में"
+    }
+  ],
+  "translation": "आउ हम ई लोग के ⟨את⟩ अनुग्रह मिस्रयिम (मिस्र) के आँखि में देबइ, आउ होतइ कि जब तोहनी जाबऽ, तब तोहनी खाली हाथे नञ जाबऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "756e820c391c09522ada565f4c107fca40c31b7e511203abd2cfcbcb674970f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/3\/21-22.1791988059632.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "आउ हम देबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अनुग्रह"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखि में"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम (मिस्र) के"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "तोहनी जाबऽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "जाबऽ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "खाली हाथे"
+    }
+  ],
+  "timestamp": "2026-10-14T14:27:39.633296158Z",
+  "model": "glm-5.3"
+}

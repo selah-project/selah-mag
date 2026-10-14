@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "तीन बेटा",
+      "rationale": "अनाक के बेटा के गिनती — तीन"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकनी",
+      "rationale": "करता हिब्रू में छिपल हकइ; मगही में 'ओकनी' जोड़ल गेलन"
+    }
+  ],
+  "translation": "आउ ओकनी कालेब के ⟨את⟩ हेबरोन देलन, जइसन मोशे कहलन रहए; आउ ऊ ओहिं से ⟨את⟩ अनाक के तीन बेटा के खदेड़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "290862e9a05af5639074b8211d654953005dcbf5ebb379d23f7a2e84bd7a776f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/1\/17-20.1791993921367.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "कालेब के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हेबरोन"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "हेबरोन"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन रहए"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "खदेड़लन"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ओहिं से"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अनाक के तीन बेटा"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "अनाक"
+    }
+  ],
+  "timestamp": "2026-10-14T16:05:21.369012678Z",
+  "model": "glm-5.3"
+}

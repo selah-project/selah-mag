@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "offering count",
+      "rationale": "one he-goat counted for the sin-offering."
+    },
+    {
+      "kind": "substitution",
+      "subject": "पाप-बलि",
+      "rationale": "חטאת is 'sin' and its sacrifice in one word; rendered 'पाप-बलि' (sin-sacrifice), one hyphenated word for one Hebrew word."
+    }
+  ],
+  "translation": "बकरी के बकरा, एक, पाप-बलि बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c846c29cdc00f52bdd43dc2eaa122f53da1229b0a0b968d0f135893ae8328980",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/7\/13-16.1791990706339.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-बलि बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:11:46.340908649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בחור גם בתולה גם",
+      "rationale": "gam…gam repetition ('both…and') kept as भी…भी"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תשכל",
+      "rationale": "שכל literally 'bereave\/miscarry' — rendered बेसंतान करना, 'make childless'"
+    }
+  ],
+  "translation": "बाहर तलवार बेसंतान करतइ, आउ कोठरी सब के भीतर डर — भी जुवान, भी कुँवारी कनिया, दूध पीए वाला बुतरू बूढ़ मरद के संग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8d1b1549e239f3380cd48fafebfae17d476469fb90b7d3f5f3e2b986e774c252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/32\/25-28.1791993018891.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "बेसंतान करतइ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "आउ कोठरी सब के भीतर"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "डर"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "जुवान"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "कुँवारी कनिया"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "दूध पीए वाला बुतरू"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "बूढ़"
+    }
+  ],
+  "timestamp": "2026-10-14T15:50:18.892209348Z",
+  "model": "glm-5.3"
+}

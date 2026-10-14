@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 28:42",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מכנסי",
+      "rationale": "मिखनेसैम द्विवचन हकइ — छुपावे वाला वस्त्र, 'दुइ-टाँग' के बनावट रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "नंग",
+      "rationale": "ערוה 'नंग \/ लज्जा-जगह' — गुप्तांग के साफ़ संकेत"
+    }
+  ],
+  "translation": "आउ ओकनी बर सणन के चड्डी बनाबइ, मांस के नंग ढके बर; मेहरी से ले के जाँघ तक ओकरा होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1b12633f3b93c5e06ea52bb0623447b77a1a5292a2c5f0a557da790b396de6d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/28\/41-43.1791988971669.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "आउ बनाबइ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी बर"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "दुइ-टाँग के चड्डी"
+    },
+    {
+      "surface": "בד",
+      "gloss": "सणन के"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "ढके बर"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "नंग"
+    },
+    {
+      "surface": "ממתנים",
+      "gloss": "मेहरी (दुइ कमर)"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ ले के"
+    },
+    {
+      "surface": "ירכים",
+      "gloss": "दुइ जाँघ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:42:51.670049993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 1:17",
+  "book": "habakkuk",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרמו",
+      "rationale": "חרם जाल हकइ या समुंदर के जाल-बरमा; किछु अनुवादक 'ओकर जाल' (एकबचन) कहऽ हथिन, किछु 'ओकनी के जाल'।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे से",
+      "rationale": "प्रस्न यहवे के ओर मुँह कइल गेलइ — नबी के शिकायत के रूप में।"
+    },
+    {
+      "kind": "elision",
+      "subject": "העל כן",
+      "rationale": "इब्रानी के साँझा प्रस्न-चिन्हा हकइ; मगही में दू के एके 'एकरा लेले की' धरल गेलइ।"
+    }
+  ],
+  "translation": "एकरा लेले की ऊ अपन जाल ⟨एकरा⟩ खाली करतइ, आउ लगातार जाति सब के मारऽ रहतइ, ⟨कोनो⟩ रहम नञ करतइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "85c0cc4701939b54ed317c84fdd9b4e0f43421ee1c3c43857673b0be646f7196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/habakkuk\/1\/17-17.1792003789793.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "एकरा लेले की"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एकरा लेले की"
+    },
+    {
+      "surface": "יריק",
+      "gloss": "खाली करतइ"
+    },
+    {
+      "surface": "חרמו",
+      "gloss": "अपन जाल"
+    },
+    {
+      "surface": "ותמיד",
+      "gloss": "लगातार"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "मारऽ रहतइ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "रहम करतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:49:49.794369498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 1:9",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השבץ",
+      "rationale": "तनाख़ में केवल एतए — उलझन\/मरण-व्याकुलता; YLT 'तीर' पढ़ऽ हइ, बाकी सब उलझन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש घाँटी\/परान-बल, नञ अलग आत्मा।"
+    }
+  ],
+  "translation": "ऊ हमरा कहलन, एऽ, हमरा ऊपर ठाढ़ हो आउ हमरा मार दे, काहे कि उलझन हमरा पकड़ले हे, काहे कि हमर सब परान अबहिन हमरा भीतर हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5619cd07f1b0d571aa6e268bbb265290d7488c073bb5ca52860133e7f48b4dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/1\/9-12.1791995827555.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा (के पास)"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ठाढ़ हो"
+    },
+    {
+      "surface": "נא",
+      "gloss": "एऽ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ऊपर"
+    },
+    {
+      "surface": "ומתתני",
+      "gloss": "हमरा मार दे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אחזני",
+      "gloss": "हमरा पकड़ले हे"
+    },
+    {
+      "surface": "השבץ",
+      "gloss": "उलझन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अबहिन"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा भीतर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:37:07.556155262Z",
+  "model": "glm-5.3"
+}

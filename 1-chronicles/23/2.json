@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "करता दाविद स्पस्ट करे बर सर्बनाम; हिब्रू में क्रिया के रूपे ही छिपल हे"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ यिस्राएल के सब सरदारन के, आउ पुरोहितन के आउ लेवी के लोगन के एकट्ठा केलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/23\/1-4.1792010437963.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "एकट्ठा केलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के सब सरदारन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदारन के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "आउ पुरोहितन के"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "आउ लेवी के लोगन के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:40:37.964037565Z",
+  "model": "glm-5.3"
+}

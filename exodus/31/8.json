@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הטהरה",
+      "rationale": "'साफ\/पवित्तर' — चलनसार अनुवाद में 'सोने के' जोड़ल जा हइ जे एहिया पाठ में नञ हइ।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ मेज आउ ⟨את⟩ ओकर बरतन, आउ ⟨את⟩ साफ दीया-खम्भा आउ ⟨את⟩ ओकर सब बरतन, आउ ⟨את⟩ सुगन्धि के बेदी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ab0aac9159f03ddc7a5f585b187148160817e71b381f5d3c797b694af0b804f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/31\/5-8.1791989090724.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "मेज"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "मेज"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बरतन"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ओकर बरतन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "साफ दीया-खम्भा"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "दीया-खम्भा"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "साफ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर सब बरतन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "बरतन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सुगन्धि के बेदी"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "सुगन्धि के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:44:50.725609680Z",
+  "model": "glm-5.3"
+}

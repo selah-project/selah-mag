@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירשו",
+      "rationale": "पद 3 के הורשת के ओहे जड़ — जाति सब के बिसथापित करऽ वाला एलोहीम हकइ, धरती के हकदार बनैल ओकरे के हाथ हकइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כי (तीन बेर)",
+      "rationale": "दोसर पढ़निहार: पहिला छी के 'जे' (जे-काम) बतावऽ हइ, पुरान पद 2 के आगे के जोड़"
+    }
+  ],
+  "translation": "काहे कि ओनी के तलवार से धरती के हकदार नञ भेलन, आउ ओनी के भुजा ओनी के बचअलन नञ; बाकि तोहर दहिना हाथ, आउ तोहर भुजा, आउ तोहर मुँह के इँजोर — काहे कि तूँ ओकनी पर परसन्न हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/44\/1-4.1792005017627.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "ओनी के तलवार से"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "धरती के हकदार भेलन"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "आउ ओनी के भुजा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "बचअलन"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ओनी के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बाकि काहे कि"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "तोहर दहिना हाथ"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "आउ तोहर भुजा"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "आउ इँजोर"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहर मुँह के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "परसन्न हलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:17.628406889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 15:3",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ירד בבכי",
+      "rationale": "'रोते हुए उतरता है' — शोक की अभिव्यक्ति — 'रोते-रोते नीचे गिरतइ' के रूप में रखल गेलन।"
+    }
+  ],
+  "translation": "ओकर गली में ओकनी टाट कसलक; ओकर छत के ऊपर आउ ओकर चौक में सब बिलखतइ — रोते-रोते नीचे गिरतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/15\/1-4.1791998908340.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחוצתיו",
+      "gloss": "ओकर गली में"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "कसलक"
+    },
+    {
+      "surface": "שק",
+      "gloss": "टाट"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "גגותיה",
+      "gloss": "ओकर छत"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "आउ ओकर चौक में"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "बिलखतइ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "नीचे गिरतइ"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "रोते-रोते"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:28.341163899Z",
+  "model": "glm-5.3"
+}

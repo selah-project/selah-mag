@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 8:4",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ओकनी बीर के तुकड़ी",
+      "rationale": "यहोशुआ सीधे ओ तीस हजार के ओकनी के सम्बोधन करऽ हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאד",
+      "rationale": "इब्रानी ओकरा क्रिया के पाछे रखऽ हइ ('दूर करू मत बहुते') — मगही में क्रिया के भीतर जोड़ल गेलाव"
+    }
+  ],
+  "translation": "आउ ओकनी के ⟨את⟩ हुकुम देलन के कहऽ हइ: देखू, तोहनी ओ नगर के पाछाँड़ी घात लगानिहार छी — नगर से बहुते दूर मत जाऊ, आउ तोहनी सब तैयार रहू।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8f22ff8e03a78d4be1455485096c1d50cd81157e2b640c5c0e1aec7450d05e74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/8\/1-4.1791993431521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "आउ हुकुम देलन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी (ओकनी)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "के कहऽ हइ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखू"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "घात लगानिहार"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ओ नगर के"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "पाछाँड़ी"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "बहुते दूर जाऊ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "आउ रहू"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "तोहनी सब"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "तैयार"
+    }
+  ],
+  "timestamp": "2026-10-14T15:57:11.522889174Z",
+  "model": "glm-5.3"
+}

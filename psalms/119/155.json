@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मुक्ति",
+      "rationale": "ישועה is deliverance\/victory from YHWH; 'मुक्ति' drops the personal-rescue shade."
+    },
+    {
+      "kind": "addition",
+      "subject": "लोग",
+      "rationale": "Hebrew participle plural needs a noun in Magahi; supplied लोग।"
+    }
+  ],
+  "translation": "दुष्ट लोग से मुक्ति दूर हकइ, काहे कि ओकनी तोहर बिधान के नञ खोजलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d9cd2a4448b346bfe8c458de5e12ce2d95eeea0365c61bc1ac437241aafe7d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/153-156.1792006105229.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "दुष्ट लोग से"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "मुक्ति"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "तोहर बिधान"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "खोजलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:25.230956573Z",
+  "model": "glm-5.3"
+}

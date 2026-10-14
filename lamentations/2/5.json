@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 2:5",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "इ बिधा में कोनो ⟨את⟩ चिन्हा नञ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלע…בלע",
+      "rationale": "निगले के क्रिया दू बेर दोहराएल हइ — हिब्रू के ओही दोहराव रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בלע",
+      "rationale": "शाब्दिक अरथ निगल जाना; 'बरबाद करना' कम शाब्दिक अनुवाद होतइ"
+    }
+  ],
+  "translation": "अदोनाय दुसमन जइसन भेलन; ऊ यिस्राएल (इस्राएल) के निगल लेलन, ओकरा सब गढ़-महल के निगल लेलन, ओकर गढ़ के बरबाद कएलन, आउ यहूदा के बेटी में ऊ विलाप आउ आह-जारी बढ़ा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7325af97c7934fd9b2c158bf9c36272f124c3caa63a3b6566ec05bfea38594ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/2\/5-8.1792008238839.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "भेलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "כאויב",
+      "gloss": "दुसमन जइसन"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "निगल लेलन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल)"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "निगल लेलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ओकर गढ़-महल"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "बरबाद कएलन"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "ओकर गढ़"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "आउ बढ़ा देलन"
+    },
+    {
+      "surface": "בבת",
+      "gloss": "बेटी में"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "विलाप"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "आउ आह-जारी"
+    }
+  ],
+  "timestamp": "2026-10-14T20:03:58.839944971Z",
+  "model": "glm-5.3"
+}

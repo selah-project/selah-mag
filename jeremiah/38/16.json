@@ -1,0 +1,150 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 38:16",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "अलौ के कसम",
+      "rationale": "इब्रानी कसम में 'नञ' क्रिया से पहिले बिना कहल छिपल रहऽ हइ — 'अगर हम मारब' के मतलब 'कखनो नञ'।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "नेफेश 'परान \/ जीबन-साँस' हकइ; 'आत्मा' के बाद के अरथ नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "את אשר",
+      "rationale": "किछु अनुवादक ⟨את⟩ के इहाँ कसम के हिस्सा मानऽ हथिन ('यहवे के जियत, ऊ जे…'), किछु अनुवाद छोड़ देवऽ हथिन।"
+    }
+  ],
+  "translation": "आउ राजा त्सिदकियाहू यिर्मियाहू से लुकाए के कसम खालन, कहलन: यहवे जियत हथिन — ऊ ⟨את⟩ जे हमनी बर ई ⟨את⟩ परान बनइलन हथिन — अगर हम तोहनी के मारब, आउ अगर हम तोहनी के ई मनुष के हाथ में देब, जे तोहर परान ⟨את⟩ के खोजऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "31d349052df0ebd677b66488c65d1dfcbbfa23515641f1606a31a789823ab5b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/38\/13-16.1792001274452.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "कसम खालन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "त्सिदकियाहू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मיׯाहू"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "लुकाए के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जियत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे (हमनी बर)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परान"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "אמיתך",
+      "gloss": "मारब"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आउ अगर"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "देब"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "मनुष के"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "खोजऽ हथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर परान के"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "तोहर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T18:07:54.453898641Z",
+  "model": "glm-5.3"
+}

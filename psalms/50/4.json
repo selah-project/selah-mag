@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "अकास आउ धरती",
+      "rationale": "ऊपर आउ नीचे — दुनों गवाह के पूरा सृष्टि-दायरा साद के बुलावल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ओकर लोग के नियाव",
+      "rationale": "לדין עמו के 'ओकर लोग के नियाव' (बिबाद के अरथ में ढलल) या 'ओकर लोग के बर झगड़ऽ' — पहिला लेल गेलइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "पुकारतइ",
+      "rationale": "अकास आउ धरती के गवाही बर बुलावल जा रहलइ — ओही सबके सामने आगे के कारबाही खुलतइ।"
+    }
+  ],
+  "translation": "ऊ अकास के, ऊपर से, आउ धरती के पुकारतइ, ओकर लोग के नियाव करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/50\/1-4.1792005111338.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "पुकारतइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पट्टी"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ऊपर से"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ के पट्टी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "नियाव करे बर"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:51.339594041Z",
+  "model": "glm-5.3"
+}

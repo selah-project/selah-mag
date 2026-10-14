@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשרי…אשרי",
+      "rationale": "'भाग्यवान' के दुहराव — अगम-पाँती के जोड़ल बनावट; इब्रानी के तुकबंदी फेर से नञ आवऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "होवऽ हइ",
+      "rationale": "शेछכह के परति गढ़ल किरिया; इब्रानी केवल 'अइसने' कहऽ हइ।"
+    }
+  ],
+  "translation": "भाग्यवान ऊ जनता जेकरा लगी अइसने होवऽ हइ; भाग्यवान ऊ जनता जेकर एलोहीम यहवे हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3e0dcfb568793e949bdb571c328b6d9a5f89ea236eb5c03864de3675fc26fbf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/144\/14-15.1792012124577.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "भाग्यवान"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ऊ जनता"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "अइसने"
+    },
+    {
+      "surface": "לו",
+      "gloss": "जेकरा लगी"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "भाग्यवान"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ऊ जनता"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "जेकर एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:44.578371706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मुकुट",
+      "rationale": "נזר 'अलग रखल चीज' — इहाँ पगड़ी पर बाँधल पवित्तर पट्टी; 'मुकुट' आभास देवऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "अभिषेक के क्रिया-विधि के आदेस, प्रत्यक्ष सम्बोधन।"
+    }
+  ],
+  "translation": "आउ तूँ पगड़ी ओकर मूड़ी पर रखबइ, आउ ⟨את⟩ पवित्तर-मुकुट पगड़ी पर रखबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e0b179099b0afd145625d1f19bd8acc874ef4663746197638099005a56b00c0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/29\/5-8.1791988973358.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "आउ तूँ रखबइ"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "पगड़ी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ओकर मूड़ी"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "आउ रखबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पवित्तर-मुकुट"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "मुकुट"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "पगड़ी"
+    }
+  ],
+  "timestamp": "2026-10-14T14:42:53.359486648Z",
+  "model": "glm-5.3"
+}

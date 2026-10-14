@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חרבות",
+      "rationale": "Hebrew says 'swords ARE its teeth' (no 'like'); the metaphor kept as blunt predication, no 'सन' inserted."
+    }
+  ],
+  "translation": "कोनो दोर — ओकर दाँत तलवार हथिन, आउ ओकर जबड़ा के दाँत छुरी, कि गरीब लोग के धरती से खाए आउ कंगाल लोग के मनुस में से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f9cc896ce6865786110cb870fda9604836210d20694390a2de1670ed68190b5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/30\/13-16.1792007057515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "दोर"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ओकर दाँत"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "आउ छुरी"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "ओकर जबड़ा के दाँत"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "कि खाए"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "गरीब लोग के"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "आउ कंगाल लोग के"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "मनुस में से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:44:17.516145380Z",
+  "model": "glm-5.3"
+}

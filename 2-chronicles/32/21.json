@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 32:21",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एक",
+      "rationale": "मगही के “एक दूत” बनावट बर; इब्रानी में ⟨את⟩-रहित नग्न संज्ञा हकइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ומיציאו מעיו",
+      "rationale": "शाब्दिक “ओकर पेट से निकलल लोग” — मतलब ओकर अपन बेटा; शाब्दिक रूप रखल गेलइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "מלאך",
+      "rationale": "दूत (भेजल) — फरिस्ता नञ, अनुसासन के नियम मोताबिक"
+    }
+  ],
+  "translation": "आउ यहवे ⟨एक⟩ दूत भेजलन, जे अस्सूर (असीरिया) के राजा के डेरा में हर बलवान योद्धा आउ सेनापति आउ सरदार के मेट देलन; आउ ऊ लजाइत मुँह ले अपन धरती के लौटलन, आउ अपन देवता के घर में गेलन, आउ ओकर पेट से निकलल लोग ओहीं ओकरा तलवार से गिरा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0463af79aa435a9e2b448e72ccd393a05253a49dc3163bd4ee36e3865a3d37b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/32\/21-24.1792011359024.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "ויכחד",
+      "gloss": "मेट देलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "योद्धा"
+    },
+    {
+      "surface": "ונגיד",
+      "gloss": "सेनापति"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "डेरा में"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "लौटलन"
+    },
+    {
+      "surface": "בבשת",
+      "gloss": "लजाइत"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "अपन धरती के"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ओकर देवता के"
+    },
+    {
+      "surface": "ומיציאו",
+      "gloss": "आउ ओकर पेट से निकलल लोग"
+    },
+    {
+      "surface": "מעיו",
+      "gloss": "पेट से निकलल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहीं"
+    },
+    {
+      "surface": "הפילהו",
+      "gloss": "ओकरा गिरा देलन"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवार से"
+    }
+  ],
+  "timestamp": "2026-10-14T20:55:59.025316363Z",
+  "model": "glm-5.3"
+}

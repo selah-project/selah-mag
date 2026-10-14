@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "वंसावली",
+      "rationale": "केहात के बंस के नाम-सूची।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בני קהת",
+      "rationale": "सिरलेख — केहात के बेटा सब के सूची के सुरुआत।"
+    }
+  ],
+  "translation": "केहात के बेटा सब: अम्मीनादब ओकर बेटा, कोरख ओकर बेटा, अस्सीर ओकर बेटा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "10aac1723f4d9e0a427c7e4201a213fa16073862107ee24b674cfdfecc04ddc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/6\/6-7.1792012214799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सब"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "केहात"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "अम्मीनादब"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरख"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "अस्सीर"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-10-14T21:10:14.800138434Z",
+  "model": "glm-5.3"
+}

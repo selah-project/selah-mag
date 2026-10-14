@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ऊ⟩",
+      "rationale": "किरिया हצילנी के करता इब्रानी में नाम-लिकलल नञ हइ; संदर्भ के यहवे ब्रजेट में धरावल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ראתה עיני",
+      "rationale": "केजेवी\/एएसवी 'अपन इच्छा के देखलन' जोड़ऽ हइ; मूलपाठ खाली 'देखलन' कहऽ हइ — हमनी मूल के रखलिए"
+    }
+  ],
+  "translation": "काहे कि ⟨ऊ⟩ हमरा सब दुक्ख से छुड़ा देलन, आउ हमर आँखी हमर दुसमन के ऊपर देखलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "826d8d16dd036ec13b32673ff7576212e0192b305b959f59d0736afb05f11d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/54\/9-9.1792005123627.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब से"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "दुक्ख"
+    },
+    {
+      "surface": "הציײני",
+      "gloss": "हमरा छुड़ा देलन"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "आउ हमर दुसमन के ऊपर"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "हमर आँखी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:03.627925789Z",
+  "model": "glm-5.3"
+}

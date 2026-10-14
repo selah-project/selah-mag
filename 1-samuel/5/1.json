@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבן העזר",
+      "rationale": "जगह के नाम 'सहायता के पत्थल' के अरथ देल गेल कोस्ठक में; नाम नामे रहल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ले",
+      "rationale": "इब्रानी के दिसा-चिन्हा אשדודה के छोड़ मगही के 'ले' जोड़ल गेल।"
+    }
+  ],
+  "translation": "आउ पलिश्ती ⟨את⟩ एलोहीम के सन्दूक लेलन, आउ ओकरा एवेन-हा-एजेर (सहायता के पत्थल) से असदोद (अजदोद) ले अइलन देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/5\/1-4.1791994969257.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "आउ पलिश्ती"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलोहीम के सन्दूक"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "अइलन देलन"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "एवेन… से"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "…हा-एजेर"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "असदोद ले"
+    }
+  ],
+  "timestamp": "2026-10-14T16:22:49.257988404Z",
+  "model": "glm-5.3"
+}

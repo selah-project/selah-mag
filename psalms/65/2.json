@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דמיה תהלה",
+      "rationale": "'चुप्पे में परसना' — मतलब परसना चुप्पे के बाट जोहऽ हइ (KJV 'waiteth') चाहे चुप्पे हमेसा परसना हकइ (यल्त 'silence-praise')।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के बाक्य बर जोड़ल गेल।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "जियोन के परसना",
+      "rationale": "एलोहीम के सीधा सम्बोधन — हे एलोहीम।"
+    }
+  ],
+  "translation": "तोहरा बर चुप्पे में ⟨हकइ⟩ परसना, हे एलोहीम, जियोन में; आउ तोहरा बर मानत पूरा होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/65\/1-4.1792005267879.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "तोहरा बर"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "चुप्पे में"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "परसना"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "जियोन में"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "आउ तोहरा बर"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "पूरा होतइ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "मानत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:27.879943065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 17:29",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "शहद",
+      "rationale": "דבש मधु\/सिरप दुनो होवऽ हइ; शहद जादे सुभाविक मगही रूप हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "जंगल",
+      "rationale": "מדבर चरागाह-बन\/सुनसान जगह हकइ; जंगल निकटतम मगही सब्द"
+    },
+    {
+      "kind": "elision",
+      "subject": "העם नञ दोहरावल",
+      "rationale": "कहने वाला कोनो हउ, हिन्दी-मगही बाक्य में करता दोहरावल नञ जा हइ"
+    }
+  ],
+  "translation": "आउ शहद आउ दही आउ भेड़ आउ गाय के चीज़ दाविद आउ ओकरे संग ⟨את⟩ लोग बर परोसलन खाय बर, काहे कि ओनी कहलन: लोग जंगल में भूखल आउ थकल आउ तिहारल हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ad80ee17e5ed0af436d794e08767f346f10d018b304876747af69c815cd1646b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/17\/29-29.1791996224470.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבש",
+      "gloss": "आउ शहद"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "आउ दही"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "आउ भेड़"
+    },
+    {
+      "surface": "ושפות",
+      "gloss": "आउ चीज़"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाय के"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "परोसलन"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद बर"
+    },
+    {
+      "surface": "ולעם",
+      "gloss": "आउ लोग बर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ओकरे संग ⟨את⟩",
+      "marks": "लोग"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "खाय बर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ओनी कहलन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "भूखल"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "आउ थकल"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "आउ तिहारल"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:43:44.470752969Z",
+  "model": "glm-5.3"
+}

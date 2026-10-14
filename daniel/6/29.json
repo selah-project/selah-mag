@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "daniel 6:29",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "सफल भेलन",
+      "rationale": "הצלח 'आगू बढ़ल \/ सफल होल' — मगही में एके क्रिया-रूप लेल गेल"
+    },
+    {
+      "kind": "elision",
+      "subject": "דנה",
+      "rationale": "अरमाईक द्योतक 'ई' — दानियेल के चिन्हित करऽ हइ, पाछे मिला देल गेल"
+    }
+  ],
+  "translation": "आउ ई दानियेल दार्यावेश के राज में आउ फारसी के कोरेश के राज में सफल भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b054f23f9e9d4e3194879960aa2aa5e85ce1a1a9f1ec7d93814f237e80502d40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/6\/29-29.1792012131812.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודניאל",
+      "gloss": "आउ दानियेल"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "सफल भेलन"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "राज में"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "दार्यावेश"
+    },
+    {
+      "surface": "ובמלכות",
+      "gloss": "आउ राज में"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "कोरेश"
+    },
+    {
+      "surface": "פרסיא",
+      "gloss": "फारसी"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:51.813169283Z",
+  "model": "glm-5.3"
+}

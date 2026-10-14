@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 2:4",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דרך",
+      "rationale": "शाब्दिक 'रौंदे\/दाबे' — धनुक चढ़ावे बर गोड़ से दबावे के क्रिया; 'ताने' ऊहे काम के सुभाविक रूप हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "करता सर्बनाम — इब्रानी क्रिया-रूप में पहिले से भीतर हकइ, मगही बाक्य बर बाहर निकारल गेलन।"
+    },
+    {
+      "kind": "you",
+      "subject": "अनुमानित पढ़निहार",
+      "rationale": "पूरा अध्याय विलाप के सीधा बोल हकइ — पढ़निहार के हिरदय पर गढ़ल गेल प्रसंग।"
+    }
+  ],
+  "translation": "ऊ दुस्मन जइसन अपन धनुक पर तान लेलन, विरोधी जइसन अपन दहिन्ना हाथ तान के ठाढ़ हो गेलन, आउ सियोन के बेटी के तम्बू में आँख के सब प्यार चीज के मार देलन — आग जइसन अपन क्रोध उड़ेल देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4021fe51af953ffa93d017a256291638f701a29cd755eb0b387b1c2559deba96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/2\/1-4.1792008283874.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "तान लेलन"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "अपन धनुक पर"
+    },
+    {
+      "surface": "כאויב",
+      "gloss": "दुस्मन जइसन"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ठाढ़ हो गेलन"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "अपन दहिन्ना हाथ"
+    },
+    {
+      "surface": "כצר",
+      "gloss": "विरोधी जइसन"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "मार देलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "प्यार चीज"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख के"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "तम्बू में"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी के"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "सियोन के"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "उड़ेल देलन"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "आग जइसन"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "अपन क्रोध"
+    }
+  ],
+  "timestamp": "2026-10-14T20:04:43.876363427Z",
+  "model": "glm-5.3"
+}

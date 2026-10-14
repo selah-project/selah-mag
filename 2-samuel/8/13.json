@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ארם",
+      "rationale": "समानान्तर पद (भजा 60 के शीर्सक) आउ BSB एहे घटना के एदोम से जोड़ऽ हइ; इब्रानी पाठ अराम कहऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जब",
+      "rationale": "बशबो के अरथ वाक्य-बनावट में खुले नञ, त जोड़ल गेल।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "अठारह हजार",
+      "rationale": "मारल गिनती के अंक।"
+    }
+  ],
+  "translation": "आउ दाविद (दऊद) नाम बनइलन जब ऊ अराम के मारे के बाद लवटलन — नमक के घाटी में ⟨את⟩ अराम के मारलन — अठारह हजार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2aaccc21eceeb9b75630fb673a1059499f8ac5adfb415142ac5ec3ef5657177f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/8\/13-16.1791995941511.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद (दऊद)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "जब ऊ लवटलन"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "के मारे के बाद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अराम"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "घाटी में"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "नमक"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-10-14T16:39:01.511625814Z",
+  "model": "glm-5.3"
+}

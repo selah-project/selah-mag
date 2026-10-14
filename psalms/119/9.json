@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "प्रस्न",
+      "rationale": "पद पढ़निहार के सोधऽ हइ — कइसे?"
+    },
+    {
+      "kind": "crux",
+      "subject": "נער",
+      "rationale": "बुतरू (जवान लड़का) बनाम सामान्य 'मनुस' पढ़ाव"
+    }
+  ],
+  "translation": "कइसे एक बुतरू ⟨את⟩ आपन डहर के निकोल रखतइ? — तोहर बचन के मोताबिक ओकर रखवारी करै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/9-12.1792006087116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "कइसे"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "निकोल रखतइ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "बुतरू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन डहर"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "आपन डहर"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "रखवारी करै"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "तोहर बचन के मोताबिक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:07.116563285Z",
+  "model": "glm-5.3"
+}

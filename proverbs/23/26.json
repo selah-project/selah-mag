@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "बेटा के बुलावा",
+      "rationale": "‘दे’ — सीधा आदेस, बेटा के हिरदय माँगल जा हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "बेटा के सम्बोधन",
+      "rationale": "‘हमर बेटा’ — पिता के बोली अनुसार, बुद्धि के साहित्य के ठेठ सम्बोधन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תרצנה",
+      "rationale": "रासा = राजी होना; ‘पसंद करना’ काफी नजदीक हकइ, बाकि ‘राजी होतथिन’ दुसरा पढ़ाई।"
+    }
+  ],
+  "translation": "दे, हमर बेटा, तोहर हिरदय हमरा, आउ तोहर आँखि हमर रस्ता पसंद करतथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "929f07695fdc1a7ff9bd5989217ce13ede2cbd66efb7f9290379a5ee38dd539a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/23\/25-28.1792006902547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "दे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमर बेटा"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तोहर हिरदय"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "आउ तोहर आँखि"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "हमर रस्ता"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "पसंद करतथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:41:42.547985181Z",
+  "model": "glm-5.3"
+}

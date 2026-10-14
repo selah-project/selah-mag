@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישא רגליו",
+      "rationale": "'आपन गोड़ उठलक' — गमन के इब्रानी मुहावरा, जस के तस रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קדם",
+      "rationale": "'पूरुब' — मूल अरथ 'सामने \/ पूरुब दिस', दिसा के सब्द जाति बन गेल"
+    }
+  ],
+  "translation": "आउ याकोव आपन गोड़ उठलक आउ कदेम-के-बेटा के धरती दने चल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "88cdc77a943aa860db681d237a37805e37f2daf1409a330cff71fac38c087f2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/29\/1-4.1791987154676.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "उठलक"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "आपन गोड़"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "चल गेलन"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरती दने"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "कदेम (पूरुब)"
+    }
+  ],
+  "timestamp": "2026-10-14T14:12:34.677354754Z",
+  "model": "glm-5.3"
+}

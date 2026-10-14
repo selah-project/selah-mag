@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 68:28",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רדם",
+      "rationale": "'ओकरा दबावै\/रगड़ै' (रदह, दबाना) बनाम 'ओकनी के शासक' (रד, शासक) — KJV 'with their ruler' बनाम JPS 'ruling them'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רגמתם",
+      "rationale": "रिगमा — पत्थर के ढेर \/ भीड़; तनाख़ में कोनो कोनो जगह नञ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "गोत्र-सूची",
+      "rationale": "चार गोत्र के नाम गिनावल गेलइ — जुलूस के गठन"
+    }
+  ],
+  "translation": "उहाँ छोटका बिन्यामिन ओकरा रगड़ैत रहलन; यहूदा के सरदार ओकनी के पत्थल-ढेर, जबूलून के सरदार, नफताली के सरदार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "878aa51ab572d46cceb596ce03d50db2dcd9b38baaf888bc7f3c13a3af19e050",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/68\/25-28.1792005365835.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामिन"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "छोटका"
+    },
+    {
+      "surface": "רדם",
+      "gloss": "ओकरा रगड़ैत रहलन"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "רגמתם",
+      "gloss": "ओकनी के पत्थल-ढेर"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "जबूलून के"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफताली के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:05.836558998Z",
+  "model": "glm-5.3"
+}

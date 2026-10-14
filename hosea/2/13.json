@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 2:13",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "शब्बात",
+      "rationale": "שבת इब्रानी-निस्ठ रूप में पिन करल गेलइ; सामान्य 'अराम के दिन' नञ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "नव-चान",
+      "rationale": "חדש चान के नव-चान — महीना के सुरुआत के दिन, महीना नञ।"
+    }
+  ],
+  "translation": "आउ हम ओकर सब खुसी बन्द करबइ — ओकर परब, ओकर नव-चान, ओकर शब्बात आउ ओकर सब नियत समय।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8409e26cb5687f7845a7be93c8657ef5993e23252f2ca8236104b7bd69a42b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/2\/13-16.1792003225967.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "आउ हम बन्द करबइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משושה",
+      "gloss": "खुसी"
+    },
+    {
+      "surface": "חגה",
+      "gloss": "परब"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "नव-चान"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "शब्बात"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "מועדה",
+      "gloss": "नियत समय"
+    }
+  ],
+  "timestamp": "2026-10-14T18:40:25.968577436Z",
+  "model": "glm-5.3"
+}

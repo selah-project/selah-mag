@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בנו",
+      "rationale": "यहाँ 'begat' नञ — जेपीएस के तरह साँसल वंसावली 'ओकर बेटा', 'जनलन' के बदला।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "वंसावली",
+      "rationale": "नाम के सूची — लेवी के बंस के गिनती।"
+    }
+  ],
+  "translation": "योआख ओकर बेटा, इद्दो ओकर बेटा, जेरख ओकर बेटा, यिआतराय ओकर बेटा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "10aac1723f4d9e0a427c7e4201a213fa16073862107ee24b674cfdfecc04ddc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/6\/6-7.1792012214799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "योआख"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "इद्दो"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेरख"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "यिआतराय"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-10-14T21:10:14.799974922Z",
+  "model": "glm-5.3"
+}

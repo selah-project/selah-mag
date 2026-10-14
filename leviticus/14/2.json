@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 14:2",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "कोढ़ी",
+      "rationale": "המצרע बिमारी से मारल आदमी हकइ; ‘कोढ़ी’ चलनसार नजिक के रूप"
+    },
+    {
+      "kind": "elision",
+      "subject": "तोरा",
+      "rationale": "תורה के ‘बिधान’ नञ — थिर रूप ‘तोरा’ रखल गेल"
+    }
+  ],
+  "translation": "ई होतइ तोरा कोढ़ी के बर, ओकर शुद्ध होवे के दिने — ओकरा पुरोहित के ले अनाओल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "29ea0b6cc3e237a0c5c80aeead6d0d66e658116bace6411366c1a37b165328d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/14\/1-4.1791989870068.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "המצרע",
+      "gloss": "कोढ़ी के बर"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिने"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ओकर शुद्ध होवे के"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "अनाओल जातइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ले"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    }
+  ],
+  "timestamp": "2026-10-14T14:57:50.068908099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 1:11",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמדתו",
+      "rationale": "'his\/its standing(-place)': KJV 'his standing' (the foe takes a stand from you) vs JPS 'its standing-place' (Beth-ezel's support removed); support read here."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צאנן\/יצאה",
+      "rationale": "town name Zaanan puns on יצאה 'goes out' — 'Zaanan's people do not go out'; lost in Magahi."
+    },
+    {
+      "kind": "you",
+      "subject": "to Shaphir and Zaanan",
+      "rationale": "direct second-person address to the towns' inhabitants."
+    }
+  ],
+  "translation": "हे शाफिर में बसल, पार जाऊ तोहनी नाङा-लज्जा संग; जानान के बासिन्दा बाहर नञ अइलक; बेत-हाएत्सेल के विलाप तोहनी से ओकर टिकाव लेतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/1\/9-12.1792003691503.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "पार जा"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "बासिन्दा"
+    },
+    {
+      "surface": "שפיר",
+      "gloss": "शाफिर"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "नाङा"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "लज्जा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יוצאה",
+      "gloss": "बाहर अइलक"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "बासिन्दा"
+    },
+    {
+      "surface": "צאנן",
+      "gloss": "जानान"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "विलाप"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "האצל",
+      "gloss": "हाएत्सेल"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "लेतइ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "तोहनी से"
+    },
+    {
+      "surface": "עמדתו",
+      "gloss": "ओकर टिकाव"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:11.504582040Z",
+  "model": "glm-5.3"
+}

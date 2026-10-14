@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כחוללים",
+      "rationale": "गाछ नचइया बनाम बाजा बजावै वाला (KJV 'players on instruments') — जड़ חול नाच\/बाजा दुनों होवऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨कहतइ⟩",
+      "rationale": "इब्रानी में क्रिया नञ — 'हमरा सब झरना तोहरा में हई' के बोलै वाला गवइया हथिन।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहरा में",
+      "rationale": "त्सियोन के सीधा सम्बोधन — गीत के बोल।"
+    }
+  ],
+  "translation": "आउ गवइया नचइया जइसन ⟨कहतइ⟩ — हमरा सब झरना तोहरा में हई।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/87\/5-7.1792005623787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "आउ गवइया"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "नचइया जइसन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מעעיני",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:20:23.788676450Z",
+  "model": "glm-5.3"
+}

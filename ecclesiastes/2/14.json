@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया-सम्बन्ध नञ हकइ; मगही के ⟨हकइ⟩ जोड़ल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקרה\/יקרה",
+      "rationale": "एके जड़ दू बेर — 'घटना घटित होतइ' में जड़ के आवाज रक्खल गेलइ।"
+    }
+  ],
+  "translation": "होशियार के आँखी ओकर मूड़ी में ⟨हकइ⟩, आउ मूर्ख अन्हार में चलऽ हइ; आउ हमो जानलियन कि एक घटना ⟨את⟩ ओकनी सब के संग घटित होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "80412e64eaa0814d410647e55b2f727041e35597ab6af455a2f3d881d43b22c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/2\/13-16.1792008408549.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "होशियार"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ओकर आँखी"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ओकर मूड़ी में"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "आउ मूर्ख"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "अन्हार में"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "चलऽ हइ"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "आउ जानलियन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ओहो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "कि घटना"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "घटित होतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी सब"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ओकनी सब"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:48.551016303Z",
+  "model": "glm-5.3"
+}

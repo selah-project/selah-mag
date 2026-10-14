@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חטא",
+      "rationale": "एके जड़ चार बेर — गिनती-बिनती चार रूप (संज्ञा ×2, कर्म, कारक-क्रिया) — मगही में केवल अरथ बचल, पुनरावृत्ति के ताल नञ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बेकार चीजन",
+      "rationale": "הבליהם के अरथ 'व्यर्थ चीज' (मूरत बिना स्पष्ट कहल) — 'हभाल' के छवि बेकार\/धुँधला हकइ।"
+    }
+  ],
+  "translation": "बासा के सब पाप आउ ओकर बेटा एला के पाप के बर, जे ओकनी कइलन, आउ जेकरा से ओकनी ⟨את⟩ यिस्राएल के पाप करा देलन — यिस्राएल के एलोहीम यहवे के ⟨את⟩ अपन बेकार चीजन से कोपित करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "02bdaab2e11b56cc7c8d4a928e26b0c8891045fb69772f50ca88f47af0532f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/16\/13-16.1791997395040.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "के बर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "बासा"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "आउ पाप"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एला"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आउ जेकरा से"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "पाप करा देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "कोपित करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "अपन बेकार चीजन से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:03:15.041473625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 3:10",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "על ידי",
+      "rationale": "साफ अरथ 'के हाथ पर' हकइ — दाविद के बतावल चाल पर, 'के मोताबिक' रूपरेखा हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जब…तब",
+      "rationale": "हिब्रू वव-क्रमागत बनावट के समय-बाक्य बनावै बर मगही में जोड़ल गेलै।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "היכל",
+      "rationale": "महल\/देवालय — एजरा के घराना के बाकी पदावली से अलग शब्द हकइ।"
+    }
+  ],
+  "translation": "आउ जब बनइवइया लोग ⟨את⟩ यहवे के महल के निंही रखलन, तब पुरोहित लोग कपड़ा पहिराइ के बिगुल लेके ठाढ़ कराएलन आउ लेवी के लोग, असाफ के बेटा, मजीरा लेके, दाविद, यिस्राएल के राजा, के हाथ के मोताबिक ⟨את⟩ यहवे के सराहै बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e50f29beca522b63caee52edb49c1b47981a7344cd8052f24f1d54a07be77f2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/3\/9-12.1792009325631.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסדו",
+      "gloss": "निंही रखलन"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "बनइवइया लोग"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के महल"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "महल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "ठाढ़ कराएलन"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित लोग"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "कपड़ा पहिराइ के"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "बिगुल लेके"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "आउ लेवी के लोग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "असाफ"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "मजीरा लेके"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "सराहै बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "के मोताबिक"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:22:05.632674985Z",
+  "model": "glm-5.3"
+}

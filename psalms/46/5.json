@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जगह",
+      "rationale": "कोस्ठक जोड़ल गेलइ — קדש विसेसण हकइ, संज्ञा नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "एल्योन",
+      "rationale": "עליור उपाधि हकइ — 'सबसे ऊँच' बनाम नाम 'एल एल्योन'; हमनी नाम रखनी अछि"
+    }
+  ],
+  "translation": "नदी — ओकर नाली सब एलोहीम के नगर के खुस करथिन, एल्योन के मिश्कान सब के पवित्तर ⟨जगह⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/46\/5-8.1792005083884.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "ओकर नाली सब"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "खुस करथिन"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "मिश्कान सब के"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:23.885204707Z",
+  "model": "glm-5.3"
+}

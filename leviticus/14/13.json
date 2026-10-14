@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩",
+      "rationale": "अन्तिम होव बर मगही किरिया चाही जे इब्रानी के होम होम में सीधे नञ देतइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "पवित्तर-पवित्तर — इब्रानी के दोहराव वाला अभिब्यक्ति, अनुवाद में जोड़ से रखलइ"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ मेमना के ओही जगह वध करतन जहाँ ऊ ⟨את⟩ पाप-बलि आउ ⟨את⟩ होम-बलि के वध करऽ हकइ — पवित्तर जगह में; काहे कि जइसन पाप-बलि, अपराध-बलि भी पुरोहित के हक हकइ — पवित्तर-पवित्तर ऊ ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b11f18e47f81d439321057a275afa8702d4cc7dcb1e6b20a022b0b2d8181d049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/14\/13-16.1791989915013.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "आउ ऊ वध करतन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेमना"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "जगह में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "वध करऽ हकइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पाप-बलि"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "पाप-बलि"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "होम-बलि"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "होम-बलि"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "जगह में"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "जइसन पाप-बलि"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "अपराध-बलि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "भी"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "पुरोहित के"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "पवित्तर-पवित्तर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:58:35.013706111Z",
+  "model": "glm-5.3"
+}

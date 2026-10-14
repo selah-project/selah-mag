@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "infinitive 'to say' after a speech verb has no separate Magahi slot; rendered as the supplied connector ⟨कि⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Moses addresses all Israel directly across these verses"
+    }
+  ],
+  "translation": "आउ हम ओही समय में तोहनी सब के कहलिअन ⟨कि⟩ — हम एक्ले ⟨आपने⟩ तोहनी सब ⟨את⟩ नञ उठाइ सकऽ हँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/1\/9-12.1791991917366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आउ हम कहलिअन"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "तोहनी सब के"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨कि⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "सकऽ हँ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "एक्ले"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "उठाइ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी सब"
+    }
+  ],
+  "timestamp": "2026-10-14T15:31:57.366472727Z",
+  "model": "glm-5.3"
+}

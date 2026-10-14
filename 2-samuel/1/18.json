@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 1:18",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קשת",
+      "rationale": "धनुस: 'धनुस चलाना सिखाना' बनाम 'धनुस' (विलाप के नाम) — KJV 'use of the bow' बनाम JPS 'song of the bow'"
+    },
+    {
+      "kind": "crux",
+      "subject": "הישר",
+      "rationale": "यासर के किताब: 'सीधे लोग के किताब' बनाम नाम 'यासर'"
+    }
+  ],
+  "translation": "आउ कहलन जे यहूदा के बेटाके धनुस चलाना सिखावऽ हइ; देखऽ, ई यासर के किताब में लिखल हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "845876f381a87efc6f2700bd4bdf2403f0e678f7fb4045ee817a1158b244f83f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/1\/17-20.1791995817674.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "सिखावऽ हइ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटाके"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "धनुस"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "लिखल हइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "में"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "किताब"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "यासर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:36:57.674902753Z",
+  "model": "glm-5.3"
+}

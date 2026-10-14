@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השמרים \/ שמרי החומות",
+      "rationale": "שמר जड़ के दोहराव — पहरेदार आउ दीवार के पहरेदार — रखवारी के शब्द ही पिटाई के करता बनितहइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רדיד",
+      "rationale": "घूंघट बर रार सब्द, तनाख़ में खाली इहेइ एक बेर।"
+    }
+  ],
+  "translation": "नगर में फिरैत पहरेदार हमरा मिललन; ओकनी हमरा मारलन, ओकनी हमरा घायल कइलन; दीवार के पहरेदार ⟨את⟩ हमर घूंघट हमरासे उठाइ लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b4111710938a3607345c034ee20276c6407f36ae66f274aae2594f83da376343",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/5\/5-8.1792008034408.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "हमरा मिललन"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "पहरेदार"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "फिरैत"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "हमरा मारलन"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "हमरा घायल कइलन"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "उठाइ लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर घूंघट"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "हमर घूंघट"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "हमरासे"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "पहरेदार"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "दीवार के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:00:34.409267942Z",
+  "model": "glm-5.3"
+}

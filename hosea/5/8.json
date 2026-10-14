@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "तोहनी सब के ललकार",
+      "rationale": "तीन आज्ञा-रूप (फूँक मारऽ, बजावऽ, ललकारऽ) — युद्ध के संकेत, पढ़निहार के सीधे बुलावा।"
+    },
+    {
+      "kind": "you",
+      "subject": "बिन्यामीन",
+      "rationale": "जाति के सीधा सम्बोधन — 'तोहर पाछे, हे बिन्यामीन!'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחריך",
+      "rationale": "'तोहर पाछे' (behind thee, KJV\/JPS) बनाम 'आगे बढ़ऽ' (lead on, BSB) — कठिन जगह; सुभाविक अरथ 'पाछे' हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בית און",
+      "rationale": "'अवन-घर' — बेतएल के व्यंग्यात्मक नाम (अवन = अधरम\/मूर्ति), नाम में ही ताना हकइ।"
+    }
+  ],
+  "translation": "गिबआ में सिंगहा पर फूँक मारऽ, रामा में तुरही बजावऽ; बेत-आवेन में ललकारऽ — तोहर पाछे, हे बिन्यामीन!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/5\/5-8.1792003203721.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "फूँक मारऽ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "सिंगहा"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "गिबआ में"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "तुरही"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "रामा में"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ललकारऽ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत-"
+    },
+    {
+      "surface": "און",
+      "gloss": "आवेन में"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "तोहर पाछे"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "हे बिन्यामीन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:40:03.722782867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "हिरदय के घेरा-छाल काटना",
+      "rationale": "מול את ערלת לבבכם — शारीरिक सुन्नत के भाव के रूपक; शब्दशः रखल गेल, अरथ हिरदय के जिद काटना।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Israel",
+      "rationale": "बिधान-आज्ञा — पहिलौका सुनैत के सीधे आदेश।"
+    }
+  ],
+  "translation": "आउ तोहनी के हिरदय के घेरा-छाल ⟨את⟩ काटु, आउ तोहनी के गर्दन आगू नञ अड़ाबु।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "32f896c69cffcd09c14dbd825904cfcf2c6fbe5963b6e54df807c7bb4e7242c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/10\/13-16.1791992218428.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "आउ काटु"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हिरदय के घेरा-छाल"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "घेरा-छाल"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "तोहनी के हिरदय"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "आउ तोहनी के गर्दन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "अड़ाबु"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगू"
+    }
+  ],
+  "timestamp": "2026-10-14T15:36:58.429289866Z",
+  "model": "glm-5.3"
+}

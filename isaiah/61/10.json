@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 61:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש is life-force\/throat, 'परान' carries breath-life, not 'आत्मा' as a separate essence"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוש אשיש",
+      "rationale": "infinitive absolute doubling of שוׂשׂ — 'rejoicing I will rejoice', intensity doubling, kept with two magahi joy verbs"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכהן",
+      "rationale": "'decketh himself as a priest' (JPS) vs plain 'with ornaments' (KJV); כהן suggests priestly regalia — the bridegroom wears priestly headgear"
+    }
+  ],
+  "translation": "हम यहवे में खूब खुसियाबऽ हइ — बड़ खुस होवऽ हइ — हमर परान हमर एलोहीम में खुसियातइ, काहे कि ऊ हमनी के उद्धार के कपड़ा पहिरौलन हकइ, त्सेदेक के चोगा ओ हमनी के ओढ़ौलन हकइ — जइसन दूल्हा पुरोहित नइसन सिर के गहना पहिरऽ हइ, आउ जइसन दुलहिन अपन गहना सजावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7a104d5c86237462b6d74ce6ed7915e89258ee8965e91513f8557b004896dea1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/61\/9-11.1791999865003.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוש",
+      "gloss": "खूब खुसियाबऽ हइ"
+    },
+    {
+      "surface": "אשיש",
+      "gloss": "बड़ खुस होवऽ हइ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे में"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "खुसियातइ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "हमर एलोहीम में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הלבישני",
+      "gloss": "पहिरौलन हकइ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "उद्धार"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "चोगा"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "त्सेदेक"
+    },
+    {
+      "surface": "יעטני",
+      "gloss": "ओढ़ौलन हकइ"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "जइसन दूल्हा"
+    },
+    {
+      "surface": "יכהן",
+      "gloss": "पुरोहित नइसन"
+    },
+    {
+      "surface": "פאר",
+      "gloss": "सिर के गहना"
+    },
+    {
+      "surface": "וככלה",
+      "gloss": "आउ जइसन दुलहिन"
+    },
+    {
+      "surface": "תעדה",
+      "gloss": "सजावऽ हइ"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "अपन गहना"
+    }
+  ],
+  "timestamp": "2026-10-14T17:44:25.004594434Z",
+  "model": "glm-5.3"
+}

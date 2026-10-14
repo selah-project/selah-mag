@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 1:13",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לבמה",
+      "rationale": "ऊँच जगह — 'बामा' पहिला-पाठ के पढ़निहार बर पूजा के ऊँच ठिकाना हलइ, इहाँ ले जाएल गेल अरथ साफ रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מלפני",
+      "rationale": "मूल 'मुँह के' — भाग-लेव के अरथ में 'के आगे से' धरल"
+    }
+  ],
+  "translation": "आउ शलोमो गिबओन में जे ऊँच जगह हलइ ओकरा छोड़िके, मिलन के तम्बू के आगे से यरूशलयिम (यरूशलेम) अइलन, आउ ऊ यिस्राएल (इस्राएल) पर राज करलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b522cde81c7d4a1fae2e0916c314ca6b3c0a090920620ba3779150bcae1ea46d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/1\/13-16.1792010554300.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो"
+    },
+    {
+      "surface": "לבמה",
+      "gloss": "ऊँच जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "गिबओन में"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के आगे से"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राज करलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:42:34.301316203Z",
+  "model": "glm-5.3"
+}

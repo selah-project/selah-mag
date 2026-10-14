@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השמינית",
+      "rationale": "'अठ्ठार-तार' बनाम 'आठवाँ सुर' — अरथ अनिश्चित हकइ, साज के नाम मानल गेलइ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "(दाऊद)",
+      "rationale": "पहिला आगमन पर चलनसार रूप कोस्ठक में"
+    }
+  ],
+  "translation": "मुखिया बर, अठ्ठार-तार के ऊपर, दाविद (दाऊद) के जजीरा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "af181a9c7589d9413926546bc65c6c541f32605c19b46848134afce61f4b5d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/12\/1-4.1792004513776.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया बर"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "अठ्ठार-तार"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "जजीरा"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:01:53.777416001Z",
+  "model": "glm-5.3"
+}

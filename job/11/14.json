@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 11:14",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "in thine hand",
+      "rationale": "בידך idiom for 'in your power\/possession', rendered literally"
+    },
+    {
+      "kind": "you",
+      "subject": "to Job",
+      "rationale": "continued direct address"
+    },
+    {
+      "kind": "invitation",
+      "subject": "put it far away",
+      "rationale": "imperatives urging Job to act"
+    }
+  ],
+  "translation": "अगर तोहर हाथ में पाप हकइ, ओकरा बहुते दूर कर दे, आउ अन्याय के तोहर तम्बू में रहै नञ दे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d9453ead6ef740f73e4b92ce97314adf1b44821849d067b7723c3fe54dbce252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/11\/13-16.1792007325412.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "און",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "तोहर हाथ में"
+    },
+    {
+      "surface": "הרחיקהו",
+      "gloss": "ओकरा बहुते दूर कर दे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ … नञ"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "रहै दे"
+    },
+    {
+      "surface": "באהליך",
+      "gloss": "तोहर तम्बू में"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "अन्याय"
+    }
+  ],
+  "timestamp": "2026-10-14T19:48:45.413123829Z",
+  "model": "glm-5.3"
+}

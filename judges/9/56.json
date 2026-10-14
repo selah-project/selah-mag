@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "judges 9:56",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "⟨את⟩",
+      "rationale": "दू कर्म-चिन्हा, दुनू चिन्हा-रूप में; मगही में कुछो नञ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सत्तर",
+      "rationale": "मारल गेल भाय के गिनती जस के तस"
+    }
+  ],
+  "translation": "आउ एलोहीम अविमेलेख के ⟨את⟩ बुराई ओकरा लौटा देलन, जे ऊ अपन बाप के कइलन — अपन ⟨את⟩ सत्तर भाय के मारे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "326f1e807c23d69ac53e67e63fd8f16a8e5b9ab4a1c55427f26d81330e50f155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/9\/53-56.1791994253272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "लौटा देलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अविमेलेख के बुराई"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अविमेलेख"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "अपन बाप के"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "मारे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन सत्तर भाय"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "अपन भाय"
+    }
+  ],
+  "timestamp": "2026-10-14T16:10:53.273816977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש परान\/जीवन-शक्ति हकइ; 'मन' नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to हाशातान",
+      "rationale": "यहवे हाशातान से सीधे आदेस देऽ हथिन।"
+    }
+  ],
+  "translation": "आउ यहवे हाशातान से कहलन: देख, ऊ तोहर हाथ में हइ; बाकि ओकर ⟨את⟩ परान के रखवारी कर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/2\/5-8.1792007131279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "हाशातान"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "देख, ऊ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "तोहर हाथ में हइ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परान"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ओकर परान"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "के रखवारी कर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:45:31.279934789Z",
+  "model": "glm-5.3"
+}

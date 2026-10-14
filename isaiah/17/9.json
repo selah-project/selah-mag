@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 17:9",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "האמיר",
+      "rationale": "तनाख़ में केवल एही जगह — 'चोटी' के अरथ में; अनुवादक लोग एकरा 'पहाड़ के चोटी' या 'डार' मानऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "החרש והאמיר",
+      "rationale": "KJV 'छोड़ल डार आउ चोटी'; JPS 'जंगल आउ ऊँच जंगल जइसन' — दुनू पढ़ाइ संभव हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזובת \/ עזבו",
+      "rationale": "एही जड़ (छोड़ना) दू बेर — छोड़ल जगह आउ ऊ छोड़लक — मगही में गूँज कम हो जातइ।"
+    }
+  ],
+  "translation": "उहे दिन में ओकर गढ़-नगर जंगल के छोड़ल जगह आउ चोटी जइसन होतइ — जेकरा ऊ यिस्राएल के बेटासब के सामने से छोड़लक — आउ ऊ उजाड़ बन जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "53bd39ee18239dcbb230b601ed0b7c7b6f74d41f8ade89c8b49155072f1d59bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/17\/9-12.1791998898506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "उहे दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उहे"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "מעזו",
+      "gloss": "गढ़ के"
+    },
+    {
+      "surface": "כעזובת",
+      "gloss": "जइसन छोड़ल जगह"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "जंगल के"
+    },
+    {
+      "surface": "והאמיר",
+      "gloss": "आउ चोटी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "छोड़लक"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "सामने से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटासब के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "आउ बनतइ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "उजाड़"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:18.506569355Z",
+  "model": "glm-5.3"
+}

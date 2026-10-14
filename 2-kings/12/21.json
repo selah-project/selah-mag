@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בית מלא",
+      "rationale": "मल्लो के घर — 'भरल किला' (citadel) बनाम 'मिल्लो के घर' एक जगह के नाम; नाम रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קשר",
+      "gloss": "साजिस — 'गाँठ\/बाँधल गठजोड़' के साफ अरथ बदला में लेल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "में \/ के दने",
+      "rationale": "Magahi case-markers supplied for Hebrew compound place-name structure."
+    }
+  ],
+  "translation": "आउ ओकरा नौकर उठलन आउ साजिस बाँधलन आउ ⟨את⟩ योआस के मल्लो के घर में, जे सिल्ला के दने उतरऽ हइ, मारलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c7e876170047f2b4b84e24de0d6e72cc55afb3db5c81de3a6fbc6a04f8924d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/12\/21-22.1791998020429.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ओकरा नौकर"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "बाँधलन"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "साजिस"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योआस के"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआस"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "मल्लो के"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "जे उतरऽ हइ"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "सिल्ला के दने"
+    }
+  ],
+  "timestamp": "2026-10-14T17:13:40.430012408Z",
+  "model": "glm-5.3"
+}

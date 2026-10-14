@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मिल-जुल गेलन",
+      "rationale": "विपरीत — गूंथल \/ बटा-बुटा हो गेलन (जइसन सुतारी में रेसा) — के चित्र हकइ; मिलना ओकर सुभाविक अरथ हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ जाति सब के बीच मिल-जुल गेलन, आउ ओकनी के काम सिखलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c179d12cdbea4a548ce5c5b90351e3fc273540a812a5711b98f9e1556cc463cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/106\/34-35.1792012116946.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "मिल-जुल गेलन"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जाति सब के बीच"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "सिखलन"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ओकनी के काम"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:36.947084071Z",
+  "model": "glm-5.3"
+}

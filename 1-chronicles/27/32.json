@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 27:32",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דוד",
+      "rationale": "דוד एकदम 'चाचा' भाव के बतावऽ हइ (शास्त्र-आधार जुड़ैवाला नञ), फेर भी 'परेमी' या 'प्रिय' के पाठ भी संभव हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "मगही किरिया-पूरक; इब्रानी में किरिया नञ हइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sopher",
+      "rationale": "ह सूची में अधिकारी बतावै वाला पद हो सकऽ हइ, कार्यालय के विवरण नञ"
+    }
+  ],
+  "translation": "आउ दाविद के चाचा यहोनातान सलाह देवै वाला हलन — समझदार आदमी आउ लिखै वाला ऊ हलन — आउ येहिएल बेटा हखमोनी राजा के बेटा सब के संग रहन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bdf9f2faa315aa6f91a35708069059d736d78a19b2de8ad010eee77d2de8273d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/27\/29-32.1792010527757.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהונתן",
+      "gloss": "आउ यहोनातान"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "चाचा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "सलाह देवै वाला"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "समझदार"
+    },
+    {
+      "surface": "וסופר",
+      "gloss": "आउ लिखै वाला"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "आउ येहिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חכמוני",
+      "gloss": "हखमोनी"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:42:07.758544497Z",
+  "model": "glm-5.3"
+}

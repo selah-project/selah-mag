@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "पूरा सभा के जमा",
+      "rationale": "पूरा मनुस-सभा के अभिषेक के गबाही बर बोलावल जा हइ"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ पूरा सभा के जमा कर, मिलन-तम्बू के दुआरी के पास।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "359e61bd7e59f02f881d920ce9d384266db146429ce2f0bede128791870f4375",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/8\/1-4.1791989651988.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "पूरा सभा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "जमा कर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:54:11.989879530Z",
+  "model": "glm-5.3"
+}

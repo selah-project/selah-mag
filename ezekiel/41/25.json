@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 41:25",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "करूब",
+      "rationale": "כרובים बिना परिभासा के इब्रानी नाम जस के तस लिप्यन्तरित — रूप के आकृति पाठ में नञ बतावल हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "मोट कड़ल",
+      "rationale": "עב के अरथ बिबादित: मोट लकड़ी के कड़ल (KJV\/JPS) बनाम उस्तूका (ASV threshold) बनाम छतनी (BSB canopy)।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "मन्दिर के बनावट",
+      "rationale": "ई पद यहेजकेल के मन्दिर-नाप के विवरण के अंग हकइ।"
+    }
+  ],
+  "translation": "आउ ओकरा पर मन्दिर के केवाड़ी सब पर करूब आउ ताड़-आकृति बनाएल गेलन, जइसन दीवार पर बनाएल ⟨हलइ⟩; आउ बाहर से बरामदा के सामने लकड़ी के मोट कड़ल हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e89f9fb8171a2b5c27f3df6d154d29e83855668c20ae2e59a0177ef31ce99d64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/41\/25-26.1792002882778.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשויה",
+      "gloss": "बनाएल गेलन"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "केवाड़ी सब"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "मन्दिर"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "करूब"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "आउ ताड़-आकृति"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "बनाएल"
+    },
+    {
+      "surface": "לקירות",
+      "gloss": "दीवार पर"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "आउ मोट कड़ल"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "लकड़ी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "बरामदा"
+    },
+    {
+      "surface": "מהחוץ",
+      "gloss": "बाहर से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:34:42.779308806Z",
+  "model": "glm-5.3"
+}

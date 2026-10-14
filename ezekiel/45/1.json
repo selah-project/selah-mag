@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 45:1",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "माप",
+      "rationale": "पवित्तर हिस्सा के लमाई-चौड़ाई हजार में गिनाहइ गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "अल्फ",
+      "rationale": "अनुवादक लोग अल्फ के 'हजार गोड़' (रीड) या 'हजार अम्मा' (क्यूबिट) पढ़ऽ हथिन — इब्रानी खाली संख्या देतइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בהפילכם",
+      "rationale": "'गिराबऽ' — नाँव गिरावे के चाल, 'बाँटऽ' के अरथ।"
+    }
+  ],
+  "translation": "आउ जब तोहनी धरती के ⟨את⟩ बितरना बर नाँव गिराबऽ हो, त यहवे बर तरुमा उठाबऽ — धरती में से पवित्तर हिस्सा — लमाई पाँच आउ बीस हजार लमाई, आउ चौड़ाई दस हजार; पवित्तर ऊ ⟨होतइ⟩ ओकर पूरा सीमा में चारो दने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d65889b18cd215b82206e5e6ccdedc5594f811aa9044860e1b5c2340b0ab8cb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/45\/1-4.1792003099628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהפילכם",
+      "gloss": "आउ जब तोहनी गिराबऽ हो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "बितरना बर नाँव"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "तोहनी उठाबऽ"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "तरुमा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लमाई"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आउ बीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लमाई"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आउ चौड़ाई"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ओकर सीमा"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    }
+  ],
+  "timestamp": "2026-10-14T18:38:19.628694259Z",
+  "model": "glm-5.3"
+}

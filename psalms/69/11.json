@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצום נפשי",
+      "rationale": "'ब्रत में हमर परान' — के अरथ विवादित हकइ: ब्रत के संग आत्म-संयम (KJV), या ब्रत ले परान टूटल (YLT); हम परान के ब्रत के संग जोड़ले रहलिये"
+    }
+  ],
+  "translation": "आउ हम ब्रत के समय अपन परान ले रोलियन, आउ ई हमरा बर निंदा बनल गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "deacf9bac66a1bf073997e0ba7b132c46ba3017dd3621a4741e2c45b4ae10746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/69\/9-12.1792005338846.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "आउ हम रोलियन"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "ब्रत के समय"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "अपन परान ले"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "आउ बनल गेलइ"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "निंदा"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:38.847284653Z",
+  "model": "glm-5.3"
+}

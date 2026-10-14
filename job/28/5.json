@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया-संबंध नञ हइ; दो खण्ड जोड़े बर जोड़ल गेल"
+    },
+    {
+      "kind": "mystery",
+      "subject": "धरती के नीचे के आग",
+      "rationale": "खान के रहस्य — धरती के भीतर के उलटफेर, जे कोनो आँख नञ देखऽ हइ"
+    }
+  ],
+  "translation": "धरती — ओकरा से रोटी निकरऽ हइ, आउ ओकर नीचे ⟨हकइ⟩ आग के जइसन उलटल गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8297eed3fe485dcd7ab9fa6e14f88d233b07233602ed65c18249473b8b237e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/28\/5-8.1792007592077.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकरऽ हइ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "आउ ओकर नीचे"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "उलटल गेलइ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:53:12.078444561Z",
+  "model": "glm-5.3"
+}

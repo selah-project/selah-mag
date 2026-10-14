@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 14:9",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "बोलै वाला",
+      "rationale": "एफ्रायिम खुद बोलऽ हइ आउ यहवे जवाब देथिन (KJV), नञ त पूरा पद यहवे के बोली हकइ (BSB, JPS) — एफ्रायिम सम्बोधन में हइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עניתי के अरथ",
+      "rationale": "ענה इहाँ 'जवाब देना' के अरथ में; YLT 'दुःख देलन' पढ़ऽ हइ — दू रस्ता।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "मगही क्रिया-रूप के खातिर सर्बनाम जोड़ल गेलै, इब्रानी में क्रिया-रूपे पहचान देथिन।"
+    }
+  ],
+  "translation": "एफ्रायिम — मूरत सब बर अब हमरा का बाकी हइ? हम जवाब देलन आउ ⟨ऊ⟩ ओकर देखभाल करतइ हउ; हम हरियर बड़े गाछ जइसन हइ, तोहर फल हमरे ले मिलऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2ce9cf812abc2731870860f7871dfbf41f17365849ede2823967bad4a3198f7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/14\/9-10.1792003278927.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रायिम"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अबो"
+    },
+    {
+      "surface": "לעצבים",
+      "gloss": "मूरत सब बर"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "जवाब देलन"
+    },
+    {
+      "surface": "ואשורנו",
+      "gloss": "आउ ओकर देखभाल करतइ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "כברוש",
+      "gloss": "बड़े गाछ जइसन"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "हरियर"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमरे ले"
+    },
+    {
+      "surface": "פריך",
+      "gloss": "तोहर फल"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "मिलऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:41:18.928176518Z",
+  "model": "glm-5.3"
+}

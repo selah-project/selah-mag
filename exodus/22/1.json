@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דמים",
+      "rationale": "खून-दोस: शाब्दिक 'खून'; 'खून के दोस\/बदला' बनाम खाली 'खून' — बहुबचन गम्भीरता देखावऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "במחתरת",
+      "rationale": "शाब्दिक 'तोड़लते भीतर' — भीत्ती तोड़ के घुसल के तस्वीर, 'चोरी के घटना' नञ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גנב\/גנבה",
+      "rationale": "चोर-चोरी के जड़ 22:1–3 में तीन बेर लौटऽ हइ।"
+    }
+  ],
+  "translation": "अगर दीवार-तोड़ल में चोर मिललइ आउ मारल गेलन आउ मर गेलन, ओकरा बर खून-दोस नञ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/22\/1-4.1791988743883.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "दीवार-तोड़ल में"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "मिललइ"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "चोर"
+    },
+    {
+      "surface": "והוכה",
+      "gloss": "मारल गेलन"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "मर गेलन"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा बर"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "खून-दोस"
+    }
+  ],
+  "timestamp": "2026-10-14T14:39:03.883926630Z",
+  "model": "glm-5.3"
+}

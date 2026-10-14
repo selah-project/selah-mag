@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 27:6",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השלשים … השלשים",
+      "rationale": "एके सब्द दू बेर — तीस के बीच आउ तीस के ऊपर; दोहराव के जोर मगही में बनल रहल"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हलन⟩",
+      "rationale": "इब्रानी के क्रियाहीन बाक्य में मगही क्रिया जोड़ल गेल"
+    }
+  ],
+  "translation": "ई ओहे बेनायाहू बलवान हलन, तीस के बीच आउ तीस के ऊपर; आउ ओकर महलुक्ता पर ओकर बेटा अम्मीजावद ⟨हलन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "94387d202d325cb132713675be5619be152cd2f6f8fb26669100ff5487a2df2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/27\/5-8.1792010519019.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ई ओहे"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "बेनायाहू"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "तीस के बीच"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ … के ऊपर"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "ומחלקתו",
+      "gloss": "आउ ओकर महलुक्ता"
+    },
+    {
+      "surface": "עמיזבד",
+      "gloss": "अम्मीजावद"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:41:59.020055654Z",
+  "model": "glm-5.3"
+}

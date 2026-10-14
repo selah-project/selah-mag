@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "संगीत-मुखिया",
+      "rationale": "למנצח के साफ़ अरथ के जगह काम के रूप धरल गेल — 'चमकऽ हुए दूर से अगुवा' के जगह संगीत के मुखिया"
+    }
+  ],
+  "translation": "संगीत-मुखिया बर, दाविद (दाऊद) के गीत।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/64\/1-4.1792005265244.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-मुखिया बर"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:25.245213514Z",
+  "model": "glm-5.3"
+}

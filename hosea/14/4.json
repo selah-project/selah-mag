@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 14:4",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ही⟩",
+      "rationale": "मगही के 'के\/के तौर पर' के बराबर बनावे बर जोड़ल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "देवता सब",
+      "rationale": "असुर\/मूरत बर असह — नाम नञ, जाति-सब्द, D1 के नियम के मोताबिर।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "अंतिम पंक्ति यहवे के सीधा सम्बोधन हकइ — तोहरा में अनाथ दया पावऽ हइ।"
+    }
+  ],
+  "translation": "अस्सूर हमरा बचातइ नञ; हम घोड़ा पर चढ़बी नञ; आउ हम आगे ई नञ कहबी जे “हमरा हाथ के काम ⟨ही⟩ हमरा देवता सब हकइ”; काहे कि तोहरा में अनाथ दया पावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e109a855510eeb9a481437b4cd01c3e3c20bd5e733e85e97cfc53221f219c7de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/14\/1-4.1792003366893.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "हमरा बचातइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "घोड़ा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נרכב",
+      "gloss": "हम चढ़बी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "हम कहबी"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमरा देवता सब"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "हाथ के काम के"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "हमरा हाथ के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा में"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "दया पावऽ हइ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "अनाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:42:46.894651757Z",
+  "model": "glm-5.3"
+}

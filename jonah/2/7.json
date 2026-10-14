@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 2:7",
+  "book": "jonah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברחיה בעדי",
+      "rationale": "'her bars behind me' — some read 'closed upon me'; rendered literally as bars shutting behind"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לקצבי הרים",
+      "rationale": "'cuttings\/roots of the mountains' — rare word rendered 'काटल भीत' (cut-out bases)"
+    },
+    {
+      "kind": "addition",
+      "subject": "बाकि",
+      "rationale": "Hebrew has only waw-consecutive 'and you brought up'; 'बाकि' supplied to mark the reversal"
+    }
+  ],
+  "translation": "पहाड़ के काटल भीत तक हम उतरलियन; धरती अपन किल्ला ⟨मोहर⟩ हमरा पाछे सदा बर लगा देलक; बाकि तूँ हमर जियन के गड्ढा से उपर लानल हथिन, हे यहवे हमर एलोहीम।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jonah\/2\/5-8.1792003693846.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקצבי",
+      "gloss": "काटल भीत तक"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "उतरलियन"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ברחיה",
+      "gloss": "अपन किल्ला"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "हमरा पाछे"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "बाकि तूँ उपर लानल हथिन"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "गड्ढा से"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "हमर जियन के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:13.846900757Z",
+  "model": "glm-5.3"
+}

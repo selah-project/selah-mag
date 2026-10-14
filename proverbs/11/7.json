@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תאבד \/ אבדה",
+      "rationale": "एके जड़ אבד के दू क्रिया पहिला-पाछे आवऽ हइ — आस के बरबादी के दू हिस्सा; मगही में नष्ट\/बिल्ल दू सब्द लेलन गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "אונים",
+      "rationale": "און के अरथ 'बल' या 'दुख\/ब्यर्थाई' — बलिया के आस (jps\/bsb पक्ष) लेलन गेलइ"
+    }
+  ],
+  "translation": "बुरा आदमी के मरे पर आस नष्ट हो जातइ, आउ बलिया के बाट जोहे के आस बिल्ल गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f062b502b3555d788633c3c73d1110edcf11ed908c5e08e65ccb17fc3c76daac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/11\/5-8.1792006637935.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "मरे पर"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "नष्ट हो जातइ"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "आस"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "आउ बाट जोहे के आस"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "बलिया के"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "बिल्ल गेलइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:37:17.936671885Z",
+  "model": "glm-5.3"
+}

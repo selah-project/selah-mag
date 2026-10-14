@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 26:8",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סגר",
+      "rationale": "साक्षात् अरथ 'बंद करऽ हकइ' — KJV\/JPS 'delivered' (सौंपऽ) चलनसार धुमिलाव हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא אשנה לו",
+      "rationale": "'हम ओकरा दोबारा नञ मारबइ' — YLT के विपरीत ('I will not repeat it') जे वादा-विरोधी पाठ हकइ।"
+    }
+  ],
+  "translation": "अविशाय दाविद लगे कहलक: एलोहीम आज ⟨את⟩ तोहर बैरी के तोहरा हाथ में बंद कर देलन हकइ; आउ अब करके हम ओकरा भाला से धरती तक एके बेर मार देबइ, आउ हम ओकरा दूसर बेर नञ मारबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "405a00f1594c8f0dfeaebd013963d32d41e55d75593ad44d8a0998298a9cb480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/26\/5-8.1791995778020.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "अविशाय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लगे"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "बंद कर देलन हकइ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर बैरी"
+    },
+    {
+      "surface": "אויבך",
+      "gloss": "तोहर बैरी"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "तोहरा हाथ में"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "אכנו",
+      "gloss": "मार देबइ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "करके"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "भाला से"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "धरती तक"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एके"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "दूसर बेर मारबइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:36:18.022214426Z",
+  "model": "glm-5.3"
+}

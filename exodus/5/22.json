@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "(मूसा)",
+      "rationale": "पहिला आगमन पर चलनसार रूप कोस्ठक में, अनुसासन के मोताबिक।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के",
+      "rationale": "मोशे यहवे के सीधा कराहे करऽ हथिन — दू काहे के सवाल।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "काहे एकरा बर",
+      "rationale": "למה זह के दोसर अरथ: 'ई का हकइ जे हमरा भेजलहु?' — KJV जइसन।"
+    }
+  ],
+  "translation": "आउ मोशे (मूसा) यहवे के ओर लौटलन आउ कहलन: अदोनाय, काहे ई लोग के बुरा करलहु? काहे एकरा बर हमरा भेजलहु?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "70fcb94b6d4a18e1640c6624d74a746d64e326e942e7a5d38f3f01d32fc95d85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/5\/21-23.1791988077902.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आउ लौटलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "बुरा करलहु"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ई लोग के"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "זה",
+      "gloss": "एकरा बर"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "हमरा भेजलहु"
+    }
+  ],
+  "timestamp": "2026-10-14T14:27:57.903670771Z",
+  "model": "glm-5.3"
+}

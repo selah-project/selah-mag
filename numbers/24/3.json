@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 24:3",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שתם",
+      "rationale": "ई क्रिया तनाख़ में कहुँ नञ मिलऽ हइ (खाली एही स्थान आउ 24:15 में)"
+    },
+    {
+      "kind": "crux",
+      "subject": "जेकर आँख खोलल गेलन हकइ",
+      "rationale": "שתם के जड़ 'परदा हटावऽ' हकइ — खुलल आँख (KJV, JPS) बनाम बन्द आँख (ASV, YLT) के मतभेद प्रसिद्ध हकइ"
+    }
+  ],
+  "translation": "आउ ऊ ओकर उपमा उठलकन आउ कहलन: बिलाम के बचन, बेओर के बेटा के बचन, आउ ओ मरद के बचन जेकर आँख खोलल गेलन हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "04120eb1f6c6d3694250fb6db527dbceefe5e843cb79c83d593372d267a3a348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/24\/1-4.1791991486271.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "उठलकन"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ओकर उपमा"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בער",
+      "gloss": "बेओर"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "आउ बचन"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ओ मरद"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "खोलल गेलन हकइ"
+    },
+    {
+      "surface": "העין",
+      "gloss": "आँख"
+    }
+  ],
+  "timestamp": "2026-10-14T15:24:46.272670462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 32:8",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מלחמותינו",
+      "rationale": "बहुवचन — 'हमनी के लड़ाई सब' — इब्रानी के बहुवचन रखल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמו \/ עמנו",
+      "rationale": "ओकरा संग बनाम हमनी के संग — इब्रानी के एके जड़ के जोड़ी, विरोध के चाल"
+    }
+  ],
+  "translation": "ओकरा संग मांस के बाँह हकइ, बाकि हमनी के संग यहवे हमनी के एलोहीम हकइ — हमनी के सहायता बर आउ हमनी के लड़ाई सब लड़े बर। आउ यहूदा के राजा यिहिज्कियाहू के बात पर लोग ⟨सहारा लेलक⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0df1a62dbe20449fffa4558e782d89f6c18d19e962f40a2f9a6b826a6b073525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/32\/8-8.1792012227348.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "बाँह"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "ועמנו",
+      "gloss": "बाकि हमनी के संग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "לעזרנו",
+      "gloss": "हमनी के सहायता बर"
+    },
+    {
+      "surface": "ולהלחם",
+      "gloss": "आउ लड़े बर"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "हमनी के लड़ाई सब"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "आउ लोग सहारा लेलक"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "यिहिज्कियाहू"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-10-14T21:10:27.349043759Z",
+  "model": "glm-5.3"
+}

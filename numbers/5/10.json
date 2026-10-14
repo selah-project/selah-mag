@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לו יהיה",
+      "rationale": "पद में दू बेर 'ओकरै होतइ' — ओकर चीज ओकर, आउ जे देलक ओ पुरोहित के; इब्रानी के दोहराव हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "איש את קדשיו",
+      "rationale": "पहिला मरद के पवित्तर चीज ओकरै रहऽ हइ, दोसरा मरद जे पुरोहित के देतइ ओ पुरोहित के — दू आधा के फरक पर अनुवादक मतभेद रखथिन।"
+    }
+  ],
+  "translation": "आउ हर मरद ⟨את⟩ अपन पवित्तर चीज अपनै होतइ; जे मरद पुरोहित के किछु देतइ, ओकरै होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fdd763dd47f93b975319af621c506cee8bc7e942e9149aeb64de6b2f1bc5941e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/5\/9-12.1791990692711.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आउ हर मरद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन पवित्तर चीज"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "अपन पवित्तर चीज"
+    },
+    {
+      "surface": "לו",
+      "gloss": "अपनै"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देतइ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "पुरोहित के"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरै"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:11:32.712506712Z",
+  "model": "glm-5.3"
+}

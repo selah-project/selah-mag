@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 15:1",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ \/ हकइ",
+      "rationale": "इब्रानी में क्रिया-संबंधक नञ हइ; मगही के बाक्य एकरा माँगऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הדברים \/ דבר",
+      "rationale": "बातन के बाद बचन — एके जड़ के दोहराव, इब्रानी के जुड़ाव"
+    },
+    {
+      "kind": "you",
+      "subject": "अवराम के",
+      "rationale": "यहवे सीधे अवराम के सम्बोधन करऽ हइ — डर-मत के आज्ञा"
+    }
+  ],
+  "translation": "ई बातन के बाद यहवे के बचन दर्शन में अवराम (अब्राम) ला आइल, कहऽ हइ — मत डर अवराम, हम तोहर ढाल ⟨हइ⟩, तोहर इनाम बहुते ढेर ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "da8a1078efccbc5638e746f15f712abacb2932b80a2eb0f6a306cf95e31abf1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/15\/1-4.1791986638710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बातन"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अवराम (अब्राम)"
+    },
+    {
+      "surface": "במחזה",
+      "gloss": "दर्शन में"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डर"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अवराम"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "तोहर इनाम"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:03:58.711322660Z",
+  "model": "glm-5.3"
+}

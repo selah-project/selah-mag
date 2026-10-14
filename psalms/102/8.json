@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चिरईं",
+      "rationale": "צפור सादा 'चिरईं' हकइ; 'गौरया' अनुवादक के जोड़ल ठहराव होतइ"
+    }
+  ],
+  "translation": "हम जागत रहलए आउ छत उपर अकेल चिरईं जइसन भेलए।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/102\/5-8.1792005783291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "जागत रहलए"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "आउ भेलए"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "चिरईं जइसन"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "अकेल"
+    },
+    {
+      "surface": "על",
+      "gloss": "उपर"
+    },
+    {
+      "surface": "גג",
+      "gloss": "छत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:03.292308138Z",
+  "model": "glm-5.3"
+}

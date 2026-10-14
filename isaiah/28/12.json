@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 28:12",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המנוחה \/ המרגעה",
+      "rationale": "two near-synonyms of rest, second a rarer form; Magahi needs two distinct words"
+    },
+    {
+      "kind": "hapax",
+      "subject": "המרגעה",
+      "rationale": "feminine participle-noun of rest occurring only here"
+    },
+    {
+      "kind": "invitation",
+      "subject": "आराम दऽ",
+      "rationale": "imperative offer of rest that the people refuses"
+    }
+  ],
+  "translation": "जेकरा ऊ कहलन, ई हइ आराम — थकल के आराम दऽ — आउ ई हइ सुकून; बाकि ओकनी सुने नञ चाहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a1e58da1d627cba7d7308cf88327d072fa531b1a05a0d6d50c9d2e528f7cdaa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/28\/9-12.1791999028254.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "आराम"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "आराम दऽ"
+    },
+    {
+      "surface": "לעיף",
+      "gloss": "थकल के"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "आउ ई"
+    },
+    {
+      "surface": "המרגעה",
+      "gloss": "सुकून"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि… नञ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "नञ चाहलन"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "सुने"
+    }
+  ],
+  "timestamp": "2026-10-14T17:30:28.255403803Z",
+  "model": "glm-5.3"
+}

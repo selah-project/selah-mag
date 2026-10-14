@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וישאם",
+      "rationale": "एके किरिया में 'उठाए ले गेलन' दु बेर बात भऽ हइ; इब्रानी के एक किरिया हकइ"
+    }
+  ],
+  "translation": "आउ ओकनी नजिक गेलन आउ ओकनी के ओकनी के कुर्ता में ⟨את⟩ बाहर डेरा ले गेलन, जइसने मोशे (मूसा) कहलन हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "74ded4b00ea674d0dc982255ff61215a4a62c604d67d20407c56a7039c7a90d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/10\/5-8.1791989766200.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "नजिक गेलन"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ओकनी के उठाए ले गेलन"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "ओकनी के कुर्ता में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के तरफ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "डेरा ले"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन हल"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    }
+  ],
+  "timestamp": "2026-10-14T14:56:06.200579764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हेसेद",
+      "rationale": "transliterated, not reduced to one Magahi word — kindness, loyalty and love all dwell in חסד"
+    },
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "Hebrew is verbless simile 'and I like a green olive'; Magahi needs the copula, supplied unbracketed in flow"
+    }
+  ],
+  "translation": "आउ हम एलोहीम के घर में हरा-भरा जैतून के गाछ नियर हइ; हम एलोहीम के हेसेद में भरोसा करऽ हइ, सदा आउ हमेसा बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c09ec736921c238f40da3b1cd0c46de03be1f944cbc0f1d5433f946cefca0fae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/52\/9-11.1792005136455.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आउ हम"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "जैतून के गाछ नियर"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "हरा-भरा"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "भरोसा करऽ हइ"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "हेसेद में"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ हमेसा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:16.456055522Z",
+  "model": "glm-5.3"
+}

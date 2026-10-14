@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 14:9",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨होवऽ⟩ \/ ⟨रहिये⟩",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; बिना क्रिया के बाक्य मगही में नञ चलऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "העון",
+      "rationale": "‘अपराध हमरा पर होवऽ’ — कइसन बचन: कोनो प्रार्थना बा चाहे घोसना; अनुवादक लोग ‘be on me’ आउ ‘may it be’ दुनू रूप लेलन हथिन"
+    },
+    {
+      "kind": "you",
+      "subject": "राजा",
+      "rationale": "जनाना दाविद राजा से सीधे सम्बोधन करऽ हइ"
+    }
+  ],
+  "translation": "आउ तेकोआ के जनाना राजा से कहलिन, हमर मालिक राजा, ⟨होवऽ⟩ — ⟨अपराध⟩ हमरा पर आउ हमर बाप के घर पर, आउ राजा आउ ओकर गद्दी निर्दोस ⟨रहिये⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b1802e3378ad2be28406f9b4f91b7775b657e4cff246c88d03f7a3dcf2f4eb18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/14\/9-12.1791996177670.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "आउ कहलिन"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "התקועית",
+      "gloss": "तेकोआ के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा पर"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हमर मालिक"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "העון",
+      "gloss": "⟨अपराध⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ पर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमर बाप के"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "आउ राजा"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "आउ ओकर गद्दी"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "निर्दोस"
+    }
+  ],
+  "timestamp": "2026-10-14T16:42:57.671441262Z",
+  "model": "glm-5.3"
+}

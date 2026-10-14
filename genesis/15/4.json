@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 15:4",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "दू जोड़-सब्द मिल के एके 'बल्कि' बनलइ — כי अकेले गिनल, אम के अरथ ओही में समाहित"
+    },
+    {
+      "kind": "idiom",
+      "subject": "मמעिच",
+      "rationale": "इब्रानी 'तोहर भीतरी अंग' कहऽ हइ — मगही में 'पेट के भीतर' बुझावऽ हइ"
+    }
+  ],
+  "translation": "आउ देखऽ, यहवे के बचन ओकरा ला आइल, कहऽ हइ — ई तोहर उत्तराधिकारी नञ होतइ, बल्कि जे तोहर पेट के भीतर से निकलतइ, ऊ तोहर उत्तराधिकारी होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "da8a1078efccbc5638e746f15f712abacb2932b80a2eb0f6a306cf95e31abf1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/15\/1-4.1791986638710.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा ला"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יירשך",
+      "gloss": "तोहर उत्तराधिकारी होतइ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बल्कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलतइ"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "तोहर पेट के भीतर से"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "יירשך",
+      "gloss": "तोहर उत्तराधिकारी होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:03:58.711853288Z",
+  "model": "glm-5.3"
+}

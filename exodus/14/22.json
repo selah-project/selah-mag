@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बनल",
+      "rationale": "इब्रानी में क्रिया नञ हइ — „पानी ओकनी बर दीवार” — मगही के बाक्य बर क्रिया जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "आउ यिस्राएल (इस्राएल) के बेटा सब सूखल जमीन पर समुंदर के बीच में गेलन, आउ पानी ओकनी बर दीवार बनल — ओकनी के दहिने आउ ओकनी के बाएँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "58a492fc03a1e2ed2eff6f1e8d8ac4bd4cc0f32a718045d34290866e9f96ef15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/14\/21-24.1791988374183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "सूखल जमीन पर"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "आउ पानी"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी बर"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "दीवार बनल"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "ओकनी के दहिने"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "ओकनी के बाएँ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:32:54.184780474Z",
+  "model": "glm-5.3"
+}

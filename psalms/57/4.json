@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרף שאפי",
+      "rationale": "क्रिया के करता के? — „जे हमरा निगलै बाट जोहऽ हइ, ऊ दोसा देतन“ बनाम यहवे ही दोसा देतन (यल्त् के पठन)।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישלח…ישלח",
+      "rationale": "„भेजतन“ दू बेर — अकास से मदद आउ हेसेद-सच, दूनो एके क्रिया से।"
+    }
+  ],
+  "translation": "ऊ अकास से भेजतन आउ हमरा बचातन, दोसा देतन ओकरा जे हमरा निगलै बाट जोहऽ हइ — सेला; एलोहीम भेजतन ओकर हेसेद आउ ओकर सच।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/57\/1-4.1792005203300.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ऊ भेजतन"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "अकास से"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "आउ हमरा बचातन"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "दोसा देतन"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "जे हमरा निगलै बाट जोहऽ हइ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "भेजतन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "आउ ओकर सच"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:23.302118214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 30:27",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "शाब्दिक अरथ नथुना\/मुँह — इब्रानी में क्रोध नथुना से भड़कऽ हइ; मगही में क्रोध लेल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "וכבד משאה",
+      "rationale": "भारी धुआँ बनाम क्रोध के भारी बोझ — अनुवादकन के मतभेद"
+    },
+    {
+      "kind": "invitation",
+      "subject": "देखऽ",
+      "rationale": "הנה पढ़निहार के धियान खींचऽ हइ"
+    }
+  ],
+  "translation": "देखऽ, यहवे के नाम दूर से आवऽ हइ, ओकर क्रोध जरतइ आउ धुआँ के भार भारी हकइ; ओकरा के ओंठ गुस्सा से भरलइ हथिन आउ ओकर जीभ खावे वाला आग जइसन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "78451e2ab64c25000f22c6cc434baf02381c2f9f46d0de650b916e36b52f6623",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/30\/25-28.1791999220329.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आवऽ हइ"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "दूर से"
+    },
+    {
+      "surface": "בער",
+      "gloss": "जरतइ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ओकर क्रोध"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "आउ भारी"
+    },
+    {
+      "surface": "משאה",
+      "gloss": "धुआँ के भार"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ओकरा के ओंठ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "भरलइ हथिन"
+    },
+    {
+      "surface": "זע׮",
+      "gloss": "गुस्सा से"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "आउ ओकर जीभ"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "आग जइसन"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "खावे वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T17:33:40.330305475Z",
+  "model": "glm-5.3"
+}

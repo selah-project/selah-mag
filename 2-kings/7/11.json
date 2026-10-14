@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקרא השערים",
+      "rationale": "'दरबान पुकारलन' बनाम कतु पढ़ावऽ हइ 'ऊ ⟨राजा⟩ दरबान के पुकारलन' — किरिया के बिना करता अस्पस्ट हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "हिब्रू बहुबचन हकइ; मगही में बहुबचन ⟨सब⟩ जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ दरबान ⟨सब⟩ पुकारलन आउ भीतर राजा के घर में बतइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f83fd481bd16c2de971c566aadd909b4cb021e4067f6a9494737b8f1928de09c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/7\/9-12.1791997950621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "पुकारलन"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "दरबान"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "आउ बतइलन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "भीतर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:12:30.622687244Z",
+  "model": "glm-5.3"
+}

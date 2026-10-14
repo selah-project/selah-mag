@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צלמות",
+      "rationale": "जोड़ल शब्द छाँह-मौत हकइ; कतुब 'गहर अन्हार' कहऽ हइ — हमनी मूल बनावट रक्खलह"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "वाक्य के बीच कर्ता-बदल: यहवा के बारे में कहल से सीधा संबोधन ⟨तूँ⟩ में बदल जा हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבטך ומשענתך המה",
+      "rationale": "द्वय-जोड़ी पर जोर — हेम्मा दुनो के अलग खड़ा करऽ हइ; मगही में ओही बनावट रक्खल"
+    }
+  ],
+  "translation": "आउ जब हम मौत के छाँह के घाटी में जाबी, तबो हम कोनो बुराई से नञ डरब, काहे कि तूँ हमरा संग हऽ; तोहर डंडा आउ तोहर सहारा — ऊ हमरा धीरज देथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/23\/1-4.1792004688729.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "आउ ... तबो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "हम जाबी"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "घाटी में"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "मौत के छाँह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "हम डरब"
+    },
+    {
+      "surface": "רע",
+      "gloss": "कोनो बुराई से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "हमरा संग"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "तोहर डंडा"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "आउ तोहर सहारा"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "हमरा धीरज देथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:04:48.730536566Z",
+  "model": "glm-5.3"
+}

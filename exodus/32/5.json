@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 32:5",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एकरा",
+      "rationale": "इब्रानी के וירא के करम बिना कहल गेल हकइ; लोक-पाठ सब एकरा जोड़ऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "यहवे बर परब",
+      "rationale": "लोग बछरुआ बनइलन हल, बाकि अहरोन परब यहवे बर घोसना करऽ हइ — पढ़निहार एकरा बेदी के ओर सोचऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल के लोग",
+      "rationale": "अहरोन सब के पुकार के कहऽ हइ — एकटा सामूहिक बिनती"
+    }
+  ],
+  "translation": "आउ अहरोन देखलन ⟨एकरा⟩, आउ ओकरे आगू एकटा बेदी बनइलन; आउ अहरोन पुकारलन आउ कहलन: कल यहवे बर ⟨एकटा⟩ परब ⟨होतइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a86d8070e73ea6d61ab0898d7dc1f3ffd2ceb56b1188d97681b29f5c68199caa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/32\/5-8.1791989177044.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकरे आगू"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "पुकारलन"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "חג",
+      "gloss": "परब"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "कल"
+    }
+  ],
+  "timestamp": "2026-10-14T14:46:17.044938409Z",
+  "model": "glm-5.3"
+}

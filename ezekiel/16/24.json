@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 16:24",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "गब",
+      "rationale": "'गब' के आकार — पीठ\/गुंदर चोटी: टीला, गुंबद, मेढ़; KJV 'eminent place', ASV 'vaulted place', YLT 'arch'।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ऊँच थरी",
+      "rationale": "रमा — बुत-पूजा के ऊँच जगह; मगही में 'ऊँच थरी' साकार चित्र देत हइ।"
+    }
+  ],
+  "translation": "आउ तूँ आपन बर गुंबद जइसन टीला बनइलक, आउ हर गली में आपन बर ऊँच थरी बनइलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "04c8bb08b3ec3732714ea3ff85375fe999c2582d6214ae6e4ee4348f629d39ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/16\/21-24.1792002069525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבני",
+      "gloss": "आउ बनइलक"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन बर"
+    },
+    {
+      "surface": "גב",
+      "gloss": "गुंबद जइसन टीला"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "आउ बनइलक"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन बर"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ऊँच थरी"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "गली में"
+    }
+  ],
+  "timestamp": "2026-10-14T18:21:09.526889015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 30:8",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השג תשיג",
+      "rationale": "अनन्त-क्रिया + क्रिया के जोड़ ('पकड़बे ला पकड़बे') — निश्चितता के इब्रानी बनावट, मगही में जस के तस रखल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के उत्तर",
+      "rationale": "यहवे दाविद के सीधे संबोधन करऽ हइ — 'दौड़', 'तू पकड़बे'।"
+    }
+  ],
+  "translation": "आउ दाविद यहवे से पूछलन — की हम एह गुट के पाछे दौड़ी? की हम ओकरा पकड़ सकऽ हइ? आउ ऊ ओकरा कहलन — दौड़, काहे कि पकड़बे ला तू पकड़बे आउ छुड़ाबे ला तू छुड़ाबे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b81d1135088d64f3b92de4139ba07fea9600b1acc8004a4da23987bf415544cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/30\/5-8.1791995674253.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "आउ पूछलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे से"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहके"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "की हम दौड़ी"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "एह गुट"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "האשגנו",
+      "gloss": "की हम ओकरा पकड़ सकऽ हइ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "दौड़"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "השג",
+      "gloss": "पकड़बे ला"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "तू पकड़बे"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "आउ छुड़ाबे ला"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "तू छुड़ाबे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:34:34.254364046Z",
+  "model": "glm-5.3"
+}

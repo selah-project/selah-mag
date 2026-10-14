@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 51:16",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשאים",
+      "rationale": "'ऊँच सब' — बादर\/धुँध भाव के बहुबचन; किछु 'बादर', किछु 'भाप' पढ़ऽ हथिन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "रूआख — बतास; 'आत्मा' एहाँ नञ, काहे कि ओकर भंडार से निकलऽ हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨तब⟩",
+      "rationale": "जब…तब के जोड़ी बर मगही में 'तब' जोड़ल — इब्रानी में खाली लקול ('बोली पर') हकइ।"
+    }
+  ],
+  "translation": "जब ऊ अपन बोली देथिन ⟨तब⟩ अकास में पानी सब के गरजनी होतइ; ऊ बादर सब के धरती के किनारा से चढ़ाथिन; बिजुरी सब से बरखा बनाथिन आउ अपन भंडार सब से बतास निकालथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5cfe3f1b31af103256d4384a82c92e775f5423ddeb7c4dca839070dd56a80293",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/51\/13-16.1792001655031.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "बोली पर"
+    },
+    {
+      "surface": "תתו",
+      "gloss": "देथिन"
+    },
+    {
+      "surface": "המון",
+      "gloss": "गरजनी"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी सब के"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "अकास में"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़ाथिन"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "बादर सब के"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "किनारा से"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "बिजुरी सब से"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "बरखा"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाथिन"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "निकालथिन"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "बतास"
+    },
+    {
+      "surface": "מאצרתיו",
+      "gloss": "अपन भंडार सब से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:14:15.032850038Z",
+  "model": "glm-5.3"
+}

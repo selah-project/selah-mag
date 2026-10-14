@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "अपराध उठतइ",
+      "rationale": "נשא עון — अपराध उठावल — कहऽ हइ; अपराध के बोझ के चित्र"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעון \/ עונה",
+      "rationale": "एके जड़ 'עון' दू जगह — मरद मुकत, जनाना ओहे उठतइ; मगही में 'अपराध' दूनों जगह धरलक"
+    }
+  ],
+  "translation": "आउ ओ मरद अपराध से मुकत रहतइ, आउ ओ जनाना ओकर अपराध के ⟨את⟩ उठतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "792a45f419ac8a9037312a2381a6ca6a1e2596ffbacccd380949892ec6d50fcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/5\/29-31.1791990723946.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "आउ मुकत रहतइ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ओ मरद"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "अपराध से"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "आउ ओ जनाना"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ई हे"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "उठतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर अपराध के"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ओकर अपराध"
+    }
+  ],
+  "timestamp": "2026-10-14T15:12:03.947279929Z",
+  "model": "glm-5.3"
+}

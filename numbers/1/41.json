@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 1:41",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के बाक्य बर ⟨हलइ⟩ जोड़ल गेलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "गिनती",
+      "rationale": "सेना-गिनती के परिणाम: एक आउ चालीस हजार आउ पाँच सौ"
+    }
+  ],
+  "translation": "ओनी के गिनती आसेर (आशेर) के कुल बर हलइ — एक आउ चालीस हजार आउ पाँच सौ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e5c56e667f78c107f8b770b795cabde573b9456d229d8e8cb176f85a4b20166a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/1\/41-44.1791990479432.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ओनी के गिनती"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "कुल बर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आसेर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "आउ चालीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आउ पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:07:59.433075736Z",
+  "model": "glm-5.3"
+}

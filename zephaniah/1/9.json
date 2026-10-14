@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 1:9",
+  "book": "zephaniah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דולג על המפתן",
+      "rationale": "चौखट पर कूदै वाला: परम्परा में अरथ बाँटल हइ — कनानी रिवाज के पालन करै वाला, या लूट माल बटोरै खातिर दुआरी पर दब-दब के घुसै वाला।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פקד \/ מלא",
+      "rationale": "जाँच (על, पर) आउ घर भरै (חמס-मिरमा से) — भरल घर केर भरण-पोषण पर ही जाँच होवऽ हइ; मगही में ई तानाव बरकरार रहऽ हइ।"
+    }
+  ],
+  "translation": "आउ हम ओ दिन ओ सब पर जाँच करतइ जे चौखट पर कूदऽ हथिन, जे अपन मालिक के घर के जबरदस्ती आउ धोखा से भरऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cc64be537addc9dee5f494cf483193bac30855508a002a84a0130ff4f3e6ec02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zephaniah\/1\/9-12.1792004041579.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "आउ हम जाँच करतइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדולג",
+      "gloss": "जे कूदऽ हथिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המפתן",
+      "gloss": "चौखट"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओ दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "הממלאים",
+      "gloss": "जे भरऽ हथिन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "अपन मालिक के"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "जबरदस्ती"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "आउ धोखा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:54:01.579935776Z",
+  "model": "glm-5.3"
+}

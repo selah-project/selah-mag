@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 35:14",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एक",
+      "rationale": "Hebrew has no indefinite article; Magahi 'एक' supplied for natural reading."
+    },
+    {
+      "kind": "substitution",
+      "subject": "पेय-बलि",
+      "rationale": "נסך is a poured libation; 'पेय-बलि' keeps the pouring sense."
+    }
+  ],
+  "translation": "आउ याकोव ओही जगह में एक खम्भा गाड़लक जहाँ ऊ ⟨את⟩ ओकरा संग बात कहलन हल — पत्थल के खम्भा — आउ ओकरा ऊपर पेय-बलि ढारलक आउ ओकरा ऊपर तेल ढारलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "12621bee20c0f198d5670f1fb24ec6f5514dfef2edb7ff482140f6e955f2ac34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/35\/13-16.1791987395744.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "गाड़लक"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "खम्भा"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "जगह में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात कहलन हल"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा संग"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "खम्भा"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "ढारलक"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "पेय-बलि"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ढारलक"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    }
+  ],
+  "timestamp": "2026-10-14T14:16:35.745667258Z",
+  "model": "glm-5.3"
+}

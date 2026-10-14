@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨के⟩",
+      "rationale": "Magahi genitive postposition supplied for the construct דור ישרים"
+    },
+    {
+      "kind": "alternative",
+      "subject": "यिबोराख",
+      "rationale": "passive 'is blessed' vs possible active 'will bless'; passive chosen with most versions"
+    }
+  ],
+  "translation": "धरती में ओकर बिया बलवान होतइ, सीधा लोग के घराना असीस पातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/112\/1-4.1792005952704.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ओकर बिया"
+    },
+    {
+      "surface": "דור",
+      "gloss": "घराना"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "सीधा लोग के"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "असीस पातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:52.704833376Z",
+  "model": "glm-5.3"
+}

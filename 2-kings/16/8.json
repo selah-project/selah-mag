@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "शחד",
+      "rationale": "शचद: 'घुस' (यूंग के अरथ में, YLT) बनाम 'भेंट\/सौगात' (कूटनीतिक रिस्त, KJV\/JPS) — अहाज के मंसब पर निर्भर।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जे",
+      "rationale": "हिब्रू के सापेक्ष उपबंध मगही में 'जे' जोड़ के चलल।"
+    }
+  ],
+  "translation": "आउ अहाज ⟨את⟩ चानी आउ ⟨את⟩ सोना लेलन जे यहवे के घर में आउ राजा के घर के भंडार में मिललइ, आउ असूर (असीरिया) के राजा करा घुस भेजलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "06d1c2ed9ddb019354f774e82d1266257ce9cf03d6d7dbbded1bd51f352a2956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/16\/8-8.1792011778525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "अहाज"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चानी"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सोना"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "जे मिललइ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "आउ भंडार में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा करा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "असूर"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "घुस"
+    }
+  ],
+  "timestamp": "2026-10-14T21:02:58.526207172Z",
+  "model": "glm-5.3"
+}

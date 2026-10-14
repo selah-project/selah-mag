@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "क्रिया याधस्थ बनावे बर सर्बनाम जोड़ल गेलन, इब्रानी में करता अनुमानित हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मोटा पुँछ",
+      "rationale": "האलיה पूरुबी भेड़ के मोटा पुँछ बर खास सब्द हकइ"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ ओकर सब चरबी में से ऊ चढ़ाथिन — ⟨את⟩ मोटा पुँछ आउ ⟨את⟩ ओ चरबी जे ⟨את⟩ भीतर के अंग के ढाकऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/7\/1-4.1791989610286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "ओकर सब चरबी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "ओकर चरबी"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "चढ़ाथिन"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "में से"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोटा पुँछ"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "मोटा पुँछ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "ओ चरबी"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ओ चरबी"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "जे ढाकऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भीतर के अंग के"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "भीतर के अंग"
+    }
+  ],
+  "timestamp": "2026-10-14T14:53:30.287599734Z",
+  "model": "glm-5.3"
+}

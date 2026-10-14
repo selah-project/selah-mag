@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ऊ⟩",
+      "rationale": "इब्रानी में करता बाकी वाक्य से आवऽ हइ; मगही में पुरोहित सर्बनाम जोड़ल गेलन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "शब्बात के अगला दिन",
+      "rationale": "השבת के अरथ पर मतभेद: सात दिन के शब्बात बनाम पसह के पहिला दिन — कटाई-पहिलफल के तिथि एही से तय होवऽ हइ।"
+    }
+  ],
+  "translation": "आउ ⟨ऊ⟩ ⟨את⟩ ओ ओमेर के यहवे के आगू हिलैतइ, ताकि तोहनी के खुसी बर मंजूर होवऽ; शब्बात के अगला दिन पुरोहित ओकरा हिलैतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "98e274f8b302a2af8663a4b294c6326a67d21bde5b8b724ebb90ea9a35962d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/23\/9-12.1791990247371.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "आउ ⟨ऊ⟩ ... हिलैतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ ओमेर"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "ओ ओमेर"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "तोहनी के खुसी बर"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "के अगला दिन"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "शब्बात"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "ओकरा हिलैतइ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    }
+  ],
+  "timestamp": "2026-10-14T15:04:07.372261608Z",
+  "model": "glm-5.3"
+}

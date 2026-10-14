@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 20:19",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "सीधा तुँहूँ-सम्बोधन — 'मत खोलना' — इस्राएल के परजा से।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שאר",
+      "rationale": "'मांस-नाता' — मांस के नातेदार, एक्को शब्द में।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הערה वाक्य के करता",
+      "rationale": "'ऊ नाङा करै हकइ' — करता अनिश्चित हकइ: सामान्य मनुख या ओहु आदमी जे करै हकइ।"
+    }
+  ],
+  "translation": "आउ तोहर माय के बहिन के आउ तोहर बाबूजी के बहिन के नाङेपन मत खोलना — काहे कि ऊ ⟨את⟩ आपन मांस-नाता के नाङा करै हकइ — ओकनी आपन पाप उठतनी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ca4f30609c0b26fddcbf572c0d5eb19d333ac8199141c1c3a2beef9eadc4db52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/20\/17-20.1791990257864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערות",
+      "gloss": "आउ नाङेपन"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "बहिन"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "तोहर माय के"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "आउ बहिन"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहर बाबूजी के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "खोलना"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन मांस-नाता के"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "आपन मांस-नाता"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "नाङा करै हकइ"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "आपन पाप"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "उठतनी"
+    }
+  ],
+  "timestamp": "2026-10-14T15:04:17.865646162Z",
+  "model": "glm-5.3"
+}

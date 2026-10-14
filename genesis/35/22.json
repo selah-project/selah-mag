@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 35:22",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एकरा",
+      "rationale": "इब्रानी केवल 'सुनलन' कहऽ हइ; के-सुनलन ओकरा ⟨एकरा⟩ से साफ होवऽ हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "'आउ एहन भेल' के बिधान-सूचक; मगही में 'आउ जब… तब' के ढाँचा में घुसानल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दू-दस बेटा",
+      "rationale": "याकोव के बेटा के गिनती — अगिला दू पद के नाम-सूची के नेंव।"
+    }
+  ],
+  "translation": "आउ जब यिस्राएल ओहि धरती में रहलन, तब रूबेन गेलन आउ ओकर बाप के रखेली बिल्हा के संग ⟨את⟩ सेझलन, आउ यिस्राएल ⟨एकरा⟩ सुनलन। याकोव के बेटा दू-दस हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1db5d6684b46e938303ab2c44582b53177b615d453aaa31f2c14a2fe11b121de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/35\/21-24.1791987382609.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ जब"
+    },
+    {
+      "surface": "בשכן",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "सेझलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बिल्हा"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "बिल्हा"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "रखेली"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ओकर बाप के"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "हलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव के"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-दस"
+    }
+  ],
+  "timestamp": "2026-10-14T14:16:22.610549285Z",
+  "model": "glm-5.3"
+}

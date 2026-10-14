@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נרדף",
+      "rationale": "'जे पीछा हटलइ' (passive participle of רדף, JPS\/ylt) बनाम 'जे काट गेलइ समय' (KJV 'that which is past', רדף के time-figurative अरथ)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היה\/להיות + כבर दू बेर",
+      "rationale": "कब्र आउ हया-क्रिया के दोहराव चक्र बनावऽ हइ; मगही में हलइ\/होतइ के दोहराव ओकर रंग रखऽ हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "उ",
+      "rationale": "हिब्रू के हוא बल देवे बर कोस्ठक में सर्बनाम"
+    }
+  ],
+  "translation": "जे हलइ ओ कब्र ⟨उ⟩ हकइ, आउ जे होतइ ओ कब्र हलइ, आउ एलोहीम ⟨את⟩ पीछा हटले के खोजऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d3a63e0b7174638d244d4c686fc4640fa799f160c2bdd3137fbf34ca1021dd4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/3\/15-16.1792012178406.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "कब्र"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "उ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "कब्र"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "आउ एलोहीम"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "खोजऽ हथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पीछा हटले"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "पीछा हटले"
+    }
+  ],
+  "timestamp": "2026-10-14T21:09:38.407170619Z",
+  "model": "glm-5.3"
+}

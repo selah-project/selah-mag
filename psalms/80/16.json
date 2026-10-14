@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकरा",
+      "rationale": "इब्रानी में बतौर संबंध के चिन्हा नञ; बेल के आगे संबंध जोड़ल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "בן",
+      "rationale": "'बेटा' बनाम 'होरहा\/टहनी' — कइयन अनुवादक बेल के बिंब बढ़ावै बर 'टहनी' लेथिन, बाकि पद साफ 'बेटा' हकइ"
+    }
+  ],
+  "translation": "आउ ⟨ओकरा⟩ जे रोपल पौधा तोहर दहिना हाथ रोपलन, आउ जे बेटा बर तोहनी बलवान बनइलन आपन बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/80\/13-16.1792005522052.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "आउ रोपल पौधा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "रोपलन"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "तोहर दहिना हाथ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ ओकर ऊपर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "बलवान बनइलन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:42.053591483Z",
+  "model": "glm-5.3"
+}

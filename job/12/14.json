@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 12:14",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "और न",
+      "rationale": "हिन्दी घुसपैठ रोकल गेलइ — मगही में 'आउ नञ'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהרוס\/יבנे · יסגר\/יפתח",
+      "rationale": "दू बिपरीत-जोड़ी (गिराना\/बनाना, बन्न\/खोलना) के समानान्तर बनावट, मगही में ढाँचा बचलइ बाकि ध्वनि-मेल नञ"
+    }
+  ],
+  "translation": "देखऽ, ऊ गिरा देतइ आउ बनिस नञ पावऽ हइ; ऊ मनुस के बन्न देतइ आउ खुलऽ नञ पावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1918f7a0cb6ae538439044e5127df1d65cb5d5dd8a2d0fea7d6a6edd0ed57fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/12\/13-16.1792007303266.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "יהרוס",
+      "gloss": "गिरा देतइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "बनिस पावऽ हइ"
+    },
+    {
+      "surface": "יסגר",
+      "gloss": "बन्न देतइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "खुलऽ पावऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:48:23.267058986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "אשर के खंड में मगही के क्रिया-जोड़, इब्रानी में क्रिया नञ।"
+    }
+  ],
+  "translation": "ओही दिन में, जब राजा अखश्वेरोस बइठलन ⟨पर⟩ अपन राज के गद्दी ⟨पर⟩ — जे शूशन ⟨के⟩ दुर्ग में हलइ —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/1\/1-4.1792008633224.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "ओ दिन में"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "बइठला के"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "अखश्वेरोस"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "गद्दी"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "अपन राज के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "शूशन में"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "दुर्ग"
+    }
+  ],
+  "timestamp": "2026-10-14T20:10:33.224903872Z",
+  "model": "glm-5.3"
+}

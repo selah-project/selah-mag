@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मेंढ़क",
+      "rationale": "הצפרדעים के सुभाविक अरथ 'दलदल के कूदइया' हकइ; मगही में मेंढ़क लेलन गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "फराओन के",
+      "rationale": "पद फराओन के सीधे सम्बोधन के अंत हकइ"
+    }
+  ],
+  "translation": "आउ तोहरा में, आउ तोहर लोग में, आउ तोहर सब सेवक के ऊपर मेंढ़क सब चढ़तइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f1719b36a41393d28a3264b66c53ddf136d98ef0fd41258139ff985d29c652cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/7\/29-29.1791988209982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכה",
+      "gloss": "आउ तोहरा में"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "आउ तोहर लोग में"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "आउ तोहर सब"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "सेवक के ऊपर"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "चढ़तइ"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "मेंढ़क सब"
+    }
+  ],
+  "timestamp": "2026-10-14T14:30:09.982674909Z",
+  "model": "glm-5.3"
+}

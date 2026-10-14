@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ויפצר",
+      "rationale": "पा Zar जड़ के ई रूप तनाख़ में बिरल हइ — मूल चित्र 'ठोक-खाना\/दबाव देना', एहाँ जिद"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברכתי",
+      "rationale": "'मोर आसीस' — कुछ अनुवादक 'बरदान\/सौगात' लेथिन (asv 'gift'); इबरानी शब्द 'आसीस' हकइ"
+    }
+  ],
+  "translation": "ले ले नञ मोर ⟨את⟩ आसीस जे तोहरा अनल गेलइ हऽ, काहे कि एलोहीम हमरा किरपा कएलन हइ आउ काहे कि मोरा सब-कुछ हइ; आउ ऊ ओकरा बहुत जिद कएलक, आउ ऊ ले लेलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "333a24794fc12b50d81dd7f3ce70cd0af648638b7cedd28779b9dd6fb71bdd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/33\/9-12.1791987268242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ले ले"
+    },
+    {
+      "surface": "נא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोर आसीस"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "मोर आसीस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "अनल गेलइ हऽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "किरपा कएलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "आउ काहे कि"
+    },
+    {
+      "surface": "יש",
+      "gloss": "हइ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मोरा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब-कुछ"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "जिद कएलक"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ले लेलक"
+    }
+  ],
+  "timestamp": "2026-10-14T14:14:28.243432953Z",
+  "model": "glm-5.3"
+}

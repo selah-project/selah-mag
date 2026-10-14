@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 24:8",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הצרעת",
+      "rationale": "'कोढ़' — इब्रानी त्सारात चमड़ी, कपड़ा आउ घर के फोड़ा बर बतावल गेल हकइ, हैन्सेन रोग नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल",
+      "rationale": "आदेश तूँ-संबोधन में परजा के सोझा।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר \/ תשמרו \/ לשמר",
+      "rationale": "एके जड़ 'रखवारी' के तीन बेर दोहराव — पद के ताना हकइ।"
+    }
+  ],
+  "translation": "कोढ़ के नेग के बारे में ध्यान रखऽ — बड़े ध्यान से रखवारी करऽ आउ करऽ, पुरोहित ⟨אתכם⟩ — लेवी के पुरोहित — जे कुछो ओकनी तोहनी के सिखातथिन, जइसने हम ओकनी के आज्ञा देलन, तइसने तोहनी के करऽ हेतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "76336aa17e4422a892c2b47a6f36f236a34b4dede648dba622af7f8f1ad0534d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/24\/5-8.1791992695417.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ध्यान रखऽ"
+    },
+    {
+      "surface": "בנגע",
+      "gloss": "नेग के बारे में"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "कोढ़ के"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "रखवारी करऽ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बड़े ध्यान से"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "आउ करऽ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "जे कुछो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "सिखातथिन"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "तोहनी"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवी के पुरोहित"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "आज्ञा देलन"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "रखवारी करऽ हेतइ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करऽ बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:44:55.418464891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 31:17",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וזרעו",
+      "rationale": "זרוע 'बाहू\/ताकत' बनाम किछु अनुवाद 'ओकर बिया\/सन्तत' (זרע) पढ़ऽ हइ; इहाँ 'बाहू' — सहायक ताकत — ठीक हकइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "עם-אתो 'ओकरा संग' — ⟨את⟩ परिवार के चिन्हा रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गड़ारल लोग",
+      "rationale": "חללי חרב शाब्दिक रूप से 'तलवार के छेदल' — मारल गेल लोग।"
+    }
+  ],
+  "translation": "गे लोग भी ⟨את⟩ ओकरा संग शेओल के नीचे उतरलन, तलवार से गड़ारल लोग के पास; आउ ओकर बाहू ओकर छाँह में बइठलन जातियन के बीच।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8fe58fd7207ee972e501194ac1da852c52f4cd735d1faad2ec783797f3c61cc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/31\/17-18.1792002591423.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "הם",
+      "gloss": "गे लोग"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा संग"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "उतरलन"
+    },
+    {
+      "surface": "שאולה",
+      "gloss": "शेओल के नीचे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "गड़ारल लोग"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "आउ ओकर बाहू"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बइठलन"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "ओकर छाँह में"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जातियन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:29:51.424285109Z",
+  "model": "glm-5.3"
+}

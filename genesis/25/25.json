@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 25:25",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चादर-नइ",
+      "rationale": "אדרת: ढीला-ढाला ओढ़े के कपड़ा; 'चादर-नइ' ओही चित्र देतइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדמוני\/עשו",
+      "rationale": "एसाव के नाम आगे 25:30 में आदमह-लाल शोर से जुड़तइ; इहाँ लाल रँग ओकर पहिला चिन्हा हकइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पहिला",
+      "rationale": "जुड़वाँ के जनम के क्रम गिनल गेलइ"
+    }
+  ],
+  "translation": "आउ पहिला निकललइ, पुरा लाल-सुरुजी रँग के, ओकर पुरा धड़ रोएँ के चादर-नइ सन गेलइ, आउ ओकर नाम एसाव धरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "237baeeeb3c46526a25851492aea4667fd342e45a33a581a82200cab0c2bc346",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/25\/25-28.1791986955707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकललइ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "लाल-सुरुजी रँग के"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ओकर पुरा धड़"
+    },
+    {
+      "surface": "כאדרת",
+      "gloss": "चादर-नइ सन"
+    },
+    {
+      "surface": "שער",
+      "gloss": "रोएँ के"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "नाम धरलन"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    }
+  ],
+  "timestamp": "2026-10-14T14:09:15.708326109Z",
+  "model": "glm-5.3"
+}

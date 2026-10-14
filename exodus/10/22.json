@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חשך אפלה",
+      "rationale": "अन्हार-पर-अन्हार के जोड़ — मगही में 'घना-अन्हार' से दोहराव के भाव रखल गेलइ"
+    }
+  ],
+  "translation": "आउ मोशे अपन हाथ ⟨את⟩ अकास के ओर फैललक, आउ पुरा मिस्रयिम के धरती में तीन दिन ले घना-अन्हार हो गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4afe2dc940b2d1c652d6ac864512f759a948c80af82daf006aaff879d85716ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/10\/21-24.1791988270629.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "आउ फैललक"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन हाथ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "अपन हाथ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ हो गेलइ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्हार"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "घना-अन्हार"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पुरा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:31:10.630171377Z",
+  "model": "glm-5.3"
+}

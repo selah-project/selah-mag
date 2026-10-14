@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 28:27",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "חכמה के जिक्र",
+      "rationale": "बेवर्ब में ओकरा (अर्थात् ज्ञान) हइ, हिब्रू के बाक्य में कर्म-सर्वनाम खाली हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ספרה\/חקרה",
+      "rationale": "गिने-गिरावे आउ खोज के क्रिया-युग्म, अंग्रेजी में मुहावरे की तरह खो जाऽ हइ"
+    }
+  ],
+  "translation": "तब ऊ ओकरा देखलन आउ बतइलन; ओकरा थिर कइलन, आउ ओकरा खोज-बिन भी कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "09c05d7896406b54fcd6bc1e3d974545d24802afc21fb0a1318dbb421e429958",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/28\/25-28.1792007616259.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ऊ ओकरा देखलन"
+    },
+    {
+      "surface": "ויספרה",
+      "gloss": "आउ बतइलन"
+    },
+    {
+      "surface": "הכינה",
+      "gloss": "ओकरा थिर कइलन"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ… भी"
+    },
+    {
+      "surface": "חקרה",
+      "gloss": "ओकरा खोज-बिन कइलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:53:36.260607690Z",
+  "model": "glm-5.3"
+}

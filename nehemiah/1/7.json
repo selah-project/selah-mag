@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חבל חבלנו",
+      "rationale": "Infinitive absolute — क्रिया के दोहराव से तीब्रता (बुरी-बुरी); English versions 'dealt very corruptly' कहऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "חבל",
+      "rationale": "'acted corruptly' बनाम 'dealt treacherously\/pawned as pledge' — जड़ के मूल अरथ बाँधल\/गिरवी रखला के हकइ।"
+    }
+  ],
+  "translation": "बुरी-बुरी बेइमानी कइलियनी तोहरा ले, आउ रखवारी नञ कइलियनी ⟨את⟩ आज्ञा, ⟨ואת⟩ विधान आउ ⟨ואת⟩ नियाव, जे तूँ तोहर नौकर ⟨את⟩ मोशे (मूसा) के आज्ञा देलहु।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8f5a258e3e12b7cd256ccb241971e4e467dac2fb53bba301489757cc2f73152f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/1\/5-8.1792009491188.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "बुरी-बुरी"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "बेइमानी कइलियनी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा ले"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "रखवारी कइलियनी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आज्ञा"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "विधान"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "विधान"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "नियाव"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "आज्ञा देलहु"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "तोहर नौकर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:24:51.190092789Z",
+  "model": "glm-5.3"
+}

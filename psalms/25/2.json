@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יעלצו",
+      "rationale": "literally 'jump for joy' — rendered as exulting over, not literal jumping"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "prayer addressed directly to 'my El'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "prayer of petition",
+      "rationale": "imprecative petitions ('let me not be ashamed')"
+    }
+  ],
+  "translation": "हमर एलोहीम, तोहरा म भरोसा रखलियन; हमरा लज्जित नञ होए दे; हमर बैरी लोग हमरा ऊपर नाचते नञ दे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "56d834fc48cd39fa425568609f45759f0e111a0509b1b30db4b1353c12ed8308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/25\/1-4.1792004725927.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा म"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "भरोसा रखलियन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "लज्जित होए दे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "नाचते दे"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "बैरी लोग"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा ऊपर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:05:25.927824924Z",
+  "model": "glm-5.3"
+}

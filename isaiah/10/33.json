@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "isaiah 10:33",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פארה",
+      "rationale": "डाढ़\/पात के अरथ में ई सब्द तनाख़ में खाली इहे आवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "במערצה",
+      "rationale": "शब्द-जड़ 'जोर-जबरदस्ती \/ दहसाव' दुनो अरथ देवऽ हइ; KJV 'terror' कहऽ हइ, BSB 'terrifying power'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "गाछ काटे के रूपक",
+      "rationale": "उँच-कद आउ अकड़ाहा लोग के गाछ के डाढ़ निय गिरावल गेलइ — इब्रानी में गाछ-आदमी के रूपक अगिला पद में अगिलातइ"
+    }
+  ],
+  "translation": "देखऽ, अदोनाय यहवे त्सबाओत डाढ़ के जोर-जबरदस्ती से काट देतन; आउ ऊँच-कद के लोग काट देल जइतन, आउ अकड़ाहा लोग नीच कए देल जइतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2bea9c78f5b2a43d1247bb3001c4b9a8ece6484779530c2342fcfacbd3079b6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/10\/33-34.1791998706883.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "מסעף",
+      "gloss": "काट देतन"
+    },
+    {
+      "surface": "פארה",
+      "gloss": "डाढ़"
+    },
+    {
+      "surface": "במערצה",
+      "gloss": "जोर-जबरदस्ती से"
+    },
+    {
+      "surface": "ורמי",
+      "gloss": "ऊँच-कद के लोग"
+    },
+    {
+      "surface": "הקומה",
+      "gloss": "कद के"
+    },
+    {
+      "surface": "גדועים",
+      "gloss": "काट देल जइतन"
+    },
+    {
+      "surface": "והגבהים",
+      "gloss": "आउ अकड़ाहा लोग"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "नीच कए देल जइतन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:25:06.884260252Z",
+  "model": "glm-5.3"
+}

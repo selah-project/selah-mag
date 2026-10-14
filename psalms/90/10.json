@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सत्तर \/ अस्सी बरिस",
+      "rationale": "मनुस के जियगी के आयु के गिनती — सत्तर आउ ताकत से अस्सी बरिस।"
+    },
+    {
+      "kind": "crux",
+      "subject": "גז חיש",
+      "rationale": "'छिटे काटल जाना' — किसान के बाल काटे के चित्र बनाम 'जल्दी उड़ जाना'; दुनु काट-उड़ के जोड़ी रखलियन।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ורהבם",
+      "rationale": "רהब के 'घमंड' लीलियन; दूसर पढ़ाई 'चढ़ाव\/फुलाव' (KJV 'strength') हकइ।"
+    }
+  ],
+  "translation": "हमनी के बरिस के दिन — ओकरा में सत्तर बरिस हकइ, आउ अगर ताकत से होवे त अस्सी बरिस; बाकि ओकर घमंड मेहनत आउ ब्यर्थ हकइ, काहे कि ऊ छिटे काटल जा हइ आउ हमनी उड़ि जाइबी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/90\/9-12.1792005713605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "हमनी के बरिस के"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आउ अगर"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ताकत से"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "अस्सी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "आउ ओकर घमंड"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "मेहनत"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "आउ ब्यर्थ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "גז",
+      "gloss": "काटल जा हइ"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "छिटे"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "आउ हमनी उड़ि जाइबी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:53.605801139Z",
+  "model": "glm-5.3"
+}

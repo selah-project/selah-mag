@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אמונים",
+      "rationale": "मूल अरथ 'भरोसेमंद' हकइ; मगही में 'सच्च' लेल गेलइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויפיח",
+      "rationale": "'फूँक मार के निकारऽ हइ' — साँस से झूठ उगले के चित्र"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כזב\/שקר",
+      "rationale": "इब्रानी दू अलग सब्द बरतऽ हइ; मगही में 'झूठ' एके सब्द दुनो ओर — शब्द-विविधता खोतइ"
+    }
+  ],
+  "translation": "सच्च गवाह झूठ नञ बोलऽ हइ, आउ झूठा गवाह झूठ ⟨फूँकऽ⟩ निकारऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0195f10d83b91419012c022e68b7e48fcb235dd7e620ad87585678975b6175a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/14\/5-8.1792006711820.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "सच्च"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יככזב",
+      "gloss": "झूठ बोलऽ हइ"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "आउ फूँकऽ निकारऽ हइ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:38:31.820980663Z",
+  "model": "glm-5.3"
+}

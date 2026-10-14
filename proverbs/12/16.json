@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערום",
+      "rationale": "'चतुर' बनाम 'धूर्त' — ओही शब्द उत्पत्ति 3:1 में साँप बर हकइ; अहाँ प्रसंसा के अरथ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "קלון",
+      "rationale": "किछु अनुवाद 'अपमान झेलऽ हइ' (ओकर अपन) पढ़थिन, किछु 'दोसर के बेइज्जती ढाकऽ हइ'"
+    }
+  ],
+  "translation": "मूरख के गुस्सा ओही दिन पहचानल जा हइ, बाकि चतुर बेइज्जती ढाक लेवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "568088875a3e3f67ab8b6df22578811a49054c1bbbfc42cb555f6085024591fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/12\/13-16.1792006665139.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "मूरख के"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिन"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "पहचानल जा हइ"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "बाकि ढाक लेवऽ हइ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "बेइज्जती"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "चतुर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:37:45.140471031Z",
+  "model": "glm-5.3"
+}

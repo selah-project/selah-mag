@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 4:11",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "दूसर",
+      "rationale": "बाकी ओकर बाद के बाक्य में दूसर के भाव साफ करे बर — इब्रानी में खाली 'एक... आउ एक' हकइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עמשים",
+      "rationale": "עמ׸ 'लादना' बहुते दुर्लभ जड़ हकइ; मगही में साफ चित्र रखल गेलइ"
+    }
+  ],
+  "translation": "दीवार पर बनावए वाला आउ बोझ ढोवए वाला — बोझ लादले — ओकर एक हाथ से काम करऽ हलइ आउ एक भाला पकड़ले हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d13a46365d3cef062fc0eb16fbf866e5cbbd70ac1dfb37cd9db460725515fa9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/4\/9-12.1792009524761.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבונים",
+      "gloss": "बनावए वाला"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "दीवार पर"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "आउ ढोवए वाला"
+    },
+    {
+      "surface": "בסבל",
+      "gloss": "बोझ में"
+    },
+    {
+      "surface": "עמשים",
+      "gloss": "बोझ लादले हलन"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "एक में"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करऽ हलइ"
+    },
+    {
+      "surface": "במלאכה",
+      "gloss": "काम में"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "आउ एक"
+    },
+    {
+      "surface": "מחזקת",
+      "gloss": "पकड़ले हलइ"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "भाला"
+    }
+  ],
+  "timestamp": "2026-10-14T20:25:24.762422488Z",
+  "model": "glm-5.3"
+}

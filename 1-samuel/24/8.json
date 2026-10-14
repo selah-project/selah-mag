@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "וישסע",
+      "rationale": "शअ क्रिया तनाख़ में खाली एही ठउर पर आवऽ हकइ — बाँटऽ\/फाड़ऽ के अरथ, एही से 'काट के रोकलन'।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गुफा",
+      "gloss": "מערה के अरथ गुफा\/गढ़ा — बड़ गढ़ा हकइ।"
+    }
+  ],
+  "translation": "आउ दाविद बात सब से ⟨את⟩ अपन आदमी सब के काट के रोकलन, आउ ओकनी के शाउल के तरफ उठबै नञ देलन। आउ शाउल गुफा से उठलन आउ रस्ता में चलल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/24\/5-8.1791995522845.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "काट के रोकलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन आदमी सब"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "अपन आदमी सब"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "बात सब से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "उठबै"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के तरफ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल के"
+    },
+    {
+      "surface": "ושאוײ",
+      "gloss": "आउ शाउल"
+    },
+    {
+      "surface": "קם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "गुफा से"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "चलल गेलन"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:02.846381485Z",
+  "model": "glm-5.3"
+}

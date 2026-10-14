@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 7:7",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एहे कारन",
+      "rationale": "हिब्रू में सीध 'काहे कि-नञ' बनावट हकइ; मगही में कारण-बाक्य साफ करे बर 'एहे कारन' जोड़ल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשק \/ בחר",
+      "rationale": "परेम-रखै आउ चुनै के जोड़ी के दोहराव मगही में जस के तस रह जा हइ।"
+    }
+  ],
+  "translation": "यहवे तोहनी में परेम नञ एहे कारन रखलन हथिन कि तोहनी सब जाति के लोग सँ गिनती में जादे हउ; आउ नञ एहे कारन तोहनी चुनलन हथिन, काहे कि तोहनी सब जाति के लोग सँ सबसे कम हउ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8c90cbfc7db9154d1a9d1b9db95e9d9682cc03fee1fbc150201a00ad101bbcbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/7\/5-8.1791992167068.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מרבכם",
+      "gloss": "तोहनी के गिनती जादे होवे"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब... सँ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "जाति के लोग"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "परेम रखलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "तोहनी में"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "आउ चुनलन"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "सबसे कम"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब... सँ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "जाति के लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T15:36:07.070043515Z",
+  "model": "glm-5.3"
+}

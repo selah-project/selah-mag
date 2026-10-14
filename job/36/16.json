@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 36:16",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הסיתך",
+      "rationale": "'ललचावऽ हइ \/ खीँचऽ हइ' — कुछ अनुवादक ई भबिस देखावऽ हथिन ('होतइ'), कुछ भूत ('कइलन')।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צר \/ רחב",
+      "rationale": "तंग आउ चउड़ा के विरोध — इब्रानी के एही बनावट हकइ, मगही में साँच रहलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "इलीहू अय्यूब से सीधे बात करऽ हथिन।"
+    }
+  ],
+  "translation": "आउ एहो, ऊ तोहनी के संकट के मुँह से खीँचऽ हइ — चउड़ा जगह, जेकर नीचे कुनो तंगी नञ — आउ तोहर टेबल चरबी से भरल बिछल रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "737fd9ff37ef82afbbe2e346fdd5d358b3a555dc01a6e07d5eaac0df2f81372e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/36\/13-16.1792007772411.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "आउ एहो"
+    },
+    {
+      "surface": "הסיתך",
+      "gloss": "तोहनी के खीँचऽ हइ"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "मुँह से"
+    },
+    {
+      "surface": "צר",
+      "gloss": "संकट"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चउड़ा जगह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "तंगी"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "जेकर नीचे"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "आउ बिछल रहतइ"
+    },
+    {
+      "surface": "שלחנך",
+      "gloss": "तोहर टेबल"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "चरबी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:56:12.412786992Z",
+  "model": "glm-5.3"
+}

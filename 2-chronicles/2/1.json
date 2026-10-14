@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 2:1",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "पत्थल",
+      "rationale": "חצב बहार के वस्तु हिब्रू में नञ कहल हकइ; काम काटल जाहे ऊ संदर्भ से साफ हकइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "मजदूर के गिनती",
+      "rationale": "सत्तर हजार + अस्सी हजार + तीन हजार छे सौ — पूरा पद गिनती हकइ"
+    }
+  ],
+  "translation": "आउ शलोमो गिनलन सत्तर हजार आदमी बोझ ढोवे बर आउ अस्सी हजार आदमी पहाड़ में ⟨पत्थल⟩ काटे बर, आउ ओकनी के ऊपर अगुआ तीन हजार आउ छे सौ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "33b59f29e34947e154aca152ed16c330b1a62d7eada842dedc9c7f067b303845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/2\/1-4.1792010728329.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "आउ गिनलन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "סבל",
+      "gloss": "बोझ ढोवे बर"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "आउ अस्सी"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "काटे बर"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ में"
+    },
+    {
+      "surface": "ומנצחים",
+      "gloss": "आउ अगुआ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ओकनी के ऊपर"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आउ छे"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:45:28.329947994Z",
+  "model": "glm-5.3"
+}

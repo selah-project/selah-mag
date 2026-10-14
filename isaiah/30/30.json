@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "मूल अरथ 'नथुना\/मुँह' — क्रोध के फूँक के चित्र; 'गुस्सा' लेलक, नथुना के सुर गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "נפץ וזרם",
+      "rationale": "'तूफान आउ बरखा के धार' बनाम केजेपीएस 'बादर फूटल आउ तेज बरखा'; नफेस के अरथ 'बिखेरऽ तूफान' पर विवाद।"
+    }
+  ],
+  "translation": "आउ यहवे ⟨את⟩ अपन बोली के ऐन-बड़ाई सुनातन आउ ओकर बाहु के उतरावा देखातन — क्रोध के गुस्सा में, आउ खाए डालऽ बरा आग के लपट संग, तूफान आउ मूसलाधार बरखा, आउ ओला के पत्थल संग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "02b6dac126d9458103a01bf15ad7ce06707042cdf54f09cc78baea1e1808a9b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/30\/29-32.1791999235016.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "सुनातन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऐन-बड़ाई"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "ऐन-बड़ाई"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "अपन बोली के"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "आउ उतरावा"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "बाहु के"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखातन"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "क्रोध में"
+    },
+    {
+      "surface": "אף",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "आउ लपट"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग के"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "खाए डालऽ बरा"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "तूफान"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "आउ मूसलाधार बरखा"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "आउ पत्थल"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ओला के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:33:55.017157276Z",
+  "model": "glm-5.3"
+}

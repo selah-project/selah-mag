@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא",
+      "rationale": "रीतिगत प्रस्न-नञ — जवाब मानल गेलइ; 'की... नञ' से पूछल गेलइ"
+    }
+  ],
+  "translation": "कान बात के नञ जाँचऽ हकइ, आउ तालु खाना के स्वाद ओकर बर नञ चखऽ हकइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ff3b4df072ff2e545b0f9cf9949b11f9eb09ee997cd08f68424c37cda5ca1a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/12\/9-12.1792007269970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "की ... नञ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "बात"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "जाँचऽ हकइ"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "आउ तालु"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "स्वाद चखऽ हकइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:49.971040611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे के",
+      "rationale": "मौत आउ शेओल के बारे में सीधे यहवे से पुछल प्रस्न"
+    },
+    {
+      "kind": "substitution",
+      "subject": "शेओल",
+      "rationale": "שאוײ के लिप्यन्तरन; नरक या पाताल नञ — मरे के बाद के सजा के अरथ नञ"
+    }
+  ],
+  "translation": "काहे कि मौत में तोहर याद नञ हकइ; शेओल में कोन तोहरा स्तुति करतइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/6\/5-8.1792004415401.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ हकइ"
+    },
+    {
+      "surface": "במות",
+      "gloss": "मौत में"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "तोहर याद"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "शेओल में"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "स्तुति करतइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:00:15.401995296Z",
+  "model": "glm-5.3"
+}

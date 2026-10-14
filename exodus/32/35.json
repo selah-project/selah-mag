@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על אשר",
+      "rationale": "इब्रानी के बनावट „के कारण जे“ — मगही में „काहे कि जे“ धरल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשו \/ עשה",
+      "rationale": "„बनइलन…बनइलक“ — इब्रानी ओकरे क्रिया के दोहराव करऽ हइ (עשׂו…עשׂה), परति संरचना मगही में भी रहि गेल।"
+    }
+  ],
+  "translation": "आउ यहवे ⟨את⟩ लोग के मारलन, काहे कि ओकनी बनइलन ⟨את⟩ बछड़ा — जे अहरोन बनइलक हलै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5dd0d8af5437b86c6b201ab3e74e916ee98ad021afa9f31210a1f62723d2a299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/32\/33-35.1791989114363.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग के"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "על",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ओकनी बनइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बछड़ा"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "बछड़ा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलक हलै"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:45:14.365033071Z",
+  "model": "glm-5.3"
+}

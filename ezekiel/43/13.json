@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 43:13",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बेदी के नाप",
+      "rationale": "पूरा पद बेदी के नाप-जोख के बिबरन हकइ — हाथ, पसार आउ हथेली-चौड़ा में।"
+    },
+    {
+      "kind": "crux",
+      "subject": "חיק (गोद)",
+      "rationale": "'गोद' के अरथ में फरक हइ: निचला हिस्सा\/गटर (bsb), बोसम (ylt), या आधार; हम लिप्यन्तरन-विरुद्ध साक्षात् 'गोद' रखनी अइलह।"
+    },
+    {
+      "kind": "crux",
+      "subject": "גב",
+      "rationale": "गब = पीठ\/गुंबदार ऊपरी हिस्सा; 'ऊँच जगह' (kjv) बनाम 'आधार' (jps) — साक्षात् चित्र 'उपरी हिस्सा' रखलह।"
+    }
+  ],
+  "translation": "आउ इहे बेदी के नाप हथिन, हाथ में: हाथ एक हाथ आउ हथेली-चौड़ा हकइ; आउ ओकर गोद एक हाथ, आउ एक हाथ चौड़; आउ ओकर किनारा ओकर ओठ ले चारों दने एक पसार; आउ ई हकइ बेदी के उपरी हिस्सा ⟨गब⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "99079149b9664cb21d26999b6c55fa98dc7725cca1ac2bb6f224514b389e80c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/43\/13-16.1792002986287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आउ इहे"
+    },
+    {
+      "surface": "מדות",
+      "gloss": "नाप"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी के"
+    },
+    {
+      "surface": "באמות",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "וטפח",
+      "gloss": "आउ हथेली-चौड़ा"
+    },
+    {
+      "surface": "וחיק",
+      "gloss": "आउ गोद"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "आउ हाथ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौड़"
+    },
+    {
+      "surface": "וגבולה",
+      "gloss": "आउ ओकर किनारा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "שפתה",
+      "gloss": "ओकर ओठ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों दने"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "पसार"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "आउ ई"
+    },
+    {
+      "surface": "גב",
+      "gloss": "उपरी हिस्सा"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:36:26.287766271Z",
+  "model": "glm-5.3"
+}

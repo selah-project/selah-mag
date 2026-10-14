@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "के संग",
+      "rationale": "एहाँ את (854) बिलोम-चिन्हा नञ, 'के संग' के अरथ वाला आगम-पद हकइ; ⟨את⟩ चिन्हा जान-बूझ के रहलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "चर्चा",
+      "rationale": "שמעו के सिधा अरथ 'सुनाय\/खबर' हकइ; 'चर्चा' ओकर बहत रूप हकइ"
+    }
+  ],
+  "translation": "आउ यहवे यहोशुआ के संग ⟨את⟩ रहलन, आउ ओकर चर्चा पुरा धरती में फैल गेलाइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a6a6485352707eee21d69188f1a0c9587a947c41684df6ed5ad0047e2f9e8dd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/6\/25-27.1791993308572.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "के संग ⟨את⟩",
+      "marks": "यहोशुआ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ओकर चर्चा"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पुरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:55:08.573471359Z",
+  "model": "glm-5.3"
+}

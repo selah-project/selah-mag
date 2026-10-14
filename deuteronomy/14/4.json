@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "clean animals list",
+      "rationale": "Verse opens a taxonomic list of permitted animals — enumerating what may be eaten."
+    },
+    {
+      "kind": "idiom",
+      "subject": "שה כשבים \/ שה עזים",
+      "rationale": "Construct pair: 'flock-member of sheep \/ flock-member of goats'; rendered 'lamb of sheep \/ kid of goats' shape."
+    }
+  ],
+  "translation": "ई ऊ जीव-जंतु हकइ जेकरा तोहनी खा सकऽ हथिन — बैल, भेड़ के मेमना आउ बकरी के मेमना।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "04ef3a08525212de66191003461017c55080fb274ec431eedec4f533c64587e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/14\/1-4.1791992355428.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "जीव-जंतु"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खा सकऽ हथिन"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שה",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "भेड़ के"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "आउ मेमना"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:39:15.429698086Z",
+  "model": "glm-5.3"
+}

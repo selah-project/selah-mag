@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלף",
+      "rationale": "'झाड़ा जाए' (उखाड़ल जाए) बनाम 'उगऽ हइ' — अंग्रेजी के अनुवादक दुनो दने गेलन"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבש",
+      "rationale": "पद 5 के לजाना (יבשו) के संग जड़-मेल — दुसमन सूख जातइ अरथात् लजावऽ होतइ"
+    }
+  ],
+  "translation": "ओनी छत के घास जइसन होतइ जे झाड़ा जाए से पहिलहीं सूख जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/129\/5-8.1792006197984.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "घास जइसन"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "छत के"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "पहिलहीं"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "झाड़ा जाए से"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "सूख जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:57.985449773Z",
+  "model": "glm-5.3"
+}

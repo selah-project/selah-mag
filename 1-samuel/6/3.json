@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨तोहनी⟩",
+      "rationale": "किरिया के करता — इब्रानी धारा में किरिया-रूप में छिपल हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשם",
+      "rationale": "अपराध-बलि — 'दोष' बनाम 'दोष-बलि'; संदर्भ बलि के संकेत करऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השב תשיבו",
+      "rationale": "एके जड़ शूव के दोहराव — पक्का कइल गेल क्रिया, मगही में 'लौटाबे-लौटाबे' से झलक"
+    }
+  ],
+  "translation": "आउ ओकनी कहलन — जे यिस्राएल के एलोहीम के सन्दूक ⟨את⟩ के पठाबऽ हकऽ, त ओकरा खाली मत पठाउ; काहे कि लौटाबे-लौटाबे ओकरा अपराध-बलि लौटाउ, तब ⟨तोहनी⟩ कुरल होबऽ आउ जान पड़तइ कि ओकर हाथ काहे हमनी के संग से नञ हटऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/6\/1-4.1791994978721.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "आउ ओकनी कहलन"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जे"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "पठाबऽ हकऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के एलोहीम के सन्दूक"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "पठाउ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "खाली"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "השב",
+      "gloss": "लौटाबे-लौटाबे"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "लौटाउ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "अपराध-बलि"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "कुरल होबऽ"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "आउ जान पड़तइ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨तोहनी⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "हटऽ हइ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "हमनी के संग से"
+    }
+  ],
+  "timestamp": "2026-10-14T16:22:58.722392103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 11:4",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ים סוף",
+      "rationale": "סוף सरकंडा हकइ — 'लाल समुंदर' चलनसार रूप हकइ, बाकि मूल 'सरकंडा के समुंदर' हकइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד היום הזה",
+      "rationale": "इब्रानी के थिर बोली — 'एही दिन ले' — अनुवाद में जस के तस रखल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल",
+      "rationale": "तोहनी के पाछे — कथा सीधे संबोधित लोग के अनुभव से जोड़ऽ हइ।"
+    }
+  ],
+  "translation": "आउ जे ऊ मिस्रयिम के सेना के, ओकर घोड़ा सब के आउ ओकर रथ सब के कइलन — जे ⟨את⟩ सरकंडा के समुंदर के पानी के ओकनी के मुँह पर डहरा देलन, जब ऊ तोहनी के पाछे दौरलन — आउ यहवे ओकनी के एही दिन ले नष्ट कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ef31f912133a2ad1a85300cb17934c74cead5a3e93929008cea6e78a38d84730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/11\/1-4.1791992299515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "לחיל",
+      "gloss": "सेना के"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "לסוסיו",
+      "gloss": "ओकर घोड़ा सब के"
+    },
+    {
+      "surface": "ולרכבו",
+      "gloss": "आउ ओकर रथ सब के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "הציף",
+      "gloss": "डहरा देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पानी"
+    },
+    {
+      "surface": "מי",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "सरकंडा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ओकनी के मुँह"
+    },
+    {
+      "surface": "ברדפם",
+      "gloss": "जब ऊ दौरलन"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "तोहनी के पाछे"
+    },
+    {
+      "surface": "ויאבדם",
+      "gloss": "आउ नष्ट कइलन ओकनी के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "एही दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    }
+  ],
+  "timestamp": "2026-10-14T15:38:19.516868130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "हिब्रू में आदेसवाचक सर्बनाम नञ हइ, मगही के चाही"
+    },
+    {
+      "kind": "mystery",
+      "subject": "गुत्थी",
+      "rationale": "खिदोत — जान-बूझ के गुत्थी रूप में छिपावल बात"
+    },
+    {
+      "kind": "substitution",
+      "subject": "उगारब",
+      "rationale": "נבע के सुभाविक अरथ फूट पड़ना हकइ — पानी के झरना के तुलना"
+    }
+  ],
+  "translation": "हम मशल में ⟨अपन⟩ मुँह खोलब; पुराना जमाना के गुत्थी हम उगारब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3e3ee46cb0243c73fa00113b107409634b754c7f3d77dde0081c59b41f124e16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/1-4.1792005483399.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "खोलब"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "मशल में"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "उगारब"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "गुत्थी"
+    },
+    {
+      "surface": "מני",
+      "gloss": "…के"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "पुराना जमाना"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:03.400487802Z",
+  "model": "glm-5.3"
+}

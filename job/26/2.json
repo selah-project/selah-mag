@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के",
+      "rationale": "मगही के करम-चिन्हा; इब्रानी ल\/לא के बनावट खुद करम नञ देखावऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "का ... ?",
+      "rationale": "मह प्रसन (का?) होवे बने हकइ या बेइन (कइसने!) होवे — KJV प्रसन, ASV\/JPS बेइन"
+    }
+  ],
+  "translation": "का मदद करलऽ हऽ ⟨के⟩ बिनु बल के? का छुड़ालऽ हऽ ओ भुजा जेकर कोनो बल नञ हकइ!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a2f3b40aff160d0dd3c365ff1752a3fd0cf77a6274e6186a3bce8ca368fff7d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/26\/1-4.1792007570921.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "मदद करलऽ हऽ"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "बिनु"
+    },
+    {
+      "surface": "כח",
+      "gloss": "बल"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "छुड़ालऽ हऽ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "भुजा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:52:50.922623365Z",
+  "model": "glm-5.3"
+}

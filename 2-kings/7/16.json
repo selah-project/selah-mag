@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "साह आउ शेकेल",
+      "rationale": "अनाज के नाप आउ बजन के गिनती — भाव यहवे के बचन के पूरा होए के गवाही"
+    },
+    {
+      "kind": "elision",
+      "subject": "בשקल",
+      "rationale": "इब्रानी 'शेकेल में' कहऽ हकइ — बेचल के किरिया मूलपाठ में नञ हकइ, चलनसार भाव में अनुमानल जाऽ हइ"
+    }
+  ],
+  "translation": "आउ लोग निकललन आउ आराम के डेरा के ⟨את⟩ लूटलन; आउ एक साह मैदा एक शेकेल में भेल, आउ दू साह जौं एक शेकेल में, यहवे के बचन के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0650925f038af21d69307956d1da21e9ca7bb89c309b72b226877c6f7de52592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/7\/13-16.1791997977428.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आउ निकललन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "आउ लूटलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आराम के डेरा"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "डेरा"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "आराम के"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "एक साह"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "मैदा"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "एक शेकेल में"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "आउ दू साह"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "जौं"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "एक शेकेल में"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "बचन के मोताबिक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:12:57.430121880Z",
+  "model": "glm-5.3"
+}

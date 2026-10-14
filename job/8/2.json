@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जइसन हकइ",
+      "rationale": "इब्रानी ठाठ संग तुलना क्रिया नञ देतइ; बाकी अनुवाद जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "רוח बतास आउ साँस दुनो हकइ — बिलदद के काट में दुनो अरथ साथ चलऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "अय्यूब के",
+      "rationale": "बिलदद सीधे अय्यूब के सवाल पूछऽ हइ"
+    }
+  ],
+  "translation": "कने देर ले तूँ ई सब कहतइ? तोहर मुँह के बचन जोरदार रूआख जइसन ⟨हकइ⟩?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fafd15e4a70a24007137c865d5725f65764c8a9d7f7cdb57b19058387b9c1a59",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/8\/1-4.1792007239469.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "कने"
+    },
+    {
+      "surface": "אן",
+      "gloss": "देर ले"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "कहतइ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "जोरदार"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "तोहर मुँह के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:19.469830478Z",
+  "model": "glm-5.3"
+}

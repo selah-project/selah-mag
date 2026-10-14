@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ועשתה",
+      "rationale": "'करबइ' के जगह 'काटबइ' — इब्रानी कहऽ हइ 'करबइ ओकर नाखून के', अरथ संग खाली नाखून बर हइ।"
+    }
+  ],
+  "translation": "तूँ ओकरा तोहर घर के भीतर लाबऽ, आउ ऊ आपन मूड़ी के ⟨את⟩ मुँड़ाबइ आउ आपन नाखून ⟨את⟩ काटबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8ad1da0e2ebf400578b100d2f5cf7aab2e4391626019673be8dd8334c3ea8e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/21\/9-12.1791992557465.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "लाबऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "तोहर घर"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "मुँड़ाबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन मूड़ी"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "आपन मूड़ी"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "काटबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन नाखून"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "आपन नाखून"
+    }
+  ],
+  "timestamp": "2026-10-14T15:42:37.466958356Z",
+  "model": "glm-5.3"
+}

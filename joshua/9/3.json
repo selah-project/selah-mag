@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "भूतकाल स्पस्ट करे बर जोड़ल; इब्रानी के क्रिया-रूप ही काल बतावऽ हइ।"
+    }
+  ],
+  "translation": "आउ गिबओन के बसल लोग सुनलन ⟨את⟩ जे यहोसूआ यरीहो बर आउ अय बर कएलन हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f002e5b21346f381ff071738c89fe75eaa95ca3e15bce7753dcf64d62e8d3344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/9\/1-4.1791993383552.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "आउ बसल लोग"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "गिबओन के"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे यहोसूआ यरीहो बर आउ अय बर कएलन हलइ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कएलन हलइ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोसूआ"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "यरीहो बर"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "आउ अय बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:56:23.553717289Z",
+  "model": "glm-5.3"
+}

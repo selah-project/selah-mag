@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ … हइ",
+      "rationale": "इब्रानी में किरिया नञ; मगही के बाक्य बर दू कोपुला जोड़ल गेलइ"
+    },
+    {
+      "kind": "mystery",
+      "subject": "की करऽ हऽ?",
+      "rationale": "राजा के काम पर कोनो सोध के जबाब नञ — बतावल-बंद बात के ढंग"
+    }
+  ],
+  "translation": "जहाँ राजा के बचन हइ, ओतए अधिकार हइ; आउ ओकरा कोन कहतइ — की करऽ हऽ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/8\/1-4.1792008471023.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "अधिकार"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आउ कोन"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहतइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "करऽ हऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:07:51.024675470Z",
+  "model": "glm-5.3"
+}

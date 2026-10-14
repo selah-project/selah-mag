@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למס עבד",
+      "rationale": "'बेगार बर काम करए बरा' — केजेवी 'सेवा देवे वाला (लगान)', जेपीएस 'बिधि-काम बरा सेवक' — लगान बनाम जबरन काम, दुनो अरथ में गुँजऽ हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "עד היום הזה",
+      "rationale": "'ई दिन तक' — लिखक के जमाना के बात, आगू के पढ़निहार के नञ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הורישו",
+      "gloss": "",
+      "rationale": "'खदेड़लन' — जड़ ङारास दहीं के 'कब्जा करना\/हिस्सा लेना'; 'खदेड़ना' जुड़वा अरथ हकइ।"
+    }
+  ],
+  "translation": "आउ ओकनी ⟨את⟩ कनानी के जे गेजेर में बसल हल, खदेड़लन नञ; आउ कनानी एफ्रयिम के बीच में ई दिन तक बसल रहलन, आउ भेलन बेगार बर काम करए बरा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "44311bccf6264e785b994295119ed5743b516c244641fd0fc3eadd223ad75e1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/16\/9-10.1791993637895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "खदेड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कनानी के"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "कनानी के"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "जे बसल हल"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "गेजेर में"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "आउ बसल रहलन"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "कनानी"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रयिम"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेलन"
+    },
+    {
+      "surface": "למס",
+      "gloss": "बेगार बर"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "काम करए बरा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:00:37.896084617Z",
+  "model": "glm-5.3"
+}

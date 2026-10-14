@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 6:3",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "איש את ידו",
+      "rationale": "शाब्दिक 'हर एक ⟨את⟩ अपन हाथ' — 'अपन हिस्सा' चरावे के अरथ में ओकरा के जोड़ित 'अपन हिस्सा' लेलनिये।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעים \/ רעו",
+      "rationale": "एके जड़ रेखा के दोहराव — चरावऽ वाला बाहरी सेना के तस्वीर।"
+    }
+  ],
+  "translation": "ओकरा लग गोरू-चरावऽ वाला आउ ओकनी के झुंड आबतइ; ओकर ऊपर ओकनी चारो दने तम्बू गाड़तइ; हर एक अपन हिस्सा चरातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ce034e7494189da34e25a48e89a75395785afb3971c68b39f0f17df39daea6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/6\/1-4.1792000262959.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "आबतइ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "गोरू-चरावऽ वाला"
+    },
+    {
+      "surface": "ועדריהם",
+      "gloss": "आउ ओकर झुंड"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "गाड़तइ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "चरातइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन हिस्सा"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "अपन हाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:51:02.960363541Z",
+  "model": "glm-5.3"
+}

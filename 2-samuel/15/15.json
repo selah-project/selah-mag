@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 15:15",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हिअअइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ — 'देखऽ, तोहर नौकर' एके छोड़ल गेल, मगही के क्रिया कोस्ठक में"
+    },
+    {
+      "kind": "you",
+      "subject": "सेवक राजा के",
+      "rationale": "राजा के सेवकन के प्रत्युत्तर — सीधे सम्बोधन"
+    }
+  ],
+  "translation": "आउ राजा के नौकर-चाकर राजा से कहलन: जे कुछ हमर मालिक राजा चुनथिन, देखऽ, तोहर नौकर-चाकर ⟨हिअअइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/15\/13-16.1791996252169.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "नौकर-चाकर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लग"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "जे कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "चुनथिन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हमर मालिक"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "तोहर नौकर-चाकर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:44:12.170824760Z",
+  "model": "glm-5.3"
+}

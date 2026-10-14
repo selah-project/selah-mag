@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 25:8",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי אם בא אתה עשה",
+      "rationale": "पढ़े के दू रस्ता: 'अगर तूँ जा ही हए, त कर' (केजेवी) बनाम 'अगर तूँ जेहन करऽ हए, ताकत बान्ह' (यानी डेरा डालऽ) — इ अनुवाद दोसर रस्ता लेलकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעזור ולהכשיל",
+      "rationale": "एके जड़ के दोहराव — गिराबे के किरिया दू बेर (याछ्शीलेखा आउ लेहाछ्शील) — उठावे आउ गिराबे के उल्टा जोड़ी।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יכשילך",
+      "rationale": "'ठोकर खुवाबे' के जगह 'गिराबे' लेल गेलइ — टेक्खाल-चाल (stumble) के साफ चित्तर।"
+    }
+  ],
+  "translation": "काहे कि अगर तूँ जाए के लेखा करऽ हए, त लड़ाई बर ताकत बान्ह — एलोहीम तोहरा दुसमन के आगे गिराबतइ, काहे कि एलोहीम में ताकत हइ — सहायता करे बर आउ गिराबे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5681a1be4c246aa526f9d1c2fd7594b1bf1623433f96e5a00bbd222a22b251bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/25\/5-8.1792011195777.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "בא",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कर"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ताकत बान्ह"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "लड़ाई बर"
+    },
+    {
+      "surface": "יכשילך",
+      "gloss": "तोहरा गिराबतइ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "दुसमन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יש",
+      "gloss": "हइ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "एलोहीम में"
+    },
+    {
+      "surface": "לעזור",
+      "gloss": "सहायता करे बर"
+    },
+    {
+      "surface": "ולהכשיל",
+      "gloss": "आउ गिराबे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:53:15.778330178Z",
+  "model": "glm-5.3"
+}

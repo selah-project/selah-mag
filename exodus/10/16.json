@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बिरुद्ध",
+      "rationale": "इब्रानी के ל ('के बर') पाप के संग बिरुद्ध के अरथ देत हइ; मगही में ई जोड़ल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "फरोह मोशे आउ अहरोन के सीधे संबोधन करऽ हइ — 'तोहनी के एलोहीम यहवे'।"
+    }
+  ],
+  "translation": "आउ फरोह जल्दी कइलन मोशे आउ अहरोन (हारून) के बोलावे के बर, आउ कहलन — हम तोहनी के एलोहीम यहवे के बिरुद्ध आउ तोहनी के बिरुद्ध पाप कइलियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "47566f15c7f90355fe94e5101cacfceb4db6b43ec8f1c5f2fe6e9d5cb34cb414",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/10\/13-16.1791988320183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "आउ जल्दी कइलन"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरोह"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "बोलावे के बर"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "आउ अहरोन (हारून)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "पाप कइलियन"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के बिरुद्ध"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "आउ तोहनी के बिरुद्ध"
+    }
+  ],
+  "timestamp": "2026-10-14T14:32:00.184850336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to YHWH",
+      "rationale": "पद सीधे यहवे से बात करऽ हइ — 'तोहर गोड़', 'तोहर कुत्ता'"
+    },
+    {
+      "kind": "addition",
+      "subject": "खून",
+      "rationale": "मनिहार के खून मन में साफ होवऽ हइ; मूलपाठ में दोसर बेर नञ देखावल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמחץ",
+      "rationale": "पद 22 के किरिया फेर — मूड़ी कूटल आउ गोड़ दबल, एके जड़"
+    }
+  ],
+  "translation": "एकरा ले कि तोहर गोड़ खून में दबऽ, तोहर कुत्ता के जीभ बैरिन के ⟨खून⟩ से ओकर हिस्सा ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/68\/21-24.1792005322317.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "एकरा ले कि"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "दबऽ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "तोहर गोड़"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "खून में"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "तोहर कुत्ता के"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "बैरिन के"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:22.318451455Z",
+  "model": "glm-5.3"
+}

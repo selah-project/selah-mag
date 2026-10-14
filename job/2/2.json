@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "सातान",
+      "rationale": "यहवे सातान से सीधे प्रस्न करऽ हथिन — ‘कहाँ से अइलऽ हा?’"
+    },
+    {
+      "kind": "crux",
+      "subject": "משט",
+      "rationale": "शाब्दिक अरथ ‘चाबुक मारे हुए दौड़ना’ — ‘घूमे-टहले’ चलनसार अनुवाद हकइ।"
+    }
+  ],
+  "translation": "आउ यहवे सातान से कहलन — कहाँ से अइलऽ हा? आउ सातान यहवे के जवाब देलन ⟨את⟩ आउ कहलन — धरती में घूमे-टहले से आउ ओकरा भीतर एक्केर-एक्केर टहले से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cf9a90cd27c919e61e5f805101570ce0608272af93015226d9f070f033045f42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/2\/1-4.1792007163889.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "सातान"
+    },
+    {
+      "surface": "אי",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "से"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "अइलऽ हा"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "जवाब देलन"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "सातान"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "משט",
+      "gloss": "घूमे-टहले से"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "आउ एक्केर-एक्केर टहले से"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा भीतर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:46:03.890285849Z",
+  "model": "glm-5.3"
+}

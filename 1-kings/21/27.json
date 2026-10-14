@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 21:27",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "साक",
+      "rationale": "שק रूखा खपरैल कपड़ा हकइ — शोक के चिन्हा; 'साक' एके थिर रूप।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויהלך אט",
+      "rationale": "'धीरे-धीरे टहरलक' — किछु 'झुकल गोड़ी चललक' बढ़ावैत हथिन; शाब्दिक 'धीमा चलैत' रखल गेल।"
+    }
+  ],
+  "translation": "आउ अहाब के ई बात ⟨את⟩ सुने पर ओ ओकर कपड़ा फाड़लक, ओकर मांस पर साक पिन्हलक, उपवास रखलक, साक में लेटलक आउ धीरे-धीरे टहरलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "977dcc9e3f4d10df9d2f858a83d3cf8d6755b0eaf067c115eb69c1bee39f6f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/21\/25-28.1791997623088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होलइ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "सुने पर"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई बात"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "फाड़लक"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ओकर कपड़ा"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "पिन्हलक"
+    },
+    {
+      "surface": "שק",
+      "gloss": "साक"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ओकर मांस"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "उपवास रखलक"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "लेटलक"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "साक में"
+    },
+    {
+      "surface": "ויהלך",
+      "gloss": "टहरलक"
+    },
+    {
+      "surface": "אט",
+      "gloss": "धीरे-धीरे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:07:03.090109222Z",
+  "model": "glm-5.3"
+}

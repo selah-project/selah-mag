@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to यिर्मयाहू",
+      "rationale": "नबी के सीधा निषेध — ओकरा बर प्रार्थना बंद करे के हुक्म"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל פגע בי",
+      "rationale": "तपस्या-पूर्वक मध्यस्थता बनाम सामान्य निवेदन; 'हमरा गुहार मत लगाबे' लिएल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "क्रिया-योजक 'सुनैत हइ' में; इब्रानी के participial ढाँचा में copula नञ हकइ"
+    }
+  ],
+  "translation": "आउ तूँ ई लोग बर बिनती मत करबे, आउ ओकनी बर पुकार आउ बिनती मत उठाबे, आउ हमरा गुहार मत लगाबे, काहे कि हम ⟨את⟩ तोहरे नञ सुनैत हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "148b53a3ffc43a6f242cd69c674d393ef86f2b5435504d03917c67c5417e2985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/7\/13-16.1792000288931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "बिनती करबे"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "बर"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "उठाबे"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "ओकनी बर"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "पुकार"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "आउ बिनती"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "गुहार लगाबे"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "हम नञ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनैत"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तोहरे",
+      "marks": "तोहरे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:51:28.932846827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישובו \/ וישבו",
+      "rationale": "same root שוב twice — they turned back and made them return; Magahi फिर घुसलन \/ फेर ले अइलन keeps the echo loosely"
+    }
+  ],
+  "translation": "बाकि ओकर बाद ओकनी फिर घुसलन आउ ⟨את⟩ ओ दास सब आउ ⟨את⟩ ओ दासी सब के, जेकरा ओकनी आजाद छोड़ि देलन हल, फेर ले अइलन आउ ओकनी के दास आउ दासी बनाके दबा लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2387f239118f493a86a689b1d38bb3b492e3bd5cfb017d520ede28a8f5736ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/34\/9-12.1792001055344.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "फिर घुसलन"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "फेर ले अइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ दास सब"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ओ दास सब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओ दासी सब"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ओ दासी सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "छोड़ि देलन हल"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "आजाद"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "दबा लेलन"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "दास बनाके"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "आउ दासी बनाके"
+    }
+  ],
+  "timestamp": "2026-10-14T18:04:15.345527771Z",
+  "model": "glm-5.3"
+}

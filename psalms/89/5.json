@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "संगीत-विराम चिन्हा, लिप्यन्तरित रहलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गद्दी",
+      "rationale": "כסא के सामान्य 'आसन' के जगह राज-आसन के अरथ"
+    }
+  ],
+  "translation": "सदा लेखा हम तोहर बिया थिर करबइ, आउ पीढ़ी-पीढ़ी बर तोहर गद्दी बनइबइ। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "178bf9212f44ae038112b02baed77b9860670dd0c53b0eba6cac22ba3f622af4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/89\/5-8.1792005600114.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "सदा लेखा"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "थिर करबइ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "तोहर बिया"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "आउ बनइबइ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "तोहर गद्दी"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:20:00.116269151Z",
+  "model": "glm-5.3"
+}

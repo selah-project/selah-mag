@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 32:31",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אפי",
+      "rationale": "इब्रानी ‘हमर नाक’ — नथुना के फूलल क्रोध के चिन्हा; मगही में ‘नाक-क्रोध’ जोड़ के रखल"
+    },
+    {
+      "kind": "addition",
+      "subject": "जेदिन",
+      "rationale": "אשर काल-अरथ में बटा, मगही में साफ काल-सब्द चाही"
+    }
+  ],
+  "translation": "काहे कि हमर नाक-क्रोध आउ हमर कोप के कारन एहि नगर हमरा बर रहलइ हकइ — जेदिन ओ ⟨את⟩ उकरा बनालन, ओहि दिन से ले के एहि दिन ले — ओकरा हमर मुँह के आगे से हटाबे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9c79303358388be4b6d6ff6706b66754d989ca81e7dbc2ce3a53787f4ce81d8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/32\/29-32.1792001146568.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारन"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "हमर नाक-क्रोध"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ के कारन"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "हमर कोप"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "रहलइ हकइ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "एहि नगर"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एहि"
+    },
+    {
+      "surface": "למן",
+      "gloss": "से"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेदिन"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "बनालन"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ उकरा",
+      "marks": "उकरा (एहि नगर)"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले के"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एहि"
+    },
+    {
+      "surface": "להסירה",
+      "gloss": "ओकरा हटाबे बर"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "के आगे से"
+    },
+    {
+      "surface": "פני",
+      "gloss": "हमर मुँह"
+    }
+  ],
+  "timestamp": "2026-10-14T18:05:46.569761799Z",
+  "model": "glm-5.3"
+}

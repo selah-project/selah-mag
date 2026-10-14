@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-kings 22:52",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सत्रहवाँ बरिस · दू बरिस",
+      "rationale": "regnal-year dating formula: accession year synchronized with Jehoshaphat's seventeenth year, reign-length two years."
+    },
+    {
+      "kind": "substitution",
+      "subject": "सत्रहवाँ",
+      "rationale": "שבע עשרה is cardinal 'seven-ten' = seventeen; Magahi requires the ordinal 'seventeenth' before 'year'."
+    }
+  ],
+  "translation": "अहाब के बेटा अहज्याहु शोमरोन में यिस्राएल पर राज करलक — यहूदा के राजा यहोशाफात के सत्रहवाँ बरिस — आउ ऊ यिस्राएल पर दू बरिस राज करलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e920bff9dc800c7fe1971a508456b3c5e064b5537f12b8f3c09dfa751281cdfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/22\/49-52.1791997618075.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחזיהו",
+      "gloss": "अहज्याहु"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज करलक"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "शोमरोन में"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "यहोशाफात के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राज करलक"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "दू बरिस"
+    }
+  ],
+  "timestamp": "2026-10-14T17:06:58.076908809Z",
+  "model": "glm-5.3"
+}

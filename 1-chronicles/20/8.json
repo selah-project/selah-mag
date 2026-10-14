@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "हाथ में गिरलन",
+      "rationale": "इब्रानी ביד נפל — 'हाथ में गिरऽ हइ' — के मतलब ओकर बस में आ गेलइ; मगही में एके रूप में रखल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "लהרפא",
+      "rationale": "इब्रानी 'ल-हरापा' नाम\/घराना हकइ (राफा के संतान); 'बड़का मनुस' कहऽ त नाम मेटावल जइतइ।"
+    }
+  ],
+  "translation": "ई सब गत में रापा के घराना में जन्मल रहथिन, आउ ओकनी दाविद के हाथ में आउ ओकर नौकर सब के हाथ में गिरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c770582e49c80fa38409a831fff55de1081b0d05c5c41f12cd8872c94bf28740",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/20\/5-8.1792010340685.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "जन्मल रहथिन"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "रापा के घराना में"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "गत में"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "आउ गिरलन"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "के हाथ में"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "आउ ... के हाथ में"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ओकर नौकर सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:39:00.686663540Z",
+  "model": "glm-5.3"
+}

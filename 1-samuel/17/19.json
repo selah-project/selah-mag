@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אלה",
+      "rationale": "एला नाउ के अरथ 'बड़ गाछ' (terebinth) हकइ — जगह के नाउ में गाछ के छाँह।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "इब्रानी के क्रिया संज्ञा-वाक्य बनावऽ हइ; मगही भूतकाल आदर के रूप जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "आउ शाऊल आउ ऊ सब आउ यिस्राएल के सब आदमी एला के घाटी में पलिस्ती सब के संग लड़ऽ हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0ae7269ca59e02ce205286d9e0deda27bd71d5724ff930513c96d778131a3a27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/17\/17-20.1791995341860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "आउ शाऊल"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "आउ ऊ सब"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "घाटी में"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "एला के"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "लड़ऽ हलन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिस्ती सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:29:01.861565910Z",
+  "model": "glm-5.3"
+}

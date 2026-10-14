@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 22:49",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשר",
+      "rationale": "consonantal עשर here is the Kethiv-form of עשה 'made' (so JPS), not the number 'ten'; rendered 'made'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תרשיש",
+      "rationale": "'ships of Tarshish' is the epithet of a seaworthy merchant vessel; kept as the place-name Tarshish."
+    }
+  ],
+  "translation": "यहोशाफात तर्शीस के जहाज बनइलन, ओफिर जाए बर सोना लेए; बाकि ऊ नञ गेलन, काहे कि जहाज एत्सियोन-गेबेर में टूट गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e920bff9dc800c7fe1971a508456b3c5e064b5537f12b8f3c09dfa751281cdfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/22\/49-52.1791997618075.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोशाफात"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "जहाज"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "तर्शीस के"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "जाए बर"
+    },
+    {
+      "surface": "אופירה",
+      "gloss": "ओफिर"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "सोना लेए"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "टूट गेलन"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "जहाज"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "एत्सियोन"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "गेबेर में"
+    }
+  ],
+  "timestamp": "2026-10-14T17:06:58.076415549Z",
+  "model": "glm-5.3"
+}

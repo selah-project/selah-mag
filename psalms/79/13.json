@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידה \/ הודה",
+      "rationale": "ידה के मूल अरथ प्रक्षेप करना हकइ — इब्रानी चाल में 'हाथ फेक के सराहना करना'; मगही 'धन्यवाद देना' एकर चलनसार रूप हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נספר",
+      "rationale": "साफर के मूल अरथ गिनती-तल लगाना (tally) हकइ; 'गिनतइ' ओही चाल रखऽ हइ — न केवल 'बतावना'।"
+    },
+    {
+      "kind": "you",
+      "subject": "to יהוה",
+      "rationale": "पूरा पद यहवे के सीधा सम्बोधन हकइ — 'तोहरा', 'तोहर' बार-बार।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "לעולם לדר ודר",
+      "rationale": "समय के नाप — सदा, पीढ़ी-दर-पीढ़ी — बिना अन्त के गिनती।"
+    }
+  ],
+  "translation": "आउ हमनी — तोहर लोग आउ तोहर चरानी के भेड़ के झुंड — तोहरा धन्यवाद देतइ सदा बर, पीढ़ी बर आउ पीढ़ी बर तोहर प्रसंसा गिनतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c2d8efcd060e2693b68eb0f38290a429a217c4e7e42a21345bad351431bfefdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/79\/13-13.1792005491301.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "आउ हमनी"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहर लोग"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "आउ भेड़"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "तोहर चरानी के झुंड"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "धन्यवाद देतइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "पीढ़ी बर"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "आउ पीढ़ी बर"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "गिनतइ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "तोहर प्रसंसा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:11.301485198Z",
+  "model": "glm-5.3"
+}

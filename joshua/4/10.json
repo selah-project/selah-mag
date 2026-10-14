@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 4:10",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "(मूसा)",
+      "rationale": "मोशे के पहिला आगमन — चलनसार रूप कोस्ठक में"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד תם",
+      "rationale": "'जब ले पूरा नञ भेल' — इब्रानी के 'जब तक समाप्त' के बनावट, मगही में काल-बाक्य बनल"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וימהרו",
+      "rationale": "'जल्दी कएलन' बनाम 'बढ़िया चाल से चललान' — मूल अरथ 'शीघ्र' हकइ"
+    }
+  ],
+  "translation": "आउ पुरोहित, वाचा के सन्दूक उठावै वाला, यर्दन के बीच ठाढ़ रहलन जब ले ऊ सब बात पूरा नञ भेल जे यहवे यहोशुआ के ⟨את⟩ हुकम देलन हल कि लोग सब के कहे; जइसन मोशे (मूसा) यहोशुआ के ⟨את⟩ हुकम देलन हल; आउ लोग सब जल्दी कएलन आउ पार गेलान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0808450a2322e6610a7278093b460c9754b46b743936d60cd47c0ed7b30816c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/4\/9-12.1791993223892.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכהנים",
+      "gloss": "आउ पुरोहित"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "उठावै वाला"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ठाढ़ रहलन"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "תם",
+      "gloss": "पूरा नञ भेल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकम देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहोशुआ के"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "कहे बर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग सब"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "जइसन सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकम देलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहोशुआ के"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "जल्दी कएलन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग सब"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "पार गेलान"
+    }
+  ],
+  "timestamp": "2026-10-14T15:53:43.893455969Z",
+  "model": "glm-5.3"
+}

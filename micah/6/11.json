@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 6:11",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "weighing",
+      "rationale": "तराजू आउ वजन के पत्थल — बेइमान तुलाई के आरोप, माप के बिधान के उल्लंघन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כיס",
+      "rationale": "'थैली' — इब्रानी के किस शब्द के अरथ वजन के पत्थल राखले के थैली हकइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "האזכה",
+      "rationale": "यहवे के ओर से प्रश्न: 'का हम निर्दोस गनब' — कुछ अनुवाद एकरा 'का हम माफ करब' के अरथ में लेथिन।"
+    }
+  ],
+  "translation": "का हम दुष्ट तराजू से निर्दोस गनल जाइब, आउ ठगी के पत्थल के थैली से?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "14ecb6a1b26b324bf8125e185a8da189ca560aabba32e9cbc819594ea1fbcee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/6\/9-12.1792003815937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האזכה",
+      "gloss": "निर्दोस गनल जाइब"
+    },
+    {
+      "surface": "במאזני",
+      "gloss": "तराजू से"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "ובכיס",
+      "gloss": "आउ थैली से"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ठगी"
+    }
+  ],
+  "timestamp": "2026-10-14T18:50:15.938844779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "करे के",
+      "rationale": "इब्रानी में क्रिया-नाम पहिले-पहिल हइ; मगही के जोड़ 'करे के' लेना पड़ल।"
+    }
+  ],
+  "translation": "परेम करे के बेरा आउ घृणा करे के बेरा; जुद्ध के बेरा आउ सांति के बेरा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "610a4c00af3d6d5621274ed8c4282f60a23fb5d5069a4d82e4b7e9d537c0e141",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/3\/5-8.1792008330756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "बेरा"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "परेम करे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आउ बेरा"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "घृणा करे के"
+    },
+    {
+      "surface": "עת",
+      "gloss": "बेरा"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "जुद्ध"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आउ बेरा"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:30.757483299Z",
+  "model": "glm-5.3"
+}

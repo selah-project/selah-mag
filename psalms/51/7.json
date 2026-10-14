@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "जनमलिए",
+      "rationale": "חוללתי के सुभाविक अरथ 'कराहना\/घुमाव खाना' (प्रसव के पीड़ा) हकइ; 'जनमलिए' ओकर परिणाम बतावऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "पेट में",
+      "rationale": "יחמתני के अरथ 'गर्भ धरलन' — सुभाविक मगही में पूरक चाही"
+    }
+  ],
+  "translation": "देखो, अधर्म में हम जनमलिए, आउ पाप में हमर माय हमरा ⟨पेट में⟩ धरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/51\/5-8.1792005144860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "अधर्म में"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "हम जनमलिए"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "आउ पाप में"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "हमरा धरलन"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "हमर माय"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:24.860995536Z",
+  "model": "glm-5.3"
+}

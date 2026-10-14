@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एकरा बाद",
+      "rationale": "ואחרי כן के बाद-अरथ स्पस्ट करे बर।"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "H854 के संग-चिन्हा ⟨את⟩ रूप में देखावल गेलइ, अनुवाद में संग से मिललइ।"
+    }
+  ],
+  "translation": "आउ ऊ अपन सब भाय के चूमलन आउ ओकरा ऊपर रोवलन; आउ एकरा बाद ओकर भाय सब ⟨את⟩ ओकरा संग बात कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6a7e3cc03f8f0e37dd7913e0641362b0a4363f9162151d4d144ca80a6676ca2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/45\/13-16.1791987850204.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "चूमलन"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब के"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "अपन भाय"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "आउ रोवलन"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "आउ एकरा बाद"
+    },
+    {
+      "surface": "כן",
+      "gloss": "<एकरा>"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "बात कइलन"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाय सब"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकरा संग"
+    }
+  ],
+  "timestamp": "2026-10-14T14:24:10.205004552Z",
+  "model": "glm-5.3"
+}

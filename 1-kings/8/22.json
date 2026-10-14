@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 8:22",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כפיו",
+      "rationale": "'दूनो हाथ' — इब्रानी दुइबचन के चित्र (कातर\/तलवा), मगही में जोड़ से देखावल गेल।"
+    },
+    {
+      "kind": "elision",
+      "subject": "השמים",
+      "rationale": "अकास के दुइबचन रूप मगही में अलग से नञ देखाएल जा सकऽ हइ।"
+    }
+  ],
+  "translation": "आउ शलोमो (सुलैमान) यहवे के बेदी के आगे ठाढ़ हो गेलन, यिस्राएल (इस्राएल) के पूरा सभा के सामने, आउ अकास के ओर अपन दूनो हाथ फैललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "aa28da6106495960b6f25e40efbc56f7b27b9827e93385863a3acbb500a77bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/8\/21-24.1791997087027.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "आउ ठाढ़ हो गेलन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो (सुलैमान)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल)"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "आउ फैललन"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "अपन दूनो हाथ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास के ओर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:58:07.028091325Z",
+  "model": "glm-5.3"
+}

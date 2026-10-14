@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "पाप-बलि",
+      "rationale": "חטאת एके शब्द में पाप आउ ओकर बलि दुनू के अरथ देतइ; मगही में दू सब्द लेबे पड़लन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ ऊ",
+      "rationale": "हिब्रू के छोट हवाला הוא के पूरा बाक्य बनावे बर किरिया जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ बैल के छावनी से बाहर ले जातइ आउ ⟨אתו⟩ जरतइ, जइसन ⟨את⟩ पहिला बैल जरलन — परजा के पाप-बलि हकइ ऊ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3161e76fed3a25b4673720503f0a31efeb141e55372c3b8ecd2ef313466916d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/4\/21-24.1791989579123.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ले जातइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बैल"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "छावनी से"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "आउ जरतइ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "बैल"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "जरलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पहिला बैल"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप-बलि"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "परजा के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:52:59.123574328Z",
+  "model": "glm-5.3"
+}

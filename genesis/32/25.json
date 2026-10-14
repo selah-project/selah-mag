@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יעקב \/ ויאבק",
+      "rationale": "याकोव के नाम आउ कुस्ती लड़ल (אבק) के क्रिया के ध्वनि-मेल — इब्रानी के नाटकीय जोड़, मगही में खोइया जाहइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "מरद (אישׁ)",
+      "rationale": "कोनो मरद — पाठ के अनुसार एक मरद; पाछे के पद ई अकेलै मनुख जे देवता जका हल बतावै हइ, बाकि ई पद ओहीं ठाढ़ल हइ जहाँ पढ़निहार ठाढ़ हथिन"
+    }
+  ],
+  "translation": "आउ याकोव अकेलै बचलन, आउ कोनो मरद ओकरा संग कुस्ती लड़लन जे तक भोर चढ़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7c84fd83bbbb3f69393152ff3289cc39303f19c2cc85fd490b68ccc3080d2d08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/32\/25-28.1791987231242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "आउ बचलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "अकेलै"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "आउ कुस्ती लड़लन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जे तक"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "चढ़ल"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "भोर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:13:51.242830007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 12:2",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "मरे लोग के जागना",
+      "rationale": "मरे के बाद जागे के ई पहिला साफ चित्र तनाख़ में हकइ; ओहीं खाली 'ढेर' जागतन, सब नञ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דראון",
+      "rationale": "דראון तनाख़ में खाली दानिएल में मिलऽ हइ।"
+    }
+  ],
+  "translation": "आउ धूरी के माटी में सुतल लोग में ढेर जागतन — ई सब सदा के जियावे बर, आउ ई सब सदा के निंदा आउ घृणा बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2d95ae562d8431f663a4358103d934815dd6c6740e404f853e14e360e492b4d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/12\/1-4.1792009231605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורבים",
+      "gloss": "आउ ढेर"
+    },
+    {
+      "surface": "מישני",
+      "gloss": "सुतल लोग में से"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "माटी के"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूरी"
+    },
+    {
+      "surface": "יקיצו",
+      "gloss": "जागतन"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "לחיי",
+      "gloss": "जियावे बर"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा के"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "आउ ई सब"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "निंदा बर"
+    },
+    {
+      "surface": "לדראון",
+      "gloss": "घृणा बर"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:20:31.606805573Z",
+  "model": "glm-5.3"
+}

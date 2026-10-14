@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तूँ",
+      "rationale": "תשת के करता मूल में छिपल हकइ; मगही में सर्बनाम जोड़ल गेलइ बाकि ब्रैकेट नञ, काहे कि क्रिया के रूप एके देखावऽ हइ।"
+    }
+  ],
+  "translation": "तूँ अन्हार रखऽ हइ आउ रात हो जाऽ हइ; ओही में जंगल के सब जीव-जंतु रेंगैत निकरऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/104\/17-20.1792005819285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "तूँ रखऽ हइ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्हार"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ हो जाऽ हइ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओही में"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "रेंगैत निकरऽ हइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "जीव-जंतु"
+    },
+    {
+      "surface": "יער",
+      "gloss": "जंगल के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:39.286218463Z",
+  "model": "glm-5.3"
+}

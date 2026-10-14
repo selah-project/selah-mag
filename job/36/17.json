@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 36:17",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתמכו",
+      "rationale": "कोन टिकल हइ — 'नियाव टिक रहलइ हऽ' या 'तोहरा पकड़लकइ हऽ' (KJV\/JPS); दोसर रूप लेलन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨तोहरा⟩",
+      "rationale": "इब्रानी में सर्बनाम नञ हइ; के पकड़लकइ ओ साफ करे बर।"
+    },
+    {
+      "kind": "you",
+      "subject": "अय्यूब के",
+      "rationale": "एलीहू अय्यूब के सीधे सम्बोधन करऽ हथिन।"
+    }
+  ],
+  "translation": "बाकि दुष्ट के नियाव तूँ पूरा कइलइ हऽ; नियाव आउ मिश्पाट ⟨तोहरा⟩ पकड़लकइ हऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "61e3a3ab7bad2babde0adf5eeb0e22b80aa3c3b304310519958d022d44c12d54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/36\/17-20.1792007798799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודין",
+      "gloss": "आउ नियाव"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट के"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "पूरा कइलइ हऽ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "आउ मिश्पाट"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "पकड़लकइ हऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:56:38.799663163Z",
+  "model": "glm-5.3"
+}

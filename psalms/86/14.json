@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "कोलाहल बतावे बर हिब्रू मात्रा वाक्य-क्रम से ई कर रहल हे, ओकरा साफ करे बर 'हे' जोड़ल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "एलोहीम",
+      "rationale": "सीधे एलोहीम के संबोधन"
+    }
+  ],
+  "translation": "हे एलोहीम, घमंडी लोग हमरा पर उठलन, आउ दबंग लोग के टोली हमर परान के खोजलन, आउ ओकनी तोहरा आगे नञ धरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "28e4508dd72a495706bf46f85e5fe8856fb730f4d487a8579c269f22b6899e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/86\/13-16.1792005638549.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "घमंडी लोग"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा पर"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "आउ … के टोली"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "दबंग लोग"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "खोजलन"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "धरलन"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "ओकनी आगे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:20:38.551329170Z",
+  "model": "glm-5.3"
+}

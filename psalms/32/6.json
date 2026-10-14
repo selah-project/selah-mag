@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 32:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצא (मिले के समय)",
+      "rationale": "के मिले — यहवे मिले (KJV\/JPS) या भक्त मिले (YLटी के रुख)"
+    },
+    {
+      "kind": "crux",
+      "subject": "רק",
+      "rationale": "‘खाली\/निस्चय’ — KJV ‘surely’, YLT ‘only’; दुनो पढ़ाव चलन में हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी बर",
+      "rationale": "भक्त यहवे के सीधे सम्बोधन में बिनती करऽ हइ"
+    }
+  ],
+  "translation": "एही बर हर भक्त तोहनी बर बिनती करतइ, मिले के समय तक; निस्चय बहुत पानी के बाढ़ ओकरा लग नञ पुगतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cac42850bfa7ce2cb4752e7f8e97df5b72c720d64892df724e302d7539d46ec6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/32\/6-7.1792012068007.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एही बर"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "एही"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "बिनती करतइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "भक्त"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "समय तक"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "मिले के"
+    },
+    {
+      "surface": "רק",
+      "gloss": "निस्चय"
+    },
+    {
+      "surface": "לשטף",
+      "gloss": "बाढ़"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "पुगतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:48.008093789Z",
+  "model": "glm-5.3"
+}

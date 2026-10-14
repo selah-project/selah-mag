@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सौ हाथ",
+      "rationale": "आँगन के दक्खिन किनारा के नाप-माप सौ हाथ लम्बा देल गेलन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हाथ",
+      "rationale": "אמה कोनी बराबर के हाथ नञ — कुहनी से उँगरी तक के नाप हकइ; मगही में 'हाथ' एही नाप-बर चलन के सब्द हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "महीन बुटल सन",
+      "rationale": "שש משזर बुटल सन के महीन सूत के बुटका कइल कापड़; 'सन' सबसे मेल खावे वाला मगही सब्द हकइ।"
+    }
+  ],
+  "translation": "आउ तूँ ⟨את⟩ मिश्कान के आँगन बनइबे — दक्खिन दने के किनारा बदे, दक्खिन-दिशा में, आँगन बर महीन बुटल सन के परदा, सौ हाथ लम्बा, एक किनारा बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "589aa9bf494ccb0db3abecbeeeff8860bd697dc46c27970f62bd968a95847a96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/27\/9-12.1791988837467.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "आउ तूँ बनइबे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मिश्कान के आँगन"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "आँगन"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मिश्कान के"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "किनारा बदे"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "दक्खिन"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "दक्खिन-दिशा में"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "आँगन बर"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सन के"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "महीन बुटल"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बा"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "किनारा बर"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-10-14T14:40:37.467928970Z",
+  "model": "glm-5.3"
+}

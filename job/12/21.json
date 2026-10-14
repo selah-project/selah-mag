@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 12:21",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפיקים",
+      "rationale": "मूल अरथ नदी-धारा हकइ; एतय बलवान लोग बर रूपक — कमर-पट्टा गहिर धारा के बल के ढीला होवे के चित्र"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ומזיח",
+      "rationale": "मान-पट्टा बर ई सब्द तनाख़ में खाली एतय आवऽ हइ"
+    }
+  ],
+  "translation": "ऊ बड़ा लोग के ऊपर बेइज्जती उड़ावऽ हइ, आउ बलवान के कमर-पट्टा ढीला कइ देवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6cce5daa9ee4f23dd0efc89477366f23b0eabe562369eef9efcbe8ad2d0311d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/12\/21-24.1792007298571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שופך",
+      "gloss": "उड़ावऽ हइ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "बेइज्जती"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "बड़ा लोग के"
+    },
+    {
+      "surface": "ומזיח",
+      "gloss": "आउ कमर-पट्टा"
+    },
+    {
+      "surface": "אפיקים",
+      "gloss": "बलवान (नदी-धारा जइसन) के"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ढीला कइ देवऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:48:18.572257234Z",
+  "model": "glm-5.3"
+}

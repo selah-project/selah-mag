@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 7:14",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דודאים\/דודי",
+      "rationale": "मान्द्रेक (דודאים) आउ 'हमर परेमिका' (דודי) मेँ अच्छर-मेल — परेम-जड़ आउ परेमिका के ध्वनि-खेल।"
+    },
+    {
+      "kind": "secret",
+      "subject": "צפנתי",
+      "rationale": "'छुपाके रखने हा' — नया आउ पुरान उपज छुपाके जोगाड़ल, दुसर के नञ, खाली ओकरा बर।"
+    },
+    {
+      "kind": "you",
+      "subject": "דודי",
+      "rationale": "बोलैया सीधे अपन परेमिका के सम्बोधन करऽ हइ।"
+    }
+  ],
+  "translation": "मान्द्रेक सब सुगंध देलन हथिन, आउ हमनी के दुआरी पर सब उपज-बहार हइ — नया आउ पुरान दुनो; हमर परेमिका, हम ओकरा तोहरा बर जोगाड़े रखने हा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0cf249feedb7cfb9370f18243c053910d74b482f465f3645070afd19ff9d2888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/7\/13-14.1792008064068.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדודאים",
+      "gloss": "मान्द्रेक सब"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "देलन हथिन"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "सुगंध"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ ... पर"
+    },
+    {
+      "surface": "פתחינו",
+      "gloss": "हमनी के दुआरी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "उपज-बहार"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "नया"
+    },
+    {
+      "surface": "גם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "पुरान"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "हमर परेमिका"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "जोगाड़े रखने हा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:01:04.069404833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יודוך…יודוך",
+      "rationale": "बाक्य-बिल्कुल दोहराव (पद 4 के संग किरण-बनावट), मगही में दोहराव रखल गेल"
+    }
+  ],
+  "translation": "परजा सब तोहरा धन्यवाद करतन, एलोहीम; परजा सब — सब कुल — तोहरा धन्यवाद करतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/67\/5-8.1792005252090.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "तोहरा धन्यवाद करतन"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "परजा सब"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "तोहरा धन्यवाद करतन"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "परजा सब"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सब कुल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:12.091411746Z",
+  "model": "glm-5.3"
+}

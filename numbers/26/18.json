@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 26:18",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Census tally of the tribe of Gad: 40,500."
+    },
+    {
+      "kind": "substitution",
+      "subject": "लिफकुदेहेम",
+      "rationale": "The root פקד 'visit\/muster\/number' rendered as 'गिनल गेलैन' (counted), the census sense"
+    }
+  ],
+  "translation": "ई गाद के बेटासब के कुनबा अहन, ओकरा गिनल गेलैन के मोताबिक — चालीस हजार आउ पाँच सौ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "66a081b600beb200ecad4b8c0c34d8494d1e9059eff5bddb918cbafafd9334ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/26\/17-20.1791991478225.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटासब के"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "ओकरा गिनल गेलैन के मोताबिक"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आउ पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:24:38.225838504Z",
+  "model": "glm-5.3"
+}

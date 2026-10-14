@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 23:13",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אותה",
+      "rationale": "एकरा जरा ग़लत नञ समझऽ — ई אָוָह क्रिया हकइ 'चाहलन', चिन्हा-מारक नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "באחד",
+      "rationale": "'एके मन में' बनाम 'एके हो के' (एकरात्मक) — अनुवादक लोग में बड़ मतभेद हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "मन",
+      "rationale": "इब्रानी केवल 'एके में' कहऽ हइ; 'मन' जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "बाकि ऊ एके ⟨मन⟩ में हथिन, आउ के ओकरा फेरतइ? ओकर परान चाहलन, आउ ऊ ओहे कएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fb4e44f48d8a1c38a76e7ea64ac851ffe16ffc4c5f9289da14f18530d661717b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/23\/13-16.1792007548421.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "बाकि ऊ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "एके ⟨मन⟩ में"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आउ के"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ओकरा फेरतइ"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "आउ ओकर परान"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "चाहलन"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "आउ ऊ ओहे कएलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:52:28.422108495Z",
+  "model": "glm-5.3"
+}

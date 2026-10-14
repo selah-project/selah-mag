@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 3:40",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "मोशे",
+      "rationale": "यहवे मोशे से सीधा बात करऽ हइ — आज्ञा देके"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पहिला-जनमल के गिनती",
+      "rationale": "गिनती के आदेश — नाम के संख्या लेवे के अनुरोध"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ושא את מספר",
+      "rationale": "साक्षात 'संख्या के उठाऽ' — अरथ हकइ गिनती लिख ले"
+    }
+  ],
+  "translation": "आउ यहवे मोशे से कहलन — यिस्राएल के बेटा सब में हर पहिला-जनमल मरद के गिनऽ, एक महीना के बेटा से ऊपर, आउ ओकनी के नाम के ⟨את⟩ संख्या के गिनती ले ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "95884421544a2635f37b39ac870ea963a43e6fc0584a9cd237495bbd81c4fa15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/3\/37-40.1791990635021.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "गिनऽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "पहिला-जनमल"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "मरद के"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटा सब में"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "बेटा से"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "एक महीना के"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "आउ ऊपर"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "आउ गिनती ले ले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "संख्या"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "संख्या"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "ओकनी के नाम के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:10:35.022840731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 55:7",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "jussive summons",
+      "rationale": "छोड़तइ \/ लवटतइ — लवटे के बोलाव।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "मूल अरथ 'सुन्ना \/ ब्यर्थ' — 'दुष्कर्म' लेल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירבה לסלוח",
+      "rationationale": "'बहुते माफ करतन' — शाब्दिक 'माफ करे के बर बहुतायत करतन'; कुछ अनुवाद 'बहुते माफ करऽ हइ', कुछ 'माफ करे में बड़ऽ हइ'।",
+      "rationale": "'बहुते माफ करतन' — शाब्दिक 'माफ करे के बर बहुतायत करतन'।"
+    }
+  ],
+  "translation": "बुरा आदमी अपन रस्ता छोड़तइ आउ दुष्कर्म के आदमी अपन बिचार; आउ ऊ यहवे दने लवटतइ आउ ऊ ओकरा दया करतन, आउ हमनी के एलोहीम दने, काहे कि ऊ बहुते माफ करतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "548386cd27fa79e6cd8810a45deef290cb37cabba9f67297abad98f98de84797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/55\/5-8.1791999733359.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעזב",
+      "gloss": "छोड़तइ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुरा आदमी"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "अपन रस्ता"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आउ आदमी"
+    },
+    {
+      "surface": "און",
+      "gloss": "दुष्कर्म के"
+    },
+    {
+      "surface": "מחשבתיו",
+      "gloss": "अपन बिचार"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "आउ लवटतइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וירחמהו",
+      "gloss": "आउ ऊ ओकरा दया करतन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ दने"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "बहुते करतन"
+    },
+    {
+      "surface": "לסלוח",
+      "gloss": "माफ करे के बर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:42:13.360636905Z",
+  "model": "glm-5.3"
+}

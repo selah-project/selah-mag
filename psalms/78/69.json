@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 78:69",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ऊँचाई सब",
+      "rationale": "רמים: 'ऊँचाई सब' (ASV\/JPS) बनाम 'ऊँच महल' (KJV) — रूप ऊँचाई के हकइ, महल के नञ"
+    },
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "עלמים\/רמים के बहुबचन — मगही में 'सब' जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ ऊ अपन पवित्तर-स्थान ऊँचाई सब जइसन बनइलन; धरती जइसन — ऊ ओकरा सदा बर नेव रखलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "25a17ec22a3581843e01c64f78089144b19a6c6669c883c1d7c8d3140f0fea70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/69-72.1792005531285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "ऊँचाई सब"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "अपन पवित्तर-स्थान"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "धरती जइसन"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "ओकरा नेव रखलन"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:51.286544642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 6:35",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מישר",
+      "rationale": "'सीध-सपाट बिछल सोना' (पतर चादर) बनाम 'गढ़ल काम के मोताबिक जोड़ल' (KJV)।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וקלע … המחקה",
+      "rationale": "गढ़ल काम के शुरुआत आउ अंत में — ओती-सीध के ढाँचा, मगही में बहुत नञ दिसऽ हइ।"
+    }
+  ],
+  "translation": "आउ ओकरा ऊपर करूब आउ ताड़-गाछ के आकृति आउ खुलल फूल गढ़लन, आउ ओकरा ऊपर सोना चढ़ाएलन — सीध-सपाट, गढ़ल काम के ऊपर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b25c9ed274b22d760f116411b721134b066bfbefbe0b0a52ebc6cb48fd133eb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/6\/33-36.1791996852487.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקלע",
+      "gloss": "गढ़लन"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "करूब"
+    },
+    {
+      "surface": "ותמרות",
+      "gloss": "आउ ताड़-गाछ के आकृति"
+    },
+    {
+      "surface": "ופטרי",
+      "gloss": "आउ खुलल"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "फूल"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "आउ चढ़ाएलन"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "सीध-सपाट"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "המחקה",
+      "gloss": "गढ़ल काम"
+    }
+  ],
+  "timestamp": "2026-10-14T16:54:12.488085370Z",
+  "model": "glm-5.3"
+}

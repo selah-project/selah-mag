@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 29:17",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "offer-verb",
+      "rationale": "Hebrew gives only the list; the supply-verb from 29:16 carries over, no verb in the verse"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sacrifice counts",
+      "rationale": "twelve bulls, two rams, fourteen lambs — the verse is a numbered liturgy"
+    }
+  ],
+  "translation": "आउ दोसरा दिन बारह गो बैल, माल-जाल के बेटा, दू गो मेढ़ा, चउदह गो एक बरिस के मेमना, बिना दोस।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0c452f125fea01270e1d8a885bfd3ccb1d2065c7721760ef7b0476a3048743ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/29\/17-20.1791991596343.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "आउ दोसरा दिन के दिन"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोसरा"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "माल-जाल"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह गो"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू गो"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "एक बरिस"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चउदह गो"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "बिना दोस"
+    }
+  ],
+  "timestamp": "2026-10-14T15:26:36.344145256Z",
+  "model": "glm-5.3"
+}

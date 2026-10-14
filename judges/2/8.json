@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן מאה ועשר שנים",
+      "rationale": "इब्रानी 'सौ-दस बरिस के बेटा' — उमिर के बर मगही में 'के' रूप में देखावल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सौ आउ दस बरिस",
+      "rationale": "उमिर के गिनती जस के तस पार होवऽ हइ।"
+    }
+  ],
+  "translation": "आउ यहोसुआ, नून के बेटा, यहवे के नोकर, मर गेलन — सौ आउ दस बरिस के उमिर के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c12529aa5ffa8cb5530be64c22e0e44dc0a87fb9b0be368a4fd2301ce81987c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/2\/5-8.1791993882538.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "आउ … मर गेलन"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोसुआ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नून के"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "नोकर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בן",
+      "gloss": "… के बेटा"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "आउ दस"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    }
+  ],
+  "timestamp": "2026-10-14T16:04:42.539894306Z",
+  "model": "glm-5.3"
+}

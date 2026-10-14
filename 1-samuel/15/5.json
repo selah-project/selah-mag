@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "घात लगलक",
+      "rationale": "וירב: KJV\/JPS 'laid wait' (घात लगए), जेनेवा 'set watch' (पहरा), मूल अरथ 'तनाव कइल' बाट"
+    },
+    {
+      "kind": "elision",
+      "subject": "עיר עמלק",
+      "rationale": "'अमालेक के नगर' — मूल संबंध-बंधन (construct) के बर 'के' जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ शाऊल अमालेक के नगर ले पहुँचलक, आउ नाला में घात लगलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/15\/5-8.1791995259158.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "पहुँचलक"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "अमालेक"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "घात लगलक"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "नाला में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:27:39.159002339Z",
+  "model": "glm-5.3"
+}

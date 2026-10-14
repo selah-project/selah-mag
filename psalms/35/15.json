@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נאספו...נאספו",
+      "rationale": "एके क्रिया दू बेर — घेराबंदी के घनीभूत होवे के अनुभूति, मगही में 'जुटलन... जुटलन' से रक्खल"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכים",
+      "rationale": "'मार हान्ने वाला' बनाम 'बदनाम करे वाला' (केजेवी 'the abjects' अलग) — शब्द के जड़ मारल हकइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ולא ידעתי",
+      "rationale": "'हम जानलन नञ' (जेएसएस\/केजेवी) बनाम 'ऊ जानलन नञ' — हिब्रू के करता खुलल नञ हइ"
+    }
+  ],
+  "translation": "आउ जब हम लँगड़ालन त ऊ खुस होलन आउ जुटलन; जुटलन हमरा विरुद्ध मार हान्ने वाला — आउ हम जानलन नञ; ऊ फाड़लन आउ नञ रुकलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/35\/13-16.1792004873566.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "आउ जब हम लँगड़ालन"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "ऊ खुस होलन"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "आउ जुटलन"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "जुटलन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा विरुद्ध"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "मार हान्ने वाला"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "हम जानलन"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "ऊ फाड़लन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "रुकलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:53.567579012Z",
+  "model": "glm-5.3"
+}

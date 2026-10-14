@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "आग-बלि",
+      "rationale": "אִשֶּׁה 'आग के बलि' — इहो पूरा जरे वाला भेंट हकइ, खाली 'बलि' से आग के चित्र गायब होवऽ हइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "सुखद गंध",
+      "rationale": "רֵיחַ נִיחֹחַ — शाब्दिक 'आराम देवे वाली गंध', भेंट के स्वीकारि के चिन्हा"
+    }
+  ],
+  "translation": "आउ पुरोहित मिन्हा में से ओकर स्मरण-भाग ⟨את⟩ उठैतन, आउ बेदी पर ओकरा जरैतन — आग-बलि, यहवे बर सुखद गंध।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/2\/9-12.1791989448252.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "उठैतन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "मिन्हा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "स्मरण-भाग"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "ओकर स्मरण-भाग"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "आउ जरैतन"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "बेदी पर"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "आग-बलि"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "गंध"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "सुखद"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:50:48.253324989Z",
+  "model": "glm-5.3"
+}

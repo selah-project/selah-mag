@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 19:8",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "हिरदय के ऊपर बात कह",
+      "rationale": "Hebrew 'speak to the heart' = comfort; literal shape kept, Magahi idiom-for-idiom"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי (दो स्थान पर)",
+      "rationale": "אם-conditions after a sworn כי take no separate Magahi word; rendered as dashes\/त"
+    },
+    {
+      "kind": "invitation",
+      "subject": "जोआव के आदेश",
+      "rationale": "Three imperatives — rise, go out, speak — summon the king to act"
+    },
+    {
+      "kind": "you",
+      "subject": "दाविद से",
+      "rationale": "Joab's oath and warning addressed directly to the king"
+    }
+  ],
+  "translation": "आउ अब ठाढ़ होव, बाहर निकल आउ अपन नौकर-चाकर के हिरदय के ऊपर बात कह; काहे कि हम यहवे के सौगन खाइलियनि — यदि तूँ बाहर नञ निकलऽ हऽ, त एक्को मनुस आज रात ⟨את⟩ तोहर संग रहतइ नञ। आउ ई बुराई तोहर बर ओखर सब बुराई से बेसी होतइ, जे तोहर लहरपन के दिन से अब तक तोहर ऊपर अइल हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2833f676bee4b3aabb94c57ca4ca3288575400bc6b5d040637883b9028a34be3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/19\/5-8.1791996530831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ठाढ़ होव"
+    },
+    {
+      "surface": "צא",
+      "gloss": "बाहर निकल"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आउ बात कह"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "तोहर नौकर-चाकर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "हम सौगन खाइलियनि"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "तूँ नञ"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "बाहर निकलऽ हऽ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "त"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक्को मनुस"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तोहर संग"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "आज रात"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "आउ बुराई"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर बर"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ओखर सब से"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "באה",
+      "gloss": "अइल"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहर ऊपर"
+    },
+    {
+      "surface": "מנעריך",
+      "gloss": "तोहर लहरपन के दिन से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "अब तक"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब तक"
+    }
+  ],
+  "timestamp": "2026-10-14T16:48:50.832816642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "नाप",
+      "rationale": "मन्दिर के नेव के नाप — हाथ में लम्बाई आउ चौड़ाई।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הוסד",
+      "rationale": "'नेव रखलन' — केजेभी 'सिखालन गेलन' (त्साव\/निर्देश पाक) पढ़ऽ हइ; प्रत्यक्ष अरथ नेव हकइ।"
+    }
+  ],
+  "translation": "आउ ई हलइ नेव ⟨जे सुलैमान (शलोमो) एलोहीम के ⟨את⟩ घर बनावे बर रखलक⟩ — लम्बाई पहिला नाप में साठ हाथ, आउ चौड़ाई बीस हाथ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "026ae879488678eba477d654edf7ce76fb72e6f38fb41e62ca830c73097f881f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/3\/1-4.1792010667602.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आउ ई"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "नेव रखलन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलैमान (शलोमो)"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनावे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "लम्बाई"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "नाप में"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "साठ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आउ चौड़ाई"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    }
+  ],
+  "timestamp": "2026-10-14T20:44:27.603390947Z",
+  "model": "glm-5.3"
+}

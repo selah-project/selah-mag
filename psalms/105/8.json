@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨आपन⟩",
+      "rationale": "इब्रानी में कर्म-सर्बनाम आगमन-प्रत्यय में हकइ (בריתו); मगही अलग सब्द माँगऽ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "हजार पीढ़ी",
+      "rationale": "לאלף דור — गिनती के ढाँचा, वाचा के समय-सीमा"
+    }
+  ],
+  "translation": "ऊ ⟨आपन⟩ वाचा के सदा बर याद रखलन — ओही बात जेकरा ऊ हजार पीढ़ी ले हुकुम देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/105\/5-8.1792005863389.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "याद रखलन"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "आपन वाचा के"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकुम देलन"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी ले"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:23.390483656Z",
+  "model": "glm-5.3"
+}

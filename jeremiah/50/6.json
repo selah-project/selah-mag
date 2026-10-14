@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 50:6",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אבדות",
+      "rationale": "मूल रूप “नास-भेड़ \/ बर्बाद भेड़” हकइ; “भटकल” भटकाव के संग मेल खावऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "שובבים",
+      "rationale": "केत्तुबीम शब्द “मुड़ल-भटकल” हकइ; परम्परा एकरा “फेर देलन” कइलन, यल्त “पाछे जाए देलन”"
+    }
+  ],
+  "translation": "भेड़ भटकल — हमर लोग; ओकनी के रखवारा ओकनी के भटका देलन, पहाड़ के दने ओकनी के फेर देलन; पहाड़ से टीला ले ओकनी चललन, आराम के अपन जगह भुला गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae20984ed204bbc34470735ddd9616be01060af876641dbfecb30157f0a9feee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/50\/5-8.1792001511621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צאן",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "אבדות",
+      "gloss": "भटकल"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हलन"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमर लोग"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "ओकनी के रखवारा"
+    },
+    {
+      "surface": "התעום",
+      "gloss": "भटका देलन"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़ के दने"
+    },
+    {
+      "surface": "שובבים",
+      "gloss": "फेर देलन"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "पहाड़ से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "टीला"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "चललन"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "भुला गेलन"
+    },
+    {
+      "surface": "רבצם",
+      "gloss": "आराम के जगह"
+    }
+  ],
+  "timestamp": "2026-10-14T18:11:51.622733312Z",
+  "model": "glm-5.3"
+}

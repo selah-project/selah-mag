@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to YHWH",
+      "rationale": "Hezekiah's prayer addresses YHWH directly."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפניך",
+      "rationale": "literally 'before your face', an idiom of living in God's presence."
+    }
+  ],
+  "translation": "आउ कहलक — हे यहवे, सोचऽ हइ, जे हम तोहर मुँह के आगे सच में आउ पूरा हिरदय के संग टहललइ, आउ जे तोहर आँख में भला हकइ ऊ कएलइ — आउ हिज्कियाहू बड़ कराहे से रोएलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0799f67e160609adcd83c562f5b39d84feb9c864626605237f237ad9a9dab360",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/38\/1-4.1791999277337.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "हे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "सोचऽ हइ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ना⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे हम टहललइ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "हम टहललइ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहर मुँह के आगे"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "सच में"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "आउ हिरदय के संग"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "आउ भला"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "तोहर आँख में"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "कएलइ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "रोएलक"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "हिज्कियाहू"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "कराहे से"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    }
+  ],
+  "timestamp": "2026-10-14T17:34:37.338210167Z",
+  "model": "glm-5.3"
+}

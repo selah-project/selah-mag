@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "क्रिया-संबंध घड़ी से जोड़ल — इब्रानी में कोपुला नञ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हम (दोसर)",
+      "rationale": "ואני के बाद किरिया के संग करता दोहरावल — इब्रानी के बनावट (वाव-अपोजिशन) साफ रखे बर"
+    },
+    {
+      "kind": "crux",
+      "subject": "אראה בשנאי",
+      "rationale": "'ओकरा देखब' के अरथ खुला हकइ — विजय के नजर से देखना (KJV), या खाली ओकरा पर नजर रखना (YLT\/JPS)"
+    }
+  ],
+  "translation": "यहवे हमर मदद करए बाला सब में ⟨हकइ⟩ — आउ हम, हम हमरा नफरत करए बाला सब के देखब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d1f158183503e33ea23efd3424494acda8b8320abb90d908340f6dee26a33c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/118\/5-8.1792006027226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "मदद करए बाला सब में"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आउ हम"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "देखब"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "हमरा नफरत करए बाला सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:07.227675304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 7:7",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bhol-bhal",
+      "rationale": "פתאים: 'भोला-भाला \/ बिना सोचे वाला' बनाम 'मूर्ख' — ई सोच-बिना मानऽ हइ, घोर बेवकूफी नञ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hirday ke samajh",
+      "rationale": "חסר לब 'हिरदय-कमी' के बिस्तार रूप; इब्रानी दू सब्द हकइ — खाली बुत्तर आउ समझ"
+    }
+  ],
+  "translation": "आउ भोला-भाला लोग में देखलियन, जुवान-बेटा सब में समझलियन — एक जुवा, जेकरा हिरदय के समझ के कमी हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "79932c61432c70324df6157402b2d5b297b1ba3a0ba22cc3a9438dbea252c0b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/7\/6-7.1792012109646.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "आउ देखलियन"
+    },
+    {
+      "surface": "בפתאים",
+      "gloss": "भोला-भाला लोग में"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "समझलियन"
+    },
+    {
+      "surface": "בבנים",
+      "gloss": "जुवान-बेटा सब में"
+    },
+    {
+      "surface": "נער",
+      "gloss": "एक जुवा"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "कमी वाला"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय के समझ"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:29.647137476Z",
+  "model": "glm-5.3"
+}

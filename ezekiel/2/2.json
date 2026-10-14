@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 2:2",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "רוח rendered रूआख everywhere per the pinned Tier-2 table — wind\/breath\/spirit in one word."
+    }
+  ],
+  "translation": "आउ रूआख जइसन ऊ हमरा कहलन रहलन ओइसने हमरा भीतर आइलन, आउ ओकरा हमरा हमर गोड़ पर ठाढ़ कइलन, आउ हम ⟨את⟩ ओकरा सुनलन जे हमरा संग बात करऽ रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2fa70f0dc9bac73f5fd46b045468bb0a495b2f46e4d916cb021c47c406292974",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/2\/1-4.1792001704535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "आउ आइलन"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा भीतर"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन रहलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "आउ ठाढ़ कइलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "हमर गोड़"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "आउ हम सुनलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा जे हमरा संग बात करऽ रहलन"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बात करऽ रहलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा संग"
+    }
+  ],
+  "timestamp": "2026-10-14T18:15:04.536714004Z",
+  "model": "glm-5.3"
+}

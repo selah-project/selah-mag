@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונער",
+      "rationale": "'हिलाना\/झाड़ना' (KJV 'shake off their fruits') बनाम 'नरम होना' (JPS 'clean bare') — हमनी झाड़े के अरथ लेनिही।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבל \/ אמללה",
+      "rationale": "दूनो सोग-जड़ के सब्द के लगातार बजना, धरती के विलाप के लय — मगही में आधा रह जाऽ हइ।"
+    }
+  ],
+  "translation": "धरती सोग मनावऽ हइ, मुरझा गेलइ हे; लबानोन लजा गेलन, सुक गेलन; शारोन रेगिस्तान जइसन भेलन; बाशान आउ कारमेल ⟨अपन फल⟩ झाड़ऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a56ab7d8fc4f967477cd1ba253603db4e6465427fc768b472f00a4fee4b6809b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/33\/9-12.1791999118803.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "सोग मनावऽ हइ"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "मुरझा गेलइ हे"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "लजा गेलन"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "लबानोन"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "सुक गेलन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भेलन"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "शारोन"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "रेगिस्तान जइसन"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "झाड़ऽ हथिन"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "बाशान"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "आउ कारमेल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:31:58.804567609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "सीधा यहवे से संबोधन — प्रार्थना-गीत।"
+    }
+  ],
+  "translation": "हम यहवे के धन्यबाद देब अपन पूरा हिरदय से; हम तोहर सब अचरज के बात गिनाब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/9\/1-4.1792004558320.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "हम धन्यबाद देब"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा … से"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "अपन हिरदय"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "हम गिनाब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "तोहर अचरज के बात"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:38.321028818Z",
+  "model": "glm-5.3"
+}

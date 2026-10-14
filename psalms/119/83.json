@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चमड़ी के थैली",
+      "rationale": "נאד द्रव बर चमड़ी के थैली हकइ; धूँआ में टाँगल ऊ सूख के सिकुड़ जा हइ — दाविद के हालत के तस्वीर"
+    },
+    {
+      "kind": "addition",
+      "subject": "टाँगल",
+      "rationale": "बोतल-मूल तस्वीर बर संदर्भ-सब्द जोड़ल गेलन"
+    }
+  ],
+  "translation": "काहे कि हम धूँआ में टाँगल चमड़ी के थैली नियर भेलियन — तोहर बिधान ⟨एक्को⟩ नञ बिसरलियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d168adea9ed75b492c59f10eb05578a21f3c3ea66b24f0301db99853722ee7fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/81-84.1792006140785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "भेलियन"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "चमड़ी के थैली नियर"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "धूँआ में"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "तोहर बिधान"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "बिसरलियन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:00.786232516Z",
+  "model": "glm-5.3"
+}

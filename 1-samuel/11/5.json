@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 11:5",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה לעם",
+      "rationale": "'लोग के का भेलइ' — इब्रानी के शाब्दिक 'लोग के का हऽ?' जे अप्पन-दुख के सवाल हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to the people",
+      "rationale": "शाउल लोग के ओर सवाल उठावऽ हथिन।"
+    }
+  ],
+  "translation": "आउ देखऽ, शाउल बैल के पाछे-पाछे खेत से अइलन, आउ शाउल कहलन, लोग के का भेलइ कि ऊ रोवऽ हथिन? आउ ओकनी ओकरा याबेश के मनखे के बात ⟨את⟩ सुनावलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d1fdf19e0aec7b7a0182e32cbe18bab4225c670421f3abaf49ea7f0b3759d005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/11\/5-8.1791995097385.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पाछे-पाछे"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "बैल के"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "रोवऽ हथिन"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "आउ सुनावलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बात"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मनखे के"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "याबेश"
+    }
+  ],
+  "timestamp": "2026-10-14T16:24:57.386308931Z",
+  "model": "glm-5.3"
+}

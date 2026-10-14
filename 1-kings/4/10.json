@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "לו के अनुवाद में किरिया जोड़ल गेलइ; इब्रानी खाली 'ओकरा' कहऽ हइ"
+    }
+  ],
+  "translation": "बेन-हेसेद — आरुब्बोत में; ओकरा सोखो आउ हेपेर के सारा धरती हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7035d34557ff64cd5a83972db694a1f0a4cac4a69dffb39ca3d1a738d1b6e907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/4\/9-12.1791996671833.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "आरुब्बोत में"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "सोखो"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सारा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "हेपेर के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:51:11.834147065Z",
+  "model": "glm-5.3"
+}

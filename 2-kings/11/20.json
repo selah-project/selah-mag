@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "में",
+      "rationale": "हेब्रू में 'बेइत-मेलेख' (राजा के घर) के साथ कोई 'में' नञ हऽ हइ; मगही के जरूरत के कारण इसे कोष्ठक में रखा गया है।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "राजा के घर",
+      "rationale": "पिछली पंक्ति (11:16) की घटना का संदर्भ — वहाँ अतल्याहू को मारा गया था, यहाँ निष्कर्ष बताया गया है।"
+    }
+  ],
+  "translation": "आउ धरती के सब लोग खुस होलन आउ नगर चैन भेल; आउ अतल्याहू ⟨את⟩ तलवार से मार देलन, राजा के घर ⟨में⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "14e4a16a1fc2f87e6900385045f8570fcb2eda1c1147647683a69eb98cde5d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/11\/17-20.1791998095894.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "खुस होलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "आउ नगर"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "चैन भेल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अतल्याहू"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "अतल्याहू"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "मार देलन"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:14:55.895634324Z",
+  "model": "glm-5.3"
+}

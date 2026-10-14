@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלילה",
+      "rationale": "'काम\/करतूत' बनाम 'उपालम्भ-योग्य काम' — ई पद काहे के बुरा अरथ धरै हइ, इहाँ अरथ-संदर्भ से आवऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "कोनो",
+      "rationale": "'अच्छा करै वाला कोनो नञ' — कोनो सर्बनाम हिन्दी\/मगही बाक्य-बनावट बर, इब्रानी में खाली 'אין עשה טוב' हइ।"
+    }
+  ],
+  "translation": "संगीत-मुखिया बर, दाविद (दाऊद) के। मूरख अपन हिरदय में कहलक — एलोहीम नञ हइ; ओकनी बिगाड़ देलन, ओकनी घिनौना काम कइलन; अच्छा करै वाला कोनो नञ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/14\/1-4.1792004561285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-मुखिया बर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "अपन हिरदय में"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ हइ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "बिगाड़ देलन"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "घिनौना कइलन"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करै वाला"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:41.285806403Z",
+  "model": "glm-5.3"
+}

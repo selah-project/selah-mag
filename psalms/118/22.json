@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जे … ऊ",
+      "rationale": "Hebrew खम्भा-वाक्य हकइ; Magahi के जोड़निहार चाही"
+    }
+  ],
+  "translation": "जे पत्थल बनए वाला मनी त्याग देलन, ऊ कुनार के मूड़ी बनगेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea0889e6b7922f3ac1ab241b6b4c1bcce6469c0577eccbec01ccfa43351e2e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/118\/21-24.1792006024981.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "त्याग देलन"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "बनए वाला मनी"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "बनगेलन"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "मूड़ी"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "कुनार के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:04.982284348Z",
+  "model": "glm-5.3"
+}

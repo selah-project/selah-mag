@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 32:33",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ערף",
+      "rationale": "इब्रानी में पीठ देखावल बिरोध के चिन्हा हकइ; मुँह से मिलन नञ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ולמד … ולमד",
+      "rationale": "सिखावलन के दोहराव — बार-बार सिखावे के जोर, दोहराव मगही में रखल गेलै।"
+    }
+  ],
+  "translation": "आउ ओकनी हमरा पीठ देखावलन, मुँह नञ; आउ हम भोर-भोर उठिके ⟨אתם⟩ ओकरा सिखावलन, सिखावलन, बाकि ओकनी सुनैत नञ, ताड़ना लेवे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cdb464c6ee91109fd18a116a063519d3c242de03ab1e86b1c9a3cf5c9b22451d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/32\/33-36.1792001062793.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "देखावलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "पीठ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "आउ सिखावलन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "भोर-भोर उठिके"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "सिखावलन"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "बाकि ओकनी नञ"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "सुनैत"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "लेवे बर"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ताड़ना"
+    }
+  ],
+  "timestamp": "2026-10-14T18:04:22.794148261Z",
+  "model": "glm-5.3"
+}

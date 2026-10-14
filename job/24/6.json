@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 24:6",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלילו",
+      "rationale": "बिलिल = मिलाल चारा, बाकि KJV 'अपना अन्न' पढ़ऽ हइ — चारा बनाम अन्न के मतभेद हकइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ילקשו",
+      "rationale": "दुसरा पढ़ाई: JNS 'ओकरा लूटऽ हथिन' — बाकि मूल लकस बाट के टिनहल के अरथ हकइ।"
+    }
+  ],
+  "translation": "खेत में ओकर चारा काटऽ हथिन, आउ दुष्ट के बगइचा के बाट ओकनी टिन्हऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e232cb5867ac4971a63b1b82420de3884f08160a1037c217156c8ec1608ad597",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/24\/5-8.1792007572682.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "ओकर चारा"
+    },
+    {
+      "surface": "יקצירו",
+      "gloss": "काटऽ हथिन"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "आउ बगइचा"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट के"
+    },
+    {
+      "surface": "ילקשו",
+      "gloss": "बाट टिन्हऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:52:52.682796062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראוך...ראוך",
+      "rationale": "‘तोहनी देखलन’ के दोहराव — इब्रानी के गूँज, मगही में ओइसने दोहरावल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחילו",
+      "rationale": "चूल: काँपना बनाम ‘परेसान होना\/कराहना’; मूल अरथ घुमाव\/मरोड़ हकइ।"
+    }
+  ],
+  "translation": "पानी तोहनी देखलन, ए एलोहीम; पानी तोहनी देखलन, काँपि गेलन; गहिराइ भी हिलाहिल कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/77\/17-20.1792005446636.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "तोहनी देखलन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ए एलोहीम"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "तोहनी देखलन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "काँपि गेलन"
+    },
+    {
+      "surface": "אף",
+      "gloss": "भी"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "हिलाहिल कइलन"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "गहिराइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:26.637417905Z",
+  "model": "glm-5.3"
+}

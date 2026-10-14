@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מנוד ראש",
+      "rationale": "मूड़ी हिलावे के चिन्हा — इब्रानी के ठेठ बुतुरी के बोली-चाल, शाब्दिक 'मूड़ी के हिलावा'।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "देहाती-बात",
+      "rationale": "משल — 'कहावत\/मुहावरा' अरथ में; KJV 'byword'।"
+    }
+  ],
+  "translation": "तोहनी हमनी के जाति सब के बीच देहाती-बात बनावतथिन, लोगमनी के बीच मूड़ी हिलावे के चिन्हा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae5db8211991fba40a7be49d8a8fef6e18c73abf8fefdfb9a9b7cf74c6b387de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/44\/13-16.1792005073634.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "हमनी के बनावतथिन"
+    },
+    {
+      "surface": "משל",
+      "gloss": "देहाती-बात"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जाति सब के बीच"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "मूड़ी हिलावे के"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मूड़ी"
+    },
+    {
+      "surface": "בל",
+      "gloss": "लोगमनी के बीच"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "लोगमनी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:13.634955558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצב",
+      "rationale": "the noun means both 'toil\/pain' and 'earthen vessel\/idol'; here rendered 'toil' after the ancient versions"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ओठा के बात",
+      "rationale": "'word of the lips' — construct kept bound as 'talk of the lips', mere speech without deed"
+    }
+  ],
+  "translation": "हर मेहनत में लाभ होतइ, बाकि ओठा के बात खाली कमी के बर हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3a1daa9f6059a260f8c756eea449cd0d680d3ef5ba65b9db656da0941f550628",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/14\/22-23.1792012107122.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "हर ... में"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "मेहनत"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "लाभ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "बाकि ... बात"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ओठा के"
+    },
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "कमी के बर"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:27.122990376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 39:24",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "सनी कपड़ा",
+      "rationale": "KJV\/ASV जइसन अनुवाद 'twined linen' में सूत जोड़ऽ हइ; हिब्रू में खाली 'मरोटल' हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תולעת שני",
+      "rationale": "'कीड़ा-लाल' — किरमिज कीड़ा से निकलल रंग; इ तस्वीर मगही में जोड़ी से रखल गेलै"
+    }
+  ],
+  "translation": "आउ ओ चोगा के किनारा पर अनार बनइलन — नील, जामुनी आउ कीड़ा-लाल के, मरोटल के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b3f98826d88843aecb50152138af33c27e1c3f201549df9f04888ed1ed70d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/39\/21-24.1791989416790.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שוײי",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "चोगा"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "अनार"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "नील"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "जामुनी"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "कीड़ा-"
+    },
+    {
+      "surface": "שני",
+      "gloss": "लाल"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "मरोटल"
+    }
+  ],
+  "timestamp": "2026-10-14T14:50:16.791767223Z",
+  "model": "glm-5.3"
+}

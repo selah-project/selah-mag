@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "मूल पाठ क्रिया-संबंध छोड़ देता हइ — परति के क्रिया जोड़ल गेलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "טוב",
+      "rationale": "मूल 'भलाई' कहऽ हइ; 'खराब चीज नञ' द्वैत-रूप में आवलइ"
+    }
+  ],
+  "translation": "काहे कि सुरुज आउ ढाल हकइ यहवे एलोहीम; कृपा आउ महिमा देतन यहवे; जे बेदाग डहर पर चलै वाला हथिन, ऊ के खराब चीज किछु नञ रोकतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e6c8cc7d871f0aa3b67593935998350e009bd1525591d60cd78812ebb8273999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/84\/9-12.1792005629700.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "आउ ढाल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "חן",
+      "gloss": "कृपा"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "आउ महिमा"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देतन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "रोकतन"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "खराब चीज"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "चलै वाला"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "बेदाग डहर पर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:20:29.702783818Z",
+  "model": "glm-5.3"
+}

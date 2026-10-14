@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 66:18",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואנכי מעשיהם",
+      "rationale": "हिब्रू क्रिया-बिहीन: “आउ हम — ओकनी के काम आउ ओकनी के बिचार” — किछु “जानऽ हिअए” पढ़थिन, किछु “आबऽ हिअए [बिचार करे बर]”; केजेभी क्रिया जोड़े के पड़ऽ हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨जानऽ हिअए⟩",
+      "rationale": "हिब्रू क्रिया बिहीन हकइ; मगही वाक्य बर क्रिया चाही।"
+    }
+  ],
+  "translation": "आउ हम ⟨जानऽ हिअए⟩ ओकनी के काम आउ ओकनी के बिचार; आबऽ हिअए ⟨את⟩ सब जाति आउ बोली के इकट्ठा करे बर, आउ ऊ आबतइ आउ ⟨את⟩ हमर महिमा ला देखतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a756507780e62a250ad5e9b62395a8ccc38398181d4739e90a1a13b3f4f31bc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/66\/17-20.1792000122172.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "आउ हम"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ओकनी के काम"
+    },
+    {
+      "surface": "ומחשבתיהם",
+      "gloss": "आउ ओकनी के बिचार"
+    },
+    {
+      "surface": "באה",
+      "gloss": "आबऽ हिअए"
+    },
+    {
+      "surface": "לקבץ",
+      "gloss": "इकट्ठा करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब जाति आउ बोली"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "והלשנות",
+      "gloss": "आउ बोली"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "आउ आबतइ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "देखतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर महिमा"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "हमर महिमा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:48:42.173702075Z",
+  "model": "glm-5.3"
+}

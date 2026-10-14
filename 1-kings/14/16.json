@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חטא \/ החטיא",
+      "rationale": "एके जड़ के दो रूप — ‘पाप करलक’ आउ ‘पाप करावलक’ — इब्रानी के कारक-कृदन्त के जोड़ी"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויתן",
+      "rationale": "सचमुच ‘देतइ’ — केकरा दे देतइ ऊ मूलपाठ में बतावल नञ हइ; ‘हवाले कर देतइ’ एकरा अरथ-रूप हकइ"
+    }
+  ],
+  "translation": "आउ यारवाम के पाप के कारण से — जे पाप ओ करलक आउ जेकरा से ओ यिस्राएल ⟨את⟩ के पाप करावलक — यहवे यिस्राएल ⟨את⟩ के हवाले कर देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "017631d8d90b5efb14a705075cc2a33784c11e8b7f68d1b7b27d68fcc56523bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/14\/13-16.1791997368588.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "आउ हवाले कर देतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "के कारण से"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "पाप के कारण"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यारवाम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "करलक"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आउ जेकरा से"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "पाप करावलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:02:48.590092781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ले",
+      "rationale": "मगही के कारक-चिन्हा; इब्रानी में कोनो बिसेसन नञ हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "तीन दिन",
+      "rationale": "कैद के समय गिनल गेलइ हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ ओकनी के तीन दिन ले कैद-रखै में रखलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d104c970e2a5ef8838e0d24a1eede219368c1bf2f2cabca0d6f4673deafa5572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/42\/17-20.1791987699437.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "कैद-रखै"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:21:39.438396633Z",
+  "model": "glm-5.3"
+}

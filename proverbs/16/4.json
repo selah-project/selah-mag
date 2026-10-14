@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למענהו",
+      "rationale": "'for its own purpose\/for His sake' vs 'for His answer'; lemma hint points to מענה (answer) but idiom reads 'for its sake'."
+    },
+    {
+      "kind": "addition",
+      "subject": "बनइलन",
+      "rationale": "Hebrew פעל is a noun ('work\/deed') with no verb; Magahi needs the verb 'made' supplied."
+    }
+  ],
+  "translation": "हरेक काम यहवे ओकरे बर बनइलन, आउ बुरा मनुस भी बुरा दिन बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2c35cb950f44d9a99f6904e4c0e7467037ddecfbf02e77ad6a9cbe23eb4e3ddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/16\/1-4.1792006741820.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "काम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "ओकरे बर"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ भी"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुरा मनुस"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "दिन बर"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:01.820993638Z",
+  "model": "glm-5.3"
+}

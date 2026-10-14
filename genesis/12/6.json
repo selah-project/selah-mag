@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हल",
+      "rationale": "इब्रानी में 'और-कनानी-तब-धरती-में' क्रिया-रहित हइ; क्रिया कोष्ठक में जोड़ल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלון מורה",
+      "rationale": "एलोन = बड़ गाछ (ओक \/ टेरेबिन्थ); कीजेभी 'मैदान' पढ़ऽ हइ — 'गाछ' बनाम 'मैदान' पुरान झगड़ा हकइ"
+    }
+  ],
+  "translation": "आउ अवराम ओ धरती में होके पार गेलन शेखेम के जगह तक, एलोन मोरे के गाछ तक; आउ कनानी तब ओ धरती में ⟨हल⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ccd62b972ee0a47e7a255490c1215609582bbbc4b970323e1d96fbedcf074ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/12\/5-8.1791986625798.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "पार गेलन"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अवराम"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ओ धरती में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शेखेम (के)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "एलोन (गाछ)"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "मोरे"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "आउ कनानी"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ओ धरती में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:03:45.799045927Z",
+  "model": "glm-5.3"
+}

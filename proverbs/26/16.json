@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 26:16",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "להשיבה \/ משיבי",
+      "rationale": "पद 15 आउ 16 में शुब जड़ के फेराव — हाथ फेर लावै में थकान बनाम सात के जवाब; मगही में एह जड़-जोड़ी बचत नञ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "טעם",
+      "rationale": "स्वाद\/समझ के जड़ — 'बुद्धि के बात' लिहलन, स्वाद के सुभाविक तस्वीर बचत नञ हइ"
+    }
+  ],
+  "translation": "आलसी ओकर आँख में बुद्धिमान हइ — सात बुद्धि के बात जवाब देवै वाला मनुष सब से जादे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9303938cdea077702843c108027c0b092f80a992ef27443ebd0a0086bfd5a494",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/26\/13-16.1792006962483.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आलसी"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ओकर आँख में"
+    },
+    {
+      "surface": "משבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "जवाब देवै वाला"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "बुद्धि के बात"
+    }
+  ],
+  "timestamp": "2026-10-14T19:42:42.483991286Z",
+  "model": "glm-5.3"
+}

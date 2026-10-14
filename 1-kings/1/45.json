@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 1:45",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וימשחו למלך",
+      "rationale": "字面 'ओकरा राजा बर मिलावलन' — अभिसेक-क्रिया राज्यारोहण के चिन्हा हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול",
+      "rationale": "आवाज के दोहराव — नगर के गौजाहट आउ सुनल आवाज एके हकइ; कथा में आवाजे बतावऽ हइ कि राजा के बदललइ।"
+    }
+  ],
+  "translation": "आउ त्सादोक पुरोहित आउ नातान नबी ओकरा गीहोन में राजा बनाके अभिसेक कइलन; ओ लोग ओहिंसे खुसी होके चढ़लन आउ नगर गौजावलइ — ई ⟨ओहे⟩ आवाज हकइ जेकरा तोहनी सुनलइ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "794fe20e6c03f52ef426720d46f3efcbf4c433d93e8f363f8f2434a63c925366",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/1\/45-48.1791996665936.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימשחו",
+      "gloss": "अभिसेक कइलन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "त्सादोक"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "आउ नातान"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा बनाके"
+    },
+    {
+      "surface": "בגחון",
+      "gloss": "गीहोन में"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "चढ़लन"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ओहिंसे"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "खुसी होके"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "आउ गौजावलइ"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ई ओहे"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "तोहनी सुनलइ हे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:51:05.936890863Z",
+  "model": "glm-5.3"
+}

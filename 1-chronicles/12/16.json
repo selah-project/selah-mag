@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גדיתיו",
+      "rationale": "gidyāh — नदी के किनारा — तनाख़ में खाली इहे जगह।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "किनारा",
+      "rationale": "मूल शब्द के आकृति नदी-किनारा हकइ; 'उफान' के भाव क्रिया ममले से आवै हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पहिला महीना",
+      "rationale": "जॉर्डन पार करै के समय किसान।"
+    }
+  ],
+  "translation": "ईहेई ऊ हलनिये जे पहिला महीना में ⟨את⟩ यार्देन पार कइलन, जबे ऊ अपन सब किनारा पर उफान भरल हलइ, आउ ओकनी पूरब आउ पच्छिम दने के सब घाटी के मनईन के भगा देलनिये।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "81ed0f15bf17f2e71b01891ce694a465f094526b7325d4c1cb0b8ffff5eaa4a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/12\/13-16.1792010193190.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ईहेई"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "पार कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यार्देन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यार्देन"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "महीना में"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "जबे ऊ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "उफान भरल हलइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "भगा देलनिये"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब घाटी के मनईन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "घाटी के"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "पूरब दने के"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "आउ पच्छिम दने के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:36:33.191445574Z",
+  "model": "glm-5.3"
+}

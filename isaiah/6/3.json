@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קדוש ×3",
+      "rationale": "तीन गोर 'पवित्तर' — इब्रानी के त्रिगुण-गोर, जस के तस रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מלא",
+      "rationale": "'भराव' — शाब्दिक ढाँचा 'पूरा धरती ओकर महिमा के भराव हकइ'।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "त्रिस-पवित्तर गोर",
+      "rationale": "पढ़निहार के सोझा गाया-गेल गोर — स्तुति के सीधा बोलाव।"
+    }
+  ],
+  "translation": "आउ ई ककरो ओकरा कहलक — पवित्तर, पवित्तर, पवित्तर यहवे त्सबाओत; ओकर महिमा से पूरा धरती भरल हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5424ad42ea3a19c7d6f5c527a2758b0e28f592c30492b416f71ce693e40caeb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/6\/1-4.1791998705529.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ककरो"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भराव"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ओकर महिमा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:25:05.530425614Z",
+  "model": "glm-5.3"
+}

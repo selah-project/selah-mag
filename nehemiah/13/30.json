@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 13:30",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נכר",
+      "rationale": "नेखार — 'बिदेसीपन\/बिदेसी चीज'; ठीक एक मगही सब्द नञ।"
+    }
+  ],
+  "translation": "आउ हम ओकनी के सब बिदेसी चीज से साफ करलियनि, आउ पुरोहित सब आउ लेवी सब बर रखवारी के पाट लगौलियनि — हर एक आदमी अपन काम में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "621bbbdf067bef535afee3d20a1adcc07de53cd50d67787401bdf5b00d9dab88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/13\/29-31.1792009815482.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטהרתים",
+      "gloss": "आउ हम ओकनी के साफ करलियनि"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "बिदेसी चीज"
+    },
+    {
+      "surface": "ואעמידה",
+      "gloss": "आउ लगौलियनि"
+    },
+    {
+      "surface": "משמרות",
+      "gloss": "रखवारी के पाट"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "पुरोहित सब बर"
+    },
+    {
+      "surface": "וללוים",
+      "gloss": "आउ लेवी सब बर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक आदमी"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "अपन काम में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:30:15.482683674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אכל תאכל",
+      "rationale": "infinitive absolute + verb — 'खाबू — जरूर खाबू' के जोर; मगही में 'जरूर' से देखावल गेलै"
+    },
+    {
+      "kind": "you",
+      "subject": "आदमी",
+      "rationale": "यहवे के आज्ञा आदमी के सीधे सम्बोधन — 'तूँ खइबू'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "खइबू",
+      "rationale": "हर गाछ से खेबे के अनुमति — दुआर खुलल बात"
+    }
+  ],
+  "translation": "आउ यहवे एलोहीम आदमी के आज्ञा देलन, कहलन: बगइचा के हर गाछ के फल से तूँ जरूर खइबू।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "14f0223bd1b8e83407ebe79d114a0b4fa0171a216471f3943887d0585327e69a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/2\/13-16.1791986230212.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "आज्ञा देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "על",
+      "gloss": "…के ऊपर"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "हर … से"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "गाछ के फल"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "बगइचा के"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "जरूर खइबू"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "तूँ खइबू"
+    }
+  ],
+  "timestamp": "2026-10-14T13:57:10.213044606Z",
+  "model": "glm-5.3"
+}

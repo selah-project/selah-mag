@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 33:20",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זהם",
+      "rationale": "זהם (घिन करना) पूरा तनाख़ में खाली इहे जगह आवऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "दुसर क्रिया",
+      "rationale": "दुसर पद-खण्ड में क्रिया हिब्रू में दोहरावल नञ हइ; मगही बाक्य पूरा करे बर दोहरावल गेल।"
+    }
+  ],
+  "translation": "आउ ओकर जिनगी रोटी से घिन करऽ हइ, आउ ओकर परान मन-पसंद खाना से घिन करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/33\/17-20.1792007712614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזהמתו",
+      "gloss": "आउ…घिन करऽ हइ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ओकर जिनगी"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी से"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "आउ ओकर परान"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "खाना से"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "मन-पसंद"
+    }
+  ],
+  "timestamp": "2026-10-14T19:55:12.615366518Z",
+  "model": "glm-5.3"
+}

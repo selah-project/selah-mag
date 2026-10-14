@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "רוח एके सब्द — साँस\/बतास\/आत्मा; इहाँ साँस के संग बतावऽ हइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עשתנות",
+      "rationale": "टनाख़ में एके जगह (सामान्य 'machashavot' के जगह) — सोच-विचार"
+    }
+  ],
+  "translation": "ओकर रूआख निकल जइतइ; ऊ ओकर माटी में फेर जइतइ — ओही दिन ओकर सब सोच-बिचार नस्ट हो जइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd9c1e02f2015f113f5c19e5cd83121533a352060ea047a6cf44a0c908ab641f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/146\/1-4.1792006370242.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "निकल जइतइ"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ओकर रूआख"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "फेर जइतइ"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "ओकर माटी में"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "नस्ट हो जइतइ"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "ओकर सब सोच-बिचार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:32:50.243446251Z",
+  "model": "glm-5.3"
+}

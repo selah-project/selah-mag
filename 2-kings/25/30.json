@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ארחתו ארחת",
+      "rationale": "एके सब्द दू बेर — खान-पान…खान-पान — हिब्रू के दोहराव रखल गेलइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "דבר יום ביומו",
+      "rationale": "शब्दशः 'दिन के बात ओकरे दिन में' — रोज के हिसाब के मुहावरा"
+    },
+    {
+      "kind": "measurement",
+      "subject": "हर दिन के हिसाब",
+      "rationale": "दैनिक रासन के नियमित नाप-तौल"
+    }
+  ],
+  "translation": "आउ ओकर खान-पान — नित्तर खान-पान — ओकरा देल गेलइ ⟨את⟩ राजा के ओर से, हर दिन के हिसाब, ओकरे दिन में, ओकर जिनगी के सब दिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "50ad5b6cce8b5074cd83009c0e0f71fd29f1ac636c063eae98e4768d16e9a003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/25\/29-30.1791998466680.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "आउ ओकर खान-पान"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "खान-पान"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "नित्तर"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "देल गेलइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ राजा के ओर से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "हिसाब"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ओकरे दिन में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "ओकर जिनगी के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:21:06.681365609Z",
+  "model": "glm-5.3"
+}

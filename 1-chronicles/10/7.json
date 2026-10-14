@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 10:7",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "फलिश्ती",
+      "gloss": "פלישתים rendered as a people-name, फलिश्ती, first occurrence with familiar gloss"
+    },
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "Hebrew עריהם lacks the possessive 'their own cities' nuance; अपन supplies it"
+    }
+  ],
+  "translation": "आउ घाटी में रहल यिस्राएल (इस्राएल) के सब मरद देखलन कि ऊ भाग गेलन हथिन आउ कि शाऊल आउ ओकर बेटा मर गेलन हथिन, आउ ओकनी अपन नगर छोड़ देलन हथिन आउ भाग गेलन हथिन, आउ फलिश्ती (पलिश्ती) अइलन हथिन आउ ओकरा में बस गेलन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "991b7ec85408e7da5b96635d84220b56b475265c6e0131cd838c9295b8af7a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/10\/5-8.1792010126891.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "घाटी में रहल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "भाग गेलन"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "आउ कि"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मर गेलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "आउ ओकर बेटा"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "छोड़ देलन"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "अपन नगर"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "भाग गेलन"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "फलिश्ती"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "बस गेलन"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:35:26.892904676Z",
+  "model": "glm-5.3"
+}

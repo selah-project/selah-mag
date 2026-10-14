@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बेदी के नाप",
+      "rationale": "अम्मा में लंबाई-चौड़ाई-ऊँचाई के नाप।"
+    },
+    {
+      "kind": "addition",
+      "subject": "निकलतइ",
+      "rationale": "ממנו धरती-साफ हकइ कि सीँग बेदी से एके टुकड़ा — किरिया पूरक रूप में जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "एक अम्मा ओकर लंबाई आउ एक अम्मा ओकर चौड़ाई — चौकोर ऊ होतइ — आउ दू अम्मा ओकर ऊँचाई; ओकरे से ओकर सीँग ⟨निकलतइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c1adbe715a292f985d482873e77ea895e49169ad141f650e3592857536c02aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/30\/1-4.1791989042662.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "एक अम्मा"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ओकर लंबाई"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "आउ एक अम्मा"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ओकर चौड़ाई"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "चौकोर"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ऊ होतइ"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "आउ दू अम्मा"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ओकर ऊँचाई"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरे से"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ओकर सीँग"
+    }
+  ],
+  "timestamp": "2026-10-14T14:44:02.663573218Z",
+  "model": "glm-5.3"
+}

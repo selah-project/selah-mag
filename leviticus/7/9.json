@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מרחשת\/מחבת",
+      "rationale": "दू बरतन — कड़ाही (गहिरा भाँड़) आउ तवा (फिक्का तपावनी के बरतन); कई अनुवाद में एकरा उलटावल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "बलि के बाँट",
+      "rationale": "बिधि-पद बलि के हिस्सा निकट करऽ हइ।"
+    }
+  ],
+  "translation": "आउ हर मिन्हा जे भट्ठी में पकैल जातइ, आउ हर जे कड़ाही में बनैल जातइ, आउ तवा पर — जे पुरोहित ⟨את⟩ ओकरा नियट लावऽ हइ, ओकरे बर होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1c888b16fb5f9b15e3400a15ea227cb6b25dfdb10ea37e1574d880a7a417d87d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/7\/9-12.1791989549708.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आउ हर"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मिन्हा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "पकैल जातइ"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "भट्ठी में"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ हर"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "बनैल जातइ"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "कड़ाही में"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ ... पर"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "तवा"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "पुरोहित के"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "जे नियट लावऽ हइ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "मिन्हा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरे बर"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:52:29.709439760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישמח\/יגיל",
+      "rationale": "खुसी के दू किरिया — बनैल खुसी आउ घूम-घूम के जोस — एके मगही में दू अलग रूप धरल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨!⟩",
+      "rationale": "מה के विस्मयादिबोधक बाक्य-चिन्ह मगही बाक्य-बनावट माँगऽ हइ"
+    }
+  ],
+  "translation": "यहवे, तोहर बल में राजा खुस होलन; आउ तोहर मुकती में ऊ केतना जोस से मनातइ!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/21\/1-4.1792004680584.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "तोहर बल में"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "खुस होलन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "आउ तोहर मुकती में"
+    },
+    {
+      "surface": "מה",
+      "gloss": "केतना"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "जोस से मनातइ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-10-14T19:04:40.584979265Z",
+  "model": "glm-5.3"
+}

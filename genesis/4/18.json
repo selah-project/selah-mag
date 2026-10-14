@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "वंश-सूची",
+      "rationale": "पाँच नाम के कतार — हनोख से लामेख तक; पीढ़ी के गिनती।"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (चारों)",
+      "rationale": "करम-चिन्हा ⟨את⟩ चिन्हा रूप में रखल गेल।"
+    }
+  ],
+  "translation": "आउ हनोख के ⟨את⟩ इराद पैदा भेलक; आउ इराद ⟨את⟩ महूयाएल के जनम देलक, आउ महूयाएल ⟨את⟩ मतूशाएल के जनम देलक, आउ मतूशाएल ⟨את⟩ लामेख के जनम देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "782a7716f27a0c395aa746f8f7a02bb0107a78dd8bdaa4b578bedf95b0b1635a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/4\/17-20.1791986275934.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "पैदा भेलक"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "हनोख के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इराद"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "इराद"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "आउ इराद"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनम देलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "महूयाएल"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "महूयाएल"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "आउ महूयाएल"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनम देलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मतूशाएल"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "मतूशाएल"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "आउ मतूशाएल"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनम देलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लामेख"
+    },
+    {
+      "surface": "למך",
+      "gloss": "लामेख"
+    }
+  ],
+  "timestamp": "2026-10-14T13:57:55.935142366Z",
+  "model": "glm-5.3"
+}

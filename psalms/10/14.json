@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 10:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बदला देबे बर",
+      "rationale": "לתת בידך के मतलब हिब्रू में 'हाथ में देबे बर' — 'बदला' संदर्भ से जोड़ल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "עליך יעזב חלכה",
+      "rationale": "'दुखी तोहरे ऊपरे छोड़ देलक' बनाम 'तूँ दुखी के छोड़ देलन' — करता के फैसला कठिन हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पूरा पद यहवे से सीधा संबोधन हकइ"
+    }
+  ],
+  "translation": "तूँ देखलन; काहे कि तूँ मेहनत-दुख आउ कुसाहत के देखऽ हकथ, ⟨बदला देबे बर⟩ अपन हाथ से। दुखी तोहरे ऊपरे भरोसा छोड़ देलक; यतिम के सहायक तूँ ⟨रहलन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/10\/13-16.1792004558080.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראתה",
+      "gloss": "तूँ देखलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "मेहनत-दुख"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "आउ कुसाहत"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "देखऽ हकथ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "देबे बर"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "अपन हाथ से"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहरे ऊपरे"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "छोड़ देलक"
+    },
+    {
+      "surface": "חלכה",
+      "gloss": "दुखी"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "यतिम"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "सहायक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:38.081205099Z",
+  "model": "glm-5.3"
+}

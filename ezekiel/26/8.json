@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 26:8",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "Verb ונתן has no explicit subject; Nebuchadrezzar from v.7 supplied and bracketed"
+    },
+    {
+      "kind": "you",
+      "subject": "to Tyre",
+      "rationale": "Verse switches to second person — עליך 'against you' addresses Tyre directly"
+    },
+    {
+      "kind": "crux",
+      "subject": "घेराब",
+      "rationale": "דיק hapax-like rare word: 'battering-tower\/siege-wall' vs KJV 'fort' vs BSB 'siege works'"
+    }
+  ],
+  "translation": "तोहर बेटी जे खेत में तलवार से मारल जातइ, आउ ⟨ऊ⟩ तोहर ऊपर घेराब बनतइ, आउ तोहर ऊपर मिट्टी के ढेर उड़ेलतइ, आउ तोहर ऊपर ढाल खड़ा करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5dfbacc625686cc148434a6f589aafc586d744b4ff647996018f75352079bc76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/26\/5-8.1792002496229.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנותיך",
+      "gloss": "तोहर बेटी"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "मारल जातइ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "आउ बनतइ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहर ऊपर"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "घेराब"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "आउ उड़ेलतइ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहर ऊपर"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "मिट्टी के ढेर"
+    },
+    {
+      "surface": "והקים",
+      "gloss": "आउ खड़ा करतइ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहर ऊपर"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ढाल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:28:16.230853223Z",
+  "model": "glm-5.3"
+}

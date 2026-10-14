@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 41:11",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "पाँच कोहनी",
+      "rationale": "छोड़ल जगह के चौड़ाई के नाप — मन्दिर के माप-सूची के हिस्सा।"
+    },
+    {
+      "kind": "crux",
+      "subject": "המנח",
+      "rationale": "מנוח root: 'छोड़ल\/बचल जगह' लेलनइ; कुछ अनुवाद 'आराम के जगह' (wycliffe 'preier' तक) — कोठरी के चारो दने बचल खाली पट्टी हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הצלע",
+      "rationale": "साँख अरथ पसली\/किनारा हकइ; इहाँ किनारे लगल कोठरी — आकार के तस्वीर रखलइ।"
+    }
+  ],
+  "translation": "आउ किनारे के कोठरी के दुआरी छोड़ल जगह के तरफ हलइ — एक दुआरी उत्तर के रस्ता के, आउ एक दुआरी दक्खिन के तरफ के; आउ छोड़ल जगह के चौड़ाई पाँच कोहनी — चारो दने, चारो दने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6919cb79f35248c4c54282b792e9bf97643c599fd4c5936bf07fa1f0c32f7d45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/41\/10-11.1792011964243.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופתח",
+      "gloss": "आउ दुआरी"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "किनारे के कोठरी के"
+    },
+    {
+      "surface": "למנח",
+      "gloss": "छोड़ल जगह के बर"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "उत्तर के"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "आउ दुआरी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לדרום",
+      "gloss": "दक्खिन के तरफ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आउ चौड़ाई"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "המנח",
+      "gloss": "छोड़ल"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "कोहनी"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    }
+  ],
+  "timestamp": "2026-10-14T21:06:04.244545764Z",
+  "model": "glm-5.3"
+}

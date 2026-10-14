@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 46:8",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עיר",
+      "rationale": "Hebrew singular 'city' but context implies cities (ASV\/BSB plural); kept singular नगर"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלה\/אעלה",
+      "rationale": "Egypt rises (יעלה) and boasts 'I will rise' (אעलה) — same verb repeated, pride answering the question of v7"
+    },
+    {
+      "kind": "addition",
+      "subject": "में",
+      "rationale": "Magahi needs the locative postposition where Hebrew uses the prefix ב alone"
+    }
+  ],
+  "translation": "मिस्रयिम (मिस्र) नहर जेसन चढ़ऽ हइ, आउ नदी सब जेसन पानी उबरऽ हे; आउ ऊ कहलन — हम चढ़बइ, हम धरती ढाकबइ, हम नगर आउ ओकरा बासिंदा सब के नास करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "099de369b38be0297e87452360f8fd24011f05e5a0d1937fbdce116c97513186",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/46\/5-8.1792001329324.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम (मिस्र)"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "नहर जेसन"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़ऽ हइ"
+    },
+    {
+      "surface": "וכנהרות",
+      "gloss": "आउ नदी सब जेसन"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "उबरऽ हे"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "हम चढ़बइ"
+    },
+    {
+      "surface": "אכסה",
+      "gloss": "हम ढाकबइ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "אבידה",
+      "gloss": "हम नास करबइ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "आउ ओकरा बासिंदा सब"
+    },
+    {
+      "surface": "בה",
+      "gloss": "एकरा ⟨में⟩"
+    }
+  ],
+  "timestamp": "2026-10-14T18:08:49.325882012Z",
+  "model": "glm-5.3"
+}

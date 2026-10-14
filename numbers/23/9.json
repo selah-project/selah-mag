@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 23:9",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एक",
+      "rationale": "हिब्रू में अनुक्रम-अंक नञ हकइ; मगही के ढाँचा बर कोस्ठक में देल गेल"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אראנו \/ אשורנו",
+      "rationale": "भूतकाल (देखलिअने) बनाम वर्तमान (देखऽ हइ) — दुनो पढ़ाव मिलऽ हइ; यहाँ भूतकाल लेल गेल"
+    }
+  ],
+  "translation": "काहे कि चट्टान सब के ऊपर से हम ओकरा देखलिअने आउ टेकरी सब से ओकरा ताकलिअने; देखऽ — ई ⟨एक⟩ लोग हकइ जे अकेले रहतइ, आउ जाति सब के बीच ओकर गिनती नञ होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/23\/9-12.1791991432333.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "के ऊपर से"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "चट्टान सब"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "हम ओकरा देखलिअने"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "आउ टेकरी सब से"
+    },
+    {
+      "surface": "אשורנו",
+      "gloss": "ओकरा ताकलिअने"
+    },
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "आउ जाति सब के बीच"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יתחשב",
+      "gloss": "गिनती होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:23:52.334048848Z",
+  "model": "glm-5.3"
+}

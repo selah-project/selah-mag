@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויתעבר",
+      "rationale": "'क्रोधित भेलन' — मूल पाठ के अरथ हकइ 'आगे बढ़लन \/ बल परे चढ़लन'; क्रोध संदर्भ से लिसल मगही अरथ हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "אף",
+      "rationale": "'गुस्सा' बनाम 'नाक\/मूँह' — मूल अरथ नाक हकइ, क्रोध के मगही में कर्म-संबंधी साफ रूप लेलक"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ביעקב \/ בישראל",
+      "rationale": "समानांतर पाँती जोड़ी — याकोव आउ यिस्राएल एके बेकाइ के दू नाम"
+    }
+  ],
+  "translation": "एहे से यहवे सुनलन आउ क्रोधित भेलन, आउ आग याकोव (याकूब) में जरलइ, आउ गुस्सा यिस्राएल (इस्राएल) में चढ़लइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "da57fde5bf333c2237b2715ecd4a86ab6c59a3732dd97f0a4f93e32741e3d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/21-24.1792005466207.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "आउ क्रोधित भेलन"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "आउ आग"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "जरलइ"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "याकोव (याकूब) में"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़लइ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिस्राएल (इस्राएल) में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:46.207959925Z",
+  "model": "glm-5.3"
+}

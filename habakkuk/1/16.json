@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "habakkuk 1:16",
+  "book": "habakkuk",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהמה",
+      "rationale": "बहुत अनुवादक एकरा 'पसु' (बेहेमोत) पढ़ऽ हथिन — 'ओकर हिस्सा पसु नइ मोट' — बाकि व्यंजन ओकरा 'एकरा से' (ब\/हेम) निर्देशक बतावऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सोंघार-धूप",
+      "rationale": "קטר — धूप जरा के सोंघारल — बलि के संग जुड़ल दोसरा क्रिया"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרמו \/ מिछमרתो",
+      "rationale": "पद 15 के दोनो जाल-सब्द फेर दोहरावल गेल हइ — जाल के पूजा के व्यंग्य"
+    }
+  ],
+  "translation": "एही से ऊ ओकर जाल के बलि करऽ हइ आउ ओकर पिटारी-जाल के सोंघार-धूप चढ़ावऽ हइ, काहे कि एकरा से ओकर हिस्सा मोट बनऽ हइ आउ ओकर खाना चरबील।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5877c28f80af1c1d245f0186680d5c0455121daae544da18fa2e6306f1efbc38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/habakkuk\/1\/13-16.1792003865874.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एही"
+    },
+    {
+      "surface": "כן",
+      "gloss": "से"
+    },
+    {
+      "surface": "יזבח",
+      "gloss": "बलि करऽ हइ"
+    },
+    {
+      "surface": "לחרמו",
+      "gloss": "ओकर जाल के"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "आउ सोंघार-धूप चढ़ावऽ हइ"
+    },
+    {
+      "surface": "למכמרתו",
+      "gloss": "ओकर पिटारी-जाल के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "एकरा से"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "मोट"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "ओकर हिस्सा"
+    },
+    {
+      "surface": "ומאכלו",
+      "gloss": "आउ ओकर खाना"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "चरबील"
+    }
+  ],
+  "timestamp": "2026-10-14T18:51:05.875962781Z",
+  "model": "glm-5.3"
+}

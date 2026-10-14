@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 10:12",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकर पास",
+      "rationale": "इब्रानी के אל के अगम-बोध बर जोड़ल — मगही में 'पास' के बिना अरथ अधूरा लागऽ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "तीसरा दिन",
+      "rationale": "दिन-गिनती दू बेर — राजा के नियत समय के पूरा होवे"
+    }
+  ],
+  "translation": "आउ यारोबाम आउ सब परजा ओकर पास, रहबाम के पास, तीसरा दिन अइलन, जइसन राजा कहलन हलइ: “तीसरा दिन हमरा पास लौट आवऽ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f88176b44a6d2a9f09a34db517896b256b1709b9215f0d40ba610adbec4bdba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/10\/9-12.1792010834234.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यारोबाम"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओकर पास"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबाम"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "बे दिन"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन हलइ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कए"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "लौट आवऽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा पास"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "बे दिन"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तीसरा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:47:14.235538804Z",
+  "model": "glm-5.3"
+}

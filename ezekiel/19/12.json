@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 19:12",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "רוח के एके रूप 'रूआख' — बतास\/साँस\/आत्मा तीनों अरथ एके सब्द में; 'पुरब के रूआख' पुरब से आवै वाला तपाऊ बतास हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "מטה עזה",
+      "rationale": "एकवचन 'ओकर ताकत के डाल' — KJV बहुवचन पढ़ऽ हइ ('डाढ़ सब'); JPS एकवचन रखऽ हइ, आग के करता ओही डाल हकइ।"
+    }
+  ],
+  "translation": "बाकि क्रोध में ओकरा उखाड़ल गेलन, धरती पर फेंक देल गेल, आउ पुरब के रूआख ओकर फल सुका देलक; ओकर ताकत के डाल टूट गेलन आउ सूख गेलन — आग ओकरा खा गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ce4ef1f07c7b09577ca57c1d543810ef4d8cd6acbd7069a8f8679c6092765cff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/19\/9-12.1792002209263.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתש",
+      "gloss": "उखाड़ल गेलन"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "क्रोध में"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "השלכה",
+      "gloss": "फेंक देल गेल"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आउ रूआख"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "पुरब के"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "सुका देलक"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ओकर फल"
+    },
+    {
+      "surface": "התפרקו",
+      "gloss": "टूट गेलन"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "आउ सूख गेलन"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "डाल"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ओकर ताकत के"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "ओकरा खा गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:23:29.264152386Z",
+  "model": "glm-5.3"
+}

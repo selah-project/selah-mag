@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "करता सब्द जोड़ल गेल — करता-चिन्हा मगही में नञ हकइ, किरिया के रूप आगे के आगमन बतावऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "याखिन · बोअज़",
+      "rationale": "खम्भा के नाम के अरथ खुलल नञ — याखिन 'ऊ गड़तन', बोअज़ 'ऊकरा में बल' संभव; नाम जस के तस रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मन्दिर",
+      "rationale": "ההיכल महल-भवनो होवे — इहाँ पवित्तर भवन के अरथ में मन्दिर लेल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "एक · एक",
+      "rationale": "दू खम्भा के गिनती — दहिन्ना एक, बाम्मा एक"
+    }
+  ],
+  "translation": "आउ ऊ मन्दिर के आगू ⟨את⟩ खम्भा गड़लन — एक दहिन्ना दने आउ एक बाम्मा दने; दहिन्ना वाला के नाम ऊ रखलन याखिन, आउ बाम्मा वाला के नाम बोअज़।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0b99bfeb2570d7bcd35b26e743dc504926ce253ae5ab2ff82eafbed587bc4cb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/3\/17-17.1792010614062.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "गड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खम्भा"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "खम्भा"
+    },
+    {
+      "surface": "על",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "פני",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "मन्दिर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "दहिन्ना दने"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "आउ एक"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "बाम्मा दने"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ऊ रखलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "दहिन्ना वाला के"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "याखिन"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "आउ नाम"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "बाम्मा वाला के"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "बोअज़"
+    }
+  ],
+  "timestamp": "2026-10-14T20:43:34.062829231Z",
+  "model": "glm-5.3"
+}

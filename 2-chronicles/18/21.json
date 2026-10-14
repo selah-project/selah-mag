@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 18:21",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨यहवे⟩",
+      "rationale": "दोसर वיאमर के बोलैयाला पाठ में नाम नञ हइ, कोस्ठक में जोड़ल गेलन"
+    },
+    {
+      "kind": "crux",
+      "subject": "תפתה",
+      "rationale": "पाता: 'बहकाबइ' बनाम 'खोलबइ\/फुसलाबइ' — किस्ती में अलग-अलग रूप मिलऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רוח שקר",
+      "rationale": "रूआख + झूठ — एही जोड़ी आगे 22 आउ 23 में वापस आवऽ हइ"
+    }
+  ],
+  "translation": "ऊ कहलन, हम निकलतइ आउ ओकर सब नबी के मुँह में झूठ के रूआख बनबइ। ⟨यहवे⟩ कहलन, तूँ बहकाबइ, आउ तूँ सकबइ नञ एतना; निकल आउ अइसने कर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fae8c2c7076a31189d2533d0f2f1f735342ae7467796b68617a00dae8fa13fbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/18\/21-24.1792010941560.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "हम निकलतइ"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "बनबइ"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "मुँह में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "נביאיו",
+      "gloss": "ओकर नबी के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "תפתה",
+      "gloss": "तूँ बहकाबइ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ एतना नञ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "तूँ सकबइ"
+    },
+    {
+      "surface": "צא",
+      "gloss": "निकल"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "कर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "अइसने"
+    }
+  ],
+  "timestamp": "2026-10-14T20:49:01.560723775Z",
+  "model": "glm-5.3"
+}

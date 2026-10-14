@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שעיר עזים",
+      "rationale": "मूल 'बकरी के रोँवादार\/बकरा' — 'बकरी-जाति के बकरा' के जोड़।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חטאת",
+      "rationale": "'पाप-बलि' — मूल शब्द पाप आउ ओकर बलि दुनो अरथ में चाही।"
+    }
+  ],
+  "translation": "एक बकरा, बकरी-जाति के, पाप-बलि बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8b39c7c3ed6b3cedf39112789d67b36ced7c54264733534eb72e254953b06719",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/7\/73-76.1791990834547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी-जाति"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-बलि बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:13:54.548797336Z",
+  "model": "glm-5.3"
+}

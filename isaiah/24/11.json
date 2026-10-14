@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 24:11",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; बिवरण-बाक्य बर जोड़ल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערבה",
+      "rationale": "जड़ 'साँझ के अन्हार' से हकइ — खुसी के साँझ-सा डूबल, तस्वीर मगही में थोड़का मिटलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "גלה",
+      "rationale": "'देस छोड़ल\/बदर हो गेल' बनाम 'हटायल गेल' — गलूत (बन्धकता) के जड़"
+    }
+  ],
+  "translation": "चीख-पुकार ⟨हइ⟩ अंगूरी मद बर गली-सहर में; सब खुसी अन्हार भेलइ, धरती के उल्लास चली गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d73783ffe5f8117bd48bcd3c0527dd82a24470e279d27e65b90a3021c0690c90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/24\/9-12.1791998998814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוחה",
+      "gloss": "चीख-पुकार"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "היין",
+      "gloss": "अंगूरी मद"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "गली-सहर में"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "अन्हार भेलइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "खुसी"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "चली गेलइ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "उल्लास"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:29:58.815166668Z",
+  "model": "glm-5.3"
+}

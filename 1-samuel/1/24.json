@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 1:24",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נער נער",
+      "rationale": "'बुतरू बुतरूए हलइ' — एके सब्द के दुहराव; अरथ 'ऊ अबहिन छोटकर हलइ', बाकि चित्र जस के तस रखल।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "तीन बछवा, एक एफा",
+      "rationale": "बलि के सामान के गिनती-नाप — तीन, एक एफा, एक छाला।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בפרים",
+      "rationale": "希 ebrew 'बछवा सब' बहुबचन; किछु अनुवाद 'तीन बरिस के एक गो बैल' पढ़ऽ हइ — मूलपाठ बहुबचन रखऽ हइ।"
+    }
+  ],
+  "translation": "आउ ऊ ओका ओकर संग चढ़ा देलक जब ओकर दूध छुड़ा देलक — तीन गो बछवा, एक एफा पिसल आटा आउ अंगूरी मद के एक छाला लेके — आउ ओका यहवे के घर शिलो में लावलक; आउ बुतरू बुतरूए हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c1a920e5236a995b76c510b221881da36cd0842f0b46eba75e624cf23daf9e80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/1\/21-24.1791994827627.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעלהו",
+      "gloss": "चढ़ा देलक"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ओकर संग"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "גמלתו",
+      "gloss": "दूध छुड़ा देलक"
+    },
+    {
+      "surface": "בפרים",
+      "gloss": "बछवा में"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "आउ एफा"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "पिसल आटा"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "आउ मद के छाला"
+    },
+    {
+      "surface": "יין",
+      "gloss": "अंगूरी मद"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "ओका लावलक"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "शिलो"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "आउ बुतरू"
+    },
+    {
+      "surface": "נער",
+      "gloss": "बुतरूए"
+    }
+  ],
+  "timestamp": "2026-10-14T16:20:27.628277611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 5:18",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "खोखला",
+      "rationale": "השוא के अरथ 'खोखला\/ब्यर्थ' — रस्सी के विसेसन रूप में जोड़ल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבלי השוא \/ עבות העגלה",
+      "rationale": "पतला रस्सी आउ गाड़ी के मोटा रस्सी के उलटा-सँगति — पाप छोट से बड़ा तर घसीटल जा हइ।"
+    }
+  ],
+  "translation": "हाय ओकनी के जे ठनक-ठनक के रस्सी से गलत काम के घसीटऽ हथिन, आउ गाड़ी के मोटा रस्सी के सँग पाप के घसीटऽ हथिन!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "baf20452bd2f2a0416bfba45f031160031ee39aaba601f0a6680bc2fd8d40970",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/5\/17-20.1791998637888.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "משכי",
+      "gloss": "घसीटऽ हथिन"
+    },
+    {
+      "surface": "העון",
+      "gloss": "गलत काम के"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "ठनक-ठनक के रस्सी से"
+    },
+    {
+      "surface": "השוא",
+      "gloss": "खोखला"
+    },
+    {
+      "surface": "וכעבות",
+      "gloss": "आउ गाड़ी के मोटा रस्सी के सँग"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "गाड़ी"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "पाप"
+    }
+  ],
+  "timestamp": "2026-10-14T17:23:57.889353489Z",
+  "model": "glm-5.3"
+}

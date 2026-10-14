@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גמל",
+      "rationale": "'बदला देना' बनाम 'भलो बरताव करना' — גמल दुनो अरथ देऽ हइ; हिअा संदर्भ नकारात्मक बरताव माँगऽ हइ।"
+    }
+  ],
+  "translation": "नञ हमरा पाप के मोताबिक ऊ हमनी के साथ कउलन, आउ नञ हमर अधरम के मोताबिक हमनी पर बदला देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/103\/9-12.1792005789247.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "हमरा पाप के मोताबिक"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कउलन"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के साथ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "हमर अधरम के मोताबिक"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "बदला देलन"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी पर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:09.247667426Z",
+  "model": "glm-5.3"
+}

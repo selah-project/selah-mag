@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צירים \/ כצירי יולדה",
+      "rationale": "एके जड़ के दोहराव — पीड़ा, जनाना के पीड़ा — तुलना के आकार अपने में दोहराव हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "कमर",
+      "rationale": "मतनयिम बहुबचन — कमर\/कटि; शरीर के अंग जान-पहचान के लिए कमर धरलिये।"
+    }
+  ],
+  "translation": "एहे से हमर कमर थरथराहट से भर गेलइ; पीड़ा हमरा पकड़ लेलक, जनाना के पीड़ा जइसन जे बुतरू जनायऽ हइ — सुनऽ पर हम झुक गेलिये, देखऽ पर घबरा गेलिये।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "75ad1e40dba5f69429b035087f8bd8929945858256804858b38a0d6746d47e1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/21\/1-4.1791998956804.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एहे"
+    },
+    {
+      "surface": "כן",
+      "gloss": "से"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "भर गेलइ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "कमर"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "थरथराहट"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "पीड़ा"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "पकड़ लेलक"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "पीड़ा जइसन"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "जे जनायऽ हइ"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "झुक गेलिये"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "सुनऽ पर"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "घबरा गेलिये"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "देखऽ पर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:29:16.805702746Z",
+  "model": "glm-5.3"
+}

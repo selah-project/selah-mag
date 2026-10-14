@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी में क्रिया नञ हकइ — 'अकास तोहर हाथ के काम' खाली नामवाक्य हकइ"
+    }
+  ],
+  "translation": "पहिले के समय में तूँ धरती के नेव धरलन, आउ तोहर हाथ के काम ⟨हथिन⟩ अकास।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "813f0a78dff17f327da6e578f53b87e7c76a21a7b123ebcc3bd852a02d2b2f9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/102\/25-28.1792005833919.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "पहिले के समय में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "तूँ नेव धरलन"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "आउ के काम"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "तोहर हाथ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:53.920558837Z",
+  "model": "glm-5.3"
+}

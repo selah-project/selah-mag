@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכושרות",
+      "rationale": "बहुवचन: 'खुसहाली' बनाम 'जेल-बेड़ी में' (जिनेवा) — जड़ कुשर समृद्धि हकइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צחिगה",
+      "rationale": "सूखा-उजाड़ — ए शब्द तनाख में खाली इहेइ पद में आवऽ हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מושיב\/מוציא",
+      "rationale": "बसावऽ\/निकालऽ — एके जड़ के उलटा जोड़, काव्य-बनावट"
+    }
+  ],
+  "translation": "एलोहीम अकेला लोग के घर-परिवार में बसावऽ हकइ, बंदी लोग के खुसहाली में बाहर निकालऽ हकइ; बाकि जे सुर गेलन हथिन, ओनहीं सूखा-उजाड़ जगह में रहल हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/68\/5-8.1792005325217.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "बसावऽ हकइ"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "अकेला लोग के"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "घर-परिवार में"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "बाहर निकालऽ हकइ"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "बंदी लोग के"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "खुसहाली में"
+    },
+    {
+      "surface": "אך",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "जे सुर गेलन हथिन"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "रहल हथिन"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "सूखा-उजाड़ जगह में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:25.218388181Z",
+  "model": "glm-5.3"
+}

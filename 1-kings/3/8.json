@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "לא ימנה ולא יספר",
+      "rationale": "गिनती के भासा — परजा के अगिनत होवे के घोसना"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימנה \/ יספר",
+      "rationale": "दू गिनती-क्रिया के समानांतर जोड़ी — इब्रानी समानांतर बनावट"
+    }
+  ],
+  "translation": "आउ हमर मालिक तोहर परजा के बीच में हए, जेकरा तूँ चुनलहुँ — एक बड़ परजा, जेकरा गिनती में नञ गिनल जा सकऽ हइ आउ नञ गिनल जाएत, एतना बड़ संख्या के कारन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bccd5e60c117f8d7618d0255d2422c3d14fd8ae715829592ba9575c8d035ba84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/3\/5-8.1791996751757.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "आउ हमर मालिक"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहर परजा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "तूँ चुनलहुँ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "परजा"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "गिनल जाएत"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "गिनती होतइ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "बड़ संख्या से"
+    }
+  ],
+  "timestamp": "2026-10-14T16:52:31.758745534Z",
+  "model": "glm-5.3"
+}

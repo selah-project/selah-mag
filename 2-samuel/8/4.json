@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 8:4",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨के घोड़ा⟩",
+      "rationale": "इब्रानी 'सब रथ के नस काटलन' कहऽ हइ — नस घोड़ा के काटल जा हइ, रथ के नञ, एहे से स्पस्ट करे बर जोड़ल"
+    },
+    {
+      "kind": "crux",
+      "subject": "सात सौ घुड़सवार",
+      "rationale": "1 इतिहास 18:4 में 'सात हजार' आउ 'रथ' पढ़ाई भेटऽ हइ — इहाँ मात्रा सात सौ घुड़सवार"
+    },
+    {
+      "kind": "measurement",
+      "subject": "गिनती",
+      "rationale": "युद्ध-लूट के गिनती — घुड़सवार, पैदल सिपाही आउ रथ के संख्या"
+    }
+  ],
+  "translation": "आउ दाविद ओकरा से एक हजार आउ सात सौ घुड़सवार आउ बीस हजार पैदल सिपाही पकड़लन; आउ दाविद ⟨את⟩ सब रथ के ⟨के घोड़ा⟩ के नस काट देलन, बाकि ओकरा से सौ रथ बचइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea9f104a90429fb30e53e49e39483cd0d351f76a1e611f435127358209d57e50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/8\/1-4.1791996042419.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "पकड़लन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावיצ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "आउ सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "घुड़सवार"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आउ बीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "पैदल"
+    },
+    {
+      "surface": "ויעקר",
+      "gloss": "नस काट देलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब रथ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "रथ"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "बचइलन"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "रथ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:40:42.421105693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הנטיפות",
+      "rationale": "lemma נְטִיפָה जड़ 'टपकावल' से; ई रूप तनाख़ में केवल इहेँ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "והרעלות",
+      "rationale": "lemma רְעָלָה 'फड़कइ वाला घूँघट' केवल इहेँ आवऽ हइ"
+    }
+  ],
+  "translation": "कान के झूमर सब, आउ कलाई के कड़ा सब, आउ लम्बा घूँघट सब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "08761c1d77bb90d66ae3ee5e89da76a7cc74d48af1e64381aed32daadb8e865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/3\/17-20.1791998604168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "कान के झूमर सब"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "कलाई के कड़ा सब"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "लम्बा घूँघट सब"
+    }
+  ],
+  "timestamp": "2026-10-14T17:23:24.169403137Z",
+  "model": "glm-5.3"
+}

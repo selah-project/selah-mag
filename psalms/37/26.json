@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לברכה",
+      "rationale": "'असीस बर हइ' (बिया असीस पावऽ हइ) बनाम 'असीस बनऽ हइ' (बिया आपन असीस हइ) — दू तरह के पढ़ाई।"
+    }
+  ],
+  "translation": "सार दिन ऊ किरपा करऽ हइ आउ उधारो देत हइ, आउ ओकर बिया असीस बर हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0646819da900c31f897e9257d1f4229724e61c294b40ec81b63ffdc2722e6abb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/37\/25-28.1792004940272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सार"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "किरपा करऽ हइ"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "आउ उधारो देत हइ"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "आउ ओकर बिया"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "असीस बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:00.273442359Z",
+  "model": "glm-5.3"
+}

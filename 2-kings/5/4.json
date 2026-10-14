@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כזאת וכזאת",
+      "rationale": "'अइसन आउ अइसन' — बात संक्षेप में छोड़ल जाए के इब्रानी चाल, literal रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "करता",
+      "rationale": "इब्रानी क्रिया बिना नाम कहऽ हइ; मगही में 'ऊ' (नामान) धरल गेल।"
+    }
+  ],
+  "translation": "आउ ऊ अइलन आउ अपन मालिक के पास बतालन: “यिस्राएल के धरती के ओ कनियाँ अइसन आउ अइसन कहलक।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a6a8d8d4ea4a9f3edbaec983a33844bc88ff8242752b0e5901fa3784aa65c7c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/5\/1-4.1791997852525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आउ अइलन"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "बतालन"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "अपन मालिक के पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "आउ अइसन"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "ओ कनियाँ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:10:52.526595029Z",
+  "model": "glm-5.3"
+}

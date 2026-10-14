@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 50:3",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "नडו הלכו",
+      "rationale": "भूतकाल ('भाग गेलन, चल देलन') बनाम भबिसकाल ('भागतइ, जातइ') — अनुवादक लोग बाँटल हथिन"
+    },
+    {
+      "kind": "addition",
+      "subject": "तक",
+      "rationale": "מאדם ועד בהמा में 'से…ले के' के सीमा बतावे बर 'तक' जोड़ल गेल"
+    }
+  ],
+  "translation": "काहे कि एक जाति उत्तर से ओकर ऊपर चढ़तइ; ऊ ⟨את⟩ ओकर धरती के उजाड़ बनाबइ, आउ ओकरा में कोनो बसनिहार नञ रहतइ; आदमी से ले के पसु तक — भाग गेलन, चल देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d55672d5650b3836775db1dff3fe2beb61d8864d98793a5e56edc185d94e72d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/50\/1-4.1792001546412.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़तइ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "एक जाति"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तर से"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "बनाबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर धरती"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ओकर धरती"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बसनिहार"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "आदमी से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले के"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "पसु"
+    },
+    {
+      "surface": "נדו",
+      "gloss": "भाग गेलन"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "चल देलन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:12:26.413289858Z",
+  "model": "glm-5.3"
+}

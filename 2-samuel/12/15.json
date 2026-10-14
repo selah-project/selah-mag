@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "विआनेस",
+      "rationale": "'बेहद बेमार' (KJV\/JPS) बनाम 'बिना इलाज' (YLT: incurable) — जड़ के अरथ 'कमजोर\/निरास' हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मारलन",
+      "rationale": "निगेह के बिधान 'मारना' — गोड़ मारे बाला पसु के चाल से आवल बिधान, सीधा 'पीटलन' नञ"
+    }
+  ],
+  "translation": "आउ नातान ओकर घर चल गेलन; आउ यहवे मारलन ⟨את⟩ ऊ बुतरू के जेकरा ऊरियाह के जनाना दाविद के बर जनमलक, आउ ओकर हाल बिगड़ गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "79b526961672fd5af3156f7567af2b5c048d331a7929f4c1be6e3c8310e9c3bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/12\/13-16.1791996159687.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "चल गेलन"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ओकर घर"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "आउ मारलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊ बुतरू"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ऊ बुतरू"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनमलक"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ऊरियाह (उरिय्याह) के"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के बर"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "ओकर हाल बिगड़ गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:42:39.688631766Z",
+  "model": "glm-5.3"
+}

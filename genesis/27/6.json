@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 27:6",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "याकोव से",
+      "rationale": "रिबका अपन बेटा याकोव के सीधा सम्बोधन करऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जे",
+      "rationale": "इब्रानी में उद्धरन के सीधा जोड़ हकइ; मगही के 'जे' जोड़ल गेल।"
+    }
+  ],
+  "translation": "आउ रिबका अपन बेटा याकोव से कहलिन, कहबे लगलिन — देख, हम सुनलियनि जे तोहर बाप ⟨את⟩ तोहर भाय एसाव से कहबे लगलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1dc2c67dbc701bb3a50233aa94e192d5a547de2b3317c72c1b83ba81d04ffbea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/27\/5-8.1791987061618.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "आउ रिबका"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "कहलिन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "अपन बेटा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहबे लगलिन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "हम सुनलियनि"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर बाप"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहर बाप"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "कहबे लगल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तोहर भाय"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहबे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:11:01.619768653Z",
+  "model": "glm-5.3"
+}

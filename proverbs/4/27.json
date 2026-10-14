@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the son",
+      "rationale": "सीधा आदेस — पिता पुत्र के बोलतथिन"
+    },
+    {
+      "kind": "elision",
+      "subject": "באמין\/בשמאול",
+      "rationale": "इब्रानी 'दहिने झुकऽ' कहऽ हइ; बामे बर क्रिया दोहरावल नञ — मगही में 'नञ' दोहरावल गेलइ"
+    }
+  ],
+  "translation": "दहिने त नञ झुक, आउ बामे नञ; तोहर गोड़ बुराई से हटा ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d9519dc05a644084567a95ef7ecfb0297cb8df22f19a195bb1f1f22d078918b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/4\/25-27.1792006449215.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תט",
+      "gloss": "झुक"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "दहिने"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "आउ बामे"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "हटा ले"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "तोहर गोड़"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "बुराई से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:34:09.216089389Z",
+  "model": "glm-5.3"
+}

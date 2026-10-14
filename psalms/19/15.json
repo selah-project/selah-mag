@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צורי",
+      "rationale": "कई अनुवाद 'शक्ति' कहऽ हइ; शब्द चट्टान हकइ — पत्थर के तस्वीर।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צורי\/גואלי",
+      "rationale": "पद-अंत में 'ई' के युग्म — हमर चट्टान, हमर छुड़ावै वाला — कोमल संगति।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद यहवे के सीधा सम्बोधन हकइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "बिनती",
+      "rationale": "पूरा पद एक प्रार्थना-विनती हकइ जे यहवे के सामने अरपित होवऽ हइ।"
+    }
+  ],
+  "translation": "हमर मुँह के बात आउ हमर हिरदय के बिचार तोहर मुँह के सामने चाह-भाव बनय, यहवे, हमर चट्टान आउ हमर छुड़ावै वाला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ab223a6635e9dbb49aa4a0363b93f0cc301ce685932b0143bda6c6fac7b8865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/19\/13-15.1792004635020.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "बनय"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "चाह-भाव"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "פי",
+      "gloss": "हमर मुँह के"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "आउ बिचार"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमर हिरदय के"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहर मुँह के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "हमर चट्टान"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "आउ हमर छुड़ावै वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:55.021466668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "elohim",
+      "rationale": "“देवता सब” बनाम “न्यायधीस सब” बनाम “एलोहीम” — इब्रानी बहुबचन जस के तस रखल गेलनइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हा",
+      "rationale": "मगही के बाक्य-बनावट बर क्रिया जोड़ल गेलनइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "elohim\/elyon",
+      "rationale": "दू ऊँच दिब्य नाम एके ठाढ़ हकइ — देवता सब ऊपर वाला के बेटा कहाइ हथिन।"
+    }
+  ],
+  "translation": "हम कहलन: “तोहनी देवता सब हा, आउ एल्योन के बेटा सब — तोहनी सब।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/82\/5-8.1792005557470.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवता सब"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आउ … के बेटा सब"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "तोहनी सब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:17.471651861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לנצח ידबר",
+      "rationale": "'सदा बोलतइ' बनाम 'बिना टोकल बोलतइ' (jps) बनाब 'टिकल बोलतइ' (asv) — לנצח के मतलब पर अनुवादक मतभेद हइ।"
+    }
+  ],
+  "translation": "झूठ के गवाह नास होतइ, आउ सुनै वाला मनुस सदा बोलतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "84f4548e8351d76146aa72aea0e2f8907670d4eb3da61c6c20aaaa98b26b10af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/21\/25-28.1792006837927.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "नास होतइ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आउ मनुस"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "सुनै वाला"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "बोलतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:37.928032265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "निराकार क्रिया रूप नञ हकइ; मगही के चलत वर्तमान रूप में “हे” जोड़ल गेल"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נקרא שם עליך",
+      "rationale": "'तोहर ऊपर नाम बोलावल गेलइ' — स्वामित्व के इब्रानी मुहावरा, शब्दशः रखल गेल"
+    }
+  ],
+  "translation": "आउ धरती के सब जाति देखतन कि यहवे के नाम तोहर ऊपर बोलावल गेलइ हे, आउ ऊ लोग तोहसे डरतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "83072a6556856f2537f196013010f5976a07257fa270e47aa1d5312436835098",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/28\/9-12.1791992879280.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "आउ देखतन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "बोलावल गेलइ हे"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहर ऊपर"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "आउ डरतन"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तोहसे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:47:59.281406511Z",
+  "model": "glm-5.3"
+}

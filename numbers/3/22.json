@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 3:22",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חדש",
+      "rationale": "हिब्रू 'चान्द\/नव-चान्द' (महीना के माप) — एही से 'एक महीना' धरलन, काहे कि मगही में चान्द-गिनती बिदेसी लागत।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "जनगणना",
+      "rationale": "पद पुरुष-गिनती आउ संख्या (7,500) बतावऽ हइ।"
+    }
+  ],
+  "translation": "गिनती में — हर मरद, एक महीना के बुतरू से आउ ओकरा से बड़ — ओनी के गिनल संख्या सात हजार आउ पाँच सौ रहलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5ba9646a191e6c6099aea73bad64e58ffc1438e9a0842484b8c18bbcf505d138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/3\/21-24.1791990577895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "में — हर मरद"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "बुतरू"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "एक महीना"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "आउ ओकरा से बड़"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ओनी के गिनल"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आउ पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:09:37.896376515Z",
+  "model": "glm-5.3"
+}

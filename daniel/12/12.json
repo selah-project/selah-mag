@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "1335 days",
+      "rationale": "1290 से पैंतालीस दिन जादे — दूनो गिनती के अन्तर पाठ में समझावल नञ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויגיע",
+      "rationale": "'पोहुँचऽ हइ' — कइसे पोहुँचे: जिअइके ओही दिन देखऽ हइ, या ओही बिन्दु तक प्रतीक्षा पूरा करऽ हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "שלש מאות",
+      "gloss": "मगही में 'तीन सौ' एकठाम लिखल; इब्रानी दू टुकड़ा में हकइ।"
+    }
+  ],
+  "translation": "केतना भागी हउ ऊ, जे बाट जोहऽ हइ आउ एक हजार तीन सौ पैंतीस दिन ले पोहुँचऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b44b2635239d137cacfac27e5e6baf129b38b4cf47cc9b3e39024b5e9739bb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/12\/9-12.1792009150849.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "केतना भागी हउ"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "जे बाट जोहऽ हइ"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "आउ पोहुँचऽ हइ"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "दिन ले"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "पैंतीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "आउ पाँच"
+    }
+  ],
+  "timestamp": "2026-10-14T20:19:10.852836304Z",
+  "model": "glm-5.3"
+}

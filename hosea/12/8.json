@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כנען",
+      "rationale": "'Canaan' vs 'merchant\/trafficker' (KJV, JPS) — Canaanite = trader, a slur by trade-name"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כנען",
+      "rationale": "Israel's ancestor struggled at Bethel, but Ephraim has become Canaan — the enemy's name as mirror"
+    }
+  ],
+  "translation": "कनान! ओकर हाथ में छल के तराजू हकइ — ऊ ओकरा कुचलऽ परेम करऽ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "298093ac566ff5b31945d7720608d7ca5db7a9700343f66a0023643e94079254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/12\/5-8.1792003305868.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ओकर हाथ में"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "तराजू"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "छल"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "ओकरा कुचलऽ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "परेम करऽ हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:41:45.869274996Z",
+  "model": "glm-5.3"
+}

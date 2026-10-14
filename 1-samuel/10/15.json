@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "शाऊल",
+      "rationale": "चाचा शाऊल के सीधा प्रस्न बिदा करऽ हइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נא",
+      "rationale": "'ना' बिनती के छोट कण — मगही के 'ना' ओकरा जगह लेवऽ हइ"
+    }
+  ],
+  "translation": "शाऊल के चाचा कहलन, बताओ ना हमरा, शमूएल तोहनी के का कहलन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "33cdde41be7897c82c3cb303108f16edf821422b1658c35db03c2956e2ed0c9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/10\/14-15.1792011742809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "चाचा"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "बताओ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमूएल"
+    }
+  ],
+  "timestamp": "2026-10-14T21:02:22.810079833Z",
+  "model": "glm-5.3"
+}

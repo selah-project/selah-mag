@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "हाथ पर आँख",
+      "rationale": "इब्रानी 'मालिक के हाथ के दने आँख' — सहायता या भोजन के बाट जोहे के चाल; शाब्दिक राखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मालिक",
+      "rationale": "אדוניה׮ मनुस मालिक बर हकइ — दिब्य अरथ में अदोनाय नञ"
+    }
+  ],
+  "translation": "देखऽ, जइसन नौकर के आँख ओकर मालिक के हाथ पर, आउ दासी के आँख ओकरा मालकिन के हाथ पर, ओइसने हमनी के आँख यहवे, हमर एलोहीम, के दने अहइ — जने तक ऊ हमनी पर किरपा नञ करतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/123\/1-4.1792006240029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "जइसन आँख"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "नौकर के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "ओकर मालिक के"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "आउ जइसन आँख"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "दासी के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "ओकरा मालकिन के"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ओइसने"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "हमनी के आँख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जने तक"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "हमनी पर किरपा करतन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:40.030074087Z",
+  "model": "glm-5.3"
+}

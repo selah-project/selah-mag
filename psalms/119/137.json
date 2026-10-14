@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद यहवे के सीधे सम्बोधन हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "अष्टाक्षरी",
+      "rationale": "सोफिम के अष्टाक्षरी माला में त्सादे खण्ड (137–144) के पहिला पद।"
+    }
+  ],
+  "translation": "तूँ त्सेदेक के हथिन, यहवे, आउ तोहर नियाव सीधा हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/137-140.1792006147547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "त्सेदेक"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "आउ सीधा"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "तोहर नियाव"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:07.547594204Z",
+  "model": "glm-5.3"
+}

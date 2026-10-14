@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המלקוח",
+      "rationale": "מלקוח — 'कब्ज के चीज\/शिकार' बनाम 'कैद कइल लोग': ओकर जड़ 'जबड़ा' हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלל\/מלקוח",
+      "rationale": "लूट आउ कब्जे के जोड़ल जोड़ — इब्रानी के बेगार ध्वनि-ताल मगही में धुँधला"
+    }
+  ],
+  "translation": "आउ ओकनी लेलन ⟨את⟩ सब लूट के माल आउ ⟨את⟩ सब कब्ज के चीज — आदमी में आउ जीव-जंतु में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "97413b1bef2d5e25dc63fa516d842ecfae3472f959ba2a3d114a0451a96afb93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/31\/9-12.1791991743069.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब लूट के माल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "लूट के माल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सब कब्ज के चीज"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "कब्ज के चीज"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "आदमी में"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "आउ जीव-जंतु में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:29:03.070350021Z",
+  "model": "glm-5.3"
+}

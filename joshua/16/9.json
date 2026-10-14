@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 16:9",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "नगर के बाँट",
+      "rationale": "बिरासत के बाँट में नगर के गिनती-तयकीन, जनजाति के हिस्सा तय करए वाला पद।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "המבדלות",
+      "rationale": "परम्परा में 'अलग कइल गेल' (सेपरेटेड) बनाम 'काटल गेल' (cut off) — एहिया पहिलका लेल गेलन।"
+    }
+  ],
+  "translation": "आउ ओ नगर जे अलग कइल गेलन हल एफ्रयिम के बेटा बर, मनस्सेह के बेटा के बिरासत के बीच में — सब नगर आउ ओकनी के गाँव।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "44311bccf6264e785b994295119ed5743b516c244641fd0fc3eadd223ad75e1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/16\/9-10.1791993637895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "आउ ओ नगर"
+    },
+    {
+      "surface": "המבדלות",
+      "gloss": "अलग कइल गेलन हल"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के बेटा बर"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रयिम"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "बिरासत"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनस्सेह"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "आउ ओकनी के गाँव"
+    }
+  ],
+  "timestamp": "2026-10-14T16:00:37.895851467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ — नामवाक्य; मगही के सहारा बर कोस्ठक में।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חדרי מות",
+      "rationale": "'मौत के भीतर के कोठरी' — कोठरी भीतर के कक्ष के बतावऽ हकइ।"
+    },
+    {
+      "kind": "mystery",
+      "subject": "शेओल के रस्ता",
+      "rationale": "ओकर घर के रस्ता गड्ढा-लोक दने जा हकइ — ओकरा साँझ-बिहान के पीछूटा रूपक।"
+    }
+  ],
+  "translation": "शेओल के रस्ता ओकर घर ⟨हकइ⟩, मौत के कोठरी में उतरऽ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2c5021b10bc9669fdb40cefa6f00269b147edf41173dcd54d74b4455b74f7137",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/7\/25-27.1792006548050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ओकर घर"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "उतरऽ हकइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "कोठरी"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:48.051055168Z",
+  "model": "glm-5.3"
+}

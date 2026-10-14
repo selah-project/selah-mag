@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 15:5",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जइसने होल",
+      "rationale": "Hebrew והיה narrative opener; Magahi needs the narrative frame word"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दन्दौत",
+      "rationale": "השתחוה is prostration in homage; दन्दौत is the Magahi bow of respect"
+    }
+  ],
+  "translation": "आउ जइसने कोनो मरद ओकरा दन्दौत करे बर पास अइल, त ऊ ⟨את⟩ हाथ पसारके ओकरा पकड़लक आउ ओकरा चुमा देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "606240368565fa1d9f3575bceb0650cd202ad6a9cd1e3aa5815ec2365ed34d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/15\/5-8.1791996248809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ जइसने होल"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "पास अइल"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोनो मरद"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "दन्दौत करे बर"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "पसारके"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हाथ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "पकड़लक"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "चुमा देलक"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:44:08.809893759Z",
+  "model": "glm-5.3"
+}

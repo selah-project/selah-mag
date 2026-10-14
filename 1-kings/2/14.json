@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבר \/ דבר",
+      "rationale": "एके जड़ के दो रूप — संज्ञा 'बात' आउ क्रिया 'कहऽ' — कइल बात आउ कहल बचन के जोड़"
+    }
+  ],
+  "translation": "ऊ कहलन, हमरा तोहरा एक बात कहनी हइ; ऊ कहलनिन, कहऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "821f81cb60b100be09e801f68e96ef2d54e7a9d5349f971f72540a75bf0b53c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/2\/13-16.1791996696255.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "एक बात"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "कहलनिन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:51:36.256007536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 9:2",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨लोग⟩",
+      "rationale": "यिस्राएल के बाद समूह-सब्द जोड़ल गेल — मगही के बनावट चाहऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "नतीनीम",
+      "rationale": "हनतीनिम — मंदिर के बर देहल गेल सेवक; कोनो साफ मगही बरग नञ, एहे से लिप्यन्तरन रखल गेल"
+    }
+  ],
+  "translation": "आउ जे लोग अपन जोत में, अपन नगर में पहिला रहलथिन — यिस्राएल के ⟨लोग⟩, पुरोहित सब, लेवी के लोग आउ नतीनीम सब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/9\/1-4.1792010132460.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיושבים",
+      "gloss": "आउ रहै वाला लोग"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "באחזתם",
+      "gloss": "अपन जोत में"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "अपन नगर में"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित सब"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवी के लोग"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "आउ नतीनीम सब"
+    }
+  ],
+  "timestamp": "2026-10-14T20:35:32.461721546Z",
+  "model": "glm-5.3"
+}

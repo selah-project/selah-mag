@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלוך ונסוע",
+      "rationale": "infinitive pair 'walking and journeying' keeps its doubled step; rendering repeats the tent-pulling verb"
+    },
+    {
+      "kind": "elision",
+      "subject": "הנגבה",
+      "rationale": "the-Negeb as dry south land rendered 'दक्खिन के दने', losing the place-name"
+    }
+  ],
+  "translation": "आउ अवराहाम (अब्राहम) डेरा उठाके चललन, चलते-चलते डेरा उठावते दक्खिन के दने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/12\/9-12.1791986541077.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "डेरा उठाके चललन"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "चलते-चलते"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "डेरा उठावते"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "दक्खिन के दने"
+    }
+  ],
+  "timestamp": "2026-10-14T14:02:21.078549205Z",
+  "model": "glm-5.3"
+}

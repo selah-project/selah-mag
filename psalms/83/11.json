@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעין דאר",
+      "rationale": "एन-दोर (यहोसू 17:11) बनाम 'एन-दोर' के पढ़ाई बदलाव (א for ד); दुनो जगह मिलल पढ़ाई हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דמן",
+      "rationale": "'खाद' — मूल 'दोमेन' खाद\/गोबर के ढेर; बेकार ठहरावल बात के रूपक।"
+    }
+  ],
+  "translation": "ऊ एन-दोर में बिनसि गेलन; ऊ धरती बर खाद बनलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/83\/9-12.1792005553531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "बिनसि गेलन"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "एन-दोर में"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "दोर"
+    },
+    {
+      "surface": "היו",
+      "gloss": "बनलन"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "खाद"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "धरती बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:13.532695329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 19:19",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מקרבך",
+      "rationale": "इब्रानी ‘तोहर भीतर के नजदीकी हिस्सा से’ — मगही में ‘अपना बीच से’ रखल।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "तूँ",
+      "rationale": "इब्रानी एक-बचन ‘तूँ’ जस के तस रखलन — समुदाय के मतलब बुझल जाऽ हइ।"
+    }
+  ],
+  "translation": "तब तोहनी ओकरा संग ओइसने करब जइसन ऊ ओकरा भाय के साथे करए के मन बनइलक हल, आउ तूँ ओ बुराय के अपना बीच से मेटाब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ab4e65d3a425e3f948d1a6ca9018f26c24d8a0e31f939baf77914c7b109a76b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/19\/17-20.1791992568466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "करब"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "זמם",
+      "gloss": "मन बनइलक हल"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करए के"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ओकरा भाय के साथे"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "आउ मेटाब"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ओ बुराय"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "अपना बीच से"
+    }
+  ],
+  "timestamp": "2026-10-14T15:42:48.467748151Z",
+  "model": "glm-5.3"
+}

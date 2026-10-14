@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 47:1",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमर",
+      "rationale": "עברी के 'אבי' आउ 'אחי' में पुरान-प्रत्यय पहिले के अरथ देतइ; मगही में 'हमर' साफ करए पड़ल"
+    },
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "ויאמर बहुबचन आदर देखावै बर"
+    },
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "योसेफ़ फरोह से सीधे बोलतइ"
+    }
+  ],
+  "translation": "योसेफ़ अइलन आउ फरोह के बतअलन, आउ कहलन, हमर बाप आउ हमर भाय सब, आउ ओकनी के भेड़, आउ ओकनी के माल-जाल, आउ जे कुछ ओकनी के हइ, सब कनान देस से अइलन; आउ देखऽ, ऊ गोसेन देस में हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2c70be1b322ab509baa662efa70d8a8a9c2cf79c9d77561740443081db47691a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/47\/1-4.1791987908691.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ़"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "बतअलन"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "फरोह के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमर बाप"
+    },
+    {
+      "surface": "ואחי",
+      "gloss": "आउ हमर भाय सब"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "आउ ओकनी के भेड़"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "आउ ओकनी के माल-जाल"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे कुछ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "באו",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देस से"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "आउ देखऽ ऊ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देस में"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "गोसेन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:25:08.692582599Z",
+  "model": "glm-5.3"
+}

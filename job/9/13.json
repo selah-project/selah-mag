@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 9:13",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "आपन गुस्सा",
+      "rationale": "אפו साक्षात् नाक\/थूथन हकइ; इब्रानी गुस्सा के नाक के धुआँ में देखऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "राहब",
+      "rationale": "राहब — बड़का समुंदर-दानव के नाम बनिके बलवान लोग, या फेर अहंकार के प्रतीक; KJV 'घमंडी मददगार' बनावऽ हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "अंग्रेजी 'If God'",
+      "rationale": "KJV के सुरुआती 'If' हिब्रू पाठ में नञ हइ"
+    }
+  ],
+  "translation": "एलोअह आपन ⟨गुस्सा⟩ नञ फिरावतन; ओकर नीचे राहब के मदद करए वाला झुक गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "952cdf15cb2e6947895a0b9c0d0a6e64c187489bb14951bb2eee8be558634ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/9\/13-16.1792007262509.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "फिरावतन"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "आपन गुस्सा"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "ओकर नीचे"
+    },
+    {
+      "surface": "שחחו",
+      "gloss": "झुक गेलन"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "मदद करए वाला"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "राहब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:42.509838750Z",
+  "model": "glm-5.3"
+}

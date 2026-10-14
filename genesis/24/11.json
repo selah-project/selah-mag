@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 24:11",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "घुटना टेकवलन",
+      "rationale": "ברך के मूल अरथ 'घुटना टेकना' हकइ — ऊँट के बइठावे के काम एही सब्द से हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "बाहिर",
+      "rationale": "हिब्रू के दू बेर 'निकलै के' (צאת) एक बेर देखावल गेल; दोसर बेर ब्रैकेट में"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעת ... לעת",
+      "rationale": "'समय ... समय' के दोहराव — इब्रानी के ताल मगही में जस के तस रखल गेल हइ"
+    }
+  ],
+  "translation": "आउ ऊ ऊँटनी के नगर के बाहिर, पानी के कुइयाँ के किनारे घुटना टेकवलन, साँझ के समय, ओही समय जब पानी भरे वाली जनाना ⟨बाहिर⟩ निकलऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bc9c089300d50ff744d36aff413fe8020f71a61a3fdee9a1bd70e4ed3cb2d1a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/24\/10-11.1792011563342.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "आउ घुटना टेकवलन"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ऊँटनी के"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के किनारे"
+    },
+    {
+      "surface": "באר",
+      "gloss": "कुइयाँ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ के"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "निकलै के"
+    },
+    {
+      "surface": "השאבת",
+      "gloss": "पानी भरे वाली जनाना"
+    }
+  ],
+  "timestamp": "2026-10-14T20:59:23.343162275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 19:15",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "लौट",
+      "rationale": "इब्रानी के क्रिया 'अइलन' हकइ; 'लौट' संदर्भ से साफ करे बर जोड़ल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "(यरूशलेम)",
+      "rationale": "पहिला आगमन पर चलनसार रूप कोस्ठक में।"
+    }
+  ],
+  "translation": "आउ अम्मोन के बेटा सब देखलन जे अराम भाग गेलइ, त ओनो भी ओकर भाय अबीसै के मुँह देखिके भाग गेलन आउ नगर के भीतर ढुकलन; तब योआब यरूशलयिम (यरूशलेम) लौट अइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ee5139bebb14d12b37ce3bbf147526cbf5f38fb569989363f9c4e4d4ab369a00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/19\/13-16.1792010349239.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आउ बेटा सब"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נס",
+      "gloss": "भाग गेलइ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "आउ भाग गेलन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ओनो"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के मुँह देखिके"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "अबीसै"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाय"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आउ ढुकलन"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "नगर के भीतर"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "तब लौट अइलन"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-10-14T20:39:09.240507155Z",
+  "model": "glm-5.3"
+}

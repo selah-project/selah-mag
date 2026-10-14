@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "मगही वाक्य के बर किरिया चाही; इब्रानी विशेषण-वाक्य हकइ"
+    }
+  ],
+  "translation": "जइसन तीर बलवान के हाथ में, तइसने जवानी के बेटा हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/127\/1-4.1792006220555.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "जइसन तीर"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान के"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसने"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "जवानी के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:20.556067213Z",
+  "model": "glm-5.3"
+}

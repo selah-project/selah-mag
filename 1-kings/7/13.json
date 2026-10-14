@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बेसकलन … लेलन",
+      "rationale": "„शालोम… अइलन… लेलन” — वायवक्रिया के जोड़ी एके काम कहऽ हइ; मगही दू किरिया में देखावऽ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "काम-विबरन",
+      "rationale": "मन्दिर के सामान के नाप-तौल के बरनाने के सिलसिला सुरू होवऽ हइ"
+    }
+  ],
+  "translation": "आउ राजा शलोमो (सुलैमान) बेसकलन, आउ त्सोर (सूर) से ⟨את⟩ हीराम के लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7ebbcfcafde2ec3f44535ec4d5af3406182a8e9527a34f23a26eb69a3789fad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/7\/13-16.1791996938006.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "बेसकलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हीराम"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "हीराम"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "त्सोर से"
+    }
+  ],
+  "timestamp": "2026-10-14T16:55:38.007033405Z",
+  "model": "glm-5.3"
+}

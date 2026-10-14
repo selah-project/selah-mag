@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויועץ…ויועץ",
+      "rationale": "छोड़ल सल्लाह आउ लेल सल्लाह — यעץ जड़ के दोहराव, बाक्य के ताना।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बुतरू सब",
+      "rationale": "הילדים के साक्षात अरथ „बच्चा\/लड़का” हकइ; अरथ में जुआन संगी मानल गेल।"
+    }
+  ],
+  "translation": "बाकि ऊ ⟨את⟩ ओ बुढ़वा लोग के सल्लाह छोड़ देलक जे ओकनी ओकरा देलन हल, आउ ⟨את⟩ ओ बुतरू सब के संग सल्लाह कइलन जे ओकर संग ⟨את⟩ बड़ होलन रहथिन, जे ओकर सामने खाली रहथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "30d70d1fb0c486f1c3829de05a3c22163f03a07de20eb51b51440ed5ebd9a2bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/12\/5-8.1791997217683.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "छोड़ देलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सल्लाह"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "सल्लाह"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "बुढ़वा लोग के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ओकरा देलन हल"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "सल्लाह कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बुतरू सब"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "बुतरू सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "बड़ होलन रहथिन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकर संग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "खाली रहथिन"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकर सामने"
+    }
+  ],
+  "timestamp": "2026-10-14T17:00:17.684539576Z",
+  "model": "glm-5.3"
+}

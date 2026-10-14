@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 2:11",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जातइ",
+      "rationale": "इब्रानी किरिया-रूप नञ देतइ; मगही के भबिस-किरिया जोड़ल गेलन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפל \/ שח",
+      "rationale": "पद 9 के दूहू किरिया फेर आवऽ हइ — गिरवावट के शब्दावली ओही रहऽ हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ओही दिन",
+      "rationale": "'यहवे के दिन' के ठीक-तारीख चिन्हा — बविस के दिन के गिनती।"
+    }
+  ],
+  "translation": "आदमी के अकड़ वाली आँखे नीच्चा कएल जातइ, आउ मनुसन के ऊँचाई झुकाएल जातइ, आउ यहवे अकेले ओही दिन ऊँच कएल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b7d920db671c832a981092ae3c17743596a6042774dfb31b98b3917dc5525727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/2\/9-12.1791998445047.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "आँखे"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "अकड़ वाली"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "नीच्चा कएल जातइ"
+    },
+    {
+      "surface": "ושח",
+      "gloss": "आउ झुकाएल जातइ"
+    },
+    {
+      "surface": "רום",
+      "gloss": "ऊँचाई"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "मनुसन के"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "आउ ऊँच कएल जातइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    }
+  ],
+  "timestamp": "2026-10-14T17:20:45.048148188Z",
+  "model": "glm-5.3"
+}

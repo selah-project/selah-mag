@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "से",
+      "rationale": "मगही के सम्बन्ध-चिन्हा, इब्रानी के मिन्हा-सम्बन्ध बोनी के अरथ बोध करावै बर"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "तोहर मुँह — ओहे परमात्मा के मुँह, सम्पूर्ण स्तोत्र के पता-लिखै वाला"
+    }
+  ],
+  "translation": "आग में जरलइ, काटल गेलइ; तोहर मुँह के फटकार से ओकनी बिनसऽ हइतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/80\/17-20.1792005550580.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "जरलइ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "काटल गेलइ"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "फटकार"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहर मुँह के"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "बिनसऽ हइतन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:10.581054798Z",
+  "model": "glm-5.3"
+}

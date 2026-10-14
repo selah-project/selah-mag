@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "मरनेवाला के गिनती",
+      "rationale": "महामारी में मरे लोग के गिनती — चार आउ बीस हजार।"
+    },
+    {
+      "kind": "crux",
+      "subject": "चार आउ बीस हजार",
+      "rationale": "1 कोरिन्थियों 10:8 तेइस हजार कहऽ हइ; इहाँ इब्रानी चार आउ बीस हजार हकइ — बिना मिला-जुला गिनती के।"
+    }
+  ],
+  "translation": "आउ महामारी में मरनेवाला चार आउ बीस हजार भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5e916ef93f7e884982bcef20abff83d1610798a5030fdb0d14822d914b9d9b97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/25\/9-12.1791991453720.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भेलन"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मरनेवाला"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "महामारी में"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आउ बीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-10-14T15:24:13.721128622Z",
+  "model": "glm-5.3"
+}

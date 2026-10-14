@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 1:3",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בין המצרים",
+      "rationale": "‘संकर जगह के बीच’ बनाम ‘संकट के बीच’ — मेत्सर के साफ अरथ जगह के संकरापन हकइ, रूपक में संकट।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "यहूदा",
+      "gloss": "यहूदा (यहूदाह) — कबीला-नाँव स्त्री के रूप में आवऽ हइ, हिन्दी के ‘जूडा’ से हटाइए कइल गेलन।",
+      "rationale": ""
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "מענी",
+      "rationale": "ओनी के रूप मेत्सार-जड़ से दुःख-पीड़ा — गलत-देस भेजल जए के दो कारण दुनो पीड़ा से जुड़ल हइ।"
+    }
+  ],
+  "translation": "गलत-देस भेजल गेलन यहूदा — दुःख से आउ बेसी दास-काम के कारण; ऊ जाति सब के बीच बैठलइ, आराम नञ भेटलइ; सब पीछा करै वाला ओकरा संकर जगह के बीच पकड़ लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/1\/1-4.1792008184997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלתה",
+      "gloss": "गलत-देस भेजल गेलन"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "दुःख से"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "आउ बेसी"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "दास-काम"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "बैठलइ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जाति सब के बीच"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "भेटलइ"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "आराम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "רדפיה",
+      "gloss": "पीछा करै वाला"
+    },
+    {
+      "surface": "השיגוה",
+      "gloss": "ओकरा पकड़ लेलन"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "संकर जगह"
+    }
+  ],
+  "timestamp": "2026-10-14T20:03:04.998631566Z",
+  "model": "glm-5.3"
+}

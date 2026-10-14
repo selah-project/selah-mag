@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 35:16",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "किब्रात",
+      "rationale": "כברת is a rare measure of distance ('a stretch of land'); KJV 'a little way', LXX roughly 'half the way' — dimension uncertain, so transliterated."
+    },
+    {
+      "kind": "substitution",
+      "subject": "राहेल के बच्चा जनमल",
+      "rationale": "Hebrew verb 'she bore' is active; Magahi phrasing with के is natural syntax, sense kept."
+    }
+  ],
+  "translation": "आउ ओकनी बेत-एल से जाय लागलन, आउ एफ्राता के पहुँचे बर अबहियों एक किब्रात जमीन के रस्ता बचल हल, तब राहेल के बच्चा जनमल आउ जनमते में ओकर दुख सख्त भेल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "12621bee20c0f198d5670f1fb24ec6f5514dfef2edb7ff482140f6e955f2ac34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/35\/13-16.1791987395744.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "जाय लागलन"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "बेत से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अबहियों"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "किब्रात"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "जमीन"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "पहुँचे बर"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "एफ्राता"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "बच्चा जनमल"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल"
+    },
+    {
+      "surface": "ותקש",
+      "gloss": "दुख सख्त भेल"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "जनमते में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:16:35.746016633Z",
+  "model": "glm-5.3"
+}

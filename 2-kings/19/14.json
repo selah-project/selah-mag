@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 19:14",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויקראם",
+      "rationale": "क्रिया के अरथ 'ओकरा के पुकारलन' हो सकऽ हइ; परम्परा 'पढ़लन' — चिट्ठी के संदर्भ से।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויקראם",
+      "rationale": "दूसर पढ़ाई: 'आउ ओकरा (सब) पढ़के सुनावलन' — चिट्ठी सार्वजनिक रूप से पढ़ेलक।"
+    }
+  ],
+  "translation": "आउ खिजकियाहू दूतनी के हाथ से ⟨את⟩ चिट्ठी लेलन आउ पढ़लन; आउ यहवे के घर चढ़ गेलन, आउ खिजकियाहू ओकरा यहवे के आगे फैला देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cfd5c4226dd0b1eed32ed21ef90266ae0942232603bacbd8db7e45d934a36314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/19\/13-16.1791998296914.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "आउ लेलन"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "खिजकियाहू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चिट्ठी"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "चिट्ठी"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "दूतनी"
+    },
+    {
+      "surface": "ויקראם",
+      "gloss": "आउ पढ़लन"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़ गेलन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויפרשהו",
+      "gloss": "फैला देलन"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "खिजकियाहू"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:18:16.915031923Z",
+  "model": "glm-5.3"
+}

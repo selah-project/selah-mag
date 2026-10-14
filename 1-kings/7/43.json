@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "दस ठूना · दस हौड़ी",
+      "rationale": "भाँड़ा के गिनती-सूची जारी हकइ"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ दस ठूना, आउ ⟨את⟩ दस हौड़ी, ठूना के ऊपर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0d34374412dbb1a9a0b46d35129c63877bf8e6526b8bec3f34af50c5dd946def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/7\/41-44.1791996832092.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दस ठूना"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ठूना"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दस हौड़ी"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "हौड़ी"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ठूना के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:53:52.093250203Z",
+  "model": "glm-5.3"
+}

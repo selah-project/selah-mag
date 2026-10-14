@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 17:5",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבלים\/שבלים",
+      "rationale": "एके सब्द दू बेर — जम्मा करे आउ टहरावे दुनो जगह — कटनी के चित्र के जोड़ऽ हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וזרעו",
+      "gloss": "कुछ अनुवाद 'ओकर बाँह' लेथिन (बाँह से काटल जाऽ हइ), कुछ 'बिया' (जड़ से गढ़ल)।"
+    }
+  ],
+  "translation": "आउ ई होतइ जइसन कटनी के बेला खड़ा धान के बिला जम्मा करऽ हइ आउ ओकर बाँह बाली काटऽ हइ; आउ ई होतइ जइसन रेफायिम के घाटी में बाली टहरावे वाला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "52e6cb3380af1ec67efd3a81b772f2034218a9db2763a00a4c5fac9cef6694d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/17\/5-8.1791998933888.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ ई होतइ"
+    },
+    {
+      "surface": "כאסף",
+      "gloss": "जइसन जम्मा करऽ हइ"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "कटनी के बेला"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "खड़ा धान के बिला"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "आउ ओकर बाँह"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "बाली"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "काटऽ हइ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आउ ई होतइ"
+    },
+    {
+      "surface": "כמלקט",
+      "gloss": "जइसन टहरावै वाला"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "बाली"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "घाटी में"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "रेफायिम"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:53.889085628Z",
+  "model": "glm-5.3"
+}

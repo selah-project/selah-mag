@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש गला\/साँस\/जीवन-बल के धरती हकइ; खाली 'आत्मा' सँकरा हो जावऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רנגतइ\/खुस",
+      "rationale": "אגילה-ואशמחה दुनू क्रिया एके खुसी के दू रूप — घूम-घूम के खुस होना आउ चमकना"
+    }
+  ],
+  "translation": "हम खुसी से रंगतइ आउ तोहर हेसेद में रंगतै-खुस होतइ, काहे कि तूँ ⟨את⟩ हमर दुख देखलन; तूँ हमर परान के संकट में जानलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "321aab05eaa32e5b93f1892e7168168f80579fbe726107436a18f8a237a6a21d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/31\/5-8.1792004792689.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "खुसी से रंगतइ"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "आउ खुस होतइ"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "तोहर हेसेद में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर दुख"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "हमर दुख"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "जानलन"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "संकट में"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:06:32.690320905Z",
+  "model": "glm-5.3"
+}

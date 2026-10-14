@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 36:4",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "particle of entreaty with no Magahi equivalent; rendered as bracketed softener ⟨ना⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "हिजकियाहू",
+      "rationale": "the Rabshakeh's speech addresses Hezekiah through the envoys, second person से"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבטחון \/ בטחת",
+      "rationale": "same root 'trust' repeated as noun and verb; the echo survives as भरोसा \/ भरोसा करऽ हऽ"
+    }
+  ],
+  "translation": "आउ रब-शाके ओकनी से कहलक, हिजकियाहू से कहऽ — एहने कहऽ हइ ऊ बड़ा राजा, अस्सूर के राजा: ई कोन भरोसा हकइ, जेकरा में तूँ भरोसा करऽ हऽ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6e93bfabcacaed44afb51b2c585121209dcecf37fd0038a1f8ec1b98501c0ee3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/36\/1-4.1791999349129.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "רב",
+      "gloss": "रब"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "-शाके"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ना⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "हिजकियाहू"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "הבטחון",
+      "gloss": "भरोसा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा में"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "भरोसा करऽ हऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:35:49.130668784Z",
+  "model": "glm-5.3"
+}

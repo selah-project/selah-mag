@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "बबिल के बन्धुआ लोग",
+      "rationale": "पाँच आज्ञा-रूप किरिया (बनावऽ, रहऽ, रोपऽ, खावऽ) परति-साक्षात् सम्बोधन हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकरा में",
+      "rationale": "וְשָׁבוּ साफ में 'बइठऽ\/रहऽ' कहऽ हइ; 'ओकरा में' सन्दर्भ से जोड़ल गेल।"
+    }
+  ],
+  "translation": "घर बनावऽ आउ ओकरा में रहऽ, आउ बगइचा रोपऽ आउ ⟨את⟩ ओकर फल खावऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1af612c01df6bd153c36ede63f58f99bbb5d6e39210c23582630a0668df099a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/29\/5-8.1792000943193.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "बनावऽ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "आउ ओकरा में रहऽ"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "आउ रोपऽ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "बगइचा"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "आउ खावऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर फल"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ओकर फल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:02:23.193951576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 32:10",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהו ילל ישמן",
+      "rationale": "रौराहट-उजाड़ता के तीन गूँजत सब्द; मगही में ओकर घनाघनी पूरा नञ आवऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "आँख के नन्हा आदमी",
+      "rationale": "אישון के साक्षात आकृति — आँख के पुतली में झिलकत नन्हा मनुस"
+    }
+  ],
+  "translation": "ऊ ओकरा खोजलन उजाड़ धरती में, आउ रौरावत उजाड़-बिहान में; ऊ ओकरा घेरलन, ओकरा समझइलन, ओकरा रखवारी कइलन, जइसन ओकर आँख के नन्हा आदमी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "84704971e5f4610be27062eddd43f82b1ba82dd58b84246afd1c5d91eb7770f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/32\/9-12.1791993004075.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימצאהו",
+      "gloss": "ऊ ओकरा खोजलन"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "ובתהו",
+      "gloss": "आउ उजाड़-बिहान में"
+    },
+    {
+      "surface": "ילל",
+      "gloss": "रौरावत"
+    },
+    {
+      "surface": "ישמן",
+      "gloss": "उजाड़ बनजार भूमि"
+    },
+    {
+      "surface": "יסבבנהו",
+      "gloss": "ऊ ओकरा घेरलन"
+    },
+    {
+      "surface": "יבוננהו",
+      "gloss": "ओकरा समझइलन"
+    },
+    {
+      "surface": "יצרנהו",
+      "gloss": "ओकरा रखवारी कइलन"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "जइसन नन्हा आदमी"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ओकर आँख के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:50:04.075897294Z",
+  "model": "glm-5.3"
+}

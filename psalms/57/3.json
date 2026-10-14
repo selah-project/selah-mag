@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גמר עלי",
+      "rationale": "„हमरा बर पूरा करथिन“ बनाम „हमरा बर ओकरा के पूरा करथिन“ (किसनी बात के? — हिब्रू में वस्तु अनुपस्थित)।"
+    }
+  ],
+  "translation": "हम पुकारबइ एलोहीम एल्योन के, ओ एल के जे हमरा बर पूरा करथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/57\/1-4.1792005203300.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "हम पुकारबइ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ओ एल के"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "पूरा करथिन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:23.301952119Z",
+  "model": "glm-5.3"
+}

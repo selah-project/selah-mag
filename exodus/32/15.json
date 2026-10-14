@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 32:15",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "दू पट्टा, दुनो पारी",
+      "rationale": "गिनती आउ ओर-नाप दुनो — दू पट्टा, दुनो पारी पर लिखाई।"
+    },
+    {
+      "kind": "addition",
+      "subject": "लिखल",
+      "rationale": "अन्तिम 'הם כתבים' के पूरा बाक्य बर दोहरावल गेलन — संरचना के दोहराव हकइ।"
+    }
+  ],
+  "translation": "आउ मोशे घुरलन आउ पहाड़ से ओतरलन, आउ गवाही के दू पट्टा ओकर हाथ में — पट्टा, दुनो पारी में लिखल, एक ओर से आउ दूसर ओर से लिखल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a9e72f0f8702db4b5f69b22f7e437d1b7aaf050dd69e8da32a32b7e4b11a2666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/32\/13-16.1791989153069.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "आउ घुरलन"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "आउ ओतरलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "आउ दू"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "पट्टा"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "गवाही के"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ओकर हाथ में"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "पट्टा"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "लिखल"
+    },
+    {
+      "surface": "משני",
+      "gloss": "दुनो पारी में"
+    },
+    {
+      "surface": "עבריהם",
+      "gloss": "ओकर ओर के"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "एक ओर से"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "आउ दूसर ओर से"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "लिखल"
+    }
+  ],
+  "timestamp": "2026-10-14T14:45:53.070446048Z",
+  "model": "glm-5.3"
+}

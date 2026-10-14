@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "कोप",
+      "rationale": "אף मूल अरथ 'नाक\/थुनथुनी' हकइ; कोप ओकरै फैलल अरथ हकइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "एक क्षण बनाम परान",
+      "rationale": "רגע 'आँख के फेरा' जेतना छोट समय — अनप बनाम जीवन के तुलना"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨खाली⟩",
+      "rationale": "इब्रानी केवल 'एक क्षण' कहऽ हइ; 'खाली' मगही बनावट बर जोड़ल गेलइ"
+    }
+  ],
+  "translation": "काहे कि ओकर कोप में ⟨खाली⟩ एक क्षण हकइ; ओकर रजामंदी में परान हकइ; साँझ रोना ठहरऽ हइ, आउ बिहान खुसी के गाना आवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/30\/5-8.1792004752414.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "एक क्षण"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ओकर कोप में"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "परान"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "ओकर रजामंदी में"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ठहरऽ हइ"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "रोना"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "आउ बिहान"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "खुसी के गाना"
+    }
+  ],
+  "timestamp": "2026-10-14T19:05:52.414771092Z",
+  "model": "glm-5.3"
+}

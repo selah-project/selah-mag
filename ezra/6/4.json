@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जे",
+      "rationale": "अरामाई דी के सम्बन्ध-सब्द बर मगही में जोड़ल सब्द, मूल में विशेषण-संज्ञा जुड़ल बनावट हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "גלל",
+      "rationale": "'गड़्ड़ल\/बड़ पत्थल' बनाम 'काटल पत्थल' (bsb) — मूल चित्र 'गड़ल भार-जइसन' हकइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נדבך",
+      "rationale": "בिल्डिंग के पंक्ति\/तह बर अरामाई सब्द, तनाख़ में किछुए जगह (एज्रा 5:8, 6:4) मिलऽ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "तीन पंक्ति",
+      "rationale": "बेदी-भवन के नाप-जोड़, कोरस के हुक्म के हिस्सा"
+    }
+  ],
+  "translation": "पंक्ति ⟨जे⟩ पत्थल बड़ के तीन, आउ पंक्ति ⟨जे⟩ काठ नया के; आउ खरच राजा के घर से देल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b91eafa80d8feb30e53a74ed852be0b2f250adb9cb7672255d2afd1d89222e18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/6\/4-4.1792012206601.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "पंक्ति"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨जे⟩"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "आउ पंक्ति"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨जे⟩"
+    },
+    {
+      "surface": "אע",
+      "gloss": "काठ"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "नया"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "आउ खरच"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "देल जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T21:10:06.602111891Z",
+  "model": "glm-5.3"
+}

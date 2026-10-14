@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "चालीस दिन",
+      "rationale": "मोड़ के बरिस के गिनती घोसना — नियत समय"
+    },
+    {
+      "kind": "measurement",
+      "subject": "एक दिन के चाल",
+      "rationale": "नगर के भीतर तय कइल दूरी के नाप"
+    },
+    {
+      "kind": "crux",
+      "subject": "उलटाइ जातइ",
+      "rationale": "נהפכת — 'उलट गेराइ जातइ' (तुष्टि-बचन के तरहे पढ़ियो सम्भव, सदोम के संग शब्द-जोड़ी) बनाम खाली विनास"
+    }
+  ],
+  "translation": "आउ योना नगर के भीतर एक दिन के चाल चलै शुरू कइलन, आउ पुकारलन आउ कहलन: अझै चालीस दिन, आउ निनवे उलटाइ जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1598c608c54b2c3303f31bc4961b6b3ff43b1815d2272faab2a9adeb44f79505",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jonah\/3\/1-4.1792003685787.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "शुरू कइलन"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "भीतर जाऽ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "चाल"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "पुकारलन"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अझै"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "आउ निनवे"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "उलटाइ जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:05.788720775Z",
+  "model": "glm-5.3"
+}

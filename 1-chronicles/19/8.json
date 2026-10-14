@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "त",
+      "rationale": "Hebrew וישמע 'and he heard' implies 'when', supplied as connective"
+    }
+  ],
+  "translation": "आउ दाविद सुनलन, त ऊ ⟨את⟩ योआब आउ ⟨את⟩ सब बहादुर सब के सेना भेजलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f4cb67fd85b37ba5e111b527b31a655a4c2e9ba872c8605606bd8491895fcedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/19\/5-8.1792010367558.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योआब"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सब बहादुर सब के सेना"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "बहादुर सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:39:27.559624945Z",
+  "model": "glm-5.3"
+}

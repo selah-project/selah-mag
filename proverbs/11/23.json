@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के अन्त",
+      "rationale": "मगही के बनावट के चाही — 'आस के फल' कहऽ हइ; इब्रानी सीधा कहऽ हइ 'आस = गुस्सा के भड़क'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עברה",
+      "rationale": "'गुस्सा के भड़क' (jps\/kjv) बनाम 'पाप' (ylt 'transgression')"
+    }
+  ],
+  "translation": "त्सेदेक लोग के चाह खाली भलाई होतइ; बुरा लोग के आस ⟨के अन्त⟩ गुस्सा के भड़क होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "86db5d8841c3950e884e37542d0fa7a6d6729bc687c58eaf2c6ef7ba70ac3094",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/11\/21-24.1792006651628.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "चाह"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "त्सेदेक लोग के"
+    },
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई होतइ"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "आस"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बुरा लोग के"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "गुस्सा के भड़क"
+    }
+  ],
+  "timestamp": "2026-10-14T19:37:31.629414024Z",
+  "model": "glm-5.3"
+}

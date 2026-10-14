@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "आगन",
+      "rationale": "את פני यहवे के सामने — पन्छ 'मुँह\/अगोर' के बहुवचन; 'आगन' (सामने) इडियम के रूप में लेल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משחתים \/ לשחתה",
+      "rationale": "एके जड़ שחת के दू आगमन — 'बरबाद करे वाला' आउ 'बरबाद करे बर' — हिब्रू के दोहराव।"
+    },
+    {
+      "kind": "you",
+      "subject": "लूत के",
+      "rationale": "दूत लूत से सीधे बात करऽ हथिन।"
+    }
+  ],
+  "translation": "काहे कि हमनी ⟨את⟩ ई जगह के बरबाद करऽ हइ — काहे कि ओकनी के पुकार यहवे के ⟨את⟩ आगन बड़ भेलन, आउ यहवे हमनी के ओकरा बरबाद करे बर पठौलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "99189e1901fc68848fd525dfc9b1b98a0af3340c7b9c2f076acf22da63323fc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/19\/13-16.1791986760324.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "बरबाद करऽ हइ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हमनी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई जगह"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ई जगह"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "बड़ भेलन"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "ओकनी के पुकार"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के आगन"
+    },
+    {
+      "surface": "פני",
+      "gloss": "आगन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "पठौलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "ओकरा बरबाद करे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:06:00.325444015Z",
+  "model": "glm-5.3"
+}

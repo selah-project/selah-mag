@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קול דבריו ×2",
+      "rationale": "एके बाक्य दू बेर दोहरावल गेल हइ — सुने के क्रिया के बोझ दर्शावऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "निद",
+      "rationale": "נרדם मात्र निद नञ — अचेत-सा हो जाने के अरथ हकइ।"
+    }
+  ],
+  "translation": "आउ हम ⟨את⟩ ओकर बात के बोली सुनलियन; आउ जब हम ⟨את⟩ ओकर बात के बोली सुनलियन, तब हम अपन मुँह के ऊपर गहिर निद में गेलियन, आउ हमर मुँह धरती के ओर रहल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "587eabe128b1bd583d88dcf7b5ea24bd8595405efeb5594c1e293eb45fd001ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/10\/9-12.1792009079716.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "सुनलियन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बोली"
+    },
+    {
+      "surface": "קול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ओकर बात"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "आउ जब हम सुनलियन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बोली"
+    },
+    {
+      "surface": "קול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ओकर बात"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आउ हम"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "रहलियन"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "गहिर निद में गेल"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "अपन मुँह"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "आउ हमर मुँह"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरती के ओर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:17:59.717446364Z",
+  "model": "glm-5.3"
+}

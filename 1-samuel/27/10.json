@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא פשטתם",
+      "rationale": "इब्रानी सोध नकारात्मक रूप में हकइ ('की तोहनी लूटलहु कि नञ'); मगही में सीधा सोध सुभाविक हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "अछीश → दाविद",
+      "rationale": "सीधा सोध आउ जवाब — दाविद के छल के बात"
+    }
+  ],
+  "translation": "अछीश कहलन, “आज तोहनी कने लूटलहु?” दाविद कहलन, “यहूदा (यहूदा) के दक्खिन दने, आउ यरहमेली के दक्खिन दने, आउ केनी के दक्खिन दने।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "21f5b79f83a9556ddbfa59a0e44b2a849ec3f5cff225d02a2fd3e248b1076309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/27\/9-12.1791995694144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "अछीश"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की नञ"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "लूटलहु"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "על",
+      "gloss": "दने"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "दक्खिन"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ दने"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "दक्खिन"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "यरहमेली"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ दने"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "दक्खिन"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "केनी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:34:54.145655577Z",
+  "model": "glm-5.3"
+}

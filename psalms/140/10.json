@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש מסבי",
+      "rationale": "'घेरे वालनी के मुखिया' बनाम 'घेरे वालनी के माथा' — कुस्तुहत चुनल"
+    }
+  ],
+  "translation": "जे हमरा घेरले हथिन, ओकनी के मुखिया के ऊपर ओकनी के ओठे के कुकरम ओकनी के ढाक ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/140\/9-12.1792006273441.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "जे हमरा घेरले हथिन"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "कुकरम"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ओकनी के ओठ"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "ओकनी के ढाक ले"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:13.442586229Z",
+  "model": "glm-5.3"
+}

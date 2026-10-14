@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חיל \/ תמים",
+      "rationale": "बल आउ पूरापन के जोड़ी — सामर्थ्य आउ निर्दोसता के समानान्तर, मगही में ध्वनि-संगति नञ आवऽ हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "कमरबन्ध बान्हऽ हथिन",
+      "rationale": "אזר literal अरथ हकइ पेटी\/कमरबन्ध बान्हना; कइयो अनुवादक 'सामर्थ्य से लैस करना' कहऽ हइ — ओ चित्र गायब हो जा हकइ।"
+    }
+  ],
+  "translation": "ऊ एल हथिन जे हमरा बल के पट्टा से कमरबन्ध बान्हऽ हथिन, आउ हमर रस्ता के पूरा-पूरा बनइलन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0c6f52b1643deb31ea4f32fb386e9b4bb7cdf6d29e43f81f4e24840cc80a4e2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/18\/33-36.1792004628508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "कमरबन्ध बान्हऽ हथिन"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बल के पट्टा से"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "बनइलन हथिन"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "पूरा-पूरा"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "हमर रस्ता के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:48.509069199Z",
+  "model": "glm-5.3"
+}

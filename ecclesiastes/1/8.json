@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הדברים\/לדבר",
+      "rationale": "एहे जड़ बात-कहए के पद के भीतरे दोहरावल — 'बात सभ' आउ 'कहए बर'; मगही में आंशिक।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ओकरा⟩",
+      "rationale": "इब्रानी में करम सीधे क्रिया में छिपल हकइ; मगही के 'के' चाही।"
+    }
+  ],
+  "translation": "सब बात सभ थकावैत हथिन; कोनो मनुस ⟨ओकरा⟩ कहए बर सकैत नञ हकइ; आँख देखल से भरत नञ होतइ आउ कान सुनल से भरत नञ होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/1\/5-8.1792008392030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात सभ"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "थकावैत हथिन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सकैत हकइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "कहए बर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "भरत नञ होतइ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखल से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "भरत नञ होतइ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "सुनल से"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:32.031694712Z",
+  "model": "glm-5.3"
+}

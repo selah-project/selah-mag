@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "नहावे के बर्तन",
+      "rationale": "סיר רחצי — नम्रता के चिन्हा; मोआब दास-बरत के जइसन"
+    },
+    {
+      "kind": "idiom",
+      "subject": "जुता फेंकब",
+      "rationale": "जुता फेंकल एदोम पर — बिस्तार पर अधिकार के चाल, जइसन जमीन पर दावा"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "पहिलका पद में हिब्रू क्रिया नञ रखऽ हइ"
+    }
+  ],
+  "translation": "मोआब हमर नहावे के बर्तन हकइ; एदोम पर हम अपन जुता फेंकब; फलिश्ती पर हम शोर मचाब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/108\/9-12.1792005961727.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "बर्तन"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "हमर नहावे के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "फेंकब"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "अपन जुता"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "फलिश्ती"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "शोर मचाब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:01.728477298Z",
+  "model": "glm-5.3"
+}

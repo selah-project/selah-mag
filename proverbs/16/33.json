@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משפטו",
+      "rationale": "नियाव (verdict) बनाम 'disposing\/decision' — यहवे के गोराल के फैसला पर पूरा अधिकार हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बחיק",
+      "rationale": "छाती\/गोद के अरथ — मगही में गोदी (काँख के गोद) निकटतम रूप।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨आगे⟩",
+      "rationale": "इब्रानी में क्रिया के दिशा देवे वाला अलग सब्द नञ हकइ।"
+    }
+  ],
+  "translation": "गोदी में ⟨את⟩ गोराल ⟨आगे⟩ सुटल जा हइ, बाकि ओकर पूरा नियाव यहवे के होवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3cd67df8c2b1466b247e47f0a57072167f5bc2c2a8d284b67124f5a90e28a1d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/16\/33-33.1792006694442.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "गोदी में"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "सुटल जा हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गोराल"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "गोराल"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "बाकि यहवे के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ओकर नियाव"
+    }
+  ],
+  "timestamp": "2026-10-14T19:38:14.442760999Z",
+  "model": "glm-5.3"
+}

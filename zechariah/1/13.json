@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבר ... דברים ... דברים",
+      "rationale": "דבר root three times — 'speaking… words… words' — the repetition lost in Magahi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחמים",
+      "gloss-note": "",
+      "rationale": "נחום rendered 'तसल्ली देवे वाली' (consoling), the participle's built-in passive sense 'comforted ones' flattened"
+    }
+  ],
+  "translation": "आउ यहवे ⟨את⟩ ओ दूत के जवाब देलन जे हमरा में बात कहऽ हलइ — नीक बात, तसल्ली देवे वाली बात।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "32cc0405ad97c6ba5174b41c527738d84b0e81657eb18a26080b5262c3059c20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/1\/13-16.1792004103264.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "आउ जवाब देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ दूत"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ओ दूत"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "कहऽ हलइ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा में"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "तसल्ली देवे वाली"
+    }
+  ],
+  "timestamp": "2026-10-14T18:55:03.264894161Z",
+  "model": "glm-5.3"
+}

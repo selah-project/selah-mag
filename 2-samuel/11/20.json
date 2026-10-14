@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 11:20",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गुस्सा",
+      "rationale": "חמה literally 'heat' — the king's heat\/anger rises (תעלה, 'ascends')"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירו",
+      "rationale": "'they shoot\/throw from the wall' — arrows (KJV) vs any thrown missile; Magahi मारऽ हइ keeps the bare verb"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "the king's anticipated rebuke addresses Joab's men directly"
+    }
+  ],
+  "translation": "आउ अइसन होतइ कि राजा के गुस्सा चढ़ै आउ ऊ तोहनी संग कहै, 'काहे कि तोहनी नगर के एतना नजदीक गेल रहला लड़े बर? की तोहनी नञ जानऽ हऽ ⟨कि⟩ दीवार के ऊपर से ⟨अइसने⟩ मारऽ हइ?'",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "01f9f21ef46f01b11b1e3e1788231c07640dcbabf0c97afa04d493cc9ccd5f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/11\/17-20.1791996168041.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ अइसन होतइ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "चढ़ै"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "कहै"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहनी संग"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נגשתם",
+      "gloss": "नजदीक गेल रहला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के एतना नजदीक"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "लड़े बर"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "की … नञ"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "जानऽ हऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे ऊपर से मारऽ हइ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ירו",
+      "gloss": "मारऽ हइ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "के ऊपर से"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "दीवार"
+    }
+  ],
+  "timestamp": "2026-10-14T16:42:48.042485432Z",
+  "model": "glm-5.3"
+}

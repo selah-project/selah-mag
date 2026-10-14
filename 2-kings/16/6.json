@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 16:6",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וארמים",
+      "rationale": "लिखल अच्छर 'अरामी' बतावऽ हइ बाकि संग-पाठ Edomites (אדרמים) पढ़ऽ हइ — JPS 'एदोमी', KJV 'सीरियाई'।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וישבו",
+      "rationale": "शब्द के अरथ हइ 'बइठल\/डेरा डालल'; एकरा 'रहना' रूप में देखावल गेलइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "rationale": "हिब्रू के 'ओकरा' के जगह मगही में सीधे 'एलात' से जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "उहे बखत रत्सिन अराम के राजा ⟨את⟩ एलात अराम के फेर देलन, आउ ⟨את⟩ यहूदी के लोग के एलात से खदेड़लन; आउ अरामी एलात में अइले आउ ओकरा आज ले ओकरा रहथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "79082bd5c309e9bb12da48450ab4fc73e14bb8956612e75fe0c4650d10368ce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/16\/6-7.1792011813858.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "उहे बखत"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "उहे"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "फेर देलन"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "रत्सिन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलात"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "एलात"
+    },
+    {
+      "surface": "לארם",
+      "gloss": "अराम के"
+    },
+    {
+      "surface": "וינשל",
+      "gloss": "खदेड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहूदी के लोग"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "यहूदी के लोग"
+    },
+    {
+      "surface": "מאילות",
+      "gloss": "एलात से"
+    },
+    {
+      "surface": "וארמים",
+      "gloss": "आउ अरामी"
+    },
+    {
+      "surface": "באו",
+      "gloss": "अइले"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "एलात में"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "रहथिन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "आज ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "उहे"
+    }
+  ],
+  "timestamp": "2026-10-14T21:03:33.859138514Z",
+  "model": "glm-5.3"
+}

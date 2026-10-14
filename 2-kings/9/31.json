@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 9:31",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "हשלום זמרי",
+      "rationale": "'का सांति हे, हे जिम्री' — अभिवादन चाहे ताना: इजेबेल यहू के जिम्री नियन 'मालिक के मारए वाला' कह के घुरावऽ हइ; दूनो अरथ पढ़निहार के सोझे रहऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "इजेबेल → यहू",
+      "rationale": "खिड़की से सीधा सम्बोधन, यहू के दुआरी में अइला पर।"
+    }
+  ],
+  "translation": "आउ यहू दुआरी में अइलन, आउ ओकरा कहलिन — का सांति हे, हे जिम्री, मारलक अपन मालिक के?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bf75abbee4593039a19cd7585f636cda7956afd1ebf429bb1088fbc48b903391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/9\/29-32.1791997907563.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "आउ यहू"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "दुआरी में"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "आउ कहलिन"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "का सांति हे"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "हे जिम्री"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "मारलक"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "अपन मालिक के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:11:47.564083313Z",
+  "model": "glm-5.3"
+}

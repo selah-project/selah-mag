@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 5:25",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमनी",
+      "rationale": "נמות (we die) में करता इब्रानी के किरिया-रूप में हकइ, मगही के अलग सर्बनाम चाही"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נמות \/ ומתनו",
+      "rationale": "पद के शुरू आउ अंत में मरन के दोहराव — बीच में आग के खतरा — चिन्हात्मक ढाँचा"
+    }
+  ],
+  "translation": "आउ अब हमनी काहे मरबी? काहे कि ई बड़ा आग हमनी के खइ जइतइ। जँ हमनी फेरौ यहवे हमनी के एलोहीम के ⟨את⟩ बोली सुनब जानी, त हमनी मर जइबी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d762a56b61737f74e76d63905a84f0ecd1638d7fe2bead7c661b50d10b77b28c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/5\/25-28.1791992125683.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "हमनी मरबी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "हमनी के खइ जइतइ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "יספים",
+      "gloss": "फेरौ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हमनी"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "सुनब जानी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बोली"
+    },
+    {
+      "surface": "קול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेरौ"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "त हमनी मर जइबी"
+    }
+  ],
+  "timestamp": "2026-10-14T15:35:25.684001031Z",
+  "model": "glm-5.3"
+}

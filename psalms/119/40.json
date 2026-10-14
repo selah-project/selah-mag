@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to यहवे",
+      "rationale": "हिन्नेह संग सीधा सम्बोधन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक",
+      "rationale": "צדקה लिप्यन्तरित रखल गेलइ — 'नियाव' में घटा देना ओकर अरथ के सँकरा करतइ।"
+    }
+  ],
+  "translation": "देखऽ, हम तोहर हुक्म सब के तरसऽ हिअए; अपन त्सेदेक में हमरा जियाबऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a1f583fa8c5d10e9a2465be7b2973498b24ae4ae21f3a20071c244c9ee4ecd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/37-40.1792006050332.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "हम तरसऽ हिअए"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "तोहर हुक्म सब के"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "अपन त्सेदेक में"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "हमरा जियाबऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:30.333345456Z",
+  "model": "glm-5.3"
+}

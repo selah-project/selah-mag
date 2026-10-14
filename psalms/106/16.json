@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קדוש יהוה",
+      "rationale": "construct 'holy-one-of YHWH' describing Aaron — apposition to Moses' envy target; rendering keeps the bound phrase"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सनक भोगलन",
+      "rationale": "קנא here bad-sense envy\/jealousy; मगही 'सनक' chosen for jealous longing"
+    }
+  ],
+  "translation": "आउ ओकनी डेरा में मोशे (मूसा) बर सनक भोगलन, आउ अहरोन (हारून) — यहवे के पवित्तर — बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6057f115937366e718ba43b3c279106224f51f088d9364b8175cbc3144ec018d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/106\/13-16.1792005890115.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "सनक भोगलन"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "मोशे (मूसा) बर"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "डेरा में"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "अहरोन (हारून) बर"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:50.116805418Z",
+  "model": "glm-5.3"
+}

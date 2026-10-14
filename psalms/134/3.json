@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 134,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "तोहरा",
+      "rationale": "तीरथयात्री के बिदा-बरकत — नोकर लोग जवाब में आशीर्वाद देथिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जे",
+      "rationale": "सापेक्ष खंड बान्हे बर सम्बन्ध-सब्द जोड़ल गेलन।"
+    },
+    {
+      "kind": "elision",
+      "subject": "dual अकास",
+      "rationale": "שמים के dual आकार मगही में नञ देखाइल जातइ।"
+    }
+  ],
+  "translation": "यहवे त्सियोन से तोहरा असीस देवेन, ऊ ⟨जे⟩ अकास आउ धरती बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9416ce6ae5af9e17335c739a8b2f3510b81a1506037e9a6fc535ce2dfed4d2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/134\/1-3.1792006175331.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "तोहरा असीस देवेन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "त्सियोन से"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "आउ धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:35.332546641Z",
+  "model": "glm-5.3"
+}

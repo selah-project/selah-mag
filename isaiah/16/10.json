@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "השבתי",
+      "rationale": "'I have made (the shout) cease' — first-person divine speech, rendered with honorific past -लन."
+    },
+    {
+      "kind": "crux",
+      "subject": "הדרך הידד השבתי",
+      "rationale": "KJV 'their vintage shouting' supplies 'vintage'; Hebrew lacks the noun — kept plain 'shout'."
+    }
+  ],
+  "translation": "आउ खुसी आउ उल्लास बगइचा-खेत से जमा कइल जातइ; बेला-बारी में कोनो गीत नञ गावतइ, कोनो धइ-धइ नञ होतइ; अंगूरी मद हौदी में लोक नञ कुल्हावतइ — ऊ धइ-धइ के शोर हम बन्द कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bf9593849a5e5153b36bb4168f6b9b067a8895822ab24fa9211e4cbe4a7827e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/16\/9-12.1791998873361.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "आउ जमा कइल जातइ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "खुसी"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "आउ उल्लास"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "बगइचा-खेत"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "आउ बेला-बारी में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "गीत गावतइ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "धइ-धइ होतइ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "अंगूरी मद"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "हौदी में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "कुल्हावतइ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "धइ-धइ के शोर"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "हम बन्द कइलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:27:53.362245729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערב רב",
+      "rationale": "'एरेव रव' — मिस्रयिम के संग निकलल मिलल-जुलल भीड़; कुछ अनुवाद 'बिदेसी लोग' कहऽ हइ, कुछ 'बहुत ढेर जाति के लोग'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערב רב",
+      "rationale": "इब्रानी में 'एरेव रव' के आवाज़-मेल (दुनों र-से शुरू) मगही में नञ बच पावऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עלה",
+      "rationale": "'अलाह' — चढ़लइ\/उठके चलल; मिस्रयिम से निकलला के बर इब्रानी 'ऊपर जाना' कहऽ हइ, मगही में 'अइल' लेलक।"
+    }
+  ],
+  "translation": "आउ कोनो बड़ मिलल-जुलल भीड़ भी ⟨את⟩ ऊनके संग अइल, आउ भेड़ आउ बैल — माल-जाल बहुते ढेर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7bf3a9cd1430b60cc5e41d7951e4c1ca0b2c7491e6175a75e848e6783d1e0d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/12\/37-40.1791988385355.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आउ ... भी"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "मिलल-जुलल भीड़"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "अइल"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ऊनके संग"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "आउ भेड़"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "आउ बैल"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "माल-जाल"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ढेर (भारी)"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-10-14T14:33:05.356481215Z",
+  "model": "glm-5.3"
+}

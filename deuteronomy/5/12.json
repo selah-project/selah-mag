@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to यिस्राएल",
+      "rationale": "शब्बात के हुकुम यिस्राएल के सीधा सम्बोधन"
+    },
+    {
+      "kind": "crux",
+      "subject": "शामोर बनाम खाकोर",
+      "rationale": "व्यवस्थाविवरण 'रखवारी करबू' कहऽ हइ; निर्गमन 20:8 'याद रखबू' (זכור) कहऽ हइ"
+    }
+  ],
+  "translation": "शब्बात के दिन के ⟨את⟩ ओकरा पवित्तर करे बर रखवारी करबू, जइसने यहवे तोहर एलोहीम तोहनी के हुकुम देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "da4241a86ee7643c13d661f19cab627a0344dbc421eac136c11cba150dd2b5b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/5\/9-12.1791992050747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "रखवारी करबू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शब्बात के दिन के"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "शब्बात"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ओकरा पवित्तर करे बर"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "तोहनी के हुकुम देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T15:34:10.748510615Z",
+  "model": "glm-5.3"
+}

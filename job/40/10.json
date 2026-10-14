@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨तूँ⟩",
+      "rationale": "मगही के आज्ञार्थ रूप में करता साफ़ होवऽ हइ; इब्रानी में करता छिपल हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאון-וגבה-והוד-והדר",
+      "rationale": "चार उच्चता-सब्द के जमाव — व्यंग्यात्मक आज्ञा; मगही में गरब-ऊँचाई-तेज-सोभा के तालमेल रखल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे योब से",
+      "rationale": "व्यंग्यात्मक आज्ञा — अगर तूँ परमेश्वर जइसन हऽ त ओकर वस्त्र पहिर ले"
+    }
+  ],
+  "translation": "अबहीं गरब आउ ऊँचाई सजा ले, आउ तेज आउ सोभा ⟨तूँ⟩ पहिर ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ddc96f5b4a9968a83a0c7b5889c591dfe192340bc037b4a7a916fa2eec58d31f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/40\/9-12.1792007883233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "सजा ले"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "गरब"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "आउ ऊँचाई"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "आउ तेज"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "आउ सोभा"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "पहिर ले"
+    }
+  ],
+  "timestamp": "2026-10-14T19:58:03.233907145Z",
+  "model": "glm-5.3"
+}

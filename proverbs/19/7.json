@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מרדף אמרים",
+      "rationale": "'बात के पीछा करऽ हइ' — किछु कहऽ हइ 'बातनी माँगऽ हइ', किछु 'कथनी के पीछा-पीछा'"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन के करता",
+      "rationale": "हिब्रू के हेमा में लोग शब्द जोड़लन बाक्य पूरा करे बर"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אף כי",
+      "rationale": "'आउ जादे त' — क्रम-बढ़ावे के जोड़-सब्द"
+    }
+  ],
+  "translation": "गरीब के सब भाय ओकरा नफरत करऽ हइ; ओकर संगी त आउ जादे ओकरा सँग दूर भागऽ हइ; ओ पीछा-पीछा बात करऽ हइ बाकि ऊ ⟨लोग⟩ नञ रहऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f45880f55fe88e537138ea8f0c89b986e33915e4ec5c7c3e59e736c14ca7e073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/19\/5-8.1792006818273.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाय"
+    },
+    {
+      "surface": "רש",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "ओकरा नफरत करऽ हइ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "आउ जादे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "त"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ओकर संगी"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "दूर भागऽ हइ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा सँग"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "पीछा-पीछा करऽ हइ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ ⟨लोग⟩ रहऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:18.274138908Z",
+  "model": "glm-5.3"
+}

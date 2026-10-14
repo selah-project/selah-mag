@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 18:25",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בשורה בפיו",
+      "rationale": "शाब्दिक अरथ — मुँह में खुसखबरी — मगही में जस के तस रखल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "हिब्रू में क्रिया नञ हइ; मगही के बाक्य के बर क्रिया जोड़ल गेल।"
+    }
+  ],
+  "translation": "चौकीदार चिल्लालन आउ राजा के बतैलन; राजा कहलन, की ऊ अकेले हइ त ओकर मुँह में खुसखबरी हकइ। आउ ऊ दौरत-दौरत नजदीक अइलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f6245d9656f81370daf8e4530a6c52b84bfd0ba35364d6f47d5751c5c2b55457",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/18\/25-28.1791996402353.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "चिल्लालन"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "चौकीदार"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "बतैलन"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אם",
+      "gloss": "की"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "खुसखबरी"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ओकर मुँह में"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "अइलइ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "दौरत-दौरत"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "नजदीक"
+    }
+  ],
+  "timestamp": "2026-10-14T16:46:42.353601201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 5:29",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "होलन",
+      "rationale": "इब्रानी के वयहि क्रिया मगही के पूरा बाक्य बर क्रिया-रूप माँगऽ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "तिहत्तर हजार \/ अस्सी हजार",
+      "rationale": "मजदूर के गिनती — काम के गणना"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשא סבל",
+      "rationale": "'बोझ उठावए वाला' — ढोवए के काम के एक जोड़ल रूप, दुनु सब्द मिल के एके काम के नाम बनावऽ हइ"
+    }
+  ],
+  "translation": "आउ शलोमोह के तिहत्तर हजार बोझ उठावए वाला आउ अस्सी हजार पहाड़ में पत्थल काटए वाला हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9ddea6a5830d4bcff664a9df21862ffae7a92cd561b5c1417312016c9e2e3327",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/5\/29-32.1791996879450.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ ⟨होलन⟩"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "शलोमोह के"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "तिहत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उठावए वाला"
+    },
+    {
+      "surface": "סבל",
+      "gloss": "बोझ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "आउ अस्सी"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "काटए वाला"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:54:39.451318196Z",
+  "model": "glm-5.3"
+}

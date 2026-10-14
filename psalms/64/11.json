@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकर",
+      "rationale": "हीब्रू बिना सर्बनाम के कहऽ हकइ; मगही में गुन काहे के गाइतइ ई साफ करे बर जोड़ल गेलन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חסה",
+      "rationale": "शरण लेना — मूल अरथ दौड़ के छुपावे के जगह लेना हकइ।"
+    }
+  ],
+  "translation": "सजावन यहवे में खुस होतइ आउ ओकरा शरण लेतइ, आउ सीधे हिरदय वाला सब ⟨ओकर⟩ गुन गातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "97fdc78de7ab084598fe1800a3f8ab85cc106f2305a810c8115912a8f0935e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/64\/9-11.1792005226073.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "खुस होतइ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "सजावन"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे में"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "आउ शरण लेतइ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "आउ गुन गातइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "सीधे"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:46.074742826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "देवता सब",
+      "rationale": "באלहים के 'देवता सब' (दोसर देवता) बनाम 'एलोहीम' (नाम) पढ़े के बिबाद — संदर्भ तुलना माँगऽ हइ, एकरासे जाति-सब्द लेल गेलइ"
+    }
+  ],
+  "translation": "देवता सब के बीच तोहरा जइसन कोनो नञ हइ, हे अदोनाय, आउ तोहरा काम सब के जइसन कोनो नञ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "133a5716555a948c169a21ead9202567d83ea7b4b64b79463ae64f1592b09734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/86\/5-8.1792005635198.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "नञ हइ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "तोहरा जइसन"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "देवता सब के बीच"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ हइ"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "तोहरा काम सब के जइसन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:20:35.201611823Z",
+  "model": "glm-5.3"
+}

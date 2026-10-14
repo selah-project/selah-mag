@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש is life-force\/breathing-being, not 'soul' as a separate part; परान keeps the life-sense"
+    },
+    {
+      "kind": "idiom",
+      "subject": "मुँह लज्जित कइलक",
+      "rationale": "Hebrew 'shamed the faces of' — Magahi keeps the face, idiom-for-idiom"
+    },
+    {
+      "kind": "you",
+      "subject": "योआव के बात दाविद से",
+      "rationale": "Joab addresses the king directly with तूँ throughout"
+    }
+  ],
+  "translation": "तखन योआव राजा के घर के भीतर अइलन आउ कहलन — आज तूँ ⟨את⟩ अपन सब नौकर-चाकर के मुँह लज्जित कइलक, जे आज ⟨את⟩ तोहर परान बचालन — आउ ⟨את⟩ तोहर बेटा-बेटी के परान, आउ तोहर जनाना के परान, आउ तोहर रखेल सब के परान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2833f676bee4b3aabb94c57ca4ca3288575400bc6b5d040637883b9028a34be3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/19\/5-8.1791996530831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआव"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के भीतर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "लज्जित कइलक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मुँह"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "तोहर नौकर-चाकर"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "बचावै वाला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर परान"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "तोहर परान"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "तोहर बेटा-बेटी के परान"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "तोहर बेटा"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "तोहर बेटी"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "आउ परान"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "तोहर जनाना"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "आउ परान"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "तोहर रखेल सब"
+    }
+  ],
+  "timestamp": "2026-10-14T16:48:50.832337142Z",
+  "model": "glm-5.3"
+}

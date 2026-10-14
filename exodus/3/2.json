@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "भस्म नञ होवऽ हलइ",
+      "rationale": "אכל 'खाएल जावऽ' के चित्र — आग झाड़ी के नञ खावऽ हलइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירא\/וירא",
+      "rationale": "दू बेर एके जड़ — पहिला 'देखाए देलन' (נראה निफाल), दोसरा 'देखलन' (ראה कल), मगही में बिन्दु खोए जा हइ"
+    }
+  ],
+  "translation": "आउ यहवे के दूत ओकरा झाड़ी के बीच से आग के लपट में देखाए देलन; ऊ देखलन, आउ देखौ, झाड़ी आग में जर रहलइ हे बाकि झाड़ी भस्म नञ होवऽ हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c635f4f1e84e7914295bea088596bb7b31b5dd6ecd2d278b0de0f11859a0f5aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/3\/1-4.1791988046131.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखाए देलन"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "लपट में"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग के"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "के बीच से"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "झाड़ी"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखौ"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "झाड़ी"
+    },
+    {
+      "surface": "בער",
+      "gloss": "जर रहलइ हे"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "बाकि झाड़ी"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "भस्म होवऽ हलइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:27:26.132243716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 10:14",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דוד",
+      "rationale": "lemma 'परेम करे वाला' हकइ, बाकि इहाँ अरथ हकइ 'चाचा' — मूलपाठ के एके सब्द दू अरथ देवऽ हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "אין",
+      "rationale": "'नञ हकइ' — मगही में 'नञ मिललइ' कइल गेलइ, काहे कि खाली 'नञ' बाक्य अधूरा लागतइ"
+    },
+    {
+      "kind": "you",
+      "subject": "शाऊल आउ ओकर नौकर",
+      "rationale": "चाचा सीधा ओकरा आउ नौकर के पूछऽ हइ"
+    }
+  ],
+  "translation": "शाऊल (सौल) के चाचा ओकरा आउ ओकर नौकर ले पूछलन, कहाँ गेल रहऽ? ऊ कहलन, ⟨את⟩ गधिनी सब के खोजे बर; जब देखलन जे ⟨उननी⟩ नञ मिललइ, तब शमूएल (समुएल) के पास अइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "33cdde41be7897c82c3cb303108f16edf821422b1658c35db03c2956e2ed0c9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/10\/14-15.1792011742809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "पूछलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "चाचा"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा ले"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ के पास"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "ओकर नौकर"
+    },
+    {
+      "surface": "אן",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "गेल रहऽ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "खोजे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गधिनी सब"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "गधिनी सब"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ मिललइ"
+    },
+    {
+      "surface": "ונבוא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमूएल"
+    }
+  ],
+  "timestamp": "2026-10-14T21:02:22.809902351Z",
+  "model": "glm-5.3"
+}

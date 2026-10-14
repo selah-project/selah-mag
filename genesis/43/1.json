@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "भारी",
+      "rationale": "כבד literally 'heavy' — अकाल बोझ जइसन भारी हलइ; 'bhayankar' mat le"
+    }
+  ],
+  "translation": "आउ अकाल धरती में भारी हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "66c4e9997bb67ef74b608405aa853af9eb13d71845dc3f98c0a7fa5a4fe718e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/43\/1-4.1791987728286.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "आउ अकाल"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "भारी हलइ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:22:08.287393976Z",
+  "model": "glm-5.3"
+}

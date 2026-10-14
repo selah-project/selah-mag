@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joel 4:16",
+  "book": "joel",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ישאג",
+      "rationale": "Lion's roar verb (שאג); rendered दहाड़ना to keep the animal picture."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Final clause addresses Israel's sons as shelter's beneficiaries."
+    },
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "Pronoun added to bind בोली and लोग to यहवे; Hebrew suffixes only."
+    }
+  ],
+  "translation": "आउ यहवे त्सियोन से दहाड़तन, आउ यरूशलयिम से अपन बोली देथिन; अकास आउ धरती काँपतइ; आउ यहवे अपन लोग बर छाँव-छपर होतन, आउ यिस्राएल के बेटा सब बर गढ़ी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b3fbc8a850e0d0df1e72589a3162180a22b4a1e6f9b8feeeb298aaeae9f757e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joel\/4\/13-16.1792003451441.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "त्सियोन से"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "दहाड़तन"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "आउ यरूशलयिम से"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देथिन"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "अपन बोली"
+    },
+    {
+      "surface": "ורעשו",
+      "gloss": "काँपतइ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "आउ धरती"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "छाँव-छपर"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "अपन लोग बर"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "आउ गढ़ी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…के बेटा सब बर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:44:11.442276375Z",
+  "model": "glm-5.3"
+}

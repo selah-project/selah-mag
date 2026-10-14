@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 42:16",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "पाँच कोहनी",
+      "rationale": "नाप के गिनती — सरकंडा-नाप के भाग"
+    },
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "רוח हकै बतास\/दिस दुनो अरथ; इहाँ 'पूरुब दिस' मतलब, बाकि सब्द जड़ के रूप में रखल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "पाँच कोहनी बनाम पाँच सौ सरकंडा",
+      "rationale": "हिब्रू साफ कहऽ हइ 'पाँच कोहनी, सरकंडा के हिसाब से'; परम्परा के अनुवाद एकरा 'पाँच सौ सरकंडा' पढ़ऽ हइ — मूलपाठ जस के तस राखल गेल"
+    }
+  ],
+  "translation": "ऊ रूआख हकै पूरुब दने के नाप के सरकंडा से नापलन — पाँच कोहनी, सरकंडा-सरकंडा के हिसाब से, नाप के सरकंडा से, चारो दने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "72ea279afc917057bfb074b066c4b500967484d5743282bda2499e78a0becba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/42\/13-16.1792002934498.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "नापलन"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "पूरुब दने के"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "सरकंडा से"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "नाप के"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "कोहनी"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "सरकंडा-सरकंडा"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "सरकंडा से"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "नाप के"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    }
+  ],
+  "timestamp": "2026-10-14T18:35:34.500494315Z",
+  "model": "glm-5.3"
+}

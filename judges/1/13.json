@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 1:13",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨कालेव⟩",
+      "rationale": "इब्रानी केवल 'ऊ देलक' कहऽ हइ; कर्ता बताबे बर नाम जोड़ल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "हקטן ממנו",
+      "rationale": "'कालेव से छोटका' के अरथ ओतनिएल बर चलनसार, बाकि कुछ पढ़निहार (BSB जइसन) केनाज के कालेव के छोटका भाय मानऽ हइ"
+    }
+  ],
+  "translation": "आउ ओतनिएल, केनाज के बेटा — कालेव के छोटका भाय — ओकरा कब्जा कइलक, आउ ⟨कालेव⟩ ओकरा ⟨את⟩ अक्सा, अपन बेटी के, बउहा बनाबे बर देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0ff7fa6d42a6ad0ca6f77f228eb1f3af8844dc99a4757a1068f1fb621a29e13e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/1\/13-16.1791993967615.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכדה",
+      "gloss": "आउ कब्जा कइलक"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "ओतनिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "केनाज"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाय"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कालेव"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "छोटका"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "आउ देलक"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अक्सा"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "अक्सा"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "अपन बेटी"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "बउहा बनाबे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:06:07.615815696Z",
+  "model": "glm-5.3"
+}

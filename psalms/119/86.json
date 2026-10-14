@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "सच्चाई",
+      "rationale": "אמונה के शाब्दिक अरथ 'पक्कापन \/ भरोसापन' हकइ; 'सच्चाई' ओकर नजदीकी मगही रूप।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद यहवे से सीधे प्रार्थना हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמונה \/ שקר",
+      "rationale": "भरोसापन आउ झूठ के आमने-सामने रखल — चियास्टिक टकराव।"
+    }
+  ],
+  "translation": "तोहरा सब आज्ञा सच्चाई हथिन; झूठ बात से ओ हमरा पीछा करऽ हथिन — हमरा मदत कर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/85-88.1792006147648.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "तोहरा आज्ञा"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "सच्चाई"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ बात से"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "हमरा पीछा करऽ हथिन"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "हमरा मदत कर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:07.649387562Z",
+  "model": "glm-5.3"
+}

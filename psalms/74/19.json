@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "फाख्ता-परछी",
+      "rationale": "תור फाख्ता (टर्टल-डव) हकइ, परान बर परछी-इशारा"
+    },
+    {
+      "kind": "crux",
+      "subject": "לחית",
+      "rationale": "'पसु के हाथे' बनाम KJV 'दुष्टन के भीड़' (חיה के बहुबचन से); ASV\/JPS 'जंगली पसु'"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "बरतना सीधे यहवे से होवऽ हइ"
+    }
+  ],
+  "translation": "तोहर फाख्ता-परछी के परान पसु के हाथे मत दे; तोहर गरीबन के परान के सदा बर मत बिसरा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3e75c41b88e06c8b472ba8954393a62ef7c09a1fb584779e2e479e176987f910",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/74\/17-20.1792005453972.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "पसु के हाथे"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "तोहर फाख्ता-परछी के"
+    },
+    {
+      "surface": "חית",
+      "gloss": "पसु"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "तोहर गरीबन के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "बिसरा"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:33.973819173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עור בעד עור",
+      "rationale": "चमड़ी-बदला-चमड़ी के जोड़ी-दोहराव — सातान के कहावत के रूप, जस के तस रखल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש परान\/जीवन-शक्ति हकइ, खाली शरीर नञ; ‘परान’ एकरा निकटतर हकइ।"
+    }
+  ],
+  "translation": "आउ सातान यहवे के जवाब देलन ⟨את⟩ आउ कहलन — चमड़ी के बदला चमड़ी, आउ जे कुछ मनुस के होवऽ हकइ ऊ सब ऊ ओकर परान के बदला दे देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cf9a90cd27c919e61e5f805101570ce0608272af93015226d9f070f033045f42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/2\/1-4.1792007163889.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब देलन"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "सातान"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "עור",
+      "gloss": "चमड़ी"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "עור",
+      "gloss": "चमड़ी"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे कुछ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मनुस के"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दे देतइ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ओकर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:46:03.890708633Z",
+  "model": "glm-5.3"
+}

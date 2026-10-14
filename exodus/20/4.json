@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "तरासल मूरति",
+      "rationale": "פסל के साफ अरथ तरासल (खोदल\/घड़ल) मूरति हकइ; 'मूरति' अकेले बनावट के तरीका गुमा देतइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "आज्ञा सीधे तोहनी (यिस्राएल) से कहल गेल हकइ"
+    }
+  ],
+  "translation": "तूँ अपन बर नञ बनइबे तरासल मूरति, आउ कोनो सूरत — जे ऊपर के अकास में होवे, आउ जे नीचे के धरती में होवे, आउ जे धरती के नीचे के पानी में होवे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "69a775fb3ec2f7e067ade54b76e564d770df72874c6f1c38229a2acf4d17d8ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/20\/1-4.1791988618685.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "बनइबे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "अपन बर"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "तरासल मूरति"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ कोनो"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "सूरत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "अकास में"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी में"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:36:58.686977430Z",
+  "model": "glm-5.3"
+}

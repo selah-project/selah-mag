@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एकरा तुलना में",
+      "rationale": "इब्रानी के टोभ में परोक्ष तुलना हकइ; मगही में 'तुलना में' जोड़ल गेलइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אבוס",
+      "rationale": "पोसल बैल — ई पद तनाख़ में कखनो नञ मिलऽ हइ; 'बाड़ी के बैल' से 'मोटा कइल बैल' के अरथ लिया गेलइ"
+    }
+  ],
+  "translation": "साग-पात के खाना आउ परेम ओतए — एकरा तुलना में पोसल बैल आउ ओकरा संग नफरत।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "173c25e58a233029735c8f8bc41f3aacef86cd2baf14377cf8a7b3e33745467f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/15\/17-20.1792006751657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "टोभ (अच्छा)"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "साग-पात"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "आउ परेम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओतए"
+    },
+    {
+      "surface": "משור",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "पोसल (बैल)"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "आउ नफरत"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा संग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:11.658503761Z",
+  "model": "glm-5.3"
+}

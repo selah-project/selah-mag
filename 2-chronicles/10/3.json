@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 10:3",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "रहबआम से",
+      "rationale": "सीधा सम्बोधन अगिला पद में शुरू होवे वाला जनता के बोली हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וישלחו",
+      "gloss-note": "",
+      "rationale": "'भेजलन' — इब्रानी 'आउ ओकनी भेजलन' काकर बिना केताबता के वास्तु भेजे के मुहावरा हकइ; 'दूत भेजलन' के संकेत।"
+    }
+  ],
+  "translation": "आउ ओकनी भेजलन आउ ओकरा बलावलन, आउ यरोबआम आउ सब यिस्राएल अइलन आउ रहबआम से कहितन —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fd9e5648a40a5506a1d86ad29f3a01d1533b18ced9cb6d487483583c9110ad3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/10\/1-4.1792010835775.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "बलावलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यरोबआम"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबआम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहितन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:47:15.776516842Z",
+  "model": "glm-5.3"
+}

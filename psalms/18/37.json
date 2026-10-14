@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 18:37",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קרסולים",
+      "rationale": "टखना — तनाख़ में बहुत कम जगह आवऽ हकइ; अंग्रेजी 'feet' कहऽ हकइ, मूल टखना के चित्र हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "feet",
+      "rationale": "केजेवी 'feet' कहऽ हकइ; मूल शब्द टखना (קרסולים) हकइ।"
+    }
+  ],
+  "translation": "तूँ हमर कदमी के फइला देलन हमर नीचे, आउ हमर टखना लड़कलन नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3592fb4a228b3904063d69dd3b8e8d0d462e7e6a2ba99387922a948eb95a95bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/18\/37-40.1792004609750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרחיב",
+      "gloss": "फइला देलन"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "हमर कदमी"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "हमर नीचे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "מעדו",
+      "gloss": "लड़कलन"
+    },
+    {
+      "surface": "קרסלי",
+      "gloss": "हमर टखना"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:29.751244546Z",
+  "model": "glm-5.3"
+}

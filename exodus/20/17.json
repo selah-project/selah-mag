@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא תחמד",
+      "rationale": "दू बेर पूरा निषेध के दोहराव — घर आउ जनाना दुनों बर अलग-अलग; मगही पाठ दोनों दोहराव के रखलक हे।"
+    },
+    {
+      "kind": "addition",
+      "subject": "कुछो नञ",
+      "rationale": "וכל अकेले हइ; निषेध के बात बाकी सूची पर फैरैल लगावे बर 'कुछो नञ' जोड़ल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल के लोग",
+      "rationale": "पद तोहनी के संबोधन में हकइ — दस आदेस के अंतिम आदेस।"
+    }
+  ],
+  "translation": "तोहर पड़ोसी के घर मत चाहबा, तोहर पड़ोसी के जनाना मत चाहबा, नञ ओकर नौकर, नञ ओकर नौकरनी, नञ ओकर बैल, नञ ओकर गधा, आउ कुछो नञ जे तोहर पड़ोसी के हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/20\/17-20.1791988636852.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "चाहबा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "तोहर पड़ोसी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "चाहबा"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "तोहर पड़ोसी"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "आउ ओकर नौकर"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "आउ ओकर नौकरनी"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "आउ ओकर बैल"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "आउ ओकर गधा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "तोहर पड़ोसी के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:37:16.853232021Z",
+  "model": "glm-5.3"
+}

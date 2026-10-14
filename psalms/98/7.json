@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הים \/ ירעם",
+      "rationale": "समुंदर के 'गरजऽ' ओकर बतास-बताइ के संग — तूफन के साँस के तस्वीर हकइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ומלאו",
+      "rationale": "'ओकर भरल-भराइ' के जगह 'ओकर भीतर के सब जीव' सेहो पढ़ल जा हइ।"
+    }
+  ],
+  "translation": "समुंदर गरजऽ आउ ओकर सब जे भरल हे; दुनिया आउ ओकर रहए वाला सब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/98\/5-8.1792005804878.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "गरजऽ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "आउ ओकर भरल-भराइ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "दुनिया"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "आउ रहए वाला सब"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:24.879200622Z",
+  "model": "glm-5.3"
+}

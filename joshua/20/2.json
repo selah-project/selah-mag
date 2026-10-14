@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "शरण-नगर",
+      "rationale": "המקלט is 'refuge'; compound keeps the bound construct ערי המקלט"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "imperative speech addressed to the children of Israel through Joshua"
+    }
+  ],
+  "translation": "यिस्राएल (इस्राएल) के बेटा सब के कहऽ — आपनी बर शरण-⟨את⟩ नगर सब देवऽ, जेकर बात हम तोहनी के मोशे (मूसा) के हाथ के जरे कहने रहनी गेलन —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "37074ecb82818d098037b6f9d9124a57fb5df0627c523c4c7396dc92a7f20696",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/20\/1-4.1791993740405.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "देवऽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "आपनी बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शरण-नगर सब"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर सब"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "शरण के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "कहने रहनी गेलन"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ के जरे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:02:20.405920518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jali-jharokha",
+      "rationale": "אשנב a latticed window — जाली-झरोखा; खिड़की दू हथनी में अलग सब्द हकइ (בחלון)"
+    }
+  ],
+  "translation": "काहे कि हमर घर के खिड़की के बगल हमर जाली-झरोखा से झाँकलियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "79932c61432c70324df6157402b2d5b297b1ba3a0ba22cc3a9438dbea252c0b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/7\/6-7.1792012109646.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "खिड़की के"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "हमर घर"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "के बगल"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "हमर जाली-झरोखा से"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "झाँकलियन"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:29.646982276Z",
+  "model": "glm-5.3"
+}

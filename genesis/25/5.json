@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "छलनइ",
+      "rationale": "हिब्रू में क्रिया 'छलनइ' नञ हकइ; मगही के जरूरत बर जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ अवराहाम जे कुछो ⟨את⟩ सब ⟨את⟩ ओकर छलनइ ऊ सब यित्सहाक के देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e12dea066e8fe59b0bde57fe9ee3c476792aea9d9a32cff1812983ed5dc937de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/25\/5-8.1791986953995.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे कुछो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर छलनइ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "यित्सहाक के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:09:13.996309169Z",
+  "model": "glm-5.3"
+}

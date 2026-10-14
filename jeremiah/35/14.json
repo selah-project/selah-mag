@@ -1,0 +1,166 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 35:14",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "शमעו (मानलन)",
+      "rationale": "שמעו here means obeyed, not merely heard; rendered 'मानलन'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "השכם ודבר",
+      "rationale": "'Rising early and speaking' is Jeremiah's idiom for persistent prophetic appeal; rendered 'भोर-भोर जाग के बोललियै'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שתות\/שתו",
+      "rationale": "Root repetition drink\/drank builds the Rechabite contrast; partially kept in पियावे\/पियलन."
+    }
+  ],
+  "translation": "येहोनादाब, रेकाब के बेटा, के बात ⟨את⟩ पूरा भेलन — जे ऊ ⟨את⟩ ओकरा बेटा सब के हुकम देलन कि अंगूरी मद नञ पियावे; आउ ओकनी ई दिन ले नञ पियलन, काहे कि ओकनी ⟨את⟩ ओकनी के बाप के हुकम मानलन। बाकि हम तोहनी से भोर-भोर जाग के बोललियै, आउ तोनी हमरा नञ सुनलऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dfa75332563091f19dd861edea5130c950c2551cb952779c0374ae55302cb919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/35\/13-16.1792001120999.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוקם",
+      "gloss": "पूरा भेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बात"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהונדב",
+      "gloss": "येहोनादाब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "रेकाब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा बेटा सब"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकरा बेटा सब"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "कि नञ"
+    },
+    {
+      "surface": "שתות",
+      "gloss": "पियावे"
+    },
+    {
+      "surface": "יין",
+      "gloss": "अंगूरी मद"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "पियलन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "मानलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हुकम"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "हुकम"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ओकनी के बाप के"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "बाकि हम"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "बोललियै"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "तोहनी से"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "भोर-भोर जाग के"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आउ बोलऽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "सुनलऽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:05:21.000712010Z",
+  "model": "glm-5.3"
+}

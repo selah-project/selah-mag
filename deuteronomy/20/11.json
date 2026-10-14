@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 20:11",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "कर-बेगार",
+      "rationale": "מס शाब्दिक रूप से जबरन मजूरी बर लिहल कर हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "जवाब",
+      "rationale": "תענך 'ओ तोहरा जवाब देक' हकइ; दू सब्द मिला के साफ कइल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "तूँ-सम्बोधन जारी हइ"
+    }
+  ],
+  "translation": "आउ ई होतइ कि अगर ऊ तोहरा के सांति के जवाब देक आउ तोहरा आगू खोल देक, तब ओकरा में पावल गेल सब लोग तोहरा बर कर-बेगार बनतइ आउ तोहरा सेवा करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b2dae9be1df1f72980f92d3961b3be13c96949c81f33f8a1141754d2cb63961a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/20\/9-12.1791992542070.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ ई होतइ कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति के जवाब"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "तोहरा के देक"
+    },
+    {
+      "surface": "ופתחה",
+      "gloss": "आउ खोल देक"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा आगू"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "तब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "पावल गेल"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "बनतइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा बर"
+    },
+    {
+      "surface": "למס",
+      "gloss": "कर-बेगार"
+    },
+    {
+      "surface": "ועבדוך",
+      "gloss": "आउ तोहरा सेवा करतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:42:22.071353156Z",
+  "model": "glm-5.3"
+}

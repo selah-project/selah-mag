@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישאל\/שאול",
+      "rationale": "'शाउल पूछलन' — नाउ आउ क्रिया एके जड़ (שאל) से; पूरा कथा के केंद्रीय शब्द-खेल।"
+    },
+    {
+      "kind": "mystery",
+      "subject": "यहवे के चुप्पी",
+      "rationale": "तीनों दुआरा बन्द — पाठ जान-बूझ के बतावऽ हइ कि जवाब छिपल हइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "גם…גם…גם",
+      "rationale": "'गाम' के तीन दोहराव के जगह मगही 'नञ…नञ…नञ' के ढाँचा लेलक।"
+    }
+  ],
+  "translation": "आउ शाउल यहवे से पूछलन, बाकि यहवे ओकर जवाब नञ देलन — नञ सपना में, नञ ऊरीम में, नञ नबी के जरे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "93e13a5bc7758e50f368d55c5fe0ecf8fa3d9ee9af084a736af4b4234a53a784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/28\/5-8.1791995749733.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "पूछलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि…नञ"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "ओकर जवाब देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "नञ…में"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "सपना में"
+    },
+    {
+      "surface": "גם",
+      "gloss": "नञ…में"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "ऊरीम में"
+    },
+    {
+      "surface": "גם",
+      "gloss": "नञ…के जरे"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "नबी के जरे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:35:49.733767169Z",
+  "model": "glm-5.3"
+}

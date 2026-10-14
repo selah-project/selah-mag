@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हइ⟩",
+      "rationale": "इब्रानी में יש के संग क्रिया नञ हइ; मगही के बाक्य बर सहायक क्रिया जोड़ल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "השליט",
+      "rationale": "शासक बनाम 'हिम्मतवान\/योद्धा' — बहुत संस्करण 'हाकिम' लेथिन, शब्द के जड़ 'बलवान' हकइ।"
+    }
+  ],
+  "translation": "एक बुराई हम सुरुज के नीचे देखने हाथिन — ओइसन भूल जे शासक के सामने से निकलतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0588a275be6adbfa70bbf9af9e0fa67a7805a40dccd6d1d0f66351098406449c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/10\/5-8.1792008429969.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "एक बुराई ⟨हइ⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "हम देखने हाथिन"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "ओइसन भूल"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "जे निकलतइ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "शासक"
+    }
+  ],
+  "timestamp": "2026-10-14T20:07:09.970222842Z",
+  "model": "glm-5.3"
+}

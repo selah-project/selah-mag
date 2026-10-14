@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 9:13",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שררות",
+      "rationale": "जिद\/हठ बनाम 'कल्पना' (KJV 'imagination') — शब्द के अरथ हठियारपन हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הבעלים",
+      "rationale": "बाल के बहुबचन — देवता सब के नाम, लिप्यन्तरन रखल गेल।"
+    }
+  ],
+  "translation": "आउ ओकनी अपन हिरदय के जिद के पाछे चललन, आउ הबालים के पाछे, जेकरा ओकनी के बाप-दादा सिखौलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "14884529c301db6840f6316534d8e3a5034407427f479a3d35a33695aa5d8f81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/9\/13-16.1792000366490.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "चललन"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "שררות",
+      "gloss": "जिद"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "आउ के पाछे"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "הबालिम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "למדום",
+      "gloss": "सिखौलन"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "बाप-दादा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:52:46.490752182Z",
+  "model": "glm-5.3"
+}

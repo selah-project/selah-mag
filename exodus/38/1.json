@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बेदी के नाप",
+      "rationale": "अप्पा में लमाई-चौड़ाई-उँचाई गिनाइल हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हעלह",
+      "rationale": "मूल मतलब 'चढ़ावे वाला' — जे पूरा जरे बर ऊपर चढ़ावल जा हइ।"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ बलि-बेदी बनइलन — चढ़ावे वाला बेदी — शित्ताम के लकड़ी के; ओकर लमाई पाँच अप्पा आउ ओकर चौड़ाई पाँच अप्पा, चौकोन, आउ ओकर उँचाई तीन अप्पा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6addf33f52fd59438ef8a2c488b684adfc2a8754075e2434d1c1566c42292545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/38\/1-4.1791989350517.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आउ ऊ बनइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बलि-बेदी"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बलि-बेदी"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "चढ़ावे वाला"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "लकड़ी के"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "शित्ताम"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "अप्पा"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ओकर लमाई"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आउ पाँच"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "अप्पा"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ओकर चौड़ाई"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "चौकोन"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "आउ तीन"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "अप्पा"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ओकर उँचाई"
+    }
+  ],
+  "timestamp": "2026-10-14T14:49:10.517899236Z",
+  "model": "glm-5.3"
+}

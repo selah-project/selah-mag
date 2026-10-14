@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 6:2",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "स्मृति-पत्र",
+      "rationale": "דכרונה 'स्मरण-पत्र \/ अभिलेख' — राजकीय आदेश के उल्लेखनीय प्रतिलिपि, कोनो बिधान-पुस्तक नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "बבירתא",
+      "rationale": "'बित्ता \/ राज-भवन \/ किला' — अनुवादक लोग 'महल' आउ 'दुर्ग' में अलग-अलग अरथ लेथिन"
+    }
+  ],
+  "translation": "आउ अकमेता (एकबताना) में, मादई देस के राज-भवन में, एक मेगिला (लिपिपत्र) मिललइ, आउ ओकर बीच में एके तरह लिखल रहलइ — एक स्मृति-पत्र:",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d4d0ac31dc86d0987cdf83326c104f03ad38891b3ca16e1cd883845711e79b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/6\/2-3.1792012227565.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשתכח",
+      "gloss": "मिललइ"
+    },
+    {
+      "surface": "באחמתא",
+      "gloss": "अकमेता में"
+    },
+    {
+      "surface": "בבירתא",
+      "gloss": "राज-भवन में"
+    },
+    {
+      "surface": "די",
+      "gloss": "जे ⟨हकइ⟩"
+    },
+    {
+      "surface": "במדי",
+      "gloss": "मादई"
+    },
+    {
+      "surface": "מדינתה",
+      "gloss": "देस के"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "मेगिला (लिपिपत्र)"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "आउ एके तरह"
+    },
+    {
+      "surface": "כתיב",
+      "gloss": "लिखल रहलइ"
+    },
+    {
+      "surface": "בגוה",
+      "gloss": "ओकर बीच में"
+    },
+    {
+      "surface": "דכרונה",
+      "gloss": "स्मृति-पत्र"
+    }
+  ],
+  "timestamp": "2026-10-14T21:10:27.565627385Z",
+  "model": "glm-5.3"
+}

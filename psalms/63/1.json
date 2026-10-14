@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 63,
+  "translation": "दाविद (दाऊद) के ज़बूर, जब ऊ यहूदा के जंगल में रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/63\/1-4.1792005279952.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ज़बूर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "जब ऊ रहलन"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:39.952860521Z",
+  "model": "glm-5.3"
+}

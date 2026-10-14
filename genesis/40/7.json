@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "योसेफ ओकरा परोह के अफसर सब के",
+      "rationale": "सीधा सवाल — 'काहे तोहनी के मुँह आज बुरा हइ?' — ओही बन्दी अफसर सब के दने।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "मुँह बुरा",
+      "rationale": "हिब्रू के 'तोहनी के मुँह बुरा हइ' मुँह पर पढ़े वाला दुख के बनावट हकइ; अंग्रेजी के 'sad' ओकर ढील देत हइ।"
+    }
+  ],
+  "translation": "आउ ओ ⟨את⟩ परोह (फिरौन) के अफसर सब से — जे ओकर संग ⟨את⟩ ओकर मालिक के घर के रखवारी में हलथिन — पूछलन कहऽ के काहे तोहनी के मुँह आज बुरा हइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5afc356fc052956f2e77475bc85fbe17c76038bafeb3c24796fcb18b8a2d39c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/40\/5-8.1791987537978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "पूछलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परोह के अफसर सब"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "अफसर सब"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "परोह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "संग ⟨את⟩"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "रखवारी में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ओकर मालिक के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "तोहनी के मुँह"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-10-14T14:18:57.979598694Z",
+  "model": "glm-5.3"
+}

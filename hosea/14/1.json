@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 14:1",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תאשם",
+      "rationale": "'दोस ठहरतइ' (अपराधी ठहरतइ) बनाम 'नास जातइ' — दुनो अरथ जड़ आशम में हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מרתה",
+      "gloss_note": "",
+      "rationale": "'बितर करना' के क्रिया के मरहरोथी में 'बिरोध करलक' — शाब्दिक अरथ 'कड़वाहट' हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרתה\/תאשם",
+      "rationale": "अपराध आउ बिगाड़ के जोड़ — हिन्दी में ई जोड़ नञ दिखऽ हइ।"
+    }
+  ],
+  "translation": "शोमेरोन दोस ठहरतइ, काहे कि ऊ ओकर एलोहीम के बिरोध करलक; तलवार से ओकनी गिरतइ, ओकनी के छोटका बुतरा कुचलाहइ जातइ, आउ ओकर गर्भवती जनाना के पेट चीरल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e109a855510eeb9a481437b4cd01c3e3c20bd5e733e85e97cfc53221f219c7de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/14\/1-4.1792003366893.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאשם",
+      "gloss": "दोस ठहरतइ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "शोमेरोन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "बिरोध करलक"
+    },
+    {
+      "surface": "באלהיה",
+      "gloss": "ओकर एलोहीम के"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "गिरतइ"
+    },
+    {
+      "surface": "עלליהם",
+      "gloss": "ओकनी के छोटका बुतरा"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "कुचलाहइ जातइ"
+    },
+    {
+      "surface": "והריותיו",
+      "gloss": "आउ ओकर गर्भवती जनाना के"
+    },
+    {
+      "surface": "יבקעו",
+      "gloss": "पेट चीरल जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:42:46.894066857Z",
+  "model": "glm-5.3"
+}

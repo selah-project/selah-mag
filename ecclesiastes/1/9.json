@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "चीज",
+      "rationale": "मगही के प्रवाह बर 'כל חדש' (सब नया) के संग संज्ञा चाही"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היה\/יהיה",
+      "rationale": "होलइ–होतइ आउ करल–करल जातइ के दोहराव इब्रानी के दोहराव वाली बनावट के अंश मात्र रखऽ हइ"
+    }
+  ],
+  "translation": "जे होलइ ऊहे होतइ, आउ जे करल गेलइ ऊहे करल जातइ; आउ सुरुज के नीचे कोनो नया ⟨चीज⟩ नञ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "27f173a84f9a1ec94f8ebd53284a036761940cecce59e8b5ebee17c31b58bc0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/1\/9-12.1792008315122.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "होलइ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "करल गेलइ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "करल जातइ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ हइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नया"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:15.123171285Z",
+  "model": "glm-5.3"
+}

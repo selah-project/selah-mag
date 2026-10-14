@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 34:24",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हम",
+      "rationale": "first person of אוריש carried by verb form; Magahi needs explicit subject"
+    },
+    {
+      "kind": "idiom",
+      "subject": "את פני יהוה לראות",
+      "rationale": "'to see the face of' = to appear in pilgrimage; kept literal 'मुँह देखे'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אוריש",
+      "rationale": "participle 'I am dispossessing' read as future promise; some render as present"
+    }
+  ],
+  "translation": "काहे कि हम तोहरा आगे जाति सब के खदेड़बइ आउ ⟨את⟩ तोहर सीमा फइलाइबइ; आउ कोनो मरद तोहर धरती ⟨את⟩ के लालच नञ करतइ, जब तूँ यहवे तोहर एलोहीम के मुँह ⟨אत⟩ देखे बरिस में तीन बेर चढ़बइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c1e617d7afe9b9fd0d4cee2933e07b0d7cc31baa3170428c174bb56784064470",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/34\/21-24.1791989114664.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אוריש",
+      "gloss": "खदेड़बइ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "तोहरा आगे से"
+    },
+    {
+      "surface": "והרחבתי",
+      "gloss": "आउ फइलाइबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर सीमा"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "तोहर सीमा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יחמד",
+      "gloss": "लालच करतइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोनो मरद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर धरती"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "तोहर धरती"
+    },
+    {
+      "surface": "בעלתך",
+      "gloss": "चढ़बइ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मुँह"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "बरिस में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:45:14.665904314Z",
+  "model": "glm-5.3"
+}

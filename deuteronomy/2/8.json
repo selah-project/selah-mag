@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 2:8",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "'से' के अरथ बर इस्तेमाल होल ⟨את⟩ शब्द के साफ प्रतिनिधित्व मगही में जरा मुस्किल हकइ — 'के पास से' ले लिया गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הערבה",
+      "gloss": "अराबा",
+      "rationale": "खास घाटी के नाम — यर्दन से लाल समुंदर तक के बेजान घाटी।"
+    }
+  ],
+  "translation": "आउ हमनी ओकनी ⟨את⟩ के पास से आगू बढ़लियै — हमर भाय सब, एसव के बेटा सब, जे सेयर में रहऽ हथिन — अराबा के रस्ते से, एलात से आउ एत्स्योन गेबेर से; आउ हमनी मुड़लियै आउ मोआब के पनाह के रस्ता पार कए लियै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5dc1972f40ea857d7469fe562033be4c4cdf44cc71ef397159c659e566bc8f9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/2\/5-8.1791992013678.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעבר",
+      "gloss": "आउ हमनी आगू बढ़लियै"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ओकनी ⟨את⟩ के पास से"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "हमर भाय सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसव"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "जे रहऽ हथिन"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "सेयर में"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "रस्ते से"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "अराबा के"
+    },
+    {
+      "surface": "מאילת",
+      "gloss": "एलात से"
+    },
+    {
+      "surface": "ומעצין",
+      "gloss": "आउ एत्स्योन"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "गेबेर से"
+    },
+    {
+      "surface": "ונפן",
+      "gloss": "आउ हमनी मुड़लियै"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "आउ पार कए लियै"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "पनाह"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:33:33.679437367Z",
+  "model": "glm-5.3"
+}

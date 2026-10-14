@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שעשעי",
+      "rationale": "बहुबचन 'शाशुआइम' — मन के सुख\/खेल-चीज; 'सुख' इको सब्द में बहुबचन के स्वरूप घट जावऽ हइ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לולי",
+      "rationale": "'जे नञ होतइ त' — उलटी-अवस्था के साँझा इब्रानी ढाँचा, मगही में साँझा रूप में लानल हइ"
+    }
+  ],
+  "translation": "तोहर तोरा हमर सुख नञ होतइ त हम हमर दुख में ओही समय बिनस जइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/89-92.1792006116364.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "नञ होतइ त"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "तोहर तोरा"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "हमर सुख"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ओही समय"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "हम बिनस जइतइ"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "हमर दुख में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:36.365279860Z",
+  "model": "glm-5.3"
+}

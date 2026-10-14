@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 15:31",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דברי הימים",
+      "rationale": "साक्षात 'दिन के बात' — दरबारी इतिहास-वृत्तांत के चिन्हित नाम, 'दिन के बात के किताब' जस के तस रखल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "मगही बहुवचन बर 'बात सब' \/ 'राजा सब' में 'सब' जोड़ल गेलन, इब्रानी बहुवचन अके रूप में चिन्हित नञ होवऽ हइ।"
+    }
+  ],
+  "translation": "आउ पेकह के बाकी बात सब, आउ जे कुछ ऊ कइलक — देखऽ, ऊ सब यिस्राएल के राजा सब के दिन के बात के किताब पर लिखल हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "53a3fe82c3cba38ae522191f01cedc33e366a8bc9d0f099a736d22bebac2075c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/15\/30-31.1792011800012.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "आउ बाकी"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात सब"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "पेकह"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ जे कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलक"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "लिखल हकइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "किताब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात के"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "राजा सब के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T21:03:20.012789107Z",
+  "model": "glm-5.3"
+}

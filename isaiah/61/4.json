@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 61:4",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "דור ודור",
+      "rationale": "पीढ़ी-दर-पीढ़ी — उजड़लपन के काल के नाप।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרבות\/חרב",
+      "rationale": "एके जड़ के दो रूप (חׇרְבּות\/חֹרֶב) दू ठी जगह — सूख आउ उजड़ल जगह दुनो के अरथ में।"
+    }
+  ],
+  "translation": "आउ ओकनी पुरान उजड़ल जगह फेर बनतइ, पहिले के उजड़ल जगह सब के फेर खड़ा करतइ, आउ उजड़ल नगर सब के, पीढ़ी-दर-पीढ़ी के उजड़ल जगह, नवा करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9110b8a18c681086226b48e2c25f4b2f116eb1a40fad64a7d4925090a2db74e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/61\/1-4.1791999955366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "आउ बनतइ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "उजड़ल जगह"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "पुरान"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "उजड़ल जगह सब"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "पहिले के"
+    },
+    {
+      "surface": "יקוממו",
+      "gloss": "फेर खड़ा करतइ"
+    },
+    {
+      "surface": "וחדשו",
+      "gloss": "आउ नवा करतइ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर सब के"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "उजड़ल"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "उजड़ल जगह"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "आउ पीढ़ी"
+    }
+  ],
+  "timestamp": "2026-10-14T17:45:55.367255306Z",
+  "model": "glm-5.3"
+}

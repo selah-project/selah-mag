@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נגרזתי",
+      "rationale": "मूल तस्बीर — जइसन गाछ काट के अलग कइल जा हइ — मगही में „काटल गेलहीं” ओहे तस्बीर रखलक।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जब…तब",
+      "rationale": "मूलपाठ के बनावट (बशועי — चिल्लावै के बखत) मगही में साफ बोले बर जोड़ल गेल।"
+    }
+  ],
+  "translation": "आउ हम अचानक के डर में कहलिया: हम तोहर आँखि के आगू से काटल गेलहीं — बाकि तूँ जब हम तोहरा ले चिल्लइलिया तब हमर मिनती के बोली सुनलू।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "68cb93ed3f4736f9409d2fa87775ae44f66645454f61aa0c138273ed22712673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/31\/21-24.1792004848267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आउ हम"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "कहलिया"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "अचानक के डर में"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "काटल गेलहीं"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "आगू से"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "तोहर आँखि के"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "सुनलू"
+    },
+    {
+      "surface": "קול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "हमर मिनती के"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "जब हम चिल्लइलिया"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा ले"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:28.268698426Z",
+  "model": "glm-5.3"
+}

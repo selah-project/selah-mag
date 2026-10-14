@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "अगर",
+      "rationale": "अम conditional बाक्य-संरचना में खुले रूप में नञ आवऽ हकइ, शर्त बाक्य से बतावल गेलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हमर",
+      "rationale": "इब्रानी में बेटा संग पूर्व जोड़ल अनुरोधक शब्द प्रत्यय से आता है"
+    },
+    {
+      "kind": "you",
+      "subject": "हमर बेटा",
+      "rationale": "आदमी के प्रत्यक्ष सम्बोधन — पिता अपने बेटा के सीख देते हैं"
+    },
+    {
+      "kind": "invitation",
+      "subject": "अगर तूँ लेबऽ हउ",
+      "rationale": "पढ़निहार के शर्त के संग बुलावा"
+    }
+  ],
+  "translation": "हमर बेटा, अगर तूँ हमर बात लेबऽ हउ, आउ हमर आज्ञा के ⟨अपने⟩ ⟨את⟩ संग छुपाबऽ हउ —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6aba919b2ae6305385c391d93c0fef0b8588fd88c7bd5358683e953ff4cbeb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/2\/1-4.1792006506546.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "हमर बेटा"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "लेबऽ हउ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "हमर बात"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "आउ हमर आज्ञा के"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "छुपाबऽ हउ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ संग",
+      "marks": "हमर आज्ञा के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:06.547431345Z",
+  "model": "glm-5.3"
+}

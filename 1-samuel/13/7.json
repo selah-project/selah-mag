@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "इब्रानी में क्रिया नञ हकइ ('ऊ अबहिनो गिलगाल में'); मगही के 'हलन' जोड़ल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עברים עברו",
+      "rationale": "'इब्रानी' आउ 'पार कए गेलन' एके जड़ (עבר) से — नाम में ही पार करे के बात बसल हकइ।"
+    }
+  ],
+  "translation": "आउ इब्रानी ⟨את⟩ यर्दन पार कए गेलन — गाद आउ गिलाद के धरती में; आउ शाऊल अबहिनो गिलगाल में हलन, आउ सब लोग ओकर पाछे काँपत हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7e3228584e1497bd82fa516d4fede5e538538af88760a14967f91e0959edf7a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/13\/5-8.1791995039780.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "आउ इब्रानी"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "पार कए गेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यर्दन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दन"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "आउ गिलाद"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "आउ शाऊल"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "अबहिनो"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "गिलगाल में"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "काँपत हलन"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ओकर पाछे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:23:59.781111812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 11:8",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "मשאת",
+      "rationale": "'खाने के भाग' (केजेवी\/जेपीएस) बनाम 'भेंट' (यंग) — माशात के अरथ बाट दू गोट अनुवाद-परम्परा हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "רד के 'नीचे' के अरथ",
+      "rationale": "'उतर' क्रिया के नीचे जाए के चित्र मगही 'जा' में पूरा नञ आवऽ हइ"
+    }
+  ],
+  "translation": "आउ दाविद ऊरिया से कहलन — अपन घर जा आउ अपन गोड़ धो। आउ ऊरिया राजा के घर से निकललन, आउ ओकर पाछे राजा के खाने के भेंट निकलल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a2c575487de200cd410a976549c0616e89e0d2e633f2c25212900018da4f0dd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/11\/5-8.1791996137892.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "לאוריה",
+      "gloss": "ऊरिया से"
+    },
+    {
+      "surface": "רד",
+      "gloss": "जा"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "अपन घर"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "धो"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "अपन गोड़"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "निकललन"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ऊरिया"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ओकर पाछे"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "खाने के भेंट"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:42:17.893080477Z",
+  "model": "glm-5.3"
+}

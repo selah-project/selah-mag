@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "होलइ",
+      "rationale": "वयही के आगमन बतावे बर मगही में किरिया जोड़ल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दू दिन",
+      "rationale": "त्सिकलग में दिन के गिनती"
+    }
+  ],
+  "translation": "आउ शाउल के मौत के बाद होलइ, दाविद अमालेक ⟨את⟩ के मारे से लौटलन, आउ दाविद त्सिकलग में दू दिन रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b2523e5605e8c22103e24a4a1d85cd601631615a91282690b91f717fd1a73c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/1\/1-4.1791995902189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "होलइ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "आउ दाविद"
+    },
+    {
+      "surface": "שב",
+      "gloss": "लौटलन"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "मारे से"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अमालेक"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "अमालेक"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "आउ रहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "त्सिकलग में"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    }
+  ],
+  "timestamp": "2026-10-14T16:38:22.189797807Z",
+  "model": "glm-5.3"
+}

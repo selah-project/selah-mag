@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 9:16",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "मोशे के बोली",
+      "rationale": "मोशे इस्राएल के परजा के सीधे सम्बोधन करऽ हथिन (to Israel)"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "अन्तिम अलेफ-तव रूप ⟨את⟩ चिन्हा संग तोहनी के रूप में पार भेल"
+    }
+  ],
+  "translation": "आउ हम देखलियनि, आउ देखऽ, तोहनी यहवे, तोहनी के एलोहीम, के संग पाप कएलन हे; तोहनी अपन बर ढलाइल बछड़ा बनएलन हे; तोहनी ओ रस्ता से बड़ी जल्दी भटक गेलन हे जेकरा यहवे तोहनी के हुकुम देलन हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5a4452f0e8e73f6b1cea34136ff5eaa856fc596221c7330dd2dff7801bd6d1e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/9\/13-16.1791992281461.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "आउ हम देखलियनि"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "पाप कएलन हे"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के संग"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "बनएलन हे"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "अपन बर"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "बछड़ा"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ढलाइल"
+    },
+    {
+      "surface": "סרתם",
+      "gloss": "भटक गेलन हे"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "बड़ी जल्दी"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकुम देलन हल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी के",
+      "marks": "तोहनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:38:01.462775497Z",
+  "model": "glm-5.3"
+}

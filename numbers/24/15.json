@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 24:15",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "खुलहलिया",
+      "rationale": "שתם: जड़ שׁתם 'परदा हटावऽ' (KJV, JPS 'खुलल') बनाम ASV\/यल्ट 'बन्न' — अनुसासन जड़ के आक्षरिक अरथ लेऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאם…ונאם",
+      "rationale": "दू बेर 'बचन' — मशल के बनावट के समानान्तर दोहराव"
+    }
+  ],
+  "translation": "आउ ऊ ओकर मशल उठलन आउ कहलन: बिलाम के बचन, बेओर के बेटा के; आउ ऊ मनुस के बचन जेकर आँख खुलहलिया हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "89b44a8c43887a2093bc4852eb13ce5672b499131a8707967ec21c0d2c98abc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/24\/13-16.1791991467839.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "आउ उठलन"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ओकर मशल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בער",
+      "gloss": "बेओर"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "आउ बचन"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ऊ मनुस"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "खुलहलिया"
+    },
+    {
+      "surface": "העין",
+      "gloss": "आँख"
+    }
+  ],
+  "timestamp": "2026-10-14T15:24:27.840375842Z",
+  "model": "glm-5.3"
+}

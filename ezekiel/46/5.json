@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 46:5",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "एफा \/ हिन",
+      "rationale": "नाप-तौल के पद — अनाज के एफा आउ तेल के हिन, प्रति एफा एक हिन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "मתת ידו",
+      "rationale": "'ओकर हाथ के भेंट' — कुछ अनुवाद 'जेतना ओ सकऽ हकइ', कुछ 'हाथ के देल भेंट' कहऽ हथिन।"
+    },
+    {
+      "kind": "elision",
+      "subject": "מתת ङदו",
+      "rationale": "मगही में ⟨जेतना देतइ⟩ जोड़ल गेलइ काहे कि सुभाविक बाक्य एकरा बिना पूरा नञ होवऽ हकइ।"
+    }
+  ],
+  "translation": "आउ मिन्हा — एक एफा बर मेढ़ा, आउ मेमना सब बर मिन्हा ओकर हाथ के भेंट ⟨जेतना देतइ⟩, आउ तेल — एक हिन प्रति एक एफा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d53d1f324503bceff50bd99a42f1bfd1d15256ea276508d9984faff887461a43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/46\/5-8.1792003021746.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנחה",
+      "gloss": "आउ मिन्हा"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "एक एफा"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "बर मेढ़ा"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "आउ मेमना सब बर"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मिन्हा"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "आउ तेल"
+    },
+    {
+      "surface": "הין",
+      "gloss": "एक हिन"
+    },
+    {
+      "surface": "לאיפה",
+      "gloss": "प्रति एक एफा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:37:01.747622375Z",
+  "model": "glm-5.3"
+}

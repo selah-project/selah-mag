@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 9:15",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "गाछ सब",
+      "rationale": "काँटा-झाड़ गाछ सब के सीधे सम्बोधन करऽ हइ — 'तोहनी'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "छाँव आउ आग",
+      "rationale": "काँटा-झाड़ जे छाँव देवे के दावा करऽ हइ, ओकरे से आग निकलऽ हइ — कथा के करारी व्यंग्य।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "अभिसेक",
+      "rationale": "माशियाख-जड़ के क्रिया राजा बर — 'माशियाख बनाके' कोनो विकल्प रूप।"
+    }
+  ],
+  "translation": "तब काँटा-झाड़ गाछ सब के कहलन: अगर तोहनी सचमुच हमरा तोहनी ऊपर राजा बनाके अभिसेक करऽ हिअऽ, तो आवऽ, हमर छाँव में पनाह लऽ; आउ अगर नञ, त काँटा-झाड़ से आग निकलतइ आउ ⟨את⟩ लेबनान के देवदार गाछ के खा जतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d79c3c82a0cc6f13db09dbebcf6fc49eae5c4a7eec27932e351d79a3c878bde8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/9\/13-16.1791994313535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "काँटा-झाड़"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "गाछ सब"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "अभिसेक करऽ हिअऽ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "हमरा राजा बनाके"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा बनाके"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तोहनी ऊपर"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आवऽ"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "पनाह लऽ"
+    },
+    {
+      "surface": "בצלי",
+      "gloss": "हमर छाँव में"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आउ अगर"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "निकलतइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "काँटा-झाड़"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "खा जतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लेबनान के देवदार गाछ"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "देवदार गाछ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "लेबनान के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:11:53.536532068Z",
+  "model": "glm-5.3"
+}

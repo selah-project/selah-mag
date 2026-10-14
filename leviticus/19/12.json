@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एहे से",
+      "rationale": "इब्रानी के आगामी-परिणाम रूप (וחללת) के जोड़ देखावे बर जोड़ल जोड़-सब्द"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקר\/שם",
+      "rationale": "पद 11 के שקר पद 12 में फेर आवऽ हइ — झूठ के कड़ी दुनू पद में"
+    }
+  ],
+  "translation": "आउ हमर नाम पर झूठ कसम मत खाऽ; एहे से तूँ अपन एलोहीम के ⟨את⟩ नाम के अपवित्तर करब। हम यहवे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/19\/9-12.1791990002540.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "कसम मत खाऽ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "हमर नाम पर"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "आउ अपवित्तर करब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम के"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "अपन एलोहीम के"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:00:02.541877144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 16:16",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "मोशे के कोरह से",
+      "rationale": "imperative summons addressed directly to Korah and his assembly"
+    },
+    {
+      "kind": "alternative",
+      "subject": "महर",
+      "rationale": "'काल्हि' as fixed 'tomorrow' rather than indefinite 'in time to come' — context (v.17) fixes the morrow"
+    }
+  ],
+  "translation": "आउ मोशे कोरह से कहलन, तूँ आउ तोहर पूरा जमात यहवे के सामने रहा — तूँ, ओकनी आउ अहरोन — काल्हि।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "290932d617d32a1fd54355b3204508ec58539399152dd46af98f6ce6cf372c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/16\/13-16.1791991218095.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "तोहर जमात"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहा"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "आउ ओकनी"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "आउ अहरור"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "काल्हि"
+    }
+  ],
+  "timestamp": "2026-10-14T15:20:18.096947904Z",
+  "model": "glm-5.3"
+}

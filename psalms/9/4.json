@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जब",
+      "rationale": "इब्रानी के बे-में के ढाँचा मगही में 'जब' से खुलऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "तोहर मुँह से",
+      "rationale": "מפניך के साक्षात अरथ 'तोहर अगोर-मुँह के ओर से' — पाछे भागल जाए के बात।"
+    }
+  ],
+  "translation": "जब हमर बैरी पाछे घुरतइ, ऊ लड़खड़ातइ आउ तोहर मुँह से नस्ट होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/9\/1-4.1792004558320.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "जब … पाछे घुरतइ"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "हमर बैरी"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पाछे"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ऊ लड़खड़ातइ"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "आउ नस्ट होतइ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "तोहर मुँह से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:38.321295352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפרצו",
+      "rationale": "'break out' — सन्तान में बढ़त (KJV) या फटिस कइल (अन्य अरथ); मगही में 'बढ़त नञ होतइ' लेलन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "לשמר",
+      "rationale": "के रखवारी छोड़लक — यहवे के बिधान के, या यहवे के आपने के; दुनो पढ़ाव मौजूद हइ।"
+    }
+  ],
+  "translation": "आउ ओकनी खातइ, बाकि ओकनी के नञ भरतइ; ओकनी व्यभिचार करतइ, बाकि ओकनी के बढ़त नञ होतइ; काहे कि ओकनी ⟨את⟩ यहवे के छोड़ देलन, रखवारी करै से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "61fd4fa7e45da5a249ce1a742f6a4b5f09e252b4f90ba37b927373d011f5b48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/4\/9-12.1792003165924.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "आउ ओकनी खातइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "भरतइ"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "ओकनी व्यभिचार करतइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "बढ़त होतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ओकनी छोड़ देलन"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "रखवारी करै से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:39:25.925082129Z",
+  "model": "glm-5.3"
+}

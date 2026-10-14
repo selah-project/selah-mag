@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הכפרת",
+      "rationale": "'कप्परेत' शब्दशः ढकना\/ढकै वाला हकइ; 'करुणा के सिंहासन' (मर्सी-सीट) परम्परा के ब्याख्या हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הארן",
+      "gloss": "सन्दूक — शब्दशः बक्सा; 'अर्क\/सन्दूक' जस के तस रखलन।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सामग्री के सूची",
+      "rationale": "वचन 11 के सूची के आगे के भाग — हिस्सा सब के गिनती।"
+    }
+  ],
+  "translation": "⟨את⟩ सन्दूक आउ ⟨את⟩ ओकर डण्डा, ⟨את⟩ ओकर ढकना, आउ ⟨את⟩ ओढ़ने के परदा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3721dd6abfef58bb0395f9712a6065e5d96aa8062f39c472ac0101ef6a09f21f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/35\/9-12.1791989124860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सन्दूक"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "ओकर डण्डा"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ओकर डण्डा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर ढकना"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ढकना"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "ओढ़ने के परदा"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ओढ़ने के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:45:24.861825407Z",
+  "model": "glm-5.3"
+}

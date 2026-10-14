@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 1:44",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויכתו",
+      "rationale": "साक्षात् 'कुचल देलन' — 'कुटलन' लेलन गेल, जेपीएस 'beat you down'।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כאשר תעשינה הדברים",
+      "rationale": "मधुमक्खी के संग तुलना — इब्रानी में चालू-बचन के चित्र, मगही में 'जइसन करऽ हथिन'।"
+    }
+  ],
+  "translation": "आउ अमोरी, जे ओहि पहाड़ में बसल हलइ, तोहनी के भेंट होक्के निकललन, आउ ⟨את⟩ तोहनी के भागलन जइसन मधुमक्खी सब करऽ हथिन, आउ सेइर में ⟨את⟩ तोहनी के कुटलन, होरमा तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "44f53345cdaabfbc8209d279cd2e4fb1382db032652a05e1db828a68791e358e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/1\/41-44.1791991918287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकललन"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "अमोरी"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "बसल हलइ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "तोहनी के भेंट होक्के"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "भागलन"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी के",
+      "marks": "तोहनी के"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "करऽ हथिन"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "मधुमक्खी सब"
+    },
+    {
+      "surface": "ויכתו",
+      "gloss": "कुटलन"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी के",
+      "marks": "तोहनी के"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "सेइर में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "होरमा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:31:58.289207873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया-सूत्र नञ हकइ; उपमा के वाक्य में जोड़ल गेलइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "मगही में अलग शब्द के रूप में नञ आव सकऽ हइ, ओकर अरथ वाक्य में घुलल हे"
+    }
+  ],
+  "translation": "पानी के धारा जइसन राजा के हिरदय यहवे के हाथ में ⟨हकइ⟩; जे सब ऊ चाहऽ हइ, ओकरा ओहीँ झुकावऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/21\/1-4.1792006847641.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "धारा जइसन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "चाहऽ हइ"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "झुकावऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:47.642426907Z",
+  "model": "glm-5.3"
+}

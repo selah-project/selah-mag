@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על מות",
+      "rationale": "'मौत तक' (KJV\/ASV) बनाम 'मौत के पार' (यलतन के दिसा, JPS 'हमेसा') — על 'के ऊपर\/पार' के अरथ भी धरऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी में क्रिया नञ हइ — 'एलोहीम हमनी के एलोहीम' नामिक बाक्य हकइ; मगही क्रिया माँगऽ हइ"
+    }
+  ],
+  "translation": "काहे कि ई एलोहीम हमनी के एलोहीम हथिन — सदा आउ हमेसा बर; ऊ हमनी के मौत तक अगुवाई करतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0eb93a496eaf672950affe49ab3d00a44a0851e938cd49fa5ed6359a22c5ef46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/48\/13-15.1792005036176.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ हमेसा बर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "हमनी के अगुवाई करतन"
+    },
+    {
+      "surface": "על",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:36.177855307Z",
+  "model": "glm-5.3"
+}

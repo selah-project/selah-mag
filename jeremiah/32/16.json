@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तब",
+      "rationale": "Magahi needs the correlative तब to close the जब clause Hebrew leaves implicit."
+    }
+  ],
+  "translation": "आउ जब हम खरीद के ⟨את⟩ किताब बारूख के — नेरियाह के बेटा के — दे देलन, तब हम यहवे से प्रार्थना कइलन, कहितै —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8fd57db92a3793e1c34098d64eaf4c3fe7fb78d18ec97b283e42ac3d1760ebc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/32\/13-16.1792001056298.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "प्रार्थना कइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "दे देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खरीद के किताब"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "किताब"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "खरीद के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "बारूख"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "नेरियाह"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहितै"
+    }
+  ],
+  "timestamp": "2026-10-14T18:04:16.300056638Z",
+  "model": "glm-5.3"
+}

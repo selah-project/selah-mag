@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नफस के बर 'परान' (जीवन-शक्ति), 'आत्मा' नञ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שחה\/דבקה",
+      "rationale": "दू करिया के सामानान्तर बनावट — झुकल परान, चिपकल पेट — मगही में सामानान्तर रक्खल हे"
+    }
+  ],
+  "translation": "काहे कि हमनी के परान धूरी तक झुक गेलइ हे, हमनी के पेट धरती से चिपक गेलइ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "17217f569acff8ee961a15015fd62000bc868b72aab02af2f64f532683fe88a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/44\/25-27.1792005059491.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "झुक गेलइ हे"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "धूरी तक"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "हमनी के परान"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "चिपक गेलइ हे"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "हमनी के पेट"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:59.493107941Z",
+  "model": "glm-5.3"
+}

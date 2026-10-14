@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हऽ \/ हकइ",
+      "rationale": "इब्रानी में क्रिया-होवे नञ हइ; मगही के बोली-पूछउत्तर एकरा चाहऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "शाऊल से दाविद के सीधा बात",
+      "rationale": "दुनो एक-दोसरा के सीधे सम्बोधित करऽ हथिन"
+    }
+  ],
+  "translation": "आउ शाऊल दाविद के बोली के पहचानलन आउ कहलन, की ई तोहर ⟨हऽ⟩ बोली, हमर बेटा दाविद? आउ दाविद कहलन, हमर बोली ⟨हकइ⟩, हमर मालिक राजा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "480f4f2861ac7761bb775a6e651b8aab82f40e8d3abe1a6cd16e6d5ba012ae23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/26\/17-20.1791995736492.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "पहचानलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बोली"
+    },
+    {
+      "surface": "קול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "तोहर बोली"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमर बेटा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "हमर बोली"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हमर मालिक"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:35:36.493638869Z",
+  "model": "glm-5.3"
+}

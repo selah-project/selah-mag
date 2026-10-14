@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गुरदा",
+      "rationale": "כליות शाब्दक्ष साँस-आत्मा के आंतरिक आत्मा के रूप में ग्रहण करता है, अक्षरशः गुरदे नहीं"
+    },
+    {
+      "kind": "crux",
+      "subject": "खमीर होवत गेलइ",
+      "rationale": "יתחमץ: 'खमीर उठल\/खटाई भेल' (जेपीएस 'ferment') बनाम केजेवी\/एएसवी 'शोक मनाया'\/'दुखी हुआ'"
+    }
+  ],
+  "translation": "काहे कि हमरा हिरदय खमीर होवत गेलइ हलइ आउ हमरा गुरदा ⟨इयाँ⟩ सूली मारलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6e00f4daa04ca29ea4052336dc5fca6306a2c0b5fb5c272cb95eccb282aae391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/73\/21-24.1792005401816.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "खमीर होवत गेलइ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "हमरा हिरदय"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "आउ हमरा गुरदा"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "सूली मारलक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:41.817007819Z",
+  "model": "glm-5.3"
+}

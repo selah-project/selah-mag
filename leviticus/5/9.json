@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 5:9",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "करता (पुरोहित, पद 8 से) इब्रानी में अनुपस्थित, बेवस्थित पूरक"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאת ... הוא",
+      "rationale": "पद के अंत में 'पाप-बलि हकइ' के ठाठ वापसी — पूरा अनुसार 4 पद में दोहरावल गेलइ"
+    }
+  ],
+  "translation": "आउ ऊ पाप-बलि के खून बेदी के दीवार पर छिड़कतइ, आउ जे खून बचल ⟨हकइ⟩ ओकरा बेदी के निव पर निचोड़ल जातइ — पाप-बलि हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "04fdf67e4e53a653f878c816bcafd8b67f5691456f565c931940409e1c365061",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/5\/9-12.1791989615656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "छिड़कतइ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "खून के"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "पाप-बलि के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी के"
+    },
+    {
+      "surface": "והנשאר",
+      "gloss": "आउ जे बचल"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "खून में"
+    },
+    {
+      "surface": "ימצה",
+      "gloss": "निचोड़ल जातइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के निव"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "निव"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी के"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप-बलि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:53:35.657565897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "रहतइ",
+      "rationale": "इब्रानी क्रिया-हीन रूप हकइ; मगही क्रिया जोड़ल गेलइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "עד מה",
+      "rationale": "दू सब्द के एक 'कब तक' में मिलावल गेलइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "संगीत-चिन्हा लिप्यन्तरित 'सेला' कएल गेलइ, अरथ नञ देल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "मरद के बेटा सब के सम्बोधन",
+      "rationale": "प्रश्न के संग सीधा सम्बोधन — बिरोधी लोग के"
+    },
+    {
+      "kind": "invitation",
+      "subject": "कब तक",
+      "rationale": "पढ़निहार के ओझल प्रश्न ओकरा भीतर खीँचऽ हइ"
+    }
+  ],
+  "translation": "मरद के बेटा सब, कब तक हमर इज्जत अपमान बर ⟨रहतइ⟩? तोहनी खोखला बात के परेम करऽ हिअऽ आउ झूठ के खोज करऽ हिअऽ। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/4\/1-4.1792004442834.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "कब तक"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कब तक"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "हमर इज्जत"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "अपमान बर"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "तोहनी परेम करऽ हिअऽ"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "खोखला बात"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "तोहनी खोज करऽ हिअऽ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:00:42.835234782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ई ओइजा जनमल",
+      "rationale": "‏זה ילד שם — 'ई ओइजा जनमल' (कोनो ब्यक्ति) बनाम 'ओइजा' = त्सियोन में; पद 5 बाद में जनम के जगह त्सियोन बतावऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "रहब",
+      "rationale": "‏רהब मिस्रयिम के उपनाम हकइ (अकड़ैल), इहाँ नाम जस के तस रखल गेल"
+    }
+  ],
+  "translation": "हम रहब आउ बबेल याद करब ओकनी के बीच जे हमरा जानथिन; देखऽ, फलश्त आउ त्सोर कूश के संग — ई ओइजा जनमल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/87\/1-4.1792005660039.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "याद करब"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "रहब"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "आउ बबेल"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "ओकनी के बीच जे हमरा जानथिन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "फलश्त"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "आउ त्सोर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनमल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओइजा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:00.041721431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יהמו",
+      "rationale": "मूल ध्वन्यात्मक शब्द — गुंजन\/शोर बर; कुत्ता के संग में 'भोंकऽ' लेल गेल"
+    }
+  ],
+  "translation": "आउ ऊ साँझ के लौटऽ, कुत्ता जइसन भोंकऽ, आउ नगर के चारो दने घुमऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/59\/13-16.1792005225806.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "लौटऽ"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "साँझ के"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "भोंकऽ"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "कुत्ता जइसन"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "घुमऽ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर के चारो दने"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:45.807244524Z",
+  "model": "glm-5.3"
+}

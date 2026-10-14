@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נדמו",
+      "rationale": "דמה के दू अरथ — 'मूक भऽ के नास' (KJV) बनाम 'काटल गेलन' (YLT); मूल जड़ दुनू ओर ठाढ़ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נמשל\/נדמו",
+      "rationale": "משל आउ דמה के जड़-गूँज; मगही में गिनाहइ\/नास से परति नञ हो पावऽ हइ।"
+    }
+  ],
+  "translation": "आउ आदमी इज्जत में ठहरऽ नञ हइ; ओ जीव-जंतु जइसन गिनाहइ गेलन — ओकनी मूक भऽ के नास भ गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/49\/13-16.1792005082521.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "आउ आदमी"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "इज्जत में"
+    },
+    {
+      "surface": "בל",
+      "gloss": "बिलकुल नञ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ठहरऽ हइ"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "गिनाहइ गेलन"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "जीव-जंतु जइसन"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "मूक भऽ के नास भ गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:22.522720638Z",
+  "model": "glm-5.3"
+}

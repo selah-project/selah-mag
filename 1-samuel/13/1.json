@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "एक बरिस के बेटा",
+      "rationale": "בן־שנה के गिनती पाठ में गायब हइ — 'एक बरिस के बेटा' (यल्त, वाइक्लिफ) बनाम बाद के अनुवाद के गढ़ल चालीस\/तीस बरिस"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हलइ⟩",
+      "rationale": "इब्रानी में क्रिया-संबंधक नञ हइ; मगही के चाही"
+    },
+    {
+      "kind": "measurement",
+      "subject": "शाउल के उमिर आउ राज-काल",
+      "rationale": "बरिस के गिनती — राजा के राज-विवरण के सुरुआत"
+    }
+  ],
+  "translation": "एक बरिस के बेटा ⟨हलइ⟩ शाउल (सौल) ओकर राजा होए में, आउ दू बरिस ऊ यिस्राएल (इस्राएल) पर राज करलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2f7e84a9cb99cec7e36f8004026ee01a6382e940552f68786aba854d03395cc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/13\/1-4.1791995167959.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "एक बरिस के"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ओकर राजा होए में"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "आउ दू"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज करलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:26:07.959899675Z",
+  "model": "glm-5.3"
+}

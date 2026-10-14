@@ -1,0 +1,156 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 18:14",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨काम⟩",
+      "rationale": "כל אשר הוא עושה 'सब जे ऊ करऽ हइ' — मगही बनावट बर 'काम' के साँचा जोड़ल"
+    },
+    {
+      "kind": "you",
+      "subject": "यित्रो मोशे के",
+      "rationale": "सीधा प्रस्न के दुआरी ससुर द्वारा मोशे के — पूरक प्रस्न 'का...?' आउ 'काहे कि...?'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ससुर",
+      "rationale": "חתן मूलतः 'ससुर संबंधी' — मगही में आदमी के नाता-सब्द सुभाविक"
+    }
+  ],
+  "translation": "आउ मोशे के ससुर देखलन ⟨את⟩ सब ⟨काम⟩ जे ऊ लोग बर करऽ हलन, आउ कहलन: ई का बात हइ जे तूँ लोग बर करऽ हइ? काहे कि तूँ अकेले बइठऽ हइ आउ सब लोग तोहरे आगे भोर से साँझ ले ठाढ़ हथ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ce328a5cdd359ac2f207792e9f058d238e634b94be6fbaf36c2442434ab8bab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/18\/13-16.1791988582657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ससुर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब काम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करऽ हलन"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "लोग बर"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करऽ हइ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "लोग बर"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बइठऽ हइ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ठाढ़ हथ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहरे आगे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले के"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:36:22.658021433Z",
+  "model": "glm-5.3"
+}

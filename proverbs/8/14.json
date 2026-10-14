@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; संज्ञा-वाक्य के बर मगही क्रिया ⟨…⟩ में जोड़ल गेलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सीप",
+      "rationale": "תושיה के अरथ 'ठोस सीप \/ सामर्थ्य' हकइ — एक ठन मगही सब्द में रखल गेलइ"
+    }
+  ],
+  "translation": "सलाह आउ सीप हमरा लगे ⟨हकइ⟩; हम जानकारी हउअ; बल हमरा लगे ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5298c9b4aa4fdca0ae007e485b353920cb2b5e71d3e467f379336aacbc41cf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/8\/13-16.1792006572236.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "हमरा लगे"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "आउ सीप"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "जानकारी"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा लगे"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "बल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:12.237344074Z",
+  "model": "glm-5.3"
+}

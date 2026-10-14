@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨बाकि⟩",
+      "rationale": "इब्रानी सिर्फ 'वौ' जोड़ऽ हइ; विरोधाभास मगही में साफ़ सब्द से उभरऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקדמוני",
+      "rationale": "KJV 'हमरा आगे भेलन' (पुरान 'prevent' = पहिले आना) बनाम ASV 'हमरा उप्पर आ गेलन' — भेंट बनाम हमला"
+    },
+    {
+      "kind": "alternative",
+      "subject": "आगे भेंट भेलन",
+      "rationale": "दुसरा पढ़ाई: 'हमरा घेर लेलन' — दुख-काल में बैरी के घेराव, bsb के संग"
+    }
+  ],
+  "translation": "ऊ हमरा संकट के दिन आगे भेंट भेलन, ⟨बाकि⟩ यहवे हमरा बर सहारा भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5f0ae4183a5e798b87df93791c30294faa36e2204f289ff0726af9e1fa051af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/18\/18-19.1792012074105.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "आगे भेंट भेलन"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "हमरा संकट"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "भेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "सहारा"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:54.105845300Z",
+  "model": "glm-5.3"
+}

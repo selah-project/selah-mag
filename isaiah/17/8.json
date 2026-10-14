@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 17:8",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "सूरुज के खम्भा",
+      "rationale": "חמנים सूरुज के पूजा के खम्भा के जाति-सब्द हकइ; अनुवाद कइल गेल, लिप्यन्तरन नञ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ישעה ङראה",
+      "rationale": "कुछ अनुवाद 'ताकतइ' के जगह 'मद बटोहतइ' लेथिन — שעה के जड़ दुनो अरथ देथिन।"
+    }
+  ],
+  "translation": "आउ ऊ बेदी सब केर नञ ताकतइ — जे ओकर हाथ के काम — आउ जे ओकर उँगली बनइलन, ओकरा ऊ नञ देखतइ — असेरा खम्भा आउ सूरुज के खम्भा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "52e6cb3380af1ec67efd3a81b772f2034218a9db2763a00a4c5fac9cef6694d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/17\/5-8.1791998933888.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "ताकतइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "केर"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "बेदी सब केर"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ओकर हाथ के"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "ओकर उँगली"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखतइ"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "आउ असेरा खम्भा"
+    },
+    {
+      "surface": "והחמנים",
+      "gloss": "आउ सूरुज के खम्भा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:53.889603894Z",
+  "model": "glm-5.3"
+}

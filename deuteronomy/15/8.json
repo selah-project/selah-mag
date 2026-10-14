@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתח תפתח · תעביטנו",
+      "rationale": "two infinitive-absolute doublings — 'opening thou shalt open', 'lending thou shalt lend' — emphatic repetition kept."
+    },
+    {
+      "kind": "addition",
+      "subject": "तूँ",
+      "rationale": "Hebrew marks the subject by verb form alone; the Magahi pronoun supplied and bracketed."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "second-person singular command continuing the address to Israel."
+    }
+  ],
+  "translation": "बल्कि ⟨तूँ⟩ ⟨את⟩ तोहर हाथ ओकरा बर खोलबइ — खूब खोलबइ — आउ ओकरा उधारी देबइ — खूब देबइ — ओकर कमी के बराबर, जेतना ओकरा कमी होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "28b1fff41988a6bfadd7cdf73b8731394c6aa4151dbf25580eaa81edede5fdcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/15\/5-8.1791992470646.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "बल्कि"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "खोलबइ"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "खूब खोलबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर हाथ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तोहर हाथ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा बर"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "आउ उधारी देबइ"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "खूब देबइ"
+    },
+    {
+      "surface": "די",
+      "gloss": "बराबर"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "ओकर कमी के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेतना"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "कमी होतइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:41:10.647556414Z",
+  "model": "glm-5.3"
+}

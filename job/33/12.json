@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 33:12",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "वाक्य-क्रम",
+      "rationale": "KJV 'एकरा में तूँ ठीक नञ' पहिले रखऽ हइ; ASV\/JPS 'हम जवाब देबइ' आगे — इब्रानी के क्रम दुनो ढंग से बाँधल जा हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यीयोव",
+      "rationale": "एलीहू यीयोव के सीधे संबोधित करऽ हइ — तूँ, तोहरा"
+    }
+  ],
+  "translation": "देखऽ, एकरा में तूँ ठीक नञ हऽ; हम तोहरा जवाब देबइ, काहे कि एलोअह आदमी से बड़ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2211b2a83d2a217f33fe1d8fb4d01abe77114d507c1da2426f0f2ccdb04d9fc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/33\/9-12.1792007643034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "एकरा में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "ठीक…हऽ"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "तोहरा जवाब देबइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "आदमी से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:54:03.035698575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פני מצרים",
+      "rationale": "'मिस्रयिम के मुँह पर' के मुहावरा — 'सामने पड़ऽ हइ' कइल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "खविला से शूर तक",
+      "rationale": "मार के इलाका के सीमा नाप के बतावल गेल"
+    }
+  ],
+  "translation": "आउ शाऊल ⟨את⟩ अमालेक के मारलक, खविला से ओह ठाम तक जखन शूर ले अबै हउ, जे मिस्रयिम के सामने पड़ऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/15\/5-8.1791995259158.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "आउ मारलक"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अमालेक"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "अमालेक"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "खविला से"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "अबै हउ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "शूर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "पड़ऽ हइ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    }
+  ],
+  "timestamp": "2026-10-14T16:27:39.159484214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הר ×4",
+      "rationale": "'पहाड़' के चारि दोहराव — बड़का पहाड़ के अकड़ के बिरोध बनावे वाला ताल; दोहराव जस के तस रक्खल।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "גבננים",
+      "rationale": "'चोटी सब' — गבנון के बहुबचन रूप तनाख़ में एही पाँती में।"
+    }
+  ],
+  "translation": "एलोहीम के पहाड़, बासान के पहाड़; चोटी सब के पहाड़, बासान के पहाड़।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/68\/13-16.1792005335299.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "बासान के"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "चोटी सब के"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "बासान के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:35.300585085Z",
+  "model": "glm-5.3"
+}

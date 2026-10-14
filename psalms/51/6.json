@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रार्थना सीधे यहवे से बात करऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक",
+      "rationale": "צדק के लिप्यन्तरन गढ़ल गेलइ; एकर अरथ 'सही ठहरना' हकइ"
+    }
+  ],
+  "translation": "तोहरे बर, खाली तोहरे बर, हम पाप कइलिए, आउ तोहरी आँखी में ई बुराइ कइलिए — एकराले कि तोहर बचन में तूँ त्सेदेक ठहरऽ हथिन, तोहर नियाव में तूँ साफ-सुथरा ठहरऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/51\/5-8.1792005144860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "तोहरे बर"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "खाली तोहरे बर"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "हम पाप कइलिए"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "आउ बुराइ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "तोहरी आँखी में"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "कइलिए"
+    },
+    {
+      "surface": "למען",
+      "gloss": "एकराले कि"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "त्सेदेक ठहरऽ हथिन"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "तोहर बचन में"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "साफ-सुथरा ठहरऽ हथिन"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "तोहर नियाव में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:24.860824272Z",
+  "model": "glm-5.3"
+}

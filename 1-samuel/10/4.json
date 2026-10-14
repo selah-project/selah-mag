@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שאל לשלום",
+      "rationale": "कुसल पूछना — मगही के चलनसार 'कुसल पूछब' में ढारल"
+    }
+  ],
+  "translation": "आउ ओ के तोहनी संस कुसल पूछतइ, आउ देतइ तोहनी के दू रोटी; आउ तूँ ओनकर हाथ से लेबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "664bb81c04a5a4d4a0f452db9b626464bf5577547fb7e52cabd91925e8063c9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/10\/1-4.1791995132220.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "आउ ओ के पूछतइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहनी संस"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "कुसल"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "आउ देतइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "आउ तूँ लेबइ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ओनकर हाथ से"
+    }
+  ],
+  "timestamp": "2026-10-14T16:25:32.221839260Z",
+  "model": "glm-5.3"
+}

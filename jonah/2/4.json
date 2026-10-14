@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 2:4",
+  "book": "jonah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे के सम्बोधन",
+      "rationale": "पूरा पद यहवे से बोलल गेल बात हकइ — समुंदर के लहरो यहवे के हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונהר",
+      "rationale": "नदी — किछु अनुवादक 'धारा' या 'बहाव' कहऽ हथिन; मूल शब्द नदी\/धारा हकइ।"
+    }
+  ],
+  "translation": "तूँ हमरा गहिराई में, समुंदर के हिरदय के बीच में, धकेल देलह; आउ नदी हमरा घेर लेलक; तोहर सब उछल-लहर आउ तोहर लहर हमरा ऊपर से गुजर गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jonah\/2\/1-4.1792003694960.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשליכני",
+      "gloss": "तूँ धकेल देलह"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "गहिराई में"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "हिरदय के बीच में"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "आउ नदी"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "हमरा घेर लेलक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "तोहर उछल-लहर"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "आउ तोहर लहर"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ऊपर से"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "गुजर गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:14.961260905Z",
+  "model": "glm-5.3"
+}

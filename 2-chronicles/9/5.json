@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हइ⟩",
+      "rationale": "इब्रानी में क्रिया-संबंध नञ हकइ; मगही के 'सच हइ' बर जोड़ल गेलइ"
+    }
+  ],
+  "translation": "ऊ राजा से कहलक, “सच हइ ओ बात जे हम अपन धरती में सुनलिए — तोहर काम के बारे में आउ तोहर समझदारी के बारे में।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4c309775bee395cb686deecd0a65482d717f9cd20ec8b439deac79162140ad88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/9\/5-8.1792010858391.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच हइ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ओ बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "सुनलिए"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "अपन धरती में"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बारे में"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "तोहर काम"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ के बारे में"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "तोहर समझदारी"
+    }
+  ],
+  "timestamp": "2026-10-14T20:47:38.392491528Z",
+  "model": "glm-5.3"
+}

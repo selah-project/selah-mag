@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תקעו",
+      "rationale": "'गाड़लन \/ टिकइलन \/ टाँगलन' — अनुवादक लोग 'fastened' आउ 'hanged' में बाँटल हथिन; मगही में टाँग देलन धरल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "के (बेत-सान के दीवार)",
+      "rationale": "मगही के जोड़ सब्द, मूल में संबंध-पद बिना जोड़ के ठाढ़ हकइ।"
+    }
+  ],
+  "translation": "आउ ओकर हथियार ⟨את⟩ अस्तारोत के घर में रखलन, आउ ओकर देह ⟨את⟩ बेत-सान के दीवार पर टाँग देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f01ec8cba7e950f22fbeb6521a363df0fe4a8509179030ebc21b71a5d5856dec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/31\/9-12.1791995809933.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर हथियार"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ओकर हथियार"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "अस्तारोत"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर देह"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "ओकर देह"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "टाँग देलन"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "दीवार पर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत-सान के"
+    },
+    {
+      "surface": "שן",
+      "gloss": "बेत-सान"
+    }
+  ],
+  "timestamp": "2026-10-14T16:36:49.934309826Z",
+  "model": "glm-5.3"
+}

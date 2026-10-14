@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 31:7",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨एक⟩",
+      "rationale": "חטא संज्ञा के आगे मगही में माप-सब्द चाही; इब्रानी में खाली खेत्स — पाप।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מूरति",
+      "rationale": "אליל के सुभाव अरथ 'व्यर्थ चीज' हकइ; मूरति जाति-सब्द लेल गेल।"
+    }
+  ],
+  "translation": "काहे कि ओही दिन हर मनुस अपन चानी के मूरति सब आउ अपन सोना के मूरति सब त्याग देतन — जे तोहर हाथ तोहनी बर बनएलन हथिन — ⟨एक⟩ पाप।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "82bb8e1adb93bf805abb941e20304ed448a56e58bf6dd27476c9b8ddc03bffd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/31\/5-8.1791999162370.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "ימאסון",
+      "gloss": "त्याग देतन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर मनुस"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "मूरति सब"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "अपन चानी के"
+    },
+    {
+      "surface": "ואלילי",
+      "gloss": "आउ मूरति सब"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "अपन सोना के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "बनएलन"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "तोहर हाथ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप"
+    }
+  ],
+  "timestamp": "2026-10-14T17:32:42.371250314Z",
+  "model": "glm-5.3"
+}

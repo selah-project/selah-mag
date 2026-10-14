@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तऽ",
+      "rationale": "इब्रानी 'हम सांति ह' — परतीक समान हकइ; मगही के परति-संबंधी शब्द कोस्ठक में दीन"
+    }
+  ],
+  "translation": "हम ⟨तऽ⟩ सांति हइ; बाकि जब हम बात कहऽ हइ, ऊ लोग जुद्ध बर तैयार रहऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/120\/5-7.1792006157370.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "बाकि जब"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बात कहऽ हइ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ लोग"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "जुद्ध बर तैयार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:17.371796777Z",
+  "model": "glm-5.3"
+}

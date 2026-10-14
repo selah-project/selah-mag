@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 2:24",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אין טוב באדם",
+      "rationale": "इब्रानी असल में 'आदमी में कुछ भलाई नञ हकइ जे खावऽ…' — परम्परा एकरा 'एकरा से बढ़िया कुछो नञ' पढ़ऽ हइ; दुनो रास्ता पुरान अनुवादन में मिलऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש साँस\/परान के जीवन-बल हकइ, देह से अलग आत्मा नञ।"
+    }
+  ],
+  "translation": "आदमी बर एकरा से बढ़िया कुछो नञ हकइ — कि ऊ खावऽ, पीवऽ आउ ओकर परिश्रम में ⟨את⟩ ओकर परान के भलाई देखावऽ; ई भी हम देखलियन कि ऊ एलोहीम के हाथ के हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6344e3e345b785b70ac819c376d0550f4fbadc5e4f69f5e0995771578cbed3a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/2\/21-24.1792008383193.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "कुछो नञ हकइ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "आदमी बर"
+    },
+    {
+      "surface": "שיאकלל",
+      "gloss": ""
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "कि ऊ खावऽ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "आउ पीवऽ"
+    },
+    {
+      "surface": "והראה",
+      "gloss": "⟨את⟩ आउ देखावऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर परान के"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ओकर परान"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "ओकर परिश्रम में"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "हम देखलियन"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ के"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "היא",
+      "gloss": "हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:23.195031405Z",
+  "model": "glm-5.3"
+}

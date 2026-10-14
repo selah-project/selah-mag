@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-kings 1:53",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकरा",
+      "rationale": "וירדהuyo — the suffix 'him' is embedded in the verb; Magahi needs it as a separate word"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दन्ना गड़लन",
+      "rationale": "וישתחו literally means prostrating oneself — in Magahi 'falling face-down'"
+    }
+  ],
+  "translation": "तब राजा सुलेमान भेजलन, आउ ओकरा बेदी से निकाललन, तब ऊ अइलन आउ राजा सुलेमान के अगिलाइ दन्ना गड़लन, तब सुलेमान ओकरा कहलन — जा, अपन घर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "96504099d3cba6241370241378d0cf4ba4e3533bbab6e9fb6dcfc901ea958af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/1\/53-53.1791996629003.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलेमान"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "ओकरा निकाललन"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "दन्ना गड़लन"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के अगिलाइ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलेमान"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलेमान"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "अपन घर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:50:29.004013126Z",
+  "model": "glm-5.3"
+}

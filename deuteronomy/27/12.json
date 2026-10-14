@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "छऊ गोट के नाम के सूची",
+      "rationale": "असीस बर ठाढ़ होबे वाला गोत्र के गिनती-सूची (27:13 में सराप बर छऊ मिलतइ)।"
+    },
+    {
+      "kind": "addition",
+      "subject": "गोत्र",
+      "rationale": "नाम सब के बाद 'गोत्र' सब्द जोड़ल गेल जे पढ़निहार के साफ होवऽ — हिब्रू में खाली नाम हइ।"
+    }
+  ],
+  "translation": "ई सब ⟨את⟩ लोग के असीस देबे बर गरिज़ीम पहाड़ पर ठाढ़ होतइ, जब तोहनी ⟨את⟩ यर्दन पार करब — शिमोन, आउ लेवी, आउ यहूदा, आउ इस्साखार, आउ योसेफ, आउ बिन्यामीन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "067d4af2e1957db62c121d77c44686d2707ab9150a65358c2df8578eca05212d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/27\/9-12.1791992741728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ठाढ़ होतइ"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "असीस देबे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "गरिज़ीम"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "जब तोहनी पार करब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यर्दन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दन"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "आउ लेवी"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "आउ यहूदा"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "आउ इस्साखार"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "आउ योसेफ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "आउ बिन्यामीन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:45:41.730332136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "पचास हाथ, दस खम्भा",
+      "rationale": "पछुँ किनारा के नाप आउ गिनती देल गेलइ — आधा लम्बाई।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "पछुँ दने",
+      "rationale": "ים के सामान्य अरथ समुंदर हकइ; दिशा-बोध में ई समुंदर के दिशा — पछुँ — बतावऽ हइ।"
+    }
+  ],
+  "translation": "आउ आँगन के चौड़ाई पछुँ दने के किनारा बदे पचास हाथ के परदा होतइ; ओकर खम्भा दस आउ ओकर पाया दस।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "589aa9bf494ccb0db3abecbeeeff8860bd697dc46c27970f62bd968a95847a96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/27\/9-12.1791988837467.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "आउ चौड़ाई"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "आँगन के"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "किनारा बदे"
+    },
+    {
+      "surface": "ים",
+      "gloss": "पछुँ दने के"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "ओकर खम्भा"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "आउ ओकर पाया"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    }
+  ],
+  "timestamp": "2026-10-14T14:40:37.468460994Z",
+  "model": "glm-5.3"
+}

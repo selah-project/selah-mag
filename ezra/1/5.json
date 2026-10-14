@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "רוח = बतास\/साँस\/परान-बल — एके सब्द, तीन अरथ; एके रूप हर जगह।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जे यरूशलयिम में हकइ",
+      "rationale": "हिब्रू के क्रियाहीन उपवाक्य के जोड़ बर मगही के क्रिया चाही।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहूदा आउ बिन्यामीन के घराना",
+      "rationale": "एहि पद के बिषय ओकर निकट के सुनइता के बरसात के समुदाय हकइ।"
+    }
+  ],
+  "translation": "तब यहूदा आउ बिन्यामीन के घराना के मुखिया उठलन, आउ पुरोहित आउ लेवी के लोग — हर ओकर जेकर ⟨את⟩ रूआख एलोहीम जगावलन — यहवे के ⟨את⟩ घर, जे यरूशलयिम में हकइ, बनावे बर ⟨उपर जाए बर⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3122b01cea18a0175b919a360e3d7ccdc1ae405872dd545a65cbe591de497b4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/1\/5-8.1792009231144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "घराना के"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "आउ बिन्यामीन के"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "आउ पुरोहित"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "आउ लेवी के लोग"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "हर ओकर"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "जगावलन"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रूआख"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "उपर जाए बर"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनावे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:20:31.145269805Z",
+  "model": "glm-5.3"
+}

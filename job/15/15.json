@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 15:15",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בקדשו",
+      "rationale": "'in his holy ones' (his angels\/saints) vs 'in his holiness' — both ancient readings; mag follows the plural"
+    },
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "plural-marking word added to make the reading 'his holy ones' explicit in mag"
+    }
+  ],
+  "translation": "देखऽ, ओकर पवित्तर ⟨सब⟩ में ऊ भरोसा नञ करथिन, आउ अकास तक ओकर आँख में साफ नञ हथ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c2da73cad3c57822a0f90ff034b844ea79b8cf9157f895dc6200e0541f372d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/15\/13-16.1792007390617.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ओकर पवित्तर ⟨सब⟩ में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "भरोसा करथिन"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "आउ अकास"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "साफ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ओकर आँख में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:49:50.618496131Z",
+  "model": "glm-5.3"
+}

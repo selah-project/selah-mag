@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 28:17",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זכוכית",
+      "rationale": "काँच या बरसाती काँच (क्रिस्टल) — अनुवादक लोग में मतभेद"
+    },
+    {
+      "kind": "elision",
+      "subject": "לא יערכנה",
+      "rationale": "इब्रानी के क्रिया-रूप में मौजूद कर्ता („ऊ\/ओकरा”) मगही में ⟨अलग⟩ धरे जाय के चाही"
+    }
+  ],
+  "translation": "सोना आउ काँच ओकरा बराबर नञ करऽ सकऽ हथिन, आउ ओकर बदला खरा सोना के बरतन नञ देल जा हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9a39dad4af560f1c75bfdb9147d53561308b20fc62810c15ab0461e209ccd4d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/28\/17-20.1792007596893.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יערכנה",
+      "gloss": "बराबर करऽ सकऽ हथिन"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "וזכוכית",
+      "gloss": "आउ काँच"
+    },
+    {
+      "surface": "ותמורתה",
+      "gloss": "आउ ओकर बदला"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बरतन"
+    },
+    {
+      "surface": "פז",
+      "gloss": "खरा सोना"
+    }
+  ],
+  "timestamp": "2026-10-14T19:53:16.893583675Z",
+  "model": "glm-5.3"
+}

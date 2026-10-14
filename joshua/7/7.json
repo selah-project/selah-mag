@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 7:7",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨आप⟩",
+      "rationale": "इब्रानी विभक्ति बिना कर्ता सर्वनाम — मगही में स्पष्ट बर जोड़ल"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ביד",
+      "rationale": "'हाथ में देना' = शक्ति में सौंपना, मगही में सीधा रूपक रखल गेल"
+    },
+    {
+      "kind": "alternative",
+      "subject": "हम राजी होइतनि",
+      "rationale": "הואלनו = 'तैयार होइतनि' — इच्छा दिखावऽ हकइ, बिस्वास नञ"
+    }
+  ],
+  "translation": "आउ यहोसुआ कहलन: आहा! अदोनाय यहवे, काहे भेजलऽ हथिन ⟨आप⟩ ई लोग के यर्दन (यर्दन नदी) पार, जे हमनी के एमोरी के हाथ में दे के नस्ट करऽ हथिन? काश! हम राजी होइतनि आउ यर्दन के ओ पार बसल रहितनि।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ee52f76982f4ca14decf923c60b7470c33893d994e7b8535316f103fc6ded022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/7\/5-8.1791993416674.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोसुआ"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "आहा!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "העברת",
+      "gloss": "भेजलऽ हथिन"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "पार करऽ बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई लोग"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यर्दन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दन"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "दे के"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ हमनी के"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "एमोरी के"
+    },
+    {
+      "surface": "להאבידנו",
+      "gloss": "हमनी के नस्ट करऽ बर"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "काश!"
+    },
+    {
+      "surface": "הואלנו",
+      "gloss": "हम राजी होइतनि"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "बसल रहितनि"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "के ओ पार"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:56:56.675638369Z",
+  "model": "glm-5.3"
+}

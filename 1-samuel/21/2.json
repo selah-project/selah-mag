@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נבה के ठाम-बिसेसक",
+      "rationale": "इब्रानी में 'नोब-दने' जइसन दिसा-रूप हकइ; मगही में अलग ठाम-सब्द नञ बचल"
+    },
+    {
+      "kind": "you",
+      "subject": "अहिमेलेख के ओर से दाविद के",
+      "rationale": "सीधा प्रस्न — 'काहे तूँ अकेले अहऽ'"
+    }
+  ],
+  "translation": "दाविद नोब अहिमेलेख पुरोहित के पास अइलन, आउ दाविद के मिले पर अहिमेलेख काँपलन, आउ ओकरा कहलन: काहे तूँ अकेले अहऽ आउ ⟨את⟩ तोहर संग कोनो मनुस नञ हऽ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/21\/1-4.1791995529547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "नोब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "अहिमेलेख"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "काँपलन"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "अहिमेलेख"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "के मिले पर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आउ कोनो मनुस"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तोहर संग",
+      "marks": "तोहर संग"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:09.548123233Z",
+  "model": "glm-5.3"
+}

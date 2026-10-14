@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 1:49",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तखन",
+      "rationale": "Hebrew wayyiqtol sequence implies 'then', supplied in Magahi"
+    },
+    {
+      "kind": "addition",
+      "subject": "बेठल",
+      "rationale": "הקראים 'the called ones' rendered as invited guests; context supplied"
+    }
+  ],
+  "translation": "तखन अदोनियाहु के जे सब बेठल बुलावल गेलैथिन, ओकनी सब डरियाइलन आउ उठिअलन, आउ हर एक अपन अपन रस्ता गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fe0f6e8b22efe7528923b5ba13af46455edf6be4fc7d7c3abc22c6da205efe2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/1\/49-52.1791996679762.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרדו",
+      "gloss": "डरियाइलन"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "उठिअलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הקראים",
+      "gloss": "बुलावल गेलैथिन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "अदोनियाहु के"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "अपन अपन रस्ता"
+    }
+  ],
+  "timestamp": "2026-10-14T16:51:19.763105335Z",
+  "model": "glm-5.3"
+}

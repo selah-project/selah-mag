@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 51:21",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हे⟩",
+      "rationale": "इब्रानी के सम्बोधन-रूप बर मगही में सम्बोधन-चिन्हा चाही"
+    },
+    {
+      "kind": "idiom",
+      "subject": "नसावल-धुत, बाकि अंगूरी मद से नञ",
+      "rationale": "दुख के नसा के रूपक — असल मद नञ; क्रोध-प्याला के आगू के पाँती के तैयारी"
+    },
+    {
+      "kind": "invitation",
+      "subject": "सुन",
+      "rationale": "ज़रूरी पहिलकी — परमेश्वर पीड़ित जनाना (सिय्योन) के सुने बर सदै"
+    },
+    {
+      "kind": "you",
+      "subject": "दुखिनी",
+      "rationale": "सीधा सम्बोधन — सिय्योन बर, जे पीड़ित आउ बिना मद के नसावल बतावल गेल हइ"
+    }
+  ],
+  "translation": "एहे से ई सुन, ⟨हे⟩ दुखिनी, ⟨हे⟩ नसावल-धुत, बाकि अंगूरी मद से नञ,",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea1cae1a9ab72cde94bab4ce7a9eb67e0c51f79dbbaddd37ba3a341b9bc30d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/51\/21-23.1791999700136.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "दुखिनी"
+    },
+    {
+      "surface": "ושכרת",
+      "gloss": "आउ नसावल-धुत"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि…नञ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "अंगूरी मद से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:41:40.137200590Z",
+  "model": "glm-5.3"
+}

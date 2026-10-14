@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גולם",
+      "rationale": "unformed embryo-mass — this is the word's only occurrence in the Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "ימים יצרו",
+      "rationale": "'the days were fashioned' — whose days, and are they written before being formed? KJV ties 'members' to the book; YLT\/ASV tie 'days'; Hebrew is terse and ambiguous"
+    },
+    {
+      "kind": "measurement",
+      "subject": "किताब में लिखल दिन",
+      "rationale": "days enumerated and inscribed in a book — counting of a life's span"
+    },
+    {
+      "kind": "secret",
+      "subject": "अनबनल रूप",
+      "rationale": "the hidden unformed state seen only by Elohim's eyes before any existed"
+    }
+  ],
+  "translation": "तोहरा आँख हमरा अनबनल रूप देखलन, आउ तोहरा किताब में सब लिखाइतइ — दिन जे गढ़ल गेलन, आउ ओकनी में एक्को नञ हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bd8cf0abb86d16d029c777106342ac609397bad25d7305e4109303327bfc8581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/139\/13-16.1792006295726.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "हमरा अनबनल रूप"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "तोहरा आँख"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "तोहरा किताब में"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सब"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "लिखाइतइ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "गढ़ल गेलन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक्को"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकनी में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:35.727478743Z",
+  "model": "glm-5.3"
+}

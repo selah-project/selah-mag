@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 41:10",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עטישות\/אור",
+      "rationale": "छीँक आउ इँजोर के टकराव — छीँक से इँजोर निकरऽ हकइ, ई तस्वीर चमत्कार हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עפעפי שחר",
+      "rationale": "'भोर के परति' — परति जे भोर खोलऽ हकइ; इब्रानी के मूल तस्वीर जस के तस रखल गेल।"
+    }
+  ],
+  "translation": "ओकर छीँक से इँजोर चमकऽ हथिन आउ ओकर आँख भोर के परति जइसन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a1979f6f514715784fb8510322ebed528f6f814a8a9b6fb470e8d0f8c9a4b649",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/41\/9-12.1792007897179.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עטישתיו",
+      "gloss": "ओकर छीँक से"
+    },
+    {
+      "surface": "תהל",
+      "gloss": "चमकऽ हथिन"
+    },
+    {
+      "surface": "אור",
+      "gloss": "इँजोर"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "आउ ओकर आँख"
+    },
+    {
+      "surface": "כעפעפי",
+      "gloss": "के परति जइसन"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "भोर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:58:17.180460957Z",
+  "model": "glm-5.3"
+}

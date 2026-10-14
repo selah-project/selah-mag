@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "हाथ के जिनगी",
+      "rationale": "חַיַּת יָדֵךְ के दू रास्ता: 'तोहर हाथ के बल' (जे किछु तूँ खुद कर सकऽ हऽ) चाहे ASV\/JPS के 'जोर के नवा जिनगी'; हम पहिला लिए रही।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨कहनी⟩",
+      "rationale": "इब्रानी के गढ़ल उद्धरन 'निरास नञ' से पहिले कोनो बोल-किरिया नञ हकइ; साफ करे बर जोड़ल।"
+    }
+  ],
+  "translation": "अपन रस्ता के बहुते पर तूँ थक गेली, बाकि कहनी कहलक — निरास नञ; तोहर हाथ के जिनगी पावलक, एहे से तूँ काहो नञ भेली।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5735c8a1ba59377e8468bb88754dda52b4bd843a1e36de3c8ad930adee054dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/57\/9-12.1791999787699.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "के बहुते पर"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "तोहर रस्ता"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "थक गेली"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "निरास"
+    },
+    {
+      "surface": "חית",
+      "gloss": "जिनगी"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तोहर हाथ के"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "पावलक"
+    },
+    {
+      "surface": "על",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "काहो भेली"
+    }
+  ],
+  "timestamp": "2026-10-14T17:43:07.700540900Z",
+  "model": "glm-5.3"
+}

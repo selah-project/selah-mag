@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to यहवे",
+      "rationale": "साँतान के ई बात यहवे से कहल गेल रहे"
+    },
+    {
+      "kind": "crux",
+      "subject": "हचिन्नम — बिना किच्छो के",
+      "rationale": "'बिना किच्छो के' के अरथ — बिना इनाम के, बिना कारण के; साँतान के आरोप के हिरदय ईहे हकइ"
+    }
+  ],
+  "translation": "साँतान ⟨את⟩ यहवे के जवाब देलक आउ कहलक, के बिना किच्छो के अय्यूब एलोहीम के डरऽ हइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea32cd530acba48f467ef0870a98f300b95b89696464165dc7cdc5f14e52e458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/1\/9-12.1792007134192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब देलक"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "साँतान"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "बिना किच्छो के"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डरऽ हइ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्यूब"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:45:34.192613911Z",
+  "model": "glm-5.3"
+}

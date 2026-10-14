@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחתך",
+      "rationale": "חתה के अरथ 'आग बटोरना' — 'ओकरा पकड़तइ' बनाम 'ओकरा उठातइ'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתצך\/יחתך\/ויסחך",
+      "rationale": "तीन क्रिया एके ठान — गिराव, पकड़, झेन्ड़ — ओकरा के खाली कए देने के बिम्ब"
+    }
+  ],
+  "translation": "एके एल तोहरा गिरातइ सदा बर, ओकरा पकड़तइ आउ तोहरा तम्बू से झेन्ड़तइ, आउ तोहरा जड़ काढ़ देतइ जिअतन के धरती से। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/52\/5-8.1792005168878.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "एके"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "तोहरा गिरातइ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "ओकरा पकड़तइ"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "तोहरा झेन्ड़तइ"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "तम्बू से"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "तोहरा जड़"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिअतन के"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:48.879384416Z",
+  "model": "glm-5.3"
+}

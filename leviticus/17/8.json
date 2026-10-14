@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨तूँ⟩",
+      "rationale": "इब्रानी के क्रिया रूप ही कहऽ हकइ के काहे बोलऽ हकइ; मगही में बिसयु (subject) के बतावे चाही।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש איש",
+      "rationale": "'आदमी आदमी' — दोहराव सब के हर एक आदमी के अलग-अलग छुऽ हइ; मगही में 'कोनो आदमी' दुहुं टोकन के साँझा रूप हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "मोशे के अगाँ",
+      "rationale": "आदेश मोशे के मुँह से लोग के अगाँ ठाढ़ हकइ: 'ओकनी से कहबउ'।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "कहबउ",
+      "rationale": "तोहनी के आज्ञा देवे वाला क्रिया पढ़निहार के ई बिधान के सुनैल जगह में खीँचऽ हइ।"
+    }
+  ],
+  "translation": "आउ ओकनी से ⟨तूँ⟩ कहबउ: यिस्राएल के घर के कोनो आदमी, चाहे ओकनी बीच डेरा डारऽ वाला परदेसी, जे चढ़ावा बलि चाहे बलि चढ़ावऽ होवे —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "de48ba182fb91562d1681de799cd0dbc1ad5ec98604db5f6aa1bb830053597a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/17\/5-8.1791990096561.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "आउ ओकनी से"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "कहबउ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोनो आदमी"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "चाहे ... से"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "डेरा डारऽ होवे"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ओकनी बीच"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़ावऽ होवे"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ावा बलि"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    }
+  ],
+  "timestamp": "2026-10-14T15:01:36.562861392Z",
+  "model": "glm-5.3"
+}

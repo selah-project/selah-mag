@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "हिरदय उठवलक",
+      "rationale": "נשא לב — अहंकार से फूलल, इब्रानी के मूल चित्र 'उठवले हिरदय' रखल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहोआस के ताना अमत्स्याहू ला",
+      "rationale": "पूरा पद सीधा दोसरा राजा के सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "मारल हे, तूँ ⟨את⟩ एदोम के मारलइ, आउ तोहर हिरदय तोहरा उठवलक हे; अब इज्जत ले आउ अपन घरे बैठ जा; आउ काहे बुराही भिड़बइ, कि तूँ गिरबइ — तूँ आउ यहूदा तोहरा संग?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "79f467376183c28b72dd2cf392ec7129f17760c8fe22176f7423bbde43e6a6ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/14\/9-12.1791998051850.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "मारल हे"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "मारलइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एदोम"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "तोहरा उठवलक"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तोहर हिरदय"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "इज्जत ले"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "बैठ जा"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "अपन घरे"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "आउ काहे"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "भिड़बइ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "बुराही"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "गिरबइ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "आउ यहूदा"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहरा संग"
+    }
+  ],
+  "timestamp": "2026-10-14T17:14:11.851347098Z",
+  "model": "glm-5.3"
+}

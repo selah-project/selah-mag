@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 9:26",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हलइ⟩",
+      "rationale": "Magahi needs the past copula for the 'and it came to pass' frame that Hebrew carries in ויהי."
+    },
+    {
+      "kind": "you",
+      "subject": "to Sha'ul",
+      "rationale": "Shemuel's call to Sha'ul on the roof — 'up, that I may send you off' — direct address."
+    },
+    {
+      "kind": "invitation",
+      "subject": "קומה",
+      "rationale": "Imperative summons: rise up — the call that begins the day of Sha'ul's anointing."
+    }
+  ],
+  "translation": "आउ ओनी बिहाने-बिहाने उठलन, आउ भोर चढ़ैतै जैसन ही, शमूएल छत पर शाऊल के पुकारलन कहलन, उठ, हम तोहनी के पठाइतइ; आउ शाऊल उठलन, आउ दूनो बाहिर गेलन — ऊ आउ शमूएल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d4748ec66df2da1064461909ccf169dc39e942acf8dc181828d36a511374cc56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/9\/25-27.1791995035266.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכמו",
+      "gloss": "बिहाने-बिहाने उठलन"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ ⟨हलइ⟩"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "चढ़ैतै जैसन ही"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "पुकारलन"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमूएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "छत पर"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "हम तोहनी के पठाइतइ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "बाहिर गेलन"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दूनो"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "आउ शमूएल"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "बाहिर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:23:55.266821261Z",
+  "model": "glm-5.3"
+}

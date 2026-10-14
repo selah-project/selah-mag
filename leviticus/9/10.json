@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "היתרת",
+      "rationale": "कलेजा का 'पर्दा\/लटका भाग' — KJV 'caul', JPS 'lobe'; शाब्दिक चित्र बचाए गए हैं"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गुरदा सब",
+      "rationale": "הכלית द्विवचन है — 'दोनों गुरदे'; मगही में संज्ञा-चिह्न न होने संबंधी विवरण दिया गया"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ चरबी आउ ⟨את⟩ गुरदा सब आउ ⟨את⟩ कलेजा के पर्दा — पाप बलि के कलेजा से — बेदी पर धुआँ बनाके चढ़ालन, जइसन यहवे मोशे (मूसा) के ⟨את⟩ आज्ञा देलन हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "aaad847a22f39bff0395895f94587c598660adf1c3798e31d9160b4edb928c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/9\/9-12.1791989706767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "चरबी"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "गुरदा सब"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "गुरदा सब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "कलेजा के पर्दा"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "कलेजा के पर्दा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "कलेजा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "के"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "पाप बलि"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "धुआँ बनाके चढ़ालन"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "बेदी पर"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    }
+  ],
+  "timestamp": "2026-10-14T14:55:06.768765224Z",
+  "model": "glm-5.3"
+}

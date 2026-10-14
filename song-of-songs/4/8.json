@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 4:8",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשורי",
+      "rationale": "'निहार\/झाँक' बनाम 'उतर आ' — שוׁर के अरथ दूनो दने; इहाँ मूड़ी से निहारलन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתי מלבנון",
+      "rationale": "दू बेर दोहराव — बुलावट के ताल, मगही में जस के तस रखलन।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "आ",
+      "rationale": "दुलहिन के बुलावट — आदेश-क्रिया संग सीधा सम्बोधन।"
+    },
+    {
+      "kind": "you",
+      "subject": "दुलहिन",
+      "rationale": "सम्बोधन दुलहिन (छलामा) बर हकइ।"
+    }
+  ],
+  "translation": "हमर ⟨את⟩-संग लेबानोन से आ, हे दुलहिन; हमर ⟨את⟩-संग लेबानोन से आ; अमाना के मूड़ी से, शनीर आउ हरमोन के मूड़ी से, सेरन के माँद से, चिताबाघ के पहाड़ से निहार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1021a57f6e7ac9b7e879bc48a5fadb9f8b18c0fd918a0bce70d3681fffa6eb29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/4\/5-8.1792008018044.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ हमर संग",
+      "marks": "हमर संग"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "लेबानोन से"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "हे दुलहिन"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ हमर संग",
+      "marks": "हमर संग"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "लेबानोन से"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "आ"
+    },
+    {
+      "surface": "תשורי",
+      "gloss": "निहार"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "मूड़ी से"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "अमाना के"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "मूड़ी से"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "शनीर"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "आउ हरमोन के"
+    },
+    {
+      "surface": "ממענות",
+      "gloss": "माँद से"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "सेरन के"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "पहाड़ से"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "चिताबाघ के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:00:18.045810082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 14:7",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "Direct confession addressed to YHWH — communal plea"
+    },
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "'though\/if' concessive (KJV) vs YLT's emphatic 'surely' — how defeated the confession sounds"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ענו",
+      "rationale": "same root as עון nearby — 'our iniquity answers us', a courtroom wordplay lost in Magahi"
+    }
+  ],
+  "translation": "जदि हमनी के अधरम हमनी के विरुद्ध गवाही देवऽ हकइ, हे यहवे, तोहर नाम बर कछु करऽ, काहे कि हमनी के बगावत ढेर हथिन; हमनी तोहर विरुद्ध पाप करलिऐ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e018ed08d285cc275625b5270a596a90e306718eb9ff1b275c9be7e6c2fa7321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/14\/5-8.1792000468216.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जदि"
+    },
+    {
+      "surface": "עונינו",
+      "gloss": "हमनी के अधरम"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "गवाही देवऽ हकइ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "हमनी के विरुद्ध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कछु करऽ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "बर"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ढेर हथिन"
+    },
+    {
+      "surface": "משובתינו",
+      "gloss": "हमनी के बगावत"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर विरुद्ध"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "पाप करलिऐ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:54:28.217390984Z",
+  "model": "glm-5.3"
+}

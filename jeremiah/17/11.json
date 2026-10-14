@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 17:11",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דגר",
+      "rationale": "דגर (सेवै) पूरा तनाख़ में केवल इहें हइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יעזבנו",
+      "rationale": "क्रिया के कर्ता धन (अंग्रेज़ी मानक) या आदमी (जेपीएस: 'ओकरा छोड़ देतइ') — मगही में धन छोड़े के रूप लेलक"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נבל",
+      "rationale": "'मूरख' — नबल के भीतर नैतिक मूर्खता आउ भकसावनी दुनो हइ, सादा बेवकूफी नञ"
+    }
+  ],
+  "translation": "तीतर ⟨את⟩ सेवऽ हइ बाकि जनै नञ पावऽ हइ; जे धन बनावऽ हइ बाकि नियाव से नञ, ओकर दिन के आध में ओकरा छोड़ देतइ, आउ ओकर आखिर में ऊ मूरख रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5643c0f7ed2ba4da54c45967df842d8d082dce3aa166e735a0ec5641f2fbb04c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/17\/9-12.1792000501752.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "तीतर"
+    },
+    {
+      "surface": "דגר",
+      "gloss": "सेवऽ हइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनै"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनावऽ हइ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "धन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "नियाव से"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ओकर दिन के आध में"
+    },
+    {
+      "surface": "ימו",
+      "gloss": "ओकर दिन"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "ओकरा छोड़ देतइ"
+    },
+    {
+      "surface": "ובאחריתו",
+      "gloss": "आउ ओकर आखिर में"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "मूरख"
+    }
+  ],
+  "timestamp": "2026-10-14T17:55:01.753863717Z",
+  "model": "glm-5.3"
+}

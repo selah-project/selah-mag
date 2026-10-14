@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יפיח כזבים",
+      "rationale": "साँस से झूठ उड़ावे — फूँकऽ हइ रूप में रखलन, 'बोलऽ हइ' नञ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא ... לא",
+      "rationale": "दू कड़ी नञ — समानान्तर बनावट"
+    }
+  ],
+  "translation": "झूठ के गवाह बेगुनाह नञ रहतइ, आउ जे झूठ फूँकऽ हइ ऊ बच नञ सकतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f45880f55fe88e537138ea8f0c89b986e33915e4ec5c7c3e59e736c14ca7e073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/19\/5-8.1792006818273.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "बेगुनाह रहतइ"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "आउ फूँकऽ हइ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "बचतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:18.273813071Z",
+  "model": "glm-5.3"
+}

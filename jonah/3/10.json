@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וינחם",
+      "rationale": "नच׮: 'अनुताप कइलन' बनाम 'मन बदललन' \/ 'हिया टेकलन' — एलोहीम बर ई बात पुरान बिबाद के बिसय हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרעה (दूसरा)",
+      "rationale": "दुसरका הרעה — 'बुराई' के मतलब ओ बिपत्ति जेकर धमकी देल गेल हल, न कि नैतिक बुराई।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעשיהם \/ לעשות \/ עשה",
+      "rationale": "माअसे-आसा जड़ के तीन बार दोहराव — काम, करे के बात, आउ न कइल — मगही में आंशिक रूप से बचल।"
+    }
+  ],
+  "translation": "आउ एलोहीम देखलन ⟨את⟩ ओकनी के काम जे ओकनी अपन बुरा रस्ता से फिर गेलन; आउ एलोहीम ओ बुराई पर अनुताप कइलन जे ऊ कहलन हल कि ओकनी के करतइ — आउ ऊ करलन नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1d702ababa0ea56565b5aac5fcf994e3ac0e587999c60f40ea370a26b75df836",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jonah\/3\/10-10.1792011937204.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के काम"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ओकनी के काम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "फिर गेलन"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "अपन रस्ता से"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "अनुताप कइलन"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन हल"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करलन"
+    }
+  ],
+  "timestamp": "2026-10-14T21:05:37.205304474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "क्षमा करतइ",
+      "rationale": "כפר के सुभाविक अरथ 'ढाँपना\/छेकना' हकइ; मगही में ओही क्षमा-भाव लेल गेलइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאתו \/ חטא",
+      "rationale": "חטא जड़ के दोहराव (पाप-बलि \/ पाप कइलक), दोनों में एके जड़ बचलइ हे"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ दोसर के ओ नियाव के मोताबिक चढ़ावे-बलि बनइतइ, आउ पुरोहित ओकर बर ओकर पाप के क्षमा करतइ जे ऊ कइलक गेलइ, आउ ओकरा क्षमा कर देल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "04fdf67e4e53a653f878c816bcafd8b67f5691456f565c931940409e1c365061",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/5\/9-12.1791989615656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दोसर"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "बनइतइ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ावे-बलि"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "नियाव के मोताबिक"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "क्षमा करतइ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर बर"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "ओकर पाप के बाटे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप कइलक"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "क्षमा कर देल जातइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:53:35.657783820Z",
+  "model": "glm-5.3"
+}

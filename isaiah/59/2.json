@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "israel",
+      "rationale": "सीधा तोहनी के संबोधन — दोसरा पुरुस (बहुबचन) के निंदा।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मुँह",
+      "rationale": "פנים (पनीम) के जड़ के अरथ 'मुँह-बाट' हकइ; 'ओकर मुँह' के संग एलोहीम के संकेत हकइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "'बाकि\/काहे कि + अब' के जोड़ी शपथ-बनावट हकइ; मगही में कोस्ठक से खाली संकेत रहल।"
+    }
+  ],
+  "translation": "बाकि तोहनी के पाप तोहनी आउ तोहनी के एलोहीम के बीच बिछोह बनलन हथिन, आउ तोहनी के अधर्म ओकर मुँह तोहनी से ओहना छिपा देलन हथिन जे सुने नञ पावऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/59\/1-4.1791999915280.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ई सच हकइ जे⟩"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "तोहनी के पाप"
+    },
+    {
+      "surface": "היו",
+      "gloss": "बनलन हथिन"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "बिछोह"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "तोहनी के बीच"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "…के बीच"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "आउ तोहनी के अधर्म"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "छिपा देलन हथिन"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "तोहनी से"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "सुने से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:45:15.281304885Z",
+  "model": "glm-5.3"
+}

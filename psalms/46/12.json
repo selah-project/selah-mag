@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मिसगाब",
+      "rationale": "शब्द के साफ तस्वीर 'ऊँच चट्टान \/ ऊँच थाम' — 'गढ़' कइसरों के मोटा-मोटा रूप हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "हिब्रू में किरिया नञ — नाम-बाक्य में; मगही में 'हथिन' जोड़ल गेलइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "संगीत-चिन्हा जस के तस रखल गेलइ — अनुवाद नञ।"
+    }
+  ],
+  "translation": "यहवे त्सबाओत हमनी के संग हथिन; याकोव के एलोहीम हमनी के बर ऊँच गढ़ हथिन। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/46\/9-12.1792005057059.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी के संग"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ऊँच गढ़"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के बर"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव के"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:57.062802741Z",
+  "model": "glm-5.3"
+}

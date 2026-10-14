@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 10:9",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פני המלחמה",
+      "rationale": "शाब्दिक रूप 'लड़ाई के मुँह' — मुँह यानी दिशा, अगाँह-पाछू के ताना के चित्र।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויבחר\/בחורי",
+      "rationale": "एके जड़ (चुनना\/चुनल लोग) के दोहराव — बिस्राएल के चुनल में से चुनलन।"
+    }
+  ],
+  "translation": "जब योआब देखलन कि लड़ाई के मुँह ओकरा आगू से आउ पाछू से हथिन, त ऊ बिस्राएल के बछौरा लोग में से चुनलन आउ अराम के सामना तैयार करके खड़ा कएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8eebf12e4a91924ac82a487f94f9b05d103bfadeba2d6d16feef6b9b48e03179",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/10\/9-12.1791996099760.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "हथिन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "लड़ाई के"
+    },
+    {
+      "surface": "מפנים",
+      "gloss": "आगू से"
+    },
+    {
+      "surface": "ומאחור",
+      "gloss": "आउ पाछू से"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "चुनलन"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब में से"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "बछौरा लोग"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "बिस्राएल के"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "तैयार करके खड़ा कएलन"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "सामना"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    }
+  ],
+  "timestamp": "2026-10-14T16:41:39.761538969Z",
+  "model": "glm-5.3"
+}

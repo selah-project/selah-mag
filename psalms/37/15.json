@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרבם",
+      "rationale": "पद 14 के तलवार एही ठाम पलट के ओकनी के हिरदय में घुसऽ हइ — काव्यात्मक उलटफेर"
+    }
+  ],
+  "translation": "ओकनी के तलवार ओकनी के हिरदय में घुसतइ, आउ ओकनी के धनुक टूट जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/37\/13-16.1792004908022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "ओकनी के तलवार"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "घुसतइ"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ओकनी के हिरदय में"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "आउ ओकनी के धनुक"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "टूट जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:08:28.023028829Z",
+  "model": "glm-5.3"
+}

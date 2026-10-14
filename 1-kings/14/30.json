@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כל הימים",
+      "rationale": "'all the days' = throughout their reigns; Magahi सारा दिन keeps the literal idiom"
+    }
+  ],
+  "translation": "आउ रहबाम आउ यरोबाम के बीच सारा दिन जुद्ध चललइ हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0c8b3b0b702a1b6d6330ab890d090ec69e5c9b2ba6887030afeb04a07381644f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/14\/29-31.1791997318917.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "आउ जुद्ध"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "चललइ हल"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबाम"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ के बीच"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यरोबाम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:01:58.917960983Z",
+  "model": "glm-5.3"
+}

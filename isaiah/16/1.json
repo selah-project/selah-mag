@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Moab",
+      "rationale": "imperative plural summons the Moabite envoys or leaders"
+    },
+    {
+      "kind": "crux",
+      "subject": "मेमना",
+      "rationale": "כर is a full-grown fat ram; KJV\/JPS read 'lamb(s)' — tribute-animal either way"
+    },
+    {
+      "kind": "crux",
+      "subject": "शासक",
+      "rationale": "משל ארץ: 'ruler of the land' (construct) vs 'who rule the land' (verb)"
+    }
+  ],
+  "translation": "तुमनी भेजू ⟨एक⟩ मेमना — ओकरा बर जे धरती के शासक हओवे — सेला से, जंगल के ओर से, बेटी त्सियोन के पहाड़ के तरफ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "86aef55c88c6abaebbbd0cdbb38eae1e97a3a11d224c676b6f1fd42f20eddb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/16\/1-4.1791998925320.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "तुमनी भेजू"
+    },
+    {
+      "surface": "כר",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "משל",
+      "gloss": "शासक"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "सेला से"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "जंगल के ओर से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के तरफ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "त्सियोन के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:45.321080153Z",
+  "model": "glm-5.3"
+}

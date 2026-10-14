@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 8:16",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "नाम के लिस्टी",
+      "rationale": "ग्यारह नाम गिनल गेलइ हइ — मुखिया आउ समझदार के लिस्टी।"
+    },
+    {
+      "kind": "crux",
+      "subject": "मबिनीम",
+      "rationale": "'समझदार' बनाम 'शिक्षक' (असभी\/जेपीएस) — बिन के कारक अरथ बतावऽ हइ।"
+    }
+  ],
+  "translation": "आउ हम एलीएजेर, अरीएल, शेमायाह, एलनातान, यारीब, एलनातान, नातान, ज़खरयाह आउ मेशुल्लाम के पठलियन — मुखिया लोग; आउ योयारीब आउ एलनातान के — समझदार लोग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "39fcbbadd3d8b8ef28363f7042fd0f00d5c7bce5af1fc2e0660d2344f4cd4a1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/8\/13-16.1792009439367.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלחה",
+      "gloss": "आउ हम पठलियन"
+    },
+    {
+      "surface": "לאליעזר",
+      "gloss": "एलीएजेर के"
+    },
+    {
+      "surface": "לאריאל",
+      "gloss": "अरीएल के"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "शेमायाह के"
+    },
+    {
+      "surface": "ולאלנתן",
+      "gloss": "आउ एलनातान के"
+    },
+    {
+      "surface": "וליריב",
+      "gloss": "आउ यारीब के"
+    },
+    {
+      "surface": "ולאלנתן",
+      "gloss": "आउ एलनातान के"
+    },
+    {
+      "surface": "ולנתן",
+      "gloss": "आउ नातान के"
+    },
+    {
+      "surface": "ולזכריה",
+      "gloss": "आउ ज़खरयाह के"
+    },
+    {
+      "surface": "ולמשלם",
+      "gloss": "आउ मेशुल्लाम के"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "मुखिया लोग"
+    },
+    {
+      "surface": "וליויריב",
+      "gloss": "आउ योयारीब के"
+    },
+    {
+      "surface": "ולאלנתן",
+      "gloss": "आउ एलनातान के"
+    },
+    {
+      "surface": "מבינים",
+      "gloss": "समझदार लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T20:23:59.368598453Z",
+  "model": "glm-5.3"
+}

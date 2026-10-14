@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गित्तीत",
+      "rationale": "गत (फिलिस्ती के नगर) से बनल बाजा के नाम; 'गत के बाजा' के अरथ, बाजा-प्रकार लिप्यन्तरित रखलन"
+    },
+    {
+      "kind": "elision",
+      "subject": "शीर्षक",
+      "rationale": "ई पद पोथी के शीर्षक हकइ, बाक्य नञ — क्रिया केहो नञ हकइ"
+    }
+  ],
+  "translation": "गायन-पटरी के मालिक बर, गित्तीत ⟨बाजा⟩ पर, आसाफ के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd0f650e23c0db414c148f8d4406897a2281ba63dbbb781de164fc5fe0c85eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/81\/1-4.1792005552724.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "गायन-पटरी के मालिक बर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "गित्तीत ⟨बाजा⟩"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "आसाफ के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:12.724719736Z",
+  "model": "glm-5.3"
+}

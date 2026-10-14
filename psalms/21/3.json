@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "सेला",
+      "rationale": "סלה संगीत-विराम के चिन्हा हकइ; लिप्यन्तरन रखल गेल, अरथ मगही में नञ खुलल"
+    },
+    {
+      "kind": "crux",
+      "subject": "נתתה",
+      "rationale": "'तूँ देलन' — करता-पुरुष के अरथ बहुवचन रूप; कुछ अनुवादक एकरा आदर-बहुवचन मानऽ हथिन"
+    }
+  ],
+  "translation": "ओकर हिरदय के चाह तूँ ओकरा देलन, आउ ओकर होंठ के बिनती तूँ बिलकुल नञ रोकलन। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/21\/1-4.1792004680584.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "चाह"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर हिरदय के"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "तूँ देलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "आउ ओकर होंठ के बिनती"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "होंठ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "बिलकुल नञ"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "रोकलन"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:04:40.585127060Z",
+  "model": "glm-5.3"
+}

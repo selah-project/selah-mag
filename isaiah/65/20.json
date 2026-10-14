@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 65:20",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "हन्यार नवजवान भी मरतइ",
+      "rationale": "पाठ अनुसार: जऊन हन्यार भी सौ बरिस के हो के मरतइ — किछु अनुवादक एकरा उलट के 'जे सौ बरिस तक नञ पहुँचऽ ओ मरल समझाहइ' पढ़ऽ हथिन (BSB); मूल बिना संदेह सीधा कहऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עול ימिझ",
+      "rationale": "'कनिया-कनिया दिन के बुतरू' — शाब्दिक 'दिन के दूध पीये वाला', कनिया उमिर में मरे वाला बुतरू के चित्र"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सौ बरिस",
+      "rationale": "उमिर के नाप — दीर्घ जीवन के गिनती, पद में दू बेर"
+    }
+  ],
+  "translation": "ओहाँ से आगे कनिया-कनिया दिन के बुतरू नञ रहतइ, आउ अइसन बूढ़ नञ, जे ⟨את⟩ अपन दिन पूरा नञ करे; काहे कि नवजवान सौ बरिस के हो के मरतइ, आउ पापी सौ बरिस के हो के सरापित गिनाहइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cfa0544f317e76b0f275071bab4df302d851693681ada1023b677c6e8c6d10d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/65\/17-20.1792000104376.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ओहाँ से"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "עול",
+      "gloss": "बुतरू"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "कनिया-कनिया दिन"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "आउ बूढ़"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "पूरा करे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन दिन"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "अपन दिन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "नवजवान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा — सौ बरिस के"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरतइ"
+    },
+    {
+      "surface": "והחוטא",
+      "gloss": "आउ पापी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा — सौ बरिस के"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "सरापित गिनाहइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:48:24.377412620Z",
+  "model": "glm-5.3"
+}

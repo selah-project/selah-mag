@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אתך\/אני",
+      "rationale": "‘तोहर संग हम’ बीच में घुसल छोट पद इब्रानी के रचना हकइ — मगही में ओहे जगह रखल गेल हे"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ישטפוך",
+      "rationale": "‘बहावै’ के जगह ‘डुबावै’ बोलऽ बड़िया रीति से संभव हे"
+    }
+  ],
+  "translation": "जब तूँ पानी के भीतर गेलऽ हऽ, ⟨את⟩ हम तोहर संग, आउ नदी सब में ओ तोहरा नञ बहातइ; जब तूँ आग के भीतर गेलऽ हऽ, तूँ नञ झिलसतइ, आउ लपट तोहरा नञ बलातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "75c3a2509528dd63c405c304ddb61b0e9f530593919ccff20410724249b9bfa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/43\/1-4.1791999529712.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "तूँ गेलऽ हऽ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी के भीतर"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तोहर संग",
+      "marks": "हम — जे संग रहऽ हऽ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "आउ नदी सब में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "ओ तोहरा बहातइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "तूँ गेलऽ हऽ"
+    },
+    {
+      "surface": "במו",
+      "gloss": "के भीतर"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "तूँ झिलसतइ"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "आउ लपट"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "बलातइ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:38:49.713332576Z",
+  "model": "glm-5.3"
+}

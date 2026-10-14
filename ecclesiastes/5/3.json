@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एक",
+      "rationale": "मगही में संख्या-संकेत चाही; इब्रानी नञ देत।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אין חפץ",
+      "rationale": "सचमुच 'चाह नञ हकइ' — एलोहीम के रुचि नञ होने के इब्रानी चाल।"
+    }
+  ],
+  "translation": "जब तूँ एलोहीम के ⟨एक⟩ प्रण मानऽ हऽ, ओकरा पूरा करे में मत देर कर; काहे कि मूरख सब में चाह नञ हकइ; ⟨את⟩ जे प्रण मानऽ हऽ ओकरा पूरा कर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "673c0bdcb3d48faa53297bc9d5e2aee1f7d214ecc60a1d397cb7399cae0c6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/5\/1-4.1792008406425.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "प्रण मानऽ हऽ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "प्रण"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "देर कर"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "ओकरा पूरा करे में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ हकइ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "चाह"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "मूरख सब में"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे प्रण मानऽ हऽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "प्रण मानऽ हऽ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "पूरा कर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:46.426680415Z",
+  "model": "glm-5.3"
+}

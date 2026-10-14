@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עזב \/ נעזב",
+      "rationale": "पद 25 के 'छोड़ल गेल' के उत्तर — पद 28 में ओहे जड़ उल्टा धरोहर के रूप में वापस आवऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "भक्तन",
+      "rationale": "חסידיו शाब्दिक रूप से 'ओकर हेसेद-वाला' — जे यहवे के हेसेद में टिकल लोग; 'भक्त' एकर खुला तस्वीर हइ।"
+    }
+  ],
+  "translation": "काहे कि यहवे नियाव से परेम रखऽ हइ, आउ ⟨את⟩ ओकर भक्तन के सदा बर नञ छोड़तन — ओकर रखवारी होतइ, बाकि बुरा लोग के बिया काट दियल जइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0646819da900c31f897e9257d1f4229724e61c294b40ec81b63ffdc2722e6abb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/37\/25-28.1792004940272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "परेम रखऽ हइ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "छोड़तन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर भक्तन के"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ओकर भक्तन"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "रखवारी होतइ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "आउ…के बिया"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बुरा लोग"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "काट दियल जइतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:00.273788450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "पूछन",
+      "rationale": "अध्याय के केंद्रीय पूछन — बुतरा के खनाई सब कछु खोजऽ हइ, समझदारी कहाँ हकइ?"
+    },
+    {
+      "kind": "invitation",
+      "subject": "पाठक",
+      "rationale": "दू प्रस्न पढ़निहार के सोच में खीँचऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मिलतइ",
+      "rationale": "תמצא 'पावल जातइ' — मगही में 'मिलतइ' सुभाविक बोली हकइ"
+    }
+  ],
+  "translation": "बाकि समझदारी कहाँ से मिलतइ? आउ समझ के जगह कहाँ हकइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2bdece10afc0d882d73eb15916a755c8f88992be6a097a2693429a0138e81b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/28\/9-12.1792007570452.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "बाकि समझदारी"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "कहाँ से"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "मिलतइ"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "आउ कहाँ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:52:50.453788423Z",
+  "model": "glm-5.3"
+}

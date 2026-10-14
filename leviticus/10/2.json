@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "खा गेलक",
+      "rationale": "ותאכल 'खाए' — 'आग ओकनी के भस्म कए देलक' बनाम मूल के सुन्ना 'खए गेलक', दुनो में आग के मुँह के तसबीर हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकनी के",
+      "rationale": "מצב: אותם के आगू करता 'आग' बतावै बर मगही में 'के' जोड़ल गेलन।"
+    }
+  ],
+  "translation": "आउ यहवे के आगू से आग निकललइ आउ ⟨את⟩ ओकनी के खा गेलक, आउ ओकनी मर गेलन यहवे के आगू।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "582195237295acbea347a68e31c12f9e9633e618ef3b72694fd01e2dbc77d9b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/10\/1-4.1791989822401.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "निकललइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के आगू से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "खा गेलक"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "मर गेलन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T14:57:02.402524409Z",
+  "model": "glm-5.3"
+}

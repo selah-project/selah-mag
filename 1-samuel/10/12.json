@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על כן",
+      "rationale": "शाब्दिक अरथ „ओकर ऊपर एहने“ — मुहावरेवाला अरथ „एहे से“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגם שאוײ בנביאים",
+      "rationale": "पिछला पद के बाक्य कहावत बन गेलन — तनाख के भीतरे एहे कहावत के जनम-स्थान ई पद हकइ"
+    }
+  ],
+  "translation": "आउ ओहाँ के एक मनुस जबाब देलन आउ कहलन: आउ ओकनी के बाप कोन हइ? एहे से ई कहावत बन गेलन: का शाउल भी नबी सब में हइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a004ae1c86ab7e71dd760a3915358d6eaee7b31d1e41006ebb8fd68290b4adc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/10\/9-12.1791995112542.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जबाब देलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक मनुस"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ओहाँ के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आउ कोन"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ओकनी के बाप"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "भेलन"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "कहावत"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "का ... भी"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "नबी सब में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:25:12.544066827Z",
+  "model": "glm-5.3"
+}

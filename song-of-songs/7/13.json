@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 7:13",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הסמदर",
+      "rationale": "समदर — बेल के कोमल फूल-बौर; किछु अनुवादक 'कोमल अंगूर के टिहर' कहऽ हथिन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנצו\/פרחה\/פתח",
+      "rationale": "तीन क्रिया फूटने-खुलले के श्रृंखला हइ — बारी के जरिया परेम के जागरण।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "नशכימה...נראה",
+      "rationale": "बोलैया संगी के बारी मेँ जाय के आमंत्रण देतन — 'चलऽ, देखी'।"
+    }
+  ],
+  "translation": "भोरे-भोरे हम अंगूर के बारी मेँ जाइब, देखी कि अंगूर के बेल फूल देलक हे कि नञ, कि समदर खुललक हे, कि अनार जरि चुकलन हथिन; तहीँ हम तोहरा ⟨את⟩ हमर परेम देबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0cf249feedb7cfb9370f18243c053910d74b482f465f3645070afd19ff9d2888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/7\/13-14.1792008064068.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשכימה",
+      "gloss": "भोरे-भोरे जाइब"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "अंगूर के बारी मेँ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "देखी"
+    },
+    {
+      "surface": "אם",
+      "gloss": "कि"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "फूल देलक हे"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "अंगूर के बेल"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "खुललक हे"
+    },
+    {
+      "surface": "הסמדר",
+      "gloss": "समदर (बेल के फूल)"
+    },
+    {
+      "surface": "הנצו",
+      "gloss": "जरि चुकलन हथिन"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "अनार"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तहीँ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "देबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर परेम"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "हमर परेम"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:01:04.069167982Z",
+  "model": "glm-5.3"
+}

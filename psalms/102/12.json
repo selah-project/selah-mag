@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נטוי",
+      "rationale": "'तनल\/फैलल' (lengthening, JPS) बनाम 'ढलल\/घटत' (declineth, KJV\/ASV) — छाँव बड़ होवत जाए या साँझ पर लीन होए, दुनू पढ़ाइ हकइ।"
+    }
+  ],
+  "translation": "हमरा दिन तनल छाँव समान हथिन, आउ हम घास समान सूख गेलिये।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/102\/9-12.1792005787078.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "हमरा दिन"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "छाँव समान"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "तनल"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आउ हम"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "घास समान"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "सूख गेलिये"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:07.079370511Z",
+  "model": "glm-5.3"
+}

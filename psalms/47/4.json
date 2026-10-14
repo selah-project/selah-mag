@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידבר",
+      "rationale": "मूल क्रिया 'दबर' — 'दबावऽ\/वस में करऽ' बनाम 'चरावऽ\/ले जाऽ' (यल्तनाख); 'दबा देतथिन' चुनल गेलइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "क्रिया दुसर पंक्ति में",
+      "rationale": "दोसर अर्ध-पंक्ति के क्रिया इब्रानी में नञ हइ; पहिलका के संग साझा"
+    }
+  ],
+  "translation": "ऊ जाति सब के हमनी के नीचे दबा देतथिन, आउ देस सब के हमनी के गोड़ के नीचे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4e35d3bd082dfc77ec5d1f114acc86320c6840fd651e2d44f6628c221c9b47a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/47\/1-4.1792005077882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "दबा देतथिन"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सब के"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "हमनी के नीचे"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "आउ देस सब के"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "हमनी के गोड़"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:17.883051856Z",
+  "model": "glm-5.3"
+}

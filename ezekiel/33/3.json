@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "सिंग",
+      "rationale": "שופर भेड़ के सिंग हकइ; 'बिगुल' या 'तुरही' गलत तस्वीर देतइ।"
+    }
+  ],
+  "translation": "आउ ऊ देखऽ हइ ⟨את⟩ तलवार के ओ देस पर अवैतइ, आउ ऊ सिंग बजावऽ हइ आउ ⟨את⟩ लोग सब के चेतावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8f1ca80d3354f7a00fa53d280ef366c2b80d30a1a1b53a3f36a03c07b561cf34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/33\/1-4.1792002659124.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "आउ देखऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तलवार के"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "באה",
+      "gloss": "अवैतइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देस पर"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "आउ बजावऽ हइ"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "सिंग"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "आउ चेतावऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग सब के"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग सब"
+    }
+  ],
+  "timestamp": "2026-10-14T18:30:59.125886295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे के",
+      "rationale": "सीधा सम्बोधन — यहवे के ऊँचा होवे के निवेदन"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עז \/ גבורה",
+      "rationale": "बल आउ पराक्रम के जोड़ी-समानान्तर, गीत आउ बाजा के क्रिया-जोड़ी (שיר\/זמר) से जुड़ल हकइ"
+    }
+  ],
+  "translation": "अपन बल में ऊँचा हो जा, यहवे; हमनी गीत गाबी आउ तोहर पराक्रम बजाबी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0044df2dba283a55fb7ded3279a7420f3729d437ed36f52db4edb4d696940dbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/21\/13-14.1792004601857.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ऊँचा हो जा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "अपन बल में"
+    },
+    {
+      "surface": "נשיװה",
+      "gloss": "गीत गाबी"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "बजाबी"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "तोहर पराक्रम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:21.858229775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "Hebrew idiom 'upon the hand of' = 'beside\/near', rendered के पास"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "רוח here is a disposition\/incitement, not wind; रूआख kept as one word per pin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויער \/ יהוה",
+      "rationale": "word-initial sound echo ya'ar\/YHWH ya-oram, lost in translation"
+    }
+  ],
+  "translation": "आउ यहवे यहोराम के विरुद्ध ⟨את⟩ पलिश्ती लोग के रूआख आउ ⟨את⟩ अरबी लोग के जगइलन, जे कूशी लोग के पास रहथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cb52219139b29ce11ad6d9802a31c2a189ce802b077b2b289046fd4f321fedd4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/21\/16-16.1792012212238.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "जगइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "के विरुद्ध"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "यहोराम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पलिश्ती लोग के रूआख आउ अरबी लोग"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "पलिश्ती लोग के"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "आउ अरबी लोग के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "יד",
+      "gloss": "पास"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "कूशी लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T21:10:12.238647801Z",
+  "model": "glm-5.3"
+}

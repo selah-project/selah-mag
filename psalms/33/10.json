@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עצת\/מחשבות · גוים\/עמים",
+      "rationale": "समानान्तर जोड़ी के दोहराव — जाति\/लोग आउ सलाह\/विचार — छंद के बनावट"
+    }
+  ],
+  "translation": "यहवे जाति सब के सलाह तोड़लन; लोग सब के विचार बेकार कएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/33\/9-12.1792004841172.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "तोड़लन"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "बेकार कएलन"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "विचार"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "लोग सब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:21.172653126Z",
+  "model": "glm-5.3"
+}

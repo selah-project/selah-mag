@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ruth 3:7",
+  "book": "ruth",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गोड़ के चादर",
+      "rationale": "ותגל means she uncovered (the covering over) his feet; the object supplied as the covering since Hebrew leaves it implied"
+    },
+    {
+      "kind": "crux",
+      "subject": "בלט",
+      "rationale": "'secretly \/ softly' — rendered 'चुपचाप'; some read 'stealthily', hinting at the risky act"
+    }
+  ],
+  "translation": "आउ बोअज खइलन आउ पीलन, आउ ओकर हिरदय खुस होगेलन; आउ ऊ गाछ-ढेर के किनारे सोवै बर गेलन; आउ ऊ चुपचाप अइलन आउ ओकर गोड़ ⟨के चादर⟩ हटएलन आउ लेट गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5309de76b8f4c5c3b2bdf802e411d5aef99cbe3c5e01ce2543121485100f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ruth\/3\/5-8.1792008087657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "खइलन"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "बोअज"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "पीलन"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "खुस होगेलन"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर हिरदय"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "सोवै बर"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "के किनारे"
+    },
+    {
+      "surface": "הערמה",
+      "gloss": "गाछ-ढेर"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "בלט",
+      "gloss": "चुपचाप"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "हटएलन"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "ओकर गोड़"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "लेट गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:01:27.658614280Z",
+  "model": "glm-5.3"
+}

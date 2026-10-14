@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סביב \/ סביב",
+      "rationale": "एके सब्द दू बेर — पहाड़ के घेरा आउ यहवे के घेरा — एके चित्र में बाँधल हइ"
+    }
+  ],
+  "translation": "यरूशलयिम (यरूशलेम) के चारो दने पहाड़ हथिन, आउ यहवे ओकर लोग के चारो दने हथिन — एही समय से ले के सदा ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/125\/1-4.1792006237001.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ओकर लोग के"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "एही समय से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले के"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा ले"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:37.002629453Z",
+  "model": "glm-5.3"
+}

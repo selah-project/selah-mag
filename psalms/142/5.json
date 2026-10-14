@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नפש घाँटी\/साँस\/परान-बल हकइ; आत्मा नञ"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओर",
+      "rationale": "ימיר खाली दहिना हकइ; मगही के बाक्य में ओर जोड़ल गेलइ"
+    }
+  ],
+  "translation": "देखलियन हम ⟨दहिना ओर⟩ आउ देखलियन, बाकि हमरा पहिचाने वाला कोनो नञ रहलइ; हमरा ओत्ते भागे के ठिकाना नास हो गेलइ, हमर परान बर कोनो पूछे वाला नञ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/142\/5-8.1792006331033.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "देखलियन"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "दहिना ओर"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आउ देखलियन"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "बाकि … नञ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "पहिचाने वाला"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "नास हो गेलइ"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "भागे के ठिकाना"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमरा ओत्ते"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "पूछे वाला"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "हमर परान बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:32:11.033559932Z",
+  "model": "glm-5.3"
+}

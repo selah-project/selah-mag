@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "पद-गिनती",
+      "rationale": "अंग्रेजी परम्परा (KJV) एह पद में ब्याज के बात देखऽ हइ (हिब्रू के 22:24), जबकि हिब्रू पाठ एह पद में गिरवी के कपड़ा के बात कहऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבל תחבל",
+      "rationale": "एके जड़ के दोहराव — 'गिरवी में गिरवी लेना' — हिब्रू के अनिवार्यता के चाल, मगही में एक क्रिया में घटा।"
+    }
+  ],
+  "translation": "अगर गिरवी में तूँ अपन संगी के कपड़ा लेतऽ हऽ, त सूरज डूबे ले ओकरा ओकरा लौटा दे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c2af7ba27c532a768ccf1cc6ff3da38ff52fc8ca557f4944e4e16b00a82d4d52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/22\/25-28.1791988821138.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "חבול",
+      "gloss": "गिरवी में"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "तूँ लेतऽ हऽ"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "अपन संगी के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "בא",
+      "gloss": "डूबे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूरज"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ओकरा लौटा दे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:40:21.138561318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "habakkuk 1:9",
+  "book": "habakkuk",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "मגמת פניהם קדימה",
+      "rationale": "ASV\/JPS 'the set of their faces is forward' बनाम KJV 'sup up as the east wind' — קדימा के पुब-हवा बनाम आगे के अरथ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כחול\/שבי",
+      "rationale": "बालू नियरे कैदी — अनगिनतता के तुलना, मगही में 'नियरे' जोड़ल गेल"
+    }
+  ],
+  "translation": "सब हिंसा बर अवताहथिन; ओकनी के मुँह पुब दने ठाढ़ हकइ; आउ ऊ कैदी के बालू नियरे जुटावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "174a7df9aabb8509ca348d35d8bd9110670b027d09b98329007cd69e748d0a54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/habakkuk\/1\/9-12.1792003818629.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "सब"
+    },
+    {
+      "surface": "לחמס",
+      "gloss": "हिंसा बर"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "अवताहथिन"
+    },
+    {
+      "surface": "מגמת",
+      "gloss": "⟨ओकनी के⟩ धुकन"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पुब दने"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "आउ जुटावऽ हइ"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "बालू नियरे"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "कैदी के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:50:18.629915497Z",
+  "model": "glm-5.3"
+}

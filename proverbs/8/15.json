@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बनावऽ हथिन",
+      "rationale": "יחקקू के साक्षात अरथ 'कोतऽ हथिन \/ खोदऽ हथिन' (बिधान पत्थल पर खोदल जाऽ हलइ) — 'बिधान बनावऽ' ओकर काम-अरथ हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימלכו \/ מלכים",
+      "rationale": "एके जड़ के दोहराव — 'राजा राज करऽ हथिन' — जे मगही में बच गेलइ"
+    }
+  ],
+  "translation": "हमरा से राजा राज करऽ हथिन आउ प्रधान लोग त्सेदेक के बिधान बनावऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5298c9b4aa4fdca0ae007e485b353920cb2b5e71d3e467f379336aacbc41cf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/8\/13-16.1792006572236.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "राज करऽ हथिन"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "आउ प्रधान लोग"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "बनावऽ हथिन"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "त्सेदेक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:12.237483Z",
+  "model": "glm-5.3"
+}

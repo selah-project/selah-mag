@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 20:3",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הטובים",
+      "rationale": "'नीक वाला' — बेटा के विसेसण (सबसे नीक बेटा) या जनाना-बेटा दुनों पर लागू; अनुवादक लोग बाँटल हथिन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לי הוא \/ לי הם",
+      "rationale": "क्रम-वार दोहराव — दावे के ठपकार, दुनों कथन में एके बनावट।"
+    }
+  ],
+  "translation": "आउ ओकरा कहलन: एहने़ कहलन बेन-हदद — तोहर चानी आउ तोहर सोना हमर हकइ, आउ तोहर जनाना आउ तोहर बेटा — नीक वाला — हमर हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5fd382057d5ee7188e7467a62c95c6e35ec7f8e69114c37fa7144ed43a5e97f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/20\/1-4.1791997545776.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने़"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन-हदद"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "बेन-हदद"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "तोहर चानी"
+    },
+    {
+      "surface": "וזהבך",
+      "gloss": "आउ तोहर सोना"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हकइ"
+    },
+    {
+      "surface": "ונשיך",
+      "gloss": "आउ तोहर जनाना"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "आउ तोहर बेटा"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "नीक वाला"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर"
+    },
+    {
+      "surface": "הם",
+      "gloss": "हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:05:45.777301422Z",
+  "model": "glm-5.3"
+}

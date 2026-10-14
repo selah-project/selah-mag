@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "काहे कि ई दुनू",
+      "rationale": "वव-यूड के संग सम्बन्ध साफ करे बर; पिछला पद के तूषिय्या आउ समझ के बोध"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש साँस\/जीवन-बल हकइ, अर्ध-आत्मा नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "גרגרות",
+      "rationale": "गला\/गरदन — कइयो 'गला', कइयो 'गरदन' कहऽ हइ; मगही में 'गरदन' सुभाविक"
+    }
+  ],
+  "translation": "काहे कि ई दुनू तोहर परान बर जीवन होतइ आउ तोहर गरदन पर शोभा होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cbd2feae047deb75fd33cbff78480b913b58e7ffbe45038204beb8b8b2b4845b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/3\/21-24.1792006440481.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "तोहर परान बर"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "आउ शोभा"
+    },
+    {
+      "surface": "לגרחרתיך",
+      "gloss": "तोहर गरदन पर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:34:00.482824070Z",
+  "model": "glm-5.3"
+}

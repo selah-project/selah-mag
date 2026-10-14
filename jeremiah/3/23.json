@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 3:23",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אכן … אכן",
+      "rationale": "'सचमुच … सचमुच' के दोहराव — पहिला पहाड़ के झूठ बर, दोसरा यहवे के तराई बर — समानान्तर बनावट हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "लोड़-कोड़ पहाड़ के",
+      "rationale": "המון हרים — 'पहाड़ के भीड़' (पूजा के टोला) या 'पहाड़ के शोर' — दुनू पढ़ाव मंजूर हइ।"
+    }
+  ],
+  "translation": "सचमुच, झूठ हे गंजाइल पहाड़, पहाड़ के लोड़-कोड़; सचमुच, यहवे हमनी के एलोहीम में यिस्राएल के तराई हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b784688fd9d9aa06084eb4c945503b29b14d3e0338284b34cf5f45782a316826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/3\/21-24.1792000170500.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "झूठ हे"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "गंजाइल पहाड़"
+    },
+    {
+      "surface": "המון",
+      "gloss": "लोड़-कोड़"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़ के"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे में"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "तराई"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:49:30.501276766Z",
+  "model": "glm-5.3"
+}

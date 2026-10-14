@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 9:7",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "एकबचन\/बहुबचन",
+      "rationale": "इब्रानी एक प्रश्न में तूँ (एक) आउ तोहनी जइसन बहुबचन के मिलावऽ हइ — अनुवादक एकरा समान करऽ हथिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हमनी",
+      "rationale": "बेरिबी 'मोर भीतर' में हमनी जोड़ल गेल — मगही में बिना एकर बात अधूरी लागतइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "हिव्वी",
+      "rationale": "यिस्राएली हिव्वी के सीधे सम्बोधन में पूछऽ हइ।"
+    }
+  ],
+  "translation": "आउ यिस्राएल के मरद हिव्वी के कहलन: सायद तूँ ⟨हमनी⟩ के बीच में बसल हऽ — आउ कइसन हम तोहर संग वाचा करबी?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "13a945607580002e073b48087e4f52cea151529219177e00709f44a7a29a85c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/9\/5-8.1791993348373.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "हिव्वी"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "सायद"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "हमनी के बीच में"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बसल हऽ"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "आउ कइसन"
+    },
+    {
+      "surface": "אכרות",
+      "gloss": "वाचा करबी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर संग"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "वाचा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:55:48.374909302Z",
+  "model": "glm-5.3"
+}

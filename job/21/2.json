@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 21:2",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the friends",
+      "rationale": "Job opens with the imperative 'hear' — a summons to his three friends."
+    },
+    {
+      "kind": "crux",
+      "subject": "consolations",
+      "rationale": "תנחומתיכם read as 'your consolations for me' (KJV\/BSB) or 'your consolation from me' — whose comfort is meant."
+    }
+  ],
+  "translation": "हमरा बात ध्यान लगा के सुनऽ, आउ ई ⟨होवे⟩ तोहनी के तसल्ली।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "00383db06d87a353184e16c3989535e4efefd019966bf275390595b339761e57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/21\/1-4.1792007503019.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ध्यान लगा के"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "हमरा बात"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "आउ ⟨होवे⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "תנחומתיכם",
+      "gloss": "तोहनी के तसल्ली"
+    }
+  ],
+  "timestamp": "2026-10-14T19:51:43.019895620Z",
+  "model": "glm-5.3"
+}

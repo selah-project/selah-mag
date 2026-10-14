@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 29:25",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "धोखा देना",
+      "rationale": "רמיתני के जड़ रमा ‘फेंकना\/मारना’ हकइ — मगही में अरथ-स्तर के रूप लेलक, गोला फेंकल के सुर नञ"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הלא … עבדתי",
+      "rationale": "‘नञ … काम कइली हल’ रूढ़ प्रस्न-नकार हकइ जेकर अरथ ‘का हम काम नञ कइली रहली?’ हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "याकोव → लबन",
+      "rationale": "सीधा परति-परति प्रस्न — तीन गोट परति एके साँस में"
+    }
+  ],
+  "translation": "भोर होऽ हइ आउ देखा — ऊ लेआह हलइ; आउ ओ लबन से कहलक, “तूँ हमरा संग ई का कइलहुँ? काहे कि राखेल बर हम तोहरा संग काम नञ कइली हल? आउ काहे तूँ हमरा धोखा देलहुँ?”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5f99937680c877da0d0177d693a0febc0ae76547d2520857aa172deb2fb6d335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/29\/25-28.1791987142582.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "होऽ हइ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआह"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लबन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "कइलहुँ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा संग"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "राखेल बर"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "हम काम कइली हल"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहरा संग"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "आउ काहे"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "तूँ हमरा धोखा देलहुँ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:12:22.583128734Z",
+  "model": "glm-5.3"
+}

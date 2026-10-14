@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "चार उपमा",
+      "rationale": "बादर · ओस · भूसा · धुआँ — चार क्षणभंगुर चीज के एक पाँती; इब्रानी के दोहराव-बनावट मगही में 'जइसन' के दोहराव से बचल हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "מארבה",
+      "rationale": "'झरोका' बनाम 'चिमनी' — जालीदार झरोका\/कबूतर-घर के सब्द; चिमनी के चित्र पाछे के घर के हकइ।"
+    }
+  ],
+  "translation": "एहे से ओकनी भोर के बादर जइसन होतइ, आउ जल्दी जाए वाला ओस जइसन, खलिहान से उड़ा गेल भूसा जइसन, आउ झरोका से निकलल धुआँ जइसन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ca0f4fb742851dcb93bd5d93f75845bdc4db3cb12b255e8bf482080710e96783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/13\/1-4.1792003369035.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "बादर जइसन"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर के"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "आउ … ओस जइसन"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "जल्दी जाए वाला"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "जाए वाला"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "भूसा जइसन"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "उड़ा गेल"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "खलिहान से"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "आउ … धुआँ जइसन"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "झरोका से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:42:49.036498076Z",
+  "model": "glm-5.3"
+}

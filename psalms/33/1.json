@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "मगही के किरिया-रूप; इब्रानी में क्रिया-हीन खण्ड हकइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "गावऽ",
+      "rationale": "पद सीधे धरमी लोग के बोल के पुकारऽ हइ"
+    }
+  ],
+  "translation": "हर्ष के गीत गावऽ धरमी लोग यहवे में; सीधे लोग बर स्तुति सोहतइ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f9ffe45fb34d931b0cbbb06d4112e266f1b27b006bca2088bcc7503e8e40fae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/33\/1-4.1792004885017.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "हर्ष के गीत गावऽ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धरमी लोग"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे में"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "सीधे लोग बर"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "सोहतइ हे"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "स्तुति"
+    }
+  ],
+  "timestamp": "2026-10-14T19:08:05.018206919Z",
+  "model": "glm-5.3"
+}

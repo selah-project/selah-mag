@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 21:25",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "यहवे के आँख में",
+      "rationale": "בעיני יהוה के शाब्दिक तस्वीर रखल गेल — 'यहवे के नजर में' के चलनसार रूप के जगह।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "खुद के बेच देलक",
+      "rationale": "התמכר सही में 'बेच देलक' हकइ — बिक्री के चाल जस के तस पवैतै।"
+    }
+  ],
+  "translation": "बस अहाब जइसन कोनो नञ हलइ, जे यहवे के आँख में बुराई करे बर खुद के बेच देलक, जेकरा ओकर जनाना इजेबेल ⟨את⟩ उकसैलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "977dcc9e3f4d10df9d2f858a83d3cf8d6755b0eaf067c115eb69c1bee39f6f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/21\/25-28.1791997623088.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "बस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "כאחאב",
+      "gloss": "अहाब जइसन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "התמכר",
+      "gloss": "खुद के बेच देलक"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे बर"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँख में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "הסתה",
+      "gloss": "उकसैलक"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "अहाब"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "इजेबेल"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ओकर जनाना"
+    }
+  ],
+  "timestamp": "2026-10-14T17:07:03.089685460Z",
+  "model": "glm-5.3"
+}

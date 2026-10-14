@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "साँझ ले",
+      "rationale": "आदमी के काम के दिन के नाप — सुरुज उगला से साँझ ले"
+    }
+  ],
+  "translation": "आदमी अपन काम करे निकरऽ हइ आउ अपन मेहनत करऽ हइ साँझ ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e7b141356948e4cd92bb06f6f5e2f705ad6ad6ab93b8c20b8b5a2a07d0ec7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/104\/21-24.1792005789666.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "निकरऽ हइ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "अपन काम करे"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "आउ अपन मेहनत करऽ हइ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ले"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:09.667117377Z",
+  "model": "glm-5.3"
+}

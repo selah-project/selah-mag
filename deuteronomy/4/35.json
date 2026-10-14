@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हראית",
+      "rationale": "हिब्रू 'तूँ देखावल गेला' — कारक क्रिया हकइ; मगही में करम-रूप में आइल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩",
+      "rationale": "हוא के बाद मगही क्रिया चाही; हिब्रू क्रिया विहीन ठहरावल वाक्य हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल के परजा",
+      "rationale": "घोसना तोहनी के ओर हकइ — शमा के साँझ हकइ।"
+    }
+  ],
+  "translation": "तोहनी के देखावल गेलन एकर जानबे बर कि यहवे ऊ ⟨हकइ⟩ एलोहीम; ओकरा छोड़िके दोसर कोनो नञ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cfdeedfa4b2e5dc6cdec02ecb1a8524350bf5a06077d20111b4287955c9943dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/4\/33-36.1791992140366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "देखावल गेलन"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "जानबे बर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ हकइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "दोसर कोनो"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "ओकरा छोड़िके"
+    }
+  ],
+  "timestamp": "2026-10-14T15:35:40.367089063Z",
+  "model": "glm-5.3"
+}

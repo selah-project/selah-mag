@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 27:2",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "इब्रानी में क्रिया नञ हकइ — सूची के ढाँचा; मगही के पूरा बाक्य बर क्रिया जोड़ल गेलन।"
+    }
+  ],
+  "translation": "पहिला टुकड़ी पर, पहिला महीना बर, याशोबाम हलन, जबदिएल के बेटा; आउ ओकर टुकड़ी पर बीस आउ चार हजार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7457e84ce4292d8094b74b6dddfd3ee06a3ab4847d01b152933f00ac85d65b00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/27\/1-4.1792010536416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המחלקת",
+      "gloss": "टुकड़ी"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीना बर"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "ישבעם",
+      "gloss": "याशोबाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "זבדיאל",
+      "gloss": "जबदिएल"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ … पर"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "ओकर टुकड़ी"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "आउ चार"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-10-14T20:42:16.417605383Z",
+  "model": "glm-5.3"
+}

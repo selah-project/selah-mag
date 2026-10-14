@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चरावऽ हइ",
+      "rationale": "ירעו के मूल अरथ गोरु-गिन्नी चराना हकइ; 'सिखावऽ हइ' (wycliffe) नञ लेल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हिरदय के कमी",
+      "rationale": "חסר לב साहित्यिक बिधा के जड़ी अरथ 'समझ के कमी' हकइ; शब्द-रूप हिरदय रखल गेल"
+    }
+  ],
+  "translation": "सजाय के होंठ ढेर लोग के चरावऽ हइ, बाकि मूरख लोग हिरदय के कमी में मर जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "35e2dedde7db6097628b2f0c28a78ac0d4091f87c8c1dcafc5b61ba04f31d46b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/10\/21-24.1792006618612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "होंठ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "सजाय के"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "चरावऽ हइ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर लोग के"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "बाकि मूरख लोग"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "के कमी में"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "मर जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:58.613162920Z",
+  "model": "glm-5.3"
+}

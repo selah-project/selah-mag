@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 17:24",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "जनाना एलियाहू से",
+      "rationale": "सीधा सम्बोधन: अबहीं हम जानली जे तूँ एलोहीम के आदमी हऽ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हऽ",
+      "gloss": "मगही क्रिया-हाजिर चाहऽ हइ, इब्रानी में सहायक क्रिया नञ हकइ",
+      "rationale": "copula added for Magahi"
+    }
+  ],
+  "translation": "आउ ओ जनाना एलियाहू से कहलक: अबहीं एकरा से हम जानली जे तूँ एलोहीम के आदमी हऽ, आउ जे यहवे के बात तोहर मुँह में सच हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dbfafb97c33258db20bff1d23c6a40fd6da4d040e47351e0e128ca9a326cb74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/17\/21-24.1791997354825.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ओ जनाना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहू"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "זה",
+      "gloss": "एकरा से"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "हम जानली"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ हऽ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "तोहर मुँह में"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच"
+    }
+  ],
+  "timestamp": "2026-10-14T17:02:34.826288066Z",
+  "model": "glm-5.3"
+}

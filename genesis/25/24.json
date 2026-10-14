@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 25:24",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हलन⟩",
+      "rationale": "इब्रानी में क्रिया नञ हकइ — 'देखऽ, जुड़वाँ ओकर पेट में'; मगही के पूरा बाक्य बर क्रिया चाही।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दिन",
+      "rationale": "जनमे के समय दिन गिनल जा हइ — ओकर दिन भर गेलन।"
+    }
+  ],
+  "translation": "आउ ओकर दिन जनमे बर भर गेलन, आउ देखऽ — ओकर पेट में जुड़वाँ ⟨हलन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bc1420cd9c843b7c4e516b153255083dfcefa482f0fc0014e89bdbb2d55c784f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/25\/21-24.1791986944295.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "भर गेलन"
+    },
+    {
+      "surface": "ימיה",
+      "gloss": "ओकर दिन"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "जनमे बर"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "תומם",
+      "gloss": "जुड़वाँ"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "ओकर पेट में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:09:04.296672792Z",
+  "model": "glm-5.3"
+}

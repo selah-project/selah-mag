@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 63:16",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "पहिला छी 'काहे कि' या 'निश्चित हकइ' — केजेबी 'doubtless', वाईएलटी 'for'; हमनी कारण वाला रूप लेलिऐ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גואל",
+      "rationale": "गोएल सगाई के बिधान के अपन किनमई वाला हकइ; 'मुक्ति दिअल वाला' छोट कइल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हऽ",
+      "rationale": "हिब्रू में क्रिया छूटल हइ; मगही के बाक्य बर जोड़ल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रार्था यहवे के सम्बोधन — तूँ हमनी के बाप।"
+    }
+  ],
+  "translation": "काहे कि तूँ हमनी के बाप हऽ — काहे कि अवराहाम (अब्राहम) हमनी के नञ जानऽ हइ, आउ यिस्राएल (इस्राएल) हमनी के नञ पहिचानऽ हइ — तूँ, हे यहवे, हमनी के बाप हऽ; हमनी के मुक्ति दिअल वाला; अनादि से तोहर नाम हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ef119106f566a78f94bec01c588c109635a08d0a0bb9667fd029b06ead5efac1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/63\/13-16.1791999918461.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "हमनी के बाप"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "जानऽ हइ (हमनी के नञ)"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "आउ यिस्राएल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "पहिचानऽ हइ (हमनी के नञ)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "हमनी के बाप"
+    },
+    {
+      "surface": "גאלנו",
+      "gloss": "हमनी के मुक्ति दिअल वाला"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "अनादि से"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम"
+    }
+  ],
+  "timestamp": "2026-10-14T17:45:18.462137899Z",
+  "model": "glm-5.3"
+}

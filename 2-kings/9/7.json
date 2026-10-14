@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मालिक",
+      "rationale": "אדניך मनुस बर हइ — अहाब येहू के मालिक — एहे से “मालिक”, न कि “अदोनाय”।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמי…ודמי",
+      "rationale": "“खून के… आउ खून के” — दू हाँट के दोहराव, बदला के दू हिस्सा (नबी आउ सब सेवक)।"
+    }
+  ],
+  "translation": "“आउ तूँ तोहर मालिक अहाब के ⟨את⟩ घर के मार देबउ — ताकि हम हमरा नबी सेवकन के खून के बदला लेबइ, आउ यहवे के सब सेवकन के खून के — इजेबेल के हाथ से।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ef9fc95e6c92bbced58637f31d26d1e5e1d72c43b026fda6bb4c0af57517bfe7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/9\/5-8.1791997888186.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "मार देबउ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "तोहर मालिक"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "बदला लेबइ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "खून के"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "सेवकन"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "आउ खून के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "सेवकन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "इजेबेल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:11:28.187300906Z",
+  "model": "glm-5.3"
+}

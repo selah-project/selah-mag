@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 38:21",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "Hebrew lacks copula before רבים"
+    },
+    {
+      "kind": "crux",
+      "subject": "ידעת כי אז תולד",
+      "rationale": "statement ('you know, for then you were born') vs sarcastic question ('do you know because you were born?')"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के बचन अय्यूब से",
+      "rationale": "God's rhetorical address to Job continues"
+    }
+  ],
+  "translation": "तूँ जानऽ हकिस, काहे कि तबे जन्मल हला, आउ तोहर दिन के गिनती ढेर ⟨हइ⟩?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7f3bcddf8957dfa69d99b4fcd933a31116a69114508ac44a828cc81783f1928b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/38\/21-24.1792007838011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "तूँ जानऽ हकिस"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तबे"
+    },
+    {
+      "surface": "תולד",
+      "gloss": "जन्मल हला"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "आउ गिनती"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "तोहर दिन के"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:57:18.012120468Z",
+  "model": "glm-5.3"
+}

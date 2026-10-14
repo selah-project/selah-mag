@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 16:11",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מעי",
+      "rationale": "'bowels\/inwards' as seat of feeling — rendered 'अँदर के अंग', inner parts."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קיר חרש",
+      "rationale": "Kir-Heres ('wall of potsherd') puns with Kir-Moab\/Kir-Hareseth; kept as name."
+    }
+  ],
+  "translation": "एही कारण मोआब बर हमर अँदर के अंग किनारा के साज़ नियन गूँजऽ हइ, आउ हमर हिरदय किर-खेरेस बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bf9593849a5e5153b36bb4168f6b9b067a8895822ab24fa9211e4cbe4a7827e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/16\/9-12.1791998873361.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एही कारण बर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही कारण"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "हमर अँदर के अंग"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "मोआब बर"
+    },
+    {
+      "surface": "ככנור",
+      "gloss": "किनारा के साज़ नियन"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "गूँजऽ हइ"
+    },
+    {
+      "surface": "וקרבי",
+      "gloss": "आउ हमर हिरदय"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "किर-खेरेस बर"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "खेरेस"
+    }
+  ],
+  "timestamp": "2026-10-14T17:27:53.362435992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "फल",
+      "rationale": "אחרית के अरथ 'अन्त\/आगें के भबिस' हकइ; 'फल' जोड़ल गेलइ काहे कि मगही में एके सब्द पूरा अरथ नञ देतइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרית",
+      "rationale": "'अन्त\/आगें के भबिस' बनाम 'बिसतार\/संतति' (ylt: posterity) — कोनो ठीक मगही सब्द दुनो अरथ के नञ धरऽ हइ"
+    }
+  ],
+  "translation": "काहे कि निस्चित ही आगें के ⟨फल⟩ हकइ, आउ तोहर आस नञ काटल जतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fed1001da8e9e5cb021f68ee88ec0019e4515ee69cb8fa2ad3fa5657dd334ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/23\/17-20.1792006923671.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "निस्चित ही"
+    },
+    {
+      "surface": "יש",
+      "gloss": "हकइ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "आगें के ⟨फल⟩"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "आउ तोहर आस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "काटल जतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:42:03.672033966Z",
+  "model": "glm-5.3"
+}

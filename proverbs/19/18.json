@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשא נפשך",
+      "rationale": "KJV 'मत छोड़', YLT\/JPS 'ओकर मारे के बर परान मत उठाव' — शाब्दिक रूप रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "paran",
+      "rationale": "नפש परान-प्राण हकइ, आत्मा नञ"
+    },
+    {
+      "kind": "you",
+      "subject": "बाप",
+      "rationale": "पद सीधे पिता के सम्बोधन हकइ"
+    }
+  ],
+  "translation": "अपन बेटा के ताड़ना कर, काहे कि ⟨आस बरे⟩ समय हइ; आउ ओकरा मारे के बर अपन परान मत उठाव।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bad42d7a68c4700fffe7c247ac07c1e0cb354901859946ed401a490fc0e3ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/19\/17-20.1792006830347.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "ताड़ना कर"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "अपन बेटा के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יש",
+      "gloss": "हइ"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "आस"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ…के बर"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ओकरा मारे के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "उठाव"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "अपन परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:30.348000306Z",
+  "model": "glm-5.3"
+}

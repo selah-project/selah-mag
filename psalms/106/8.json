@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויושיעם",
+      "rationale": "'he saved them' rendered छोड़ देलन (delivered\/rescued); Magahi has no single dedicated verb for the y-sh-‘ rescue sense."
+    },
+    {
+      "kind": "addition",
+      "subject": "बाकि",
+      "rationale": "'nevertheless' contrastive supplied at the head, as the versions do, marking the turn from rebellion to rescue."
+    }
+  ],
+  "translation": "बाकि ऊ ओकनी के ओकर नाम के खातिर छोड़ देलन, ⟨את⟩ ओकर बल के जनावे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/106\/5-8.1792005885545.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "बाकि ऊ ओकनी के छोड़ देलन"
+    },
+    {
+      "surface": "למען",
+      "gloss": "के खातिर"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "जनावे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बल"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "ओकर बल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:45.546562527Z",
+  "model": "glm-5.3"
+}

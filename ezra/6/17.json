@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 6:17",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बलि के गिनती",
+      "rationale": "चार गिनती (100\/200\/400\/12) आउ बार कुल के गिनती — गिनती बर गढ़ल ढाँचा।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "एलाहा",
+      "rationale": "ए अरामी पद हकइ (אלהא), इब्रानी אלהים नञ — एकरा एलाहा लिप्यन्तरन कएल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תרי עשר",
+      "rationale": "अरामी के दू-दस (बार) यिस्राएल के बार कुल संग जुड़ल हे — संख्या-प्रतीक, मगही में साफ।"
+    }
+  ],
+  "translation": "आउ एलाहा के ए घर के शुद्ध-करे बर बलि कइलन — बैल सौ, भेड़-मरद दू सौ, मेमना चार सौ, आउ बकरी के बोका बार, पाप-बलि बर सब यिस्राएल बर, यिस्राएल के कुल के गिनती के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "390652fcd415b9f860c70f66242fd8778ea921a533c1b5cbc1d44cd70b6baf2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/6\/17-20.1792009295241.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "बलि कइलन"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "शुद्ध-करे बर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "एलाहा के"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "תורין",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "דכרין",
+      "gloss": "भेड़-मरद"
+    },
+    {
+      "surface": "מאתין",
+      "gloss": "दू सौ"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וצפירי",
+      "gloss": "आउ बोका"
+    },
+    {
+      "surface": "עזין",
+      "gloss": "बकरी के"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "पाप-बलि बर"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "למנין",
+      "gloss": "गिनती के मोताबिक"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "कुल के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:21:35.242210787Z",
+  "model": "glm-5.3"
+}

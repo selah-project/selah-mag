@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבות",
+      "rationale": "बन्धकी के फेर लाना — या 'बन्धकी' मात्र; שוב के संग ई क्रिया-नाम हकइ, फेर-अनै के अरथ"
+    },
+    {
+      "kind": "elision",
+      "subject": "עלי",
+      "rationale": "मूलपाठ में करता 'मैं' क्रिया-रूप में एहीं छिपल हे, अलग सर्बनाम नञ"
+    }
+  ],
+  "translation": "काहे कि देखऽ, ओही दिन में आउ ओही समय में, जब हम यहूदा आउ यरूशलयिम (यरूशलेम) के ⟨את⟩ बन्धकी के फेर अनाबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b6cf6963f1864771f3262726935207976b11e55b038b4f936c806bdb5674f15e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joel\/4\/1-4.1792003491971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "आउ समय में"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "फेर अनाबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बन्धकी"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "बन्धकी"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "आउ यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-10-14T18:44:51.971894682Z",
+  "model": "glm-5.3"
+}

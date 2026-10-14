@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "रहतइ",
+      "rationale": "दोसरा पंक्ति में क्रिया हिब्रू में नञ हइ — पहिला पंक्ति के ताल मिलाबे बर जोड़ल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצת · מחשבות",
+      "rationale": "पद 10 के सब्द एहूं पलट दने लौटऽ हइ — जाति के सलाह टूटऽ हइ, यहवे के सलाह ठाढ़ रहऽ हइ"
+    }
+  ],
+  "translation": "यहवे के सलाह सदा-सदा ठाढ़ रहतइ; ओकर हिरदय के विचार पीढ़ी आउ पीढ़ी लेबे ⟨रहतइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/33\/9-12.1792004841172.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा-सदा"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ठाढ़ रहतइ"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "विचार"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर हिरदय के"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "आउ पीढ़ी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:21.172778082Z",
+  "model": "glm-5.3"
+}

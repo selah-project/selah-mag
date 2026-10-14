@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Samuel",
+      "rationale": "लोग शमुएल से सीधे बात करऽ हइ — पहिला पढ़निहार ई बचन के गवाह हऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "מי האמר",
+      "rationale": "इब्रानी पाठ बिना 'नञ' के पुछऽ हइ; केजेबी\/बीएसबी 'नञ' जोड़ऽ हइ — मगही पाठ इब्रानी के आकार जस के तस रखलक हे।"
+    }
+  ],
+  "translation": "आउ लोग कहलन शमुएल (शमूएल) के — कुन हकइ जे कहलक, शाऊल हमनी पर राज करतइ? ओ मनईन के देवऽ, आउ हमनी ओकनी के मार देबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "26e84aeb18a856090a5f53d9d4699df1b53e0f81a923fd12667a4cc8d7cc5114",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/11\/12-12.1792011708832.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के —"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल (शमूएल)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कुन"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "हकइ जे कहलक"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "राज करतइ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी पर"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "देवऽ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ओ मनईन के"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "आउ हमनी ओकनी के मार देबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T21:01:48.832702858Z",
+  "model": "glm-5.3"
+}

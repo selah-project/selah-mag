@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 2:42",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנה ואנה",
+      "rationale": "एके सब्द दू बेर — इधर आउ उधर — इब्रानी के दोहराव, मगही में इधर-उधर से रखल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות תמות",
+      "rationale": "क्रिया के दोहराव (मरना मरतइ) — पक्का कहे के इब्रानी ढंग"
+    }
+  ],
+  "translation": "आउ राजा शिमी के बेस कहलन बुलवलन आउ ओकरा कहलन: की हम तोहरा यहवे के नाम पर सौंघ नञ देलनइ आउ तोहरा चेतवनी नञ देलनइ कि जे दिन तूँ बाहर निकलऽ हइ आउ इधर-उधर जाऽ हइ, जान ले — जानतइ — कि तूँ जरूर मरतइ? आउ तूँ हमरा कहलक — जे बात हम सुनलिये ऊ भला हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d37254abe441847c829956ba9785e712efa6f9698a49fe962f3ef438b8dfa8c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/2\/41-44.1791996753300.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "बेस कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "बुलवलन"
+    },
+    {
+      "surface": "לשמעי",
+      "gloss": "शिमी के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "की … नञ"
+    },
+    {
+      "surface": "השבעתיך",
+      "gloss": "सौंघ देलनइ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे के नाम पर"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "आउ चेतवनी देलनइ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "जे दिन"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "तोहरा बाहर निकलऽ हइ"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "आउ जाऽ हइ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "इधर"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "उधर"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जान ले"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "जानतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מות",
+      "gloss": "जरूर मर"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "मरतइ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "सुनलिये"
+    }
+  ],
+  "timestamp": "2026-10-14T16:52:33.301150806Z",
+  "model": "glm-5.3"
+}

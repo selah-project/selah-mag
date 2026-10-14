@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 12:6",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकनी \/ ओकरा",
+      "rationale": "हिब्रू में बाक्य-कर्म उपसर्ग में जुड़ल हइ (הכום, ויתנה); मगही में सर्बनाम अलग जोड़ल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "बिरासत बाँट",
+      "rationale": "कबीला-हिसाब के बाँट के गिनती-विवरण"
+    }
+  ],
+  "translation": "मोशे यहवे के नौकर आउ यिस्राएल के बेटा सब ⟨ओकनी⟩ मार देलन; आउ मोशे यहवे के नौकर ⟨ओकरा⟩ रुबेनी सब के, गादी सब के आउ मनश्शे कबीले के आधा हिस्सा के बरस बिरासत देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3de8f4b4d1bb35b97a7b2d649fa6b7d90f0d99a6e05619671e9e633f8bf8f958",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/12\/5-8.1791993512408.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "नौकर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आउ बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "הכום",
+      "gloss": "मार देलन"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "आउ देलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "नौकर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "बिरासत"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "रुबेनी सब के बरस"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "आउ गादी सब के बरस"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "आउ आधा हिस्सा के बरस"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "कबीले के"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "मनश्शे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:58:32.409320778Z",
+  "model": "glm-5.3"
+}

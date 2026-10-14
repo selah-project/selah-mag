@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "करता साफ करे खातिर जोड़ल गेल, इब्रानी में नञ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זקן",
+      "gloss": "",
+      "rationale": "जकन एके साथ 'दाढ़ी' आउ 'बूढ़ापन' दूनो हकइ — आधा दाढ़ी मुँड़वावल इज्जत के लगभग मार देबा हल"
+    }
+  ],
+  "translation": "तब खानुन दाविद के नौकरनी के पकड़ लेलन, आउ ⟨अपन⟩ ओकरा दाढ़ी के आधा मुँड़वालन, आउ ⟨अपन⟩ ओकरा कपड़ा आधा ले काट देलन — चूतड़ तक — आउ ओकरा बेसी भेज देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "335ae3ebed060cd4537d3415e3503f73cbaaad6c0c9e77a50136ad84a49638cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/10\/1-4.1791996046978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "पकड़ लेलन"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "खानुन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाविद के नौकरनी के"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "नौकर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "आउ मुँड़वालन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाढ़ी के आधा"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आधा"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "ओकनी के दाढ़ी"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "आउ काट देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के कपड़ा"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ओकनी के कपड़ा"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "आधा ले"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "ओकनी के चूतड़"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "आउ ओकरा बेसी भेज देलन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:40:46.980663218Z",
+  "model": "glm-5.3"
+}

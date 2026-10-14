@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨तूँ⟩",
+      "rationale": "हमर एलोअह आउ हमर राजा दुनों सम्बोधन हइ — मगही में सम्बोधन-शब्द चाही"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के ओर, दाविद के बोली",
+      "rationale": "पूरा गीत एक सीधा सम्बोधन हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעולם ועד",
+      "rationale": "दू बरताविक सब्द एके अरथ बढ़ावे बर — 'सदा आउ हमेसा तलक' एकरा बनावट रखऽ हइ"
+    }
+  ],
+  "translation": "प्रसंसा-गीत, दाविद (दाऊद) के। हम तोहनी ऊँचा करतइ, हमर एलोअह, ⟨तूँ⟩ राजा; आउ हम तोहर नाम के असीस देबइ सदा आउ हमेसा तलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/145\/1-4.1792006389747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "प्रसंसा-गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "हम तोहनी ऊँचा करतइ"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "हमर एलोअह"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "आउ हम असीस देबइ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम के"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ हमेसा तलक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:33:09.747869913Z",
+  "model": "glm-5.3"
+}

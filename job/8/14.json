@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 8:14",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יקוט כסלו",
+      "rationale": "'ओकर भरोसा काटल जातइ' (KJV\/ASV) बनाम 'ओकर भरोसा घिनौना हकइ' (JPS\/ YLT) — काटार vs बासी।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩",
+      "rationale": "इब्रानी क्रिया-हीन बाक्य में मगही के क्रिया जोड़ल।"
+    }
+  ],
+  "translation": "जेकर भरोसा काट देल जातइ, आउ मकड़ी के घर ⟨हकइ⟩ ओकर आधार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1fbb6e9064788810727e4e0f96ccd6f54c98634d3b252371107e7a33bc4756d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/8\/13-16.1792007213163.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יקוט",
+      "gloss": "काट देल जातइ"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "भरोसा"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आउ घर"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "मकड़ी के"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "ओकर आधार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:46:53.164420621Z",
+  "model": "glm-5.3"
+}

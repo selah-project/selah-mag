@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "एलोहीम",
+      "rationale": "पद एलोहीम केँ सीधा सम्बोधन करऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעיים",
+      "rationale": "'עי' (खंडहर) के बहुबचन; अनुवाद में बहुबचन के भाव खंडहर शब्द में समाहित हो गेल"
+    }
+  ],
+  "translation": "असाफ के गीत। हे एलोहीम, जाति सब तोहर बिरसत में अइलन; ओकनी तोहर पवित्तर मन्दिर ⟨את⟩ गन्दगी कइलन; यरूशलयिम केँ ⟨את⟩ ओकनी खंडहर बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd81df0e54f4d266d36d3234b5ea3b932259dec5977cf30a68608337529de99c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/79\/1-4.1792005577989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "असाफ के"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "באו",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "तोहर बिरसत में"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "गन्दगी कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर पवित्तर मन्दिर"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "मन्दिर"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "तोहर पवित्तर"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यरूशलयिम केँ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "खंडहर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:37.990446938Z",
+  "model": "glm-5.3"
+}

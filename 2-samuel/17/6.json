@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 17:6",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם אין",
+      "rationale": "'यदि नहीं' के छोट रूप — 'अथवा नहीं?', मगही में 'कि नञ' से घुलानल"
+    },
+    {
+      "kind": "you",
+      "subject": "to हूशै",
+      "rationale": "अबशालोम हूशै से प्रत्यक्ष प्रस्न आउ आदेश"
+    }
+  ],
+  "translation": "आउ हूशै अबशालोम के पास अइलन, आउ अबशालोम ओकरा कहऽ लगलन: “अखितोफेल अइसन बात कहलन हे; ⟨את⟩ ओकर बात के करी कि नञ करी? तूँ बताव।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7562bbb4611d39fecddb8d8d2605f2e40edf7bef9b0a16b42966aec4b40f11e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/17\/5-8.1791996293143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "हूशै"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ लगलन"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "अइसन बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "अखितोफेल"
+    },
+    {
+      "surface": "הנעשה",
+      "gloss": "करी कि नञ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बात के"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ओकर बात"
+    },
+    {
+      "surface": "אם",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बताव"
+    }
+  ],
+  "timestamp": "2026-10-14T16:44:53.143897723Z",
+  "model": "glm-5.3"
+}

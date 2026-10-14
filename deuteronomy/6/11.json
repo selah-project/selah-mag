@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 6:11",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ושבעת",
+      "rationale": "'तृप्त होना' — जड़ שבע, पद 10 के नשבע (कसम) के संग गूँज; 'पेट भर जइबइ' में चित्र त बचल, जड़ के गूँज नञ"
+    },
+    {
+      "kind": "addition",
+      "subject": "होतन",
+      "rationale": "हिब्रू में क्रिया-विशेषण के आगे भबिस-भूत के कड़ी — मगही में 'होतन' जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ घर जे सब नीक चीज से भरल होतन, जेकरा तूँ नञ भरल हवऽ, आउ कुइयाँ जे काटल-तरासल होतन, जेकरा तूँ नञ काटल-तरासल हवऽ, अंगूर के बारी आउ जैतून के गाछ, जेकरा तूँ नञ रोपल हवऽ, आउ तूँ खइबइ आउ पेट भर जइबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d7fb53a9cfb304c68e6e3cd85885b49b85e4abe1083bee400de1bdf009fbcba4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/6\/9-12.1791992070524.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובתים",
+      "gloss": "आउ घर"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीक चीज"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "भरल हवऽ"
+    },
+    {
+      "surface": "וברת",
+      "gloss": "आउ कुइयाँ"
+    },
+    {
+      "surface": "חצובים",
+      "gloss": "काटल-तरासल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "חצבת",
+      "gloss": "काटल-तरासल हवऽ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "अंगूर के बारी"
+    },
+    {
+      "surface": "וזיתים",
+      "gloss": "आउ जैतून के गाछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נטעת",
+      "gloss": "रोपल हवऽ"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "आउ तूँ खइबइ"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "पेट भर जइबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:34:30.525481096Z",
+  "model": "glm-5.3"
+}

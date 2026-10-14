@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हइ⟩",
+      "rationale": "मगही के क्रिया चाही जे इब्रानी ओकरा छोड़ देलक हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא אנחנו",
+      "rationale": "केतिब 'आउ हम नञ (आपन के बनइलन)' बनाम केरी 'लאו' — 'आउ हम ओकरे के हइ'"
+    },
+    {
+      "kind": "you",
+      "subject": "परजा के अगाँ",
+      "rationale": "जानऽ — मन्दिर में आवल लोग के सीधे सम्बोधन"
+    }
+  ],
+  "translation": "जानऽ कि यहवे ऊ ⟨हइ⟩ एलोहीम; ऊ हमनी के बनइलन, आउ हम नञ ⟨आपन के⟩; हमनी ⟨हइ⟩ ओकर लोग आउ ओकर चरागाह के भेड़।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/100\/1-4.1792005831475.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "जानऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "हमनी के बनइलन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हम"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर लोग"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "आउ भेड़"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "ओकर चरागाह के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:51.475973642Z",
+  "model": "glm-5.3"
+}

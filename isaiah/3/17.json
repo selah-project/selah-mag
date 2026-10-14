@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 3:17",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פתהן",
+      "rationale": "hapax; 'छिद्र' (माथे का भाग) बनाम 'गुप्त अंग' (KJV) बनाम 'कपाल' (YLT) — कोनो रूप पक्का नञ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פתהן",
+      "rationale": "lemma פֹּת तनाख़ में केवल इहेँ आवऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "⟨माथा⟩ खोल देतन",
+      "rationale": "יערה 'नंगा करना \/ उड़ा देना'; ठीक जगह के नाम इब्रानी में פתהרै हकइ"
+    }
+  ],
+  "translation": "अदोनाय जियोन के बेटी सब के मूड़ी के शिखर पर छाली फैला देतन, आउ यहवे ओकनी के ⟨माथा⟩ खोल देतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "08761c1d77bb90d66ae3ee5e89da76a7cc74d48af1e64381aed32daadb8e865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/3\/17-20.1791998604168.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפח",
+      "gloss": "छाली फैला देतन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "मूड़ी के शिखर"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटी सब"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "जियोन"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "פתהן",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "खोल देतन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:23:24.169066403Z",
+  "model": "glm-5.3"
+}

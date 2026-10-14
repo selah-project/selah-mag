@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ \/ हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के बाक्य बर कोस्ठक में जोड़ल"
+    },
+    {
+      "kind": "crux",
+      "subject": "סלה",
+      "rationale": "संगीत-चिन्हा के अरथ अनिश्चित — विराम या संगीत-निर्देस; लिप्यन्तरन रखलन"
+    }
+  ],
+  "translation": "यहवे के हकइ ⟨हइ⟩ मुक्ति; तोहर आसीस तोहर लोग पर ⟨हकइ⟩। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1e5256742b8da765fc6a8e55eeb049274ecfd9ef0927008167d0942e4b06c099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/3\/9-9.1792004372417.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के हकइ"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "मुक्ति"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहर लोग"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "तोहर आसीस"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T18:59:32.418216588Z",
+  "model": "glm-5.3"
+}

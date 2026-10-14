@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 1:11",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "कुल गिनती",
+      "rationale": "कुल ५४०० — बाकि पद ९–१० के मँजिस के जोड़ (~२४९९) एकरा तक नञ पहुँचऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हגולה",
+      "rationale": "गोला — बन्धन से निकलल (देस-निकलल) लोग; 'बंदी' से अरथ पतर हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जब…तब",
+      "rationale": "मगही के बनावट बर जोड़ल गेल जोड़-सब्द; इब्रानी में काल-उपवाक्य संग गढ़ल हकइ।"
+    }
+  ],
+  "translation": "सोना आउ चानी के सब बरतन पाँच हजार आउ चार सौ रहल; जब देस-निकलल लोग बाबेल से यरूशलयिम (यरूशलेम) के चढ़लन, तब ऊ सब शेशबत्सर ले अइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/1\/9-11.1792009148615.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "बरतन"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "सोना बर"
+    },
+    {
+      "surface": "ולכסף",
+      "gloss": "आउ चानी बर"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आउ चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ऊ सब"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ले अइलन (चढ़ालन)"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "शेशबत्सर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "चढ़ल के संग"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "देस-निकलल लोग (गोला)"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "बाबेल से"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "यरूशलयिम के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:19:08.616954271Z",
+  "model": "glm-5.3"
+}

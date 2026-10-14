@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש गला\/परान\/जीव-शक्ति हकइ — 'आत्मा' नञ; इहाँ खाए के इच्छा माने बेचैनी बतावल गेल हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "אין כל בלתי אל המן",
+      "rationale": "'हमनी के आगे मान बाकि' बनाम 'मान छोड़ के कुछो नञ' — पुरान अनुवादन में दुइ पढ़ाई"
+    }
+  ],
+  "translation": "आउ अब हमनी के परान सूख गेलइ हे; कुछो नञ बचल हे, खाली मान बाकि — ओहे हमनी के आँखी के आगे हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/11\/5-8.1791990931892.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "हमनी के परान"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "सूख गेलइ हे"
+    },
+    {
+      "surface": "אין",
+      "gloss": "कुछो नञ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "बचल"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "אל",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "המן",
+      "gloss": "मान"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "हमनी के आँखी के आगे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:15:31.893511039Z",
+  "model": "glm-5.3"
+}

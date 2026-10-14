@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 3:5",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चढ़ाव बलि",
+      "rationale": "עלה के साक्षात चित्र 'ऊपर जाये वाला' हकइ; 'होलोकॉस्ट' बाद के रूप हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "हर दिन \/ अमावस \/ समा-परब",
+      "rationale": "बलि-पट्टी के गिनती आउ नियत समा — काल-नियमन के सूची।"
+    }
+  ],
+  "translation": "आउ ओकरा बाद हर दिन के चढ़ाव बलि, आउ अमावस के, आउ यहवे के सब समा-परब के — जे पवित्तर करल गेल हल — आउ जे कोनो स्वेच्छा से यहवे के भेंट देवऽ चाहऽ हल, ओकरो।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "51a95af595ec64a53451fff6268b72a2a16b0354979a6905650df2c3a63407a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/3\/5-8.1792009353674.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "आउ …के बाद"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "चढ़ाव बलि"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "हर दिन के"
+    },
+    {
+      "surface": "ולחדשים",
+      "gloss": "आउ अमावस के"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "समा-परब के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "המקדשים",
+      "gloss": "पवित्तर करल गेल"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "आउ जे कोनो"
+    },
+    {
+      "surface": "מתנדב",
+      "gloss": "स्वेच्छा से देवै वाला"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:22:33.674937803Z",
+  "model": "glm-5.3"
+}

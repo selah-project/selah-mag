@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 24:25",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बर",
+      "rationale": "מזבח ליהוה के construct-संबंध बर से पार होवऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויעתר",
+      "rationale": "'जला के मिनती करना' — इहाँ 'बिनती सुनलन' रूप में; मूल पद के अरथ काम के जवाब देना हकइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "पहिला आगमन कोस्ठक",
+      "rationale": "दाविद आउ यिस्राएल के चलनसार रूप कोस्ठक में देखाइल गेल"
+    }
+  ],
+  "translation": "आउ दाविद (दाऊद) ओहिँ यहवे बर बेदी बनइलन, आउ जरावे बलि आउ शांति-बलि चढ़ाइलन; आउ यहवे धरती के बिनती सुनलन, आउ महामारी यिस्राएल के ऊपर से रुक गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e552cecbcf4a70702f35d255d8b8319f879f0ed126df30f60b56b8a4c77b7a17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/24\/25-25.1791996543738.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिँ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद (दाऊद)"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़ाइलन"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "जरावे बलि"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "आउ शांति-बलि"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "बिनती सुनलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "आउ रुक गेलइ"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "महामारी"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "के ऊपर से"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:49:03.739105051Z",
+  "model": "glm-5.3"
+}

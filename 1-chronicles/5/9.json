@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "जंगल-बाड़ी",
+      "rationale": "מדברह ה directional 'जंगल के ओर' के चिन्हा; मगही के दिशा-प्रत्यय नञ हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "מדברה के अन्तिम ह",
+      "rationale": "इब्रानी के directional-he (ओर जाए के अरथ) मगही में अलग रूप में पार नञ हो सकऽ हइ"
+    }
+  ],
+  "translation": "आउ पुबु दने ऊ बसलन, जंगल-बाड़ी के दुआरी ले, फरात नदी से, काहे कि ओनकर माल-जाल गिलअद के धरती में बहुत बढ़ गेलन हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f1c0a151bed1fe92ec8ab1f0875548163ffbf5fbbcf837f02ba4920e03afb080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/5\/9-12.1792009939847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "आउ पुबु दने"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बसलन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "जंगल-बाड़ी के"
+    },
+    {
+      "surface": "למן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "फरात"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ओनकर माल-जाल"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "बढ़ गेलन"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलअद"
+    }
+  ],
+  "timestamp": "2026-10-14T20:32:19.847948171Z",
+  "model": "glm-5.3"
+}

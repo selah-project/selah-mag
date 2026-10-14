@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बहा देलन",
+      "rationale": "זרם के सुभाव धारा बहाव हकइ — पानी के तेज बहे के तसवीर, 'उठा ले जना' नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ओ",
+      "rationale": "यहलף के करता घास हकइ या मनुस — परति-परति 'ऊ' बहुबचन गुत्थी हकइ; हम घास के रस्ता लेलियन"
+    }
+  ],
+  "translation": "तूँ ओनी के बहा देलन; ओ नींद बनि गेलन; भोर में घास जइसन बीत जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9a9f7a575c58e0385537700860b6347dc2ffdd45bba3f85b0a2f30fb94ca3e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/90\/5-8.1792005730953.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "बहा देलन"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "नींद"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "बनि गेलन"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "भोर में"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "घास जइसन"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "बीत जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:10.953428035Z",
+  "model": "glm-5.3"
+}

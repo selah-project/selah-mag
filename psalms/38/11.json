@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סחרחר",
+      "rationale": "तनाख़ में केवल इहे जगह; जड़ सב्द फेर-फेर के घूमे के अरथ हकइ, इहाँ हिरदय के घबराहट"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גם",
+      "rationale": "'तक…ओहू' से बाक्य के तानाव देखावल गेल; सीधा अरथ 'ई बहुत\/ओकरो'"
+    }
+  ],
+  "translation": "हमर हिरदय घबरा-घबरा के धड़कऽ हइ; हमर बल हमरा छोड़ देलक, आउ हमर आँख के इँजोर तक ओहू ⟨את⟩ हमरा संग नञ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/38\/9-12.1792004959511.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "हमर हिरदय"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "घबरा-घबरा के धड़कऽ हइ"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "हमरा छोड़ देलक"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "हमर बल"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "आउ इँजोर"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आँख के"
+    },
+    {
+      "surface": "גם",
+      "gloss": "तक"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ओहू"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ हमरा संग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:19.512075288Z",
+  "model": "glm-5.3"
+}

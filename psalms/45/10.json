@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ביקרותיך",
+      "rationale": "'तोहर मन-पसंद स्त्री' बनाम 'तोहर आदर-पात्र' — शेगल रानी अलगे होवऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "राजा के हवाले",
+      "rationale": "दहिने हाथ — राजा के सीधा सम्बोधन।"
+    }
+  ],
+  "translation": "राजा के बेटी तोहर मन-पसंद स्त्री में हलथिन; रानी ओफिर के खरा सोना में तोहर दहिने हाथ पर ठाढ़ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/45\/9-12.1792005029810.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "तोहर मन-पसंद स्त्री में"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ठाढ़ हथिन"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "रानी"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "तोहर दहिने हाथ पर"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "खरा सोना में"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ओफिर के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:29.810728744Z",
+  "model": "glm-5.3"
+}

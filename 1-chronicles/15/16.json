@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 15:16",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "लेवी के सरदार सब",
+      "rationale": "दाविद के सीधा आज्ञा लेवी के सरदार सब के।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מצלתים",
+      "rationale": "dual रूप — झाँझ के जोड़ी, दू-दू टुकड़ा; इब्रानी के dual आकृति मगही में अलग से नञ देखावल जा सकऽ हइ।"
+    }
+  ],
+  "translation": "आउ दाविद (दाऊद) लेवी के सरदार सब के कहलन कि ⟨את⟩ ओकरा भाय सब गावैया के ठाढ़ करऽ — गीत के बाजा, वीणा, किन्नर आउ झाँझ के संग, आवाज ऊँच करऽ, खुसी के संग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5805a0b79fda9fce2abf4402fc682384a02e55b52375aa8481b414daf85b8757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/15\/13-16.1792010207210.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "सरदार सब के"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवी के"
+    },
+    {
+      "surface": "להעמיד",
+      "gloss": "ठाढ़ करऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भाय सब"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ओकरा भाय सब"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "गावैया"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "बाजा"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत के"
+    },
+    {
+      "surface": "נבלים",
+      "gloss": "वीणा"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "आउ किन्नर"
+    },
+    {
+      "surface": "ומצלתים",
+      "gloss": "आउ झाँझ"
+    },
+    {
+      "surface": "משמיעים",
+      "gloss": "आवाज करैत"
+    },
+    {
+      "surface": "להרים",
+      "gloss": "ऊँच करऽ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "לשמחה",
+      "gloss": "खुसी के संग"
+    }
+  ],
+  "timestamp": "2026-10-14T20:36:47.211743949Z",
+  "model": "glm-5.3"
+}

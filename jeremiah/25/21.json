@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बेटा सब",
+      "rationale": "בני ढम्मोन 'अम्मोन के बेटा' — जाति नाम, बिना आगे के बाक्य के संग सूची-रूप में रखलन।"
+    }
+  ],
+  "translation": "एदोम के, आउ ⟨את⟩ मोआब के, आउ ⟨את⟩ अम्मोन के बेटा सब के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e1b51c28eab451440b34b6a85e538d00829d1f35ff1be96fadeb38ee8e462046",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/25\/21-24.1792000730510.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एदोम"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ आउ",
+      "marks": "मोआब"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ आउ",
+      "marks": "अम्मोन के बेटा सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:58:50.510678312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בצר",
+      "rationale": "शाब्दिक 'संकरा जगह' — 'दुख\/संकट' रूप में लेल गेलन"
+    }
+  ],
+  "translation": "तब ओ अपन दुख में यहवे के ओर पुकारलन, आउ ओ ओकनी के अपन संकट सब से छुड़ा लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e413da2727b7846aef2b172e9e4bfdd8211c0d5d070a0c275aac17332a049563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/107\/5-8.1792005923701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "तब ओ पुकारलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "दुख में"
+    },
+    {
+      "surface": "להם",
+      "gloss": "अपन"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "अपन संकट सब से"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "छुड़ा लेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:23.701967138Z",
+  "model": "glm-5.3"
+}

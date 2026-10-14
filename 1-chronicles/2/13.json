@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨दोसर⟩ ⟨तीसर⟩",
+      "rationale": "क्रिया गायब हइ — इब्रानी खाली क्रम-सब्द देत हइ, जनम देबे के क्रिया पाछे से चलऽ हइ"
+    }
+  ],
+  "translation": "आउ यिशाय (इसाई) ⟨את⟩ अपन पहिलका बेटा ⟨את⟩ एलिआब (एलियाब) के जनम देलन; अबिनादब ⟨दोसर⟩, आउ शिमा (शिम्मा) ⟨तीसर⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2673d87b0643082370fcb0303a3351e8e5caaff3791c7bbd9790288d244c2318",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/2\/13-16.1792009855011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "आउ यिशाय"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन पहिलका बेटा"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "अपन पहिलका बेटा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलिआब"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआब"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "अबिनादब"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "आउ शिमा"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तीसर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:30:55.011674342Z",
+  "model": "glm-5.3"
+}

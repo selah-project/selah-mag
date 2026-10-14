@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כיום",
+      "rationale": "‘आज्हे एके’ (this day) बनाम ‘पहिले’ (asv\/jps) — दुनू पढ़ाही मिलऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "याकोव एसाव के",
+      "rationale": "याकोव एसाव के सीधे सम्बोधन करऽ हइ।"
+    }
+  ],
+  "translation": "आउ याकोव कहलन, “आज्हे एके तोहर ⟨את⟩ पहिला बेटा के अधिकार हमरा बेच दे।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0daf4d4bd40be76cc7c4754579cd5d2f18f760de684058f048116c6c4f1cf3c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/25\/30-31.1792011534310.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "बेच दे"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "आज्हे एके"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पहिला बेटा के अधिकार"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "तोहर पहिला बेटा के अधिकार"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:58:54.311517437Z",
+  "model": "glm-5.3"
+}

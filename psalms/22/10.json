@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדי",
+      "rationale": "स्तन (שד) आउ दिब्य नाम शद्दय (שדי) के अच्छर मेल — 'हमरा माय के छाती' बनाम 'सर्बशक्तिमान' के आवाज़, मगही में खो गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מבטיחי",
+      "rationale": "'भरोसा देलथिन' — इब्रानी 'मुक परान देना \/ निश्चित करना' के नज़दीक हकइ।"
+    }
+  ],
+  "translation": "काहे कि तूँ हमरा गर्भासय से निकाललथिन; हमरा माय के छाती पर भरोसा देलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/22\/9-12.1792004611132.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "निकाललथिन"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "गर्भासय से"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "भरोसा देलथिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "छाती"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "हमरा माय के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:31.132659902Z",
+  "model": "glm-5.3"
+}

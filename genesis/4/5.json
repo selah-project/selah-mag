@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "मुँह गिर गेल",
+      "rationale": "ויפלו פניו — इब्रानी के इडियम 'ओकर चेहरा गिरल', मगही में ओहे चित्र रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "देखलन",
+      "rationale": "שעה के अरथ ध्यान से देखब \/ कृपा-दृष्टि देना; 'देखलन' बिंब रखऽ हइ"
+    }
+  ],
+  "translation": "बाकि कायिन आउ ओकर मिन्हा के ओकरा नञ देखलन, आउ कायिन के बड़ी क्रोध चढ़लइ, आउ ओकर मुँह गिर गेल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "845bf8e1b65f7b4778feae68e057396bb8546e6b8d5ea994c34b51979077c292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/4\/5-8.1791986222174.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "आउ के दने"
+    },
+    {
+      "surface": "קין",
+      "gloss": "कायिन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ के दने"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "ओकर मिन्हा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "क्रोध चढ़लइ"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "कायिन के"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बड़ी"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "गिर गेलन"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ओकर मुँह"
+    }
+  ],
+  "timestamp": "2026-10-14T13:57:02.175134317Z",
+  "model": "glm-5.3"
+}

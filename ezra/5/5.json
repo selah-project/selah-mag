@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 5:5",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बात",
+      "rationale": "अरामाई טעמא के सुभाविक अरथ 'स्वाद' हकइ; इहाँ 'फैसला\/बात' अरथ में हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हुनका",
+      "rationale": "हिब्रू के हम्मो के अरथ साफ करे बर सर्बनाम जोड़ल गेल।"
+    }
+  ],
+  "translation": "आउ ओकनी के एलोहीम के आँख यहूदा के बुढ़ा लोग पर हलइ, आउ ओकनी ⟨हुनका⟩ रोक नञ सकलन जा तक बात दार्यावेश के पास नञ गेलन; आउ तब एकरा ऊपर चिट्ठी से जवाब भेजलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c12269a154ee8906e589cd04b1fe162a19b41ca4dea296c6068b0a519771fd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/5\/5-8.1792009334331.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועין",
+      "gloss": "आउ आँख"
+    },
+    {
+      "surface": "אלההם",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "הות",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "बुढ़ा लोग"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "בטלו",
+      "gloss": "रोकलन"
+    },
+    {
+      "surface": "המו",
+      "gloss": "हुनका"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जा तक"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "बात"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "दार्यावेश के पास"
+    },
+    {
+      "surface": "יהך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "ואדין",
+      "gloss": "आउ तब"
+    },
+    {
+      "surface": "יתיבון",
+      "gloss": "जवाब भेजलन"
+    },
+    {
+      "surface": "נשתונא",
+      "gloss": "चिट्ठी से"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "एकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:22:14.332194475Z",
+  "model": "glm-5.3"
+}

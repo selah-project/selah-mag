@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के (भेजने की पूर्वक्रिया)",
+      "rationale": "מगही के क्रिया-बनावट बर 'के' जोड़ल गेल, इब्रानी के विभक्ति ओकरा काम करऽ हइ"
+    }
+  ],
+  "translation": "दाविद सुनलन, आउ ⟨את⟩ योआब के आउ ⟨ואת⟩ सब सेना के — बहादुर लोग के — भेजलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1f0a0346653f7a5df07da2fabd99978e9a335e8a9f1633e7df2421446ea44326",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/10\/5-8.1791996062178.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योआब"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "सब सेना"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "सेना के"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "बहादुर लोग के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:41:02.179687097Z",
+  "model": "glm-5.3"
+}

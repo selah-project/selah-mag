@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הושעתים \/ אושיעם",
+      "rationale": "एके जड़ यसा दुनो तरफ — 'बचइबइ' बनाम 'नञ बचइबइ' के आमने-सामने तुक।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "पद ६ बनाम ७",
+      "rationale": "यिस्राएल बर 'दया नञ', यहूदा बर 'दया करबइ' — रहम क्रिया दुनो पद में उलट दिस में।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ घर यहूदा के हम दया करबइ आउ हम ओकनी के बचइबइ ओकनी के यहवे एलोहीम के जरे, आउ नञ बचइबइ ओकनी के धनुक से, आउ तलवार से, आउ लड़ाई से, घोड़ा से आउ सवार से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0815d649f9d8b549fc7f21c384dc54e6dd985d4fc56ed2d2e23f2328c3713344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/1\/5-8.1792003242847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "हम दया करबइ"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "आउ हम ओकनी के बचइबइ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे के जरे"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ओकनी के एलोहीम"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "बचइबइ ओकनी के"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "धनुक से"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "आउ तलवार से"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "आउ लड़ाई से"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "घोड़ा से"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "आउ सवार से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:40:42.848172908Z",
+  "model": "glm-5.3"
+}

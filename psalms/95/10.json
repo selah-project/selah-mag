@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אקוט",
+      "rationale": "'उकता गेलन' बनाम 'घृणा कइलन' — धातु के सच्चा अरथ मतभेद हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चालीस बरिस",
+      "rationale": "जंगल के घुमाव के समय गिनल गेल हइ।"
+    }
+  ],
+  "translation": "चालीस बरिस ऊ पीढ़ी से हमरा मन उकता गेलन, आउ हम कहलियन: ई लोग हिरदे से भटकऽ हइ, आउ ओकनी हमरा रस्ता नञ जानलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "31ad06238abde40becff53422bc1a7a4603b320c8617d2636113f0bd59aad6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/95\/9-11.1792005691530.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "उकता गेलन"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ऊ पीढ़ी से"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आउ कहलियन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "भटकऽ हइ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "हिरदे से"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ई"
+    },
+    {
+      "surface": "והם",
+      "gloss": "आउ ओकनी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "जानलन"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "हमरा रस्ता"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:31.530718621Z",
+  "model": "glm-5.3"
+}

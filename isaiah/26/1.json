@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गीत",
+      "rationale": "השיר गीत\/बात दुनो अरथ में; गीत लेलहु काहे कि गाओल जातइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "छुटकावा",
+      "rationale": "יšועה के करता छूटल हकइ — 'ऊ छुटकावा देवाल बनथिन' बनाम 'छुटकावा ही देवाल होतइ'"
+    },
+    {
+      "kind": "addition",
+      "subject": "रूप में",
+      "rationale": "हिब्रू में 'के रूप में' नञ हकइ; बनावट साफ करे बर जोड़ल"
+    }
+  ],
+  "translation": "उहे दिन में यहूदा (यहूदिया) के धरती में ई गीत गाओल जातइ: हमनी के बर जोर वाला नगर; छुटकावा ऊ देवाल आउ बाहरी देवाल के रूप में बनइलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/26\/1-4.1791999035288.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "उहे दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उहे"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "गाओल जातइ"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा (यहूदिया)"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "עז",
+      "gloss": "जोर वाला"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के बर"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "छुटकावा"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "बनइलथिन"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "देवाल"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "आउ बाहरी देवाल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:30:35.289164183Z",
+  "model": "glm-5.3"
+}

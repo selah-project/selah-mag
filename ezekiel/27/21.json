@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 27:21",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סחרי\/סחרिच",
+      "rationale": "एके जड़ से दू बेर — 'तोहर हाथ के सोदागर' आउ 'तोहर सोदागर' — इब्रानी के दोहराव हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכרים",
+      "rationale": "बकर\/बेकर (मेमना) के संग जोड़ल — 'मेमना' बनाम 'बढ़िया बकरा'; अधिकतर अनुवाद मेमना लेथिन।"
+    }
+  ],
+  "translation": "अरब आउ केदार के सब नायक ऊ तोहर हाथ के सोदागर हलन; मेमना, बैल आउ बकरा-बेड़ा — एहिमे तोहर सोदागर हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6c518f28bdf24a7b0247eb39d7754c1abfbd6f2186a75b28256ade5fc5fb3de8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/27\/21-24.1792002476181.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "अरब"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "नायक के"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "केदार"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "סחרי",
+      "gloss": "सोदागर"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तोहर हाथ के"
+    },
+    {
+      "surface": "בכרים",
+      "gloss": "मेमना में"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "आउ बैल"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "आउ बकरा-बेड़ा"
+    },
+    {
+      "surface": "בם",
+      "gloss": "एहिमे"
+    },
+    {
+      "surface": "סחריך",
+      "gloss": "तोहर सोदागर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:27:56.181908477Z",
+  "model": "glm-5.3"
+}

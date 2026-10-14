@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גבר",
+      "rationale": "ई सब्द 'बलवान मरद' के अरथ रखऽ हइ — इहा आशीस के ताकत यहवे के डर में बतावल गेलइ।"
+    }
+  ],
+  "translation": "देख, काहे कि एहनै आशीस पातइ ऊ मरद जे यहवे के डरऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/128\/1-4.1792006217344.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहनै"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "आशीस पातइ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डरऽ हइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:17.345154411Z",
+  "model": "glm-5.3"
+}

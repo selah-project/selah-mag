@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "भेड़ के",
+      "rationale": "हिब्रू में शमर के वस्तु (भेड़) नञ लिखल हइ, कहानी से मानल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר",
+      "rationale": "पद 13 के शमर (रखवारी करलक) आउ पद 14 के नשמर (रखवारी भेलन) एके जड़ हकइ — याकोव भेड़ के रखैथल, यिस्राएल नबी से रखाल गेल"
+    }
+  ],
+  "translation": "आउ याकोव अराम के खेत में भाग गेलन, आउ यिस्राएल जनाना बर काम करलक, आउ जनाना बर ⟨भेड़ के⟩ रखवारी करलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/12\/13-15.1792003277512.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "आउ भाग गेलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "आउ काम करलक"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "जनाना बर"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "आउ जनाना बर"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "रखवारी करलक"
+    }
+  ],
+  "timestamp": "2026-10-14T18:41:17.513216421Z",
+  "model": "glm-5.3"
+}

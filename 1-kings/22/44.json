@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 22:44",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "पद-बाँट",
+      "rationale": "KJV\/Geneva\/BSB take this Hebrew clause as 22:44's 'made peace' verse; Hebrew text has it here — verse division differs between traditions."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हमनी के⟩",
+      "rationale": "Hebrew definite article 'the people' needs no possessive; Magahi possessive supplied to keep the definite reference."
+    }
+  ],
+  "translation": "बाकि ऊँच जगह सब नञ हटली; आजो ⟨हमनी के⟩ लोग ऊँच जगह सब पर बलि देवऽ हथिन आउ सुगन्धि धुआँ जरावऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "77d0d8fb2da234750bae7ff491fa646b58000c78335b2bbcdb8f751c997b1eb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/22\/41-44.1791997608233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ऊँच जगह सब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "हटली"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आजो"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "बलि देवऽ हथिन"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "आउ सुगन्धि धुआँ जरावऽ हथिन"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ऊँच जगह सब पर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:06:48.234412772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 51:9",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רפאנו \/ נרפתה",
+      "rationale": "एके जड़ 'भरजाना' के दू बेर — 'हमनी भरजाए चाहलन \/ ऊ भरजाल नञ' — एकर दोहराव मगही में बचलइ हे।"
+    },
+    {
+      "kind": "addition",
+      "subject": "चाहलन",
+      "rationale": "इब्रानी क्रिया भूतकाल हइ; 'चाहना' के जोड़ संकेत बाकी अनुवादन के परछावा हकइ, मूल में नञ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नियाव",
+      "rationale": "बाबेल के नियाव के नाप — अकास तक, बादल तक — उछाल-रूप में नापल जा हइ।"
+    }
+  ],
+  "translation": "हमनी ⟨את⟩ बाबेल के भरजावे के चाहलन, बाकि ऊ भरजाल नञ; ओकरा छोड़ देऽ आउ हर कोनो अपन धरती के जाऽ हइ; काहे कि ओकर नियाव अकास तक पहुँचलइ हे आउ ओकर बादल तक उठलइ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "161af04d7c4e7512a7f0f68f48499a1d9ae3f8edf2c7460ef20f5bdf9e8a7f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/51\/9-12.1792001700515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רפאנו",
+      "gloss": "भरजावे के चाहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बाबेल"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "נרפתה",
+      "gloss": "भरजाल"
+    },
+    {
+      "surface": "עזבוה",
+      "gloss": "ओकरा छोड़ देऽ"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "आउ जाऽ हइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर कोनो"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "अपन धरती के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "पहुँचलइ हे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "משפטה",
+      "gloss": "ओकर नियाव"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "आउ उठलइ हे"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "बादल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:15:00.516299911Z",
+  "model": "glm-5.3"
+}

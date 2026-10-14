@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "रहम",
+      "rationale": "רחמים के बहुबचन ('माय के पेट जइसन करुणा') — मगही में एके रूप में घटल।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "सरिस",
+      "rationale": "אסריסים फारसी उधार सब्द हकइ — बाबिल के दरबार के खास अफसर।"
+    }
+  ],
+  "translation": "आउ एलोहीम ⟨את⟩ दानियेल के हेसेद आउ रहम बर देलन — सरिस सब के सरदार के सोझा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cca800926c12a3eedccf394fc6fd6cffd1e650b94aa0a6fa04045bc6e87ad545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/1\/9-12.1792008716950.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "आउ देलन"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दानियेल"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "दानियेल"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "हेसेद बर"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "आउ रहम बर"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सोझा"
+    },
+    {
+      "surface": "שר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "सरिस सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:11:56.950941391Z",
+  "model": "glm-5.3"
+}

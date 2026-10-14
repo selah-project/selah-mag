@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "महीन सनी",
+      "rationale": "בוץ शाब्दिक रूप से सूती कपड़ा हकइ; 'महीन सनी' बुनकर के किसिम बतावऽ हकइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "चढ़ा देलन",
+      "rationale": "ויעל — 'ऊपर चढ़ा देलन' या 'बुनलन' (बुनकरी के किरिया बतावती बात, जइसन KJV ओकरा 'wrought' कहऽ हइ); दुनू मंजूर अनुवाद हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ पर्दा बनइलन — नील, बैंगनी, कत्थई लाल आउ महीन सनी के; आउ ओकरा पर केरुבिम चढ़ा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "197a17b7b4f6dfa549c9bf5d0ec78f6e5bda37efc77cecb52e4d1c6e0946c265",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/3\/13-16.1792010639851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आउ ऊ बनइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पर्दा"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "पर्दा"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "नील"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "बैंगनी"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "कत्थई लाल"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "महीन सनी"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़ा देलन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "केरुबिम"
+    }
+  ],
+  "timestamp": "2026-10-14T20:43:59.852108085Z",
+  "model": "glm-5.3"
+}

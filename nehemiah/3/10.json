@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 3:10",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על ידם",
+      "rationale": "'हाथ पर' = 'करे से' — काम करावे के इब्रानी चाल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨काम कइलन⟩",
+      "rationale": "पहिला अर्ध-पँती में क्रिया के कुछ नञ दोहरावल गेलइ हे, बाकि मगही पँती बर क्रिया के जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "आउ ओकनी के हाथ से यदायाह, हरूमाफ के बेटा, ओकर घर के सामने ⟨काम कइलन⟩; आउ ओकर हाथ से हत्तूश, हसबनेयाह के बेटा, मजबूत कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6f8dcd4e6dbe3d6412043f02af143f99cc1b600a239ea31695d9f4396ca47810",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/3\/9-12.1792009516258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आउ … से"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ओकनी के हाथ"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "मजबूत कइलन"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "यदायाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חרומף",
+      "gloss": "हरूमाफ"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "आउ के सामने"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ओकर घर"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ … से"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "मजबूत कइलन"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "हत्तूश"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חשבניה",
+      "gloss": "हसबनेयाह"
+    }
+  ],
+  "timestamp": "2026-10-14T20:25:16.259849739Z",
+  "model": "glm-5.3"
+}

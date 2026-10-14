@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כנעני",
+      "rationale": "कनानी — जाति के नाम या बेसाही (कनानी बेपार बर जानल जावऽ हलाँ); दुनो अरथ चलन में हकइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סדין",
+      "rationale": "सादिन — सनी के बनल लपेटे-कपड़ा; तनाख़ में बहुते कम जगह आवऽ हकइ"
+    }
+  ],
+  "translation": "सनी के कपड़ा बनइलन आउ बेचलन, आउ कमरबन्द देलन कनानी (बेसाही) के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5eac4d701ffd51344d8454f29a9617e2ef99fe52fbc32abd0564fd1ef28442da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/31\/21-24.1792007072681.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "सनी के कपड़ा"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "आउ बेचलन"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "आउ कमरबन्द"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "कनानी (बेसाही) के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:44:32.682063031Z",
+  "model": "glm-5.3"
+}

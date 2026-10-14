@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 17:37",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Second-person plural address throughout, calling the people to keep the commandments."
+    },
+    {
+      "kind": "substitution",
+      "subject": "तोरा",
+      "rationale": "תורה fixed Tier-2 form, not बिधान\/नियम alone."
+    }
+  ],
+  "translation": "आउ ⟨את⟩ बिधान, ⟨את⟩ नियाव आउ तोरा आउ आज्ञा, जे ऊ तोहनी बर लिखलन, ओकर रखवारी करऽ जे सब दिन करब, आउ दूसर देवता सब से डरिते नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/17\/37-40.1791998177939.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "बिधान"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "बिधान"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "नियाव"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "והתורה",
+      "gloss": "आउ तोरा"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "आउ आज्ञा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "लिखलन"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "रखवारी करब"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे बर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "डरिते"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवता सब"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दूसर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:16:17.940046962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "आवाज उठालन",
+      "rationale": "וישא את קולו इब्रानी के चलनसार ढाँचा हकइ — 'ओकर आवाज उठालन' शब्दशः रखल गेलइ; मतलब 'जोर से रोवलन'"
+    }
+  ],
+  "translation": "आउ याकोव राखेल के चूमलन, आउ ⟨את⟩ ओकर आवाज उठालन आउ रोवलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0a902f14c1f15c2d632590fb0e3714c40ebbcb1ebb0e3fa2311c3f58890e6ff2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/29\/9-12.1791987101318.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "आउ चूमलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "राखेल के"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "आउ उठालन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर आवाज"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ओकर आवाज"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "आउ रोवलन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:11:41.320026745Z",
+  "model": "glm-5.3"
+}

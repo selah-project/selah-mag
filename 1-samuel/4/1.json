@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "एबेन-हा-एजेर",
+      "rationale": "नाम लिप्यन्तरित कएल गेल; अरथ 'मदद के पत्थल' (1 शमुएल 7:12 में स्पष्ट)।"
+    },
+    {
+      "kind": "addition",
+      "subject": "आउ होलइ",
+      "rationale": "वय्यिक्तोल विधेयक क्रिया मगही में चाही; इब्रानी खाली ויהी हकइ।"
+    }
+  ],
+  "translation": "आउ शमुएल के बचन सब यिस्राएल लग पहुँचलइ, आउ यिस्राएल लड़ाई बर पलिश्ती के सामना निकललन, आउ ओकनी एबेन-हा-एजेर के लग डेरा डारलन, आउ पलिश्ती अपेक में डेरा डारलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b1811a1e6475bbe0c29eb0b3b344ba97a30b90b15e387ca7e8a2292698d266ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/4\/1-4.1791994941309.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होलइ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल के"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल लग"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "निकललन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "के सामना"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "लड़ाई बर"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डारलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के लग"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "एबेन"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "हा-एजेर"
+    },
+    {
+      "surface": "ויפלשתים",
+      "gloss": "आउ पलिश्ती"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "डेरा डारलन"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "अपेक में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:22:21.310291348Z",
+  "model": "glm-5.3"
+}

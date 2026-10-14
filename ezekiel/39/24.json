@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मैल",
+      "rationale": "טמאה — पबित्तर-बिधि के अशुचि; मगही में 'मैल' ओकर नजदीकी शारीरिक रूप हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "पुनरावृत्ति",
+      "rationale": "पद 23 के अन्त आउ पूरा पद 24 — मुँह छिपावे के बात दोहरावल गेलइ हे — विलाप के लय हकइ।"
+    }
+  ],
+  "translation": "ओकनी के मैल आउ ओकनी के अपराध के मोताबिक हम ओकनी से ⟨את⟩ कइलन, आउ हम ओकनी से हमर मुँह छिपालन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fe3bf555dcc733e178bc331397fbc4ecf6b31f8bbe3bbb837ae6cfddbfe48bbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/39\/21-24.1792002884268.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "ओकनी के मैल के मोताबिक"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "आउ ओकनी के अपराध के मोताबिक"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी से"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "आउ छिपालन"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ओकनी से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:34:44.269466428Z",
+  "model": "glm-5.3"
+}

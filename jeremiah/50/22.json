@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के सोर",
+      "rationale": "इब्रानी संज्ञा-बाक्य हकइ; मगही बाक्य बनाबै बर जोड़ल गेल।"
+    }
+  ],
+  "translation": "धरती में लड़ाई के आवाज आउ बड़ तबाही के सोर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "29785189eeb93fa6280f1cf0a314de63d2e94ff94ad3c4a21fce9bd42936dd90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/50\/21-24.1792001478295.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "आउ तबाही"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    }
+  ],
+  "timestamp": "2026-10-14T18:11:18.295782633Z",
+  "model": "glm-5.3"
+}

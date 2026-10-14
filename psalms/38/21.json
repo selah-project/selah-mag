@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ישטנוני",
+      "rationale": "שׂטן जड़ — 'दोस लगावऽ' लेलन; ईहे जड़ 'सातान' में बाट"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעה\/טובה … טוב",
+      "rationale": "बुराइ-भलाइ के उलट-फेर — ओकर भलाइ के बदला बुराइ, आउ हमर भलाइ के पाछा-पुछा"
+    },
+    {
+      "kind": "crux",
+      "subject": "תחת (दोसर)",
+      "rationale": "केहु 'बदले' पढ़ऽ हथिन, केहु 'काहे कि' — दुनू चलनसार अरथ हकइ"
+    }
+  ],
+  "translation": "आउ जे बुराइ बदले भलाइ देलनिन — ऊ हमरा दोस लगावऽ हथिन, काहे कि हम भलाइ के पाछा लागल रहनिछली।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7fb400aef81bc22c72e283607a943b1b6969a3f8c97b1d199aef722d00c54b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/38\/21-23.1792004944276.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "आउ जे … देलनिन"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराइ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "बदले"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "भलाइ"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "हमरा दोस लगावऽ हथिन"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "पाछा लागल रहनिछली"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:04.277336437Z",
+  "model": "glm-5.3"
+}

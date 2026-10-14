@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 23:19",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "bare list; copula bracketed"
+    },
+    {
+      "kind": "measurement",
+      "subject": "क्रमागत के गिनती",
+      "rationale": "ordinals first to fourth counting the sons"
+    }
+  ],
+  "translation": "हेबरोन के बेटा: यरियाहू ⟨हकइ⟩ मुखिया, अमर्याह दोसर, यहजीएल तीसर आउ येकामाम चारथामा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fb39018e92c27cb135a1338d3c8b341084648e816d6e9fecb05f41527cba897a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/23\/17-20.1792010423378.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "हेबरोन"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "यरियाहू"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "अमर्याह"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "यहजीएल"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तीसर"
+    },
+    {
+      "surface": "ויקמעם",
+      "gloss": "आउ येकामाम"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चारथामा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:40:23.379103522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 26:12",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאה שערים",
+      "rationale": "'a hundred measures' (of yield) vs traditional 'hundredfold'; שערים taken as grain-measure, rendered सौ गुना per idiom"
+    },
+    {
+      "kind": "measurement",
+      "subject": "मאה שערים",
+      "rationale": "counted yield: a hundred measures in that year"
+    }
+  ],
+  "translation": "आउ यित्सहाक ओहि धरती में बिया बोएलन, आउ ओहि बरिस में सौ गुना पावलन, आउ यहवे ओकरा असीस देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8727ea2486f1bd1ad63dcbb7679072774429824f7702988e6845cf61edbbd09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/26\/9-12.1791987004642.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזרע",
+      "gloss": "बिया बोएलन"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सहाक"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "पावलन"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "गुना"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "असीस देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T14:10:04.643804736Z",
+  "model": "glm-5.3"
+}

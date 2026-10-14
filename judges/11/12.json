@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 11:12",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה לי ולך",
+      "rationale": "इब्रानी के ढाँचा „हमरा आउ तोहरा में की“ — सीधा अरथ: हमरा आउ तोहरा के बीच की झगड़ा हइ; रूढ़ि के मतलब इहे हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "बात",
+      "rationale": "इब्रानी के ढाँचा מें संज्ञा नञ हइ; मगही के पूर्ण बाक्य बर ⟨बात⟩ जोड़ल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "अम्मोन के बेटा सब के राजा के",
+      "rationale": "यिफ्ताह के संदेस दूत के जरे सीधा ओही राजा के संबोधित हकइ।"
+    }
+  ],
+  "translation": "आउ यिफ्ताह अम्मोन के बेटा सब के राजा के दूत पठौलन कहे बर: हमरा आउ तोहरा के बीच की ⟨बात⟩ हइ, काहे कि तूँ हमरा लड़े बर हमर धरती में अइलऽ हा?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c1cbff1d83a31e289fbdb0d55a46ebd363cb9d5aee62e2bca56cc949732406fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/11\/9-12.1791994424446.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "पठौलन"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "यिफפ्ताह"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहे बर"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "आउ तोहरा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "באת",
+      "gloss": "अइलऽ हा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "लड़े बर"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "हमर धरती में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:13:44.447519085Z",
+  "model": "glm-5.3"
+}

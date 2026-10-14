@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יבצר",
+      "rationale": "Root בצर means 'gather grapes' or 'cut off\/isolate'; KJV\/ASV 'cut off', YLT 'gather' — ओकर इब्रानी के दूनो अरथ हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "रूआख हवा\/साँस दुनो हकइ; 'आत्मा' अकेले घटा रहलइ हे।"
+    }
+  ],
+  "translation": "ऊ नगाड़ियन के रूआख काट देतथिन; ऊ धरती के राजा सब बर डरावना हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "eb78fc4a60bd8f5941b7fa786b88fc66a5436e02bd61b66edd90c1c4e0d5dc39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/76\/13-13.1792005385611.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "काट देतथिन"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "नगाड़ियन के"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "डरावना"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "राजा सब बर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:25.612162785Z",
+  "model": "glm-5.3"
+}

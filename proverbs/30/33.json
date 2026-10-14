@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מיץ",
+      "rationale": "एके सब्द मिथ्या-तीन बेर दोहरावल गेलइ — निचोड़ (दूध, नाक, गुस्सा) — त्रिकोणी बनावट"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף \/ אפים",
+      "rationale": "אף नाक आउ क्रोध दुनो अरथ रखऽ हइ; दोसर אפים बहुबचन में क्रोध हकइ — जोड़ी गुम होवऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמאה",
+      "gloss": "घी-नेनी बर दही-नेनी जइसन निकालल चीज; 'घी' अकेले घट पड़ऽ हइ"
+    }
+  ],
+  "translation": "काहे कि दूध के निचोड़ला से घी-नेनी निकलऽ हइ, आउ नाक के निचोड़ला से खून निकलऽ हइ, आउ गुस्सा के निचोड़ला से झगड़ा निकलऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6d89eb614c47a3fa7d9ffde71e9bdbba190543e4c9075d866d25fd3f0e1f0ce7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/30\/33-33.1792007057224.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "निचोड़ला"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "दूध के"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "निकलऽ हइ"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "घी-नेनी"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "आउ निचोड़ला"
+    },
+    {
+      "surface": "אף",
+      "gloss": "नाक के"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "निकलऽ हइ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "आउ निचोड़ला"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "गुस्सा के"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "निकलऽ हइ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "झगड़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:44:17.225201693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "छाती-पट्टा",
+      "rationale": "חושן के साक्षात अरथ अनिश्चित — जेबी या रत्न-भरल; छाती पर रखल पट्टा बर बनावटी अनुवाद"
+    },
+    {
+      "kind": "crux",
+      "subject": "גבלת",
+      "rationale": "दुर्लभ पद: 'गुँथल-गूंथ' (wreathen) बनाम किनारा-लगल (at the ends, KJV) — दुनू पढ़ावा चलन में हइ"
+    }
+  ],
+  "translation": "आउ तूँ छाती-पट्टा पर जंजीर बनइबइ, गुँथल-गूंथ काम, खरा सोना के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "723a6a132314ad436bb50960ed01d966663c88a60427c8117683095e5bf30403",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/28\/21-24.1791988963340.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "आउ तूँ बनइबइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "छाती-पट्टा"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "जंजीर"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "गुँथल-गूंथ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "गुँथल डोरी के"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "खरा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:42:43.341624924Z",
+  "model": "glm-5.3"
+}

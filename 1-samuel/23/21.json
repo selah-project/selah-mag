@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨आसीरबादवाला⟩",
+      "rationale": "हिन्दी क्रिया-रहित वाक्यांश; मगही में पूरक चाही"
+    },
+    {
+      "kind": "you",
+      "subject": "शाऊल → जिफ के लोग",
+      "rationale": "शाऊल जासूसन के सीधे सम्बोधन करऽ हइ"
+    }
+  ],
+  "translation": "आउ शाऊल कहलन, तोनी यहवे के ⟨आसीरबादवाला⟩ हथ, काहे कि तोनी हमरा पर तरस खइलथ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c0ed6fcac6cc2e16d43ce6e198d650ed6fd7955df1ee1f8b15fb8c3c19e47b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/23\/21-24.1791995559820.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "आसीरबादवाला"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोनी"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "तरस खइलथ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा पर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:39.821115277Z",
+  "model": "glm-5.3"
+}

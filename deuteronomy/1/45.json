@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע \/ האזין",
+      "rationale": "दू 'सुने' के क्रिया जोड़ल गेल हइ — सुनना आउ कान धरना — मगही में एकर जोड़ी ढेर-ढेर नञ बच पावऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "मोशे यिस्राएल के लोग के सीधे सम्बोधन करऽ हथिन — तोहनी।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפני יהוה",
+      "rationale": "सचमुच 'यहवे के मुँह-दने' — 'यहवे के सामने' रूप में देल गेल।"
+    }
+  ],
+  "translation": "आउ तोहनी फेर अइलऽ आउ यहवे के सामने रोइलऽ, बाकि यहवे तोहनी के बोली नञ सुनलन आउ तोहनी के ओर कान नञ धेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8cccfbdff248723b53791e05221452b7ccd6d8aaafa2d3af531b9b69179958ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/1\/45-46.1791991891904.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "फेर अइलऽ"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "रोइलऽ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि यहवे नञ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "तोहनी के बोली"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "कान धेलन"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "तोहनी के ओर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:31:31.904965798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 30:2",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ופי לא שאלו",
+      "rationale": "'हमर मुँह नञ पूछलन' — इब्रानी के 'मुँह पूछल' मतलब सलाह लेना; मगही में सीधा चित्र रखलन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעוז במעוז",
+      "rationale": "ओकरे जड़ के जोड़ — 'गढ़ के बल में बल' — कान के तालमेल रहलइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חנס",
+      "rationale": "(पद 4) खानेस नाम तनाख़ में खाली इहे जगह आवऽ हइ।"
+    }
+  ],
+  "translation": "जे मिस्रयिम (मिस्र) में उतरे बर चललन, बाकि हमर मुँह नञ पूछलन; फिरौन के गढ़ के बल में बल पावे बर, आउ मिस्रयिम के छाँव में आसरा लेवे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "87a6ac0b318be369340068cf7a6928778e631627660ae55ad41dabf11298b617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/30\/1-4.1791999190965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההלכים",
+      "gloss": "जे चललन"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "उतरे बर"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "आउ हमर मुँह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "पूछलन"
+    },
+    {
+      "surface": "לעוז",
+      "gloss": "बल पावे बर"
+    },
+    {
+      "surface": "במעוז",
+      "gloss": "गढ़ के बल में"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "ולחסות",
+      "gloss": "आउ आसरा लेवे बर"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "छाँव में"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    }
+  ],
+  "timestamp": "2026-10-14T17:33:10.965896497Z",
+  "model": "glm-5.3"
+}

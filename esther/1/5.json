@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 1:5",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के बाद",
+      "rationale": "हिब्रू ובמלאת शाब्दिक रूप से 'भरते ही' — समय-सम्बन्ध स्पष्ट करे बर जोड़ल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सात दिन",
+      "rationale": "दावत के दिन गिनल गेल हे"
+    }
+  ],
+  "translation": "आउ ई दिन सब पूरा होला के बाद राजा ओ सब लोग बर — जे शुशन (सूसा) के किला में मिलल रहथिन, बड़ा से छोटा ले — सात दिन के दावत करलन, राजा के महल के बगइचा के आँगन में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fbf970fbc3d83fa2a6f5c8dfdb5d968c810673aef82bfbc0402c2649508e8555",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/1\/5-8.1792008563679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמלואת",
+      "gloss": "आउ पूरा होला के बाद"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन सब"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग बर"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "मिलल"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "शुशन (सूसा) में"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "किला के"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "बड़ा से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "छोटा"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "दावत"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "आँगन में"
+    },
+    {
+      "surface": "גנת",
+      "gloss": "बगइचा"
+    },
+    {
+      "surface": "ביתן",
+      "gloss": "महल"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:09:23.680001587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 117,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ \/ रहऽ हइ",
+      "rationale": "Hebrew verbs are verbs; Magahi present-tense forms supplied for the clauses"
+    },
+    {
+      "kind": "elision",
+      "subject": "חסד",
+      "rationale": "rendered as fixed term हेसेद, not reduced to one Magahi word"
+    }
+  ],
+  "translation": "काहे कि ओकर हेसेद हमनी पर प्रबल हकइ, आउ यहवे के सच सदा बर रहऽ हइ; याह के जस गावऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "47d4805870e6a00f81db254929adb0d5d2f04abccace4400a4033b5496848f39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/117\/1-2.1792006011248.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "प्रबल हकइ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी पर"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "आउ सच"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "जस गावऽ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:51.249281907Z",
+  "model": "glm-5.3"
+}

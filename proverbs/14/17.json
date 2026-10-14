@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קצר אפים",
+      "rationale": "साँस-नाक के 'अप' पर बनल मुहावरा — 'कम नाक वाला' कने तेज गुस्सा के अरथ हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "מזמות",
+      "rationale": "ई सब्द खराब चाल आउ चतुराई दुनों अरथ में आवऽ हइ; इहाँ बुरा अरथ लेल गेल हइ"
+    }
+  ],
+  "translation": "कम-गुस्से वाला मूर्खता करऽ हइ, आउ कुटिल-चाल वाला मरद से नफरत कइल जा हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "739a9c2f53852d52b435d2ff941348ff6398d7ea3eb9c54b02e716b53dd4e03b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/14\/17-20.1792006685816.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "कम-गुस्से वाला"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करऽ हइ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "मूर्खता"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आउ मरद"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "कुटिल-चाल वाला"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "से नफरत कइल जा हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:38:05.817260774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נתתה \/ רתנה",
+      "rationale": "एके जड़ רउ बेर — 'तूँ देलह' आउ 'ऊ देलक' — आदमी के बेवस्था ओही जड़ पर घुमऽ हइ; मगही में करता के फरक बचल हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "रखलह",
+      "rationale": "נתתा के साफ अरथ 'देलह' हकइ; इहाँ 'हमर संग देलह' के भाव में रखलह लिखलहुँ"
+    }
+  ],
+  "translation": "तब आदमी कहलक — ओ जनाना, जेकरा तूँ हमर संग रखलह, ऊ हमरा ओ गाछ से देलक, आउ हम खइलहुँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "703b82f66348f46dda85bfc56d513db0b776617151ac51414debac6bff4db2e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/3\/9-12.1791986216571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब कहलक"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ओ जनाना"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "तूँ रखलह"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "हमर संग"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "देलक"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ओ गाछ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "आउ हम खइलहुँ"
+    }
+  ],
+  "timestamp": "2026-10-14T13:56:56.572958282Z",
+  "model": "glm-5.3"
+}

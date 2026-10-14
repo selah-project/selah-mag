@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "Hebrew is a bare noun-chain; Magahi needs the copula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סלעי\/צורי",
+      "rationale": "two different 'rock' words frame the chain — crag and cliff — a doubling flattened by repetition"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומצודתי",
+      "rationale": "מצודה means both 'net' and 'fastness\/fortress'; 'fortress' is the choice here"
+    }
+  ],
+  "translation": "यहवे हमर चट्टान हथिन, आउ हमर गढ़, आउ हमरा छुड़ावइ वाला; हमर एल, हमर चट्टान — ओही में हम शरन लेतइ; हमर ढाल, आउ हमर छुटकारा के सिंग, हमर ऊँच ठिकाना।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/18\/1-4.1792004588439.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "हमर चट्टान"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "आउ हमर गढ़"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "आउ हमरा छुड़ावइ वाला"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमर एल"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "हमर चट्टान"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "हम शरन लेतइ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओही में"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "हमर ढाल"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "आउ के सिंग"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "हमर छुटकारा"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "हमर ऊँच ठिकाना"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:08.440950204Z",
+  "model": "glm-5.3"
+}

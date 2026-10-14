@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לקח — पत्नी बनाके लेना",
+      "rationale": "इब्रानी में खाली 'लेलइ' हकइ; 'बियाह' सब्द पाठ में नञ हइ, एहे से मत जोड़ल गेलइ"
+    }
+  ],
+  "translation": "आउ लेवी के घर के एक आदमी गेलइ, आउ लेवी के बेटी के ⟨את⟩ लेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3160c3055f4b7fb737ec7f8b18e13aa9f9bc6f3d0c28f2342f9ad43ea18ef5ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/2\/1-4.1791988052493.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गेलइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "लेलइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लेवी के बेटी"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "לेवी"
+    }
+  ],
+  "timestamp": "2026-10-14T14:27:32.493820438Z",
+  "model": "glm-5.3"
+}

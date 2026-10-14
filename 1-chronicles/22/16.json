@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "उठ आउ काम कर",
+      "rationale": "दाविद के शलोमो के ओर सीधे आज्ञा-बोल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "गिनती नञ",
+      "rationale": "धातु के मात्रा के अनगिनत कहल गेल — गिनती के उल्टा बिबरण"
+    },
+    {
+      "kind": "you",
+      "subject": "शलोमो के सम्बोधन",
+      "rationale": "पूरा पद एके सुनै वाला के ओर हकइ"
+    }
+  ],
+  "translation": "सोना बर, चानी बर, आउ ताँबा बर आउ लोहा बर — गिनती नञ; उठ आउ काम कर, आउ यहवे तोहर संग रहतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "77ea13ddbfd77a0b97684a2ac682be3aab061f228c04ae5bd8781569cf906ae3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/22\/13-16.1792010478961.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "सोना बर"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "चानी बर"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "आउ ताँबा बर"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "आउ लोहा बर"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "קום",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आउ काम कर"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होव"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहर संग"
+    }
+  ],
+  "timestamp": "2026-10-14T20:41:18.963074614Z",
+  "model": "glm-5.3"
+}

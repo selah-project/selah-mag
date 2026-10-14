@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראם",
+      "rationale": "'जंगली-बैल' — KJV के 'यूनिकॉर्न' परम्परा से नञ; रेएम एक बलवान जंगली बैल हकइ, एक सीँग वाला जानवर के बाद के कल्पना नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בלותי",
+      "rationale": "'माखल गेलइ हच' — क्रिया के मूल अरथ 'तेल से लबालना' हकइ; 'अभिसेक कइल' परम्परा के शब्द से गाहे के बाट।"
+    }
+  ],
+  "translation": "आउ तूँ हमर सीँग जंगली-बैल नियन ऊँच करलऽ हकइ; हम ताजा तेल माखल गेलइ हच।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/92\/9-12.1792005698683.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "ऊँच करलऽ हकइ"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "जंगली-बैल"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "हमर सीँग"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "माखल गेलइ हच"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "तेल में"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ताजा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:38.684493407Z",
+  "model": "glm-5.3"
+}

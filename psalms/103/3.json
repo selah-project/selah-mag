@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לכל … לכל",
+      "rationale": "दुनो अर्ध-पंक्ति में „सब“ के दोहराव — जोड़ी के बनावट"
+    },
+    {
+      "kind": "addition",
+      "subject": "जे",
+      "rationale": "करता बतावे बर सम्बन्ध-सब्द जोड़ल गेलइ; इब्रानी में क्रियार्थ रूप अकेले हकइ"
+    }
+  ],
+  "translation": "जे तोहर सब पाप के क्षमा करऽ हथिन, जे तोहर सब बेमारी के चंगा करऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/103\/1-4.1792005840965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסולח",
+      "gloss": "जे क्षमा करऽ हथिन"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "तोहर सब"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "הרופא",
+      "gloss": "जे चंगा करऽ हथिन"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "तोहर सब"
+    },
+    {
+      "surface": "תחלואיכי",
+      "gloss": "बेमारी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:24:00.966318133Z",
+  "model": "glm-5.3"
+}

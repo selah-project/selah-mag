@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 3:18",
+  "book": "ruth",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "यפול דבר",
+      "rationale": "'the matter falls' — Hebrew idiom for how a matter turns out, kept literal as परतऽ हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "relative particle folded into 'जब ले', no separate Magahi word"
+    },
+    {
+      "kind": "you",
+      "subject": "to रूत",
+      "rationale": "Naomi addresses Ruth directly — 'बेटी, बइठल रह'"
+    }
+  ],
+  "translation": "आउ ओ कहलक, “बेटी, बइठल रह, जब ले तूँ नञ जानऽ हओ की बात कइसने परतऽ हइ, काहे कि ऊ मनुस आराम नञ करतइ जब ले आज ई बात पूरा नञ कर लेतइ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c246af5472162a8f82a3e7300a2982195e9c92da23c38d161befbd3b371e9825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ruth\/3\/17-18.1792008048220.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "आउ ओ कहलक"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "बइठल रह"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תדעין",
+      "gloss": "तूँ नञ जानऽ हओ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "परतऽ हइ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ישקט",
+      "gloss": "आराम नञ करतइ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ऊ मनुस"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "אם",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "पूरा कर लेतइ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ई बात"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-10-14T20:00:48.221111870Z",
+  "model": "glm-5.3"
+}

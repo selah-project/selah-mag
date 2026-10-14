@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 23:8",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מסललन",
+      "rationale": "עשו ('करलन') के जगह 'मसललन' लिखल — KJV 'bruised' के संग; साक्षात 'ओकरा कइलन' ढेर खुलल हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דדי בתוליה",
+      "rationale": "साक्षात 'ओकर कुँवारी के स्तन' — छाती आउ स्तन दुनों के बीच के अरथ, 'स्तन' ढेर ठीक बाकि ग्राम्य अनुवाद में छाती रखल"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ ओकर मिस्रयिम (मिस्र) के व्यभिचार नञ छोड़लक, काहे कि ओकर जवानी में ओकनी ⟨את⟩ ओकरा सोए रहलन, आउ ओकनी ओकर कुँवारी के छाती मसललन, आउ ओकर व्यभिचार ओकरा पर ढारलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b7dd4bf736a6ffe96cbaa658c69743ae2040a6aeeda72b0b4a8f9b6f78f60471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/23\/5-8.1792002388293.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर मिस्रयिम के व्यभिचार"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "ओकर व्यभिचार"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "छोड़लक"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ओकरा",
+      "marks": "सोए रहलन"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "सोए रहलन"
+    },
+    {
+      "surface": "בנעוריה",
+      "gloss": "ओकर जवानी में"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "आउ ओकनी"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "करलन"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "छाती"
+    },
+    {
+      "surface": "בתוליה",
+      "gloss": "ओकर कुँवारी के"
+    },
+    {
+      "surface": "וישפכו",
+      "gloss": "आउ ढारलन"
+    },
+    {
+      "surface": "תזנותם",
+      "gloss": "ओकर व्यभिचार"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा पर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:26:28.294915368Z",
+  "model": "glm-5.3"
+}

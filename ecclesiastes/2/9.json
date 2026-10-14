@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨रहलन⟩",
+      "rationale": "इब्रानी के छोट बाक्य में किरिया पहिले नञ आवऽ हइ; मगही के बनावट बर बाक्य के अंत में जोड़ल गेल"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עמדה לי",
+      "rationale": "साक्षात 'मोर संग ठाढ़ भेलै' — अरथ: मोर संग टिकल रहल"
+    }
+  ],
+  "translation": "आउ हम बड़ा भेलिये, आउ यरूशलयिम (यरूशलेम) में जे हमरा से पहिले ⟨रहलन⟩ ओ सबसे बढ़के बढ़लिये; अपने हमर समझ हमर संग टिकल रहल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "80321160a3071df02b380ba2779c238f184354f0827387fe41c7034980dc9009",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/2\/9-12.1792008366557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "आउ हम बड़ा भेलिये"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "बढ़के बढ़लिये"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ओ सबसे"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "जे रहलन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "हमरा से पहिले"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    },
+    {
+      "surface": "אף",
+      "gloss": "अपने"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "हमर समझ"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "टिकल रहल"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर संग"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:06.558250574Z",
+  "model": "glm-5.3"
+}

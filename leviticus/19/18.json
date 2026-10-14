@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ולא…ולא…ואהבת",
+      "rationale": "two negations pivoting to a positive command — rhetorical escalation lost in flat prose."
+    },
+    {
+      "kind": "addition",
+      "subject": "बाकि",
+      "rationale": "waw of contrast supplied as 'बाकि'; Hebrew has plain waw."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "direct second-person address."
+    }
+  ],
+  "translation": "बदला नञ ले, आउ तोहर लोग के ⟨את⟩ बेटा ⟨अपन⟩ बिरोध कुंठा नञ रख; बाकि तोहर संगी से परेम कर, जइसन तूँ ⟨खुद⟩ अपन से; हम यहवे ही।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ccbaff01e3173c16ada5e3f6fa7e518d1258e7d2ab91f54fa1b99f025509e4af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/19\/17-20.1791990151468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "बदला ले"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "कुंठा रख"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर लोग के बेटा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहर लोग"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "बाकि परेम कर"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "तोहर संगी से"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "जइसन तूँ अपन"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:02:31.469267231Z",
+  "model": "glm-5.3"
+}

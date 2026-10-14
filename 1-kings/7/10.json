@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨रहल⟩",
+      "rationale": "मगही के क्रिया चाही; इब्रानी खाली क्रियांश विशेषण देत हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दस आउ आठ हाथ-नाप",
+      "rationale": "पत्थल के नाप गिनावल गेलन।"
+    }
+  ],
+  "translation": "आउ नेव ⟨रहल⟩ कीर पत्थल के, बड़ा पत्थल के — दस हाथ-नाप के पत्थल आउ आठ हाथ-नाप के पत्थल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "07631bd005a7b79f0fc7eaecf4aaf6ca85f1be55d43977b2bcabadcab4aef31a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/7\/9-12.1791996820027.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "आउ नेव"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "कीर"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ-नाप"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "आउ पत्थल"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ-नाप"
+    }
+  ],
+  "timestamp": "2026-10-14T16:53:40.028686204Z",
+  "model": "glm-5.3"
+}

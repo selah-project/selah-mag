@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओ",
+      "rationale": "करता सर्बनाम जोड़ल गेलइ — इब्रानी क्रिया के रूप में पहिले से बतावल हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המראה",
+      "rationale": "साक्षात् अरथ „जे देखावल गेलइ”; „दर्शन” रूप में लेल गेलइ।"
+    }
+  ],
+  "translation": "आउ शेमुएल (शमूएल) भोर तक लेटलइ, आउ ओ खोललक ⟨את⟩ दुआरी सब यहवे के घर के; आउ शेमुएल ⟨את⟩ दर्शन एली के बतावे से डरत रहल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/3\/13-16.1791994880698.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "लेटलइ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शेमुएल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "खोललक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दुआरी सब"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "दुआरी सब"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "आउ शेमुएल"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डरत रहल"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "बतावे से"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दर्शन"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एली के"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "एली"
+    }
+  ],
+  "timestamp": "2026-10-14T16:21:20.699177257Z",
+  "model": "glm-5.3"
+}

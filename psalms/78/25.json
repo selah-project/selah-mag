@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבירים",
+      "rationale": "'बलवान सब' (mighty ones) बनाम परम्परा के 'देवदूत' (angels); इब्रानी शब्द के आकार बलवान हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ऊ⟩",
+      "rationale": "करता सर्बनाम — मुखड़ा आगे के पद से आवऽ हइ।"
+    }
+  ],
+  "translation": "बलवान सब के रोटी हर एक मनुस खइलन; ⟨ऊ⟩ ओकनी के तृप्ति तक भोजन भेजलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/25-28.1792005486341.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "बलवान सब के"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खइलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक मनुस"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "भोजन"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "तृप्ति तक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:06.342415948Z",
+  "model": "glm-5.3"
+}

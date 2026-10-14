@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "नगर",
+      "rationale": "היא खाली „ऊ” हकइ; संदर्भ के नगर जोड़ल गेल, कोस्ठक-रूप में"
+    },
+    {
+      "kind": "idiom",
+      "subject": "देगची आउ मांस",
+      "rationale": "यरूशलयिम देगची आउ ओकर लोग मांस — 11:3 के कहावत के उलटाव"
+    }
+  ],
+  "translation": "ऊ ⟨नगर⟩ तोहनी बर देगची नञ होतइ, आउ तोहनी ओकर भीतर मांस नञ होब; यिस्राएल के सीमा ले हम तोहनी के ⟨את⟩ नियाव करब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/11\/9-12.1792001895278.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "देगची"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "आउ तोहनी"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "होब"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ओकर भीतर"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "हम नियाव करब"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:18:15.279800175Z",
+  "model": "glm-5.3"
+}

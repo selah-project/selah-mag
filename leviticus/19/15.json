@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פני נשא\/הדר",
+      "rationale": "'मुँह उठाना\/मानना' — हेब्रू के 'चेहरा उठाना\/महिमाना' के मुहावरा"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משפט\/תשפט",
+      "rationale": "एके जड़ के दो रूप — 'नियाव में… नियाव कर' — मगही में एहे जड़-जोड़ रहलइ"
+    }
+  ],
+  "translation": "नियाव में अनियाव नञ कर; गरीब के मुँह नञ उठा, आउ बड़ा के मुँह नञ मना; त्सेदेक में तूँ अपन संगी के नियाव कर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/19\/13-16.1791990150142.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "कर"
+    },
+    {
+      "surface": "עול",
+      "gloss": "अनियाव"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "नियाव में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "उठा"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "דל",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "मना"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "त्सेदेक में"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "नियाव कर"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "अपन संगी"
+    }
+  ],
+  "timestamp": "2026-10-14T15:02:30.143081732Z",
+  "model": "glm-5.3"
+}

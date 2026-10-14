@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 3:20",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "twenty men",
+      "rationale": "Count of Abner's escort — बीस मरद."
+    },
+    {
+      "kind": "addition",
+      "subject": "रहलन",
+      "rationale": "Hebrew verbless clause 'and with him twenty men'; Magahi past copula supplied."
+    }
+  ],
+  "translation": "आउ अबनेर दाविद (दाऊद) के पास हेबरोन (हेब्रोन) में अइलन, आउ ⟨את⟩ ओकर संग बीस मरद रहलन; आउ दाविद अबनेर बर आउ ओकर संग के मरद बर दावत बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/3\/17-20.1791995891861.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अबनेर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "हेबरोन में"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "आउ ⟨את⟩ ओकर संग"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "अबनेर बर"
+    },
+    {
+      "surface": "ולאנשים",
+      "gloss": "आउ मरद बर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकर संग"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "दावत"
+    }
+  ],
+  "timestamp": "2026-10-14T16:38:11.863160074Z",
+  "model": "glm-5.3"
+}

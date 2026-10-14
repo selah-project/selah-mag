@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 14:8",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקדमוני \/ האחרון",
+      "rationale": "'पूरबी \/ पछिमी' — मूल 'पहिलका \/ पाछला' (पूरब दने मुँह कर के ठाढ़ हो के); दिशा के नाम देल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "निकलतइ",
+      "rationale": "अन्तिम यहיה के किरिया जोड़ल गेल — मूल में खाली 'होतइ' हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מים חיים",
+      "rationale": "'जिउत पानी' — मूल संज्ञा-विशेषण के जोड़ जस के तस रखल गेल।"
+    }
+  ],
+  "translation": "आउ ओही दिन होतइ — जिउत पानी यरूशलयिम (यरूशलेम) से निकलतइ; ओकर आधा पूरबी समुंदर दने आउ ओकर आधा पछिमी समुंदर दने; गरमी में आउ जाड़ा में ⟨निकलतइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b258840484ae823704d9b8384173f58fc8b481d88537af792898bf01c0a50d82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/14\/5-8.1792004281322.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "निकलतइ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिउत"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "यरूशलयिम (यरूशलेम) से"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "ओकर आधा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "הקדמוני",
+      "gloss": "पूरबी"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "आउ ओकर आधा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "पछिमी"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "गरमी में"
+    },
+    {
+      "surface": "ובחרף",
+      "gloss": "आउ जाड़ा में"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨निकलतइ⟩"
+    }
+  ],
+  "timestamp": "2026-10-14T18:58:01.323747243Z",
+  "model": "glm-5.3"
+}

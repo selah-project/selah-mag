@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "दलदल",
+      "rationale": "האגמים: 'दलदल\/केत' (KJV, ASV) बनाम 'गढ़ी' (JPS) — बाबेल के नदी-घाट के संग दलदल-केत के अरथ अधिका सुभाविक"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "मगही के किरिया-पूरक; इब्रानी में आगमन बचन के करता-प्रत्यय हे"
+    }
+  ],
+  "translation": "आउ घाट सब कब्जा कर लेल गेल हथिन, आउ ⟨את⟩ दलदल के आग में जरा देल गेल हथिन, आउ लड़ाका आदमी घबरा गेलन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e0667be2e372106fceaa9511c9b2d67c41ceb4e6d858c853189623e6083a484",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/51\/29-32.1792001636725.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "आउ घाट सब"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "कब्जा कर लेल गेल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दलदल सब"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "दलदल सब"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "जरा देल गेल"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "आउ आदमी"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "लड़ाका"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "घबरा गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:13:56.726956093Z",
+  "model": "glm-5.3"
+}

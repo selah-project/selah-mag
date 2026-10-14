@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומים",
+      "rationale": "מים के अरथ 'समुंदर' (उत्तर के भूमध्य सागर) बनाम परम्परा में 'दक्खिन' — केजेभी\/एएसभी 'दक्खिन', वाईएलटी\/जेपीएस 'समुंदर' कहऽ हइ; हमनी असल शब्द 'समुंदर' रखनिहार"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चारो दिसा",
+      "rationale": "चार दिसा के पूरा गिनती — पुरुब, पच्छिम, उत्तर, समुंदर — पूरा धरती के नाप"
+    }
+  ],
+  "translation": "आउ देस-देस से ओकनी के इकट्ठा कएलन — पुरुब से आउ पच्छिम से, उत्तर से आउ समुंदर से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/107\/1-4.1792005937355.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "आउ देस-देस से"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "ओकनी के इकट्ठा कएलन"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "पुरुब से"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "आउ पच्छिम से"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तर से"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "आउ समुंदर से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:37.356667048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हइ⟩",
+      "rationale": "इब्रानी में क्रिया-सूत्र नञ हकइ; मगही के ओकर चाही।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "स्व-घोसना आउ आदेश — यहवे इस्राएल के सीधे बात करऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "המעלך",
+      "rationale": "'चढ़ा लायलन' बनाम 'निकाललन' — हिफिल जड़ दुनो अरथ देवऽ हइ।"
+    }
+  ],
+  "translation": "हम यहवे तोहर एलोहीम ⟨हइ⟩, जे तोहनी मिस्रयिम के धरती से चढ़ा लायलन; तोहर मुँह चउड़ा कर, आउ हम ओकरा भर देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/81\/9-12.1792005527982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "जे तोहनी चढ़ा लायलन"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "चउड़ा कर"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "तोहर मुँह"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "आउ हम ओकरा भर देतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:47.985140520Z",
+  "model": "glm-5.3"
+}

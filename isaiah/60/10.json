@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "सिय्योन",
+      "rationale": "पूरा परिच्छेद तोहर-सम्बोधन हकइ — सिय्योन से कहल जा रहलइ हे"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קצפי\/רצוני",
+      "rationale": "कोप आउ रजी के जोड़ी — मारलन\/दया कएलन — इब्रानी के साम्य आयाम"
+    }
+  ],
+  "translation": "आउ परदेसी के बेटा तोहर दीवार बनइतइ, आउ ओकनी के राजा तोहरा सेवा करतइ; काहे कि हमर कोप में हम तोहरा मारलन, बाकि हमर रजी में हम तोहरा ऊपर दया कएलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e2274909abaf17382b4b98f49589b8ab97b238f8d83b1536cbd2390c671c697e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/60\/9-12.1791999896723.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "आउ बनइतइ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "परदेसी के"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "तोहर दीवार"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "आउ ओकनी के राजा"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "तोहरा सेवा करतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "हमर कोप में"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "हम तोहरा मारलन"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "बाकि हमर रजी में"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "हम तोहरा ऊपर दया कएलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:44:56.724493640Z",
+  "model": "glm-5.3"
+}

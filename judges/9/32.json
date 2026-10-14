@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "ई את क्रिया-वस्तु के चिन्हा नञ हकइ, 'संग' बर समीपक छोटा-אत; ⟨את⟩ रूप जस के तस रहल।"
+    },
+    {
+      "kind": "you",
+      "subject": "अबिमेलेख के",
+      "rationale": "ज़ेबुल के सनेहा अबिमेलेख के सोझा सीधा आदेस में बदलऽ हइ।"
+    }
+  ],
+  "translation": "आउ अब रात में उठ — तूँ आउ ऊ लोग जे ⟨את⟩ तोहर संग हथिन — आउ खेत में घात लगा के बैठ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "32776385177d5251644b883b21c6a0dd25340f7457892d7b1f43d1d0e75d78a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/9\/29-32.1791994248854.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "קום",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "आउ ऊ लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तोहर संग"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "आउ घात लगा के बैठ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:10:48.856104265Z",
+  "model": "glm-5.3"
+}

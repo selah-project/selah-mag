@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "कसाइ सब के सरदार",
+      "rationale": "רב טבחים के सुभाविक अरथ 'कसाइ के सरदार' — जल्लाद-फौज के मुखिया; 'पहरेदार के कप्तान' चलनसार बाद के रूप हकइ"
+    },
+    {
+      "kind": "hapax-ish",
+      "subject": "הסף",
+      "rationale": "इहाँ הסף मन्दिर के दुआरी-थरनी हकइ, दुआर नञ"
+    }
+  ],
+  "translation": "आउ कसाइ सब के सरदार ⟨את⟩ सेरायाह के लेलन — मुखिया पुरोहित, आउ ⟨את⟩ त्सफन्याह — दोसर पुरोहित, आउ ⟨את⟩ दुआरी के तीन रखवारहिया के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e5311180b94c362b84f8c838ccca97e3d238df78b5029224c3c372977f53dc72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/52\/21-24.1792001674558.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "आउ लेलन"
+    },
+    {
+      "surface": "רב",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "कसाइ सब के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सेरायाह"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "सेरायाह"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "त्सफन्याह"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "त्सफन्याह"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दुआरी के तीन रखवारहिया"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "रखवारहिया"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "दुआरी के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:14:34.559996765Z",
+  "model": "glm-5.3"
+}

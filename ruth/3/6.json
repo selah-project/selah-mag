@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन \/ ओकरा",
+      "rationale": "Possessive pronouns supplied; Hebrew has only חמותה, the mother-in-law"
+    }
+  ],
+  "translation": "आउ ऊ खलिहान पर उतरलइ आउ अपन सास जे हुकुम देलन, ओकरा सब कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5309de76b8f4c5c3b2bdf802e411d5aef99cbe3c5e01ce2543121485100f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ruth\/3\/5-8.1792008087657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "उतरलइ"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "खलिहान पर"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "हुकुम देलन"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "सास"
+    }
+  ],
+  "timestamp": "2026-10-14T20:01:27.658457263Z",
+  "model": "glm-5.3"
+}

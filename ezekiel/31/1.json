@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 31:1",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "date",
+      "rationale": "Precise date formula: eleventh year, third month, first day of the month."
+    },
+    {
+      "kind": "addition",
+      "subject": "के बरिस में",
+      "rationale": "Hebrew lacks a word for 'day'; the idiom 'in one to the month' means the first day, supplied in brackets."
+    }
+  ],
+  "translation": "आउ एघारवाँ बरिस में, तीसरा महीना में, महीना के पहिला दिन के बरिस में यहवे के बचन हमरा लग अइलन, कहऽ के बर:",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "147d0a3e5bfa848bd890fb61c1fb846a5a606227ee4aa0c3966a02036f4d8999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/31\/1-4.1792002585431.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भऽ हलइ"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "एघारवाँ बरिस में"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "एघार"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "בשלישי",
+      "gloss": "तीसरा महीना में"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "पहिला दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीना के"
+    },
+    {
+      "surface": "היה",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के बर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:29:45.432562588Z",
+  "model": "glm-5.3"
+}

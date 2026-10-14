@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चाचा",
+      "rationale": "דודו lit. 'his dod' — father's brother, यानी चाचा; अंग्रेजी 'uncle' के जइसने।"
+    },
+    {
+      "kind": "addition",
+      "subject": "के — के",
+      "rationale": "मगही के apposition बर छुटक चिन्हा, इब्रानी में नञ हइ।"
+    }
+  ],
+  "translation": "आउ बबल के राजा ⟨את⟩ मतन्याह के — ओकर चाचा के — ओकर जगह राजा बनइलन, आउ ⟨את⟩ ओकर नाम बदल के त्सिदकियाहु कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9f82d92d5ea9cf66f9541c3c4d8fbe100e2a2d7e75ae80c3ebcf3db8231733ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/24\/17-20.1791998523531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "राजा बनइलन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बबल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मतन्याह"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "मतन्याह"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "ओकर चाचा"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "बदल के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "त्सिदकियाहु"
+    }
+  ],
+  "timestamp": "2026-10-14T17:22:03.532590605Z",
+  "model": "glm-5.3"
+}

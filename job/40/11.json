@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 40:11",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אפך",
+      "rationale": "इब्रानी में 'नाक' = गुस्सा; दुन्नो अरथ रखल गेलइ — मगही में 'नाक के गुस्सा' जोड़ल गेलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עברות",
+      "rationale": "क्रोध के फुटने के अरथ हइ; 'उबाल' लिखल गेलइ, 'क्रोध' बड़ा सादा हो जातइ"
+    }
+  ],
+  "translation": "अपना नाक के गुस्सा के उबाल उड़ा दे, आउ हर एक अकड़ायल के देख, आउ ओकरा नीचा कर दे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ddc96f5b4a9968a83a0c7b5889c591dfe192340bc037b4a7a916fa2eec58d31f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/40\/9-12.1792007883233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפץ",
+      "gloss": "उड़ा दे"
+    },
+    {
+      "surface": "עברות",
+      "gloss": "उबाल"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "अपना नाक के गुस्सा"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आउ देख"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "अकड़ायल"
+    },
+    {
+      "surface": "והשפילהו",
+      "gloss": "आउ ओकरा नीचा कर दे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:58:03.234072683Z",
+  "model": "glm-5.3"
+}

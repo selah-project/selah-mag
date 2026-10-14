@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "את פני",
+      "rationale": "'मुँह के आगे' — इब्रानी के ठीक चित्र, 'के आगे\/भेंट में' के बदला राखल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "וינחם",
+      "rationale": "'लानलन\/पेस करलन' बनाम BSB जेन्हाँ 'छोड़लन' (care of) पढ़ऽ हइ — שורש 'मार्ग देखावना' हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "जतबा दिन",
+      "rationale": "समय के माप — दाविद के गढ़ में रहला के पूरा अवधि।"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ मोआब के राजा के मुँह के आगे ओकनी के लानलन, आउ ओकनी ओकर संग रहलन जतबा दिन दाविद गढ़ में रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/22\/1-4.1791995579894.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "लानलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोआब के राजा के मुँह"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह के आगे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जतबा"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "היות",
+      "gloss": "रहले के"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "गढ़ में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:59.895490267Z",
+  "model": "glm-5.3"
+}

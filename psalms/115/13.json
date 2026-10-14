@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "लोग",
+      "rationale": "मगही में विशेषण बर संज्ञा जोड़ल गेलइ"
+    }
+  ],
+  "translation": "यहवे के डरवाला लोग के असीस देतन — छोटका लोग आउ बड़का लोग संग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/115\/13-16.1792006016550.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "असीस देतन"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "के डरवाला लोग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "छोटका लोग"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "बड़का लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:56.550939440Z",
+  "model": "glm-5.3"
+}

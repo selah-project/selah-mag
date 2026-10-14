@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "नेशर \/ पेरेस \/ अज़्नियाह",
+      "rationale": "पक्षी-प्रजाति के पहचान पर अनुवादक में मतभेद — नेशर चील\/गिद्ध, पेरेस नाख़ुन वाला गिद्ध, अज़्नियाह समुंदरी चील; एहे से लिप्यन्तरन रखलन"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पक्षी के सूची",
+      "rationale": "घिनौना गिनल पक्षी के नाम-सूची, परति जाति अनुसार"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ ई ⟨את⟩ चिरईं में से घिनौना गिनऽ हइ; ओकरा नञ खाइल जातइ, घिनौना हथिन — ⟨את⟩ नेशर आउ ⟨את⟩ पेरेस आउ ⟨את⟩ अज़्नियाह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/11\/13-16.1791989687485.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ई"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "घिनौना गिनऽ हइ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "चिरईं"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खाइल जातइ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घिनौना"
+    },
+    {
+      "surface": "הם",
+      "gloss": "हथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नेशर"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "नेशर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पेरेस"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "पेरेस"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अज़्नियाह"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "अज़्नियाह"
+    }
+  ],
+  "timestamp": "2026-10-14T14:54:47.486240251Z",
+  "model": "glm-5.3"
+}

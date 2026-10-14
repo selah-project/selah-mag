@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקד",
+      "rationale": "'याद कइलन' (remembered, jps) बनाम 'भेंट देलन' (visited, kjv) — जड़ के अरथ 'visit\/attend' आउ 'remember' दुनो हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "लागलन",
+      "rationale": "हिब्रू के ויגדל सीधे 'बड़ होलन' कहऽ हकइ; चलति क्रिया मगही में जोड़ल गेलन।"
+    }
+  ],
+  "translation": "काहे कि यहवे हान्ना के ⟨את⟩ याद कइलन, आउ ऊ गर्भवती भेलइ आउ तीन बेटा आउ दू बेटी के जनम देलक। आउ बुतरू शमूएल यहवे के संग बड़ होवे लागलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "db67b48edf7b2cadffeb84492376b0055ecaff90a0424ad8bde9f7cae53c8f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/2\/21-24.1791994814228.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "याद कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हान्ना"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "हान्ना"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "गर्भवती भेलइ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जनम देलक"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "बड़ होवे लागलन"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "बुतरू"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमूएल"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:20:14.228843476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ई हकइ कि",
+      "rationale": "इब्रानी में 'चतुराई = ओकर रस्ता समझना' के ठेस बाक्य; मगही बर जोड़ल गेलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ערום",
+      "rationale": "'चतुर' लेल गेलइ; मूल सब्द 'धूर्त' तक अरथ देतइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "मूरखता धोखा हकइ",
+      "rationale": "'मूर्खता धोखा हकइ' पढ़ाई लेल गेलइ; BSB सरीख 'मूर्खता ओकनी के धोख देतइ' दोसर पढ़ाई हकइ"
+    }
+  ],
+  "translation": "चतुर के चतुराई ⟨ई हकइ कि⟩ ऊ ओकर रस्ता समझऽ हइ, बाकि मूरखन के मूर्खता धोखा हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0195f10d83b91419012c022e68b7e48fcb235dd7e620ad87585678975b6175a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/14\/5-8.1792006711820.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "चतुराई"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "चतुर के"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "समझऽ हइ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ओकर रस्ता"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "बाकि मूर्खता"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "मूरखन के"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "धोखा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:38:31.821479441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 33:17",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וגוה מגבר",
+      "rationale": "‘ताकतवर आदमी के घमंड ढाके’ बनाम ‘घमंड के ताकतवर आदमी से बचा’ — हिब्रू के जोड़ खुलल हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "לה׸יר का कर्ता",
+      "rationale": "कर्ता पिछला पद के परमेश्वर हलन; मगही में क्रिया-रूपे से संकेत भर मिललइ।"
+    }
+  ],
+  "translation": "आदमी के ओकर काम से हटावे बर, आउ ताकतवर आदमी के घमंड ढाक देवे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/33\/17-20.1792007712614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להסיר",
+      "gloss": "हटावे बर"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ओकर काम से"
+    },
+    {
+      "surface": "וגוה",
+      "gloss": "घमंड"
+    },
+    {
+      "surface": "מגבר",
+      "gloss": "ताकतवर आदमी के"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ढाक देवे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:55:12.614889323Z",
+  "model": "glm-5.3"
+}

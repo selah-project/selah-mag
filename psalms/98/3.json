@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हेसेद",
+      "rationale": "חסד लिप्यन्तरित — कोनो एक मगही सब्द (दया\/परेम) ओकर घटा देतइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "के",
+      "rationale": "בית ישראल संबंधक-समास हकइ; मगही के 'के' जोड़ल गेल।"
+    }
+  ],
+  "translation": "याद रखलन ओकर हेसेद आउ ओकर सच्चाय, यिस्राएल के घर बर; धरती के सब छोर देखलन ⟨את⟩ हमनी के एलोहीम के बचाव के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/98\/1-4.1792005813209.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "याद रखलन"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "आउ ओकर सच्चाय"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "के घर बर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "छोर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमनी के एलोहीम के बचाव के"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "बचाव"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:33.210222086Z",
+  "model": "glm-5.3"
+}

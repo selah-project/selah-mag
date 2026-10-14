@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "शाऊल आउ ओकर नौजवान",
+      "rationale": "कनियाँ ओकनी के तोहर-रूप में सीधा सम्बोधन करऽ हथिन (“तोहरा आगू”, “जल्दी करऽ”)।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי … כי",
+      "rationale": "दू बेर “काहे कि” — कारण आगू-आगू जोड़ल कथा के लय बनावऽ हइ।"
+    }
+  ],
+  "translation": "आउ ओकनी ⟨את⟩ ⟨אותם⟩ जबाब देलनिन आउ कहलनिन, “हकइ; देखऽ, ऊ ⟨तोहरा⟩ आगू-आगू हथिन। अबहीं जल्दी करऽ, काहे कि आजे ऊ नगर में अइलन हथिन, काहे कि आजे लोग बर बलि ऊचान जगह पर हकइ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "726618519fc0d1fa85f8e84a1328ca3c79d8fc170346a081a5076b45010040cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/9\/9-12.1791995047599.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "आउ ओकनी जबाब देलनिन"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨אותם⟩",
+      "marks": "ओ दुनू आदमी के"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "आउ कहलनिन"
+    },
+    {
+      "surface": "יש",
+      "gloss": "हकइ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहरा आगू"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "जल्दी करऽ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आजे"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलन हथिन"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आजे"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "लोग बर"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "ऊचान जगह पर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:24:07.601318378Z",
+  "model": "glm-5.3"
+}

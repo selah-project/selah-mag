@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 24:18",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קל",
+      "rationale": "'हल्का\/तैरत झाग' (पानी पर) बनाम 'तेज दौड़निहार' — KJV 'swift', BSB 'foam'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "קל",
+      "rationale": "पानी के मुँह पर हल्का = बहि के बहते जाए वाला, झाग जइसन"
+    }
+  ],
+  "translation": "ऊ पानी के मुँह पर हल्का ⟨हकइ⟩; धरती में ओकनी के हिस्सा सरापल जातइ; ऊ अंगूर-बारी के रस्ता के दने नञ घुकतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "413a27be091c0d8942678c66a29ee6385c11d96b0bd12cf7b2ce050ce76ee944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/24\/17-20.1792007614970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קל",
+      "gloss": "हल्का"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "सरापल जातइ"
+    },
+    {
+      "surface": "חלקתם",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "घुकतइ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "अंगूर-बारी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:53:34.971540731Z",
+  "model": "glm-5.3"
+}

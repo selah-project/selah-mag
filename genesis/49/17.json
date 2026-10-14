@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שפיפן",
+      "rationale": "तनाख़ में खाली इहे जगह; किस्म के साँप (संभवतः सींगवाला अफेड़), लिप्यन्तरन रखलन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "होतइ",
+      "rationale": "יהי भबिस-इच्छा वाला किरिया हकइ; मगही में किरिया जोड़ल जाए चाही।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך\/ארח",
+      "rationale": "दू समानार्थी रस्ता-सब्द के जोड़ी — अनुवाद में रस्ता\/डहर रहल।"
+    }
+  ],
+  "translation": "दान ⟨होतइ⟩ रस्ता पर साँप, डहर पर सेफिफोन-साँप — ओ घोड़ा के एड़ी के काटऽ हइ, आउ ओकर सवार पाछे गड़े हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "394052f12e7256459a5792e01727123053fc11bc1f1ed9e9fb100af42b2b85db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/49\/17-20.1791987942641.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "साँप"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "שפיפן",
+      "gloss": "सेफिफोन-साँप"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "डहर"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "काटऽ हइ"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "एड़ी के"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "घोड़ा"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "गड़े हइ"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ओकर सवार"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पाछे"
+    }
+  ],
+  "timestamp": "2026-10-14T14:25:42.641547092Z",
+  "model": "glm-5.3"
+}

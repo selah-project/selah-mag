@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יועם",
+      "rationale": "'अँधेर भेल' — अरथ अनिश्चित: 'अँधेर होय गेल' बनाम 'मटियामय भेल'; सब्द नञ-बचन के जड़ (עם) से बहुत मनावऽ हइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הכתם",
+      "rationale": "כתם — खनि से निकलल खरा सोना; तनाख़ में ई अरथ में दुर्लभ पद।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זהב\/הכתם הטוב",
+      "rationale": "सोना के दू रूप एक पाछे — अँधेर बनाम चमक — मगही में ओहे टकराव रहऽ हइ।"
+    }
+  ],
+  "translation": "कइसन अँधेर भेल सोना! कइसन बदल गेल ओ खरा सुनहरा! पवित्तर के पत्थल हर गली के मूड़ी पर उछल-परल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/4\/1-4.1792008251491.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "कइसन"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "अँधेर भेल"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "बदल गेल"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "ओ खरा"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "सुनहरा"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "उछल-परल"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर के"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "मूड़ी पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "गली"
+    }
+  ],
+  "timestamp": "2026-10-14T20:04:11.491563755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 26:23",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "clan list",
+      "rationale": "कोहाती परिवार के चार गोत्र के नाम-सूची"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לעזיאלי",
+      "rationale": "उज्जिएली जाति-नाम — बिरल रूप"
+    }
+  ],
+  "translation": "अमरामी, यित्सहारी, हेब्रोनी आउ उज्जिएली के बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2d2de21469c519f142704979ab883ba00839c62243d8a8c5d1f9735bd600e78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/26\/21-24.1792010494539.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעמרמי",
+      "gloss": "अमरामी"
+    },
+    {
+      "surface": "ליצהרי",
+      "gloss": "यित्सहारी"
+    },
+    {
+      "surface": "לחברוני",
+      "gloss": "हेब्रोनी"
+    },
+    {
+      "surface": "לעזיאלי",
+      "gloss": "उज्जिएली"
+    }
+  ],
+  "timestamp": "2026-10-14T20:41:34.540012218Z",
+  "model": "glm-5.3"
+}

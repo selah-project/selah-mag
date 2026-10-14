@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קלון \/ חרפה",
+      "rationale": "दू लगभग समानार्थी सब्द जोड़ी में — बेइज्जती आउ अपमान — इब्रानी के तुकबंदी बनावऽ हइ, जे मगही में दू सब्द से गिरऽ हइ"
+    }
+  ],
+  "translation": "बुरा आदमी के अवै के संग तिरस्कार अवऽ हइ, आउ बेइज्जती के संग अपमान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "50aaf93b6d741bd5d77493cd145cc6db9def980cd4127926ff6786f05573804a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/18\/1-4.1792006776077.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "के अवै के संग"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुरा आदमी"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अवऽ हइ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "हू"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "तिरस्कार"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आउ के संग"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "बेइज्जती"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "अपमान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:36.078679846Z",
+  "model": "glm-5.3"
+}

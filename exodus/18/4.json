@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אליעזר\/עזר",
+      "rationale": "नाम के जड़ 'एलोहीम-मदत' ओकर बात में गूँजऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דोसर",
+      "rationale": "इब्रानी शब्द हकइ 'एक', बाकि दू बेटा में से दोसर के मतलब निकलऽ हइ"
+    }
+  ],
+  "translation": "आउ दोसर के नाम एलीएजेर, काहे कि हमर बाप के एलोहीम हमर मदती में रहलन आउ हमरा फिरौन के तलवार से छुड़ा लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6b2b63caea2c4cca536ce84d213522d4927cb924df5877fce5d6622f95b2e860",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/18\/1-4.1791988619705.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "आउ नाम"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "एलीएजेर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमर बाप के"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "हमर मदती में"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "छुड़ा लेलन"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:36:59.706784812Z",
+  "model": "glm-5.3"
+}

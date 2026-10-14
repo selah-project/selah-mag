@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "सच्चाई",
+      "rationale": "אמונה के अरथ 'दृढ़ता-विश्वास' हकइ; 'सच्चाई' एकर एक अंग हकइ"
+    }
+  ],
+  "translation": "आउ अकास तोहर अचरज के काम के मानतइ, यहवे, आउ पवित्तर लोग के सभा में तोहर सच्चाई लेखा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "178bf9212f44ae038112b02baed77b9860670dd0c53b0eba6cac22ba3f622af4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/89\/5-8.1792005600114.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומודו",
+      "gloss": "आउ मानतइ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "तोहर अचरज के काम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אף",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "तोहर सच्चाई"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "सभा में"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "पवित्तर लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:20:00.116714006Z",
+  "model": "glm-5.3"
+}

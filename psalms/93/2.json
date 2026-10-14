@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ \/ हऽ हथिन",
+      "rationale": "इब्रानी बाक्य क्रिया-हीन विशेषण बाक्य हकइ; मगही के क्रिया जोड़ल गेल।"
+    }
+  ],
+  "translation": "तोहर सिंहासन तब से टिकल हकइ; अनादि काल से तोहनी हऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/93\/1-4.1792005759742.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "टिकल हकइ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "तोहर सिंहासन"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "तब से"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "अनादि काल से"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तोहनी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:39.743315429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "पुकार के चिन्हा — इब्रानी में ⟨…⟩ बिना पुकारल नाम ठाढ़ हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שׁוּב\/תשובב",
+      "rationale": "'लवटा' के जड़ संग शब्द-दोहराव — तीन दोस, फेर लवटाव के पुकार।"
+    },
+    {
+      "kind": "you",
+      "subject": "एलोहीम के सीधा पुकार",
+      "rationale": "पूरा पद एलोहीम के सीधा सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "हे एलोहीम, तूँ हमनी के छोड़ देलऽ, हमनी के तोड़ देलऽ, क्रोधित भेलऽ — अब हमनी के फेर लवटा!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/60\/1-4.1792005291462.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "तूँ हमनी के छोड़ देलऽ"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "हमनी के तोड़ देलऽ"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "क्रोधित भेलऽ"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "फेर लवटा"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:51.463074333Z",
+  "model": "glm-5.3"
+}

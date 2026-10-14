@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "घर के ऊपर",
+      "rationale": "אשר על הבिपहिया: घर के ऊपर — घर के मुखिया\/कारभारी के इब्रानी ढंग"
+    }
+  ],
+  "translation": "आउ अहाब ओबद्याहू ला बोलावलक, जे घर के ऊपर हलथिन; आउ ओबद्याहू यहवे ⟨केर⟩ ⟨את⟩ बहुते डरावऽ हलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "781c82a8b834ea216c90b635122e729291a135ea44a2d53a3a05042c8dcdc845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/18\/1-4.1791997429922.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "आउ बोलावलक"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "ओबद्याहू"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "आउ ओबद्याहू"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हलथिन"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डरावऽ हलथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-10-14T17:03:49.923484314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक",
+      "rationale": "צדׯ के थिर रूप त्सेदेक लिप्यन्तरित — 'धरम' एके सब्द में घटा देतइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בהקיץ",
+      "rationale": "'जागते पर' — सुते से उठऽ हकइ भा मरन के बाद जी उठऽ (संज्ञाविवरण बाद के पढ़ाव); पहिला पढ़निहार सुते-जागे के चाल से बुझलथिन।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תמונתך",
+      "rationale": "'तोहर सूरत' ओकर साक्षात्कार — दुसरा पढ़ाव 'तोहर सान्निध्य' (bsb)।"
+    }
+  ],
+  "translation": "हम त्सेदेक में तोहर मुँह देखबइ; जागते पर तोहर सूरत से तृप्त हो जाबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/17\/13-15.1792004526952.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "त्सेदेक में"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "देखबइ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहर मुँह"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "तृप्त हो जाबइ"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "जागते पर"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "तोहर सूरत से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:06.953006416Z",
+  "model": "glm-5.3"
+}

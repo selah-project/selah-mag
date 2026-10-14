@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 2:4",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קשי פנים",
+      "rationale": "Hebrew 'hard of face' (brazen) rendered कठोर-मुँह, keeping the body-part picture."
+    },
+    {
+      "kind": "you",
+      "subject": "to Ezekiel",
+      "rationale": "Second-person charge — 'you shall say to them' — continues the commission."
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "Hebrew verbless clause; Magahi copula supplied in the plural honorific form."
+    }
+  ],
+  "translation": "आउ ई बेटा कठोर-मुँह आउ कड़ा-हिरदय हथिन; हम तोहनी ⟨את⟩ ओकनी के दने भेजऽ हिअए, आउ तूँ ओकनी से कहब — अदोनाय यहवे एहना कहऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2fa70f0dc9bac73f5fd46b045468bb0a495b2f46e4d916cb021c47c406292974",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/2\/1-4.1792001704535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבנים",
+      "gloss": "आउ ई बेटा"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "कठोर"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "आउ कड़ा"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "भेजऽ हिअए"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी ओकनी के दने"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओकनी के दने"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आउ तूँ कहब"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:15:04.537072389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אף",
+      "rationale": "इब्रानी के शाब्दिक चाल 'उसके नाक में आग लगल' — क्रोध भड़कलक कइल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Rachel",
+      "rationale": "याकोव के जवाब राखेल के सीधा संबोधन हकइ।"
+    }
+  ],
+  "translation": "आउ याकोव के राखेल पर क्रोध भड़कलक, आउ ऊ कहलक: का हम एलोहीम के जगह हनइ, जे तोहरा से गर्भ के फल रोकलन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "32b0a027d17b102c62d2f62e9dad1eee5c5c1caac83548fa17699b668aff9240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/30\/1-4.1791987179515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "क्रोध भड़कलक"
+    },
+    {
+      "surface": "אף",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव के"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "राखेल पर"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "के जगह"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "रोकलन"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तोहरा से"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "गर्भ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:12:59.516008529Z",
+  "model": "glm-5.3"
+}

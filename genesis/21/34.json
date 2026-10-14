@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 21:34",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ימים רבים",
+      "rationale": "many days — indefinite long duration, no number given"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sojourned",
+      "rationale": "גור is to lodge as a resident alien; rendered परदेसी कइलन (lived as a foreigner)"
+    }
+  ],
+  "translation": "आउ अवराहाम पलिश्ती के धरती में ढेर दिन परदेसी कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "60b261c293c0ae305327cc88aa0637536efac01cc11ca715d2149ac09092e46d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/21\/33-34.1791986765769.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "परदेसी कइलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "के धरती में"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:06:05.769986363Z",
+  "model": "glm-5.3"
+}

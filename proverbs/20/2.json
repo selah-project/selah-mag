@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩",
+      "rationale": "इब्रानी में क्रिया-संबंधक नञ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפश परान \/ गला \/ जिनगी-बल हकइ; 'आत्मा' बाद के भार हकइ"
+    }
+  ],
+  "translation": "छोट सेर के दहाड़ जइसन ⟨हकइ⟩ राजा के डर; जे ओकरा क्रोधित करऽ हकइ, ऊ आपन परान बर पाप करऽ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/20\/1-4.1792006857133.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "दहाड़"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "छोट सेर के जइसन"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "डर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "ओकरा क्रोधित करऽ हकइ"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "पाप करऽ हकइ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "आपन परान बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:57.133715346Z",
+  "model": "glm-5.3"
+}

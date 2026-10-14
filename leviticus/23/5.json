@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; खाली नाममात्र वाक्य हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "בין הערבים",
+      "rationale": "'दू साँझ के बीच' — दुपहरिया के ढले नञ त साँझ के पूरा; कोनो समय लिखल जानकी एही दू के बीच बाँटऽ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चौदह तारीख",
+      "rationale": "तिथि गिनती — पहिला महीना के चौदह"
+    }
+  ],
+  "translation": "पहिला महीना में, महीना के चौदह ⟨तारीख⟩ के, दू साँझ के बीच, यहवे बर पेसह ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "aaddea67b567a03f02648c5bab695ddf236514b61cd15164fc86a80f7f406873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/23\/5-8.1791990249357.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "महीना में"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीना के"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "दू साँझ के"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पेसह"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:04:09.357538634Z",
+  "model": "glm-5.3"
+}

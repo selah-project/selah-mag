@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "कहने वाला क्रिया-चिन्हा; मगही में कोस्ठक बिना कुछो नञ चाही"
+    },
+    {
+      "kind": "you",
+      "subject": "मोशे",
+      "rationale": "यहवे मोशे के सीधे पुकारऽ हइ आउ ओकरा सँगे बात कहऽ हइ"
+    }
+  ],
+  "translation": "यहवे मोशे (मूसा) के पुकारलन, आउ मिलन के तम्बू से ओकरा सँगे कहलन —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/1\/1-4.1791989505213.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "पुकारलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…के सँगे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा)"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा सँगे"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "तम्बू से"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-10-14T14:51:45.214290396Z",
+  "model": "glm-5.3"
+}

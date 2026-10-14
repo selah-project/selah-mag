@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "रोएह",
+      "rationale": "शाब्दिक 'चराना \/ चरावऽ हइ' — अनुवादक लोग 'संग रहना', 'पालना' कहऽ हथिन; चरवाहा के मूल चित्र मेटल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "जोनोत",
+      "rationale": "शाब्दिक 'व्यभिचारिणी सब'; 'बदचलन जनाना' चित्र रखऽ हइ बाकि व्यभिचार के निश्चित अरथ किछु नरम हो गेलइ।"
+    }
+  ],
+  "translation": "जे आदमी समझदारी के परेम करऽ हइ ऊ ओकर बाप के खुस करऽ हइ; बाकि जे बदचलन जनाना सब के संग रहऽ हइ ऊ धन नस्ट कर लेतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2b8336082e41c1b0d1af0495e2a2ea5050121a3e7d3fea4beab8ffad2195df0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/29\/1-4.1792007012644.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "परेम करऽ हइ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "समझदारी"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "खुस करऽ हइ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ओकर बाप"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "बाकि जे ... संग रहऽ हइ"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "बदचलन जनाना सब"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "नस्ट कर लेतइ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:32.645695120Z",
+  "model": "glm-5.3"
+}

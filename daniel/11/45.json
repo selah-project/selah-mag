@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "daniel 11:45",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אפדנו",
+      "rationale": "אַפַּדְנוֹ (महल-डेरा) तनाख़ में खाली एही पद पर मिलऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "בין ימים",
+      "rationale": "„समुंदरनि के बीचे” — दू बचन के संग; किछु अनुवादक एक समुंदर कहऽ हथिन (समुंदर आउ पहाड़ के बीच)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨आपन⟩",
+      "rationale": "इब्रानी में बिना सर्बनाम के केवल ढाँचा (עד קצו) हइ; स्पस्टता बर जोड़ल"
+    }
+  ],
+  "translation": "आउ ऊ ओकर महल-डेरा (अपदनो) के खम्भा समुंदरनि के बीचे, सोभा वाला पवित्तर पहाड़ के नागे, गाड़तइ; बाकि ऊ ⟨आपन⟩ अन्त ले अइतइ आउ ओकर बर कोनो सहाये नञ होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f2b43b912da8bf9b118bfe046d11ba33e48476949f6cd9fbcbf2705724c2445a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/11\/45-45.1792009132251.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "गाड़तइ"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "डेरा के खम्भा"
+    },
+    {
+      "surface": "אפדנו",
+      "gloss": "ओकर महल-डेरा (अपदनो)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीचे"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "समुंदरनि"
+    },
+    {
+      "surface": "להר",
+      "gloss": "पहाड़ के नागे"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "सोभा वाला"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "अइतइ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "קצו",
+      "gloss": "ओकर अन्त"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "नञ होतइ"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "कोनो सहाये"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर बर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:18:52.251587880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שחת",
+      "rationale": "'गड्ढा' (साँप के जाल जइसन) — परम्परा के 'क्षय\/violation' नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "חסידך",
+      "rationale": "'तोहर हेसेद-वाला' बनाम 'तोहर पवित्तर जन' — हेसेद के जड़ हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "एलोहीम के",
+      "rationale": "पद सीधा यहवे\/एलोहीम से बोलऽ हइ।"
+    }
+  ],
+  "translation": "काहे कि तूँ हमर परान के शेओल में नञ छोड़बइ, तोहर हेसेद-वाला के ⟨את⟩ गड्ढा देखऽ नञ देबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/16\/9-11.1792004510273.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "छोड़बइ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शेओल में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देबइ"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "तोहर हेसेद-वाला"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "गड्ढा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:01:50.274373390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 8:21",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר \/ השברתי",
+      "rationale": "एके जड़ के दोहराव — टूटला पर टूट गेलिए — इब्रानी के संगत-खेल, मगही में रखल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "पद-क्रम",
+      "rationale": "KJV\/ASV इ पद के जगह पिछला पद (8:20) के बाक्य के अंग बना देलक; मूल पाठ इ पद के शोक-पीर के बात हकइ।"
+    }
+  ],
+  "translation": "हमर लोग के बेटी के टूटला पर हम टूट गेलिए; हम काजर भए रहल अन; दहसत हमरा पकड़ लेले हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "acb5b3cd3d21efab2b506d45b4e87f34cb07ab5fd115ec35ee4fe005956c2792",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/8\/21-23.1792000313707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "के … पर"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "टूटला"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी के"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमर लोग"
+    },
+    {
+      "surface": "השברתי",
+      "gloss": "हम टूट गेलिए"
+    },
+    {
+      "surface": "קדרתי",
+      "gloss": "हम काजर भए रहल अन"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "दहसत"
+    },
+    {
+      "surface": "החזיקתני",
+      "gloss": "हमरा पकड़ लेले हे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:51:53.708420670Z",
+  "model": "glm-5.3"
+}

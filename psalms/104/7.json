@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ינוסון\/יחפזון",
+      "rationale": "parallel Suffixed infinitive endings -ון pair the two verbs of flight; Magahi loses the rhyme"
+    }
+  ],
+  "translation": "तोहर फटकार से ओ पलाइ गेलन; तोहर गज-गजाहट के आवाज से ओ हड़बड़ा के भाग गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/104\/5-8.1792005809682.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "तोहर फटकार"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "पलाइ गेलन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "तोहर गज-गजाहट"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "हड़बड़ा के भाग गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:29.683582478Z",
+  "model": "glm-5.3"
+}

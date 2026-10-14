@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גול",
+      "rationale": "'लोटऽ हे' (roll\/commit) — KJV\/ASV में 'commit' छुपा देल गेल, इब्रानी के मूल चित्र 'ढेर के ओर लोटना' हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to the mockers' victim",
+      "rationale": "दोसर लोग के बोली — यहवे के हवाले करऽ हे के ठट्टा।"
+    }
+  ],
+  "translation": "यहवे के ओर लोटऽ हे — ऊ ओकरा छुड़ा देतथिन, ऊ ओकरा बचा लेतथिन, काहे कि ऊ ओकरा पर अनुराग रखऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/22\/9-12.1792004611132.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "लोटऽ हे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "छुड़ा देतथिन"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "बचा लेतथिन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "अनुराग रखऽ हथिन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा पर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:31.132497579Z",
+  "model": "glm-5.3"
+}

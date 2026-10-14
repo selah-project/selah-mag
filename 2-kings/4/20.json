@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गोड़",
+      "rationale": "ברכיה is dual 'her knees'; Magahi 'गोड़ पर' natural for sitting on lap, knees kept in parenthesis"
+    }
+  ],
+  "translation": "आउ ओ ⟨את⟩ ओकरा उठौलक आउ ओकर माय के पास लानलक, आउ ऊ दुपहरिया ले ओकर गोड़ पर बइठल रहलक आउ मर गेलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ca253677765070efbb50609183ae5d92d520e264bdfd970bd6e912c26a057b25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/4\/17-20.1791997763147.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "उठौलक"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "लानलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ओकर माय"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "बइठल रहलक"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "ओकर गोड़ (घुटनी)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "दुपहरिया"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर गेलक"
+    }
+  ],
+  "timestamp": "2026-10-14T17:09:23.148068775Z",
+  "model": "glm-5.3"
+}

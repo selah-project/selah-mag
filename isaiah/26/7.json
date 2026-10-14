@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישר",
+      "rationale": "„हे सीधे“ (यहवे के सम्बोधन — KJV\/ASV\/JPS) बनाम विशेषण „सीध“ (BSB); इहाँ सम्बोधन लेल गेल"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תפלס",
+      "rationale": "दोअरथ जड़ — रस्ता समतल करना आउ मन में तोलना (KJV „weigh“)"
+    }
+  ],
+  "translation": "सज्ज के रस्ता सीधाई हकइ; हे सीधे, सज्ज के डहर तूँ समतल करऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "907c19acfe64c85a245e35a5d6bb455d7eea25d6ff3c86c7c1e4d8ca044875b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/26\/5-8.1791999005936.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "सज्ज के"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "सीधाई"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "हे सीधे"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "डहर"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "सज्ज"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "समतल करऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:30:05.937440132Z",
+  "model": "glm-5.3"
+}

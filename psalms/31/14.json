@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 31:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "मगोर मिसबिब",
+      "rationale": "'डर हर ओर से' — तनाख़ के गढ़ल इबारत (यिर्मयाहू 6:25, 20:10), खाली बखान नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "दबत",
+      "rationale": "'दुर्नाम' बनाम JPS 'फुसफुसाहट' — कान के कागज़ बनाम बिगाड़ल बात।"
+    }
+  ],
+  "translation": "काहे कि हम बहुत के दुर्नाम सुनलिए — डर हर ओर से; जब ऊ सब जुटलन, एकठे हमरा बिरुद्ध, हमर परान लेवे के मंसा बान्हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "69a7a776067940c6d8c11359738eef81aac1f5e14588a2392c6139c92624bb75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/31\/13-16.1792004764737.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "सुनलिए"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "दुर्नाम"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुत के"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "डर"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "हर ओर से"
+    },
+    {
+      "surface": "בהוסדם",
+      "gloss": "जब ऊ सब जुटलन"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एकठे"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा बिरुद्ध"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "लेवे बर"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "मंसा बान्हलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:06:04.738415078Z",
+  "model": "glm-5.3"
+}

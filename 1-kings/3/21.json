@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "मगही के क्रिया-पूरक; इब्रानी में कोनो क्रिया नञ हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "राजा के आगे बयान",
+      "rationale": "जनाना राजा के आगे सीधे अपन बयान देत हे"
+    }
+  ],
+  "translation": "आउ भोरे हम उठलइ हमर बेटा के ⟨את⟩ दूध पिआवे बर, आउ देखलन — मरल ⟨हलइ⟩; आउ भोरे हम ओकरा ध्यान से देखलन, आउ देखलन — हमर बेटा नञ हलइ जेकरा हम जन्म देलई।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e3731c071abde7496493c3dacc6ef07386131aadb4194bc841694ab985bbdc14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/3\/21-24.1791996733278.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "उठलइ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "भोरे"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "दूध पिआवे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर बेटा के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमर बेटा के"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखलन"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मरल"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "ध्यान से देखलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "भोरे"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखलन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमर बेटा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "जन्म देलई"
+    }
+  ],
+  "timestamp": "2026-10-14T16:52:13.279354447Z",
+  "model": "glm-5.3"
+}

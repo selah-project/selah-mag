@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרנין",
+      "rationale": "भोर-साँझ गावऽ हे कि ओकर सुरति-चिन्हा के कारे 'रनन' (गावऽ\/हरस-नाचऽ) बटे — मगही में गावऽ लेल गेलइ"
+    },
+    {
+      "kind": "predicate",
+      "subject": "you",
+      "rationale": "मानो तोहरा — परमेश्वर के सीधा सम्बोधन"
+    }
+  ],
+  "translation": "किनारा-किनार बसे लोग तोहरा चिन्हा से डरऽ हथिन; भोर आउ साँझ के निकैत के तूँ गावबऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/65\/9-12.1792005235867.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "डरऽ हथिन"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "बसे लोग"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "किनारा-किनार"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "तोहरा चिन्हा से"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "निकैत"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "आउ साँझ"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "गावबऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:55.868008244Z",
+  "model": "glm-5.3"
+}

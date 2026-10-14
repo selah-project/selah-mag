@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 14:32",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויעש אל שלל",
+      "rationale": "मुहावरा 'लूट के ऊपर करलन' = लपटे से टूट पड़लन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ובני בקר",
+      "rationale": "'बैल के बेटा' = बछवा; शब्द-रूप रखल गेल जान-बूझ के"
+    }
+  ],
+  "translation": "आउ लोग लूट पर टूट पड़लन, आउ भेड़-बकरी आउ बैल आउ बैल के बच्चा लेलन, आउ धरती पर काटलन, आउ लोग खून के संग खइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "531e3f0b0ef3d61561db3690af04afd544bf66c3034f5fc00ff520c4d56de94c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/14\/29-32.1791995234262.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "टूट पड़लन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लूट"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़-बकरी"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "आउ बैल"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आउ बच्चा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बैल के"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "काटलन"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "खइलन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "על",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "खून"
+    }
+  ],
+  "timestamp": "2026-10-14T16:27:14.263465902Z",
+  "model": "glm-5.3"
+}

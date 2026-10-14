@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बाल",
+      "rationale": "मगही का स्वाभाविक क्रिया-पूरक; हिब्रू में केवल 'बच गेलन'"
+    }
+  ],
+  "translation": "आउ मिकल ⟨את⟩ दाविद के खिड़की से उतार देलकिन, आउ ऊ गेलन आउ भाग गेलन आउ बाल बच गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bb33ca57b978b04d0522ec25012d7b95ac8604b30feeecd4ce17b0c63aa797ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/19\/9-12.1791995412305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "उतार देलकिन"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "मिकल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाविद"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "… से"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "खिड़की"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "भाग गेलन"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "बाल बच गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:30:12.306380201Z",
+  "model": "glm-5.3"
+}

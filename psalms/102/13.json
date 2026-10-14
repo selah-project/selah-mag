@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "गद्दी पर",
+      "rationale": "ישב के सिंहासन-अरथ बतावे बर जोड़ल"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨रहतइ⟩",
+      "rationale": "दोसर पाँती के क्रिया मगही के बनावट माँगऽ हइ"
+    }
+  ],
+  "translation": "आउ तूँ, हे यहवे, सदा बर गद्दी पर बैठ रहबे, आउ तोहर स्मरण पीढ़ी-ए-पीढ़ी ले ⟨रहतइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/102\/13-16.1792005805034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "गद्दी पर बैठ रहबे"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "आउ तोहर स्मरण"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "पीढ़ी-ए-पीढ़ी ले"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "पीढ़ी-ए-पीढ़ी ले"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:25.034658576Z",
+  "model": "glm-5.3"
+}

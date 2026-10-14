@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 132:12",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तब",
+      "rationale": "शर्त के फल बतावे बर मगही के 'तब' जोड़ल गेल, इब्रानी में केवल अनुवाद-शर्त"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדי עד",
+      "rationale": "'सदा-सदा' — इब्रानी के दोहराव जस के तस रखल गेल"
+    }
+  ],
+  "translation": "जँ तोहर बेटा हमरी वाचा आउ हमरा के गवाही, जेकरा हम ओकनी के सिखैतइ, के रखवारी करथिन, तब ओकनी के बेटा भी सदा-सदा तोहर गद्दी पर बैठतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/132\/9-12.1792006177735.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "रखवारी करथिन"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "तोहर बेटा"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "हमरी वाचा"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "आउ हमरा के गवाही"
+    },
+    {
+      "surface": "זו",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "हम ओकनी के सिखैतइ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ओकनी के बेटा"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "सदा-"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बैठतइ"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "गद्दी पर"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:37.736023073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 15:20",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצפנו לעריץ",
+      "rationale": "'hidden\/laid up for the tyrant' — KJV 'hidden to the oppressor' (unknown to him) vs YLT 'laid up' (stored up, few years reserved); Magahi keeps 'hidden for the tyrant'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מתחולל",
+      "gloss": "root חול is writhe\/twirl (as in birth-pangs); Magahi बटकैत (writhing\/staggering) keeps the bodily picture."
+    },
+    {
+      "kind": "measurement",
+      "subject": "years",
+      "rationale": "numbering of the tyrant's years — a count reserved."
+    }
+  ],
+  "translation": "दुखार जीव के सब दिन ⟨ऊ⟩ बटकैत रहऽ हइ, आउ ओकरा बरिस के गिनती दबंग बर छिपावल रहऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "045d62d856cd4937b69d0bd74c781a588eb5979e5f4713ca197c41810b2f1809",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/15\/17-20.1792007399128.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुखार जीव के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "מתחולל",
+      "gloss": "बटकैत रहऽ हइ"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "आउ गिनती"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस के"
+    },
+    {
+      "surface": "נצפנו",
+      "gloss": "छिपावल रहऽ हइ"
+    },
+    {
+      "surface": "לעריץ",
+      "gloss": "दबंग बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:49:59.129708991Z",
+  "model": "glm-5.3"
+}

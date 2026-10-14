@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועללתי",
+      "rationale": "עלל के अरथ माथापछाड़े हकइ — 'लेटा देलिए', 'मैला कइलिए', 'रौरआ लेलिए'; 'गड़ा देलिए' लेलिए, काहे कि सिंग धूरी में ओही अरथ देतइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सिंग",
+      "rationale": "קרן सिंग हकइ — बल आउ इज्जत के चिन्हा; मगही में 'इज्जत' मत बोलल गेलइ, आकृति रखल गेलइ"
+    }
+  ],
+  "translation": "हम गुड़िया के बस्तर हमर चमड़ी पर सी लेलिए अउर हमर सिंग धूरी में गड़ा देलिए।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8552818e8be4d4a25762ee92f9e05ae2d078abb39d5dd6cc265d2059fc2b2a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/16\/13-16.1792007428332.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "गुड़िया के बस्तर"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "सी लेलिए"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "हमर चमड़ी"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "गड़ा देलिए"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "धूरी में"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "हमर सिंग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:50:28.333269897Z",
+  "model": "glm-5.3"
+}

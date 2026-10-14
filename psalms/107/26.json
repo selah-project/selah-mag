@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש गला-परान-जीवन-बल हकइ, देह के अलग चीज नञ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלו\/ירדו",
+      "rationale": "चढ़ना-उतरना के उलट-फेर, लहर के उठान-गिराव के तस्वीर"
+    }
+  ],
+  "translation": "ओ अकास के ओर चढ़ऽ हइ, गहिरा पानी में उतरऽ हइ; ओकनी के परान बुराई में घुल जावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "213f323a1eb252fb03113974b76d84387e4d33d740bcc49748feb77cb332705e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/107\/25-28.1792005941870.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "चढ़ऽ हइ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "उतरऽ हइ"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "गहिरा पानी"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ओकनी के परान"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "बुराई में"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "घुल जावऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:41.870754524Z",
+  "model": "glm-5.3"
+}

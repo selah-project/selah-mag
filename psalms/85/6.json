@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אפך",
+      "rationale": "शाब्दिक अरथ 'तोहर नाक' हकइ; इब्रानी में क्रोध नाक से जुड़ल बात हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "תמשך",
+      "rationale": "मासेख — 'खींचना': क्रोध के लमा तानल जाना बनाम देस तक खींचल जाना"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "प्रश्न सीधे परमेश्वर से पूछल गेलइ हे"
+    }
+  ],
+  "translation": "का सदा बर हमनी पर कुढ़ाबै? तोहर नाक के क्रोध पीढ़ी आउ पीढ़ी तक खींचतइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/85\/5-8.1792005644938.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "का सदा बर"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "कुढ़ाबै"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "हमनी पर"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "खींचतइ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "तोहर नाक के क्रोध"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "आउ पीढ़ी तक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:20:44.940370961Z",
+  "model": "glm-5.3"
+}

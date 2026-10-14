@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सात दिन",
+      "rationale": "अभिसेक के नियत समय — सात दिन के गिनती।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "हाथ भरबउ",
+      "rationale": "למלא ידׂ — 'हाथ भरना' = अभिसेक करना; शब्दशः चित्र रखल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "मोशे",
+      "rationale": "यहवे मोशे के सीधे आज्ञा देथिन।"
+    }
+  ],
+  "translation": "आउ तूँ अहरोन आउ ओकर बेटा सब बर एहने करबउ — जे कुछ हम तोहनी के आज्ञा देले हअइ ओकरा मोताबिक; सात दिन ले तूँ ओकनी के हाथ भरबउ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/29\/33-36.1791989007612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "आउ तूँ करबउ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "अहरोन बर"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "आउ ओकर बेटा सब बर"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "जे कुछ… ओकरा मोताबिक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "हम आज्ञा देले हअइ"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "तूँ भरबउ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ओकनी के हाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:43:27.613632665Z",
+  "model": "glm-5.3"
+}

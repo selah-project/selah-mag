@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the elders of Israel",
+      "rationale": "Abner addresses the elders of Israel directly."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Abner's speech",
+      "rationale": "Abner summons the elders to act on their own earlier desire."
+    },
+    {
+      "kind": "idiom",
+      "subject": "גם תמול גם שלשם",
+      "rationale": "'both yesterday and day-before-yesterday' — idiom for 'in times past'; rendered काल आउ परसाल."
+    }
+  ],
+  "translation": "आउ अबनेर के बात यिस्राएल (इस्राएल) के बूढ़ लोग के संग भेल, कहऽ के — काल आउ परसाल तोहनी दाविद (दाऊद) के ⟨את⟩ खोजऽ करै रहलन जे ऊ तोहनी के ऊपर राजा बने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/3\/17-20.1791995891861.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "आउ अबनेर के बात"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अबनेर"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भेल"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "बूढ़ लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के"
+    },
+    {
+      "surface": "גם",
+      "gloss": "काल आउ"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "काल"
+    },
+    {
+      "surface": "גם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "परसाल"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "खोजऽ करै"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाविद"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा बने बर"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तोहनी के ऊपर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:38:11.862427588Z",
+  "model": "glm-5.3"
+}

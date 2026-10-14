@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 29:8",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "कोप",
+      "rationale": "קצף मूल रूप से 'चिपड़ल तीख टुकड़ा' — आक्रोस के तसवीर; मगही में कोप धरल"
+    },
+    {
+      "kind": "you",
+      "subject": "लेवी के लोग",
+      "rationale": "आखिरी बाक्य सुनैया के सीधे सम्बोधन — जइसन तोहनी देख रहल हा"
+    }
+  ],
+  "translation": "एहे से यहवे के कोप यहूदा आउ यरूशलयिम (यरूशलेम) पर पड़लइ, आउ ऊ ओकनी के काँपावे ला, उजाड़े ला आउ तानी-मजाक ला दे देलन — जइसन तोहनी अपन आँख से देख रहल हा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3735a6f091417db9d1bb9abb65cfbdea0e8095ef1894e7ed8add3ccbeb2a755d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/29\/5-8.1792011240778.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "कोप"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "यरूशलयिम (यरूशलेम)"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "दे देलन"
+    },
+    {
+      "surface": "לזועה",
+      "gloss": "काँपावे ला"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "उजाड़े ला"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "तानी-मजाक ला"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "देख रहल हा"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "अपन आँख से"
+    }
+  ],
+  "timestamp": "2026-10-14T20:54:00.779355991Z",
+  "model": "glm-5.3"
+}

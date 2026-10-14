@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "मगही के बाक्य के बर क्रिया-सहायक चाही; इब्रानी के छोटा वाक्य 'כי רב ממך הדרך' में क्रिया नञ हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "एलियाहू बर",
+      "rationale": "दूत दोसर बेर सीधे एलियाहू के सम्बोधन करऽ हइ।"
+    }
+  ],
+  "translation": "आउ यहवे के दूत दोसर बेर लौटलन आउ ओकरा छुअलन आउ कहलन — उठ, खा, काहे कि रस्ता तोहर बर बेसी हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b8fba91d676990940bbc099e07c58177af79a363ad9e903c2589e58c68108b44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/19\/5-8.1791997476825.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "लौटलन"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "दोसर बेर"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "छुअलन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "קום",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बेसी"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तोहर बर"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "रस्ता"
+    }
+  ],
+  "timestamp": "2026-10-14T17:04:36.827084792Z",
+  "model": "glm-5.3"
+}

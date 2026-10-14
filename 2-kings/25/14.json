@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चिमटी",
+      "rationale": "המזמרות literally 'snuffers\/tweezers' for trimming lamp wicks; KJV 'snuffers', rendered चिमटी for the picture."
+    },
+    {
+      "kind": "substitution",
+      "subject": "कटौरी",
+      "rationale": "הכפות is 'palmfuls' — hollow-hand ladles; rendered कटौरी (small bowls)."
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकनी",
+      "rationale": "Hebrew verb לקחו has no explicit subject; the plural 'they' (the Chaldeans from v.13) supplied in Magahi."
+    }
+  ],
+  "translation": "आउ ⟨את⟩ भाँड़ा, आउ ⟨את⟩ फावड़ा, आउ ⟨את⟩ चिमटी, आउ ⟨את⟩ कटौरी, आउ ⟨את⟩ सब ताँबा के बरतन जे ओकरा से सेवा करे में काम आवऽ हलइ — ओकनी ले लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c7cb550643f972caf7279dd9b8a8f82b3fc0403313a7b5a596b557930b8d142d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/25\/13-16.1791998535835.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "भाँड़ा"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "भाँड़ा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "फावड़ा"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "फावड़ा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "चिमटी"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "चिमटी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "कटौरी"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "कटौरी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सब ताँबा के बरतन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बरतन"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ताँबा के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "सेवा करे में काम आवऽ हलइ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ले लेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:22:15.836176992Z",
+  "model": "glm-5.3"
+}

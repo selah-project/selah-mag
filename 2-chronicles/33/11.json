@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 33:11",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בחחים",
+      "rationale": "काँड़ा (झाड़ी में) बनाम नथुनी के काँड़ा — JPS 'काँड़ा से', KJV 'झाड़ियन में'; दुनू अरथ जड़ गोड़ से आवऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ताम्बा के बेड़ी",
+      "rationale": "נחשתים सचमुच 'ताम्बा (के बरतन)' हकइ; बेड़ी संदर्भ से जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "आउ यहवे ओकनी ऊपर चढ़ाएलन ⟨את⟩ अस्सूर के राजा के सेना के सरदार सब के; ओकनी काँड़ा से पकड़लन ⟨את⟩ मनस्सेह के, ताम्बा के बेड़ी में बान्हलन, आउ ओकरा बाबेल लांगेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a2fc12ba1e98b77b63b3e2e8ec8968a929031a154d8bcae118f09cc232a47544",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/33\/9-12.1792011295220.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "चढ़ाएलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ओकनी ऊपर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अस्सूर के राजा के सेना के सरदार सब"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदार सब"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "सेना के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "पकड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मनस्सेह"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनस्सेह"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "काँड़ा से"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "बान्हलन"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "ताम्बा के बेड़ी में"
+    },
+    {
+      "surface": "ויוליכהו",
+      "gloss": "लांगेलन"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "बाबेल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:54:55.221172042Z",
+  "model": "glm-5.3"
+}

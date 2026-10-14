@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הולך למות",
+      "rationale": "शाब्दिक रूप में 'मौत के ओर जा रहलइ हन' — बोलचाल के चाल हकइ, 'मरे जा रहलइ हन' रखल गेलइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "मरे जा रहलइ हन",
+      "rationale": "कुछ अनुवादक कहथिन एसाव के अतिशयोक्ति हकइ (भूख से नञ मरन), कुछ के मानना हकइ कि ओकरा सचमुच जान हकइ; मूलपाठ दुनो छोड़ऽ हइ।"
+    }
+  ],
+  "translation": "आउ एसाव कहलक, “देखऽ, हम मरे जा रहलइ हन, त ई जेठापन हमरा की बर हकइ?”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "23c5b02ae06830e0e042dacae35c01960d06e72fbf9e680b5e507eaa8ecf88c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/25\/32-32.1792011506762.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "जा रहलइ हन"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मरे"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "त की बर"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "जेठापन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:58:26.763198473Z",
+  "model": "glm-5.3"
+}

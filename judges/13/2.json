@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 13:2",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "ותהי existential verb rendered as past copula"
+    }
+  ],
+  "translation": "आउ एक आदमी हलइ त्सोराह के, दान के कुल के, आउ ओकर नाम मानोआख़ — आउ ओकर जनाना बाँझ हलइ, आउ जनम नञ देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7d426e7f1fd3991cdcac35c60285e776bf96e02eebae00c5c13a1199951556e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/13\/1-4.1791994402625.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "हलइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מצרעה",
+      "gloss": "त्सोराह"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "के कुल के"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "दान"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "आउ ओकर नाम"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "मानोआख़"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "आउ ओकर जनाना"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "बाँझ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनम देलक"
+    }
+  ],
+  "timestamp": "2026-10-14T16:13:22.625989320Z",
+  "model": "glm-5.3"
+}

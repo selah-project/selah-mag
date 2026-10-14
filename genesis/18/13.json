@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 18:13",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צחק",
+      "rationale": "laugh-root runs through 18:12–15 (सारा-हँसी, यित्सहाक के नाम के जड़); repetition kept as हँसल each time."
+    },
+    {
+      "kind": "you",
+      "subject": "to Abraham",
+      "rationale": "यहवे अवराहाम से सवाल करऽ हइ, तीनों दूत में से एक के बोली।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हन",
+      "rationale": "Magahi needs a present-tense verb where Hebrew has only זקנתי (perfect)."
+    }
+  ],
+  "translation": "यहवे अवराहाम से कहलन — काहे ई कइलन हे कि सारा हँसलक हे, ई कहऽ के: का सचमुच हम बेटा जनबइ, आउ हम त बुढ़ा गेलइ हन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e7cfd20fb23b819e52f4bb8dae36f08279c60579165b1da5948e9cc1d3f916de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/18\/13-16.1791986667050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "צחקה",
+      "gloss": "हँसलक हे"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के"
+    },
+    {
+      "surface": "האף",
+      "gloss": "का"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "אלד",
+      "gloss": "बेटा जनबइ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आउ हम"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "बुढ़ा गेलइ हन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:04:27.051044758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "surya\/chan refrain",
+      "rationale": "v8-9 mirror: suruj by din, chan-tara by raat — the pair-structure carries the whole creation litany."
+    },
+    {
+      "kind": "elision",
+      "subject": "בלילה",
+      "rationale": "'night' as a twist-away of light; rendered plainly as raat, the picture lost."
+    }
+  ],
+  "translation": "⟨את⟩ चान आउ तारा सब के रात में हुकूमत करावे बर — काहे कि सदा ले ओकर हेसेद हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6878842d7f85e6c13eebce35360ead4f69361d0e960a09cf83082446e8cd9593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/136\/9-12.1792006264808.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चान"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "चान"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "आउ तारा सब"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "हुकूमत करावे बर"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:04.809830323Z",
+  "model": "glm-5.3"
+}

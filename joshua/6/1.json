@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סגרת\/מסגגרת",
+      "rationale": "एके जड़ सावर के दू बेर — बन्न हलइ \/ बन्न-बन्नाएल हलइ — ओकर घेराव के भार देत हइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "'के मुँह से' — मुख से डर के चलनसार अरथ, इहाँ कारण बतावऽ हइ।"
+    }
+  ],
+  "translation": "आउ यिरिहो बन्न हलइ, यिस्राएल के बेटासब के मुँह से बन्न-बन्नाएल हलइ; कोनो बाहिर नञ जाए रहलइ आउ कोनो भीतर नञ आए रहलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "be71cc7ae851ab512c4d6208c291dcb6079c0db26b396ef784b36f0d9c454956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/6\/1-4.1791993297758.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "आउ यिरिहो"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "बन्न हलइ"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "बन्न-बन्नाएल हलइ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…के मुँह से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटासब के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אין",
+      "gloss": "कोनो … नञ"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "बाहिर जाए वाला"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ कोनो … नञ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "भीतर आए वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T15:54:57.758685279Z",
+  "model": "glm-5.3"
+}

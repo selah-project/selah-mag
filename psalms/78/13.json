@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בקע",
+      "rationale": "बाक्य 13 आउ 15 में एके क्रिया-जड़ (चीरना) — समुंदर आउ पत्थल दुनू के चीरल गेल, एही दोहराव मगही में बचल हे।"
+    }
+  ],
+  "translation": "समुंदर के चीरलन आउ ओकनी के पार कए देलन; आउ पानी के ढेर जइसन खड़ा कए देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/13-16.1792005476885.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "चीरलन"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "पार कए देलन ओकनी के"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "खड़ा कए देलन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:56.885931584Z",
+  "model": "glm-5.3"
+}

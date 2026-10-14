@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨कोनो⟩",
+      "rationale": "हिब्रू क्रिया के बनावट वाक्य में बतावे बर मगही में सहायक रूप चाही"
+    },
+    {
+      "kind": "crux",
+      "subject": "मקדשים",
+      "rationale": "पवित्तर लोग बनाम देवदूत — अनुवादक लोग मतभेद रखऽ हथिन"
+    },
+    {
+      "kind": "you",
+      "subject": "अय्यूब के सोझाँ",
+      "rationale": "एलीफास अय्यूब के सीधे प्रस्न से सुरुआत करऽ हथिन"
+    }
+  ],
+  "translation": "अबहीं पुकारऽ — की ⟨कोनो⟩ हइ जे तोहरा जवाब देतइ? आउ कोन पवित्तर लोग के दने तूँ मुँह फेरबइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "818959b0fefbe470fa0a0a653079fc1c58d285d3994a77ac701c71d11b28f2e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/5\/1-4.1792007253301.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "पुकारऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "היש",
+      "gloss": "की हइ"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "तोहरा जवाब"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ दने"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "पवित्तर लोग"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "मुँह फेरबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:33.301855440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "वंस-सूची",
+      "rationale": "पिता-पुत्र के नाम के कड़ी के गिनती-सूची।"
+    }
+  ],
+  "translation": "आउ बिन्यामीन के बेटा सब में से — सल्लू, मेशुल्लाम के बेटा, होदवा-याह के बेटा, हस्सेनुआह के बेटा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "56f9dd9c07bd323f8f336fe866d353d3ea707eaadc17072000eb0c20ab7e6dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/9\/5-8.1792010085029.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "आउ … में से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "सल्लू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "मेशुल्लाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "होदवा-याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "हस्सेनुआह"
+    }
+  ],
+  "timestamp": "2026-10-14T20:34:45.030163150Z",
+  "model": "glm-5.3"
+}

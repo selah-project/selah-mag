@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצא את כלם",
+      "rationale": "'सब के मध्य से निकलतइ' — KJV 'come forth of them all', JPS 'discharge himself of them all', BSB 'दूनो चेतावनी के पालन' — अरथ बाँटल हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "मध्य से",
+      "rationale": "עם כלם ('सब के संग') के अरथ खोलै बर मगही में जोड़ल गेल।"
+    }
+  ],
+  "translation": "भला हइ जे तूँ एकरा पकड़ऽ हउ, आउ एकरो से ⟨את⟩ अपन हाथ मत छोड़ऽ; काहे कि जे एलोहीम के डरऽ हइ, ऊ ⟨את⟩ सब के मध्य से निकलतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/7\/17-20.1792008466815.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "पकड़"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "एकरा"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ — ओकरो"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "एकरो से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "छोड़"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन हाथ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "अपन हाथ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डरै वाला"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सब"
+    }
+  ],
+  "timestamp": "2026-10-14T20:07:46.816518047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "गिरलन",
+      "rationale": "ונפל 'पर गिरलन' — बचन के तीर जइसन आघात कइल जाना; अरथ 'पहुँचलन आउ चुभलन'"
+    }
+  ],
+  "translation": "अदोनाय याकोव (याकूब) में एक बचन भेजलन, आउ ऊ यिस्राएल (इस्राएल) पर गिरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2bbdfc49d2fcd5360d3546ccb096bdc7b6771e1c99f012b8e26825b675f1b0bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/9\/5-8.1791998841937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "याकोव (याकूब) में"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "आउ गिरलन"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिस्राएल (इस्राएल) पर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:27:21.938852689Z",
+  "model": "glm-5.3"
+}

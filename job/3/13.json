@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 3:13",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "रहितइ",
+      "rationale": "इब्रानी पूरा काल्पनिक रूप में चुपचाप कहऽ हइ; मगही के भबिस-भूत रूप जोड़ल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכב\/ישן\/נוח",
+      "rationale": "लेटना, निद जाना, आराम — मौत के तीन ठा रूप एके पाँती में दोहरावल मोटिफ हकइ।"
+    }
+  ],
+  "translation": "काहे कि अब हम लेटलइ रहितइ आउ चुप रहितइ, हम निद गेलइ रहितइ, तब हमरा आराम भेटलइ रहितइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8a181b5fc0d00486d693f5149c13c170114b2e44865f92d27c8aabb3761f5a52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/3\/13-16.1792007119630.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "हम लेटलइ रहितइ"
+    },
+    {
+      "surface": "ואשקוט",
+      "gloss": "आउ चुप रहितइ"
+    },
+    {
+      "surface": "ישנתי",
+      "gloss": "हम निद गेलइ रहितइ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "आराम भेटलइ रहितइ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:45:19.630713106Z",
+  "model": "glm-5.3"
+}

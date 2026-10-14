@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשע ... רשע",
+      "rationale": "ओकरा घर के दुष्ट आदमी आउ दुष्टता के खजान — एके जड़ के दोहराव, जेकर असर अनुवाद में कम हो गेल।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "האש",
+      "rationale": "'का ... होवऽ हकइ' — इब्रानी के 'अझे तक का जे' के प्रश्नवाची बनावट।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זעומה",
+      "rationale": "ज़ेउमा (नफरत कइल \/ सरापल) — मिकाह 6:10 में एक्को बेर पूरा तनाख़ में।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "איפת רזון",
+      "rationale": "एफा — अनाज के नाप — आउ ओकर कम नापल बनावट, बेइमानी के बेपमान।"
+    }
+  ],
+  "translation": "अझे तक दुष्ट के घर में दुष्टता के खजान ⟨होवऽ हकइ⟩, आउ कम नापल एफा, जेकर सरापल गेलन हो?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "14ecb6a1b26b324bf8125e185a8da189ca560aabba32e9cbc819594ea1fbcee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/6\/9-12.1792003815937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "अझे तक"
+    },
+    {
+      "surface": "האש",
+      "gloss": "का"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "खजान"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्टता"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "आउ एफा"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "कम नापल"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "सरापल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:50:15.938705015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 12:26",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתר",
+      "rationale": "पढ़ाव के फरक: 'यָתֵר' (ढिसा साथी से बेसी हकइ) बनाम 'יָתוּר' (ढिसा साथी के बतावऽ हइ \/ खोजऽ हइ)"
+    },
+    {
+      "kind": "addition",
+      "subject": "रस्ता",
+      "rationale": "इब्रानी में 'रस्ता' सब्द नञ हकइ; बतावे के बिसय सुभाविक बनाबे बर जोड़ल"
+    }
+  ],
+  "translation": "ढिसा अपन साथी के ⟨रस्ता⟩ बतावऽ हइ, बाकि दुष्ट के रस्ता ओकनी के भटकावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9136c9714744cef947660639869b61fd6356ef824be8fe041eb9c9a3cf58a2fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/12\/25-28.1792006668747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "बतावऽ हइ"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "अपन साथी के"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ढिसा"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "बाकि रस्ता"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट के"
+    },
+    {
+      "surface": "תתעם",
+      "gloss": "ओकनी के भटकावऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:37:48.748072047Z",
+  "model": "glm-5.3"
+}

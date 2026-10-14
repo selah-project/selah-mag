@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 23:17",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "एही ठाम इब्रानी के אתו 'ओकर संग' (संग-बेचार उपसर्ग) हकइ, केवड़-चिन्हा नञ — ⟨את⟩ के चिन्हा टोकन में रखल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "हिब्रू के प्रश्न में क्रिया 'कहलन हकइ' के जोड़ल गेल"
+    }
+  ],
+  "translation": "ऊ ओकरा लग अइलन, आउ देखू, ऊ ओकर बलि के लग ठाढ़ हलइ, आउ मोआब के सरदार ⟨את⟩ ओकर संग; आउ बालाक ओकरा कहलन, का यहवे कहलन हकइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea3788f67f9d0171360c4368d4d698cafff47776f74eac58fb090edb2e091f00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/23\/17-20.1791991491177.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "והנו",
+      "gloss": "आउ देखू"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ठाढ़ हलइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के लग"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ओकर बलि"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "आउ सरदार"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब के"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकर संग",
+      "marks": "ओकर संग"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:24:51.178087717Z",
+  "model": "glm-5.3"
+}

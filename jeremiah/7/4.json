@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "היכל יהוה ×3",
+      "rationale": "तीन बेर दोहराव — मंदिर-भरोसे के जादू-स्वर, मगही में दोहराव बचलइ हे"
+    },
+    {
+      "kind": "crux",
+      "subject": "המה — ई सब हथिन",
+      "rationale": "‘ए हथिन’ (मंदिर) बनाम ‘ई सब बात हथिन’ (झूठ के शब्द); क्रिया बिना — ‘are’ के आगमन"
+    }
+  ],
+  "translation": "झूठ के बात पर तोहनी भरोसा मत करऽ, जे कहऽ हथिन: यहवे के मंदिर, यहवे के मंदिर, यहवे के मंदिर — ई सब हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c08a3ae0e5e7275241ba019f1ce5004e3b1c89172a6d7145828c29977594b657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/7\/1-4.1792000276957.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "भरोसा करऽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "जे कहऽ हथिन"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "मंदिर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "मंदिर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "मंदिर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ई सब हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:51:16.959077349Z",
+  "model": "glm-5.3"
+}

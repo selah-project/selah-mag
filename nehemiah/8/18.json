@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 8:18",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ऊ⟩",
+      "rationale": "इब्रानी में करता छुपल हइ (एज्रा); सर्बनाम मगही में जोड़ल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויקרא",
+      "rationale": "करा के मूल अरथ 'पुकारना\/बोलावना' हकइ; संदर्भ में 'पढ़के सुनाना' चलनसार अनुवाद हकइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יום ביום",
+      "rationale": "शाब्दिक 'दिन दिन में' — 'दिन-प्रति-दिन' रोज के बात कहऽ हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सात दिन \/ आठमा दिन",
+      "rationale": "परब के दिन गिनल गेलइ हइ — सात दिन, फिर आठमा।"
+    }
+  ],
+  "translation": "आउ ⟨ऊ⟩ एलोहीम के तोरा के किताब में पढ़लन, दिन-प्रति-दिन, पहिला दिन से अन्तिम दिन ले; आउ ओकनी सात दिन के परब कएलन, आउ आठमा दिन मिलन-सभा, नियम के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3a927790594a465df39ae0df261330ada2b887867fccb5ce31702df9bc8d46be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/8\/17-18.1792009672134.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "पढ़लन"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "किताब में"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "अन्तिम"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "कएलन"
+    },
+    {
+      "surface": "חג",
+      "gloss": "परब"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "आउ दिन"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "आठमा"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "मिलन-सभा"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "नियम के मोताबिक"
+    }
+  ],
+  "timestamp": "2026-10-14T20:27:52.134898906Z",
+  "model": "glm-5.3"
+}

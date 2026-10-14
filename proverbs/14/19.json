@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 14:19",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "दुष्ट लोग … पर",
+      "rationale": "दोसरा पंदम में किरिया नञ हइ — 'झुकलन' पहिला पंदम से साझा होकर चलऽ हइ, जइसन इब्रानी के बनावट हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "दुआरी के बितरिया",
+      "rationale": "पुरान समय में नगर के दुआरी पर नियाव होवऽ हलइ — दुष्ट धरमी के दुआरी पर झुकाव के अरथ ई संदर्भ से"
+    }
+  ],
+  "translation": "बुरा लोग अच्छा लोग के आगे झुकलन, आउ दुष्ट लोग त्सादिक (धरमी) के दुआरी पर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fa652684ce147f7d204a6021ed99f4ccaea5798d5fa03f38101461c4303987c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/14\/18-19.1792012096108.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחו",
+      "gloss": "झुकलन"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "बुरा लोग"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "अच्छा लोग"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "आउ दुष्ट लोग"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "त्सादिक (धरमी) के"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:16.108746838Z",
+  "model": "glm-5.3"
+}

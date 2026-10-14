@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 7:16",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ופלטו\/פליטיהם",
+      "rationale": "एके जड़ के दू रूप — बचै आउ बचल लोग — इब्रानी के पुनरुक्ति, मगही में आंशिक रूप से बचल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "המות",
+      "rationale": "परेमी के हल्ला — KJV\/JPS 'mourning\/moaning' बनाम YLT 'make a noising'; हल्ला या बुनबुनाहट, दुनू संभव।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בעונו",
+      "rationale": "'आपन अपराध बर' — KJV 'for his iniquity' बनाम ASV\/JPS 'in his iniquity'; बिना-जोड़ के 'बर' के स्थान पर 'में' पढ़ै के विकल्प भी हकइ।"
+    }
+  ],
+  "translation": "आउ ओकनी के बचल लोग बच जतइ, आउ ओ पहाड़ के ऊपर होतइ, खोह के परेमी जइसन — सब बुंबइ, हर एक आपन अपराध बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cf9721e4dacf5dabed144d5e47944140e38dd0231524cad43881d6aa5abfc196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/7\/13-16.1792001767572.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלטו",
+      "gloss": "आउ बच जतइ"
+    },
+    {
+      "surface": "פליטיהם",
+      "gloss": "ओकनी के बचल लोग"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "כיוני",
+      "gloss": "परेमी जइसन"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "खोह"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सब"
+    },
+    {
+      "surface": "המות",
+      "gloss": "बुंबइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "आपन अपराध बर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:16:07.573535073Z",
+  "model": "glm-5.3"
+}

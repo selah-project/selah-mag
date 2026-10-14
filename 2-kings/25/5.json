@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מैदान",
+      "rationale": "ערבות यरीहो के खाली पथरील मैदान बर खड़ी बात हकइ, हमनी 'मैदान' लिएलियन"
+    },
+    {
+      "kind": "addition",
+      "subject": "आउ",
+      "rationale": "वाक्य के जोड़ बर मगही के जोड़-सब्द"
+    }
+  ],
+  "translation": "आउ कस्दीम के फौज राजा के पाछे दौड़लन, आउ ओकरा यरीहो के मैदान में पकड़ लिएलन; आउ ओकर पूरा फौज ओकरा से बिखर गेल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4a33f1d20b527adee1b8f32585bb37f33c97779f8be64cb6a53d0775f5248124",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/25\/5-8.1791998533316.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "दौड़लन"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "फौज"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "कस्दीम"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "पकड़ लिएलन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "मैदान में"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "यरीहो के"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ पूरा"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "फौज"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "बिखर गेल"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:22:13.317042291Z",
+  "model": "glm-5.3"
+}

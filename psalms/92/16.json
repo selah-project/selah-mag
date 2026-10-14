@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלתה בו",
+      "rationale": "'No wrong in him' vs LXX reading 'no unrighteousness in him'; rendered with the one Hebrew noun अधरम"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צורי",
+      "rationale": "'My cliff\/rock' — चट्टान keeps the stone picture, suffix as हमर"
+    }
+  ],
+  "translation": "काहे कि यहवे सीधा हकइ, ऊ हमर चट्टान हकइ, आउ ओकरा में कोनो अधरम नञ हकइ — ई बतावे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e412f0d7e0e31b96a367318f0332ee2c9e539cbdac9c9c401c93314e702759b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/92\/13-16.1792005717197.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "बतावे बर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "हमर चट्टान"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ … नञ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "अधरम"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:57.198095877Z",
+  "model": "glm-5.3"
+}

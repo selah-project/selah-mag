@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 4:10",
+  "book": "joel",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "हल",
+      "rationale": "אתיכם ओही खेती-औजार हकइ जे यसायाह 2:4 में तलवार से हल बनऽ हइ — इहाँ उलटा: हल से तलवार।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החלש\/גבור",
+      "rationale": "दुर्बल आउ बलवान के उलट-फेर — लोहा के जुग में दुर्बल अपन के बलवान घोसित करऽ हइ।"
+    }
+  ],
+  "translation": "अपन हल के तलवार में पीटौ आउ अपन कटैली के भाला में; दुर्बल कहतइ — हम बलवान हइ!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0997044e2f77a740ce21012aa8c88b8e0770f48280e91573ed9e7b6531fd3d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joel\/4\/9-12.1792003429606.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתו",
+      "gloss": "पीटौ"
+    },
+    {
+      "surface": "אתיכם",
+      "gloss": "हल"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "तलवार में"
+    },
+    {
+      "surface": "ומזמרתיכם",
+      "gloss": "आउ कटैली"
+    },
+    {
+      "surface": "לרמחים",
+      "gloss": "भाला में"
+    },
+    {
+      "surface": "החלש",
+      "gloss": "दुर्बल"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहतइ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    }
+  ],
+  "timestamp": "2026-10-14T18:43:49.606990209Z",
+  "model": "glm-5.3"
+}

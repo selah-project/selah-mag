@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עלי",
+      "rationale": "“के अगुआ” तोरह-सब्द हकइ; अंग्रेजी में “against” बोलऽ हइ, मगही में अलग चाल"
+    },
+    {
+      "kind": "crux",
+      "subject": "נשאת עון",
+      "rationale": "“अविधा उठालक” (ढोलक) बनाम “क्षमा कएलक” — मूल बिंब उठावे के हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עון חטאתי",
+      "rationale": "“हमरा पाप के अविधा” — इब्रानी के बंधी-बनावट जस के तस रखल गेल"
+    }
+  ],
+  "translation": "हमरा पाप हम तोहनी के जनावलिअन, आउ हमरा अविधा हम नञ छुपावलिअन; हम कहलिअन — हम यहवे के अगुआ हमरा अवज्ञा के अंगीकार करब — आउ तूँ उठालक हमरा पाप के अविधा। सेला",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/32\/5-8.1792004917921.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "हमरा पाप"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "तोहनी के जनावलिअन"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "आउ हमरा अविधा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "छुपावलिअन"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "हम कहलिअन"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "अंगीकार करब"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "के अगुआ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "हमरा अवज्ञा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "उठालक"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अविधा"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "हमरा पाप के"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:08:37.922117829Z",
+  "model": "glm-5.3"
+}

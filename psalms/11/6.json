@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פחים",
+      "rationale": "पחिझ: 'जाल' (KJV, ASV) बनाम 'जलतल कोइला' (JPS, BSB — גחלים पढ़ के); हमनी 'जाल' रखनी अइसन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "רוח खाली बतास नञ हकइ — बतास, साँस, आत्मा तीनों अरथ; एके रूप हर जगह।"
+    }
+  ],
+  "translation": "बुरा लोग के ऊपर ऊ जाल बरसातन — आग, गंधक आउ जलतल रूआख; ई हथ ओकनी के प्याला के बाँट।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5f1e56125751dfffeb940472ce815466585af3ada1439e3fabfedd1fc9d2e27b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/11\/5-7.1792004527601.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "बरसातन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बुरा लोग"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "जाल"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "आउ गंधक"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आउ रूआख"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "जलतल"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "बाँट"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "ओकनी के प्याला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:07.601743637Z",
+  "model": "glm-5.3"
+}

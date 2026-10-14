@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 8:16",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויזעקו",
+      "rationale": "शाब्दिक 'चिल्लालन\/शोर मचालन' — इहाँ इकट्ठा करऽ के ढिंढोरा-सब्द; 'कोलाहल कइलन' लेल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לרדף \/ וירדפו",
+      "rationale": "एके जड़ दू बेर — 'दौरऽ बर' आउ 'दौरलन' — नगर खाली करए के जाल के दोहराव।"
+    }
+  ],
+  "translation": "आउ जे सब लोग नगर में हलथिन, ओकनी कोलाहल कइलन कि ओकनी के पाछा-पाछा दौरऽ हइ; आउ ओकनी यहोशुआ के पाछा दौरलन आउ नगर से खिंचाइल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1405c917282e6929f518035c0adeb1d1003df8978adfed62d587b9e64d83e2dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/8\/13-16.1791993370425.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעוו",
+      "gloss": "कोलाहल कइलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "पाछा-पाछा दौरऽ बर"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ओकनी के पाछा"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "दौरलन"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पाछा"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ के"
+    },
+    {
+      "surface": "וינתקו",
+      "gloss": "खिंचाइल गेलन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:56:10.426348287Z",
+  "model": "glm-5.3"
+}

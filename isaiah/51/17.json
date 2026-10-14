@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Jerusalem",
+      "rationale": "तीन आज्ञा-किरिया — जागऽ, जागऽ, ठाढ़ होऽ — यरूशलयिम के सीधे सम्बोधन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שתית…שתית",
+      "rationale": "‘पीलह’ के दुहराव — हिब्रू के दोहरावल किरिया, मगही में दुनू बेर रखल गेल।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "קבעת",
+      "rationale": "קובעת (गहिरा प्याला) तनाख़ में खाली इहे हकइ।"
+    }
+  ],
+  "translation": "जागऽ, जागऽ, ठाढ़ होऽ, हे यरूशलयिम (यरूशलेम), जे तूँ यहवे के हाथ से ⟨את⟩ ओकर क्रोध के प्याला पीलह, ⟨את⟩ लड़खड़ावे के प्याला के प्याला पीलह आउ ओकरा निचोड़ के पिलह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7112d8e37592ff0d5cf08248a135edffdeb875e39a2c2ef37784d1f4181ff15a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/51\/17-20.1791999758385.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "जागऽ"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "जागऽ"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ठाढ़ होऽ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "पीलह"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "के हाथ से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "क्रोध के प्याला"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "प्याला"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "ओकर क्रोध"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लड़खड़ावे के प्याला"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "गहिरा प्याला"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "प्याला"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "लड़खड़ावे के"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "पीलह"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "निचोड़ के पिलह"
+    }
+  ],
+  "timestamp": "2026-10-14T17:42:38.385919479Z",
+  "model": "glm-5.3"
+}

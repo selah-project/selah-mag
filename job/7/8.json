@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया-संबंध छोड़ल गेलइ — मगही के बूती बाक्य के ला ⟨हकइ⟩ जोड़ल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "to एलोहीम",
+      "rationale": "दोसर पंक्ति एलोहीम के तोहर आँख से सीधा संबोधन हकइ"
+    }
+  ],
+  "translation": "जे आँख हमरा देखलक ऊ हमरा आगे नञ देखतइ; तोहर आँख हमरा पर ⟨हकइ⟩ आउ हम नञ रहितइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3cfe5458642df1498efa318219a2c98ee34948bf8f37108903027906b8c3a120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/7\/5-8.1792007211167.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "देखतइ हमरा"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "देखै वाला के"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "तोहर आँख"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा पर"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "आउ हम नञ रहितइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:46:51.167888330Z",
+  "model": "glm-5.3"
+}

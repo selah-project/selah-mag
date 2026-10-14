@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 36:31",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בפניכם",
+      "rationale": "'अपने चेहरे में' — अपने प्रति घृणा करना; शाब्दिक मगही ई चित्र नञ देतइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונקטתם",
+      "rationale": "कुत्तो — शाब्दिक 'काटना'; 'घिन खाना' बनाम 'अपने को घृणा का ठहराना' — पुरान अनुवादक के बिबाद।"
+    }
+  ],
+  "translation": "आउ तोहनी ⟨את⟩ अपन रस्ता, जे बुरा हल, आउ अपन काम जे भला नञ हल, के स्मरण करब, आउ अपन अपराध के बदला आउ अपन घिनावन काम के बदला अपन आगू मुँह मोड़ के घिन खाब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7d443dea66ff362a7f0113d9958efa72b7800bef0acad00c50eafbb20099103b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/36\/29-32.1792002783468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרתם",
+      "gloss": "आउ ... स्मरण करब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन रस्ता"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "अपन रस्ता"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "जे बुरा हल"
+    },
+    {
+      "surface": "ומעלליכם",
+      "gloss": "आउ अपन काम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "भला"
+    },
+    {
+      "surface": "ונקטתם",
+      "gloss": "आउ ... घिन खाब"
+    },
+    {
+      "surface": "בפניכם",
+      "gloss": "अपन आगू मुँह मोड़ के"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "अपन अपराध"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ ... के बदला"
+    },
+    {
+      "surface": "תועבותיכם",
+      "gloss": "अपन घिनावन काम"
+    }
+  ],
+  "timestamp": "2026-10-14T18:33:03.469300596Z",
+  "model": "glm-5.3"
+}

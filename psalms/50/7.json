@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "सुन",
+      "rationale": "'शमा' के हुकुम — पढ़निहार के खींचे वाला सम्बोधन।"
+    },
+    {
+      "kind": "you",
+      "subject": "हमर परजा \/ यिस्राएल",
+      "rationale": "सीधा सम्बोधन — यिस्राएल के ओर।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हउन",
+      "rationale": "मगही के बाक्य-बनावट बर क्रिया-होवे के सब्द, इब्रानी में नञ हकइ।"
+    }
+  ],
+  "translation": "सुन, हमर परजा, आउ हम बात कहबइ; यिस्राएल (इस्राएल), आउ हम तोहर विरुद्ध गवाही देबइ — एलोहीम, तोहर एलोहीम, हम ⟨हउन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/50\/5-8.1792005057825.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमर परजा"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "आउ हम बात कहबइ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "आउ हम गवाही देबइ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहर विरुद्ध"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:57.827761668Z",
+  "model": "glm-5.3"
+}

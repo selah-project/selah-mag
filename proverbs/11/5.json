@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक",
+      "rationale": "צדקה के एके लिप्यन्तरन त्सेदेक रखल गेलइ, अनुवाद नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "וברשעתו",
+      "rationale": "अरथ दू किसिम के हकइ — 'ओकर बुराई से' (बुरा आदमी अपने बुराई में गिरऽ हइ) बनाम 'बुरा आदमी के बुराई में' (भला आदमी गिरऽ हइ); पहिला लेलन"
+    }
+  ],
+  "translation": "भला-मानल आदमी के त्सेदेक ओकर रस्ता सीधा करऽ हइ, आउ ओकर बुराई से बुरा आदमी गिर जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f062b502b3555d788633c3c73d1110edcf11ed908c5e08e65ccb17fc3c76daac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/11\/5-8.1792006637935.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "त्सेदेक"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "भला-मानल आदमी के"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "सीधा करऽ हइ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ओकर रस्ता"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "आउ ओकर बुराई से"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "गिर जातइ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुरा आदमी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:37:17.936353732Z",
+  "model": "glm-5.3"
+}

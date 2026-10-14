@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 20:9",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आगू",
+      "rationale": "בראש शाब्दिक अरथ 'माथा पर' हकइ; अनुवाद में संबंध साफ करे बर जोड़ल गेलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सामंत लोग",
+      "rationale": "שטר אफसर\/लिखिनिहार अधिकारी हकइ; 'सामंत' नजदीकी उपाधि हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "बिधान के बात मोशे के जरे यिस्राएल के परजा से कहल गेलइ"
+    }
+  ],
+  "translation": "आउ ई होतइ कि जब सामंत लोग परजा से बात कहलक पूरा करतइ, तब ऊ लोग सेना के सरदार लोग के परजा के ⟨आगू⟩ नेमित लगातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b2dae9be1df1f72980f92d3961b3be13c96949c81f33f8a1141754d2cb63961a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/20\/9-12.1791992542070.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ ई होतइ कि"
+    },
+    {
+      "surface": "ככלת",
+      "gloss": "जब पूरा करतइ"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "सामंत लोग"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बात कहलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजा"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "तब ऊ लोग नेमित लगातइ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदार लोग के"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "आगू पर"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:42:22.070981639Z",
+  "model": "glm-5.3"
+}

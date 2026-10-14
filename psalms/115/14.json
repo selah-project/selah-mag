@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עליכם עליכם",
+      "rationale": "दोहराव जोर देवे बर — मगही में दोहराव रखल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी सब",
+      "rationale": "इस्राएल के परजा के सीधा सम्बोधन"
+    }
+  ],
+  "translation": "यहवे तोहनी सब पर आउ जोड़हथिन — तोहनी सब पर आउ तोहनी के बेटा सब पर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/115\/13-16.1792006016550.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "आउ जोड़हथिन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तोहनी सब पर"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तोहनी सब पर"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ … पर"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "तोहनी के बेटा सब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:56.551109168Z",
+  "model": "glm-5.3"
+}

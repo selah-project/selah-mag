@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחלת לענות",
+      "rationale": "ई बाजा-तुक या गीत के नाम हकइ — कोनो गीत के ठठरिया नाम ('महलत लिन्नोथ' — दुख के जवाब) बनाम बिमारी-दुख के बिबरन; दुनू पढ़ाव मिलऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "למנצח",
+      "rationale": "मूल मन बाजा-वाला सब के मुखिया\/गायक-सरदार; गीत के माथापन्ना हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "शीर्सक",
+      "rationale": "गीत के बिबरनी-पट्टी: कोन, के बर, कउन ढंग गावल जा हइ — गीत के अंग-नाप।"
+    }
+  ],
+  "translation": "गीत, बाजा-गीत, कोरह के बेटा सब के बर, ⟨बाजा-वाला सब के⟩ मुखिया बर, महलत पर, दुख के जवाब बर, सीख देवे वाला गीत — हेमन एजराखी के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/88\/1-4.1792005669452.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "बाजा-गीत"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटा सब के बर"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया बर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "महलत"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "दुख के जवाब बर"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "सीख देवे वाला गीत"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "हेमन"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "एजराखी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:09.453324112Z",
+  "model": "glm-5.3"
+}

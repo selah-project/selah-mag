@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "तखस",
+      "rationale": "תחשים के जानवर के बारे में अनुवादक में मतभेद हकइ — बियर (KJV), सील (JPS), मृग-जाति के जानवर; हमनी नाम जस के तस रखलहुँ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "लाल रँगल",
+      "rationale": "מאדמים जड़ אדम से हकइ — 'लाल होवे' \/ 'रक्त-रँग'; 'रँगल' के बिधा अनुमान हकइ, मूल केवल रंग-बिछौल देलक हे।"
+    }
+  ],
+  "translation": "आउ मेढ़ा के चमड़ी, लाल रँगल, आउ तखस जानवर के चमड़ी, आउ शित्तिम के लकड़ी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c3f6db33fae3c722f736eff3c20e172212ed54d1359727fece0f7ea953ff71d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/25\/5-8.1791988831030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "आउ … चमड़ी"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "मेढ़ा के"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "लाल रँगल"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "आउ … चमड़ी"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "तखस जानवर के"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "आउ … के लकड़ी"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "शित्तिम"
+    }
+  ],
+  "timestamp": "2026-10-14T14:40:31.031497876Z",
+  "model": "glm-5.3"
+}

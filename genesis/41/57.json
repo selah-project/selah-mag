@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 41:57",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "अनान खरीदे बर",
+      "rationale": "לשבר शाब्दिक रूप से 'गेहूँ-सौदा करना' (deal in grain) — मगही में 'अनान खरीदे बर' रूप देल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "भारी भऽ गेलइ हलइ",
+      "rationale": "חזק 'भारी\/कड़ा हो गेल' — मगही बाक्य-बनावट बर पूरा क्रिया-रूप जोड़ल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצרימה",
+      "rationale": "מִצְרַיִם + ה direction suffix (मिस्रयिम के ओर) — लिप्यन्तरन में संयोजन चिन्ह 'में' से देखाओल गेलइ।"
+    }
+  ],
+  "translation": "आउ सब धरती मिस्रयिम (मिस्र) में योसेफ के पास अनान खरीदे बर अइलन, काहे कि सब धरती में अकाल भारी भऽ गेलइ हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1212edd08cae7b8177f181e3c19a634969d19d668a23012d588046148b9a62fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/41\/57-57.1791987637157.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "באו",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "मिस्रयिम (मिस्र) में"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "अनान खरीदे बर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "भारी भऽ गेलइ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "अकाल"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:20:37.158066191Z",
+  "model": "glm-5.3"
+}

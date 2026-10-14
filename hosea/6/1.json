@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Israel",
+      "rationale": "Plural speakers summon one another: 'Come, let us return' — the repenting people's own words."
+    },
+    {
+      "kind": "substitution",
+      "subject": "पट्टी बाँध देतन",
+      "rationale": "ויחבשנו is the verb of binding up a wound (as one wraps a compress); the picture of wound-dressing is kept."
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "Hebrew participles need a Magahi present-tense auxiliary supplied."
+    }
+  ],
+  "translation": "चलऽ हइ, आउ हमनी यहवे के ओर लौटी; काहे कि ऊ फाड़ देलन हकइ आउ हमनी के बन देतन, ऊ मारलन हकइ आउ हमनी के पट्टी बाँध देतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ccd4e587470c4a05d8e068da3c391b409f88903cb9c8f66738ad549b22dd4730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/6\/1-4.1792003225210.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "चलऽ हइ"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "आउ हमनी लौटी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "फाड़ देलन हकइ"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "आउ हमनी के बन देतन"
+    },
+    {
+      "surface": "יך",
+      "gloss": "मारलन हकइ"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "आउ हमनी के पट्टी बाँध देतन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:40:25.211433478Z",
+  "model": "glm-5.3"
+}

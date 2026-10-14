@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "धन्नबाद",
+      "rationale": "תודה शब्द-शः हाथ फैलावे के अरथ हकइ; धन्नबाद चलनसार अरथ हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אזבח\/זבח",
+      "rationale": "क्रिया आउ संज्ञा एके जड़ के — 'बलि करब बलि' के दोहराव मगही में कम दिसऽ हइ"
+    }
+  ],
+  "translation": "तोहरा बर हम धन्नबाद के बलि चढ़ाबइ आउ यहवे के नाम में हम पुकारबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7a3a4f1a8d8db24521d7447c46690e18552aedf57499aac071f3d047980d5eda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/116\/17-19.1792006022111.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "तोहरा बर"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "बलि चढ़ाबइ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "धन्नबाद"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "आउ नाम में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "पुकारबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:02.112157896Z",
+  "model": "glm-5.3"
+}

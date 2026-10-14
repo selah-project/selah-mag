@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים दूसरी बार",
+      "rationale": "देवता सब (गिरजारम में 'न्यायाधीश' भी पढ़ल जाहे) — इहाँ जाति-सब्द रखल गेलइ, नाम नञ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "एल के सभा",
+      "rationale": "בעדת אל के शाब्दिक अरथ 'एल के गोठ\/सभा' हकइ।"
+    }
+  ],
+  "translation": "असाफ (आसफ) के जंतर-गीत। एलोहीम एल के सभा में ठाढ़ हथिन; देवता सब के बीच नियाव करथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fd0b5a856df469a1725c7e70f3e40706c44adbb9d2a44daed8d77efdac23230a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/82\/1-4.1792005569993.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "जंतर-गीत"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "असाफ (आसफ) के"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ठाढ़ हथिन"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "के सभा में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवता सब"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "नियाव करथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:29.993938671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩ \/ ⟨हथिन⟩",
+      "rationale": "इब्रानी में क्रिया-होने वाला सब्द नञ हकइ; मगही के 'के पास' ढाँचा एकरा माँगऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "להם ולא",
+      "rationale": "हर पंक्ति में 'ओकनी के … बाकि ओकनी नञ' के दोहराव — व्यंग्य के ताल"
+    }
+  ],
+  "translation": "मुँह ओकनी के ⟨हकइ⟩, बाकि ओकनी बात नञ कहऽ हथिन; आँखि ओकनी के ⟨हथिन⟩, बाकि ओकनी नञ देखऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d238467357eb2dd7bd7606a902d92ce1147ea96c7a51483d5250e9db09898798",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/115\/5-8.1792006005837.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि ओकनी नञ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "बात कहऽ हथिन"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखि"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि ओकनी नञ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "देखऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:45.837948887Z",
+  "model": "glm-5.3"
+}

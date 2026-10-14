@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 14:10",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בארת באरת",
+      "rationale": "कुइयाँ-कुइयाँ दोहरावल गेल हइ — घाटी गड्ढा से भरल हइ; ओकर बादे राजा गड्ढा में गिरऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "भरल हलइ",
+      "rationale": "इब्रानी क्रिया-हीन बनावट हकइ ('घाटी… कुइयाँ, कुइयाँ तार के'); मगही क्रिया माँगऽ हइ"
+    }
+  ],
+  "translation": "आउ सिद्दीम के घाटी तार के कुइयाँ, कुइयाँ से भरल हलइ; तब सदोम आउ अमोरा के राजा भाग गेलन आउ ओथनी गिरि गेलन; आउ जे बाकी बचलन, ओन्ही पहाड़ दने भाग गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "46eaf16df8c06243da3585b6efcddb54b8dcd7aca318ed15172cf2e933360d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/14\/9-12.1791986548981.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמק",
+      "gloss": "आउ घाटी"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "सिद्दीम के"
+    },
+    {
+      "surface": "בארת",
+      "gloss": "कुइयाँ"
+    },
+    {
+      "surface": "בארת",
+      "gloss": "कुइयाँ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "तार"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "भाग गेलन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सदोम"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "आउ अमोरा"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "गिरि गेलन"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओथनी"
+    },
+    {
+      "surface": "והנשארים",
+      "gloss": "आउ बाकी बचल लोग"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "पहाड़ दने"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "भाग गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:02:28.982350888Z",
+  "model": "glm-5.3"
+}

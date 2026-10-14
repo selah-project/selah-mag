@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 2:9",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מציץ",
+      "rationale": "root means 'glance' but also 'bloom' — 'peers through' vs YLT 'blooming from the lattice'"
+    },
+    {
+      "kind": "addition",
+      "subject": "जाली के पार",
+      "rationale": "'through the lattice' — Hebrew says only 'from the lattice'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חרכים",
+      "rationale": "the lattice word appears only here in the Tanakh"
+    }
+  ],
+  "translation": "हमर परेमी हिरन जइसने हकइ, या हिरन के बुतरु जइसने — देख, ई हमनी के देवार के पाछे ठाढ़ हथिन, खिड़की से झाँकऽ हथिन, जाली के पार से देखऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae860a8db01ef230bb30ebe299955dca02ac2a0697b3fab5d0cf832bc6dc85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/2\/9-12.1792007949490.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דומה",
+      "gloss": "जइसने हकइ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "हमर परेमी"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "हिरन"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "हिरन के बुतरु"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "हिरन के"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "ठाढ़ हथिन"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "पाछे"
+    },
+    {
+      "surface": "כתלנו",
+      "gloss": "हमनी के देवार के"
+    },
+    {
+      "surface": "משגיח",
+      "gloss": "झाँकऽ हथिन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "החלנות",
+      "gloss": "खिड़की"
+    },
+    {
+      "surface": "מציץ",
+      "gloss": "देखऽ हथिन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "החרכים",
+      "gloss": "जाली के पार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:59:09.490794949Z",
+  "model": "glm-5.3"
+}

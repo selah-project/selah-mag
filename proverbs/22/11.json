@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में किरिया नञ हइ — खम्भा-वाक्य हकइ; मगही के ⟨हकइ⟩ जोड़ल गेल।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "कृपा",
+      "rationale": "חן के दोसर पाठ: ओकर ओठ के कृपा के कारण राजा ओकर संगी हकइ।"
+    }
+  ],
+  "translation": "जे खरा हिरदय के परेम करऽ हइ, ओकर ओठ के कृपा — ओकर संगी राजा ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dca139fc669d7172cea04b3176c9b02025c356b8ca5589a93fef3714a6c1ff31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/22\/9-12.1792006829012.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "परेम करऽ हइ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "खरा"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय के"
+    },
+    {
+      "surface": "חן",
+      "gloss": "कृपा"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ओकर ओठ के"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ओकर संगी"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:29.013730116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ניר \/ קים-עמיד",
+      "rationale": "'दिया' राज-घराना के जारी रहे के चिन्हा हकइ; इहे बाक्य में 'खड़ा करे बर' आउ 'खड़ा रखे बर' संग बजऽ हइ — दिया बुझे नञ, जरते रहऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ओकरा",
+      "rationale": "'लो' — केकरा? अबियाम बर या दाविद के वंश बर; कइनो 'ओकर बेटा के' पढ़ऽ हइ।"
+    }
+  ],
+  "translation": "काहे कि दाविद के खातिर यहवे ओकर एलोहीम ओकरा यरूशलयिम (यरूशलेम) में एक दिया देलन, ⟨את⟩ ओकर बेटा के ओकर पाछे खड़ा करे बर आउ ⟨את⟩ यरूशलयिम के खड़ा रखे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/15\/1-4.1791997414101.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "למען",
+      "gloss": "के खातिर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ओकर एलोहीम"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "दिया"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "खड़ा करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बेटा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ओकर पाछे"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "आउ ... खड़ा रखे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यरूशलयिम"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-10-14T17:03:34.102446129Z",
+  "model": "glm-5.3"
+}

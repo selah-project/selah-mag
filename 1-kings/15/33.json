@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 15:33",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "regnal dating",
+      "rationale": "Throne-accession formula: third year of Asa, reign of twenty-four years."
+    },
+    {
+      "kind": "idiom",
+      "subject": "עשרים וארבע",
+      "rationale": "Hebrew counts 'twenty and four'; Magahi says चौबीस as one word, joined into one gloss."
+    }
+  ],
+  "translation": "असा (आसा) यहूदा के राजा के तीसरा बरिस में बाशा (बाषा) अहिया (अहिय्या) के बेटा पूरा यिस्राएल (इस्राएल) पर तिर्सा (तिर्ज़ा) में राजा बनलन — चौबीस बरिस।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d96b0cf71ede5319d91bb0ae1cab3a84c2d9dfbb37286ce78b09d8eb4044eac4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/15\/33-34.1791997305216.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "असा (आसा)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा बनलन"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "बाशा (बाषा)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "अहिया (अहिय्या)"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल)"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "तिर्सा (तिर्ज़ा) में"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "चौबीस"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "—"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    }
+  ],
+  "timestamp": "2026-10-14T17:01:45.217402351Z",
+  "model": "glm-5.3"
+}

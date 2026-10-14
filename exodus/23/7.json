@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וצדיק \/ אצדיק \/ צדיקים",
+      "rationale": "एहे शब्द-जड़ त्स-ד-क 23:6–8 में बार-बार; सुनाव टिकैत हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "यहवे के बचन, बिधान के सम्बोधन"
+    }
+  ],
+  "translation": "झूठ के बात से दूर रहबइ, आउ बेगुनाह आउ नियाव वाला के मत मारबइ, काहे कि हम बुरा मनुस के नियावित नञ करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c0c585789626f2fee303a3e7af77154ea080d0f936fa8dcc57a77b1c213ca524",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/23\/5-8.1791988689772.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "दूर रहबइ"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "आउ बेगुनाह"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "आउ नियाव वाला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "मारबइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "नियावित करबइ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुरा मनुस"
+    }
+  ],
+  "timestamp": "2026-10-14T14:38:09.773600601Z",
+  "model": "glm-5.3"
+}

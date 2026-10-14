@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आउ",
+      "rationale": "हिब्रू में कोनो जोड़-सब्द नञ; मगही दू नाम के बीच जोड़ माँगऽ हइ"
+    }
+  ],
+  "translation": "ऊ मोशे (मूसा) के भेजलन, ओकर सेवक के, आउ अहरोन (हारून) के, जेकरा ऊ चुनलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0ce82b55faf7b5863002d5902b7e43ce75609cd8c4b992d0d5e236f06f0aa84d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/105\/25-28.1792005914107.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा)"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ओकर सेवक"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन (हारून)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "चुनलन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:14.108630277Z",
+  "model": "glm-5.3"
+}

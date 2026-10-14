@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עצו עצה \/ דברו דבר",
+      "rationale": "क्रिया-संज्ञा के एके जड़ के जोड़ी — 'सलाह बनावऽ सलाह', 'बात कहऽ बात' — मगही में ढाँचा बाकी रहलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמנु אל",
+      "rationale": "पाछे के इम्मानुएल (8:8) के गूँज — 'हमनी के संग एल' — चुपके से ओही नाम के फेर संकेत हकइ।"
+    }
+  ],
+  "translation": "सलाह बनावऽ, ऊ टूट जातइ; बात कहऽ, ऊ ठाढ़ नञ होतइ, काहे कि हमनी के संग एल हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "466d7526568a79bc32309342ad3bb77d881c946ad1234e0a48ac62489a84c388",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/8\/9-12.1791998647910.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "सलाह बनावऽ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "टूट जातइ"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "बात कहऽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ठाढ़ होतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी के संग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:24:07.911615445Z",
+  "model": "glm-5.3"
+}

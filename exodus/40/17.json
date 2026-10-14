@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨तारीख⟩",
+      "rationale": "इब्रानी के 'एक' में 'तारीख' के अरथ भीतरे हकइ; मगही में अलग सब्द जोड़ल गेलन"
+    },
+    {
+      "kind": "measurement",
+      "subject": "तारीख",
+      "rationale": "पहिला महीना के पहिला दिन — बिल्कुल सटीक गिनती के हवाला"
+    }
+  ],
+  "translation": "आउ दोसरा बरिस के पहिला महीना में, महीना के एक ⟨तारीख⟩ के, मिश्कान खड़ा कएल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9b292847f9a64783364f7652d99e4e0d0a705c68284c16d9f4a995cfa7706462",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/40\/17-20.1791989476150.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ तब होलइ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "महीना में"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "दोसरा"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "एक ⟨तारीख⟩ के"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीना के"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "खड़ा कएल गेलन"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मिश्कान"
+    }
+  ],
+  "timestamp": "2026-10-14T14:51:16.151538130Z",
+  "model": "glm-5.3"
+}

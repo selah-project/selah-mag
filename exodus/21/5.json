@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמר יאמר",
+      "rationale": "infinitive-absolute plus finite verb — 'plainly say' — intensity lost in Magahi single verb"
+    },
+    {
+      "kind": "you",
+      "subject": "दास",
+      "rationale": "the servant's own declaration is quoted directly; he is the speaker"
+    }
+  ],
+  "translation": "आउ जे दास साफ कहऽ हइ — हम हमर मालिक के ⟨את⟩, हमर जनाना के ⟨את⟩ आउ हमर बेटान के ⟨את⟩ परेम करने हअन, हम खुल-खालिम नञ जातइ —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/21\/5-8.1791988749796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहना"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "साफ कहऽ हइ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "हम परेम करने हअन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर मालिक के"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हमर मालिक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर जनाना के"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "हमर जनाना"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "हमर बेटान के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमर बेटान"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "जातइ"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "खुल-खालिम"
+    }
+  ],
+  "timestamp": "2026-10-14T14:39:09.797150549Z",
+  "model": "glm-5.3"
+}

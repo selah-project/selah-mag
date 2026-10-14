@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 39:30",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עלע",
+      "rationale": "יעלעו ('चूस लेना') पूरा तनाख़ में खाली इहे जगह आवऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חללים",
+      "rationale": "मूल अरथ 'बिद्ध\/प्रहार से मारल' — बहुबचन, लास नञ तो आदमी-जंतु दूनो सम्भव"
+    }
+  ],
+  "translation": "आउ ओकर बुतरू खून चूसऽ हथिन, आउ जहाँ मारल-मारल होथिन, तहीं ऊ रहियो हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fe33652b2fcc3c36789ae5a217160e910ee9c6cc4decc1345fc127f39b3a5241",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/39\/29-30.1792007856272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואפרחו",
+      "gloss": "आउ ओकर बुतरू"
+    },
+    {
+      "surface": "יעלעו",
+      "gloss": "चूसऽ हथिन"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "आउ जहाँ"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "मारल-मारल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तहीं"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:57:36.272603462Z",
+  "model": "glm-5.3"
+}

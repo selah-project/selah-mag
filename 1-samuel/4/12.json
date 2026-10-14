@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 4:12",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "फाड़ल वस्त्र आउ मूड़ी पर माटी",
+      "rationale": "शोक के इब्रानी चिन्हा — कपड़ा फाड़ना आउ मूड़ी पर माटी उछालना।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מערכה",
+      "rationale": "ओकर अरथ मैदान\/पंक्ति हकइ; इब्रानी के सैनिक तस्वीर रखल गेलइ।"
+    }
+  ],
+  "translation": "आउ बिन्यामीन के एक आदमी मैदान-ए-लड़ाई से दौड़ल आउ ओही दिन शिलो (शीलो) अइलन; ओकर वस्त्र फाड़ल गेल हलइ आउ मूड़ी पर माटी हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "16d7b78cf09d5dabfc13c340a9784c7649c459da851a287886b199f3d0ab3824",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/4\/9-12.1791994908390.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "दौड़ल"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन के"
+    },
+    {
+      "surface": "מהמערכה",
+      "gloss": "मैदान-ए-लड़ाई से"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "शिलो (शीलो)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ओकर वस्त्र"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "फाड़ल गेल"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "आउ माटी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ओकर मूड़ी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:21:48.391838613Z",
+  "model": "glm-5.3"
+}

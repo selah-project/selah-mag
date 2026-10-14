@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "इस्राएल",
+      "rationale": "मोशे के मुँह से इस्राएल के सीधा सम्बोधन हकइ — 'तूँ लौटऽ'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשוב \/ שוב",
+      "rationale": "वापसी के क्रिया पूरा अध्याय 30 के सुर में दोहरावऽ हकइ; मगही 'फेर लौटऽ' ओकरा एक बेर देखावऽ हकइ।"
+    }
+  ],
+  "translation": "आउ तूँ फेर लौटऽ हतइ, आउ यहवे के बोली सुनऽ हतइ, आउ ⟨את⟩ ओकर सब आज्ञा सब के पालन करऽ हतइ जे हम आज तोहनी के आज्ञा देत हच्छन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f2f469d4827a15866facddf263dc3d0788e99ec158222deee8159c8c5f9a2ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/30\/5-8.1791992930865.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "फेर लौटऽ हतइ"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "सुनऽ हतइ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "पालन करऽ हतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर सब आज्ञा सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ओकर आज्ञा सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "आज्ञा देत हच्छन"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-10-14T15:48:50.866620663Z",
+  "model": "glm-5.3"
+}

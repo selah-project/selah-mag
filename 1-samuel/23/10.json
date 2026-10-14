@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע שמע",
+      "rationale": "अनंत-क्रिया के दोहराव — जोर बर: 'सचमुच सुनलन'; मगही में सुनना-सुनना दोहरा के रखल गेलन।"
+    },
+    {
+      "kind": "you",
+      "subject": "दाविद के प्रार्थना",
+      "rationale": "सीधा यहवे के अभिवादन — 'यहवे, यिस्राएल के एलोहीम'।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "प्रार्थना के आह्वान",
+      "rationale": "यहवे के ओर मुँह कइ के सुनवानी — पढ़निहारा के प्रार्थना के भीतर खीँचऽ हकइ।"
+    }
+  ],
+  "translation": "आउ दाविद कहलन — यहवे, यिस्राएल के एलोहीम, तोहर सेवक सुनना-सुनना सुनलन हे कि शाऊल केइला में आवे बर ताकऽ हकइ, हमरा के कारण नगर के बरबाद करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "df90f4fe3ac1d5578593274c89bb1e49be210f087ac5ec2c42f581c8871bf873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/23\/9-12.1791995515003.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनना-सुनना"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनना-सुनना"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "तोहर सेवक"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ताकऽ हकइ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "आवे बर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "केइला"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "बरबाद करे बर"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "हमरा के कारण"
+    }
+  ],
+  "timestamp": "2026-10-14T16:31:55.004669089Z",
+  "model": "glm-5.3"
+}

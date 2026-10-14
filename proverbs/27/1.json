@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יֵלֶד\/יָלַד",
+      "rationale": "'जनतइ' — יֵלֶד normally 'बुतरू'; here verb 'to bring forth': दिन केना बुतरू जनतइ, काल्हिं के अनजान भविस।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हऽ",
+      "rationale": "किरिया-रूप चाही; इब्रानी में 'तूँ नञ जानऽ' काफी हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "पढ़निहार के",
+      "rationale": "हितोपदेस के सीधा सम्बोधन — 'तूँ'।"
+    }
+  ],
+  "translation": "काल्हिं के दिन में महिमा मत करऽ, काहे कि तूँ नञ जानऽ हऽ की दिन का जनतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "81d2d0e6cfc7d804ac9d71aa808e9a0d52bf8ea375903dde1d43d040883d40a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/27\/1-4.1792007020438.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "महिमा मत करऽ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन में"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "काल्हिं"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "तूँ जानऽ हऽ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनतइ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:40.438641353Z",
+  "model": "glm-5.3"
+}

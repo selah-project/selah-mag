@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "किछु",
+      "rationale": "इब्रानी “लोग में से” कहऽ हइ; अंस-पूर्ण अरथ स्पस्ट करे बर “किछु” जोड़ल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "कुछो",
+      "rationale": "“मिललन” के करम — इब्रानी खाली “आउ नञ मिललन” कहऽ हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सातवा दिन",
+      "rationale": "दिन-गिनती के ढाँचा आगे बढ़ितइ — नियम तोड़ल गेलइ।"
+    }
+  ],
+  "translation": "आउ सातवा दिन में लोग में से किछु बटोरे बर निकललन, बाकि ओकनी कुछो नञ मिललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "63e0ac22b9f58eefaf36e5d10dcb4e2de1e762c12f56a543fee0b4423ffa25b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/16\/25-28.1791988503608.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेलइ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवा"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "निकललन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "बटोरे बर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "मिललन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:35:03.609202713Z",
+  "model": "glm-5.3"
+}

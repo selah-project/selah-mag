@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "छह सौ पाँच आउ सत्तर",
+      "rationale": "भेड़ के महसुल के गिनती — गणना के पद।"
+    },
+    {
+      "kind": "addition",
+      "subject": "भेड़",
+      "rationale": "संख्या के पाछे भेड़ शब्द दोहरावल गेलाक, इब्रानी में नञ हइ।"
+    }
+  ],
+  "translation": "आउ भेड़ सब में से यहवे बर महसुल हलइ — छह सौ पाँच आउ सत्तर भेड़।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f88d5b098d6629645baca8c5b25054982acebc5f011e91058cb18f2a055cea86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/31\/37-40.1791991687716.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ ... हलइ"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "महसुल"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेड़ सब"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "आउ सत्तर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:28:07.716462776Z",
+  "model": "glm-5.3"
+}

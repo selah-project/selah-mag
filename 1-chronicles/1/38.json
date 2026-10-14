@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דישן\/דישון",
+      "rationale": "दिशोन आउ दिशान — एके जड़ के दू रूप, नाम-सूची में जान-बूझ के अलग"
+    },
+    {
+      "kind": "measurement",
+      "subject": "वंसावली",
+      "rationale": "सेइर के वंस के नाम-गिनती"
+    }
+  ],
+  "translation": "आउ बेटा सेइर के — लोतन आउ शोबाल आउ त्सिबओन आउ अना आउ दिशोन आउ एत्सेर आउ दिशान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6b3ad3129fcf736006f6dd2ee95b7ab7a934f86cae1e9eaa67ac89f1910c43a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/1\/37-40.1792009816795.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आउ बेटा"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतन"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "आउ शोबाल"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "आउ त्सिबओन"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "आउ अना"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "आउ दिशोन"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "आउ एत्सेर"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "आउ दिशान"
+    }
+  ],
+  "timestamp": "2026-10-14T20:30:16.796607992Z",
+  "model": "glm-5.3"
+}

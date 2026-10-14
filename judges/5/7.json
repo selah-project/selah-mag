@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 5:7",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרזון",
+      "rationale": "'गाँव-बसाहत \/ खुला बसावट' बनाम 'सरदार लोग' (ASV 'the rulers') — ई शब्द पर पुरान अनुवादक बाँटल हथिन"
+    },
+    {
+      "kind": "alternative",
+      "subject": "פרזון",
+      "rationale": "दुसरा पढ़ाई: 'यिस्राएल के अनगढ़ लोग बन्न भेलन' — जड़ פרזी खुला-जगह से"
+    },
+    {
+      "kind": "you",
+      "subject": "दबोरा के बोली",
+      "rationale": "ई गीत के भीतर दबोरा खुद बोल रहली हथिन — हम पहिला बचन"
+    }
+  ],
+  "translation": "यिस्राएल में गाँव-बसाहत बन्न भेलन, बन्न भेलन, जब तक नञ कि हम दबोरा खड़ा भेली — खड़ा भेली, यिस्राएल में एगो ⟨माय⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "599c823998dacf9f09627b24e3b06eee888c983c179f9be30c59187207eafd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/5\/5-8.1791994037067.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "बन्न भेलन"
+    },
+    {
+      "surface": "פרזון",
+      "gloss": "गाँव-बसाहत"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिस्राएल में"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "बन्न भेलन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब तक नञ कि"
+    },
+    {
+      "surface": "שקמתי",
+      "gloss": "खड़ा भेली"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "दबोरा"
+    },
+    {
+      "surface": "שקמתי",
+      "gloss": "खड़ा भेली"
+    },
+    {
+      "surface": "אם",
+      "gloss": "एगो माय"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिस्राएल में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:07:17.068282274Z",
+  "model": "glm-5.3"
+}

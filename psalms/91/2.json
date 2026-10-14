@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨तूँ⟩",
+      "rationale": "इब्रानी में क्रिया विशेषण है; मगही को संबोधन-वाक्य के लिए सर्वनाम चाहिए"
+    },
+    {
+      "kind": "crux",
+      "subject": "מִצּוּדָתִי",
+      "rationale": "मूल अर्थ 'जाल\/किलेबंदी'; अनुवादक इसे 'किला' या 'गढ़' के रूप में चुनते हैं"
+    }
+  ],
+  "translation": "हम यहवे से कहतइ: ⟨तूँ⟩ हमर ठिकान आउ हमर किला हकत; हमर एलोहीम, ओकरा में हम भरोसा करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4378b2ae66edad1eb8182fd2f627b8f97b17efceab305f8980faf21032273c55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/91\/1-4.1792005758054.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "हम कहतइ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे से"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "हमर ठिकान"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "आउ हमर किला"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "हम भरोसा करतइ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:38.054645552Z",
+  "model": "glm-5.3"
+}

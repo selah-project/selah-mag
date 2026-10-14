@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "8:10 whole verse",
+      "rationale": "Most obscure verse in Qohelet: 'and they were forgotten' (KJV) vs 'and they were praised' (reading ישוברו, BSB) vs 'they entered their rest' (JPS); also 'done right' vs 'done so (evil)'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ובאו",
+      "rationale": "'and they came' — goal unstated in Hebrew; renderings supply 'to the grave' or 'to their rest'."
+    }
+  ],
+  "translation": "आउ एहनेउ हम दुष्ट लोग के देखलन, गाड़ल गेलहुँ, आउ ⟨את⟩ अइलन, आउ पवित्तर जगह से घुमऽ हथिन, आउ ओही नगर में बिसराइ गेलन जहाँ एहने कइलन हलन — ईउ ब्यर्थ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/8\/9-12.1792008496153.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "आउ एहनेउ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "हम देखलन"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट लोग के"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "गाड़ल गेलहुँ"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "आउ अइलन"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "आउ ओ जगह से"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "घुमऽ हथिन"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "आउ बिसराइ गेलन"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "कइलन हलन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ईउ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ब्यर्थ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:08:16.154335361Z",
+  "model": "glm-5.3"
+}

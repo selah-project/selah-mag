@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 5:20",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נלחמו",
+      "rationale": "'लड़लन' के दोहराव पिछला पद के तीन दोहराव के बिना पर चलऽ हइ — अब अकासे लड़ऽ हइ।"
+    },
+    {
+      "kind": "mystery",
+      "subject": "अकास के लड़ाई",
+      "rationale": "तारा सब के लड़ाई — बतावल बिना कइसन; गीत जान-बूझ के धुँधला छोड़ऽ हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "तारा सब के डहर",
+      "rationale": "दूसर पढ़ाई: तारा सब नञ, अकासी जल (नदी-बरखा) के किरिया — बरखा आउ किशोन नदी सिसरा के मारलन।"
+    }
+  ],
+  "translation": "अकास से लड़ाई भइल — तारा सब ओकर डहर से सिसरा संग लड़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bdfc2024d56a8ab80cab947a36c06312832e8672deaf034906f9938a44412841",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/5\/17-20.1791994072890.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "लड़ाई भइल"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "तारा सब"
+    },
+    {
+      "surface": "ממסלותם",
+      "gloss": "ओकर डहर से"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "लड़लन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "सिसरा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:07:52.891001885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 3:5",
+  "book": "joel",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨बचल लोग में ऊ⟩",
+      "rationale": "मगही के बनावट बर जोड़ल सर्बनाम; इब्रानी के बनावट खुलहा छोड़ऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובשרידים אשר יהוה קרא",
+      "rationale": "पाठ के जोड़ बाट बिवादित: 'बचल लोग में ऊ जेकरा यहवे पुकारतन' बनाम 'काहे कि यहवे बचल लोग के पुकारतन'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פליטה",
+      "rationale": "इब्रानी ठोस संज्ञा हकइ — बचके निकलल हिस्सा; 'बचावल लोग' मनुस के टोल बतावऽ हइ"
+    }
+  ],
+  "translation": "आउ अइतइ, जे कोनो यहवे के नाम में पुकारतइ ऊ बच जइतइ, काहे कि पहाड़ त्सियोन में आउ यरूशलयिम में बचावल लोग होतइ, जइसन यहवे कहलन रहलन, आउ ⟨बचल लोग में ऊ⟩ जेकरा यहवे पुकारतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0ad6db242da42c9fd4afa80b38ff0656ca0b39a0245fb4a03ee74085b7e2e165",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joel\/3\/5-5.1792003402296.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ अइतइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जे कोनो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "पुकारतइ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाम में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "बच जइतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ में"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "त्सियोन"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "आउ यरूशलयिम में"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "बचावल लोग"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन रहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ובשרידים",
+      "gloss": "आउ बचल लोग में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "पुकारतन"
+    }
+  ],
+  "timestamp": "2026-10-14T18:43:22.297151436Z",
+  "model": "glm-5.3"
+}

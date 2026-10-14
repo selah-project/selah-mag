@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 1:14",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותסיתהו",
+      "rationale": "कर्ता अस्पस्ट: 'ऊ (अक्सा) ओकरा उकसलक' (KJV\/JPS) बनाम 'ऊ (ओतनिएल) ओकरा उकसलक' कि बाप से माँगे (वुल्गेट\/वाइक्लिफ के रास्ता)"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "מאת बराबर 'से' हकइ जेकरा संग ⟨את⟩ चिन्हा जुड़ल अइलइ"
+    }
+  ],
+  "translation": "आउ भेल, जखन ऊ ओकरा पास अइलक, त ऊ ओकरा उकसलक जे अपन बाप से ⟨את⟩ खेत माँगे; आउ ऊ गधा के ऊपर से उतरलक, आउ कालेव ओकरा कहलक, तोहरा का चाही?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0ff7fa6d42a6ad0ca6f77f228eb1f3af8844dc99a4757a1068f1fb621a29e13e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/1\/13-16.1791993967615.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "בבואה",
+      "gloss": "जखन ऊ अइलक"
+    },
+    {
+      "surface": "ותסיתהו",
+      "gloss": "ऊ ओकरा उकसलक"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "माँगे बर"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "से ⟨את⟩",
+      "marks": "खेत"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "अपन बाप"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "ותצנח",
+      "gloss": "आउ उतरलक"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "के ऊपर से"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "गधा"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कालेव"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:06:07.616026983Z",
+  "model": "glm-5.3"
+}

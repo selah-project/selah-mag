@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "हिरदय के क्रिया इब्रानी में नञ हइ — सर्वनाम हू हकइ; मगही के क्रिया देल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושאתו",
+      "rationale": "'ऊँचाई \/ महिमा' बनाम 'अहंकार' — जेकरा ले कस्दियन के घमंड साँचे हेक्क हइ।"
+    }
+  ],
+  "translation": "भयावना आउ डरावना ऊ ⟨हकइ⟩; ओकरा से ही ओकर नियाव आउ ओकर ऊँचाई निकलऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "547d8f9fac122dc5605a508cfadacbc5242deb7f338d5dadf9e692987d96aac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/habakkuk\/1\/5-8.1792003893274.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "भयावना"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "आउ डरावना"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ ⟨हकइ⟩"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा से ही"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ओकर नियाव"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "आउ ओकर ऊँचाई"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:51:33.275603605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "मोआब के राजा",
+      "rationale": "दाविद मोआब के राजा से सीधा निवेदन करऽ हइ — 'कृपा कर के… तोहनी संग'।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "मिस्पे मोआब",
+      "rationale": "कुछ अनुवाद एकरा 'मोआब के गढ़\/मिज्पे' कहऽ हथिन; स्थान-नाम लिप्यन्तरित राखल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעשה לי",
+      "rationale": "'हमरा बर करतइ' बनाम 'हमरा संग करतइ' — ל preposition दुनू ओर जा सकऽ हइ।"
+    }
+  ],
+  "translation": "आउ दाविद उहाँ से मोआब के मिस्पे गेलन, आउ मोआब के राजा से कहलन: कृपा कर के हमर बाबूजी आउ हमर माय ⟨את⟩ तोहनी संग निकलथिन, जब तक जे हम जानऽ हइ कि एलोहीम हमरा बर की करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/22\/1-4.1791995579894.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "משם",
+      "gloss": "उहाँ से"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "मिस्पे"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलथिन"
+    },
+    {
+      "surface": "נא",
+      "gloss": "कृपा कर के"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमर बाबूजी"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "आउ हमर माय"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी संग"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब तक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "हम जानऽ हइ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:59.895318373Z",
+  "model": "glm-5.3"
+}

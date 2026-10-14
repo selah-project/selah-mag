@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 28:3",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חוקר के करता",
+      "rationale": "KJV\/जिनेवा ईश्वर मानऽ हथिन, JPS\/ASV मनुस — करता पाठ में नामाकर हइ, एहे से निर्विकल्प रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מौत-छाया",
+      "rationale": "צלמון-मवत दुइ शब्द के जोड़ हकइ — छाया-मौत; मगही में मौत-छाया रखल गेल।"
+    }
+  ],
+  "translation": "अन्हार के अन्त रखल जा हइ, आउ हर छोर तक ओकरा खोजल जा हइ — अन्हार के पत्थल ⟨आउ⟩ मौत-छाया ⟨के⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "52dae17b43d3f36ab5283c0c1e3c298701dda8eeb7cf35161e78385598fda6ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/28\/1-4.1792007619395.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "अन्त"
+    },
+    {
+      "surface": "שם",
+      "gloss": "रखल जा हइ"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "अन्हार के"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "आउ हर"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "छोर तक"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "חוקר",
+      "gloss": "खोजल जा हइ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "अन्हार"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "आउ मौत-छाया"
+    }
+  ],
+  "timestamp": "2026-10-14T19:53:39.396052699Z",
+  "model": "glm-5.3"
+}

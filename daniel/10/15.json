@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 10:15",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जखन…तखन",
+      "rationale": "इब्रानी बाक्य-बनावट दो ठुँघनी क्रिया जोड़ऽ हे; मगही के बनावट बर जोड़ल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मुँह धरती दने झुकाइलहु",
+      "rationale": "साहित्यिक: नतन-फानीम — 'मुँह के ओट' — अपमान आउ अचेत के चिन्हा।"
+    }
+  ],
+  "translation": "आउ जखन ऊ हमरा संग ई बातन के मोताबिक बोललन, तखन हम अपन मुँह धरती दने झुकाइलहु आउ चुप भ गेलहु।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bc6702c506c0ec413e19d24549f41172d23f65e22e1555f1862e12b26b568713",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/10\/13-16.1792009177968.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובדברו",
+      "gloss": "आउ जखन ऊ बोललन"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमरा संग"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "बातन के मोताबिक"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "झुकाइलहु"
+    },
+    {
+      "surface": "פני",
+      "gloss": "अपन मुँह"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरती दने"
+    },
+    {
+      "surface": "ונאלמתי",
+      "gloss": "आउ चुप भ गेलहु"
+    }
+  ],
+  "timestamp": "2026-10-14T20:19:37.969709400Z",
+  "model": "glm-5.3"
+}

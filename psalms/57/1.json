@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל תשחת",
+      "rationale": "गीत के पहिलका सब्द के नाम हकइ („मत मेटाअ“) — मुखिया (संगीतकार) के संकेत; जरूरी नञ कि ई पद के अरथ होवे।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "मिख्ताम — दाविद के छह कीर्तन में आवे वाला संगीत-संकेत, अरथ अनिश्चित।"
+    }
+  ],
+  "translation": "मुखिया बर; „मत मेटाअ“; दाविद के; मिख्ताम; जब ऊ शाउल के मुँह से भागलन, गुफा में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/57\/1-4.1792005203300.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया बर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "मेटाअ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "मिख्ताम"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "जब ऊ भागलन"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के मुँह से"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "गुफा में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:23.301542117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "रहऽ हइ",
+      "rationale": "इबरानी में क्रिया-सम्बन्ध नञ हकइ; मगही किरिया कोस्ठक में"
+    }
+  ],
+  "translation": "काहे कि हम हमर अवज्ञा जानऽ हइ, आउ हमर पाप हमरे सामने हमेसा ⟨रहऽ हइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/51\/5-8.1792005144860.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "हमर अवज्ञा"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "जानऽ हइ"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "आउ हमर पाप"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "हमरे सामने"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "हमेसा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:24.860635126Z",
+  "model": "glm-5.3"
+}

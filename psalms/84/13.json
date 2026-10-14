@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हे \/ ऊ",
+      "rationale": "हिब्रू में पुकार के चिन्हा आउ करता-सर्बनाम नञ हइ; मगही बाक्य बर जोड़ल गेलन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשרי",
+      "rationale": "हिब्रू के बहुबचन उद्गार 'कतेक भागिया!' — एक बचन के रूप में घटायल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי",
+      "rationale": "भजन संहिता के 'अश्रे' परम्परा (1:1) के जइसन; मगही में ओकर गूँज नञ आ पावऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे त्सबाओत",
+      "rationale": "प्रत्यक्ष पुकार यहवे त्सबाओत के"
+    }
+  ],
+  "translation": "हे यहवे त्सबाओत, भागिया हइ ऊ आदमी जे तोहरा भरोसा करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3481c00196881e8019a8a68d42d0792dca17d59d7eeb04e1b7de5bc4947d3f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/84\/13-13.1792005588087.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "भागिया हइ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "भरोसा करऽ हइ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:48.088248883Z",
+  "model": "glm-5.3"
+}

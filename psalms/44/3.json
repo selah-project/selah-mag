@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותטעם के लक्ष्य",
+      "rationale": "रोपल के लक्ष्य कोनो हइ — जाति सब (यहूदी पढ़निहार) या इस्राएली (केजेवी\/बीएसबी के पढ़निहार); इब्रानी के सर्बनाम अस्पस्ट हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תרע",
+      "rationale": "'कुचललन' — जड़ פइल-पइल से आवऽ हकइ, तोड़ के बिगाड़ना"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ऊ⟩ ⟨ओकनी⟩ ⟨के⟩",
+      "rationale": "इब्रानी के जुड़ल क्रिया-प्रत्यय के मगही में सर्बनाम के रूप में जोड़ल गेल"
+    }
+  ],
+  "translation": "तूँ ही तोहर हाथ से जाति सब के बिसथापित कएलन आउ ⟨ऊ⟩ ⟨ओकनी⟩ ⟨के⟩ रोपलन; तूँ लोग-समुदाय के कुचललन आउ ⟨ओकनी⟩ ⟨के⟩ धपेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/44\/1-4.1792005017627.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तूँ ही"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तोहर हाथ से"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब के"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "बिसथापित कएलन"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "आउ रोपलन"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "कुचललन"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "लोग-समुदाय के"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "आउ धपेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:17.628239187Z",
+  "model": "glm-5.3"
+}

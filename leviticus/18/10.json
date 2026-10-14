@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "हिब्रू में क्रिया नञ हकइ; मगही के 'हथिन' जोड़लइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערוה x3",
+      "rationale": "'नंगताई' शब्द तीन बेर दोहरावल गेलइ — आयत के साज हकइ, मगही में बनलइ"
+    }
+  ],
+  "translation": "तोहर बेटा के बेटी चाहे तोहर बेटी के बेटी के नंगताई — ओकनी के नंगताई तूँ नञ खोलबे, काहे कि ऊ तोहरे नंगताई हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/18\/9-12.1791989979258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नंगताई"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "तोहर बेटा"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "तोहर बेटी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तूँ खोलबे"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "ओकनी के नंगताई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "तोहरे नंगताई"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ऊ...हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:59:39.258944552Z",
+  "model": "glm-5.3"
+}

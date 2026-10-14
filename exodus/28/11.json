@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 28:11",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתוחי \/ תפתח",
+      "rationale": "एके जड़ (פתח) के दोहराव — खोदाई आउ खोदबइ — मगही में ओकर गूँज गायब हो गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מסבת משבצות",
+      "rationale": "मूल पाठ के चित्र 'घेराव कइल जड़ाव' हकइ — 'घेरल-बनल' के छूट देल गेलइ।"
+    }
+  ],
+  "translation": "पत्थल के कारीगर के काम — मोहर के खोदाई जइसन — तूँ दू पत्थल पर यिस्राएल के बेटा के नाम खोदबइ; सोना के जड़ाव में घेरल-बनल तूँ ⟨אתם⟩ ओकनी के बनइबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a455dad548e83e8729fdf79d3c1b001a7fad2a6efdd7d17575ac4f890142bdf7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/28\/9-12.1791988902460.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "कारीगर"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "खोदाई"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "मोहर"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "तूँ खोदबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दू पत्थल"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "घेरल"
+    },
+    {
+      "surface": "משבצות",
+      "gloss": "जड़ाव"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तूँ बनइबइ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ओकनी (दू पत्थल)"
+    }
+  ],
+  "timestamp": "2026-10-14T14:41:42.461648411Z",
+  "model": "glm-5.3"
+}

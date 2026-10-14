@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 33:29",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमरा",
+      "rationale": "हिन्दी-मगही तुलना बाक्य के करता माँगऽ हइ जे इब्रानी में नञ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "במותימו",
+      "rationale": "crux: 'ऊँच जगह' (टिला\/बामोत) बनाम 'ओकनी के पीठ' (उबर के गोड़ रखल) — KJV\/ASV 'high places', किछु परम्परा 'necks\/backs' पढ़ऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויכחשו",
+      "rationale": "'झूठ बोलतइन \/ इनकार करतइन' (KJV 'found liars') बनाम 'दब जातइन \/ समर्पण करतइन' (ASV\/JPS) — जड़ כחש के दू अरथ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מי כמוך",
+      "rationale": "रचनात्मक प्रस्न-गीत के चाल — 'कोनो जेतना तोहर?' — गीत सब्दावली के विशेषता हकइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to यिस्राएल",
+      "rationale": "मोशे के असीस-गीत के अन्तिम पद यिस्राएल के सीधे सम्बोधन हकइ"
+    }
+  ],
+  "translation": "हमार खुसी तोहर, ओ यिस्राएल! कोनो ⟨हमरा⟩ जेतना तोहर जेतना — लोग यहवे से बचावल गेलन, ढाल तोहर सहायता के, आउ जे तलवार हकइ तोहर गरिमा के। तोहर बैरी तोहरा आगू झूठ बोलतइन, आउ तूँ ओकनी के ऊँच जगह पर गोड़ धरतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7d70a8d2e6bea8feedbb7a59862e498a6276b521440c0e055b3456af4e983e0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/33\/29-29.1791992946713.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשריך",
+      "gloss": "हमार खुसी तोहर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "जेतना तोहर जेतना"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "बचावल गेलन"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे से"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "तोहर सहायता के"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "גאותך",
+      "gloss": "तोहर गरिमा के"
+    },
+    {
+      "surface": "ויכחשו",
+      "gloss": "झूठ बोलतइन"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "तोहर बैरी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा आगू"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "במותימו",
+      "gloss": "ओकनी के ऊँच जगह"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "गोड़ धरतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:49:06.714269200Z",
+  "model": "glm-5.3"
+}

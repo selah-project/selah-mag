@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨एक⟩",
+      "rationale": "हिब्रू में परिभासा-रहित संज्ञा; मगही को परिभासा चाही"
+    },
+    {
+      "kind": "hapax",
+      "subject": "משכיל",
+      "rationale": "सिर्सा-बिधा के चिन्हा — सावधेस करए वाला गीत, गीतसंग्रह के एक जात"
+    }
+  ],
+  "translation": "सिखावे वाला गीत, दाविद (दाऊद) के, जब ऊ गुफा में हलन — ⟨एक⟩ बिनती।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/142\/1-4.1792006314955.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "सिखावे वाला गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद (दाऊद) के"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "जब ऊ हलन"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "गुफा में"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "बिनती"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:54.956584573Z",
+  "model": "glm-5.3"
+}

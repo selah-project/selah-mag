@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨करता⟩",
+      "rationale": "इब्रानी करता छोड़ऽ हइ; मगही बाक्य बर छूटल लेकिन पिछला पद के 'वोला-धोला लोग' जना देल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "יסובבה",
+      "rationale": "ककरो घूमऽ हइ — लोग दीवार पर (kjv) या अन्याय नगर के चारो कात (ylt); करता छोड़ल गेल हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "शब्द के जड़ 'शून्यता' हकइ; ओकर तस्वीर बेकारी\/पाप दुनो में।"
+    }
+  ],
+  "translation": "दिन आउ रात ऊ ⟨करता⟩ ओकर दीवार पर घूमऽ हे, आउ बेकारी आउ कठिनाई ओकर भीतर हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/55\/9-12.1792005138819.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "आउ रात"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "घूमऽ हे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "ओकर दीवार"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "आउ बेकारी"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "आउ कठिनाई"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ओकर भीतर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:18.820399727Z",
+  "model": "glm-5.3"
+}

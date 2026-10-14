@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "केबाड़ी",
+      "rationale": "ויסגिन के बिचार 'बन्न देना' के करम के बिसयु मगही में चाही"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויקהיל",
+      "rationale": "'जमा करना' (यल्त\/जेपीएस) बनाम 'नियाव बलावना' (एएसवी) — दुनो मंजूर"
+    }
+  ],
+  "translation": "जे ऊ गेलन आउ ⟨केबाड़ी⟩ बन्न देलन आउ जमा करलन, तब के ओकरा फेर सकऽ हइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7b7a98b157cc4526b28a873bd555e7ddfdfe625cd6e3aa76638c70370bf7ff1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/11\/9-12.1792007293572.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "आउ बन्न देलन"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "आउ जमा करलन"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "तब के"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ओकरा फेर सकऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:48:13.573239458Z",
+  "model": "glm-5.3"
+}

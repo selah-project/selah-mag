@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बनाके",
+      "rationale": "हिब्रू क्रिया केवल 'बैठाना' हकइ; 'माय बनाके' स्पष्ट बर जोड़ल"
+    },
+    {
+      "kind": "crux",
+      "subject": "עקרת הבית",
+      "rationale": "'घर की बाँझ' के ठीक अरथ में मतभेद हकइ: बाँझ जनाना जे घर में रहऽ हइ (jps) बनाम घर सँभालए वाली (kjl)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "हल्लेलु याह",
+      "rationale": "पद के अंत में पढ़निहार के तरे परेम-आवाज — 'याह के स्तुति करऽ'"
+    }
+  ],
+  "translation": "बैठावऽ हइ घर के बाँझ ⟨जनाना⟩ के, बेटा सब के खुसी माय ⟨बनाके⟩ — हल्लेलु-याह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4dea4c503804498d51d5212b4c24b1f12ad4023e8a039e1d30fba7656bec96a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/113\/9-9.1792005922285.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "बैठावऽ हइ"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "बाँझ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "אם",
+      "gloss": "माय"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "खुसी"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "हल्लेलु"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:22.286302932Z",
+  "model": "glm-5.3"
+}

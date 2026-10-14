@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "खुसी से",
+      "rationale": "रनन के खुसी के गावल के भाव मगही में साफ करे बर जोड़ल"
+    },
+    {
+      "kind": "alternative",
+      "subject": "आवऽ हकइ",
+      "rationale": "किछु परम्परा एकरा भबिस के रूप में पढ़ऽ हइ — गाछ अबहीं गावत हो"
+    }
+  ],
+  "translation": "तब जंगल के गाछ सब यहवे के आगूँ खुसी से गावतन, काहे कि ऊ अइलन ⟨आवऽ हकइ⟩ ⟨את⟩ धरती के नियाव करे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "97220f65115438fc6742e52f26e638852c51772784fb7f203cc84cc9086bc315",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/16\/33-36.1792010289920.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "गावतन"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "गाछ सब के"
+    },
+    {
+      "surface": "היער",
+      "gloss": "जंगल के"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "आगूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "नियाव करे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:38:09.920766711Z",
+  "model": "glm-5.3"
+}

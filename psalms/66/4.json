@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 66,
+  "notes": [
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יזמרו … יזמרו",
+      "rationale": "क्रिया के दोहराव — साज़ पर साज़ के ताल"
+    }
+  ],
+  "translation": "सब पूरा धरती तोहरे आगू सिर झुकातइ आउ तोहरे बर साज़ बजातइ, तोहर नाम के साज़ बजातइ। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b1a7f2ef87df232157658b0047ad671fbd7c46dccc167f0b2676a262b8f74fdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/66\/1-4.1792005282030.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती",
+      "comment": "surface corrected below"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "सिर झुकातइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरे आगू"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "आउ साज़ बजातइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरे बर"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "साज़ बजातइ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम के"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:42.031740700Z",
+  "model": "glm-5.3"
+}

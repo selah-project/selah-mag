@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 8:24",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "age threshold",
+      "rationale": "counting rule: from twenty-five years and upward for Levitical service"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לצבא צבא",
+      "rationale": "infinitive plus noun of the same root — 'to serve-host the host' — kept as paired 'सेवा में जुड़े \/ जुटल सेना के चाल'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מבן",
+      "rationale": "literally 'from a son of five and twenty years' — the idiom 'son of N years' rendered as उमिर, the Hebrew picture of personified age dropped"
+    }
+  ],
+  "translation": "ई लेवी के लोग बर हकइ — पच्चीस बरिस के उमिर से ऊ सेवा में जुड़े बर अइतइ, जुटल सेना के चाल में, मिलन के तम्बू के सेवा के काम में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0f389608df61852a39987c60aaeb26ec326bf6c0b3578181dc73fcd9af3bfb90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/8\/21-24.1791990866461.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे (बात)"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "लेवी के लोग बर"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "उमिर के बेटा से"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आउ बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "आउ ओकरा से जादे"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "अइतइ"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "सेवा में जुड़े बर"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "जुटल सेना के चाल"
+    },
+    {
+      "surface": "בעבדת",
+      "gloss": "सेवा के काम में"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू के"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के (तम्बू)"
+    }
+  ],
+  "timestamp": "2026-10-14T15:14:26.463058027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "החלתי\/החל आउ רש\/लרשת",
+      "rationale": "एके जड़ के दोहराव — 'सुरू करना' आउ 'बेसहत लेना' दोनों बेर — मगही में दोहराव रखल गेलइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "देखऽ",
+      "rationale": "रאे — मोशे के दोसरा सम्बोधन, आज्ञा-रूप में ध्यान खीँचऽ हइ"
+    }
+  ],
+  "translation": "आउ यहवे हमरा कहलन: देखऽ, हम ⟨את⟩ चिहोन आउ ⟨את⟩ ओकर धरती तोहर आगू देबे सुरू करलन अइ; ओकर धरती के ⟨את⟩ बेसहत लेबे सुरू करऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e71f91e8c762e5a16aa9c9c262e34a9b075ea96ac8ef84a7b24a17712acbc572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/2\/29-32.1791991957160.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "सुरू करलन अइ"
+    },
+    {
+      "surface": "תת",
+      "gloss": "देबे"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहर आगू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चिहोन"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "चिहोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर धरती"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ओकर धरती"
+    },
+    {
+      "surface": "החל",
+      "gloss": "सुरू करऽ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "बेसहत लेबे"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "बेसहत लेबे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर धरती"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ओकर धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T15:32:37.162126452Z",
+  "model": "glm-5.3"
+}

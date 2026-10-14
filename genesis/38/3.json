@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "करता",
+      "rationale": "इब्रानी विधिवतार्थ किरिया हइ (कोनो करता-नाम नञ); मगही 'ऊ' जोड़ल गेलन — पाछे के संग यहूदा बुझाइत हइ।"
+    }
+  ],
+  "translation": "आउ ऊ गर्भवती भेलइ आउ एक बेटा के जनम देलक, आउ ऊ ⟨את⟩ ओकर नाम के एर धरलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b2ec8a3f0783383dbf76f05b0576657ea541207c96c2c8a39049f2bbab938dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/38\/1-4.1791987535854.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "गर्भवती भेलइ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जनम देलक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "धरलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "ער",
+      "gloss": "एर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:18:55.855282683Z",
+  "model": "glm-5.3"
+}

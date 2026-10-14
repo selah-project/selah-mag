@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 8:28",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मारलन",
+      "rationale": "נכוה हाकु करै 'मारलन' हकइ — 'घाव देलन' बाद के जानकारी (8:29) से आवऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "लोग",
+      "rationale": "ארמים बहुवचन के बर मगही में 'अरामी लोग' कहल गेलन।"
+    }
+  ],
+  "translation": "आउ ऊ योराम अहाब के बेटा ⟨את⟩ के संग रामोत गिलाद में हजाएल अराम के राजा के बिरुद्ध लड़ाई में गेलन, आउ अरामी लोग ⟨את⟩ योराम के मारलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4a1b0acfc57e7eb19ee695e459ef2abb98518bbae58973c573515848da0cab8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/8\/25-28.1791997980105.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ के संग"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "योराम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "लड़ाई में"
+    },
+    {
+      "surface": "עם",
+      "gloss": "बिरुद्ध"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "हजाएल"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "रामोत में"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "ארמים",
+      "gloss": "अरामी लोग"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योराम"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "योराम"
+    }
+  ],
+  "timestamp": "2026-10-14T17:13:00.106983432Z",
+  "model": "glm-5.3"
+}

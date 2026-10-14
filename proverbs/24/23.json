@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही के कपोल-क्रिया जोड़ल गेलइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "मुँह पहचानना",
+      "rationale": "הכר פנים — 'मुँह पहचानना' पक्षपात बर; शाब्दिक 'चेहरा पहिचानना'।"
+    }
+  ],
+  "translation": "ई सब बुद्धिमान लोग बरो हकइ; नियाव में मुँह पहचानना भला नञ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "edd8b690f09834782e52c185a11528794de93976100281d0a8aed5d997946ad6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/24\/21-24.1792006913893.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": ""
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "बुद्धिमान लोग बरो"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "पहचानना"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "नियाव में"
+    },
+    {
+      "surface": "בל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:41:53.893921744Z",
+  "model": "glm-5.3"
+}

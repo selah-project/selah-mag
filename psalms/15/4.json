@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשבע להרע",
+      "rationale": "'बुरा भोवे बर सौगंध खइलक' (आपन हानि में, KJV\/JPS) बनाम 'बुरा करे बर सौगंध' (LXX-परति पढ़निहार) — दुइ पढ़निहार मिलन्थिन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבזה\/נמאס",
+      "rationale": "दुइ नञ-क्रिया पास-पास ठाढ़ हिअइ — घिनौना आउ तिरस्कार के जोड़ी, छंद के बनावट।"
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "ימר",
+      "gloss": ""
+    }
+  ],
+  "translation": "जे ओकर आँख में घिनौना हकइ ओकरा ओ तिरस्कार करऽ हइ, बाकि ⟨את⟩ यहवे के डर वाला के आदर करऽ हइ; बुरा भोवे बर सौगंध खालक आउ ओकरा नञ बदलऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/15\/1-4.1792004582111.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "घिनौना"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ओकर आँख में"
+    },
+    {
+      "surface": "נמא׸",
+      "gloss": "तिरस्कार करऽ हइ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के डर वाला के"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "डर वाला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "आदर करऽ हइ"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "सौगंध खालक"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "बुरा भोवे बर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "बदलऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:02.112122828Z",
+  "model": "glm-5.3"
+}

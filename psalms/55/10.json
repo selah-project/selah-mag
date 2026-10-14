@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בלע",
+      "rationale": "बाबेल के निगले के तस्वीर (यिर्मयाहू 51:34 संग गूँज); किछु अनुवादक 'नास कर दे' मतलब लेथथिन, बाकि शब्द के आकृति 'निगलना' हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פלג לשונם",
+      "rationale": "बोली फाड़े के तस्वीर बाबेल के भासा-बँटवारे (बरेशित 11) के संग गूँजऽ हइ।"
+    }
+  ],
+  "translation": "निगल ले, अदोनाय, ओकनी के बोली फाड़ दे, काहे कि हम नगर में जुल्म आउ झगड़ा देखलिअने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/55\/9-12.1792005138819.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "निगल ले"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "फाड़ दे"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ओकनी के बोली"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "हम देखलिअने"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "जुल्म"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "आउ झगड़ा"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:12:18.820255633Z",
+  "model": "glm-5.3"
+}

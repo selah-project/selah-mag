@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "काहे कि",
+      "rationale": "इब्रानी वजह-जोड़ सब्द नञ देतइ; साफ अरथ बर जोड़ल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובל ידעת",
+      "rationale": "'क्योंकि तुझे ज्ञान के ओठ नहीं मिलेंगे' बनाम ASV दोसर पढ़ाई 'मूरख के पास जा, तब भी ओठ नञ मिलत' — दुई उलट दिसा के पढ़ाई"
+    }
+  ],
+  "translation": "मूरख आदमी के सामने से चले जा, काहे कि ज्ञान के ओठ तूँ नञ जान पाबऽ हऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0195f10d83b91419012c022e68b7e48fcb235dd7e620ad87585678975b6175a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/14\/5-8.1792006711820.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "चले जा"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "सामने से"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "आउ कुछो नञ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "तूँ जान पाबऽ हऽ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:38:31.821316348Z",
+  "model": "glm-5.3"
+}

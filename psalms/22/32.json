@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एकरा",
+      "rationale": "काहे कि ऊ कएलन — क्रिया के करम साफ करे बर जोड़ल"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי עשה",
+      "rationale": "'काहे कि ऊ एकरा कएलन' — केकरो नञ-केकरो करम ले जुड़ल छोट बाक्य; 'यहोवा एकरा कएलन हे' बनाम 'एकरा कएल गेलइ हे' के फैसला"
+    }
+  ],
+  "translation": "ओ अइबन आउ ओकर त्सेदेक ओ लोग ले बताबन जे अबहीं जनमै छथिन, काहे कि ऊ ⟨एकरा⟩ कएलन हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "03fa2f55e08f0629296c390b04d1ea48a7f608edc917030c11d7cf47eb6c461f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/22\/29-32.1792004666468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "ओ अइबन"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "आउ बताबन"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ओकर त्सेदेक"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ओ लोग ले"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "जे अबहीं जनमै छथिन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कएलन हे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:04:26.469857545Z",
+  "model": "glm-5.3"
+}

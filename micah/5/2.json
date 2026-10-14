@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 5:2",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ओकनी के⟩",
+      "rationale": "יתנם के प्रत्यय-वस्तु मगही में अलग सर्बनाम चाहऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "עד עת יולדה ילדה",
+      "rationale": "कौन जन्म देवइ — बेत-लेखेम के कोनो जनाना, परजा, या माशियाख के माय; अनुवादक सब में बड़ मतभेद।"
+    },
+    {
+      "kind": "mystery",
+      "subject": "जे जन्म देवइ",
+      "rationale": "जन्म देवए वाली के पहचान पाठ छोड़ देतइ, बिना नाम।"
+    }
+  ],
+  "translation": "एहे से ऊ ⟨ओकनी के⟩ छोड़ देतइ ओ समय तक जब जे जन्म देवइ, जन्म नञ देलक; आउ ओकर भाय सब के बाकी लोग यिस्राएल के बेटा सब के पाछे लौट अइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "63bbc9ef49b6e85976d4a1c8dce9ed848479e1311b9560c6e9af0e2e42e46f86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/5\/1-4.1792003750581.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "יתנם",
+      "gloss": "ऊ ओकनी के छोड़ देतइ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "जे जन्म देवइ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जन्म देलक"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "आउ बाकी"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाय सब के"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "लौट अइतइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "…के पाछे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:49:10.582420288Z",
+  "model": "glm-5.3"
+}

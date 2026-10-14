@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 5:13",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "Infinitive 'to say' folded into the finite verb; Magahi needs no separate word."
+    },
+    {
+      "kind": "you",
+      "subject": "दबाव डालए वाला लोग के बोली",
+      "rationale": "Direct address to the workers: imperative 'पूरा करऽ'."
+    }
+  ],
+  "translation": "आउ दबाव डालए वाला लोग जल्दी करावऽ हलथिन, कहऽ हइ — अपन काम पूरा करऽ, दिन के काम ओही दिन, जइसन पराली होवऽ हलइ के बखत।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2d83b7706d744ba687459704a748093de7e85eba92d083d95fac01e8da448f74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/5\/13-16.1791988124785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנגשים",
+      "gloss": "आउ दबाव डालए वाला लोग"
+    },
+    {
+      "surface": "אצים",
+      "gloss": "जल्दी करावऽ हलथिन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "पूरा करऽ"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "तोहनी के काम"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "काम"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ओही दिन"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "होवऽ हलइ के बखत"
+    },
+    {
+      "surface": "התבן",
+      "gloss": "पराली"
+    }
+  ],
+  "timestamp": "2026-10-14T14:28:44.786591272Z",
+  "model": "glm-5.3"
+}

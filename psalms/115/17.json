@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चुप्पी",
+      "rationale": "דומה के अरथ चुप्पी आउ मौत दुनो हकइ; इहाँ चुप्पी-लोक के ओर इसारा हकइ"
+    },
+    {
+      "kind": "mystery",
+      "subject": "मरल लोग",
+      "rationale": "मौत के पार के बारे में बात — ओह जगह जहाँ से जस नञ उठऽ हइ"
+    }
+  ],
+  "translation": "मरल लोग याह के जस नञ गावऽ हइ, आउ जे ⟨सब⟩ चुप्पी में उतरऽ हइ ऊ भी नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7662961dd3dedde7f9f6b6bc6210fd78de76748a34b1961e1c014666ddffab1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/115\/17-18.1792006019140.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मरल लोग"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "जस गावऽ हइ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "उतरै वाला"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "चुप्पी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:59.141343781Z",
+  "model": "glm-5.3"
+}

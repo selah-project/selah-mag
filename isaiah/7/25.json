@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 7:25",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तूँ",
+      "rationale": "תבוא दुसरा-बचन स्त्री के किरिया हइ — करता इब्रानी में नञ हकइ, हम ओकरा जोड़लिए"
+    },
+    {
+      "kind": "crux",
+      "subject": "जाइतै",
+      "rationale": "KJV 'there shall not come thither the fear of briers' (डर ओइजा नञ आतइ) बनाम JPS\/ASV 'thou shalt not come thither for fear' (तूँ डर से ओइजा नञ जाइतै) — हम दोसर रूप लेलिए"
+    },
+    {
+      "kind": "elision",
+      "subject": "למשलח",
+      "rationale": "शाब्दिक 'बिछावे\/बाहर भेजले के जगह' — चरावे के अरथ में लेल गेलइ"
+    }
+  ],
+  "translation": "आउ ओ सब पहाड़ जे कुदाल से गहरल जाइतै — तूँ ⟨तूँ⟩ ओइजा नञ जाइतै, काँड़े आउ झाड़ के डर से; आउ ऊ बैल के चरावे बर आउ मेमना के रौरहे बर बनतै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "17bb0abbcffbc4a2278e931452eab3736fb615fd513cb298f3f7e0251fd3ff3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/7\/25-25.1791998606314.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आउ ओ सब"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "במעדר",
+      "gloss": "कुदाल से"
+    },
+    {
+      "surface": "יעדרון",
+      "gloss": "गहरल जाइतै"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "जाइतै"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओइजा"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "डर"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "काँड़ा"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "आउ झाड़"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आउ ऊ बनतै"
+    },
+    {
+      "surface": "למשלח",
+      "gloss": "चरावे बर"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "ולמרמס",
+      "gloss": "आउ रौरहे बर"
+    },
+    {
+      "surface": "שה",
+      "gloss": "मेमना"
+    }
+  ],
+  "timestamp": "2026-10-14T17:23:26.315030190Z",
+  "model": "glm-5.3"
+}

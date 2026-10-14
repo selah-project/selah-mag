@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 63:14",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "Tier-2 नियम के मोताबिक 'रूआख' एके रूप में रखल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "एक्को",
+      "rationale": "हिब्रू में कोनो अंक नञ हइ; मगही बाक्य के प्रवाह बर जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "जइसन पसु घाटी में उतरऽ हइ, यहवे के रूआख ओकरा आराम देलक; एहे चाल तोहनी अपन लोग के चलैलन, अपन बर एक्को तेजस्वी नाम बनावे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ef119106f566a78f94bec01c588c109635a08d0a0bb9667fd029b06ead5efac1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/63\/13-16.1791999918461.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבהמה",
+      "gloss": "जइसन पसु"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "घाटी में"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "उतरऽ हइ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "תניחנו",
+      "gloss": "आराम देलक"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहे चाल"
+    },
+    {
+      "surface": "נהגת",
+      "gloss": "चलैलन"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "अपन लोग के"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "बनावे बर"
+    },
+    {
+      "surface": "לך",
+      "gloss": "अपन बर"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "तेजस्वी"
+    }
+  ],
+  "timestamp": "2026-10-14T17:45:18.461799559Z",
+  "model": "glm-5.3"
+}

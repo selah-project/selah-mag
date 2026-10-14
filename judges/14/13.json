@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 14:13",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "त",
+      "rationale": "Magahi conditional-then needs त; Hebrew has simple ונתתם"
+    },
+    {
+      "kind": "crux",
+      "subject": "सूती कपड़ा",
+      "rationale": "סדינים: linen wrappers \/ shirts — 'sheets' (KJV) बनाम 'linen garments' (JPS)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Samson's companions",
+      "rationale": "imperative — put forth your riddle, that we may hear it"
+    }
+  ],
+  "translation": "आउ जँ तोहनी हमरा ई नञ बतावऽ सकऽ हथिन, त तोहनी हमरा तीस सूती कपड़ा आउ तीस बदले के कपड़ा देबऽ। ओकनी ओकरा कहलन — तोहर पहेली कहऽ, त हमनी सुनऽ हिअइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3692c2606215772f736e2d4b8ca3ff892407877510d115fd63e85a02f2e55194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/14\/13-16.1791994495161.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תוכלו",
+      "gloss": "सकऽ हथिन"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "बतावऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "त तोहनी देबऽ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "סדינים",
+      "gloss": "सूती कपड़ा"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आउ तीस"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "बदले के"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ओकनी कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "חודה",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "חידתך",
+      "gloss": "तोहर पहेली"
+    },
+    {
+      "surface": "ונשמענה",
+      "gloss": "त हमनी सुनऽ हिअइ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:14:55.162431585Z",
+  "model": "glm-5.3"
+}

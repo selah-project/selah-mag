@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बेटी",
+      "rationale": "בת פिगारातिव सब्द हकइ — 'त्सियोन के बेटी' यरूशलयिम के जनता के कहऽ हइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מלונה",
+      "rationale": "'डेरा \/ रात बितावे के झोपड़ी' तनाख़ में कुछे जगह आवऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקשה \/ נצורה",
+      "rationale": "तीन उपमा के सिलसिला — माँड़ा, डेरा, घेरामे नगर — एकरा पाछे त्सियोन के पाछे नगर-पाछे नगर बचल रहऽ हइ।"
+    }
+  ],
+  "translation": "आउ जे बचलइ ऊ त्सियोन के बेटी — कागी के बगइचा में माँड़ा जइसन, खीरा के खेत में डेरा जइसन, घेरामे नगर जइसन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "818241d23022fe02b67d7d043b9190ccc1e32e753c10d71bf5b6f521c7bc6dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/1\/5-8.1791998496919.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "आउ जे बचलइ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "के बेटी"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "त्सियोन"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "माँड़ा जइसन"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "कागी के बगइचा में"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "डेरा जइसन"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "खीरा के खेत में"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "नगर जइसन"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "घेरामे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:21:36.921258628Z",
+  "model": "glm-5.3"
+}

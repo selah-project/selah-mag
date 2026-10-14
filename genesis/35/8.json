@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 35:8",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "धाय",
+      "rationale": "מינות दूध पियावै वाली धाय हकइ; साझा 'धाय' लेल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "कहलन के करता",
+      "rationale": "हिब्रू के वाक्य में करता बिना के क्रिया हकइ; संदर्भ से याकोव के बुझल जाहइ, कोस्ठक नञ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "अल्लोन बाखूत",
+      "rationale": "जगह के नामकरण — स्मारक-गाछ के नाम गढ़ल गेलइ।"
+    }
+  ],
+  "translation": "आउ दबोरा मर गेलन, जे रिबका (रिब्का) के धाय हलइ, आउ ओकर बेथ-एल के नीचे ओ बड़ गाछ के नीचे गाड़ल गेलइ, आउ ओकर नाम के अल्लोन बाखूत (रोवै के गाछ) कहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "07b642e7fe5075446b211f6422c64af696391c1aa64af62765bbaeb5a529c2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/35\/5-8.1791987416878.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "मर गेलन"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "दबोरा"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "धाय"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "रिबका (रिब्का)"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "गाड़ल गेलइ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल के"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "האלון",
+      "gloss": "ओ बड़ गाछ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम के"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "अल्लोन"
+    },
+    {
+      "surface": "בכות",
+      "gloss": "बाखूत (रोवै के गाछ)"
+    }
+  ],
+  "timestamp": "2026-10-14T14:16:56.880284627Z",
+  "model": "glm-5.3"
+}

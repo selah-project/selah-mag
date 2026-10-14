@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 30:12",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "रूआख",
+      "rationale": "רוחו 'his breath\/spirit' rendered as रूआख per Tier-2 pin, one word for wind\/breath\/spirit"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פלח דבלה",
+      "rationale": "'slice of pressed-fig cake' — rare concrete picture kept piece by piece"
+    },
+    {
+      "kind": "measurement",
+      "subject": "तीन दिन आउ तीन रात",
+      "rationale": "explicit count of days and nights frames the verse"
+    }
+  ],
+  "translation": "आउ ओकरा दबावल अंजीर के पिठ्ठी के एक टुकरा आउ दू टोला सूखल अंगूर देलन, आउ ओ खइलन आउ ओकर रूआख ओकरा ले फेर आ गेलन, काहे कि ओ तीन दिन आउ तीन रात ले रोटी नञ खइलन हल आउ पानी नञ पीलन हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/30\/9-12.1791995657125.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "टुकरा"
+    },
+    {
+      "surface": "דבלה",
+      "gloss": "दबावल अंजीर के पिठ्ठी"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "आउ दू"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "टोला सूखल अंगूर"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "खइलन"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "फेर आ गेलन"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ओकर रूआख"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा ले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खइलन"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "पीलन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "आउ तीन"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "रात"
+    }
+  ],
+  "timestamp": "2026-10-14T16:34:17.126959969Z",
+  "model": "glm-5.3"
+}

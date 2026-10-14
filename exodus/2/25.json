@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "जानलन",
+      "rationale": "וידע אלהים के वस्तु बिना लिखल हकइ — 'एलोहीम जानलन' (अन्त खुलल); किछु परम्परा 'ओकरा जानलन' \/ 'ओकर अवस्था जानलन' जोड़ऽ हइ, मगही पाठ ई जोड़ नञ करऽ हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "जानलन के वस्तु",
+      "rationale": "इब्रानी वाक्य अपन वस्तु बिना छोड़ऽ हइ; अनुवादो ओही खुलल रूप में रहलइ हे"
+    }
+  ],
+  "translation": "आउ एलोहीम यिस्राएल के बेटा सब के ⟨את⟩ देखलन, आउ एलोहीम जानलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "49ad89dbcddadfe72b8195cda99bca004bdb2b4a60382f34451387ab6b0010c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/2\/25-25.1791987901010.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "आउ देखलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के बेटा सब के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "आउ जानलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T14:25:01.010824550Z",
+  "model": "glm-5.3"
+}

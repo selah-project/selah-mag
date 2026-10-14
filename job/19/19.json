@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 19:19",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סודי",
+      "rationale": "गुप्त मंतरणा के मंडली — סוד ओही जड़ हकइ जेकरा से गुप्त बात के बिचार चलऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मתי",
+      "rationale": "מתי बिरल बहुबचन — 'आदमी' रखल; कुछ अनुवाद 'intimate friends' ढंग के अरथ ले गेलन"
+    }
+  ],
+  "translation": "हमर गुप्त सभा के सब आदमी हमरा घिनौना समझऽ हथिन, आउ जेकरा हम परेम करलियइ, ऊ हमरा बिरोध में उलट गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0a1dd68ddaf6b1b486b359db961adea4a7cac95176dd7be16d3b2a88faa964f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/19\/17-20.1792007456296.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "हमरा घिनौना समझऽ हथिन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "हमर गुप्त सभा"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "जेकरा हम परेम करलियइ"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "उलट गेलन"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा बिरोध में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:50:56.297746994Z",
+  "model": "glm-5.3"
+}

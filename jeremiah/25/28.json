@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 25:28",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שתו תשתו",
+      "rationale": "क्रिया के दोहराव — इब्रानी के निश्चितता बनावट (drink ye, drinking ye shall drink), मगही में 'पीबइ, अवस्य पीबइ' राखल गेल।"
+    },
+    {
+      "kind": "elision",
+      "subject": "כה אמר",
+      "rationale": "ई 'इइसन कहलन' सूत्रबद्ध बचन-परिचय हकइ; 'के बचन हकइ' में 'कहना' क्रिया खम्भा-रूप में घुसल।"
+    },
+    {
+      "kind": "you",
+      "subject": "यिर्मियाह के",
+      "rationale": "यहवे यिर्मियाह के सोझा आदेस देथिन — मना करे पर की कहबे।"
+    }
+  ],
+  "translation": "आउ ई होतइ कि जब ऊ लोग तोहर हाथ से प्याला लेबे बर पीबे बर मना करथिन, तँ तूँ ओकनी से कहबे: यहवे त्सबाओत के बचन हकइ — पीबइ, अवस्य पीबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2e8d00ec435e068ea79b55dbc7bb7e780cff3c01db99e2f7238242562125625c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/25\/28-28.1792011869800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ ई होतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि जब"
+    },
+    {
+      "surface": "ימאנו",
+      "gloss": "मना करथिन"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "लेबे बर"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "प्याला"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "तोहर हाथ से"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "पीबे बर"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "तँ तूँ कहबे"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "इइसन"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "के बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "पीबइ"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "अवस्य पीबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T21:04:29.801309678Z",
+  "model": "glm-5.3"
+}

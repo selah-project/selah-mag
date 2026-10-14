@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 15:6",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואתה לא תעבט",
+      "rationale": "same verb עבט rendered 'lend' first and 'borrow' second by context; some read both as 'lend' — you shall not be lent-to, i.e. not be in others' debt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעבט \/ תעבט · ומשלת \/ ימשלו",
+      "rationale": "mirror repetition — lend\/not-borrow, rule\/not-be-ruled — chiastic promise structure kept in the parallel clauses."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "second-person singular promise to Israel."
+    }
+  ],
+  "translation": "काहे कि आपन एलोहीम यहवे तोहरा असीस देतन, जइसन तोहरा कहलन; आउ तूँ बड़ा जाति सब के उधारी देबइ, बाकि तूँ उधारी नञ लेबइ; आउ तूँ बड़ा जाति सब पर राज करबइ, बाकि ओन्ही तोहारा पर राज नञ करतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "28b1fff41988a6bfadd7cdf73b8731394c6aa4151dbf25580eaa81edede5fdcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/15\/5-8.1791992470646.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "आपन एलोहीम"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "तोहरा असीस देतन"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "והעבטת",
+      "gloss": "आउ उधारी देबइ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब के"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תעבט",
+      "gloss": "उधारी लेबइ"
+    },
+    {
+      "surface": "ומשלת",
+      "gloss": "आउ राज करबइ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जाति सब पर"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "तोहारा पर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "राज करतन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:41:10.647098776Z",
+  "model": "glm-5.3"
+}

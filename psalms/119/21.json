@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 119:21",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ארורים के जगह",
+      "rationale": "सरापल घमंडी के गुण (KJV\/ASV\/JPS) या भटके हुअन के हाल (geneva) — दुनू पढ़ावा चलऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद अनजाने ढंग से परमेश्वर के सम्बोधन करऽ हइ।"
+    }
+  ],
+  "translation": "तूँ घमंडी लोग के फटकारलन — सरापल हथिन ऊ, जे तोहर आज्ञा सब से भटकल हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "11871cdc9e699b814fcbc08edbcce91960f48c1032e665dfded39717e628f884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/21-24.1792006077384.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "फटकारलन"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "घमंडी लोग"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "सरापल हथिन"
+    },
+    {
+      "surface": "השגים",
+      "gloss": "भटकल हथिन"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "तोहर आज्ञा सब से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:57.385359132Z",
+  "model": "glm-5.3"
+}

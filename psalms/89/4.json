@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "काटलियन वाचा",
+      "rationale": "כרת ברית — 'वाचा काटना': इब्रानी में वाचा बन्न के बर 'काटना' क्रिया चलऽ हइ, मांस के टुकड़ा के बीच से गुजरे के चलन से; मगही में एकरा साफ बुझावे बर 'बनइलन' चाही।"
+    },
+    {
+      "kind": "crux",
+      "subject": "चुनल",
+      "rationale": "לבחירי 'अपना चुनल बर' — संगीतकार के चुनल ब्यक्ति (दाविद) बना चुनल लोग; दुनो पढ़ाव मंजूर।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨आगू⟩",
+      "rationale": "ל prefix 'के लेल \/ के आगू' — मगही में दिसा साफ करे बर जोड़ल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दाविद (दाऊद)",
+      "rationale": "पहिला आगमन — इब्रानी-निस्ठ रूप दाविद, कोस्ठक में चलनसार रूप दाऊद।"
+    }
+  ],
+  "translation": "हम अपना चुनल बर वाचा काटलियन; हम अपना सेवक दाविद (दाऊद) के ⟨आगू⟩ शपथ लेलियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8c71932c79001f4e5854bd6f34730ea315b3bf506f3adce7e38e106377b74bea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/89\/4-4.1792012104121.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "काटलियन"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "वाचा"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "अपना चुनल बर"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "शपथ लेलियन"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद (दाऊद) के ⟨आगू⟩"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "अपना सेवक"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:24.122000914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "हלא प्रश्न",
+      "rationale": "हिब्रू 'का नञ?' — आसा के प्रश्न या शिकायत के प्रश्न; केजेवी आसा बनावऽ हइ, वाईएलटी शिकायत"
+    },
+    {
+      "kind": "you",
+      "subject": "एलोहीम",
+      "rationale": "सीधा एलोहीम के सम्बोधन — दू बेर नाम के दोहराव"
+    }
+  ],
+  "translation": "की तोहनी, एलोहीम, हमनी के नञ छोड़ देलन हे? आउ एलोहीम, हमनी के सेना के संग नञ निकलतइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/108\/9-12.1792005961727.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "की... नञ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "हमनी के छोड़ देलन हे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "निकलतइ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "हमनी के सेना के संग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:01.728760249Z",
+  "model": "glm-5.3"
+}

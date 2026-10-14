@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בחרט אנוש",
+      "rationale": "'आदमी के खुदाई-कलम' बनाम 'सादा-सीधा लिखाई' (जेपीएस 'common script') — साधारण आदमी जे चीज समझे"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהר שלל חש בז",
+      "rationale": "नाम खुदे बाक्य हकइ — 'तुरन्त-लूट-झट-धमक' — चार पद मिल के एक नाम; अनुवाद-पाँती में अरथ बुझावे के बर कोस्ठक देल गेलइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חרט",
+      "rationale": "खुदाई-कलम — तनाख़ में ई सब्द खाली इहेँ आवऽ हइ"
+    }
+  ],
+  "translation": "आउ यहवे हमरा से कहलन — तूँ एक बड़ पटिया ले, आउ ओकरा ऊपर आदमी के खुदाई-कलम से लिख: माहेर-शालाल-खाश-बाज़ (तुरन्त लूट, झटपट धमक)।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/8\/1-4.1791998674298.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा दने"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ले"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा बर"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "पटिया"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "आउ लिख"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "खुदाई-कलम से"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "माहेर"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "शालाल"
+    },
+    {
+      "surface": "חש",
+      "gloss": "खाश"
+    },
+    {
+      "surface": "בז",
+      "gloss": "बाज़"
+    }
+  ],
+  "timestamp": "2026-10-14T17:24:34.298505438Z",
+  "model": "glm-5.3"
+}

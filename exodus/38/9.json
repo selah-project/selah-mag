@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सौ हाथ",
+      "rationale": "आँगन के दक्खिन दिशा के नाप गिनाहइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हाथ",
+      "rationale": "באמा माप के एकाई हकइ — कुहनी से अँगुरी तक के हाथ।"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ आँगन बनइलन — दक्खिन दिशा बर, दक्खिन-दने ओकर परदा बटैल सनी कपड़ा के, सौ हाथ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9ddd22e2caac854851d8b578ff1bae338ba7cb37f957c495eb14b905c6ed51bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/38\/9-12.1791989277219.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आउ ऊ बनइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आँगन"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "आँगन"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "दिशा बर"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "दक्खिन"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "दक्खिन-दने"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "आँगन के"
+    },
+    {
+      "surface": "שש",
+      "gloss": "सनी कपड़ा"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "बटैल"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "हाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:47:57.220515569Z",
+  "model": "glm-5.3"
+}

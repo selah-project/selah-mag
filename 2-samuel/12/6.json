@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עקב אשר",
+      "rationale": "एक्को सामिल कइल संग-सब्द; मगही में खाली काहे कि बहुबचन चाही"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चार गुना",
+      "rationale": "चार गुना भरपाई के हिसाब — तोरा के नियाव (निर्गमन 22:1)"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ मेमना ओ चार गुना भरतइ, काहे कि ओ ⟨את⟩ ई काम कइलक आउ ओकरा दया नञ देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bc8809d0aad713b5ee991d7ce3bdb701c9623abd502ef919ca22610f7858d513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/12\/5-8.1791996149212.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "मेमना"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "भरतइ"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "चार गुना"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई काम"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ई काम"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "दया देलक"
+    }
+  ],
+  "timestamp": "2026-10-14T16:42:29.213897338Z",
+  "model": "glm-5.3"
+}

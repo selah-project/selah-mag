@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "नदी",
+      "rationale": "यर्दन के संग 'नदी' जोड़ल गेलइ, मूलपाठ में खाली नाम हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "रאה",
+      "rationale": "'देखलन' के बिसय कोनो हकइ — समुंदर का देखलन? अरथात अगिला पद में छिपल हइ।"
+    }
+  ],
+  "translation": "समुंदर देखलन आउ भाग गेलन, यर्दन नदी पाछे मुड़ गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e8c1e1190f1f892769b99bb0256d222b1c2238d7b3acb74f40eaab74e7382fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/114\/1-4.1792006002282.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "आउ भाग गेलन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दन नदी"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "मुड़ गेलन"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "पाछे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:42.282726398Z",
+  "model": "glm-5.3"
+}

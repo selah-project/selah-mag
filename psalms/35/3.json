@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וסגור לקראת",
+      "rationale": "'ओकरा के सामने रस्ता बन्द करऽ' (KJV\/ASV) बनाम 'भाला ओकरा के तरफ तानऽ' — JPS ओकरा 'बर्ती-कुल्हाड़ी' पढ़ऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "gloss": "נפश हिरदय-गला-परान के बात हकइ, आत्मा नञ — “हमरा परान” लेल गेलइ"
+    }
+  ],
+  "translation": "आउ भाला ⟨बाहर⟩ करऽ हे, आउ हमरा पीछा करै वाला लोग के सामने ⟨रस्ता⟩ बन्द करऽ हे; हमरा परान से कहऽ हे: “हम तोहर मुकति हन।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/35\/1-4.1792004900571.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "आउ बाहर करऽ हे"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "भाला"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "आउ बन्द करऽ हे"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "हमरा पीछा करै वाला लोग"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहऽ हे"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "हमरा परान से"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "तोहर मुकति"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:08:20.572878857Z",
+  "model": "glm-5.3"
+}

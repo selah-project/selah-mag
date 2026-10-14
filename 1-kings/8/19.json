@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 8:19",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "इब्रानी नञ-बाक्य के जोड़-जोड़; मगही में 'बाकि' से देखाएल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנך \/ יבנה",
+      "rationale": "बेटा (בן) आउ बनाना (בנה) एके अच्छर-जड़ जइसन गूँजऽ हे; मगही में ई संगति बहुत हद तक संभव हे"
+    }
+  ],
+  "translation": "बाकि तूँ ओहे घर नञ बनाबइ; तोहर बेटा, जे तोहर कमर के भीतर से निकलतइ, ऊहे मोर नाम बर ओहे घर बनातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/8\/17-20.1791996998254.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "बनाबइ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ओहे घर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨बाकि नञ — किन्तु⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨बाकि नञ — किन्तु⟩"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "तोहर बेटा"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "निकलतइ"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "तोहर कमर के भीतर से"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "बनातइ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ओहे घर"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "मोर नाम बर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:56:38.256042087Z",
+  "model": "glm-5.3"
+}

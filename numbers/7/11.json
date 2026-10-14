@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "एक सरदार एक दिन",
+      "rationale": "दिन-गिनती के बिधान — बारह दिन में बारह भेंट के क्रम तय भेलइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשיא אחד ליום",
+      "rationale": "शब्द-पुनरावृत्ति — हिब्रू के दोहराव जस के तस रखल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "मोशे",
+      "rationale": "यहवे के ओर से मोशे के सीधा बात"
+    }
+  ],
+  "translation": "आउ यहवे मोशे से कहलन — एक सरदार एक दिन, एक सरदार एक दिन, ⟨את⟩ अपन भेंट बेदी के द्वारा पवित्तर-करैत बर लावतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "30ef2d20b1da3bda106efe57b5f5e8619ab8d812d6ba8a25e92f7871c2db93c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/7\/9-12.1791990772838.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से (केराँ)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "एक सरदार"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "एक दिन"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "एक सरदार"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "एक दिन"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "लावतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन भेंट"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "अपन भेंट"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "द्वारा पवित्तर-करैत बर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी"
+    }
+  ],
+  "timestamp": "2026-10-14T15:12:52.839768706Z",
+  "model": "glm-5.3"
+}

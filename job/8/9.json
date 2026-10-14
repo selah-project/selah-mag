@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बाने हथिन",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही के कोपुला जोड़ल गेलइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "जानलियन नञ",
+      "rationale": "נדע अपूर्ण कालो हो सकऽ हइ — 'जानत रही' — बाकि भूतकाल मुख्य पढ़ाई हकइ"
+    }
+  ],
+  "translation": "काहे कि हम ⟨आगू-पाछू के बिसरल बेर के⟩ हलियन आउ कुछो जानलियन नञ — काहे कि हमनी के दिन धरती के ऊपर छाँव बाने हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "beda7c3bb7c108b4aa7fdd86ab6bfa2626227bdffa1ec19deae0163fd119070c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/8\/9-12.1792007192765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "काल्हिं के"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "जानलियन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "צל",
+      "gloss": "छाँव"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "हमनी के दिन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T19:46:32.765532324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आगूनि",
+      "rationale": "करता पद 1 के बुद्धि हकइ; इ खण्ड में इब्रानी ओकरा नञ कहऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פי קרת",
+      "rationale": "नगर के मुँह — इब्रानी के इडियम; बोले वाला के मुँह आउ नगर के दुआरी दूनो के जोड़, मगही में अक्षरशः रखल गेल हइ"
+    }
+  ],
+  "translation": "दुआरी-सभ के किनारे, नगर के मुँह के आगे, दुआर-सभ के परतिछाम पर, ऊ ⟨आगूनि⟩ चिल्लावऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cf8f6165d3fa641b5a849be2dfadcb0dfd76a0a045df7d2cffc3192cb489f0c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/8\/2-3.1792012096938.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "के किनारे"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "दुआरी-सभ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "मुँह के आगे"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "परतिछाम पर"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "दुआर-सभ के"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "चिल्लावऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:16.939360150Z",
+  "model": "glm-5.3"
+}

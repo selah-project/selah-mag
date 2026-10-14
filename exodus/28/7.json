@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חברת \/ וחבר",
+      "rationale": "एही जड़ 'जुड़ल' दू बेर — जुड़वा पट्टी आउ जुड़ाव, मगही में 'जुड़' दोहरावे से अंशतः बचल हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दू \/ दू",
+      "rationale": "पट्टी आउ किनारा दुनों के गिनती दू-दू।"
+    }
+  ],
+  "translation": "ओकर दू काँधा-पट्टी जुड़ल होतइ, ओकर दू किनारा संग जुड़िके — आउ ऊ जुड़ल रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "81c9002946f405ab8a2182999912fcd16aee4e5d5b853fda00f1a466b7d6ace5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/28\/5-8.1791988943395.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "काँधा-पट्टी"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "जुड़ल"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "संग"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "आउ ऊ जुड़ल रहतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:42:23.396882336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שנאה\/שנאתים",
+      "rationale": "घृणा-संज्ञा आउ क्रिया एके जड़ के — मगही में 'नफरत से नफरत' के दोहराव एकरा धुनी देवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "पूरा नफरत",
+      "rationale": "तक्लीत के अरथ 'अन्त\/पूर्णता' — 'अविकृत घृणा' (केजेवी 'perfect hatred') बनाम 'अत्यन्त घृणा' (जेपीएस)"
+    }
+  ],
+  "translation": "पूरा नफरत से हम ओकनी के नफरत कइलिये हम; ओकनी हमर बर बैरी भेलन हम.",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1eda32a22fb1984b335321c369a0668a3e2046fbbda41aff5c9a3b27e93e8ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/139\/21-24.1792006296198.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "पूरा-पूरा (अत्यन्त)"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "नफरत"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "हम ओकनी के नफरत कइलिये हम"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "बैरी"
+    },
+    {
+      "surface": "היו",
+      "gloss": "भेलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:36.199499788Z",
+  "model": "glm-5.3"
+}

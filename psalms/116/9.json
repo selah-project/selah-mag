@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "बארצות",
+      "rationale": "बहुबचन 'धरतिनि' बनाम एकबचन 'धरती' — jps 'lands' बनाम kjv 'land'।"
+    },
+    {
+      "kind": "elision",
+      "subject": "לפני",
+      "rationale": "मूलपाठ 'मुँह के आगे' कहऽ हइ; मगही में 'आगे' एके सब्द।"
+    }
+  ],
+  "translation": "हम यहवे के आगे टहलबइ, जीवत लोग के धरती में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9f58a11b1cc15e365db798881c68fda07224e8dec0b6059f3be84b87af347ac0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/116\/9-12.1792006030596.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "टहलबइ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवत लोग के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:27:10.597380519Z",
+  "model": "glm-5.3"
+}

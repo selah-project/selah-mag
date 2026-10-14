@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 38:29",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हलइ⟩",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही के वाक्य एकरा माँगऽ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ताम्बर के गिनती",
+      "rationale": "भेंट के ताम्बर के तौल — किक्कार आउ शेकेल में गिनल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "किक्कार",
+      "rationale": "ככर तौल के माप हकइ; लिप्यन्तरन रखल गेलन"
+    }
+  ],
+  "translation": "आउ हिलावल भेंट के ताम्बर सत्तर किक्कार आउ दू हजार आउ चार सौ शेकेल ⟨हलइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d2c16a773016f9048fd6ad5eaf8efca658c334f27a0b8763d36eeecb7ffbfb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/38\/29-31.1791989345917.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחשת",
+      "gloss": "ताम्बर"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "हिलावल भेंट के"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "किक्कार"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "आउ दू हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आउ चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "शेकेल"
+    }
+  ],
+  "timestamp": "2026-10-14T14:49:05.917885672Z",
+  "model": "glm-5.3"
+}

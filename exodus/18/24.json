@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וישמע לקול",
+      "rationale": "'बोली सुनलन' — इब्रानी 'आवाज से सुनलन' के बनावट, आज्ञापालन के अरथ भीतर हइ"
+    }
+  ],
+  "translation": "आउ मोशे अपन ससुर के बोली सुनलन, आउ जे सब कहलन ओकरा कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "85a8c5fa058ad4f40a39c13d40b4c4cb6914fd8dd8ad14fda21132dae84ff053",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/18\/21-24.1791988596429.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "आउ सुनलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "अपन ससुर"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "आउ कइलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:36:36.431003838Z",
+  "model": "glm-5.3"
+}

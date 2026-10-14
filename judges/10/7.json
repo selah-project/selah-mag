@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף",
+      "rationale": "शाब्दिक अरथ 'नाक\/थुथनी' — हिब्रू में क्रोध नाक से भड़केला; मगही में 'क्रोध' लेल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וימכרם",
+      "rationale": "'बेच देलन' शाब्दिक हकइ; किछु अनुवाद ओकरा 'सौंप देलन' कर देत छथिन — गुलामी के बिक्री के तस्वीर रखल गेल।"
+    }
+  ],
+  "translation": "आउ यहवे के क्रोध यिस्राएल पर भड़क गेलन, आउ ऊ ओकनी के पलिश्ती के हाथ में आउ अम्मोन के बेटा सब के हाथ में बेच देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "acd065dcf62b57370f6d3f1c6f39743e38a2e20ca2819263be0de3e2536dbd2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/10\/5-8.1791994294673.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "भड़क गेलन"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिस्राएल पर"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "बेच देलन"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "आउ हाथ में"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:11:34.675078124Z",
+  "model": "glm-5.3"
+}

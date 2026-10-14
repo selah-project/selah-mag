@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 32:1",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dates",
+      "rationale": "Verse dates the word by two regnal years: Zedekiah's tenth = Nebuchadrezzar's eighteenth."
+    },
+    {
+      "kind": "elision",
+      "subject": "שמנה עשרה",
+      "rationale": "Hebrew says 'eight-ten'; Magahi has one word अठारहवाँ, so the second numeral token has no separate gloss."
+    }
+  ],
+  "translation": "ओ बात जे यिर्मेयाहू के यहवे ⟨את⟩ के पास से आइलइ, त्सिद्कियाहू यहूदा के राजा के दसवाँ बरिस में; ओही बरिस हकइ नवूखदरेत्सर के अठारहवाँ बरिस।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c5ac7d8e27ee2320ca5fd7b32c8d475e3591a5e333086d90052dca9e63c71fa1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/32\/1-4.1792000990566.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ओ बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आइलइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू के"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के पास से"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "העשרית",
+      "gloss": "दसवाँ"
+    },
+    {
+      "surface": "לצדקיהו",
+      "gloss": "त्सिद्कियाहू के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "बरिस हकइ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "अठारहवाँ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "לנבוכדראצר",
+      "gloss": "नवूखदरेत्सर के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:03:10.567417556Z",
+  "model": "glm-5.3"
+}

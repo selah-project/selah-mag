@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकनी",
+      "rationale": "इब्रानी के क्रिया में करता छिपल हकइ; दू टोकन बर मगही में सर्बनाम जोड़ल गेलन।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद सीधे यहवे के सम्बोधन करऽ हइ।"
+    }
+  ],
+  "translation": "तोहर परजा के, यहवे, ⟨ओकनी⟩ कुचल देलन, आउ तोहर विरासत के ⟨ओकनी⟩ दुःखी करलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c13dc5e8a29ba9e5ffdec15748eca7753f18822d289bd2b9bfc61e2bc2d9d757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/94\/5-8.1792005706989.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "तोहर परजा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "कुचल देलन"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "आउ तोहर विरासत"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "दुःखी करलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:46.990310383Z",
+  "model": "glm-5.3"
+}

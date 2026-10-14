@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "हिफिल किरिया के करता इब्रानी में नञ देल मगही में चाही"
+    },
+    {
+      "kind": "crux",
+      "subject": "והעלה",
+      "rationale": "पढ़े के दो रस्ता: 'दिया चढ़ावऽ हे' (हिफिल) बनाम 'ओकरा जरावऽ हे' — केजेवी 'जरावऽ हे', बाकी सब चढ़ावऽ हे"
+    }
+  ],
+  "translation": "आउ तूँ ⟨את⟩ ओकर दिया सात बनइबइ, आउ ⟨ऊ⟩ ⟨את⟩ ओकर दिया चढ़ाबइ, आउ ओकर मुँह के ओही सामने इँजोर देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5e7cf29174a2fe2633c726b898eee82da6e2c35aacfcc3cf688cce3bf866cfc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/25\/37-40.1791988868358.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "तूँ बनइबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर दिया"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ओकर दिया"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "चढ़ाबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर दिया"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ओकर दिया"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "इँजोर देतइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ओही सामने"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ओकर मुँह"
+    }
+  ],
+  "timestamp": "2026-10-14T14:41:08.358502412Z",
+  "model": "glm-5.3"
+}

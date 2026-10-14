@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אהב…אהב",
+      "rationale": "क्रिया के दुहराव चियास्टिक ढाँचा बनावऽ हइ, मगही में दुनू पासा रखल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "שבר",
+      "rationale": "शेबेर: 'टूट\/तबाही' बनाम 'समाधान' — कुछ अनुवादक 'झगड़ा के फैसला' पढ़निहार कहऽ हथिन।"
+    }
+  ],
+  "translation": "जे अवज्ञा के परेम करऽ हइ, ऊ झगड़ा के परेम करऽ हइ; आउ जे अपन दुआरी ऊँच करऽ हइ, ऊ तबाही ताकऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8db65f0a543b42cbc2ca31b833896623203c0200c30ba7d4ae3dda3fd37d4705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/17\/17-20.1792006767128.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "परेम करऽ हइ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "अवज्ञा"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "परेम करऽ हइ"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "झगड़ा"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "ऊँच करऽ हइ"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "अपन दुआरी"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ताकऽ हइ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "तबाही"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:27.129646573Z",
+  "model": "glm-5.3"
+}

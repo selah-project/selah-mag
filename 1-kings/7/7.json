@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "फर्स से फर्स ले",
+      "rationale": "किनार के फर्स से किनार ले बनाम फर्स से छत ले — इब्रानी दुनो 'फर्स' कहऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אולם\/אלם",
+      "rationale": "'अवलम' आउ 'अलम' एके बरामदा बद पुनरावृत्ति — मगही में एके रूप रखल गेल।"
+    }
+  ],
+  "translation": "आउ सिंहासन के बरामदा — जने ऊ नियाव करऽ हलथिन — नियाव के बरामदा बनइलन, आउ देवदार से ढाकल हलइ, फर्स से फर्स ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "80774aa0fc9c3e3325445f167fc38a2066a4e349aecdf7eb791a0d16eb22e95e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/7\/5-8.1791996896474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "आउ बरामदा"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "सिंहासन के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जने"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "नियाव करऽ हलथिन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजा"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "बरामदा"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "नियाव के"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "आउ ढाकल"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "देवदार में"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "फर्स से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "फर्स"
+    }
+  ],
+  "timestamp": "2026-10-14T16:54:56.496730551Z",
+  "model": "glm-5.3"
+}

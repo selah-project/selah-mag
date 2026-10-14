@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חטאת \/ עלה",
+      "rationale": "बलि के नाम ओकर काम से रखल गेलइ — पाप-बलि, ऊपर चढ़ावा-बलि; इब्रानी संज्ञा के साँच बचलइ रहलइ हे।"
+    }
+  ],
+  "translation": "आउ पुरोहित ⟨את⟩ पाप-बलि के करतइ, आउ शुद्ध होवै वाला के ओकर अशुद्धता से छुटकारा करतइ, आउ ओकर बाद ⟨את⟩ चढ़ावा-बलि के मारतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bbe6019ed30ea7f0fd590a68014a4572f44a047c63fd32c6a09d5b593c41bceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/14\/17-20.1791989876413.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "आउ करतइ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पाप-बलि"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "पाप-बलि"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "आउ छुटकारा करतइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "शुद्ध होवै वाला"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "ओकर अशुद्धता से"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "आउ ओकर बाद"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "मारतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चढ़ावा-बलि"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "चढ़ावा-बलि"
+    }
+  ],
+  "timestamp": "2026-10-14T14:57:56.414880150Z",
+  "model": "glm-5.3"
+}

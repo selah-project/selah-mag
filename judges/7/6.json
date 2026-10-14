@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 7:6",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "तीन सौ मरद",
+      "rationale": "पद में चाटै वाला लोग के गिनती देल गेलन — तीन सौ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "कथा-शुरुआत के जोड़-किरिया; अनुवाद में 'आउ भेलन' रहलइ।"
+    }
+  ],
+  "translation": "आउ चाटै वाला लोग के गिनती — जे अपन हाथ से मुँह ले जाके चाटथिन — तीन सौ मरद भेलन; बाकि सब लोग घुटना पर झुक के पानी पीलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6337701ab14eab8413441eb524757598cec4fd6a2d4f4c1dde3e8dd8f0c370e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/7\/5-8.1791994167214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेलन"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "המלקקים",
+      "gloss": "चाटै वाला लोग"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "अपन हाथ से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले जाके"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "अपन मुँह"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "बाकि सब"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "बचल"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "झुकलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ברכיהם",
+      "gloss": "अपन घुटना"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "पिये बर"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:09:27.215384749Z",
+  "model": "glm-5.3"
+}

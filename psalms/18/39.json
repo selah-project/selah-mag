@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मחץ",
+      "rationale": "'कुचलब' — मूल चित्र चीर के दुइ टुकड़ा करब, 'घाव देब' (wounded) नञ।"
+    }
+  ],
+  "translation": "हम ओकनी के कुचल देब, आउ ऊ उठे बर सकत नञ; ऊ हमर गोड़ के नीचे गिरत।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3592fb4a228b3904063d69dd3b8e8d0d462e7e6a2ba99387922a948eb95a95bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/18\/37-40.1792004609750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "ओकनी के कुचल देब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "सकत"
+    },
+    {
+      "surface": "קום",
+      "gloss": "उठे बर"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "गिरत"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "हमर गोड़ के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:29.751528262Z",
+  "model": "glm-5.3"
+}

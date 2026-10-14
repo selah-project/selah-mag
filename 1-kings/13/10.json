@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हल",
+      "rationale": "Magahi past marker नञ वाक्य के काल बतावे बर जोड़ल गेलन।"
+    }
+  ],
+  "translation": "त ऊ दोसर रस्ता लेलन गेलन, आउ ओ रस्ते से नञ लौटलन जे रस्ते ले ऊ बेथ-एल (बेत-एल) के अइलक हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "38d5421fcb8046a6c84306eadc6c3688130497235b0557ec72485765958b1f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/13\/9-12.1791997204272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता ले"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "लौटलन"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ते से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलक"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:00:04.273547393Z",
+  "model": "glm-5.3"
+}

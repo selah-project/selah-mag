@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमनी के",
+      "rationale": "हिब्रू में करम नञ हइ; संगति के छोड़ल गेल हइ, ओही संकेत बर जोड़ल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गुस्सा",
+      "rationale": "אף असल में नाक\/थन हकइ; गुस्सा ओकरा के फैलावल अरथ हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "एलोहीम के सीधे सवाल — परतिनिधि के बोली"
+    }
+  ],
+  "translation": "सिखौनी गीत, असाफ खातिर। काहे एलोहीम तोहनी ⟨हमनी के⟩ सदा बर छोड़ देलहुँ? काहे तोहर गुस्सा तोहर चरावा के भेड़ सब में धुआँ बनत हे?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "064e49d03dbdcc4cffb63d4566098b25fe5a5867a68e7e0fa3d7ad05241f9919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/74\/1-4.1792005474937.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "सिखौनी गीत"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "असाफ खातिर"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "छोड़ देलहुँ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "धुआँ बनत हे"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "तोहर गुस्सा"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "भेड़ सब में"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "तोहर चरावा के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:54.937832741Z",
+  "model": "glm-5.3"
+}

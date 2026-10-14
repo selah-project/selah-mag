@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברכב אדם",
+      "rationale": "'रथ-आदमी के संग' — जेपीएस 'आदमी के टुकड़ी' कहऽ हइ; सीधा अरथ 'आदमी के रथ'।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ערה מגן",
+      "rationale": "'ढाल खोललक' — युद्ध के तैयारी के इब्रानी मुहावरा, जस के तस रखल गेलइ।"
+    }
+  ],
+  "translation": "आउ एलाम रथ-आदमी आउ सवारनी के संग तीर-तरकस उठौलक, आउ किर ढाल खोललक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/22\/5-8.1791998955523.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "आउ एलाम"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उठौलक"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "तीर-तरकस"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "रथ में"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "सवारनी"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "आउ किर"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "खोललक"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ढाल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:29:15.523725840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יום או יומים",
+      "rationale": "'एक दिन चाहे दू दिन' — जे मरद के धन हकइ (काहे कि ऊ ओकर चानी हकइ) बनाम 'दू दिन ले ठाढ़ रहऽ हइ' (तुरते नञ — जानबूझ के नञ) के फेराव।"
+    },
+    {
+      "kind": "you",
+      "subject": "case law",
+      "rationale": "व्यवस्था के नियम के रूप में नियायक के सोझे सीधा बिधान।"
+    }
+  ],
+  "translation": "बाकि अगर ऊ एक दिन चाहे दू दिन ठाढ़ रहऽ हइ, त दण्ड नञ देल जातइ, काहे कि ऊ ओकर चानी हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "efafd5c305e539ec4c85953c0f4109b9b2a07437a48b6016c86eebb7348c3067",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/21\/21-24.1791988669852.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "יום",
+      "gloss": "एक दिन"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "दू दिन"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ठाढ़ रहऽ हइ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "दण्ड देल जातइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "ओकर चानी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:37:49.852992687Z",
+  "model": "glm-5.3"
+}

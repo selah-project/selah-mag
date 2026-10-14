@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 18:45",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד כה ועד כה",
+      "rationale": "'एहना तक आउ एहना तक' — कुछ अनुवाद 'थोड़ देर तक' बोलऽ हथिन, ऊ अनुमान हकइ; इब्रानी दुनू बेर 'एहना' कहऽ हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "התקדרו",
+      "rationale": "मूल 'कारा-अँगारा भऽ गेलन' (राख जइसन कारा); शोक के अरथ भी हकइ, इहाँ अकास के कारापन हकइ।"
+    }
+  ],
+  "translation": "आउ एहना तक आउ एहना तक भऽ हलइ, आउ अकास कारा भऽ गेलन — घना बादर आउ रूआख — आउ बड़ बरखा भऽ हलइ; आउ अहाब सवारी कइलन आउ यिज्रेल तक गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7d8d05286b598b2c2bd4263309cc5a556c20946576d60b7a284db65fc9346a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/18\/45-46.1791997466262.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भऽ हलइ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "एहना तक"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ एहना तक"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "והשמים",
+      "gloss": "आउ अकास"
+    },
+    {
+      "surface": "התקדרו",
+      "gloss": "कारा भऽ गेलन"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "घना बादर"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आउ रूआख"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भऽ हलइ"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "बरखा"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "आउ सवारी कइलन"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "आउ गेलन"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "यिज्रेल तक"
+    }
+  ],
+  "timestamp": "2026-10-14T17:04:26.262655152Z",
+  "model": "glm-5.3"
+}

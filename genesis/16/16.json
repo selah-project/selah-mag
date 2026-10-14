@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן שמנים שנה",
+      "rationale": "इब्रानी के गणित-रूप 'अस्सी बरिस के बेटा' शब्द-शब्द रखल गेलइ ('बेटा अस्सी बरिस के'), बयास के हिसाब।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "अस्सी-छह बरिस",
+      "rationale": "अबराम के बयास गिनल गेलइ — वंसावली के हिसाब।"
+    }
+  ],
+  "translation": "आउ अबराम बेटा अस्सी बरिस आउ छह बरिस के हलन, जब हागर अबराम बर ⟨את⟩ यिस्माएल के जनलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5269a0ad2441ac4d32d9e6c91b754361a547f1504ddfe81ed4e405b14717fcf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/16\/13-16.1791986677368.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "आउ अबराम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "अस्सी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आउ छह"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "जब जनलक"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "हागर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्माएल के"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "यिस्माएल"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "अबराम बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:04:37.369335739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨अहन⟩",
+      "rationale": "Hebrew verbless clause requires a verb in Magahi"
+    }
+  ],
+  "translation": "यहूदा के बेटा अर आउ ओनान; अर आउ ओनान कनान के धरती में मर गेलैन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "66a081b600beb200ecad4b8c0c34d8494d1e9059eff5bddb918cbafafd9334ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/26\/17-20.1791991478225.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "ער",
+      "gloss": "अर"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "आउ ओनान"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर गेलैन"
+    },
+    {
+      "surface": "ער",
+      "gloss": "अर"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "आउ ओनान"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:24:38.225984555Z",
+  "model": "glm-5.3"
+}

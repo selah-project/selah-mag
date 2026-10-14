@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 4:11",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "तरकी",
+      "rationale": "חכमה के अरथ बिधि-बेबस्था आउ सीप दूनो हकइ; मगही के एक्को सब्द पूरा भार नञ उठावऽ पावऽ हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "सिखलियै हिअइ",
+      "rationale": "הרתיך के कड़ा चित्र 'तीर धनुष पर राखना' हकइ — 'दिसा देलियै हिअइ' दोसर पढ़ाई।"
+    },
+    {
+      "kind": "you",
+      "subject": "बेटा के",
+      "rationale": "पिता बेटा के सीधे कहऽ हइ — अगला पद के सम्बोधन के जारी।"
+    }
+  ],
+  "translation": "हम तोहा तरकी के रस्ता में सिखलियै हिअइ; हम तोहा सीध-ईमानदारी के गली सभ में तुरावलियै हिअइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bf1f4411e8cd614e5055254aeda9d2ef59346b1e27d6800bc2ca24128b2ab2a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/4\/9-12.1792006450333.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता में"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "तरकी"
+    },
+    {
+      "surface": "הרתיך",
+      "gloss": "सिखलियै हिअइ"
+    },
+    {
+      "surface": "הדרכתיך",
+      "gloss": "तुरावलियै हिअइ"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "गली सभ में"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीध-ईमानदारी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:34:10.334617504Z",
+  "model": "glm-5.3"
+}

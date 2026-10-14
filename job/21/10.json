@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עבר",
+      "rationale": "KJV 'gendereth' (सेक-काम करऽ हइ) बनाम YLT 'eaten corn' — मूल עבर 'चढ़ना\/पार होना'; मगही में साफ चित्र 'चढ़ऽ हइ' रखल गेलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "बछवा",
+      "rationale": "दोसर किरिया के पूरक रूप में बछवा के बोधक — मगही किरिया के चाही"
+    }
+  ],
+  "translation": "ओकर बैल चढ़ऽ हइ आउ घिन नञ करऽ हइ; ओकर गाय बछवा जनमऽ हइ आउ ⟨बछवा⟩ गिरावे नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2d78f45b90f8a900dc00f04eeb041cc02a703d3c2fabe3296e0c813e979dcf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/21\/9-12.1792007477222.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "ओकर बैल"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "चढ़ऽ हइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "घिन करऽ हइ"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "बछवा जनमऽ हइ"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "ओकर गाय"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "बछवा गिरावऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:51:17.222953084Z",
+  "model": "glm-5.3"
+}

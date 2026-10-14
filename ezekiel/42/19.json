@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "पच्छिम दिसा",
+      "rationale": "चार-दिसा नाप के तीसर हिस्सा"
+    },
+    {
+      "kind": "substitution",
+      "subject": "समुंदर के रूआख",
+      "rationale": "हिब्रू 'समुंदर के रूआख' पच्छिम दिसा के नाम हकइ; दोनो अरथ रखल गेलइ"
+    }
+  ],
+  "translation": "पच्छिम के रूआख के दने घूरलन, नापलन — पाँच सौ केन, नापै के केन से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fa69aa4cfc290ef219dcc6bb46fdca672ab4013daa867e8ec3afe885d5fdd510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/42\/17-20.1792002894534.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "घूरलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "הים",
+      "gloss": "पच्छिम (समुंदर के)"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "नापलन"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "केन"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "केन से"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "नापै के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:34:54.535237104Z",
+  "model": "glm-5.3"
+}

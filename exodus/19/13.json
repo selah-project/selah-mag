@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 19:13",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סקול יסקל \/ ירה יירה",
+      "rationale": "Hebrew infinitive-absolute doubling, 'stoning he-shall-be-stoned', emphasis lost in Magahi"
+    },
+    {
+      "kind": "crux",
+      "subject": "היבל",
+      "rationale": "yovel here is the ram's-horn blast, not the Jubilee year; rendered 'योबेल सिंग'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "तीन दिन",
+      "rationale": "counted days framing the theophany"
+    }
+  ],
+  "translation": "कोनो हाथ ओकरा नञ छुअऽ — काहे कि ओहकर पत्थल से मारल जातइ, या बाण से उड़ावल जातइ; चाहे पसु होवे, चाहे आदमी, ओहकर जीवित नञ रहतइ; जब तक योबेल सिंग के बोली लम्बा खिंचतइ, तब ले ओकनी पहाड़ पर चढ़तइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f44a019e4fb83735145b00c9c7f001bc980c12004bfd3329979dfc71dfd20e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/19\/13-16.1791988529842.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "छुअऽ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "पत्थल से मारल"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "मारल जातइ"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "बाण से उड़ावल"
+    },
+    {
+      "surface": "יירה",
+      "gloss": "उड़ावल जातइ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "पसु"
+    },
+    {
+      "surface": "אם",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "जीवित रहतइ"
+    },
+    {
+      "surface": "במשך",
+      "gloss": "जब तक खिंचतइ"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "योबेल सिंग"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ओकनी"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "चढ़तइ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ पर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:35:29.842944913Z",
+  "model": "glm-5.3"
+}

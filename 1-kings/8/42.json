@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל הבית הזה",
+      "rationale": "‘के ओत’ — ‘केरा दने’ के अरथ; ‘ए घर के ओत’"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וזרעך",
+      "rationale": "जेरोआ — बाँह (फैलल बाँह), जस के तस रखल गेल"
+    }
+  ],
+  "translation": "काहे कि ओकरा सुनाही ⟨את⟩ तोहरा नाम ⟨ה⟩ बड़का, आउ ⟨את⟩ तोहरा हाथ ⟨ה⟩ बलवान, आउ तोहरा बाँह ⟨ה⟩ फैलल; आउ ऊ अइला आउ ए घर के ओत बिनती करतइ —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ab4b6a7cdf6d99444742646c80488fa8f5c51650af67be0d7781aeea194e6b57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/8\/41-44.1791997113118.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "सुनही"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहरा नाम"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहरा नाम"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "बड़का"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "तोहरा हाथ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तोहरा हाथ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "आउ तोहरा बाँह"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "फैलल"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "आउ अइला"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "आउ बिनती करतइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओत"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    }
+  ],
+  "timestamp": "2026-10-14T16:58:33.119314288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טוב \/ ומטיב",
+      "rationale": "एके जड़ के दो रूप — भला हथिन \/ भला करऽ हथिन — मगही में संग रखल"
+    },
+    {
+      "kind": "invitation",
+      "subject": "हमरा सिखा",
+      "rationale": "सिखावे के बिनती — पढ़निहार के आकार"
+    }
+  ],
+  "translation": "तूँ भला हथिन आउ भला करऽ हथिन; हमरा तोहर बिधान सब सिखा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "295c5fedf81a2f6ab28bc09a73b62f9eaa5dd778958f4d309f4eeb595176a8f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/65-68.1792006096322.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "आउ भला करऽ हथिन"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "हमरा सिखा"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "तोहर बिधान सब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:16.322940852Z",
+  "model": "glm-5.3"
+}

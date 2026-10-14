@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "החרים \/ חרב",
+      "rationale": "חרם (बिना-छोड़ नष्ट) आउ חरב (तलवार) के जड़-मेल; मगही में ई ध्वनि-खेल बूढ़ गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "खत्म कए देलक",
+      "rationale": "החרים के धार्मिक अरथ 'बिना में समर्पित क के नष्ट करना'; सादा 'खत्म' से ओकर बोझ घटऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकरा",
+      "rationale": "करता के स्पस्टता बर सर्बनाम जोड़ल गेल — पाछे के पद से शाऊल"
+    }
+  ],
+  "translation": "आउ ओकरा अगग अमालेक के राजा के ⟨את⟩ जिअते पकड़लक, आउ ⟨את⟩ पूरा परजा के तलवार के मुँह से खत्म कए देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/15\/5-8.1791995259158.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "आउ पकड़लक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अगग"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "अगग"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "अमालेक"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिअते"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा परजा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजा"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "खत्म कए देलक"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "के मुँह से"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    }
+  ],
+  "timestamp": "2026-10-14T16:27:39.159642208Z",
+  "model": "glm-5.3"
+}

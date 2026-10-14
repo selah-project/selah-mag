@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 9:19",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יועידני",
+      "rationale": "याअद — 'कोनो हमरा बोलाबइ' बनाम 'कोनो हमरा बर समय ठहरातइ' (KJV\/JPS); दुनो पाठ मंजूर हइ"
+    }
+  ],
+  "translation": "अगर बल के बात होवे, देखऽ, ऊ बलवान हथिन; आउ अगर नियाव के बात होवे, कोनो हमरा बोलाबइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "07b33aa8a154ded95739151868aa7cc156a380364261a8efa00d1e783b2a5cf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/9\/17-20.1792007257468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "לכח",
+      "gloss": "बल के बर"
+    },
+    {
+      "surface": "אמיץ",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आउ अगर"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "नियाव के बर"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "יועידני",
+      "gloss": "हमरा बोलाबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:37.469391987Z",
+  "model": "glm-5.3"
+}

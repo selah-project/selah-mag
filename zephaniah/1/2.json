@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אסף אסף",
+      "rationale": "क्रिया के दोहराव — पूरा नास के जोर देवे बर; दोहराव रूप में परत देल गेल"
+    }
+  ],
+  "translation": "हम हटाइ-हटाइ देबिये सब कुछ धरती के मुँह के ऊपर से — यहवे के बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4021e183a6dc0a69f24944a07976629ba197901745dce7f6e923394dc1b655cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zephaniah\/1\/1-4.1792004073240.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "हटाइ-हटाइ देबिये"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "हटाइ-हटाइ देबिये"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब कुछ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "के ऊपर से"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:54:33.241354559Z",
+  "model": "glm-5.3"
+}

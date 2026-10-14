@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बदला",
+      "rationale": "गमुल नञ-सकारात्मक अरथ में प्रतिफल हकइ — इहाँ सजा के बदला देना।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "यहवे के सम्बोधन — निवेदन रूप में।"
+    }
+  ],
+  "translation": "तूँ ओकनी के बदला देबह, हे यहवे, ओकनी के हाथ के काम के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "df6ccbbaf5df2fe497ff6011edaa8819e8bcad35a6a879137c3f6b39a142de40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/3\/61-64.1792008200046.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "तूँ बदला देबह"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "काम के मोताबिक"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ओकनी के हाथ के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:03:20.047500312Z",
+  "model": "glm-5.3"
+}

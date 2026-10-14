@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 28:26",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जब",
+      "rationale": "Hebrew infinitive construct with suffix (בהקריבכם) unpacked as temporal clause marker"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "cultic instruction addressed to the community with second-person plural verbs"
+    }
+  ],
+  "translation": "आउ पहिला फल के दिन ⟨में⟩, जब तोहनी यहवे बर नया मिन्हा चढ़ाब — तोहनी के हफ्था ⟨में⟩ — तोहनी बर पवित्तर सभा होतइ; सब सेवा-काम के काम नञ करब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "05e3fc3618fa73656ad0209c5ad1ff38b3c9e8bdbd2d26d50f0e5a89bb8e681e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/28\/25-28.1791991567624.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "आउ दिन ⟨में⟩"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "पहिला फल"
+    },
+    {
+      "surface": "בהקריבכם",
+      "gloss": "जब तोहनी चढ़ाब"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मिन्हा"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "नया"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "בשבעתיכם",
+      "gloss": "तोहनी के हफ्था ⟨में⟩"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्तर"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काम-काज"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवा-काम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करब"
+    }
+  ],
+  "timestamp": "2026-10-14T15:26:07.625395049Z",
+  "model": "glm-5.3"
+}

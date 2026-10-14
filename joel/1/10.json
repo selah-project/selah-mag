@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדד שדה",
+      "rationale": "शद्द-शदे के ध्वनि-मेल (उजाड़ल \/ खेत) इब्रानी के बनावट हकइ, मगही में खतम हो जाऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הוביש",
+      "rationale": "याबेश के जड़ 'लजाइल' आउ 'सूखल' दुनो अरथ रखऽ हइ; इहाँ सूखल लेल गेलइ"
+    }
+  ],
+  "translation": "लूटल गेलइ खेत, सोग करऽ हइ धरती, काहे कि लूटल गेलइ दाना, सूखल गेलइ नया अंगूरी मद, मुरझाइ गेलइ तेल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d6805fefa645284de3b62507b0dfdff2192c84a50a2be0a3dbb687edf093f52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joel\/1\/9-12.1792003422291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "लूटल गेलइ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "सोग करऽ हइ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "लूटल गेलइ"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "दाना"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "सूखल गेलइ"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "नया अंगूरी मद"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "मुरझाइ गेलइ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "तेल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:43:42.292077069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "नञ खोजे",
+      "rationale": "ידרשהו: 'खोजे\/पूछे' बनाम 'ध्यान दे' — अनुवादक मतभेद"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נהרה",
+      "rationale": "tanakh में ई रूप खाली इहे आवऽ हइ"
+    }
+  ],
+  "translation": "ओ दिन अन्हार होवे; एलोअह ओकरा ऊपर से नञ खोजे, आउ ओकरा पर इँजोर नञ चमके।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "49b0db4e71e4397a1ad67c7edba9773d430144d901673ae76c48146c8c508694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/3\/1-4.1792007120398.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ओ दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहे"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "होवे"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्हार"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "खोजे"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ऊपर से"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "चमके"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "इँजोर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:45:20.399504505Z",
+  "model": "glm-5.3"
+}

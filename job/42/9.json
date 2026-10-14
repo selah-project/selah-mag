@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 42:9",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "मुँह उठलन",
+      "rationale": "נשא את פני — 'तराजू में मुँह उठाना' — कबूल करने\/पक्ष लेने के इब्रानी मुहावरा हकइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "हतेमानी",
+      "rationale": "हिब्रू संबंध-सूचक विशेषण जोड़े (ה) के जगह मगही नाम के आगे ठाढ़ रहऽ हइ।"
+    }
+  ],
+  "translation": "आउ अइलिफज हतेमानी, बिलदद हशुही आउ त्सोफर हनामाथी गेलन, आउ ओकनी ओइसने कइलन जइसने यहवे ओकनी से कहलन हल; आउ यहवे ⟨את⟩ इय्योब के मुँह उठलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a960b02eaf6dc25d26ec0a01424a845c6203eeb4c868bb9eeb53f1e88252881e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/42\/9-12.1792008007065.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "अइलिफज"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "हतेमानी"
+    },
+    {
+      "surface": "ובלדד",
+      "gloss": "आउ बिलदद"
+    },
+    {
+      "surface": "השוחי",
+      "gloss": "हशुही"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "त्सोफर"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "हनामाथी"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "आउ कइलन"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन हल"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "आउ उठलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इय्योब के मुँह"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "इय्योब"
+    }
+  ],
+  "timestamp": "2026-10-14T20:00:07.066198869Z",
+  "model": "glm-5.3"
+}

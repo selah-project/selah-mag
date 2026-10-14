@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 5:1",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מנחה",
+      "rationale": "मिन्हा — इहाँ अरथ हकइ अधीनस्थ राजा के भेंट-कर, बलि के मिन्हा नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "हिराम के पद",
+      "rationale": "अंग्रेजी परम्परा (KJV\/ASV) एही पद में हिराम के बात रखऽ हइ; मूलपाठ (JPS गिनती) एकरा पहिले शलोमो के राज के बर्णन करऽ हइ"
+    }
+  ],
+  "translation": "आउ शलोमो सब राज्य में राज करऽ हलन — नदी से पलिश्ती के धरती ले आउ मिस्रयिम के सीमा ले; ऊ सब मिन्हा चढ़ावऽ हलन आउ शलोमो ⟨את⟩ के सेवा करऽ हलन ओकर जियते भर के सब दिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "53a5300943b37a034dac9ae92d281bfc4ab2f8fb0dd50e11fd3579b949c184b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/5\/1-4.1791996937416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "आउ शलोमो"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हलन"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "राज करऽ हलन"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "राज्य में"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ ले"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "चढ़ावऽ हलन"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मिन्हा"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "आउ सेवा करऽ हलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शलोमो"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ओकर जियते भर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:55:37.417657990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למס",
+      "rationale": "forced-labor tribute rendered बेगार; 'tribute' narrows the word to tax, missing the labor."
+    },
+    {
+      "kind": "alternative",
+      "subject": "עבד",
+      "rationale": "'became a servant to forced labor' — some read tribe imposed on it, Issachar itself bowing willingly kept here."
+    }
+  ],
+  "translation": "आउ ओकरा आराम देखलक कि अच्छा हकइ, आउ ⟨את⟩ धरती कि सुखालू हकइ; आउ ओकर खाँटा झुकाके बोझ उठावे लगलक, आउ ओकरा बेगार में सेवा करऽ वाला बनलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a765db9d8f7e6499de592b4b7d254fb16c3bf7299eb54e08f70cfc5ffd9c672e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/49\/13-16.1791987938677.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "आउ ओकरा देखलक"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "आराम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा हकइ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "सुखालू हकइ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "आउ ओकर खाँटा झुकाके"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ओकर खाँटा"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "बोझ उठावे बर"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ बनलक"
+    },
+    {
+      "surface": "למס",
+      "gloss": "बेगार में"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "सेवा करऽ वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T14:25:38.677889978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "सो गेलन",
+      "rationale": "‘अपना पुरखा सब के संग सो गेलन’ — मरे के सुभाविक इब्रानी मुहावरा।"
+    }
+  ],
+  "translation": "आउ अजर्याह अपना पुरखा सब के संग सो गेलन, आउ ओकरा दाविद के नगर में पुरखा सब के संग गाड़लन; आउ ओकर बेटा योताम ओकर जगह राज करलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "79464d4275c0271fa2d0a27c6df2bd131af8ee4b08843c1b0031cd10f7910f91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/15\/5-8.1791998072486.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "सो गेलन"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "अजर्याह"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "पुरखा सब के"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "गाड़लन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "पुरखा सब के"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राज करलक"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "योताम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    }
+  ],
+  "timestamp": "2026-10-14T17:14:32.486938781Z",
+  "model": "glm-5.3"
+}

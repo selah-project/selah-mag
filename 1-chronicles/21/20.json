@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "छिपए वाला कौन",
+      "rationale": "עמו מתחבאים — चारो बेटा छिपलन (बड़का अनुवाद), या बेटा संग मिलके अरनानो छिपलन; इब्रानी अस्पष्ट हकइ।"
+    }
+  ],
+  "translation": "आउ अरनान मुड़लन आउ दूत के देखलन ⟨את⟩, आउ ओकर चारो बेटा ओकर संग छिपल रहलन; आउ अरनान गहूम दसऽ हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1ed6be97b6feb03419ee1b558bd6c655f970a2b04ff143703b5b07b07114f785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/21\/17-20.1792010342175.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आउ मुड़लन"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "अरनान"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "आउ देखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दूत के"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "आउ चारो"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संग"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "छिपल रहलन"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "आउ अरनान"
+    },
+    {
+      "surface": "דש",
+      "gloss": "दसऽ हलन"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "गहूम"
+    }
+  ],
+  "timestamp": "2026-10-14T20:39:02.176881005Z",
+  "model": "glm-5.3"
+}

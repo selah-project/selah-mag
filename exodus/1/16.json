@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האबנים",
+      "rationale": "द्विबचन 'दु पत्थल' — जनम-बिछौना या दाइ के टेसी; 'दु पत्थल' के आकार रखल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to the midwives",
+      "rationale": "फिरौन शिफरा आउ पुआ के सीधे आदेश देतइ — ई पूरा पद संबोधन हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मार देबऽ",
+      "rationale": "והמתן 'मरवाबऽ' — क्रिया के बनावट बहुवचन स्त्री आदेश हकइ; 'मार देबऽ' ओही आदेश के मगही रूप।"
+    }
+  ],
+  "translation": "आउ कहलन — जब तोहनी इबरी जनाना सब के ⟨את⟩ बच्चा पैदा कराबऽ हऽ आउ दु पत्थल पर देखऽ हऽ, त जे बेटा होवे त ओकरा मार देबऽ; आउ जे बेटी होवे, त ऊ जिअतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f66a567ff6388e83344d6aeb1358bfbfbcfced368466e79b0389c166c671e744",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/1\/13-16.1791988022139.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "बच्चा पैदा कराबऽ हऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इबरी जनाना सब"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "इबरी जनाना सब के"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "देखऽ हऽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "दु पत्थल"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जे… त"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "होवे"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "मार देबऽ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (बेटा)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आउ जे… त"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "היא",
+      "gloss": "होवे"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "जिअतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:27:02.140197483Z",
+  "model": "glm-5.3"
+}

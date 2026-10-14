@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "इब्रानी के अनुवाद में असम्बद्ध पड़ाव जोड़ल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "महर खोरेब",
+      "rationale": "'होरेब पहाड़ पर' (केजेबी) बनाम 'होरेब पहाड़ से आगे' (असब\/जेपीएस); मगही में से धारण रखल गेल"
+    }
+  ],
+  "translation": "आउ यिस्राएल के बेटा सब ⟨अपन⟩ ⟨את⟩ सजावट होरेब पहाड़ ⟨से⟩ उतार लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e1b90049634f0563225c62d052400a0fc37405e30eee1515f4b50e70d698d1e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/33\/5-8.1791989155651.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "उतार लेलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सजावट"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "सजावट"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "होरेब"
+    }
+  ],
+  "timestamp": "2026-10-14T14:45:55.651874858Z",
+  "model": "glm-5.3"
+}

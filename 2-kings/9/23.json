@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 9:23",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "अपन हाथ घुमएलक",
+      "rationale": "יהפך ידיו — हाथ पलटना, भागे के इसारा; बहुत अनुवादक 'मुड़लक' कहऽ हथिन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "मרמה अחזיה",
+      "rationale": "किछु पढ़निहार 'धोखा!' चित्कार मानऽ हथिन, किछु 'धोखा हकइ, अहज्याहू!' — संबोधन वाक्य।"
+    }
+  ],
+  "translation": "आउ यहोराम अपन हाथ घुमएलक आउ भागलक, आउ अहज्याहू कहलन — धोखा, अहज्याहू!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6e08c13c6eea06220d2fe36fab3f459c0df57f34336b0060fa3f07b1fd67b1ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/9\/21-24.1791997894594.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "घुमएलक"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "यहोराम"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "अपन हाथ"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "भागलक"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "अहज्याहू"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "धोखा"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "अहज्याहू"
+    }
+  ],
+  "timestamp": "2026-10-14T17:11:34.595245379Z",
+  "model": "glm-5.3"
+}

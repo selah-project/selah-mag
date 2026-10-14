@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमेसा",
+      "rationale": "हिब्रू ⟨हमेसा⟩ जसन समय-बोध नञ देतइ; इब्रानी खाली לא ङिक्कह (नञ यन्क्कह) कहऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बनइये",
+      "rationale": "עֹשֵׂהוּ 'ओकर बनइया' — 'मेकर' के जगह मगही के साफ रूप"
+    },
+    {
+      "kind": "crux",
+      "subject": "עֹשֵׂהוּ",
+      "rationale": "'ओकर बनइया' बनाम 'जे ओकरा गरीब बनअले' — किछु अनुवादक गरीब के हालत बुरा कहऽ हइ"
+    }
+  ],
+  "translation": "जे गरीब के ताना मारऽ हइ, ओ ओकर बनइये के बुरा कहऽ हइ; जे दुख-दुर्गति पर खुस होवऽ हइ, ऊ ⟨हमेसा⟩ बिन-सजा नञ रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7a87d983accc2290c15828830f664af899b684e8e6921402010114f4e44a659f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/17\/5-8.1792006764185.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "ताना मारऽ हइ"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "गरीब के"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "बुरा कहऽ हइ"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ओकर बनइये के"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "खुस होवऽ हइ"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "दुख-दुर्गति पर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "बिन-सजा रहतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:24.186152489Z",
+  "model": "glm-5.3"
+}

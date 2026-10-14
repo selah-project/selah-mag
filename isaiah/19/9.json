@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שריקות",
+      "rationale": "hapax; काँघल\/कताई-कइल सन बनाम 'जाल' (KJV) बनाम 'कपास' (JPS) — 'जाल' बिलकुल दूसर अरथ हकइ"
+    }
+  ],
+  "translation": "आउ सन — काँघल सन — के काम करए वाला लोग लजातइ, आउ सफेद कपड़ा बुनए वाला लोग भी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "47530c4199bac5d775d2edccd5e9f5423491bf0c0560d1f4ff40a38fb5399c91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/19\/9-12.1791998884508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "आउ लजातइ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "काम करए वाला लोग"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "सन"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "काँघल सन"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "आउ बुनए वाला लोग"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "सफेद कपड़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:04.508915274Z",
+  "model": "glm-5.3"
+}

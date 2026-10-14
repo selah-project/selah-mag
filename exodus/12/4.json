@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 12:4",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "परान सब के गिनती",
+      "rationale": "भेड़ के हिसाब परान आउ खाने के गिनती से लागू होवऽ हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש एक साँस लेवै वाला जीव हकइ; मगही 'परान' ओकर नजदीक गवाही हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "תכסו",
+      "rationale": "क्रिया 'गिनब\/हिसाब करब' के अरथ में हकइ; कुछ अनुवाद 'बाँटब' कहऽ हइ"
+    }
+  ],
+  "translation": "आउ जँ घर एक भेड़ खाबे बर घट होवे, त ऊ आउ ओकर नजदीक के पड़ोसी — जे ओकर घर के सबसे नजदीक होवे — परान सब के गिनती के मोताबिक लेतन; हर मनुस अपन खाने के हिसाब से भेड़ बर गिनऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6a2fca18ed82383ceda26d660db1376d8335a18cf5835d5198440090dbd41aba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/12\/1-4.1791988356650.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जँ"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "घट होवे"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "होबे में"
+    },
+    {
+      "surface": "משה",
+      "gloss": "भेड़ से"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "आउ लेतन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "आउ ओकर पड़ोसी"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "नजदीक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ओकर घर"
+    },
+    {
+      "surface": "במכסת",
+      "gloss": "गिनती में"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "परान सब के"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर मनुस"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "के मोताबिक"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ओकर खाना"
+    },
+    {
+      "surface": "תכסו",
+      "gloss": "तोहनी गिनब"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "השה",
+      "gloss": "भेड़ के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:32:36.651752344Z",
+  "model": "glm-5.3"
+}

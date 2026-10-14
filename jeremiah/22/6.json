@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 22:6",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हउ⟩",
+      "rationale": "इब्रानी में क्रिया-सूत्र नञ हइ; 'गिलाद तूँ हमर बर — लबानोन के मूड़ी' सीधा ठाढ़ हकइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "सौगंद के रूप: 'जँ नञ' = अवस्य एहने होतइ; ओकरा सामान्य संदेह के जँ नञ मानल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मूड़ी",
+      "rationale": "रאש हिन्दी रूप हकइ; मगही मूड़ी लेल गेल — सिर के टोपी, पहाड़ के चोटी।"
+    }
+  ],
+  "translation": "काहे कि एहने कहलन यहवे यहूदा के राजा के घर बारे में: गिलाद तूँ हमर बर ⟨हउ⟩, लबानोन के मूड़ी; जँ नञ, त हम तोहरा उजाड़ बनइबइ, नगर सब जे नञ बसल होतइं।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7659308ea3c4c45316df6ee9f47188b8e136340c2c1f6690740a94f93200b579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/22\/5-8.1792000620433.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "बारे में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर बर"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मूड़ी"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "लबानोन के"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אשיתך",
+      "gloss": "हम तोहरा बनइबइ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर सब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נושבה",
+      "gloss": "बसल होतइं"
+    }
+  ],
+  "timestamp": "2026-10-14T17:57:00.434279367Z",
+  "model": "glm-5.3"
+}

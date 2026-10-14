@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלוף",
+      "rationale": "'पिआरल होरा' (intimate friend) बनाम 'राजा' (KJV margin, geneva 'prince') — जड़ अरथ 'जान-पहचान वाला' हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨एक⟩",
+      "rationale": "मगही बाक्य-बनावट बर निर्देशक चाही; इब्रानी में खाली 'बात में' हइ।"
+    }
+  ],
+  "translation": "जे पाप ढाकऽ हइ, ऊ परेम के खोज करऽ हइ; बाकि जे ⟨एक⟩ बात दोहरावऽ हइ, ऊ पिआरल होरा के अलग कर देवऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c6437f1d196d69d887c17074e87f7ce4ed3d0a5be2abc0aff97d759064fd1898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/17\/9-12.1792006736610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "ढाकऽ हइ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "खोज करऽ हइ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "परेम"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "बाकि जे दोहरावऽ हइ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "अलग कर देवऽ हइ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "पिआरल होरा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:38:56.611310034Z",
+  "model": "glm-5.3"
+}

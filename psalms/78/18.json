@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש परान\/गला-साँस-इच्छा के जीव-बल हकइ; 'आत्मा' नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "अपन परान खातिर",
+      "rationale": "लנפש׮ के अरथ मतभेद: 'अपन इच्छा के मोताबिक' (KJV: for their lust) बनाम 'अपन परान बर'।"
+    }
+  ],
+  "translation": "आउ ओकनी हिरदय में एल के परखलन, अपन परान खातिर खावै के बिसय माँगत रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/17-20.1792005475892.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "परखलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "हिरदय में"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "माँगत रहलन"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खावै के बिसय"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "अपन परान खातिर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:55.893656858Z",
+  "model": "glm-5.3"
+}

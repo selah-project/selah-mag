@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נמלטה\/נמלטנו",
+      "rationale": "'बच निकसलइ \/ बच गेलियन' — एके क्रिया दू बेर, चिरईं आउ हमनी में तुलना के जोड़"
+    }
+  ],
+  "translation": "हमर परान चिरईं निय जाल-गाँसै वाला के फंदा से बच निकसलइ — फंदा टूटलइ आउ हमनी बच गेलियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/124\/5-8.1792006215076.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "चिरईं निय"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "बच निकसलइ"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "फंदा से"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "जाल-गाँसै वाला के"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "फंदा"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "टूटलइ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "आउ हमनी"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "बच गेलियन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:15.077707287Z",
+  "model": "glm-5.3"
+}

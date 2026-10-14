@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बंस-बिबरन के",
+      "rationale": "इब्रानी गढ़न (construct) में 'यित्सहाक' जुड़ल हकइ; मगही में 'के' जोड़ल गेलै।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אברהם ... אברהם",
+      "rationale": "नाम के दू बेर दोहराव — पिता-बेटा के कड़ी रेखांकित करैत इब्रानी के बनावट हकइ।"
+    }
+  ],
+  "translation": "आउ ई हऽ यित्सहाक (इसहाक) के बंस-बिबरन, अवराहाम (अब्राहम) के बेटा के; अवराहाम ⟨את⟩ यित्सहाक के जनम देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b11bb33cf3c53005633ef3e6175c3fa7f7a2e5fe123d46dc3d83d5fff88f775b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/25\/18-19.1792011547025.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आउ ई"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "बंस-बिबरन"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सहाक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम के"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यित्सहाक के"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सहाक"
+    }
+  ],
+  "timestamp": "2026-10-14T20:59:07.026284704Z",
+  "model": "glm-5.3"
+}

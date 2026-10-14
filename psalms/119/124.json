@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חסד",
+      "rationale": "हेसेद लिप्यन्तरित रहल; कोनो एक मगही सब्द (दया, परेम) कम पड़ऽ हइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "करऽ \/ सिखा",
+      "rationale": "दू आज्ञारूप क्रिया यहवे से प्रार्थना के रूप में बोलल गेल हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के नौकर",
+      "rationale": "सीधे यहवे से प्रार्थना, पहिले पद के पद 125 के बीच के जोड़।"
+    }
+  ],
+  "translation": "तोहर नौकर संग हेसेद के मोताबिक करऽ, आउ तोहर बिधान हमरा सिखा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/121-124.1792006150573.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "तोहर नौकर"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "हेसेद के मोताबिक"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "आउ तोहर बिधान"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "हमरा सिखा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:10.574393778Z",
+  "model": "glm-5.3"
+}

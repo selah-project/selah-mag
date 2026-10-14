@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רר",
+      "rationale": "एहे किरिया तनाख़ में केवल एही पद में मिलऽ हइ — लार बहावल जइसने"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זובו",
+      "rationale": "बहाव के जड़ एह पद में तीन बेर दोहरावल — ओकर बहाव, बहाव के संग, बहाव से"
+    }
+  ],
+  "translation": "आउ एहने ओकर अपवित्तरता होतइ ओकर बहाव में: ओकर मांस ⟨את⟩ ओकर बहाव के संग बहेला, या ओकर मांस ओकर बहाव से बन्न जातइ — ओकर अपवित्तरता तहइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f7d8388bac6284fb4da5c44f4b5e5a5d5c612bb1133e19fbf128272f46f0c857",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/15\/1-4.1791989947135.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "आउ एहने"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ओकर अपवित्तरता"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "ओकर बहाव में"
+    },
+    {
+      "surface": "רר",
+      "gloss": "बहेला"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ओकर मांस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बहाव"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "ओकर बहाव"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "बन्न जातइ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ओकर मांस"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "ओकर बहाव से"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ओकर अपवित्तरता"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "तहइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:59:07.136466557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תולעת שני",
+      "rationale": "शाब्दिक 'कीड़ा के लाल' — रंग ओही किरइया (scarlet worm) से निकलऽ हे; दू शब्द के एक ठोस रंग-नाम बनावल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "תכלת",
+      "rationale": "नील बनाम 'बैंगनी-नील' — शंख के किरइया से निकलल रंग के सही शब्द पर विवाद"
+    }
+  ],
+  "translation": "आउ नील, आउ जामुनी, आउ किरइया-लाल, आउ महीन सूत, आउ बकरी के रोँआ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "56e13a07e667b611c03bcbd8f747283177c78426151be497987b1d486d02bf7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/35\/5-8.1791989125165.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "आउ नील"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "आउ जामुनी"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "आउ किरइया"
+    },
+    {
+      "surface": "שני",
+      "gloss": "लाल"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आउ महीन सूत"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "आउ बकरी के रोँआ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:45:25.166159527Z",
+  "model": "glm-5.3"
+}

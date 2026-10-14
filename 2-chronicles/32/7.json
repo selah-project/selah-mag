@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 32:7",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רב",
+      "rationale": "'जादे' (गिनती में — हमनी संग जादे हथिन) बनाम 'बड़े' (ASV\/JPS: जे हमनी संग हथिन ऊ बड़ हथिन); मूल सब्द दूनो दने खुला हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहूदा के लोग",
+      "rationale": "हिज्किय्याह ओकरा लोग के सीधा सम्बोधन — दिलासा देवे वाला बक्त"
+    },
+    {
+      "kind": "invitation",
+      "subject": "मजबूत होवऽ",
+      "rationale": "आदेसात्मक क्रिया सब (חזקו, ואמצו, אל תיראו) पढ़निहार के खीँचऽ हइ"
+    }
+  ],
+  "translation": "मजबूत होवऽ आउ हिम्मत रखऽ; अस्सूर के राजा से आउ ओकरा संग के पूरा भीड़ से डरू मत, घबरावू मत, काहे कि जे ओकरा संग हथिन, ओकरा ले जादे हमनी संग हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6936f5ec2f9b59f661dbbf2d7b05dca48e4c3966418cd63025655dd2ab261b21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/32\/6-7.1792012253663.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "मजबूत होवऽ"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "आउ हिम्मत रखऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "डरू"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "घबरावू"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "से"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "ומלפני",
+      "gloss": "आउ से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "भीड़"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी संग"
+    },
+    {
+      "surface": "רב",
+      "gloss": "जादे"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "जे ओकरा संग हथिन, ओकरा ले"
+    }
+  ],
+  "timestamp": "2026-10-14T21:10:53.664286952Z",
+  "model": "glm-5.3"
+}

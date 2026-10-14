@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बेइमानी",
+      "rationale": "רשע के अरथ 'गलत काम\/अधरम' हकइ; 'बेइमानी के खजान' यानी गलत रस्ता के जोड़ल धन"
+    },
+    {
+      "kind": "crux",
+      "subject": "त्सेदेक",
+      "rationale": "कुछ अनुवाद 'धरम करै वाला मनुस' मानऽ हथिन (व्यक्ति), कुछ 'त्सेदेक' (गुण) — इब्रानी दुनो के बर खुला हइ"
+    }
+  ],
+  "translation": "बेइमानी के खजान कोनो काम नञ आवऽ हइ, बाकि त्सेदेक मौत से छुड़ावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6e3b4b10a59ea6a7ad6bc0a497da9583e82cd33a7bae639cfaf9633e41658884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/10\/1-4.1792006616170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "काम आवऽ हइ"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "खजान"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बेइमानी के"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "बाकि त्सेदेक"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "छुड़ावऽ हइ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "मौत से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:56.170819459Z",
+  "model": "glm-5.3"
+}

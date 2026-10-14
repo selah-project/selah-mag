@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 25:16",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "कथन-शब्द, 'कहऽ हइ' के रूपेँ देल गेलै; अंग्रेजी 'saying' अक्सर छोड़ल जाइत अछि"
+    }
+  ],
+  "translation": "आउ यहवे मोशे (मूसा) से बोललन, कहऽ हइ —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "eff4c36b1f6fc95200c4fea687a22808b955d7ab914eb351baa741cbc510f686",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/25\/13-16.1791991424882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आउ बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:23:44.883732854Z",
+  "model": "glm-5.3"
+}

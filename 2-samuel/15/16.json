@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "दस",
+      "rationale": "रखैल के गिनती — संख्या जस के तस पार"
+    },
+    {
+      "kind": "crux",
+      "subject": "פלגשים",
+      "rationale": "पिलेगेश = रखैल\/उपपत्नी; 'रखैल' लेल गेल — दोसर विकल्प 'स्त्री-संगिनी'"
+    }
+  ],
+  "translation": "आउ राजा बाहर गेलन, आउ ओकर पूरा घर ओकर गोड़ के पाछे; आउ राजा ⟨את⟩ दस जनाना रखैल घर के रखवारी बर छोड़ देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/15\/13-16.1791996252169.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "बाहर गेलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ पूरा"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ओकर घर"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ओकर गोड़ के पाछे"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "छोड़ देलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दस जनाना रखैल"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "रखैल"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "रखवारी बर"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:44:12.170982195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישאג…ישאג",
+      "rationale": "दहाड़ना के दोहराव — सेर के दहाड़ के गूँज — मगही में दोहराव रक्खल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "מים",
+      "rationale": "'समुंदर' के जगह परम्परा 'पछिम' पढ़ऽ हइ (kjl) — पाठ जस के तस समुंदर हकइ"
+    },
+    {
+      "kind": "mystery",
+      "subject": "सेर के दहाड़",
+      "rationale": "बिम्ब खोलल रहलइ — यहवे सेर जइसन दहाड़ऽ हइ आउ ओकर लोग वापस आवऽ हइ"
+    }
+  ],
+  "translation": "यहवे के पाछे ओ चलतइ; ऊ सेर जइसन दहाड़तइ — काहे कि ऊ दहाड़तइ, आउ समुंदर के ओर से बेटा सब काँपतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9bae756fadcab15ae3185187d41e0eb0d4afcde43d5a70e9bfe5eef4be34d884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/11\/9-11.1792003278668.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ओ चलतइ"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "सेर जइसन"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "दहाड़तइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "दहाड़तइ"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "आउ काँपतइ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "מים",
+      "gloss": "समुंदर से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:41:18.669108678Z",
+  "model": "glm-5.3"
+}

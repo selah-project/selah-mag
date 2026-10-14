@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 22:30",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גדר גדר",
+      "rationale": "एके जड़ के क्रिया-संज्ञा जोड़ — 'बाड़ी बनावे बाड़ी' — मगही में ढेर घटलइ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "मनुस",
+      "rationale": "איש एकवचन हकइ; मगही में 'कोनो एक अइसन मनुस' के बिस्तार लेल गेलइ।"
+    },
+    {
+      "kind": "mystery",
+      "subject": "खोज आउ नञ मिलल",
+      "rationale": "यहवे खोजऽ हइ आउ केकरो नञ मिलऽ हइ — बात खुल के कहल गेलइ हइ।"
+    }
+  ],
+  "translation": "आउ हम ओनी में से कोनो एक अइसन मनुस के खोजलिये जे बाड़ी बनावे आउ फाड़ में हमरा सामने ठाढ़ होवे, धरती के बर, जाहे से कि ओकरा बरबाद नञ करीं — बाकि हम केकरो के नञ पालिये, यहवे के बचन, अदोनाय यहवे के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a745521b10d02e13b6e53539280c786b31ac28f31c0491f002fed31f64aba619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/22\/29-31.1792002330232.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבקש",
+      "gloss": "खोजलिये"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ओनी में से"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "बाड़ी बनावे"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "बाड़ी"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ठाढ़ होवे"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "फाड़ में"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "बर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "जाहे से कि नञ"
+    },
+    {
+      "surface": "שחתה",
+      "gloss": "बरबाद करीं"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "पालिये"
+    }
+  ],
+  "timestamp": "2026-10-14T18:25:30.233606806Z",
+  "model": "glm-5.3"
+}

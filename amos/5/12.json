@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 5:12",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "कोस्ठक-रिसवत बनाम फिरौती — KJV 'bribe', YLT 'ransoms'; इहाँ इन्साफ बिगाड़े के संदर्भ में रिसवत लेल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הטו",
+      "rationale": "'टेढ़ा कइल' — नञ-मोड़ना: KJV जोड़े हइ 'from their right' (ओकरा अधिकार से), इब्रानी पाठ में ई जोड़ नञ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פשע",
+      "rationale": "बगावत — राष्ट्रीय \/ नैतिक बगावत के अरथ हकइ, खाली 'अपराध' नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल के लोग",
+      "rationale": "यहवे तोहनी के सीधे सम्बोधन करऽ हथिन — 'हम जानने हइ' ओकरे बचन हकइ।"
+    }
+  ],
+  "translation": "काहे कि हम जानने हइ — तोहर बगावत बेसी हथिन आउ तोहर पाप बलवान हथिन; तोहनी सच्चा के सतावऽ हथिन, रिसवत लेवऽ हथिन, आउ दुआरी पर गरीब के टेढ़ा करऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "58905a5f228c30733120acaa08762d14d0cb6526a0da3510ab0a44509ec27c93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/5\/12-12.1792011934565.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "हम जानने हइ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बेसी"
+    },
+    {
+      "surface": "פשעיכם",
+      "gloss": "तोहर बगावत"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "आउ बलवान"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "तोहर पाप"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "सतावऽ हथिन"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "सच्चा"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "लेवऽ हथिन"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "रिसवत"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "आउ गरीब"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "दुआरी पर"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "टेढ़ा करऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T21:05:34.565905726Z",
+  "model": "glm-5.3"
+}

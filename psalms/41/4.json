@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "हाफखता",
+      "rationale": "'पूरा बिछौना पलट देलहू' के दू अरथ हथिन — बिछौना पलटना (परेसानी) बनाम बिछौना ठीक करना (आराम); KJV 'make all his bed' दूसर लेवऽ हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दवाय",
+      "rationale": "דְוַय कम्जोरी\/बिमारी के चित्र हकइ; 'दुख के बिछिया' जइसन अनुवाद सब से बचल गेलइ।"
+    }
+  ],
+  "translation": "यहवे ओकरा बिमारी के बिछिया पर सहारा देतन; ओकर पूरा बिछौना तूँ ओकर बिमारी में पलट देलहू।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/41\/1-4.1792004986988.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "सहारा देतन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "बिछिया"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "बिमारी के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "बिछौना"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "पलट देलहू"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "ओकर बिमारी में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:46.990029286Z",
+  "model": "glm-5.3"
+}

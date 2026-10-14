@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 43:24",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קנית \/ קנה",
+      "rationale": "'you bought (קנית) no cane (קנה)' — verb and noun share a root, untranslatable echo kept side by side"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העבדתני \/ הוגעתני",
+      "rationale": "vv 23–24 mirror: what YHWH did NOT make you do with offerings, your sins DID — the same verbs reversed onto him"
+    }
+  ],
+  "translation": "चानी से मीठा गन्ना-बूटी तूँ हमरा नञ खरीदलऽ हें, आउ अपन जनावर-बलि के चिकनाई से तूँ हमरा नञ तृप्त कएलऽ हें। बस अपन पाप से तूँ हमरा नियोजित कएलऽ हें, अपन अधरम से तूँ हमरा थका देलऽ हें।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8fd549779e895247aa5f3d97d5bb2cc3abcc6be3e33ed596ee28c8bf300a9019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/43\/21-24.1791999447118.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "खरीदलऽ हें"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "चानी से"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "मीठा गन्ना-बूटी"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "आउ…चिकनाई से"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "अपन जनावर-बलि के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "הרויתני",
+      "gloss": "तृप्त कएलऽ हें"
+    },
+    {
+      "surface": "אך",
+      "gloss": "बस"
+    },
+    {
+      "surface": "העבדתני",
+      "gloss": "नियोजित कएलऽ हें"
+    },
+    {
+      "surface": "בחטאותיך",
+      "gloss": "अपन पाप से"
+    },
+    {
+      "surface": "הוגעתני",
+      "gloss": "थका देलऽ हें"
+    },
+    {
+      "surface": "בעונתיך",
+      "gloss": "अपन अधरम से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:37:27.119086099Z",
+  "model": "glm-5.3"
+}

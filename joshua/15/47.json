@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "joshua 15:47",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "नाला",
+      "rationale": "נחल बरसात के मौसम के धारा हकइ; 'नदी' नञ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया-संबंधक नञ — 'समुंदर सीमा हकइ' बर जोड़ल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "וגבול",
+      "rationale": "'समुंदर सीमा आउ सीमा' — दू बेर सीमा; पढ़निहार के बीच फरक — समुंद्र-तट के सारा सीमा या ओकर तट-रेखा"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सीमा-विवरण",
+      "rationale": "मिस्रयिम के नाला से बड़ समुंदर ले — इलाका के सीमा तय"
+    }
+  ],
+  "translation": "अशदोद, ओकर बेटी आउ ओकर गाँव; अज्जा (गाजा), ओकर बेटी आउ ओकर गाँव; मिस्रयिम (मिस्र) के नाला ले; आउ समुंदर ⟨हकइ⟩ सीमा आउ ओकर सीमा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "acec77f7dffe2a9044e5efd05d3cb441e4c035a9697ffedf8b6dcac0b92b7ead",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/15\/45-48.1791993616786.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשדוד",
+      "gloss": "अशदोद"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "ओकर बेटी"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "आउ ओकर गाँव"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "अज्जा"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "ओकर बेटी"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "आउ ओकर गाँव"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नाला"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "והים",
+      "gloss": "आउ समुंदर"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "आउ ओकर सीमा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:00:16.786809218Z",
+  "model": "glm-5.3"
+}

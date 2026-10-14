@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את כל המקומות",
+      "rationale": "दोसर अलेफ-ताव: 'ई सब जगह में' (काल के साथ) बनाम दूसर वस्तु-चिन्हा — दुनू आगमन में मतभेद; चिन्हा जस के तस रखल गेलन।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "मिदי שנה בשנה",
+      "rationale": "बरिस-बरिस के चक्कर — समय के नाप के संग शमूएल के नियाव-फेरा के बनावट।"
+    }
+  ],
+  "translation": "आउ ऊ बरिस-बरिस घूम के बेत-एल आउ गिलगल आउ मिस्पा जात रहलन, आउ ⟨את⟩ यिस्राएल के नियाव करत रहलन ⟨את⟩ ई सब जगह में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cc126d82ab0bdd07b982bdc9d029e63a177d4ac923e938d784b748baead6cb1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/7\/13-16.1791994940049.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "आउ जात रहलन"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "बरिस बितावत"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "आउ घूमत रहलन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "आउ गिलगल"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "आउ मिस्पा"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "आउ नियाव करत रहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई सब जगह"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T16:22:20.050913352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तूँ",
+      "rationale": "करता बतावे बर जोड़ल — किरिया देलहुँ से अनुमान"
+    },
+    {
+      "kind": "crux",
+      "subject": "נשיתי",
+      "rationale": "नाशा: 'बिसर गेलइ' बनाम 'भुला देलन' — कारक के किरिया के अरथ भी संभव"
+    }
+  ],
+  "translation": "तूँ ⟨את⟩ हमर परान के सांति से दूर धर देलहुँ; हम भलाई के बिसर गेलइ हीं।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5434ad4564492120d9dac1ac58a516bb98fcdbbfa5c631b72b52eda56d30439e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/3\/17-20.1792008196831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "दूर धर देलहुँ"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "सांति से"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान के"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "बिसर गेलइ हीं"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "भलाई"
+    }
+  ],
+  "timestamp": "2026-10-14T20:03:16.831782022Z",
+  "model": "glm-5.3"
+}

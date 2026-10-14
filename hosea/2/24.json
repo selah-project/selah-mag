@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יזרעאל",
+      "rationale": "नाम के अरथ 'एल बिया बोऽ हइ' — होसे 1 के बिया-बिम्ब के जवाब हकइ; मगही लिप्यन्तरन में ई अरथ नञ दिसऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ענה",
+      "rationale": "'जवाब देना' बनाम 'सुनना' — यहाँ अनाज-मद-तेल बोल-रूप में जवाब देथिन; दुनो पढ़ावा चलऽ हइ।"
+    }
+  ],
+  "translation": "आउ धरती ⟨את⟩ अनाज आउ ⟨את⟩ अंगूरी मद आउ ⟨את⟩ तेल के जवाब देतइ, आउ ऊ ⟨אत⟩ ⟨את⟩ यिज्रेएल के जवाब देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e6dda247f4e4243f67e74f08b8034626270373a4bfb3c17f5dbe9231283cd51f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/2\/21-24.1792003198446.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "आउ धरती"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "जवाब देतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अनाज"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "अनाज"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "अंगूरी मद"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "अंगूरी मद"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "तेल"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "והם",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "जवाब देतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिज्रेएल"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "यिज्रेएल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:39:58.448040367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "טוב",
+      "rationale": "'निठोर कुछो' — सादा रूप 'भलाइ नञ मिलल' भी चलतइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב \/ בעתה",
+      "rationale": "उम्मीद (भलाइ) आउ हकीकत (दहशत) के टकराव — तुकबंदी वाला विरोध, बोली के हिस्सा।"
+    }
+  ],
+  "translation": "सांति के बाट जोहली, बाकि निठोर कुछो नञ मिलल; भल करे के समय के बाट जोहली, आउ देखऽ — दहशत हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e19a54080b3db9253b4e2bfd8ff910e202404d625d7911012b33081568bad122",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/8\/13-16.1792000391748.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "बाट जोहली"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "सांति के"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "निठोर कुछो"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "समय के"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "भल करे के"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "दहशत हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:53:11.749104493Z",
+  "model": "glm-5.3"
+}

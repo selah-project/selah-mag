@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "हिन के छठवाँ हिस्सा",
+      "rationale": "पानी के नाप — तरल नाप के एकाइ हिन।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מעת עד עת",
+      "rationale": "'समय से समय ले' — नियत समय पर।"
+    }
+  ],
+  "translation": "आउ पानी नाप के मोताबिक पीबे — हिन के छठवाँ हिस्सा — समय से समय ले तूँ पीबे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "68bd07354b3da894aa07455ecb1e1e28f515dd6611bde1ce205b3aed1fa3a727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/4\/9-12.1792001738283.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "आउ पानी"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "नाप के मोताबिक"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "तूँ पीबे"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "छठवाँ हिस्सा"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "हिन के"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "समय से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "तूँ पीबे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:15:38.284746269Z",
+  "model": "glm-5.3"
+}

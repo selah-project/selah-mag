@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אכלה",
+      "rationale": "'खर्च करबइ'\/'समाप्त करबइ' — क्रिया खतम होवे के अरथ हकइ; 'तीर ओकनी पर पूरा चलबइ' बनाम 'तीर से ओकनी के खतम करबइ'।"
+    }
+  ],
+  "translation": "हम ओकनी पर बुराई ढेरबइ, हमर तीर ओकनी में खर्च करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7490b22d91fa664ebbca90591b618e34fd557e3d1f38235291872450da003c32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/32\/21-24.1791993012701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "ढेरबइ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ओकनी पर"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "हमर तीर"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "खर्च करबइ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकनी में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:50:12.701959123Z",
+  "model": "glm-5.3"
+}

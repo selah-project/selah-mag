@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 16:10",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מסת",
+      "rationale": "'मात्रा के मोताबिक' बनाम 'ढेर सार' — अनुवादक में मतभेद"
+    },
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "אלהיך के प्रत्यय 'अपन' अलग सब्द में देखावल गेलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "मात्रा के मोताबिक",
+      "rationale": "भेंट के माप — असीस के अनुपात में"
+    }
+  ],
+  "translation": "आउ तूँ यहवे अपन एलोहीम बर हफ्ता के परब बनबइऽ हे — अपन हाथ के स्वेच्छा भेंट के मात्रा के मोताबिक, जे तूँ देबइ, जइसन यहवे अपन एलोहीम तोहरा असीस देतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bb34b9172bdacd966f11e5e688dcc25d9234e57f14d6bf7b7b94714e77b58086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/16\/9-12.1791992381800.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "आउ तूँ बनबइऽ हे"
+    },
+    {
+      "surface": "חג",
+      "gloss": "परब"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "हफ्ता के"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "अपन एलोहीम"
+    },
+    {
+      "surface": "מסת",
+      "gloss": "मात्रा के मोताबिक"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "स्वेच्छा भेंट"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "अपन हाथ के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "तूँ देबइ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "तोहरा असीस देतन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "अपन एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T15:39:41.801811184Z",
+  "model": "glm-5.3"
+}

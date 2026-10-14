@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמר",
+      "rationale": "'बचन' (promise) बनाम 'बात\/कहल चीज' — कोनो ठीक एक अरथ नञ, इब्रानी में दुनो खुलल हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לנצח \/ לדר ודר",
+      "rationale": "दू सदा-बर बात के दोहराव — पूछे वाला के पीर के लय, मगही में सवाल-दोहराव से रखल"
+    }
+  ],
+  "translation": "की ओकर हेसेद सदा बर बुत गेलइ? की ओकर बचन पीढ़ी आउ पीढ़ी बर खतम हो गेलइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d4b3d2e99f2d2b57edd740449bc57f0279cafcba5428c4109c3e96397acfc9a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/77\/9-12.1792005425427.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "बुत गेलइ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "खतम हो गेलइ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "आउ पीढ़ी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:05.427964697Z",
+  "model": "glm-5.3"
+}

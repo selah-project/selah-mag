@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שירו\/זמרו",
+      "rationale": "दू गायन-क्रिया जड़ जोड़ी में — मगही में अलग-अलग गाना आउ बजाना रखल गेलइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שיחו",
+      "rationale": "'सोचऽ-बिचारऽ' (बीच में बात) नञ, काहे कि परम्परा एकरा 'बतावऽ' भी कहऽ हइ — सोच-बिचार वाला अरथ पहिला दने हकइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to Israel",
+      "rationale": "परजा के अगुआई वाला बहुवचन आदेश — गावे बर बोलावऽ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "बहुवचन आदेश इस्राएल के परजा के दने।"
+    }
+  ],
+  "translation": "ओकरा गावऽ, ओकरा संग साज बजावऽ, ओकर सब अचरज के बात पर सोचऽ-बिचारऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "81ddc519dd746b5909b234c39b3cfe716555d41f37cabdbcd35e601fbed67f8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/16\/9-12.1792010171593.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "गावऽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "संग साज बजावऽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "सोचऽ-बिचारऽ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "अचरज के बात"
+    }
+  ],
+  "timestamp": "2026-10-14T20:36:11.594522025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "देखऽ",
+      "rationale": "imperative summons opens the verse — Moses addresses Israel directly"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहरा",
+      "rationale": "direct second-person address to Israel"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיים\/מות · טוב\/רע",
+      "rationale": "two tight antithetical pairs in parallel order, kept as pairs"
+    }
+  ],
+  "translation": "देखऽ — हम आइ तोहरा आगू राखलिअन ⟨את⟩ जीवन आउ ⟨את⟩ भलाई, आउ ⟨את⟩ मौत आउ ⟨אत⟩ ⟨את⟩ बुराई।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/30\/13-16.1791992949779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "हम राखलिअन"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहरा आगू"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जीवन"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "भलाई"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "मौत"
+    },
+    {
+      "surface": "המות",
+      "gloss": "मौत"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "बुराई"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुराई"
+    }
+  ],
+  "timestamp": "2026-10-14T15:49:09.780577541Z",
+  "model": "glm-5.3"
+}

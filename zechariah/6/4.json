@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओ",
+      "rationale": "मगही में संदर्भ-स्पस्टता बर दूरवाचक चिन्हा जोड़ल"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ई की हथिन",
+      "rationale": "दर्सन के अरथ गुता रहल हइ — पढ़निहार आउ नबी दुनो अनजान; जवाब अगिला पद में"
+    },
+    {
+      "kind": "you",
+      "subject": "दूत",
+      "rationale": "सीधा सम्बोधन — नबी दूत आउ हमर मालिक के पुकारत हइ"
+    }
+  ],
+  "translation": "आउ हम जवाब देलन आउ ओ दूत से कहलन जे हमरा संग बात कहत रहलन — ई की हथिन, हमर मालिक?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e74576df6465bce55df924615bbce4714a64480a427a9b21afd0505228ca428d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/6\/1-4.1792004177466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "जवाब देलन"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ओ दूत"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "जे... बात कहत रहलन"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा संग"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हमर मालिक"
+    }
+  ],
+  "timestamp": "2026-10-14T18:56:17.468069447Z",
+  "model": "glm-5.3"
+}

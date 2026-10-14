@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ढाँकतइ",
+      "rationale": "כפר के सुभाविक अरथ 'ढाँकना' हकइ; 'प्रायस्चित' पाछे के धरमबिग्यान के भार हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "जरे के पूरा बलि",
+      "rationale": "עלह के सुभाव 'ऊपर जाए वाला' — पूरा जरे के बलि — हकइ"
+    }
+  ],
+  "translation": "आउ पुरोहित एक के करतइ पाप बलि आउ ⟨את⟩ एक के जरे के पूरा बलि, आउ पुरोहित ओकर बर यहवे के सामने ओकर अशुद्धता के बहाव के ढाँकतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "acf7171abcf72a7bc2720fc42d68a1b48d5712f6fbbaf6705a6dfb62592970d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/15\/29-32.1791990014438.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एक"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप बलि"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "एक"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "जरे के पूरा बलि"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ढाँकतइ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकर बर"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "बहाव"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "ओकर अशुद्धता"
+    }
+  ],
+  "timestamp": "2026-10-14T15:00:14.439087509Z",
+  "model": "glm-5.3"
+}

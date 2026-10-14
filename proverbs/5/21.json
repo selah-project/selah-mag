@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तौलथिन",
+      "rationale": "मूलपाठ में करता दोसर नञ हइ; आदर के किरिया-रूप जोड़ल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "मפלס",
+      "rationale": "तौलना (ponder, ylt\/kjv) बनाम समता करना (maketh level, asv\/jps) — दुनु पाठ चलन में हइ"
+    }
+  ],
+  "translation": "काहे कि यहवे के आँखी के सामने आदमी के डहर हकइ, आउ ओकर सब पग-डहर ऊ ⟨तौलथिन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b802cf376f5e998710d0f74f02db44d05d94574c1cb2773fb7516b6370b71688",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/5\/21-23.1792006445655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आँखी के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "डहर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "ओकर पग-डहर"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "तौलऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:34:05.655842445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זרים \/ וזרוה",
+      "rationale": "זור 'झाड़अ' (winnow) आउ खाली करन के बिंब — कटाई के दृश्य, अनुवाद में बिंब बचलइ।"
+    }
+  ],
+  "translation": "आउ हम बाबेल के ओर परदेसी भेजतइ, आउ ऊ ओकरा झाड़तइ आउ ⟨את⟩ ओकर धरती खाली करतइ, काहे कि ऊ ओकरा बिरुद्ध चारो दने रहतइ, बुरा दिन में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "190fe20ef5a1813b6f762469c12fcfb507bb229a24bd17795740d308c3b3ab64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/51\/1-4.1792001561728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "आउ हम भेजतइ"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "बाबेल के ओर"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "आउ ऊ ओकरा झाड़तइ"
+    },
+    {
+      "surface": "ויבקקו",
+      "gloss": "आउ खाली करतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर धरती"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ओकर धरती"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा बिरुद्ध"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "चारो दने"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:12:41.729580390Z",
+  "model": "glm-5.3"
+}

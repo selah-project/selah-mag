@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "दीवार छह हाथ, कोठरी चार हाथ",
+      "rationale": "मन्दिर के माप-पद, हाथ (अम्मा) के इकाई में"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב סביב … סביב",
+      "rationale": "तीन बेर ‘चारों दने’ के दोहराव — घेराव के बनावट; मगही में दोहराव बरतावल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हाथ",
+      "rationale": "אמה कोनो मगही रूप नञ रखऽ हकइ; ‘हाथ’ (कोनी से कुहनी) ओही नाप के सुभाविक सब्द हकइ"
+    }
+  ],
+  "translation": "आउ ऊ मापलन घर के दीवार — छह हाथ; आउ कोठरी के चउड़ाइ चार हाथ, चारों दने चारों दने, घर के चारों दने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b6856c6d0ff63df7b77f8a017819fe7cf5a86da3daf9c25783b44dc336b1095f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/41\/5-8.1792002962016.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "आउ ऊ मापलन"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आउ चउड़ाइ"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "कोठरी के"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों दने"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों दने"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों दने"
+    }
+  ],
+  "timestamp": "2026-10-14T18:36:02.017313046Z",
+  "model": "glm-5.3"
+}

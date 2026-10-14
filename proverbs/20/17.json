@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गिरी-कंकड़",
+      "rationale": "חצץ के साक्षात चित्र 'कंकड़\/काँटेदार बजरी' हकइ — पाचन भार बर आँख के आगे नञ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערב\/חצץ",
+      "rationale": "मीठा रोटी बनाम कंकड़ — इब्रानी के इहे स्वाद-विरोध मगही में मीठा\/गिरी-कंकड़ से जियत रहलइ।"
+    }
+  ],
+  "translation": "धोखा के रोटी मनुस के मीठा लागऽ हइ, बाकि बाद में ओकर मुँह गिरी-कंकड़ से भर जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "748b86903346a29a87c3c9293d10a3738c5cd48239d46e83f3222714a58e2b75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/20\/17-20.1792006827179.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "मीठा लागऽ हइ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मनुस के"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "धोखा के"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "बाकि बाद में"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "भर जातइ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ओकर मुँह"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "गिरी-कंकड़ से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:27.179711628Z",
+  "model": "glm-5.3"
+}

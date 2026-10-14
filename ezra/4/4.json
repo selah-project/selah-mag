@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "हाथ कुनबाना",
+      "rationale": "רפה ידी 'हाथ ढीला करना' — हिब्रू मुहावरा हौसला तोड़ने का; शाब्दिक चित्र रखल गेलइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ומבלהים",
+      "rationale": "बलाह-रूप भीषक नञ बाकी यहाँ क्रियार्थक रूप; तनाख में ई जड़ के एहन रूप दुर्लभ हइ।"
+    }
+  ],
+  "translation": "आउ भ' गेलइ कि धरती के लोग यहूदा के लोग के हाथ सब कुनबा देवए लागलन, आउ ⟨את⟩ ओकनी के बनावे के बीच डरावए लागलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "62693c2ea865f18dd26d3eda9f2a50bd1940eb48f83da1c0dbb624023ce16589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/4\/1-4.1792009311494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भ' गेलइ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "कुनबा देवए लागलन"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हाथ सब"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "आउ डरावए लागलन"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनावे के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:21:51.496262208Z",
+  "model": "glm-5.3"
+}

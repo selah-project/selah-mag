@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "तीसरा बरिस",
+      "rationale": "राज के बरिस के गिनती।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "अमीर लोग",
+      "rationale": "הפרתמים फारसी उधार सब्द हकइ — 'पारसगामी बड़का लोग'; 'अमीर' सामान्य रूप देल गेलइ।"
+    }
+  ],
+  "translation": "अपन राज के तीसरा बरिस में ऊ सब ⟨את⟩ अपन सरदार आउ अपन नौकर बर दावत देलन — पारस आउ मादय के बल, अमीर लोग आउ प्रांत के सरदार — अपन सामने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/1\/1-4.1792008633224.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "अपन राज के"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "दावत"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब के बर"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "अपन सरदार"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "आउ अपन नौकर"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बल"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "पारस"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "आउ मादय"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "अमीर लोग"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "आउ सरदार"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "प्रांत के"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "अपन सामने"
+    }
+  ],
+  "timestamp": "2026-10-14T20:10:33.225065569Z",
+  "model": "glm-5.3"
+}

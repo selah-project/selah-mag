@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "उतरऽ हइ",
+      "rationale": "תחת के साक्षात अरथ 'नीचे उतरऽ हइ \/ दबऽ हइ' — 'भीतर उतरऽ हइ' किछु सुभाविक बनइलक।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सौ",
+      "rationale": "तुलना अंक में: एक झिड़की बनाम सौ कोड़ा।"
+    }
+  ],
+  "translation": "समझदार के झिड़की बेसी भीतर उतरऽ हइ, बेवकूफ के सौ कोड़ा सँ जादे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c6437f1d196d69d887c17074e87f7ce4ed3d0a5be2abc0aff97d759064fd1898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/17\/9-12.1792006736610.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "उतरऽ हइ"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "झिड़की"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "समझदार के"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "कोड़ा मारे सँ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "बेवकूफ के"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:38:56.611500297Z",
+  "model": "glm-5.3"
+}

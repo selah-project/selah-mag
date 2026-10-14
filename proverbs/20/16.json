@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכרים",
+      "rationale": "KJV\/jps read 'strange woman' (foreign\/adulteress); asv\/bsb read 'foreigners' in parallel with זר"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זר \/ נכרים",
+      "rationale": "near-synonym pair of strangeness words frame the verse; Magahi 'परदेसी\/परदेसी सब' keeps the parallel but loses the two different roots"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "imperatives לקח and חבלהו command the creditor\/reader directly"
+    }
+  ],
+  "translation": "ओकर कपड़ा ले ले, जे परदेसी के बर जमानत बनलइ हकइ, आउ परदेसी सब के बर ओकरा गिरवी रख।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e56e36a94c9352ec6af22904d780c48416026730c019a8961dbf9993ce4a97a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/20\/13-16.1792006849748.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "ले ले"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ओकर कपड़ा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "जमानत बनलइ हकइ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "आउ के बर"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "परदेसी सब"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "ओकरा गिरवी रख"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:49.749738805Z",
+  "model": "glm-5.3"
+}

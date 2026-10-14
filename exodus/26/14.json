@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 26:14",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "तखस",
+      "rationale": "תחש: कोनो जानवार — 'बिलाव के चमड़ा', 'सील के चमड़ा', 'बकरी के चमड़ा', 'नीला रँगल चमड़ा' — अनुवादक लोग में मतभेद; हमनी नाम जस के तस रखलिए"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תחש",
+      "rationale": "तखस तनाख़ के बिरल जानवार-नाम, एकर पहचान निश्चित नञ हकइ"
+    }
+  ],
+  "translation": "आउ तूँ तम्बू बर ढाकना बनइबऽ — मेढ़ा के चमड़ा के, लाल रँगल, आउ ओकरा ऊपरे तखस के चमड़ा के ढाकना।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5c167a40d41cfb18674fb26f2a8541d21e464493e32e8c5936416f410d7c7713",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/26\/13-16.1791988887796.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "आउ तूँ बनइबऽ"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ढाकना"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "तम्बू बर"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "चमड़ा"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "मेढ़ा के"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "लाल रँगल"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "आउ ढाकना"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "चमड़ा"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "तखस"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ऊपरे"
+    }
+  ],
+  "timestamp": "2026-10-14T14:41:27.796960014Z",
+  "model": "glm-5.3"
+}

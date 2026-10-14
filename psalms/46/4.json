@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בגאותו",
+      "rationale": "गाह के अनिश्चित हकइ — 'ओकर' समुंदर के उछास हकइ या एलोहीम के महिमा? दुनो पढ़ाई चलऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סלה",
+      "rationale": "'सेला' संगीत-चिन्हा हकइ (ठहराव); लिप्यन्तरन रखल गेलइ, अनुवाद नञ।"
+    }
+  ],
+  "translation": "ओकर पानी गरजऽ हइ आउ उबलऽ हइ, ओकर उछास से पहाड़ काँपतइ। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e381cb8fb4f044d1d19f379d27980836baee6048f2d738c22d0e88aa35a92f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/46\/1-4.1792005106303.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "गरजऽ हइ"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "उबलऽ हइ"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ओकर पानी"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "काँपतइ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "ओकर उछास से"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:46.304658214Z",
+  "model": "glm-5.3"
+}

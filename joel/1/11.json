@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "book": "joel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "किसान आउ माली सब",
+      "rationale": "सीधा सम्बोधन — परतिमान बिधान किसान आउ अंगूर के माली के आगे हकइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "लजाइल होवऽ \/ चीं-चीं करऽ",
+      "rationale": "आदेशार्थ किरिया पढ़निहार के ओही सोग में खींचऽ हथिन"
+    }
+  ],
+  "translation": "लजाइल होवऽ किसान सब, चीं-चीं करऽ अंगूर के माली सब, गेहूँ आउ जौ बर; काहे कि नास भेलइ खेत के फसल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d6805fefa645284de3b62507b0dfdff2192c84a50a2be0a3dbb687edf093f52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joel\/1\/9-12.1792003422291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "लजाइल होवऽ"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "किसान सब"
+    },
+    {
+      "surface": "היליײו",
+      "gloss": "चीं-चीं करऽ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "अंगूर के माली सब"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "गेहूँ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ बर"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "जौ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "नास भेलइ"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "फसल"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत"
+    }
+  ],
+  "timestamp": "2026-10-14T18:43:42.292272571Z",
+  "model": "glm-5.3"
+}

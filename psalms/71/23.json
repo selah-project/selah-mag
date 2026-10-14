@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש गला\/परान-बल हकइ; मगही 'परान' एकरा नजदीक हकइ, 'आत्मा' संस्कृत-भारी होतइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के बर",
+      "rationale": "परमेश्वर के सीधा सम्बोधन।"
+    }
+  ],
+  "translation": "हमर ओंठ जय-जयकार करतइ जब हम तोहर बर गीत गाब, आउ हमर परान, जेकरा तूँ छुड़ालन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9eae377d08fa422a71de1313d2bb2fc5b61164dda0f551778d99eed8940867dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/71\/21-24.1792005320332.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "जय-जयकार करतइ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "हमर ओंठ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "गीत गाब"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर बर"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "आउ हमर परान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "तूँ छुड़ालन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:20.333071423Z",
+  "model": "glm-5.3"
+}

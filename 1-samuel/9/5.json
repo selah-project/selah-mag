@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 9:5",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "פן",
+      "rationale": "'नञ त जाए कि' — नकारात्मक उद्देश्य के जोड़-सब्द, अनुवाद में पूरा कइल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יחדל מן האתנות",
+      "rationale": "शाब्दिक अरथ 'गधिनी से रुक जाथिन'; 'खोज छोड़ देथिन' संदर्भ के चाल।"
+    },
+    {
+      "kind": "you",
+      "subject": "नौकर-बुतरू",
+      "rationale": "शाऊल ओकरा संगी के सीधे सम्बोधन करऽ हइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "לכה ונשובה",
+      "rationale": "'चलऽ हइ, लौट जइबी' — बोलावनी के आज्ञार्थ।"
+    }
+  ],
+  "translation": "ऊ लोग त्सुफ के धरती में अइलन, आउ शाऊल ओकरा नौकर-बुतरू के, जे ओकर संग हल, कहलक — चलऽ हइ, हमनी लौट जइबी, नञ त जाए कि हमर बाबूजी गधिनी के खोज छोड़ देथिन आउ हमनी खातिर चिंता करथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e2ae22e0ece85592c9e5f4681464eff7d49a61e3fb7f94b55d053f06029d84a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/9\/5-8.1791995162333.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ऊ लोग"
+    },
+    {
+      "surface": "באו",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "צוף",
+      "gloss": "त्सुफ के"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "आउ शाऊल"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "ओकरा नौकर-बुतरू के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संग हल"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "चलऽ हइ"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "हमनी लौट जइबी"
+    },
+    {
+      "surface": "פן",
+      "gloss": "नञ त जाए कि"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "छोड़ देथिन"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमर बाबूजी"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "गधिनी के खोज"
+    },
+    {
+      "surface": "ודאג",
+      "gloss": "चिंता करथिन"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी खातिर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:26:02.334120982Z",
+  "model": "glm-5.3"
+}

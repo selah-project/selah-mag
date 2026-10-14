@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משך הזרע",
+      "rationale": "'measure of seed' (JPS, ylt) vs 'precious seed' (KJV, from root 'to draw out'); Magahi keeps the transliterated measure-word मेशेख"
+    },
+    {
+      "kind": "measurement",
+      "subject": "משך",
+      "rationale": "משך is a measured portion of seed carried out to sow"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלוך ילך ... בא יבוא",
+      "rationale": "infinitive-absolute plus finite verb doubled for emphasis, kept by the doubled जावे-जावे \/ अबै"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אלמומה",
+      "rationale": "sheaf — rare word appearing only in this verse's plural form in the Tanakh"
+    }
+  ],
+  "translation": "जावे-जावे रोइत-रोइत मेशेख जे बिया उठाइत जातइ, ऊ निस्चय गीत के आवाज संग अबै, ओकर गट्ठर उठाइत।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1463c9e58546f1aba4e5cd25b89439d43fbe2911171d2f9ada8db4f54e962d30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/126\/5-6.1792006192797.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "जावे-जावे"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "जातइ"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "रोइत-रोइत"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उठाइत"
+    },
+    {
+      "surface": "משך",
+      "gloss": "मेशेख"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "जे बिया"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अबै"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "निस्चय अबै"
+    },
+    {
+      "surface": "ברינה",
+      "gloss": "गीत के आवाज संग"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उठाइत"
+    },
+    {
+      "surface": "אלמותיו",
+      "gloss": "ओकर गट्ठर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:52.798038004Z",
+  "model": "glm-5.3"
+}

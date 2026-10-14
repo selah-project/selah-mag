@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נאלמתי \/ דומיה \/ החשיתי",
+      "rationale": "तीन चुप-मूल के क्रिया-संज्ञा के पंक्ति — अनुवाद में चुप के दोहराव से कुछ भार रखल गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "נעכר",
+      "rationale": "पानी के गड़बड़ावै के मूल — 'कलुसित होए गेल' बनाम 'भरजाए गेल\/हलचल होए गेल'; दुनू पढ़ाव मिलऽ हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מטוב",
+      "rationale": "'भला बात से भी चुप' — किछु पढ़ेवै वाला एकरा 'दुख से भलाई नञ मिलल' पढ़ऽ हइ।"
+    }
+  ],
+  "translation": "हम जिबही बाँधल गेलियइ गोड़ निरी चुप; हम चुप रहलियइ, भला बात से भी; आउ हमर पीरा औरै बेर भरजाए गेल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/39\/1-4.1792004988464.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "हम जिबही बाँधल गेलियइ"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "गोड़ निरी चुप"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "हम चुप रहलियइ"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "भला बात से भी"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "आउ हमर पीरा"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "औरै बेर भरजाए गेल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:48.465144632Z",
+  "model": "glm-5.3"
+}

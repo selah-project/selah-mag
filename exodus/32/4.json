@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חרט",
+      "rationale": "ךरן तनाख में खाली इहे जगह आवऽ हइ — काटनी \/ खोदनी के औजार।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחרט",
+      "rationale": "KJV 'काटनी से गढ़लन' बनाम राशी\/किछु पढ़ाई 'साँचे में ढालल' (במסכा पढ़िकै)।"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהיך",
+      "rationale": "बहुबचन क्रिया-रूप के संग 'तोहर देवता सब' — JPS एकबचन 'यह तोहर देवता' लेथिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी में क्रिया-सूत्र नञ हइ; मगही वाक्य ⟨हइ⟩ माँगऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल के",
+      "rationale": "घोसना यिस्राएल के सीधा सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ ओकनी के हाथ से लेलन आउ काटनी से ⟨את⟩ ओकरा गढ़लन, आउ ओकरा ढलल बछड़ा बनइलन; आउ ओकनी कहलन — ई ⟨हइ⟩ तोहर देवता सब, यिस्राएल, जे तोहनी के मिस्रयिम के धरती से उपर लावन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6e1c9d727695a47d80fc1f12fdb81bf92e44cfa5c3f82884062361d2e97262fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/32\/1-4.1791989206330.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ओकनी के हाथ से"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "गढ़लन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (सोना)"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "काटनी से"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "बछड़ा"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ढलल"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर देवता सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "उपर लावन"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:46:46.331549117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 1:14",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "पेड़ के कबूतर के बुतरू",
+      "rationale": "בני היונה के साक्षात अरथ 'कबूतर के बेटा' हकइ; जाति-बोध बर 'बुतरू' लेलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "त",
+      "rationale": "ससर्त बाक्य बर मगही के जोड़-सब्द; हिब्रू खाली वאम रखऽ हइ"
+    }
+  ],
+  "translation": "आउ जँ यहवे बर ओकर भेंट चिरईं के चढ़ावा होवे, त ओ घुंघरू-घुंघरू कबूतर भा पेड़ के कबूतर के बुतरू में से ⟨את⟩ ओकर भेंट लावे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/1\/13-16.1791989475886.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जँ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "चिरईं के"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ावा"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ओकर भेंट"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "त ओ लावे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "घुंघरू-घुंघरू कबूतर"
+    },
+    {
+      "surface": "או",
+      "gloss": "भा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बुतरू"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "पेड़ के कबूतर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर भेंट"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ओकर भेंट"
+    }
+  ],
+  "timestamp": "2026-10-14T14:51:15.886829388Z",
+  "model": "glm-5.3"
+}

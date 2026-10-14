@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פתגם",
+      "rationale": "ई फारसी उधार सब्द हकइ (फरमान\/निर्णय); तनाख़ में बहुत कम जगह — एस्तेर-एज्रा के फारसी रंग के चिन्हा।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "למגדול ועד קטן",
+      "rationale": "'बड़ से ले के छोट तले' — इब्रानी के बनावट जस के तस रखल गेल, मतलब 'हर एक'।"
+    }
+  ],
+  "translation": "आउ राजा के जे हुक्म ओ करतइ, ओकर पूरा राज में सुनल जातइ — काहे कि ऊ ⟨बड़⟩ हकइ — आउ सब जनाना ओकनी के घरवाला के मान देतइ, बड़ से ले के छोट तले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9a33d35b65288750b57841875921342f7516de5e2a1f95bf5c9b6aae50cdb6ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/1\/17-20.1792008635253.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "आउ सुनल जातइ"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "हुक्म"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ओकर राज में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "देतइ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "मान"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "ओकनी के घरवाला के"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "बड़ से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले के"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "छोट तले"
+    }
+  ],
+  "timestamp": "2026-10-14T20:10:35.254463076Z",
+  "model": "glm-5.3"
+}

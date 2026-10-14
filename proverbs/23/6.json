@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תלחם\/לחם",
+      "rationale": "किरिया आउ संज्ञा एके जड़ के हकइ (खाइऽ\/रोटी) — मगही में एहन जोड़ी नञ बनऽ सकऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "पढ़निहार",
+      "rationale": "निषेध-आदेस सीधे सुनैत के दने — 'मत खाइऽ, मत करऽ'।"
+    }
+  ],
+  "translation": "बुरा आँख वाला के ⟨את⟩ रोटी मत खाइऽ, आउ ओकर स्वादिष्ट बेसन के लालसा मत करऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/23\/5-8.1792006928890.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "खाइऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रोटी"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "लालसा करऽ"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "ओकर स्वादिष्ट बेसन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:42:08.890934055Z",
+  "model": "glm-5.3"
+}

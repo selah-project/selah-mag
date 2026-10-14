@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "मोशे यिस्राएल के परजा के सोझा बोलऽ हथिन"
+    }
+  ],
+  "translation": "यहवे तोहनी के बात सब के ⟨את⟩ आवाज सुनलन, आउ क्रोध भेलन, आउ सपथ लेलन कहने —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/1\/33-36.1791991942567.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "आउ सुनलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के बात सब के आवाज"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "तोहनी के बात सब"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "आउ क्रोध भेलन"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "आउ सपथ लेलन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहने"
+    }
+  ],
+  "timestamp": "2026-10-14T15:32:22.568737899Z",
+  "model": "glm-5.3"
+}

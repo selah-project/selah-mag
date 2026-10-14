@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "इब्रानी कहऽ हइ तलवार के मुँह — धार से मारल; मुहार रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנפש",
+      "rationale": "נפש परान \/ जीव हकइ, आत्मा नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "החרם",
+      "rationale": "छेरेम — बिना मिलावट नष्ट करे के बाचा-हुकुम; कत्तेक अनुवादक 'सर्वनाश कइलन' लिखऽ हथिन।"
+    }
+  ],
+  "translation": "आउ ओकरा भीतर के सब परान के जे ओहाँ हलन, ⟨את⟩ तलवार के मुहार से मारलन, पूरा मिटा देलन; कोनो साँस नञ बचल, आउ ⟨את⟩ हासोर आग में जरा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/11\/9-12.1791993526332.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब परान"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा भीतर"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "मुहार"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "पूरा मिटा देलन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "बचल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "साँस"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हासोर"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "हासोर"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "जरा देलन"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:58:46.333889165Z",
+  "model": "glm-5.3"
+}

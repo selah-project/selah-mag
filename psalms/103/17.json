@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעולם ועד עולם",
+      "rationale": "עולם दू बेर — सनातन से सनातन ले — ओकर छुपल समय-सीमा के दुहराव हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हेसेद",
+      "rationale": "गढ़ल लिप्यन्तरन रखलन — कोनो एक मगही सब्द (दया, परेम, किरपा) कम पड़ऽ हइ"
+    }
+  ],
+  "translation": "बाकि यहवे के हेसेद सनातन से ले सनातन ले बर हकइ, ओकर डर रखै वाला सब ले; आउ ओकर त्सेदेक बेटा के बेटा ले बर हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/103\/17-20.1792005817208.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "बाकि हेसेद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "सनातन से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले (तक)"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सनातन ले"
+    },
+    {
+      "surface": "על",
+      "gloss": "ले बर"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ओकर डर रखै वाला सब"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "आउ ओकर त्सेदेक"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटा के"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:37.209347891Z",
+  "model": "glm-5.3"
+}

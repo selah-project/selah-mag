@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "दोस लगैलन",
+      "rationale": "והוכח reciprocal — दुनो पक्ष के बीच बहस\/सुनावनी के अरथ हकइ; खाली 'दोस लगाना' एक दने कएल देखऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हलान",
+      "rationale": "इब्रानी पाठ वर्तमान-भूत रूप में ठाढ़ हकइ; मगही पूरा बाक्य बर भूतकाल माँगऽ हइ"
+    }
+  ],
+  "translation": "आउ अवराहाम ⟨את⟩ अबिमेलेच के दोस लगैलन कुइयाँ के पानी के कारन, जे अबिमेलेच के नौकर जबरदस्ती ले लेलन हलान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "49002eb342b5c2d67127fcb373e7f2c43ed2e5431afb9a74c09f7a5eb374ff74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/21\/25-28.1791986798194.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "दोस लगैलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अबिमेलेच"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अबिमेलेच"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारन"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "बात पर"
+    },
+    {
+      "surface": "באר",
+      "gloss": "कुइयाँ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "जबरदस्ती ले लेलन हलान"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "नौकर"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अबिमेलेच के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:06:38.195221254Z",
+  "model": "glm-5.3"
+}

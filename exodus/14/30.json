@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "किनारा",
+      "rationale": "שפת सचमुच 'ओठ' हकइ — समुंदर के किनारा ओकर 'ओठ' कहल गेल हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "कि",
+      "rationale": "देखलन के बाद उपबाक्य जोड़े बर मगही के 'कि' जरूरी रहलइ"
+    }
+  ],
+  "translation": "यहवे ओहि दिन यिस्राएल के ⟨את⟩ मिस्रयिम (मिस्र) के हाथ से बचइलन, आउ यिस्राएल देखलन कि मिस्रयिम ⟨את⟩ समुंदर के किनारा पर मएल रहलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cdc43dc64a16671c25b4b9ae776611e29c5f1a761da68286b6e6686f08cdbda4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/14\/29-31.1791988428535.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "बचइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओहि दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उहे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "के हाथ से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "आउ देखलन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मिस्रयिम"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मएल रहलइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:33:48.536354519Z",
+  "model": "glm-5.3"
+}

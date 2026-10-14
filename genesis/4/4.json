@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 4:4",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨एहो⟩",
+      "rationale": "גם הוא “ऊ ⟨एहो⟩” — इब्रानी ओकरा बल देबे बर रखऽ हइ; मगही बाक्य में “एहो” जोड़ल गेल।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "וישע",
+      "rationale": "शाब्दिक अरथ “के दने देखलन” हकइ; एही तो अनुमोदन के इशारा हकइ, जेकर उल्टा अगिला पद में कायिन बर होतइ।"
+    }
+  ],
+  "translation": "आउ हेबल ⟨एहो⟩ अपन भेड़ के पहिला जनमल सब में से आउ ओकर चिकनाई में से ले अइलक। आउ यहवे हेबल के दने आउ ओकर मिन्हा के दने देखलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae71745516a81d20b0c22d9ff1bcaa877084e125fc4f421a4d4ba208bda0dd9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/4\/1-4.1791986293482.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבל",
+      "gloss": "आउ हेबल"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ले अइलक"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨एहो⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "מבכרות",
+      "gloss": "पहिला जनमल सब में से"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "अपन भेड़"
+    },
+    {
+      "surface": "ומחלבהן",
+      "gloss": "आउ ओकर चिकनाई में से"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के दने"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबल"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ के दने"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "ओकर मिन्हा"
+    }
+  ],
+  "timestamp": "2026-10-14T13:58:13.484128701Z",
+  "model": "glm-5.3"
+}

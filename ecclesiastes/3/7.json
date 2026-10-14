@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 3,
+  "translation": "फाड़े के बेरा आउ सिले के बेरा; चुप रहे के बेरा आउ बोले के बेरा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "610a4c00af3d6d5621274ed8c4282f60a23fb5d5069a4d82e4b7e9d537c0e141",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/3\/5-8.1792008330756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "बेरा"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "फाड़े के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आउ बेरा"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "सिले के"
+    },
+    {
+      "surface": "עת",
+      "gloss": "बेरा"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "चुप रहे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आउ बेरा"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोले के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:30.757325096Z",
+  "model": "glm-5.3"
+}

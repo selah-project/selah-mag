@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהם עולם",
+      "rationale": "'ओकरा में सदा' — असल अरथ बाझल हकइ: 'ओकरा के मानऽ हइ आउ बच जइबी' (KJV) बनाम 'ओकरा में बहुत दिन तक रही'"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पुरा पद यहवे से सीधा बात हकइ"
+    }
+  ],
+  "translation": "तूँ ⟨את⟩ ओकरा भेंट कइलन जे खुस हो के त्सेदेक करऽ हइ, जे तोहर रस्तन में तोहरा याद रखऽ हथिन; देखऽ, तूँ क्रोधित भेलन, आउ हमनी पाप कइलिऐ; ओकरा में सदा के बात हइ, आउ हमनी बच जइबी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/64\/1-4.1791999890513.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "भेंट कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खुस हो के त्सेदेक करऽ हइ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "खुस हो के"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आउ ... करऽ हइ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "त्सेदेक"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "तोहर रस्तन में"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "तोहरा याद रखऽ हथिन"
+    },
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "क्रोधित भेलन"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "आउ हमनी पाप कइलिऐ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "आउ हमनी बच जइबी"
+    }
+  ],
+  "timestamp": "2026-10-14T17:44:50.514867787Z",
+  "model": "glm-5.3"
+}

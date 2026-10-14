@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 8:18",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जगह",
+      "rationale": "וכחש के करता मूलपाठ में खुलल नञ हकइ; आगे के मिसाल से जगह के बोली समझल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבלענו के करता",
+      "rationale": "ऊ एक्को (ईश्वर\/मनुस) निगलऽ हइ बनाम ऊ आपने जगह से मिट जाऽ हइ"
+    }
+  ],
+  "translation": "अगर ऊ ⟨एक्को⟩ ओकरा ओकर जगह से निगल जाऽ हइ, तब ⟨जगह⟩ ओकरा नकारतइ — “हम तोहनी नञ देखलिए।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "115f7f93859ebda55517b4ccb791b2859a05f7e8c6da8d5efda980af002312ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/8\/17-20.1792007207954.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "ओकरा निगल जाऽ हइ"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "ओकर जगह से"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "तब नकारतइ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ראיתיך",
+      "gloss": "हम तोहनी देखलिए"
+    }
+  ],
+  "timestamp": "2026-10-14T19:46:47.955524001Z",
+  "model": "glm-5.3"
+}

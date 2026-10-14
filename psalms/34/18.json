@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ओकनी⟩",
+      "rationale": "करता पिछला पद से आवऽ हइ (धरमी); इब्रानी में अइहाँ करता नञ लिखल हे"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צרות",
+      "rationale": "चित्र 'सङ्कुचता \/ खिचाव' के हकइ; मगही में दुख-तकलीफ धरलक"
+    }
+  ],
+  "translation": "⟨ओकनी⟩ चिल्लालन आउ यहवे सुनलन, आउ ओकनी के सब दुख-तकलीफ में से छुड़ा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "deacfc4a563e0f4dbb1bc795bbc0156b1a79fc87098c7cd4335ebe683ef5b97d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/34\/17-20.1792004859672.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "चिल्लालन"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "दुख-तकलीफ"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "ओकनी के छुड़ा देलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:39.673156632Z",
+  "model": "glm-5.3"
+}

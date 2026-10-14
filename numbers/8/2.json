@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "उपरा",
+      "rationale": "בהעלות के साक्षात अरथ 'चढ़ाबऽ\/उपर करऽ' हकइ — दीया के जराबऽ के बरके ऊपर चढ़ावल"
+    },
+    {
+      "kind": "you",
+      "subject": "अहरोन",
+      "rationale": "यहवे मोशे के आज्ञा दे हे जे ऊ अहरोन से कहऽ — असली सुनइबइ अहरोन हथिन"
+    }
+  ],
+  "translation": "अहरोन (हारून) से कहऽ, आउ ओकरा कहऽ: जब तूँ ⟨את⟩ दीया सब के उपरा हो तब मिनोरा के मुँह के सामने ओ सातो दीया जरतइ होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "687e4db0efdf83a8a7adb99b32376839c939246be2300f097864b69b520e3b87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/8\/1-4.1791990928256.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आउ ओकरा कहऽ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "जब तूँ उपरा हो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दीया सब"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "दीया सब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "מול",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "मिनोरा"
+    },
+    {
+      "surface": "יאיװו",
+      "gloss": "जरतइ होतइ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सातो"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "दीया"
+    }
+  ],
+  "timestamp": "2026-10-14T15:15:28.257610950Z",
+  "model": "glm-5.3"
+}

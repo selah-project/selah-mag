@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רע רע",
+      "rationale": "the doubled 'bad, bad' is the buyer's haggling refrain; the repetition itself is the rhetoric"
+    },
+    {
+      "kind": "addition",
+      "subject": "अपना रस्ता",
+      "rationale": "לו 'for himself' with אזל 'went' is the idiom 'went on his way'; Magahi needs the noun"
+    }
+  ],
+  "translation": "“खराब हकइ, खराब हकइ” — कहऽ हइ खरीदै वाला, आउ जब ऊ ⟨अपना रस्ता⟩ गेला, तब बड़ाई करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e56e36a94c9352ec6af22904d780c48416026730c019a8961dbf9993ce4a97a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/20\/13-16.1792006849748.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "खराब हकइ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "खराब हकइ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "खरीदै वाला"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "गेला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨अपना रस्ता⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "बड़ाई करऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:49.749454807Z",
+  "model": "glm-5.3"
+}

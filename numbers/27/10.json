@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "बहुबचन बर मगही में सब जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ जेकरा भाय सब नञ होवेतन, त तोहनी ओकर बिरसत ⟨את⟩ ओकर बाप के भाय सब के देब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7e4c998a677d7a4cb6da39597791af69957e25b6180a28c5d2f3f82d076b217d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/27\/9-12.1791991580115.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जेकरा"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ होवेतन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "भाय सब"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "तोहनी देब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बिरसत"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ओकर बिरसत"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "भाय सब के"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ओकर बाप के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:26:20.115964176Z",
+  "model": "glm-5.3"
+}

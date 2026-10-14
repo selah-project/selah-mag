@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "इब्रानी में क्रिया नञ हइ; सूची-बाक्य बर क्रिया जोड़ल गेलन"
+    },
+    {
+      "kind": "measurement",
+      "subject": "जेठ…पाँचम",
+      "rationale": "क्रम-अंक संग ओवेद-एदोम के बेटन के नाम-सूची"
+    }
+  ],
+  "translation": "आउ ओवेद-एदोम के बेटन ⟨हलन⟩: शमायाह जेठ, यहोजावाद दोसर, योआह तीसर, आउ साकर चारथम, आउ नतनएल पाँचम।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2c1179243e6cd9e9ef75dca40a83e25cec0f0012f0c771aad78f642a1cfa1318",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/26\/1-4.1792010468843.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "आउ ओवेद-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटन"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "शमायाह"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "जेठ"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "यहोजावाद"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "योआह"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तीसर"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "आउ साकर"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चारथम"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "आउ नतनएल"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "पाँचम"
+    }
+  ],
+  "timestamp": "2026-10-14T20:41:08.844778920Z",
+  "model": "glm-5.3"
+}

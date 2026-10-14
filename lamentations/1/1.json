@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बिधवा जइसने भ गेलइ के ‘भ’",
+      "rationale": "हिब्रू के हיתा पहिलहीं ‘बन गेल’ के अरथ देतइ; मगही किरिया में सहायक रूप जोड़ल गेलन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "למס",
+      "rationale": "कर-बिलासी बनाम ‘दास’ — केजेव्हि ‘tributary’ (कर देवै वाली), बीएसबी ‘slave’; हिब्रू के साफ अरथ जबरदस्ती मजूरी के कर।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איכה",
+      "rationale": "एकर ध्वन्यात्मक विलाप ‘कइसने’ मगही में थोड़के कमजोर पड़ऽ हइ — पूरा पुस्तक के नाँव एही सब्द से हकइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "पढ़निहार",
+      "rationale": "‘कइसने’ के विलाप प्रश्न पढ़निहार के ओकर शोक में खींचऽ हइ।"
+    }
+  ],
+  "translation": "कइसने अकेले बैठलइ ई नगर, जे लोग से भरल रहलइ! ऊ बिधवा जइसने भ गेलइ — जे जाति सब के बीच बड़ रहलइ, देस सब के बीच रानी रहलइ, ऊ कर-बिलासी भ गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9f3d9a904525dee1a3f9eb2475fa53f53d00376f398bbede518c33fc6a6fdf7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/1\/1-4.1792008184997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "बैठलइ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ई नगर"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "रहलइ"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "बिधवा जइसने"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जाति सब के बीच"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "रानी"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "देस सब के बीच"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "रहलइ"
+    },
+    {
+      "surface": "למס",
+      "gloss": "कर-बिलासी"
+    }
+  ],
+  "timestamp": "2026-10-14T20:03:04.998205219Z",
+  "model": "glm-5.3"
+}

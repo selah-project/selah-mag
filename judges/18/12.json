@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 18:12",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आज ले",
+      "rationale": "हिब्रू 'ले इ दिन उहे' कहऽ हइ — 'आज' सुभाविक मगही में जोड़ल गेल।"
+    },
+    {
+      "kind": "elision",
+      "subject": "מחנה-דान",
+      "rationale": "'दान के डेरा' नाम के लिप्यन्तरन महनेह-दान रखल गेल — नाम अनुवाद नञ होवऽ हइ।"
+    }
+  ],
+  "translation": "आउ ऊ चढ़ गेलन आउ यहूदा के किर्यत-यारिम में डेरा डारलन; एकरा कारन ओकनी ओ जगह के नाम आज ले महनेह-दान रखलन; देखू, ऊ किर्यत-यारिम के पाछे हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "60f8cf03329e9e4147f01c00d639b2a2193894546c8e789c481117419dca8e70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/18\/9-12.1791994610115.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "आउ ऊ चढ़ गेलन"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डारलन"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "किर्यत- में"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-यारिम"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "यहूदा में"
+    },
+    {
+      "surface": "על",
+      "gloss": "एकरा"
+    },
+    {
+      "surface": "כן",
+      "gloss": "कारन"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ओकनी नाम रखलन"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "ओ जगह के"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उहे"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "महनेह"
+    },
+    {
+      "surface": "דן",
+      "gloss": "-दान"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "इ दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "उहे"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखू"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "किर्यत-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-यारिम"
+    }
+  ],
+  "timestamp": "2026-10-14T16:16:50.116208061Z",
+  "model": "glm-5.3"
+}

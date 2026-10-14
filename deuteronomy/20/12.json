@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום\/תשלים",
+      "rationale": "सांति के जड़ दुनो पद में वापस आवऽ हइ — 'सांति करतइ \/ सांति नञ' — ओही जड़ के खेल"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "तूँ-सम्बोधन जारी हइ"
+    }
+  ],
+  "translation": "आउ अगर ऊ तोहरा संग सांति नञ करतइ, बाकि तोहरा संग जुद्ध करतइ, तब तूँ ओकरा घेराव करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b2dae9be1df1f72980f92d3961b3be13c96949c81f33f8a1141754d2cb63961a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/20\/9-12.1791992542070.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ अगर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "सांति करतइ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहरा संग"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "बाकि करतइ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहरा संग"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "जुद्ध"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "तब तूँ घेराव करतइ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:42:22.071506261Z",
+  "model": "glm-5.3"
+}

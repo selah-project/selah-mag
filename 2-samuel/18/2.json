@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 18:2",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "तिहाई",
+      "rationale": "सेना के तीन बराबर हिस्सा में बाँटल गेल — गिनती के ढाँचा।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצא אצא",
+      "rationale": "एके जड़ के क्रिया के दोहराव (infinitive absolute) — जोर देवे बर; मगही में दोहराव से देखाओल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हम",
+      "rationale": "अन्त में सर्बनाम इब्रानी में हकइ; दोहराव के ढाँचा सुरक्षित रखल गेल।"
+    }
+  ],
+  "translation": "आउ दाविद भेजलन ⟨את⟩ लोग — तिहाई योआब के हाथ में, आउ तिहाई अवीशै के हाथ में, जे त्सरूयाह के बेटा आउ योआब के भाय हलन, आउ तिहाई इत्तै गत्ती के हाथ में। आउ राजा लोग सब से कहलन: निकलबइ, निकलबइ हमरो, तोहनी संग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c4ed79bcfc5e7bf4f572444922e534972c207ff6cff72c88b5b61a9131597514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/18\/1-4.1791996360229.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "तिहाई"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "आउ तिहाई"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "अवीशै"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "त्सरूयाह"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाय"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "והשלשת",
+      "gloss": "आउ तिहाई"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "इत्तै"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "गत्ती"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग सब"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलबइ"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "निकलबइ हमरो"
+    },
+    {
+      "surface": "גם",
+      "gloss": "हमरो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "तोहनी संग"
+    }
+  ],
+  "timestamp": "2026-10-14T16:46:00.230651154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בריח \/ מבריח",
+      "rationale": "डंडा (בריח) आउ क्रिया ‘दौड़ना\/घुसऽ हे’ (מבריח) एके जड़ — बिंब मगही में धुँधला हो गेलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "एक छोर से दोसर छोर ले",
+      "rationale": "नाप-फेर के बिंब — पूरा चौड़ाई"
+    }
+  ],
+  "translation": "आउ बीच के डंडा फल्ला सब के बीच में — दौड़ऽ हे एक छोर से दोसर छोर ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8da6aa8f55b8e45b1e6624acd3d4677f72f907578cf38e996cb008ef358615a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/26\/25-28.1791988834404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "आउ डंडा"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "बीच के"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "फल्ला सब के"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "दौड़ऽ हे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "एक छोर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "दोसर छोर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:40:34.405137688Z",
+  "model": "glm-5.3"
+}

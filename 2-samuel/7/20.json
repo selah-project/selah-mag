@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "काहे कि",
+      "rationale": "ואתह के जोड़ संबंध साफ करे बर मगही में जोड़-सब्द"
+    },
+    {
+      "kind": "you",
+      "subject": "दाविद के परार्थना जारी",
+      "rationale": "अदोनाय यहवे के सीधा सम्बोधन"
+    }
+  ],
+  "translation": "आउ दाविद तोहरा आउ का कहतइ? काहे कि तूँ ⟨את⟩ अपन सेवक के जानथिन, अदोनाय यहवे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "58f0cad19a581742a596c300b313824bbba3e9f4a263be5bec633d04bfd94749",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/7\/17-20.1791996008422.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "आउ का"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "आउ कहतइ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "कहे बर"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "काहे कि तूँ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "जानथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन सेवक के"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "अपन सेवक"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T16:40:08.424100270Z",
+  "model": "glm-5.3"
+}

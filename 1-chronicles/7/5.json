@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 7:5",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हजार",
+      "rationale": "अंक जोड़ल गेलन काहे कि मगही में असीस आउ सात के संग हजार के नाप चाही"
+    },
+    {
+      "kind": "measurement",
+      "subject": "अस्सी आउ सात हजार",
+      "rationale": "योद्धा के गिनती — वंसावली के सूची"
+    }
+  ],
+  "translation": "आउ ओकनी के भाय सब, यिस्साखार के सब परिवार के संग, बलवान बीर लोग — अस्सी आउ सात हजार — सब के वंसावली में गिनल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "16a83c5671b50257faeb8a4104133a0e7c802c08886cdec2cdfb1842521e4cff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/7\/5-8.1792010049618.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "आउ ओकनी के भाय सब"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "परिवार"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिस्साखार"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "חילים",
+      "gloss": "बीर लोग"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "अस्सी"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "आउ सात"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "התיחשם",
+      "gloss": "वंसावली में गिनल गेलन"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:34:09.619173908Z",
+  "model": "glm-5.3"
+}

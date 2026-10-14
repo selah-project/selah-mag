@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 11:1",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרת ברית",
+      "rationale": "‘काट के वाचा’ — इब्रानी में वाचा ‘काटल’ जाऽ हइ; मगही में ई चित्र टूट जाऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यावेश के मरद",
+      "rationale": "नाहाश के सीधा सम्बोधन — आत्मसमर्पण के बोली।"
+    }
+  ],
+  "translation": "नाहाश अम्मोनी चढ़ अइलन आउ यावेश गिलाद के ऊपर डेरा डेरलन; आउ यावेश के सब मरद नाहाश से कहलन: “हमनी संग वाचा कर, आउ हम तोहर सेवा करबी।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4ddc603da9ad16e68a52645577d22fcb183c15c5ec506e1a16ecd59a9a3340c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/11\/1-4.1791995128238.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़ अइलन"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "नाहाश"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "अम्मोनी"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "डेरा डेरलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "यावेश"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "यावेश के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "नाहाश"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "कर"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी संग"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "वाचा"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "आउ हम तोहर सेवा करबी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:25:28.238564821Z",
+  "model": "glm-5.3"
+}

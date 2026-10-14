@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "तूँ",
+      "rationale": "परार्थना यहवे के सोझे सीधे सम्बोधन में बदल गेल हकइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "क्रिया 'देतऽ हऽ'",
+      "rationale": "हेसेद के आगे क्रिया दोहरावल जाही — इबरानी ओकरा छोड़ देत हइ"
+    }
+  ],
+  "translation": "तूँ याकोव (याकूब) के सच देतऽ हऽ, अवराहाम (अब्राहम) के हेसेद, जइसन तूँ हमनी के बाप-परदादा के पुरान दिन में शपथ लेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a416de0f5096386a423ccfb9b0fb2936443c559291f8bd99291ca4d6b3e549b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/7\/17-20.1792003867547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "तूँ देतऽ हऽ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोव (याकूब) के"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "अवराहाम (अब्राहम) के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "शपथ लेलन"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "हमनी के बाप-परदादा के"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "दिन में से"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "पुरान"
+    }
+  ],
+  "timestamp": "2026-10-14T18:51:07.548237266Z",
+  "model": "glm-5.3"
+}

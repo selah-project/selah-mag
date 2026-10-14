@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרעם — भुजा केकर",
+      "rationale": "ketiv 'उनकर भुजा' (ओकनी के) बनाम qere\/अनुवादक के 'हमनी के भुजा'; हमनी ⟨…⟩ के चिन्हा संग 'हमनी के' लेलनिहइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हमनी के",
+      "rationale": "इब्रानी में पूरक नञ बतावल — हकइ, संका के साफ कइल गेलइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "प्रार्थना",
+      "rationale": "यहवे के सीधे पुकार — किरपा करऽ।"
+    }
+  ],
+  "translation": "यहवे, हमनी पर किरपा करऽ; हमनी तोहर बाट जोहऽ हइ; हर बिहान तोहर भुजा ⟨हमनी के⟩ होवऽ, आउ संकट के बेला हमनी के उद्धार भी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "57114b137b94ebafd6d4ba61d319adfbfcf4b9348d054fd36d09daf484ef0c9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/33\/1-4.1791999202416.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "हमनी पर किरपा करऽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "हमनी जोहऽ हइ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "होवऽ"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "भुजा"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "हर बिहान"
+    },
+    {
+      "surface": "אף",
+      "gloss": "आउ…भी"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "हमनी के उद्धार"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "बेला में"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "संकट के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:33:22.417738388Z",
+  "model": "glm-5.3"
+}

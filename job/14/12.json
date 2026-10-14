@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 14:12",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד בלתי שמים",
+      "rationale": "'जा तक अकास नञ रहऽ हइ' — मतलब अकास के खतम होवे तक; किछु अनुवाद 'अकास के बिना' बोलऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משנתם",
+      "gloss-basis": "बहुबचन 'ओकनी के नींद' के एकबचन कइल गेलइ"
+    }
+  ],
+  "translation": "तइयो आदमी लेटऽ हइ आउ उठऽ नञ — जा तक अकास नञ रहऽ हइ, ओकनी नञ जागतइ आउ ओकर नींद से नञ उठतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f5883ca82d29d0ca4117c77add83c358672af30a499eb265053c30c4111b34ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/14\/9-12.1792007327762.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "तइयो आदमी"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "लेटऽ हइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "उठऽ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जा तक"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "नञ रहऽ हइ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יקיצו",
+      "gloss": "जागतइ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "उठतइ"
+    },
+    {
+      "surface": "משנתם",
+      "gloss": "ओकर नींद से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:48:47.763383862Z",
+  "model": "glm-5.3"
+}

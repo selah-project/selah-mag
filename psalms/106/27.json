@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बिया",
+      "rationale": "זרעם के साक्षात अरथ बिया हकइ, बाकि इहाँ ओकर मतलब संतान\/खानदान हकइ"
+    }
+  ],
+  "translation": "आउ ओकनी के बिया के जाति सब के बीच गिरावे बर, आउ ओकनी के देस सब में बिखेर देवे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/106\/25-28.1792005908166.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "गिरावे बर"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "ओकनी के बिया"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जाति सब के बीच"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "ओकनी के बिखेर देवे बर"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "देस सब में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:08.167211779Z",
+  "model": "glm-5.3"
+}

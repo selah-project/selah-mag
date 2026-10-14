@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חרטומים",
+      "rationale": "चिन्हा खींचे वाला ज्योतिषी-जादूगर — मगही में एके 'ज्योतिषी लोग' धरलन।"
+    },
+    {
+      "kind": "elision",
+      "subject": "ולא יכלו",
+      "rationale": "'आउ ओकनी सकलन नञ' के जगह 'नञ पारलन' — क्षमता किरिया एके में मिला देल गेलन।"
+    }
+  ],
+  "translation": "आउ ज्योतिषी लोग आपन मंत्र-तंत्र से एहने कइलन कि ⟨את⟩ जूँ के बाहिर निकालऽ हकथिन, बाकि ओकनी नञ पारलन; आउ जूँ मनुस में आउ पसु में रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1c13e0b64070dc2cc894ae9130a1c307a107a63743ee1a56dd00a4534bbbc3d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/8\/13-16.1791988289474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "आउ कइलन"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "ज्योतिषी लोग"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "आपन मंत्र-तंत्र से"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "बाहिर निकाले बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जूँ के"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "जूँ के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "पारलन"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "आउ रहलन"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "जूँ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "मनुस में"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "आउ पसु में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:31:29.475053088Z",
+  "model": "glm-5.3"
+}

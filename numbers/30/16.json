@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "उठैतन",
+      "rationale": "נשא 'उठावे\/ढोवे' हकइ — पाप के बोझ आपन मूड़ी पर लेवे के स्थूल चित्रा"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הפר יפר",
+      "rationale": "पद 13 जइसने अनिश्चित+निश्चित क्रिया के जोड़ — 'बिलकुल तोड़ देवे'"
+    }
+  ],
+  "translation": "आउ जँ सुनला के बाद ऊ ⟨אתם⟩ तोड़ देतन, त ऊ ⟨את⟩ ओकर पाप उठैतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "722c5f42a2a4e717144969fa138bfd55839b79830edda62da925b070695ca1a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/30\/13-16.1791991741903.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जँ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "तोड़ल"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "तोड़ देतन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "तोड़े जाए वाला काम"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनला के"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "आउ उठैतन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर पाप"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ओकर पाप"
+    }
+  ],
+  "timestamp": "2026-10-14T15:29:01.904284760Z",
+  "model": "glm-5.3"
+}

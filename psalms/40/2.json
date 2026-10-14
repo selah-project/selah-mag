@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קוה קויתי",
+      "rationale": "क्रिया के दू रूप एके जड़ के — इब्रानी के जोर देवे के चाल; मगही में धैर्य धरके + जोहत रहलिये से परति देल गेलइ"
+    }
+  ],
+  "translation": "धैर्य धरके हम यहवे के बाट जोहत रहलिये, आउ ऊ हमरा दने झुकलन, आउ हमरी पुकार सुनलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f4a041793cd11dc515919b0af76eee375de4cb94fcaaa6ae4f2b7a65c0771316",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/40\/1-4.1792004994319.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "धैर्य धरके"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "जोहत रहलिये"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "झुकलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा दने"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "हमरी पुकार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:54.320745502Z",
+  "model": "glm-5.3"
+}

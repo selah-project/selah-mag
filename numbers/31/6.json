@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 31:6",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकर",
+      "rationale": "בידו में -ו प्रत्यय पहिले से 'ओकर' देत हइ — ब्रैकेट के जरूरत नञ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "तुरही",
+      "rationale": "חצוצרות बिगुल\/तुरही — इब्रानी तुरही के चीज, आधुनिक बिगुल नञ।"
+    }
+  ],
+  "translation": "आउ मोशे (मूसा) ओकनी के — हर जाति बर एक हजार — जुद्ध बर भेजलन: ⟨אתם⟩ ओकनी के आउ ⟨ואת⟩ पिनहास (फिनहास), अलेजार (एलीआजर) पुरोहित के बेटा के, जुद्ध बर; आउ पवित्तर बरतन आउ शोर-धुन बर के तुरही ओकर हाथ में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fb41bd6be292e6fa64d8bf030d7b3e4512f2729431bb1e2288a54d3f1fe39442",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/31\/5-8.1791991773606.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे (मूसा)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "हर जाति बर"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "जुद्ध बर"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "पिनहास के"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "पिनहास (फिनहास)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "अलेजार (एलीआजर)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "जुद्ध बर"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "आउ बरतन"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्तर के"
+    },
+    {
+      "surface": "וחצצרות",
+      "gloss": "आउ तुरही"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "शोर-धुन बर के"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ओकर हाथ में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:29:33.607335927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעיר מצור",
+      "rationale": "अरथ बाट: „घेराव कइल नगर” (माटो के डेरा से घेरामे वाला) बनाम KJV\/ASV के „सगल नगर” — मूल घेराव के तस्बीर हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हेसेद",
+      "rationale": "אהे एक सब्द — परेम, दया, बिस्वस सब भीतर; कोनो एक मगही सब्द कम पड़ऽ हइ।"
+    }
+  ],
+  "translation": "यहवे धन्य होवऽ — काहे कि ओकर हेसेद हमरा बर अद्भुत बनलन, घेराव कइल नगर ⟨में⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "68cb93ed3f4736f9409d2fa87775ae44f66645454f61aa0c138273ed22712673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/31\/21-24.1792004848267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "अद्भुत बनलन"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "घेराव कइल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:28.268511307Z",
+  "model": "glm-5.3"
+}

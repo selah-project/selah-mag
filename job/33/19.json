@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 33:19",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתן",
+      "rationale": "‘लगातार\/टिकल’ बनाम ‘बड़का सख्त’ — जड़ के अरथ ‘सधल, स्थिर’ हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ריב עצמיו",
+      "rationale": "शाब्दिक ‘ओकर हड्डी के झगड़ा’ — किछु अनुवादक ‘हड्डी के दर्द के भीड़’ कहऽ हथिन।"
+    }
+  ],
+  "translation": "आउ ओका ओकर बिछिया पर दुख भर बतिया से बतियावल जा हइ, आउ ओकर हड्डी सब के झगड़ा लगातार रहऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/33\/17-20.1792007712614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "बतिया से बतियावल जा हइ"
+    },
+    {
+      "surface": "במכאוב",
+      "gloss": "दुख भर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ओकर बिछिया"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "आउ…झगड़ा"
+    },
+    {
+      "surface": "עצמיו",
+      "gloss": "ओकर हड्डी सब के"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "लगातार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:55:12.615217046Z",
+  "model": "glm-5.3"
+}

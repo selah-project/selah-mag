@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 5:16",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यरूशलयिम के बेटी सब",
+      "rationale": "बोलनिहार सीधे धोनी संबोधित करैथिन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחמדים",
+      "rationale": "अधिकतम बहुवचन — 'पूरा मन-मोहक'; एकर अनुरूप रूप मगही में पूरा नञ आवै।"
+    },
+    {
+      "kind": "elision",
+      "subject": "हे",
+      "rationale": "संबोधन के रोमांच हेतु 'हे' जोड़ल गेल; इब्रानी में कोई कण नञ हइ।"
+    }
+  ],
+  "translation": "ओकर तालू मिठाई से भरल हकइ, आउ ऊ पूरा मन-मोहक हथिन — ई हकइ हमर परेमी, आउ ई हकइ हमर संगी, हे यरूशलयिम (यरूशलेम) के बेटी सब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1efefcdf6a883c2c097881099c4b572768f305ab049f4ecebff6618b5b3c62a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/5\/13-16.1792007974511.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכו",
+      "gloss": "ओकर तालू"
+    },
+    {
+      "surface": "ממתקים",
+      "gloss": "मिठाई से भरल"
+    },
+    {
+      "surface": "וכלו",
+      "gloss": "आउ ऊ पूरा"
+    },
+    {
+      "surface": "מחמדים",
+      "gloss": "मन-मोहक"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "हमर परेमी"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "आउ ई"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "हमर संगी"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटी सब"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:59:34.512628002Z",
+  "model": "glm-5.3"
+}

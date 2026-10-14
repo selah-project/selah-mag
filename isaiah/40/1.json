@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחמו נחמו",
+      "rationale": "क्रिया के दोहराव — दोहरी पुकार, मगही में दोहराव रखल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हइ⟩",
+      "rationale": "इब्रानी में क्रिया-सहायक नञ हकइ; मगही वाक्य एकरा माँगऽ हइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "धीरज देऊ",
+      "rationale": "आदेस-रूप सुनावै वाला पहिलका पद — सुनैया के सीधे बुलावा।"
+    }
+  ],
+  "translation": "धीरज देऊ, धीरज देऊ हमर लोग के — तोहनी के एलोहीम के बचन ⟨हइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2c47c8032b261dec1f5806e5a5b6003ca79c26a4981197e86ddd957385c3521a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/40\/1-4.1791999525925.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "धीरज देऊ"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "धीरज देऊ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमर लोग"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "के बचन"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T17:38:45.925823345Z",
+  "model": "glm-5.3"
+}

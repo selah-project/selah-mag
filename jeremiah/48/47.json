@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "jeremiah 48:47",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हम",
+      "rationale": "Hebrew first person in verb form already; subject pronoun supplied for Magahi clarity."
+    },
+    {
+      "kind": "substitution",
+      "subject": "शेबूत",
+      "rationale": "'captivity\/fortune' — שבות means both the exiles and the former state; rendered 'कैदी' (captives)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד הנה",
+      "rationale": "Scribal colophon marking the end of the Moab oracle — 'thus far', a boundary formula."
+    },
+    {
+      "kind": "mystery",
+      "subject": "באחרית הימים",
+      "rationale": "'in the latter days' points to an undisclosed future time of restoration."
+    }
+  ],
+  "translation": "बाकि हम मोआब के कैदी दिनन के अन्त में फेर लाबइ, यहवे के बचन। एतने मोआब के नियाव।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6cb92da64743d05447655573a1c03339e74df16f4a2bd00b78361be3c45b5f07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/48\/45-47.1792001447611.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "बाकि हम फेर लाबइ"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "कैदी"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब के"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "अन्त में"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिनन के"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "एतने"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨तक⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियाव"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:10:47.612705809Z",
+  "model": "glm-5.3"
+}

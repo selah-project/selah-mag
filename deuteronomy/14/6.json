@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מַעֲלַת גֵּרָה",
+      "rationale": "'गरह ऊपर चढ़ावऽ हइ' — चबावल दोबारा मुँह में लाना; मगही में 'गोबर चबाना' के चलनसार बात के जगह साँव चित्र रखल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "बिधान के सीधा सम्बोधन — यिस्राएल के परजा से।"
+    }
+  ],
+  "translation": "आउ हर ओ जीव-जंतु जे खुर फाड़ऽ हइ, दू खुर में फाड़ के, आउ गरह ऊपर चढ़ावऽ हइ — जीव-जंतु में ⟨את⟩ ओकरा तोहनी खा सकऽ हिअऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/14\/5-8.1791992483277.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आउ हर"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "जीव-जंतु"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "खुर-फाड़ऽ-हइ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "खुर"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "आउ-फाड़-करऽ-हइ"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "फाड़"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "खुर"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ऊपर-चढ़ावऽ-हइ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "गरह"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "जीव-जंतु-में"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खा-सकऽ-हिअऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:41:23.278374584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "तराई",
+      "rationale": "यशुआ — बचाव\/मदद\/जीत, एक्को सब्द के ढेर अरथ; 'तराई' सबसे नजदीकी सादा रूप।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "एही पद यहवे के सीधा सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "यहवे, हम तोहर तराई के बाट जोहलिएँ आउ तोहर आज्ञा सब ला पूरा केलिएँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c402f04e34d7358455eb2e7a20b694f363265af7a05473592faf51ea6042ce07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/165-168.1792006120078.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שברתי",
+      "gloss": "बाट जोहलिएँ"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "तोहर तराई के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ומצותיך",
+      "gloss": "आउ तोहर आज्ञा सब ला"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "पूरा केलिएँ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:40.079328480Z",
+  "model": "glm-5.3"
+}

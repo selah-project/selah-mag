@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "नेफेश गला-साँस-परान के बात हकइ; BSB के 'गरदन ले' के मत गोड़ के सुरुंग अरथ हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "पद सीधा एलोहीम के संबोधन हकइ — 'हमरा बचा ले'।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हमर⟩",
+      "rationale": "क्रिया के अंतर्निहित कर्ता-पूरक मगही में साफ करे बर जोड़लन।"
+    }
+  ],
+  "translation": "हमरा बचा ले, हे एलोहीम, काहे कि पानी ⟨हमर⟩ परान ले आ गेलन हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/69\/1-4.1792005378240.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "हमरा बचा ले"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आ गेलन हइ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:18.241009649Z",
+  "model": "glm-5.3"
+}

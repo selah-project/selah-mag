@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקד",
+      "rationale": "देखभाल \/ याद कइलन (jps 'remembered') \/ मुआयना कइलन — तीनो चलनसार अनुवाद हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दुख-तकलीफ",
+      "rationale": "עני के साफ चित्र 'दबाव-पीड़ा' हकइ; एके दुख-तकलीफ दुनू अंग मिला के धरल गेलइ"
+    }
+  ],
+  "translation": "आउ लोग के बिस्वास भेलन, आउ ओकनी सुनलन कि यहवे यिस्राएल के बेटासब के देखभाल कइलन रहलन, आउ कि ऊ ⟨את⟩ ओकनी के दुख-तकलीफ देखलन रहलन; आउ ओकनी मूड़ी झुकइलन आउ दण्डवत कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "85f7d06f59d3feb765454cbdf374aabcfc3d4baccdffebe5d677e9a9488625e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/4\/29-31.1791988114058.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "बिस्वास भेलन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "देखभाल कइलन रहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के बेटासब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटासब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "आउ कि"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखलन रहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दुख-तकलीफ"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "दुख-तकलीफ"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "मूड़ी झुकइलन"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "दण्डवत कइलन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:28:34.059376051Z",
+  "model": "glm-5.3"
+}

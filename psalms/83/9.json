@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "זרוע",
+      "rationale": "भुजा — बल-सहाय के रूपक; केजेभी आउ एएसभी 'holpen\/lending strength' रूपक के पिघला देलक।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גם",
+      "gloss-note": "",
+      "rationale": "'अस्सूरो' में 'भी' के अरथ मिलाने हकइ; 'अस्सूर भी' जत्थे बे-वस्थित होतइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "संगीत-विराम चिन्हा; अनुवाद नञ हो सकऽ हइ, लिप्यन्तरित रहल।"
+    }
+  ],
+  "translation": "अस्सूरो ओकनी के संग जुड़लन; ऊ लोत के बेटान के बर भुजा बनलन। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/83\/9-12.1792005553531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "अस्सूरो"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "जुड़लन"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ओकनी के संग"
+    },
+    {
+      "surface": "היו",
+      "gloss": "बनलन"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "भुजा"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटान के बर"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "लोत"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:13.532355594Z",
+  "model": "glm-5.3"
+}

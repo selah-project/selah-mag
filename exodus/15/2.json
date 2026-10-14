@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमर",
+      "rationale": "इब्रानी में 'हमर बल और हमर गीत याह है' — क्रिया आउ सम्बन्ध-सर्बनाम दुनो जोड़ल गेलन हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "וזמרת",
+      "rationale": "זִמְרָה के अरथ पर मतभेद: 'गीत\/बाजना' (LXX, अधिकतर) बनाम 'बल' (सम्राट-सब्द, Targum के पाठ)। हम 'गीत' लेनिहा हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואנוהו",
+      "rationale": "KJV 'ओकर बर घर बनाबइ' (מכנה पाठ) बनाम 'ओकरा गाबइ\/मानबइ' (LXX, अधिकतर आधुनिक)।"
+    }
+  ],
+  "translation": "याह ⟨हमर⟩ बल आउ ⟨हमर⟩ गीत हथिन; ऊ हमरा बर बचाव बनलन। ई हमर एल अइ — हम ओकरा गाबइ; हमर बाप के एलोहीम अइ — हम ओकरा ऊँच करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bdfb3a96fc3cb785010d36ed133e28ef776ab7e63c92c2856664559acd0cb367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/15\/1-4.1791988462114.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "हमर बल"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "आउ हमर गीत"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ऊ भेलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "बचाव"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमर एल"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "हम ओकरा गाबइ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमर बाप के"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "हम ओकरा ऊँच करबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:34:22.115901923Z",
+  "model": "glm-5.3"
+}

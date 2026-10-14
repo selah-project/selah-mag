@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकनी",
+      "rationale": "सिपरू के करता इब्रानी में नञ बतावल हइ; ⟨ओकनी⟩ जोड़ल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הודינו…הודינו",
+      "rationale": "“धन्यवाद…धन्यवाद” के दोहराव — इब्रानी के तानी ढाँचा।"
+    }
+  ],
+  "translation": "हमनी तोहनी के धन्यवाद करऽ हिअइ, हे एलोहीम; हमनी तोहनी के धन्यवाद करऽ हिअइ, काहे कि तोहर नाम नज़दीक हइ; ⟨ओकनी⟩ तोहर अजिब काम सब के बतावऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/75\/1-4.1792005453181.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "हमनी धन्यवाद करऽ हिअइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "हमनी धन्यवाद करऽ हिअइ"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "आउ नज़दीक"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "बतावऽ हथिन"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "तोहर अजिब काम सब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:33.181677929Z",
+  "model": "glm-5.3"
+}

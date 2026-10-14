@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבוד",
+      "rationale": "'महिमा' (KJV 'my glory') बनाम 'जीभ' (Geneva, LXX) — मूल पाठ 'काबोद' हकइ, महिमा।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "धन्यवाद",
+      "rationale": "אודך (यादा) के मूल अरथ 'फेंकना\/संग देना' हकइ; मगही में धन्यवाद कइल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "इब्रानी में बोलावे के चिन्हा नञ हइ; सम्बोधन बर हे जोड़ल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יזמרך\/ידם",
+      "rationale": "बाजा बजावे बनाम चुप रहे — गइल गीत आउ रुकल चुप्पी के टकराव, मगही में गुनगान\/चुप में आंशिक रहऽ हइ।"
+    }
+  ],
+  "translation": "एकरा चलते हमर महिमा तोहर गुनगान गावऽ हइ आउ चुप नञ रहऽ हइ; हे यहवे, हमर एलोहीम, हम सदा बर तोहर धन्यवाद करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1bb6b56875b296c3d88d4175d51e3bd256d0f31ba32a2b66edfbf9127f426eb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/30\/13-13.1792004702131.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "एकरा चलते"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "तोहर गुनगान गावऽ हइ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "हमर महिमा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "चुप रहऽ हइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "तोहर धन्यवाद करबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:05:02.132130356Z",
+  "model": "glm-5.3"
+}

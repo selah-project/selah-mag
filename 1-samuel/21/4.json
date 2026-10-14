@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "अहिमेलेख से बिनती",
+      "rationale": "दाविद के सीधा निवेदन — 'देहु, या जे मिलतइ'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पाँच रोटी",
+      "rationale": "गिनती जस के तस पार भेलन"
+    }
+  ],
+  "translation": "आउ अब तोहर हाथ के नीचे की बरत हइ? पाँच रोटी हमर हाथ में देहु, या जे मिलतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/21\/1-4.1791995529547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "יש",
+      "gloss": "बरत हइ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तोहर हाथ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "देहु"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "हमर हाथ में"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "जे मिलतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:09.548555796Z",
+  "model": "glm-5.3"
+}

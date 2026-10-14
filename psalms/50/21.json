@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the wicked",
+      "rationale": "एलोहीम दोसरा जन के सीधा तानऽ हइ — तूँ (तोहरा) रूप में।"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלה עשית והחרשתי",
+      "rationale": "JPS एकरा प्रस्न बनावऽ हइ ('के हम चुप रहब?'); हम कथन-रूप लेलियन जइसन ज्यादातर परम्परा।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היות אהיה",
+      "rationale": "एही क्रिया शेम-म-एम-वा-हे के प्रकटीकरण से गूँजऽ हइ (एह्येह असेर एह्येह); मगही में ओही गूँज नञ रहऽ हइ।"
+    }
+  ],
+  "translation": "ई सब तूँ करलक आउ हम चुप रहलियन; तूँ सोचलक कि हम तोहर जइसन हिअइ — बाकि हम तोहरा ठोकर देब आउ सब कुछ तोहर आँख के आगे जमा कर देब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "36f95caf4e7529b958f44dff04393a274d778a2b4135969277f422c071f1cb07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/50\/21-23.1792005053008.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "तूँ करलक"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "आउ हम चुप रहलियन"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "तूँ सोचलक"
+    },
+    {
+      "surface": "היות",
+      "gloss": "कि ... हिअइ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "हम"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "तोहर जइसन"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "हम तोहरा ठोकर देब"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "आउ जमा कर देब"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "तोहर आँख के आगे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:10:53.009902777Z",
+  "model": "glm-5.3"
+}

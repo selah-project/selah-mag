@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 43:14",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "कगार के नाप",
+      "rationale": "दू हाथ, चार हाथ, एक हाथ चौड़ाई — बेदी के कगार (עזרה) के नाप।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עזרह → कगार",
+      "rationale": "מלा बिल्कुल साक्षात् 'घेराव\/बाड़' हकइ; 'कगार' ओकर नाप-रोलीन चित्र देथे (bsb 'ledge')।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩",
+      "rationale": "दूसरा वाक्यांश में क्रिया जोड़ल गेल; मूल में नाप-वाक्य क्रिया-विहीन हअइ।"
+    }
+  ],
+  "translation": "आउ धरती के गोद से निचला कगार तक दू हाथ, आउ चौड़ाई एक हाथ; आउ छोटा कगार से बड़ा कगार तक चार हाथ, आउ चौड़ाई ⟨हकइ⟩ एक हाथ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "99079149b9664cb21d26999b6c55fa98dc7725cca1ac2bb6f224514b389e80c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/43\/13-16.1792002986287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומחיק",
+      "gloss": "आउ गोद"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "कगार"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "निचला"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आउ चौड़ाई"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ומהעזרה",
+      "gloss": "आउ कगार से"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "छोटा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "कगार"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आउ चौड़ाई"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "हाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:36:26.288046149Z",
+  "model": "glm-5.3"
+}

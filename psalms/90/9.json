@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הגה",
+      "rationale": "भाव-बुदबुद — ई संज्ञा तनाख़ में खाली इहेइ जगह आवऽ हइ; अनुवाद में एकर मुँह-बुदबुदावे वाला स्वरूप रखल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הגה",
+      "rationale": "पुरान अनुवादों में 'कथा' (KJV), 'विचार' (YLT), 'आह' (ASV) — जे साँस-बुदबुद के चित्र हकइ ओइसने रखलियन।"
+    }
+  ],
+  "translation": "काहे कि हमनी के सब दिन तोहर प्रचण्ड क्रोध में बीत गेलन; हमनी अपन बरिस के खतम कइलियन जइसन कोनो आह के बुदबुद।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/90\/9-12.1792005713605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "हमनी के दिन"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "बीत गेलन"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "तोहर प्रचण्ड क्रोध में"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "खतम कइलियन"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "हमनी के बरिस"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "आह के बुदबुद"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:53.605601516Z",
+  "model": "glm-5.3"
+}

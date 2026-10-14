@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 10:22",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "रहलक",
+      "rationale": "इब्रानी में किरिया नञ हइ — 'ओकर लस्कर पर एलीशामा' — मगही के बाक्य-बनावट बर कोस्ठक में जोड़ल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "छाउनी के सूची",
+      "rationale": "यात्रा-क्रम में गोत्र आउ सरदार के नाम-गिनती चललइ हे।"
+    }
+  ],
+  "translation": "आउ एफ्रायिम के बेटासब के छाउनी के निसान ओकनी के लस्कर-मोताबिक चललक, आउ ओकर लस्कर पर ⟨रहलक⟩ एलीशामा, अम्मीहूद के बेटा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0c15f53df13ebd7d8f03ea84d6bbf3d60e76f44d38c6ba23e9920d2f5dd19ab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/10\/21-24.1791990842842.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסע",
+      "gloss": "चललक"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "निसान"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "छाउनी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटासब के"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रायिम"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ओकनी के लस्कर-मोताबिक"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ ... पर"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ओकर लस्कर"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "एलीशामा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "अम्मीहूद"
+    }
+  ],
+  "timestamp": "2026-10-14T15:14:02.843700093Z",
+  "model": "glm-5.3"
+}

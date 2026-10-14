@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 3:6",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "घर",
+      "rationale": "היכל के साक्षात अरथ 'बड़ भवन \/ महल-घर' हकइ; 'मन्दिर' बाद के धरम-सब्द हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "अबहीं",
+      "rationale": "क्रिया के समय-रेखा साफ करै बर जोड़ल गेल; इब्रानी में केवल 'नञ गड़ावल गेल'।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सातवाँ महीना के पहिला दिन",
+      "rationale": "तिथि-निर्धारण — बलि-काल के गिनती।"
+    }
+  ],
+  "translation": "सातवाँ महीना के पहिला दिन से ओकनी यहवे के चढ़ाव बलि चढ़ावै सुरू करलन; बाकि यहवे के घर के नेव अबहीं नञ गड़ावल गेल हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "51a95af595ec64a53451fff6268b72a2a16b0354979a6905650df2c3a63407a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/3\/5-8.1792009353674.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיום",
+      "gloss": "…दिन से"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीना के"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवाँ"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "सुरू करलन"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "चढ़ावै बर"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "चढ़ाव बलि"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "והיכל",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "नेव गड़ावल गेल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:22:33.675120174Z",
+  "model": "glm-5.3"
+}

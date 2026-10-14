@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עבדה\/עבדתם\/עבדו",
+      "rationale": "एके जड़ 'अवद' के तीन बार दोहराव — काम-काम-कामावे के रटन, मगही में 'काम' के दोहराव से अंशतः बचलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩",
+      "rationale": "इब्रानी के अन्तिम खण्ड क्रिया-विहीन हकइ ('बेरहमी से' ही बाक्य के छोड़ देतइ), मगही क्रिया चाहऽ हइ।"
+    }
+  ],
+  "translation": "आउ ओकनी ओकनी के जिनगी कड़वाह बनइलक — कठिन काम में, गार आउ इँटा में, आउ खेत के हरेक काम में; ओकनी के सब काम जे ओकनी से करावलक, ऊ सब बेरहमी से ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f66a567ff6388e83344d6aeb1358bfbfbcfced368466e79b0389c166c671e744",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/1\/13-16.1791988022139.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "कड़वाह बनइलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के जिनगी"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "ओकनी के जिनगी"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "काम में"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "कठिन"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "गार में"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "आउ इँटा में"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "आउ हरेक"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब काम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "काम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "करावलक"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "बेरहमी से"
+    }
+  ],
+  "timestamp": "2026-10-14T14:27:02.139831137Z",
+  "model": "glm-5.3"
+}

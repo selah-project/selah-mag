@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 7:26",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרם",
+      "rationale": "चेरेम: “बर्बाद कइल \/ समर्पित कइल चीज” बनाम “सरापल चीज”; KJV “cursed”, JPS “devoted”"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקץ תשקצנו \/ תעב תתעבנו",
+      "rationale": "अनन्त-पूर्णक (infinitive absolute) के दोहराव — क्रिया बल में दुन्नो कइल; “पूरा” से देखावल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल",
+      "rationale": "इस्राएल से सीधा निषेध बात, तोहनी-सम्बोधन"
+    }
+  ],
+  "translation": "आउ तोहनी घिनौन चीज तोहर घर में नञ लाबइ, नञ तूँ ओहे जइसन बर्बाद कइल चीज बन जाइबइ; ओकरा तोहनी पूरा घिन करबइ आउ पूरा तिरस्कार करबइ, काहे कि ऊ बर्बाद कइल चीज हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d8741166ba443037ad018c83a6005eb2d9f59605f16e5bf28d46d48dc07a4bfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/7\/25-26.1791992183470.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "तोहनी लाबइ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "घिनौन चीज"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "तोहर घर"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "आउ तूँ बन जाइबइ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "बर्बाद कइल चीज"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ओहे जइसन"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घिन कर"
+    },
+    {
+      "surface": "תשקצנו",
+      "gloss": "तोहनी ओकरा घिन करबइ"
+    },
+    {
+      "surface": "ותעב",
+      "gloss": "आउ तिरस्कार कर"
+    },
+    {
+      "surface": "תתעבנו",
+      "gloss": "तोहनी ओकरा तिरस्कार करबइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "बर्बाद कइल चीज"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:36:23.471667960Z",
+  "model": "glm-5.3"
+}

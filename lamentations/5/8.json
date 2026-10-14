@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרק",
+      "rationale": "जड़ 'तोड़ना \/ झाड़ना' हकइ — इहाँ भागवाला संज्ञा या विशेषण: 'छुड़ावे वाला' बनाम 'हमनी के ओकनी के हाथ से झाड़ल गेलन'"
+    },
+    {
+      "kind": "you",
+      "subject": "हमनी",
+      "rationale": "पहिला पुरुष सामूहिक विलाप — जाति अपनहीं के संबोधित करऽ हइ"
+    }
+  ],
+  "translation": "दास सब हमनी पर राज करलन; ओकनी के हाथ से छुड़ावे वाला कोनो नञ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e4897c6c587e63c6fc9ff098eb02feddcb2cb6503c7cd2489c8e2ddd86242a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/5\/5-8.1792008312823.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "दास सब"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "राज करलन"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "हमनी पर"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "छुड़ावे वाला"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ओकनी के हाथ से"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:12.824463954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 16:19",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "गिनती के",
+      "rationale": "מספר आउ כמעט — लोग के गिनती से कमी बतावल गेल हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परदेसी",
+      "rationale": "גר ओकरा कहऽ हइ जे अस्थाई टहलैथै — 'परदेसी' ओकर नजदीकी मगही चित्र हकइ।"
+    }
+  ],
+  "translation": "जब तोहनी गिनती के मनुस रहियौ, बड़ी थोड़े, आउ ओहि में परदेसी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dbf305ca65a08a091f81c88818028dcc7e2e5e8365711583bf4575e3db36e2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/16\/17-20.1792010199669.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהיותכם",
+      "gloss": "जब रहियौ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती के"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "बड़ी थोड़े"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "आउ परदेसी"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओहि में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:36:39.670846882Z",
+  "model": "glm-5.3"
+}

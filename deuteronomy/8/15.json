@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 8:15",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נחש שרף",
+      "rationale": "'जरै वाला साँप' (साराफ — जरै वाला\/विस वाला) बनाम 'साराफ-प्राणी' — गढ़ल चित्र बनाम जिस रूप में यिस्राएल ओकरा जानऽ हलइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "जरै वाला",
+      "gloss": "",
+      "rationale": "נחש आउ שרף दू टोकन हकइ, बाकि एक्को जीव के बात हकइ; दोनो टोकन अलगे गिनाहइ।"
+    }
+  ],
+  "translation": "जे तोहरा ओ बड़ आउ डरावना जंगल में ले गेलन — साँप, जरै वाला साँप आउ बिच्छू, आउ प्यासल जगह जहाँ पानी नञ हलइ — जे तोहर बर चकमक चट्टान से पानी निकाललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dd6fbb2a5ed679a18fc009a8b9828b2fe39d80c1b2a6f547c759f1104f1e8e45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/8\/13-16.1791992236104.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המוליכך",
+      "gloss": "जे ले गेलन तोहरा"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "आउ डरावना"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "साँप"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "जरै वाला"
+    },
+    {
+      "surface": "ועקרב",
+      "gloss": "आउ बिच्छू"
+    },
+    {
+      "surface": "וצמאון",
+      "gloss": "आउ प्यासल जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "जे निकाललन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर बर"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "चट्टान से"
+    },
+    {
+      "surface": "החלמיש",
+      "gloss": "चकमक"
+    }
+  ],
+  "timestamp": "2026-10-14T15:37:16.105384294Z",
+  "model": "glm-5.3"
+}

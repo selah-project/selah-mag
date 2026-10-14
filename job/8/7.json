@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 8:7",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רֵאשִׁיתְךָ \/ אַחֲרִיתֶךָ",
+      "rationale": "सुरुआत-अन्त के जोड़ — छोटा आरम्भ, बड़ा अन्त; अनुपाल चित्र रखल गेलइ"
+    }
+  ],
+  "translation": "आउ तोहर सुरुआत नन्हा रहतइ, बाकि तोहर अन्त बहुते बढ़तइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dfe413fbc92753263dd6c5c295bde0023545c9410cf4c5314581b826b1a975d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/8\/5-8.1792007190098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "ראשיתך",
+      "gloss": "तोहर सुरुआत"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "नन्हा"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "बाकि तोहर अन्त"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "बढ़तइ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-10-14T19:46:30.099132774Z",
+  "model": "glm-5.3"
+}

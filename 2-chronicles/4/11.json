@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 4:11",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חורם \/ חיװרם",
+      "rationale": "एके आदमी के नाम के दू लिखाई हकइ — हूराम आउ हीराम — जस के तस राखल गेलइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "לעשות",
+      "rationale": "'बनाए बर' पूरा क्रिया में घुसा देल गेलइ; अलग लगभग नञ देखावल जा सकऽ हइ।"
+    }
+  ],
+  "translation": "आउ हूराम ⟨את⟩ देगची सब आउ ⟨את⟩ फावड़ा सब आउ ⟨את⟩ कटोरा सब बनइलन; आउ हीराम ओ ⟨את⟩ काम के पूरा करलक जे ऊ राजा सुलेमान (सुलैमान) बर एलोहीम के घर में बनइलक हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6f61e0638e90538c0ef142914a2d9b4251cdb6abfc5adaea92b83287633cd3c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/4\/9-12.1792010645181.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "हूराम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "देगची सब"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "देगची सब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "फावड़ा सब"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "फावड़ा सब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "कटोरा सब"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "कटोरा सब"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "पूरा करलक"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "हीराम"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "बनाए बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "काम"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलक हल"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा बर"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलेमान"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:44:05.182792920Z",
+  "model": "glm-5.3"
+}

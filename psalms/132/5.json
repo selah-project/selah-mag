@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאביר",
+      "rationale": "אביר 'महाबलवान' बनाम किछु पांडुलिपि में אבי '…के बाप' पढ़ावा जाहै।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मिश्कान",
+      "rationale": "משכनות बहुबचन हकइ ('मिश्कान सब'), एकबचन रूप में रखल गेल।"
+    }
+  ],
+  "translation": "जबतक हम यहवे बर ठाँव नञ मिलाबऽ हिअइ, याकोव (याकूब) के महाबलवान बर मिश्कान नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/132\/5-8.1792006200871.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जबतक"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "नञ मिलाबऽ हिअइ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ठाँव"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "मिश्कान"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "महाबलवान बर"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:00.872165319Z",
+  "model": "glm-5.3"
+}

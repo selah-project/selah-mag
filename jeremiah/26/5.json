@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 26:5",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बाकि",
+      "rationale": "हिब्रू में 'बाकि' नञ हइ; विरोध-सब्द जोड़ल गेल"
+    },
+    {
+      "kind": "idiom",
+      "subject": "והשכם",
+      "rationale": "'भोर-भोर उठ के' — बार-बार लगातार पठावै के इब्रानी मुहावरा"
+    }
+  ],
+  "translation": "हमरा सेवकनी — नबी सब — के बात सुने बर, जेकरा हम तोहनी लग पठावै हिअअइ, भोर-भोर उठ के पठावै-पठावै, बाकि तोहनी सुनलैं नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1899e3346f2fce31185c979409cb4b8bc58539c792b5b1db7ba2294f4a950124",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/26\/5-8.1792000806128.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "सुने बर"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "हमरा सेवकनी"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "नबी सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "पठावै हिअअइ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "तोहनी लग"
+    },
+    {
+      "surface": "והשכם",
+      "gloss": "भोर-भोर उठ के"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "पठावै-पठावै"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकि नञ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "सुनलैं"
+    }
+  ],
+  "timestamp": "2026-10-14T18:00:06.128877287Z",
+  "model": "glm-5.3"
+}

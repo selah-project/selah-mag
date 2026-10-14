@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להרבות לו",
+      "rationale": "KJV 'to increase his riches' vs JPS 'yet their gain increases' (returns to the oppressor only); taken as self-enrichment"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "להרבות \/ למחסור",
+      "rationale": "Increase-for-him set against want-only; gain and loss framed as mirror, kept by बढ़ावे vs कंगाली"
+    }
+  ],
+  "translation": "जे गरीब के दबाके आपन के बढ़ावऽ हइ, आउ जे धनी के देतइ — ऊ खाली कंगाली में गिरतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "de8831d75770576f1e06bb16dbb363391bbe0c6b65e0b9c0fc3ef89848958bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/22\/13-16.1792006856767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "दबाके"
+    },
+    {
+      "surface": "דל",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "बढ़ावे बर"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपन के"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देतइ"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "धनी के"
+    },
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "कंगाली बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:56.768807923Z",
+  "model": "glm-5.3"
+}

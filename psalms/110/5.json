@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हे⟩",
+      "rationale": "इब्रानी में क्रिया-संबंध खुला हकइ — ऊपर बैठल अदोनाय के बर मगही क्रिया चाही"
+    },
+    {
+      "kind": "crux",
+      "subject": "अदोनाय के संबंध",
+      "rationale": "अदोनाय खुद दहिने हाथ पर हथिन, या मसीह के दहिने हाथ पर अदोनाय — दुइ पढ़ाई संभव"
+    },
+    {
+      "kind": "substitution",
+      "subject": "कोप",
+      "rationale": "אף के सुभाव अरथ नथुन हकइ; मगही में कोप लेल गेलइ"
+    }
+  ],
+  "translation": "अदोनाय तोहर दहिने हाथ पर ⟨हे⟩; ऊ ओकर कोप के दिन में राजा सब के कुचल देतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/110\/5-7.1792005982291.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "तोहर दहिने हाथ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "कुचल देतइ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ओकर कोप"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:22.292306145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 15:19",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "पथ",
+      "rationale": "סללह के क्रिया-रूप (उठाइल\/चढ़ाइल) हकइ; मगही के वाक्य में संज्ञा ⟨पथ⟩ जोड़ल गेलइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "सלולה",
+      "rationale": "'उठाइल' बनाम 'समतल करल' — जेनेवा\/केजेवी 'समतल', वाईएलटी 'उठाओल'; जड़ סלल माटी उठाइल पथ के चित्र देवऽ हइ"
+    }
+  ],
+  "translation": "आलसी के रस्ता काँड़ा के बाड़ जइसन हकइ, बाकि सीधा लोग के डहर ⟨उठाइल⟩ पथ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "173c25e58a233029735c8f8bc41f3aacef86cd2baf14377cf8a7b3e33745467f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/15\/17-20.1792006751657.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आलसी के"
+    },
+    {
+      "surface": "כמשכת",
+      "gloss": "बाड़ जइसन"
+    },
+    {
+      "surface": "חדק",
+      "gloss": "काँड़ा के"
+    },
+    {
+      "surface": "וארח",
+      "gloss": "आउ डहर"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "सीधा लोग के"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "उठाइल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:11.658853904Z",
+  "model": "glm-5.3"
+}

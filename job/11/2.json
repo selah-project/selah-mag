@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איש שפתים",
+      "rationale": "'दू ओठ वाला मरद' — शब्द-बहुल आदमी; कुछ अनुवाद 'वाणी का ढेर' करत हथिन"
+    },
+    {
+      "kind": "you",
+      "subject": "अय्यूब",
+      "rationale": "त्सोफर के प्रस्न सीधा अय्यूब के ओर हइ"
+    }
+  ],
+  "translation": "की बात सब के बहुतायत के जवाब नञ देल जातइ, आउ की दू ओठ वाला मरद त्सेदेक में ठहरतइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "981e1313cc574f87ff07e6add71f20092d3aa62dbe96fab18d42c72728315703",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/11\/1-4.1792007346177.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "बहुतायत"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "बात सब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "जवाब देल जातइ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आउ की"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "दू ओठ वाला"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "त्सेदेक में ठहरतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:49:06.177952524Z",
+  "model": "glm-5.3"
+}

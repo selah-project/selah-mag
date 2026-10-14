@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आँतड़ी के",
+      "rationale": "המכסה के संदर्भ — ओढ़ाने वाला जे के ओढ़ावऽ हओकर नाम हिब्रू में एहीं छोड़ल गेलइ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "अंग-सूची",
+      "rationale": "बलि के भाग के नाम-गिनती — विधि के नियाव"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ चरबी — बैल में से आउ मेढ़ा में से: मोटी पुँछ, आउ ⟨आँतड़ी के⟩ ओढ़ाने वाला चरबी, आउ गुर्दा, आउ कलेजा के लटकल भाग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "90782fe8624baa7804f79d9147f8d2b6ee8cff8e6fc12a1403870be559b61e2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/9\/17-20.1791989713466.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "चरबी"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "השור",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आउ में से"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "मोटी पुँछ"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "ओढ़ाने वाला"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "गुर्दा"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "लटकल भाग"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "कलेजा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:55:13.467607195Z",
+  "model": "glm-5.3"
+}

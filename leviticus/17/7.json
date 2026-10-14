@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשעירם",
+      "rationale": "पुरान अनुवादक मतभेद के जगह: 'देव' (KJV), 'बकरा' (YLT), 'साँयर\/बकरा-रूपी आत्मा' (JPS) — मूल 'लोमश बकरा' के जड़ हकइ; 'बकरा-परी' लिखल।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "זנים אחריהם",
+      "rationale": "'ओकर पाछे वेश्यागमन करना' — मूर्ति-पूजा बर तनाख़ के थिर मुहावरा; चित्र जस के तस रखल गेल।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "חקת עולם לדרתם",
+      "rationale": "बिधान के समय-हद 'सदा, पीढ़ी-दर-पीढ़ी' तय कइल गेल हइ।"
+    }
+  ],
+  "translation": "आउ ओकनी आगू अपन ⟨את⟩ बलि ओकनी के बकरा-परी के बर नञ काटतइ, जेकरा पाछे ऊ व्यभिचार करऽ हथिन; ई ओकनी बर ओकनी के खान-पीनी बर सदा के बिधान रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "de48ba182fb91562d1681de799cd0dbc1ad5ec98604db5f6aa1bb830053597a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/17\/5-8.1791990096561.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "काटतइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगू (कहियो)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन बलि"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "अपन बलि"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "ओकनी के बकरा-परी के बर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "व्यभिचार करऽ हथिन"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "पाछे"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "बिधान"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा के"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी बर"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ओकनी के खान-पीनी बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:01:36.562704236Z",
+  "model": "glm-5.3"
+}

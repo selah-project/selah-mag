@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "निछतरी-विभाजन",
+      "rationale": "परिवार के मोताबिक जमीन के बाँट के बिबरन हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ראש",
+      "rationale": "יִגְבֹּל जड़ 'रस्सी कइसन ऐँठना' से हकइ — सीमा-डोर के चित्र; 'सीमा बनलन' में ई चित्र पातर भेल।"
+    }
+  ],
+  "translation": "आउ यर्देन ओकरा ⟨את⟩ पूरुब दने सीमा बनलन; ई बिन्यामीन के बेटा सब के निछतरी हकइ, ओकर सीमा सब चारो दने, ओकर परिवार सब के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cf02e485a02661b11115b5f02878afda27816d41497292750fb7347dbfdb1836",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/18\/17-20.1791993664124.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "आउ यर्देन"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "सीमा बनलन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (बिन्यामीन के निछतरी)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "दने"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूरुब"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "निछतरी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन के"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "ओकर सीमा सब"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ओकर परिवार सब के मोताबिक"
+    }
+  ],
+  "timestamp": "2026-10-14T16:01:04.125879420Z",
+  "model": "glm-5.3"
+}

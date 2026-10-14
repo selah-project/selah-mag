@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 3:13",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נצב\/עומד",
+      "rationale": "दू 'ठाढ़ होना' क्रिया जोड़ी-रूप में दोहराहइ — अदालत के ठाढ़ होवे के तस्वीर।"
+    },
+    {
+      "kind": "you",
+      "subject": "जनता के सरदार",
+      "rationale": "यहवे अदालत में लोग आउ ओकर सरदार के सोझे ठाढ़ होवऽ हइ।"
+    }
+  ],
+  "translation": "यहवे बिबाद बर ठाढ़ हथिन, आउ लोग के नियाव बर खड़ा हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2c751c9c671026c82246b4efc5cba8065fb7d9fced03901563d71dc233dde11a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/3\/13-16.1791998612183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצב",
+      "gloss": "ठाढ़ हथिन"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "बिबाद बर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "आउ खड़ा"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "नियाव बर"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T17:23:32.184153977Z",
+  "model": "glm-5.3"
+}

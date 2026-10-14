@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 131,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "पूरा यिस्राएल के सीधा सम्बोधन।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "יחל",
+      "rationale": "आज्ञा-वाचा: आस रखऽ — पूरा पद बोलावऽ हकइ।"
+    }
+  ],
+  "translation": "यिस्राएल (इस्राएल), यहवे के आस रखऽ, अबहीं से आउ सदा-सरमा ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1c0cb547ae6b76470ef40cc8726145e6975bbcec089364c071e37d7b93009b6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/131\/1-3.1792006190997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "आस रखऽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "अबहीं से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ ले"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा-सरमा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:50.998032761Z",
+  "model": "glm-5.3"
+}

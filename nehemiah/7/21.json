@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "अठानवे",
+      "rationale": "गिनती के जाँच-परति — आटेर के घराना के गिनती।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨के⟩",
+      "rationale": "ल- prefixed name के संग जोड़-सब्द मगही में चाही।"
+    }
+  ],
+  "translation": "आटेर के बेटा, चिज्कियाह के ⟨के⟩, अठानवे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e43be7a4b9fe96d8f545352bcab581dbe7bbcfe06ced033d209a6ab571e9c80b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/7\/21-24.1792009638426.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "आटेर"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "चिज्कियाह के"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "नब्बे"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आउ आठ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:27:18.426822746Z",
+  "model": "glm-5.3"
+}

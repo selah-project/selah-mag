@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "את פניו",
+      "rationale": "मुँह धरना — इब्रानी के 'set the face toward' के चाल; मगही में ओहे चित्र रखल गेल हए।"
+    },
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "पनीव में अपन के संदर्भ साफ बर जोड़ल गेल।"
+    }
+  ],
+  "translation": "आउ ऊ भाग गेलन — ऊ आउ जे कुछो ओकर हलइ — आउ ऊ उठलन आउ ⟨את⟩ नदी पार करलन आउ ⟨את⟩ अपन मुँह गिलाद पहाड़ के दने धरलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2563c0468bcb8f61be021f965948fba2d004a6d214c6cab9a4baae5471a5edf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/31\/21-24.1791987267269.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "भाग गेलन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "पार करलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नदी"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "धरलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन मुँह"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "अपन मुँह"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद"
+    }
+  ],
+  "timestamp": "2026-10-14T14:14:27.270178193Z",
+  "model": "glm-5.3"
+}

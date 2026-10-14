@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "रोपे\/उखाड़े",
+      "rationale": "לטעת आउ לעקור ठीक उलटा जोड़ी हकइ; नियत-समय के सूची के बनावट।"
+    }
+  ],
+  "translation": "जनमे के समय, आउ मरे के समय; रोपे के समय, आउ रोपल ⟨चीज⟩ के उखाड़े के समय।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/3\/1-4.1792008355352.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "जनमे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आउ मरे के समय"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मरे के"
+    },
+    {
+      "surface": "עת",
+      "gloss": "रोपे के समय"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "रोपे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आउ उखाड़े के समय"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "उखाड़े के"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "रोपल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:55.353602225Z",
+  "model": "glm-5.3"
+}

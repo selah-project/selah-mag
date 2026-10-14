@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "जंगल",
+      "rationale": "במדבר पालन-भूमि\/सूख जमीन हकइ; मगही में 'जंगल' निकटतम सुभाविक सब्द"
+    }
+  ],
+  "translation": "आउ जे ऊ तोहनी बर जंगल में कइलन, जेतना तक तोहनी एहि जगह ले अइलऽ —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "354792534ee2a2461143150fd65bd7a61da97ea72e11b6624757dbcd66290e81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/11\/5-8.1791992309457.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "आउ जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जेतना तक"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "तोहनी अइलऽ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एहि"
+    }
+  ],
+  "timestamp": "2026-10-14T15:38:29.458358777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "राजा बनावे बर",
+      "rationale": "राज्याभिषेक के बिधि — सब यिस्राएल के इकट्ठा के राजा चुने के घटना।"
+    },
+    {
+      "kind": "elision",
+      "subject": "שכם दु बेर",
+      "rationale": "इब्रानी शेकेम नाम दु बेर दोहरावऽ हइ; मगही बिना दोहरावे सुभाविक लगऽ हइ।"
+    }
+  ],
+  "translation": "आउ रहबआम शेकेम चल गेलन, काहे कि ⟨את⟩ ओकरा राजा बनावे बर शेकेम में सब यिस्राएल अइलन हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fd9e5648a40a5506a1d86ad29f3a01d1533b18ced9cb6d487483583c9110ad3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/10\/1-4.1792010835775.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "चल गेलन"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबआम"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "शेकेम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शेकेम"
+    },
+    {
+      "surface": "באו",
+      "gloss": "अइलन हल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "राजा बनावे बर"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकरा",
+      "marks": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:47:15.776154684Z",
+  "model": "glm-5.3"
+}

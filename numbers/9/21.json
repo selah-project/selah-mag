@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 9:21",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונעלה…ונסעו",
+      "rationale": "चढ़ना-धरकना के जोड़ तीन बेर दोहरावल गेलइ; मगही में ओही दोहराव रखल गेलइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "समय",
+      "rationale": "साँझ-से-भोर, दिन-रात के समय-नाप के गिनती।"
+    }
+  ],
+  "translation": "आउ कखनो अइसनो होवऽ हलइ कि बादल साँझ से भोर ले रहितइ; आउ जब बादल भोर में चढ़ितइ, तब ओनी धरकितथिन; चाहे दिन होवे चाहे रात, जब बादल चढ़ितइ, तब ओनी धरकितथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "38c39f8b9a4fd10b9a325922c4113513bcda7254630d243d9fca0cfc0328f59a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/9\/21-23.1791990865803.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "आउ कखनो अइसनो होवऽ हलइ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहितइ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "साँझ से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "आउ चढ़ितइ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "भोर में"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "तब ओनी धरकितथिन"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "चाहे रात"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "चढ़ितइ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "तब ओनी धरकितथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:14:25.803913084Z",
+  "model": "glm-5.3"
+}

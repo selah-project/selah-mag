@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 23:16",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "त्सोर के",
+      "rationale": "वेश्या के रूप में त्सोर के ले आदेश — ले, घूमऽ, गाबै।"
+    },
+    {
+      "kind": "you",
+      "subject": "त्सोर के (वेश्या रूप में)",
+      "rationale": "स्त्री-रूप के सीधा संबोधन — 'तूँ फेर से याद अइबै'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשכחה\/תזכרי",
+      "rationale": "बिसरल गेल बनाम याद अइबै — ओही उल्टा पद 15 में बिसरने के जगह लेवऽ हइ।"
+    }
+  ],
+  "translation": "वीणा ले, नगर में घूमऽ, हे बिसरल गेल वेश्या; ढीरे से बजाबै, ढेर गीत गाबै, काहे कि तूँ फेर से याद अइबै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "55c261131dfbbb23620c228e788c4477ab817ae41d967429cd8f6bcbbe3ffe23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/23\/13-16.1791999038489.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "ले"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "वीणा"
+    },
+    {
+      "surface": "סבי",
+      "gloss": "घूमऽ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "वेश्या"
+    },
+    {
+      "surface": "נשכחה",
+      "gloss": "बिसरल गेल"
+    },
+    {
+      "surface": "היטיבי",
+      "gloss": "ढीरे से बजाबै"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "बजाबै"
+    },
+    {
+      "surface": "הרבי",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत गाबै"
+    },
+    {
+      "surface": "למען",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "याद अइबै"
+    }
+  ],
+  "timestamp": "2026-10-14T17:30:38.490817397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאשרי",
+      "rationale": "From אשר 'call happy\/bless': either 'those who call this people blessed' (flatterers) or 'its leaders (the ones esteemed)'; KJV 'lead', JPS 'lead', ylt keeps 'eulogists'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאשרי \/ מאשריו",
+      "rationale": "Same root active and passive back-to-back: the blessers mislead, the blessed are swallowed — pun lost in most renderings."
+    }
+  ],
+  "translation": "काहे कि ई लोग के धन्य-कहै वाला ओकरा बिचला दे हऽ हइ, आउ ओकर धन्य-कहल जाय वाला निगलल जा हऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "42ca7d0bca494e704e552907524bdd4fd1cd418ef68f4569c31a7e8e373fbe14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/9\/13-16.1791998764462.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "काहे कि भेलन"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "धन्य-कहै वाला"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "बिचला दे हऽ हइ"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "आउ ओकर धन्य-कहल जाय वाला"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "निगलल जा हऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:26:04.463238447Z",
+  "model": "glm-5.3"
+}

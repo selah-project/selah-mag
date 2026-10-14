@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "כמעט",
+      "rationale": "'थोड़े में ही' (छोट बेर में) के अरथ में लिया गेल; कुछ पाठक 'लगभग' के तुलना-अरथ ले सकऽ हथिन।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אשיב ידי",
+      "rationale": "'हाथ फेरऽ' — इब्रानी के बिरोध में हाथ घुमावे के मुहावरा, मगही में तस के तस बनल।"
+    }
+  ],
+  "translation": "तुरते ही हम ओकनी के दुसमन के झुका देतहुँ, आउ ओकनी के पीड़ा देवै वाला पर हम हाथ फेर लेतहुँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/81\/13-16.1792005519656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "तुरते ही"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ओकनी के दुसमन"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "झुका देतहुँ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ ऊपर"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ओकनी के पीड़ा देवै वाला"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "फेर लेतहुँ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हम हाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:39.657401519Z",
+  "model": "glm-5.3"
+}

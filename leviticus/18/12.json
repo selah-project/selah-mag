@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שאר",
+      "rationale": "'मांस' (शरीर के गोश्त) बनाम 'गोद के अपन' — केजेवी\/जेपीएस 'नज़दीकी रिश्तेदार' कहऽ हथिन; इब्रानी शब्द के साफ अरथ 'मांस' हकइ, जस के तस रखलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "हिब्रू में क्रिया नञ हकइ; 'हथिन' जोड़लइ"
+    }
+  ],
+  "translation": "तोहर बाप के बहिन के नंगताई तूँ नञ खोलबे, काहे कि ऊ तोहर बाप के मांस हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/18\/9-12.1791989979258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नंगताई"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "बहिन"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहर बाप"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तूँ खोलबे"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहर बाप"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ...हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:59:39.259236093Z",
+  "model": "glm-5.3"
+}

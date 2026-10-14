@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 14:8",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨कहितइ⟩",
+      "rationale": "इब्रानी में 'कहना' नञ हइ; गाछ के बोली सीधे शुरू होवऽ हइ — मगही पढ़निहार बर सेतु जोड़ल गेल।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ברושים",
+      "rationale": "बरोज के पहिचान अनिश्चित हकइ — सरू या जुनिपर प्रकार के गाछ।"
+    },
+    {
+      "kind": "you",
+      "subject": "बेबीलोन के राजा",
+      "rationale": "गाछ सीधे मरल राजा से बोलऽ हइ — 'तूँ', 'तोहरा', 'हमनी लग'।"
+    }
+  ],
+  "translation": "सरू के गाछ सब आउ तोहरा खातिर खुस हलन, लेबानोन (लेबनान) के देवदार ⟨कहितइ⟩: जाहे से तूँ सोवलक, काटए वाला हमनी लग नञ अवै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "07c977385d7b59558e92bc3fbceea69f239d8635ff3966db3fe7ac4bd4ff2e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/14\/5-8.1791998770907.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "सरू के गाछ सब"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "खुस हलन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा खातिर"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "देवदार"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "लेबानोन के"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "जाहे से"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "तूँ सोवलक"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "अवै"
+    },
+    {
+      "surface": "הכרת",
+      "gloss": "काटए वाला"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी लग"
+    }
+  ],
+  "timestamp": "2026-10-14T17:26:10.908166912Z",
+  "model": "glm-5.3"
+}

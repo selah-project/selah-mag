@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 11:12",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "कנ्तת",
+      "rationale": "इब्रानी के अरथ „पंखा“ हकइ (तिरिछा के पंखा जइसन); चलनसार „कोना“ परति-परम्परा के अनुवाद हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נדחי \/ נפצות",
+      "rationale": "दुनु शब्द दुनु जाति बर मिलत-जुलत पर अलग चित्र देत हइ — धपेट के हटाएल बनाम बिखराएल।"
+    }
+  ],
+  "translation": "आउ ऊ जाति सब बर झंडा उठाबइ, आउ यिस्राएल के धपेटाएल लोग के जुटाबइ, आउ यहूदा के बिखरल लोग के धरती के चार पंखा से एकट्ठा करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "40ad29122bc801ab7c835e82fd8e3a800f1174ce92c6bcc5b7ddf1f553f906dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/11\/9-12.1791998787187.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "आउ उठाबइ"
+    },
+    {
+      "surface": "נס",
+      "gloss": "झंडा"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "जाति सब बर"
+    },
+    {
+      "surface": "וא׸ף",
+      "gloss": "आउ जुटाबइ"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "धपेटाएल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "ונפצות",
+      "gloss": "आउ बिखरल"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "एकट्ठा करबइ"
+    },
+    {
+      "surface": "מארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "पंखा से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:26:27.189230447Z",
+  "model": "glm-5.3"
+}

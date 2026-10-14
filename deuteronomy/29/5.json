@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी में क्रिया-संबंधी बतावै बर कोनो 'होना' क्रिया नञ हकइ, मगही के ओकर जरूरत हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "मोशे यिस्राएल के परजा के सीधे सम्बोधन करऽ हथिन — 'तोहनी खइलहुँ'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "शेखर",
+      "rationale": "שכर जादे गरम नसावै बर मद हकइ; 'नसावै बर मद' ओकर जाति बतावऽ हइ"
+    }
+  ],
+  "translation": "रोटी नञ खइलहुँ, आउ अंगूरी मद आउ नसावै बर मद नञ पीलहुँ — काहे कि जानबउ कि हम यहवे, तोहनी के एलोहीम हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3ff286b507b05a5626bad7cbdae800b9101d58252de0e53c40754f216738c457",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/29\/5-8.1791992896390.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "खइलहुँ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "आउ अंगूरी मद"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "आउ नसावै बर मद"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "पीलहुँ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "जानबउ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T15:48:16.391339212Z",
+  "model": "glm-5.3"
+}

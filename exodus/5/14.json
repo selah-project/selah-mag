@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 5:14",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "परसो-पहिले",
+      "rationale": "כתמול שלשם lit. 'as yesterday, day-before-yesterday' — an adverbial 'as heretofore' needing a comparison word in Magahi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם … גם",
+      "rationale": "Repeated 'also … also' = 'both yesterday and today'; the doubling is kept with आउ\/अइसने."
+    },
+    {
+      "kind": "you",
+      "subject": "दबाव डालए वाला लोग के बोली",
+      "rationale": "Direct interrogative address to the beaten officers."
+    }
+  ],
+  "translation": "आउ यिस्राएल (इस्राएल) के बेटाके अधिकारी, जेकरा फिरऊन के दबाव डालए वाला लोग ओकनी के ऊपर रखलन हलइ, मारल गेलन हलइ, कहऽ हइ — काहे तोहनी अपन हिस्सा ईँट बनावे में नञ पूरा करलक, जइसन परसो आउ काल्हि, अइसने आज?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2d83b7706d744ba687459704a748093de7e85eba92d083d95fac01e8da448f74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/5\/13-16.1791988124785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "मारल गेलन हलइ"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "अधिकारी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…के बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "रखलन हलइ"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ओकनी के ऊपर"
+    },
+    {
+      "surface": "נגשי",
+      "gloss": "दबाव डालए वाला"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरऊन के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "पूरा करलक"
+    },
+    {
+      "surface": "חקכם",
+      "gloss": "तोहनी के हिस्सा"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ईँट बनावे में"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "जइसन परसो-पहिले"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "परसो"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…आउ"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "काल्हि"
+    },
+    {
+      "surface": "גם",
+      "gloss": "अइसने"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-10-14T14:28:44.786812686Z",
+  "model": "glm-5.3"
+}

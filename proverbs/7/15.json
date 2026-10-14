@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לשחר",
+      "rationale": "साक्षात 'भोर होवे से पहिले खोजे' — जल्दी-जल्दी, लगन से; मगही में 'खोजे बर' लील गेल"
+    }
+  ],
+  "translation": "एही से हम तोहर बिछइल निकललिए, तोहर मुँह खोजे बर, आउ तोहा पाइ लिए।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "923b0451f9b7c1218cfc070d4fa8bd0d2ebd13a24ce53b0c22dd2767c56714eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/7\/13-16.1792006552701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨एही से⟩"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "निकललिए"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "तोहर बिछइल"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "खोजे बर"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहर मुँह"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "तोहा पाइ लिए"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:52.702087149Z",
+  "model": "glm-5.3"
+}

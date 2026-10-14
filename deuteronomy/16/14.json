@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 16:14",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨भीतर⟩",
+      "rationale": "इब्रानी के बेमान 'बद्य' के अरथ साफ करे बर जोड़ल"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "पद तोहनी से सीधा बोलऽ हइ"
+    }
+  ],
+  "translation": "आउ तूँ खुस होबइ अपन परब में — तूँ, आउ तोहर बेटा, आउ तोहर बेटी, आउ तोहर नौकर, आउ तोहर नौकरानी, आउ लेवी, आउ परदेसी, आउ अनाथ, आउ बिधवा, जे तोहर दुआरी ⟨भीतर⟩ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ab5d566bbf5199655fc1b950b918386902035b849b4b9c5bf70a841b345469c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/16\/13-16.1791992467384.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמחת",
+      "gloss": "आउ तूँ खुस होबइ"
+    },
+    {
+      "surface": "בחגך",
+      "gloss": "अपन परब में"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "आउ तोहर बेटा"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "आउ तोहर बेटी"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "आउ तोहर नौकर"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "आउ तोहर नौकरानी"
+    },
+    {
+      "surface": "והלוי",
+      "gloss": "आउ लेवी"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "आउ परदेसी"
+    },
+    {
+      "surface": "והיתום",
+      "gloss": "आउ अनाथ"
+    },
+    {
+      "surface": "והאלמנה",
+      "gloss": "आउ बिधवा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "तोहर दुआरी में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:41:07.384855847Z",
+  "model": "glm-5.3"
+}

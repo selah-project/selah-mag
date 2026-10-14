@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 12:6",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨जे हम⟩",
+      "rationale": "हिन्दी-मगही के पूरक सर्बनाम; इब्रानी खाली क्रिया रखऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויועץ \/ נועצים",
+      "rationale": "एके जड़ यעץ के दोहराव — सल्लाह लेब आउ सल्लाह देब के प्रतिध्वनि।"
+    },
+    {
+      "kind": "you",
+      "subject": "बुढ़वा लोग",
+      "rationale": "राजा ओ बुढ़वा लोग के सीधे सवाल पूछऽ हइ।"
+    }
+  ],
+  "translation": "आउ राजा रेहबाम ⟨את⟩ ओ बुढ़वा लोग के संग सल्लाह कइलन जे ओकर बाप शलोमो के जीवते रहते ⟨את⟩ मुँह के सामने खाली रहथिन, कहैत: तोहनी कइसने सल्लाह देतऽ हउ ⟨जे हम⟩ ई लोग के ⟨את⟩ जवाब देइ? — बात।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "30d70d1fb0c486f1c3829de05a3c22163f03a07de20eb51b51440ed5ebd9a2bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/12\/5-8.1791997217683.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "सल्लाह कइलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रेहबाम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ बुढ़वा लोग"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "बुढ़वा लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहथिन"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "खाली रहथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मुँह"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह के सामने"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ओकर बाप"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "जीवते रहते"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवते"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहैत"
+    },
+    {
+      "surface": "איך",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "सल्लाह देतऽ हउ"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "जवाब देइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई लोग"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    }
+  ],
+  "timestamp": "2026-10-14T17:00:17.684179025Z",
+  "model": "glm-5.3"
+}

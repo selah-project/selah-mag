@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "यात्रा के बात",
+      "rationale": "इब्रानी क्रिया नञ रखऽ हइ; कोनो क्रिया जोड़ल नञ — गिनती आउ रस्ता बहीं ठाढ़ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ग्यारह दिन",
+      "rationale": "दूरी दिन में नापल गेलन"
+    }
+  ],
+  "translation": "ग्यारह दिन होरेब से सेइर पहाड़ के रस्ता होके कादेश बार्नेअ तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/1\/1-4.1791991966739.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ग्यारह (एक)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(दस)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "होरेब से"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "कादेश"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "बार्नेअ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:32:46.739869188Z",
+  "model": "glm-5.3"
+}

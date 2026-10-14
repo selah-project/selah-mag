@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "किरमिज",
+      "rationale": "תולעת השनי के शब्दशः अरथ 'केंजुआ (रंग के किरमी) के लाल' हकइ — किरमी से निकलल लाल रंग।"
+    }
+  ],
+  "translation": "आउ हर ओ जनाना जे हिरदय के चतुर हलथिन, ओकर हाथ से सूत कातलन, आउ ओन्ही कातल सूत ले अइलन — ⟨את⟩ नील, आउ ⟨את⟩ बैंगनी, ⟨את⟩ किरमिज, आउ ⟨את⟩ महीन सनी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9bfee707a3aadb4d0f766b8030ffa0c068b883e12485322e31b4d79248048805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/35\/25-28.1791989237685.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आउ हर"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "चतुर"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "ओकर हाथ से"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "सूत कातलन"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "आउ ले अइलन"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "कातल सूत"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नील"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "नील"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "बैंगनी"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "बैंगनी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "किरमिज"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "किरमिज"
+    },
+    {
+      "surface": "השני",
+      "gloss": "लाल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "महीन सनी"
+    },
+    {
+      "surface": "השש",
+      "gloss": "महीन सनी"
+    }
+  ],
+  "timestamp": "2026-10-14T14:47:17.686364833Z",
+  "model": "glm-5.3"
+}

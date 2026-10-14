@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "החסד",
+      "rationale": "हेसेद लिप्यन्तरित रखल गेल; कोनो एक मगही सब्द ओकरा घटा देतइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (v10 मियादी)",
+      "rationale": "सर्बनाम 'तूँ' हकइ, DOM चिन्हा नञ"
+    },
+    {
+      "kind": "you",
+      "subject": "बोअज → रूत",
+      "rationale": "सीधा संबोधन"
+    }
+  ],
+  "translation": "आउ ओ कहलन, “यहवे के ओर से तूँ असीसवाली हऽ, हमर बेटी; तूँ आपन हेसेद बाद वाला पहिले वाला से बढ़िया कइली — जवान मरद के पाछे नञ गेली, चाहे ओ गरीब होवे, चाहे धनी।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ruth\/3\/9-12.1792008101770.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ ओ कहलन"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "असीसवाली"
+    },
+    {
+      "surface": "את",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के ओर से"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "हमर बेटी"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "बढ़िया कइली"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "तोहर हेसेद"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "बाद वाला"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिले वाला"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "जे नञ"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "गेली"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "जवान मरद"
+    },
+    {
+      "surface": "אם",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "דל",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आउ चाहे"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "धनी"
+    }
+  ],
+  "timestamp": "2026-10-14T20:01:41.771414562Z",
+  "model": "glm-5.3"
+}

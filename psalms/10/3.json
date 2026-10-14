@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובצע ברך",
+      "rationale": "‘हलकामी धन्नवावऽ हइ’ बनाम kjv ‘ऊ धन्नवावऽ हइ जेकर यहवे नफरत करऽ हइ’ — के के धन्नवावऽ हइ, ई बड़ झगड़ा हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברך \/ נאץ",
+      "rationale": "धन्नवाद आउ तिरस्कार के टकराव — आसीस के सब्द तिरस्कार के बगल में, व्यंग्य के जोड़ी"
+    }
+  ],
+  "translation": "काहे कि दुष्ट अपन परान के चाह पर डींग मारऽ हइ, आउ हलकामी के धन्नवावऽ हइ — ऊ यहवे के तिरस्कार करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/10\/1-4.1792004566210.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "डींग मारऽ हइ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "चाह"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "अपन परान के"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "हलकामी"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "धन्नवावऽ हइ"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "तिरस्कार करऽ हइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:46.212106896Z",
+  "model": "glm-5.3"
+}

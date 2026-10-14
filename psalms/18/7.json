@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमर",
+      "rationale": "אלהי के संग पुरुष-प्रत्यय (हमर एलोहीम) — पहिलौका पढ़निहार के नियन 'हमर' देखावऽ हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "महल",
+      "rationale": "היכל — मन्दिर नञ (ओ पाछे बनलइ), महल\/बड़का घर के चित्र रखलइ"
+    }
+  ],
+  "translation": "संकट में हम यहवे के पुकारलन, आउ हमर एलोहीम के हम गहराहट माँगलन; ऊ हमर बोली अपन महल से सुनलन, आउ हमर गहराहट ओकर नियन ओकर कान में पुँजलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/18\/5-8.1792004634004.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "संकट"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "पुकारलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ...के"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "गहराहट माँगलन"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "अपन महल से"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "हमर बोली"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "आउ हमर गहराहट"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकर नियन"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "पुँजलइ"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "ओकर कान में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:54.005546939Z",
+  "model": "glm-5.3"
+}

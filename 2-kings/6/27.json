@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 6:27",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל יושעך יהוה",
+      "rationale": "'मत — यहवे तोहरा बचावऽ' (अभिस्वीकार) बनाम KJV के 'जँ यहवे तोहरा नञ बचावतइ' (सस्तेपन) — दुनो पढ़ाई परम्परा में चलन में हइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "希伯来否定词 אל 在反问中未单独译出，并入条件句式"
+    }
+  ],
+  "translation": "ऊ कहलन — यहवे तोहरा बचावतइ त हम कते से तोहरा बचाबइ? खलियान से या अंगूर-पीरा से?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1c6f1a96d620082cfdd351ca1709737b16e15d2b76f3a607175a588ee22557fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/6\/25-28.1791997788826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ ऊ कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "יושעך",
+      "gloss": "तोहरा बचावतइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "कते से"
+    },
+    {
+      "surface": "אושיעך",
+      "gloss": "तोहरा बचाबइ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "⟨के⟩ खलियान से"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "खलियान"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "अंगूर-पीरा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:09:48.827011028Z",
+  "model": "glm-5.3"
+}

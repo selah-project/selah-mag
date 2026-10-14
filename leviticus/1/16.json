@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מראתו",
+      "rationale": "'फुस्रा' (कण्ठ-थैली) बनाम 'मल-मूत्र' (Targum, LXX के अनुसरण में) — ASV 'crop with the filth thereof'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सूरुज उगे के दने",
+      "rationale": "קדמה के साक्षात अरथ 'पूरुब दने' हकइ; पूरुब = सूरुज उगे के दिसा"
+    },
+    {
+      "kind": "substitution",
+      "subject": "राख",
+      "rationale": "הדשן के साक्षात अरथ 'चिकनाहट \/ राख' हकइ"
+    }
+  ],
+  "translation": "आउ ओ ओकर फुस्रा पंख-पर संग हटा देतन आउ ओकरा बेदी के ओर, सूरुज उगे के दने, राख के जगह में फिंक देतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/1\/13-16.1791989475886.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "आउ हटा देतन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर फुस्रा"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "ओकर फुस्रा"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "पंख-पर संग"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "आउ फिंक देतन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "सूरुज उगे के दने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "राख के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:51:15.887234291Z",
+  "model": "glm-5.3"
+}

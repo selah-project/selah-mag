@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 32:14",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "करता",
+      "rationale": "वाक्य के करता छिपल हइ — 'ऊ' (अय्यूब) बनाम 'तोहनी' — केजेवी\/यल्त 'ऊ', जिनेवा 'तोहनी'; 'ऊ' लेलियन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "इब्रानी करता छोड़ देलक हइ, संदर्भ से ब्रैकेट-बिना 'ऊ' धरलियन।"
+    }
+  ],
+  "translation": "आउ ऊ हमरा बात नञ सजौलक; आउ तोहनी के बात से हम ओकर जवाब नञ देबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "63590c2346f64a465b88e631266c6be14919feb59bb413133f67a56388e27aee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/32\/13-16.1792007695874.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "सजौलक"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "बात"
+    },
+    {
+      "surface": "ובאמריכם",
+      "gloss": "आउ तोहनी के बात से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "ओकर जवाब देबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:54:55.875715380Z",
+  "model": "glm-5.3"
+}

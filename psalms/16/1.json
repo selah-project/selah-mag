@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מכתם",
+      "rationale": "अस्पस्ट सब्द — 'खुदाई कइल लेख' भा 'सोना के गाछा' के अरथ लोग बतावऽ हइ; मिख्ताम लिप्यन्तरन रखलन।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to El",
+      "rationale": "बाक्य एल से सीधा अरजी हकइ — 'हमर रखवारी करऽ'।"
+    }
+  ],
+  "translation": "मिख्ताम, दाविद (दाऊद) के बर। एल, हमर रखवारी करऽ — काहे कि हम तोहरा में शरण लेलही।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/16\/1-4.1792004551070.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "मिख्ताम"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद (दाऊद) के बर"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "हमर रखवारी करऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "हम शरण लेलही"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:31.071407958Z",
+  "model": "glm-5.3"
+}

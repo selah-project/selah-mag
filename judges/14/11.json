@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "तीस संगी",
+      "rationale": "गिनती — तीस — अगिला पद के दाँव (तीस कुरता) से जुड़ल हकइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "िहरामी 'संग' के संग आलेफ-ताव चिन्हा रखल गेल हे; साफ अरथ 'संग' हकइ।"
+    }
+  ],
+  "translation": "आउ जे होवऽ हलइ — जब ओकनी ओकरा देखलन, तब ओकनी तीस संगी लेलन, आउ ओकनी ओकर ⟨את⟩ संग रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5b3cd8011f84065c5861ecb67106067882703d3d0dbd50ca9bf2cc315353b85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/14\/9-12.1791994385038.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ जे होवऽ हलइ"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "जब ओकनी देखलन"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ओकनी लेलन"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "संगी"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ओकनी रहलन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ संग"
+    }
+  ],
+  "timestamp": "2026-10-14T16:13:05.040012062Z",
+  "model": "glm-5.3"
+}

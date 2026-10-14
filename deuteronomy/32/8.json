@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 32:8",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני ישראल",
+      "rationale": "मसोरिक पाठ 'यिस्राएल के बेटा' हकइ; कुमरान (4QDeut) आउ LXX 'एलोहीम के बेटा' (देवता-पुत्र) पढ़ऽ हइ — ई पद गिनती के ताला कुंजी हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "गिनती आउ सीमा",
+      "rationale": "जाति के सीमा गिनती के मोताबिक ठाढ़ होवऽ हइ — नाप-जोख के पद।"
+    },
+    {
+      "kind": "addition",
+      "subject": "(सबसे ऊँच एल)",
+      "rationale": "एल एल्योन के पहिला आगमन — कोस्ठक में अरथ, अनुसासन के मोताबिक।"
+    }
+  ],
+  "translation": "जब एल एल्योन (सबसे ऊँच एल) जाति सब के बँटलन, जब आदमी के बेटा सब के अलग कइलन, तब ऊ लोगन के सीमा ठाढ़ कइलन — यिस्राएल (इस्राएल) के बेटा के गिनती के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/32\/5-8.1791993033403.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהנחל",
+      "gloss": "जब बँटलन"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल एल्योन"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "בהפרידו",
+      "gloss": "जब अलग कइलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "יצב",
+      "gloss": "ठाढ़ कइलन"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "लोगन के"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "गिनती के मोताबिक"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T15:50:33.404148374Z",
+  "model": "glm-5.3"
+}

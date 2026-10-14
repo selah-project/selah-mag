@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 36:28",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "दू तख्ता",
+      "rationale": "कुनिया के तख्ता के गिनती — दू"
+    },
+    {
+      "kind": "crux",
+      "subject": "בירכתים",
+      "rationale": "KJV 'दू काता में' बनाम JPS\/ASV 'पिछाड़ी में' — द्विबचन के दुहराव दू कुनिया के ओर इसारा करऽ हइ"
+    }
+  ],
+  "translation": "आउ मिश्कान के कुनिया बर, पिछाड़ी के दूनो कुनिया में, दू तख्ता बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5c989036cdd483609883608c8d9a616fcad9bccd7c5e33d0d49ffb73b71bc5af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/36\/25-28.1791989272442.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "तख्ता"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "कुनिया बर"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मिश्कान"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "पिछाड़ी के दू कुनिया में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:47:52.443883382Z",
+  "model": "glm-5.3"
+}

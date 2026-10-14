@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "निक-मन",
+      "rationale": "תם के अरथ 'पूरापन, भोलापन, निर्दोसता' हकइ — एके सब्द पूरा अरथ नञ धर पावऽ हइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "यहवे से प्रार्थना",
+      "rationale": "छुड़ाऽ आउ किरपा करऽ के आज्ञा-रूप बिनती"
+    }
+  ],
+  "translation": "बाकि हम अपने निक-मन से चलबइ; हमरा छुड़ा आउ हम पर किरपा कर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8abf0f1c75d1ad7f331abc0dd0de1a9916fb9243d0c731aa7052472fa2c06bb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/26\/9-12.1792004710557.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "बाकि हम"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "अपने निक-मन से"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "चलबइ"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "हमरा छुड़ा"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "आउ हम पर किरपा कर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:05:10.558015370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאלתיו \/ שמואל",
+      "rationale": "'हम ओकरा माँगलिए' — שׁאל (माँगना) आउ शमूएल के नाम के संग ध्वनि-खेल; इब्रानी के ओही जोड़ 1:27 तक चलऽ हइ, मगही में माँगना-शब्द एके रहल।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "दिन के घुमाव",
+      "rationale": "לתקפות हालाँकि 'घुमाव\/चक्कर' हकइ; किछु पढ़निहार एकरा 'नियत समय' के रूप में ले हथिन।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दिन के घुमाव",
+      "rationale": "काल के गिनती — गर्भ के पूरा समय बीतल पर जनम भेल।"
+    }
+  ],
+  "translation": "आउ दिन के घुमाव में हन्ना गर्भवती भेलक, आउ एक बेटा जनलक; आउ ओ ⟨את⟩ ओकर नाम शमूएल धरलक, काहे कि यहवे सँग हम ओकरा माँगलिए।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "98f8a4ad51bf32b36f257cf442f46f7d6c1377bf8de5278c8360a8957cc8a78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/1\/17-20.1791994794758.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेलक"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "दिन के घुमाव में"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "आउ गर्भवती भेलक"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "हन्ना"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "आउ जनलक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "आउ धरलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमूएल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "यहवे सँग"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "हम ओकरा माँगलिए"
+    }
+  ],
+  "timestamp": "2026-10-14T16:19:54.759827792Z",
+  "model": "glm-5.3"
+}

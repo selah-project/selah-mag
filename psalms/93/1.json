@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבש…לבש",
+      "rationale": "क्रिया के दोहराव — पइरलन हकइ दू बेर — इब्रानी के जोड़ के तान बनावऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी क्रिया हकइ काल के बनावट में बस्त्र-पहिरावे के अरथ गिरऽ हइ; मगही के सहायक क्रिया जोड़ल गेल।"
+    }
+  ],
+  "translation": "यहवे राज करऽ हथिन; ऊ प्रताप के बस्त्र पइरलन हकइ — यहवे शक्ति के बस्त्र पइरलन हकइ, ओकरा से कमर कसलन हथिन — हाँ, संसार टिकल हकइ, ओ कतए नञ हड़कतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/93\/1-4.1792005759742.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज करऽ हथिन"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "प्रताप"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "बस्त्र पइरलन हकइ"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "बस्त्र पइरलन हकइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עז",
+      "gloss": "शक्ति"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "कमर कसलन हथिन"
+    },
+    {
+      "surface": "אף",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "टिकल हकइ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "संसार"
+    },
+    {
+      "surface": "בל",
+      "gloss": "कतए नञ"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "हड़कतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:39.743133268Z",
+  "model": "glm-5.3"
+}

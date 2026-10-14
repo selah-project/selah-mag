@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 28:2",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מור לראשי",
+      "rationale": "'हमर मूड़ी के रखवार' — असल मुहावरा, अंगरक्षक के बात; शब्द-ब-शब्द राखल गेल"
+    },
+    {
+      "kind": "alternative",
+      "subject": "दाविद के जवाब",
+      "rationale": "दाविद के बात जिज्ञासा होवे या अनुरोध — 'तूँ जानबइ जे तोहर नौकर करतइ' दुनों ढंग से पढ़ल जा सकऽ हइ"
+    }
+  ],
+  "translation": "आउ दाविद आखीस से कहलन: एही से तूँ जानबइ ⟨את⟩ जे तोहर नौकर करतइ। आउ आखीस दाविद से कहलन: एही से हम तोहरा हमर मूड़ी के रखवार बर राखबइ हर दिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/28\/1-4.1791995735627.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "आखीस"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "जानबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे तोहर नौकर करतइ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "तोहर नौकर"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "आखीस"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "रखवार"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "हमर मूड़ी बर"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "तोहरा राखबइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:35:35.628053314Z",
+  "model": "glm-5.3"
+}

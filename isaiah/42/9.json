@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "नया बात",
+      "rationale": "नया घोसना पहिले से बतावल जा रहलइ — जे अबहीं नञ उगलइ, ओकर अगम-बात।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी के",
+      "rationale": "यहवे सीधे सुनै वाला ⟨את⟩-चिन्हित लोग के संबोधन करऽ हथिन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באו\/תצמחנה",
+      "rationale": "आयल बात आउ उगत बीजा के जोड़ी — घटना आउ गाछ दुनों के बिंब, मगही में किछु बचलइ।"
+    }
+  ],
+  "translation": "देखऽ, पहिला बात आ गेलन, आउ नया बात हम बतावऽ हइ — ओकर उगै से पहिले हम ⟨את⟩ तोहनी के सुनाबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "283b51a72dc1ace145851846f3e4ecab8c5d3280644b94ba304ac661891ebf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/42\/9-12.1791999426357.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "पहिला बात"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आ गेलन"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "आउ नया बात"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "बतावऽ हइ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "से पहिले"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "उगै"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "सुनाबइ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:37:06.358296729Z",
+  "model": "glm-5.3"
+}

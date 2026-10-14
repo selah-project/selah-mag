@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बुर नीयत",
+      "rationale": "זמה is 'mischievous plan\/device', rendered as wicked intent"
+    },
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "subject pronoun supplied; Hebrew leaves the pursuers implicit"
+    }
+  ],
+  "translation": "नजदीक अइलन ऊ जे बुर नीयत के पीछा करऽ हथिन; तोहर तोरा से ऊ दूर हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "095bfc6b39d8c6e216e1e9ef7ab9b851811cace04c81f0bdcaa2b77d9df919ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/149-152.1792006096474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "नजदीक अइलन"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "जे… पीछा करऽ हथिन"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "बुर नीयत"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "तोहर तोरा से"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "दूर हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:16.474868015Z",
+  "model": "glm-5.3"
+}

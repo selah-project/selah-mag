@@ -1,0 +1,143 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המלוא",
+      "rationale": "'मिल्लो' के मतलब मतभेद हकइ — ढिलान, गढ़ के माटी-भराव, या नगर के किला; नाम जस के तस रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "העלה",
+      "gloss_context": "לבנות",
+      "rationale": "मूल क्रिया 'चढ़लन' हकइ; बेगारी के संदर्भ में 'लगायलन' (उठायलन) धरल गेल।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "बेगारी के लेखा",
+      "rationale": "ई तोरा के बरताव-लेखा के सुरुआत हकइ — गिनती आउ नाम-सूची के ढाँचा।"
+    }
+  ],
+  "translation": "आउ ई हकइ ओ बेगारी के बात जे राजा सुलेमान लगायलन — ⟨את⟩ यहवे के घर, आउ ⟨את⟩ अपन घर, आउ ⟨את⟩ मिल्लो, आउ ⟨את⟩ यरूशलयिम के दीवार, आउ ⟨את⟩ हात्सोर, आउ ⟨את⟩ मगिद्दो, आउ ⟨את⟩ गेज़र बनाबै बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8c94d4a9b62792e2a226d9a5c0d9621e259ca33b1b3a0f207237ea81904eb57f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/9\/13-16.1791997104565.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "आउ ई"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "המס",
+      "gloss": "बेगारी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "लगायलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलेमान"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनाबै बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "अपन घर"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "अपन घर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "मिल्लो"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "मिल्लो"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "यरूशलयिम के दीवार"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "हात्सोर"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "हात्सोर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "मगिद्दो"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "मगिद्दो"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "गेज़र"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "गेज़र"
+    }
+  ],
+  "timestamp": "2026-10-14T16:58:24.566940840Z",
+  "model": "glm-5.3"
+}

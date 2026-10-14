@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאלו \/ שלום \/ ישליו",
+      "rationale": "श-ल जड़ के तीन रूप — माँगऽ, सांति, सुखी — के शब्द-खेल मगही में पूरा नञ आवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישליו",
+      "rationale": "शाला के यिस्-रूप: 'सुखी रहथिन' (कामना) बनाम 'सुखी होतथिन' (भबिस-बतवाही)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "तीर्थयात्री सब खातिर",
+      "rationale": "पूरा पद आज्ञा-रूप में सुनै वाला के बोलावऽ हइ"
+    }
+  ],
+  "translation": "यरूशलयिम (यरूशलेम) के सांति माँगऽ; तोहरा परेम करै वाला सब सुखी रहथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/122\/5-8.1792006216811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "माँगऽ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "सुखी रहथिन"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "तोहरा परेम करै वाला सब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:16.812214216Z",
+  "model": "glm-5.3"
+}

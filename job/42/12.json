@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "चौदह हजार भेड़",
+      "rationale": "पशु-धन के पूरा गिनती — 14000 भेड़, 6000 ऊँट, 1000 जोड़ बैल, 1000 गधिनी — पहिले वाला गिनती (अध्याय 1) के ठीक दुगुना।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "जोड़",
+      "rationale": "צמד — 'जूँवा\/जोड़' के माप-सब्द, हल के बेदी के बिधान बर भी प्रयुक्त; 'जोड़' ओकर आकार रखऽ हइ।"
+    }
+  ],
+  "translation": "आउ यहवे इय्योब के ⟨את⟩ आखिरी दिन के ओकर सुरुआत से बेसी असीस देलन; आउ ओकरा चौदह हजार भेड़, आउ छह हजार ऊँट, आउ हजार जोड़ बैल आउ हजार गधिनी भेल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a960b02eaf6dc25d26ec0a01424a845c6203eeb4c868bb9eeb53f1e88252881e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/42\/9-12.1792008007065.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "असीस देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इय्योब के आखिरी दिन"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "आखिरी दिन"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "इय्योब के"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "ओकर सुरुआत से बेसी"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "आउ छह"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "ऊँट"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "आउ हजार"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "जोड़"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "आउ हजार"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "गधिनी"
+    }
+  ],
+  "timestamp": "2026-10-14T20:00:07.066854313Z",
+  "model": "glm-5.3"
+}

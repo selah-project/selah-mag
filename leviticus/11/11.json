@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שקץ\/תשקצו",
+      "rationale": "एक्के जड़ के दो रूप — घिन (नाम) आउ घिन मानब (क्रिया) — मगही में जड़-मेल रखल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "निसेध सीधे तोहनी से — मत खाब, घिन मानब।"
+    }
+  ],
+  "translation": "आउ ऊ तोहनी बर घिन रहतइ; ओकर मांस मत खाब आउ ⟨את⟩ ओकर मरल लास घिन मानब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "babfaf4812f00d69ea3fb919034ae612c3dba15a23c38b8285a92fba21785235",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/11\/9-12.1791989694409.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "आउ घिन"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ओकर मांस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर मरल लास"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ओकर मरल लास"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "घिन मानब"
+    }
+  ],
+  "timestamp": "2026-10-14T14:54:54.410213465Z",
+  "model": "glm-5.3"
+}

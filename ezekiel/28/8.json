@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומתה ממותי",
+      "rationale": "'मौत-मौत' — बहुबचन जोड़बद्ध रूप; 'मौत मरबइ' बनाम 'मौतन मे मौत' दुनो पढ़ावा मिलऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלל",
+      "rationale": "छुरा-मारल — वू पहिले वाला किरिया (וחללו) के जड़ संग जुड़ल हकइ"
+    }
+  ],
+  "translation": "गड्ढा-लोक में ऊ तोहरा नाम देतइ, आउ तूँ समुंदर के हिरदय में छुरा-मारल मरैया के मौत-मौत मरबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c6d64305b394125e266ebc9c699602790a8c614fbf09aa73164c54f213c801e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/28\/5-8.1792002469706.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "गड्ढा-लोक में"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "तोहरा नाम देतइ"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "मरबइ"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "मौत-मौत"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "छुरा-मारल"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "के हिरदय में"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "समुंदर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:27:49.707649086Z",
+  "model": "glm-5.3"
+}

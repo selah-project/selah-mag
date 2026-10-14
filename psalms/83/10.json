@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "עשה להם",
+      "rationale": "परमेश्वर से सीधा अनुरोध — कर्म के बिनती, पूरा पद एक्को बिनती हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחל",
+      "rationale": "'नदी के तीरे' — मूल 'नहल' बरसाती धारा हकइ; 'के तीरे' के जोड़ स्थान-भाव बर।"
+    }
+  ],
+  "translation": "ओकनी बर करऽ — मिद्यान नियर, जइसन सिसरा, जइसन याबिन, किशोन नदी के तीरे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/83\/9-12.1792005553531.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी बर"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "मिद्यान नियर"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "जइसन सिसरा"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "जइसन याबिन"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "नदी के तीरे"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "किशोन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:13.532555496Z",
+  "model": "glm-5.3"
+}

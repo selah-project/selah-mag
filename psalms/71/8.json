@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमर",
+      "rationale": "इब्रानी में खाली 'मुँह' हइ; पहिलौका पढ़निहार के बर सर्बनाम जोड़ल गेलइ"
+    }
+  ],
+  "translation": "भर जावऽ हमर मुँह तोहर महिमा-गीत से, दिन-भर तोहर सोभा से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/71\/5-8.1792005321022.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "भर जावऽ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "हमर मुँह"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "तोहर महिमा-गीत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "दिन-भर"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "तोहर सोभा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:21.023068578Z",
+  "model": "glm-5.3"
+}

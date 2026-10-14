@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 44:16",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "पहरा",
+      "rationale": "משמרתי के संग नियाव के रूप में 'हमर पहरा' — शबר-שמר के एके जड़ के दुहराव (רשמרו…משמרתי) मगही में रखवारी\/पहरा के जोड़ी से लौटावल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "बर",
+      "rationale": "לשרतני के infini¬tive बर 'करे बर' जोड़ल गेलइ, मगही के बनावट एकरा माँगऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושמרו\/משמרתי",
+      "rationale": "एके जड़ שמर के दू बेर — क्रिया आउ ओकर काम दुनो; मगही में रखवारी करना \/ पहरा से चिन्हा बाने रहऽ हइ।"
+    }
+  ],
+  "translation": "ऊए अइअतइ हमर पवित्तर जगह में, आउ ऊए पहुँचतइ हमर खाना के मेज के लगे हमर सेवा करे बर, आउ ऊए रखवारी करतइ हमर ⟨את⟩ पहरा के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8f7367f4438f3fd5c9b3d1468c8c153122023762d9e96706ffa6d7f002484fe9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/44\/16-16.1792011932034.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ऊए"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "अइअतइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "हमर पवित्तर जगह"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "आउ ऊए"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "पहुँचतइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगे"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "हमर खाना के मेज"
+    },
+    {
+      "surface": "לשרתני",
+      "gloss": "हमर सेवा करे बर"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "आउ रखवारी करतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर पहरा"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "हमर पहरा"
+    }
+  ],
+  "timestamp": "2026-10-14T21:05:32.034617479Z",
+  "model": "glm-5.3"
+}

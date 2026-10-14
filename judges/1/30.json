@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "कर-बेगार",
+      "rationale": "למס is forced-labor tribute, a burden of corvée, not ordinary tax"
+    }
+  ],
+  "translation": "ज़ेबूलून ⟨את⟩ कित्रोन के रहए वाला आउ ⟨את⟩ नहलोल के रहए वाला के खदेड़लन नञ, आउ कनानी ओकर बीच में रहलइ आउ ओ कर-बेगार बन गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "675c1e7abe6427963a3a2b0cafd907c1789438b44ad8c46743cdae32ad2a4f47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/1\/29-32.1791993906287.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "ज़ेबूलून"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "खदेड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कित्रोन के रहए वाला"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "रहए वाला"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "कित्रोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "नहलोल के रहए वाला"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "रहए वाला"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "नहलोल"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "रहलइ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "कनानी"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ओकर बीच में"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "बन गेलन"
+    },
+    {
+      "surface": "למס",
+      "gloss": "कर-बेगार"
+    }
+  ],
+  "timestamp": "2026-10-14T16:05:06.288212956Z",
+  "model": "glm-5.3"
+}

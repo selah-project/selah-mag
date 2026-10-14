@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 36:32",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "पाँच शिकंजा ×2",
+      "rationale": "दोसर काति आउ पाछाँहि बर शिकंजा के गिनती।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ימה",
+      "rationale": "मूल अरथ 'समुंदर दने' — कनान में समुंदर पच्छिम में हलइ, एहे से पच्छिम दने।"
+    }
+  ],
+  "translation": "आउ पाँच शिकंजा मिश्कान के दोसर काति के पट्टा बर, आउ पाँच शिकंजा मिश्कान के पट्टा बर पाछाँहि के — पच्छिम दने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6a3b8ebaf56c4fa1757c3cfbc7b831b16826c7bbf5f050d4c4e5f0b9ca1736d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/36\/29-32.1791989313018.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "आउ पाँच"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "शिकंजा"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "पट्टा बर"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "काति"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मिश्कान के"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "दोसर"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "आउ पाँच"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "शिकंजा"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "पट्टा बर"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मिश्कान के"
+    },
+    {
+      "surface": "לירכתים",
+      "gloss": "पाछाँहि के"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पच्छिम दने"
+    }
+  ],
+  "timestamp": "2026-10-14T14:48:33.019062920Z",
+  "model": "glm-5.3"
+}

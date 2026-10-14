@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी में क्रिया नञ हकइ — 'हमर आँख तोहरा दने' केरा बर क्रिया जोड़ल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש श्वास\/जीवन-शक्ति हकइ, देह-बाहरी आत्मा नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद सीधे यहवे के सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "काहे कि हे यहवे, हे अदोनाय, हमर आँख तोहरा दने ⟨हथिन⟩; तोहरा में हम शरण लेलन हए; हमर परान नञ ढारऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/141\/5-8.1792006335946.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहरा दने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "हमर आँख"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "तोहरा में"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "शरण लेलन हए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ढारऽ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:32:15.947337162Z",
+  "model": "glm-5.3"
+}

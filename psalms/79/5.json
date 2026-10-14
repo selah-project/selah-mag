@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨के⟩",
+      "rationale": "Magahi needs the dative\/possessive link Hebrew's infinitive construct carries by form"
+    },
+    {
+      "kind": "crux",
+      "subject": "לנצח",
+      "rationale": "'for ever' vs 'to the end\/goal' — the noun's root is a distant bright object, a goal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קנאתך",
+      "rationale": "קנאה is jealousy\/zeal; क्रोध (wrath) narrows the picture of possessive burning ardour"
+    },
+    {
+      "kind": "you",
+      "subject": "to ׯहवे",
+      "rationale": "direct cry of lament to YHWH"
+    }
+  ],
+  "translation": "कब तक, हे यहवे? तूँ ⟨के⟩ अनन्त तक गुस्सा करबइ? तोहर क्रोध आग जइसन जरतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "15a0883b600fa9aa4aceb3a70cbf18f2add7ec6a9f697d6a881499ad8fa30ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/79\/5-8.1792005550774.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "कब तक"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨कब तक⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "गुस्सा करबइ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "अनन्त तक"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "जरतइ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "तोहर क्रोध"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:10.775546730Z",
+  "model": "glm-5.3"
+}

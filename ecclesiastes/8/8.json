@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "रूआख",
+      "rationale": "'बतास\/साँस' के अरथ — कइसनका मौत के समय के साँस बा, या आत्मा; रूआख रूप दुनो छुअने रहथिन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "משלחת",
+      "rationale": "'छुटकारा' के दुइ अरथ: जुध से मुक्ति या अइसन भेजल जे जुध से भागे; कइसनका दुइउ पढ़ावा।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בעליו — मालिक",
+      "rationale": "'ओकर मालिक' मतलब जे बुराई करऽ हइ (बुराई के मालिक)।"
+    }
+  ],
+  "translation": "अइसन कोनो मनुस नञ हकइ जे रूआख पर ठाढ़ हो के ⟨את⟩ रूआख के रोके; आउ मौत के दिन में कोनो अधिकार नञ हकइ; आउ जुध में कोनो छुटकारा नञ हकइ; आउ बुराई ⟨את⟩ अपन मालिक के नञ बचातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "56a3026b6825d76560ccd71f2baf9a4a0c548ba5efe2520948e03917e6f3f2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/8\/5-8.1792008491526.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "नञ हकइ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "ठाढ़ हो के…रोके"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "रूआख पर"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "रोके"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रूआख के"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "रूआख के"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ हकइ"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "अधिकार"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "המות",
+      "gloss": "मौत के"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ हकइ"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "छुटकारा"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "जुध में"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "बचातइ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन मालिक के"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "अपन मालिक के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:08:11.527467689Z",
+  "model": "glm-5.3"
+}

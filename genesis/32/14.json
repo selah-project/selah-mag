@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 32:14",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מנחה",
+      "rationale": "Rendered भेंट (gift), not मिन्हा — here it is a gift to a man, not a sacrifice."
+    },
+    {
+      "kind": "addition",
+      "subject": "चीज",
+      "rationale": "'that which came to his hand' needs a head-noun in Magahi."
+    }
+  ],
+  "translation": "आउ ऊ ओही रात ओहिजा रुकलक, आउ अपन हाथ में आवल चीज में से लेलक ⟨एक⟩ भेंट, अपन भाय एसाव (एसाव) बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0510c9471e08f565c2ef9784eaaf82992bc4227044b9bd0283a69b7ca8849c05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/32\/13-16.1791987253351.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילן",
+      "gloss": "आउ ऊ रुकलक"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजा"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "आउ लेलक"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "आवल"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "अपन हाथ में"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "एसाव बर"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "अपन भाय"
+    }
+  ],
+  "timestamp": "2026-10-14T14:14:13.352301207Z",
+  "model": "glm-5.3"
+}

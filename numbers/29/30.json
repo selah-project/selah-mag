@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 29:30",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "गिनती के मोताबिक",
+      "rationale": "भेंट के मात्रा गिनती से तय होवऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "पियावे के भेंट",
+      "rationale": "נסך तरल बलि (मद\/पानी) हकइ; मगही में ओकर सुभाव बतावल गेल।"
+    }
+  ],
+  "translation": "आउ ओकनी के मिन्हा आउ ओकनी के पियावे के भेंट — बैल बर, मेढ़ा बर आउ मेमना बर — ओकनी के गिनती के मोताबिक, नियाव के मोताबिक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "21497654e5542d7a6447446d8b9eb8bba94230e7d5c019cd06be247291811304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/29\/29-32.1791991598170.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "आउ ओकनी के मिन्हा"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "आउ ओकनी के पियावे के भेंट"
+    },
+    {
+      "surface": "לפרים",
+      "gloss": "बैल बर"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "मेढ़ा बर"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "आउ मेमना बर"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "ओकनी के गिनती के मोताबिक"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "नियाव के मोताबिक"
+    }
+  ],
+  "timestamp": "2026-10-14T15:26:38.170959135Z",
+  "model": "glm-5.3"
+}

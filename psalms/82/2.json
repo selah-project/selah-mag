@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "मुँह उठाना",
+      "rationale": "ופני ... תשאउ शाब्दिक 'मुँह उठाब' — पक्षपात देखावे के इब्रानी चाल।"
+    },
+    {
+      "kind": "you",
+      "subject": "देवता सब के",
+      "rationale": "सीधा सम्बोधन — नियाव करे वाला देवता सब के ओर।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "प्रस्न",
+      "rationale": "'कब तक' के प्रस्न पढ़निहार के घचीघची में खींचऽ हइ।"
+    }
+  ],
+  "translation": "कब तक तोहनी अनियाव करब, आउ बुरा लोग के मुँह ⟨तोहनी⟩ उठाब? सेलाह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fd0b5a856df469a1725c7e70f3e40706c44adbb9d2a44daed8d77efdac23230a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/82\/1-4.1792005569993.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कब"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "नियाव करब"
+    },
+    {
+      "surface": "עול",
+      "gloss": "अनियाव"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "आउ के मुँह"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बुरा लोग के"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "उठाब"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेलाह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:29.994101624Z",
+  "model": "glm-5.3"
+}

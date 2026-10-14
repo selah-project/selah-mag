@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बतास",
+      "rationale": "यिशתेकू के करता हिब्रू पाठ में नञ हइ; संदर्भ से समुंदर के बतास साफ करे बर जोड़ल गेल।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מחוז",
+      "rationale": "माखोज़ — बंदरगाह — तनाख़ में कुछेक जगह; बंद किनारे के बंदरगाह के तस्बीर।"
+    }
+  ],
+  "translation": "आउ ऊ मन खुस होलन काहे कि बतास थिर भ' गेलन, आउ ऊ ⟨ओकनी के⟩ लंग अइलन ओकनी के मन के चाह के बंदरगाह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/107\/29-32.1792005953814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "आउ ऊ मन खुस होलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "बतास थिर भ' गेलन"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "लंग अइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के तरफ"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "बंदरगाह"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "ओकनी के मन के चाह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:53.814721984Z",
+  "model": "glm-5.3"
+}

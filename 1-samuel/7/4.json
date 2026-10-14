@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "बालिम \/ अस्तारोत",
+      "rationale": "दोनो देवता के नाम के बहुबचन रूप हकइ; नाम जस के तस रहल।"
+    }
+  ],
+  "translation": "आउ यिस्राएल के बेटा सब बालिम ⟨את⟩ आउ अस्तारोत ⟨ואת⟩ के हटान, आउ यहवे ⟨את⟩ के अकेले के सेवा कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "82bf4cc362d47d076227c6d60fb60d9f18f9d866641eab4f0559b09e12a3bce9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/7\/1-4.1791994988141.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "हटान"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बालिम"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "बालिम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अस्तारोत"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "अस्तारोत"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "सेवा कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "अकेले के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:23:08.142987146Z",
+  "model": "glm-5.3"
+}

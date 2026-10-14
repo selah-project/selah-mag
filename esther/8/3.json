@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחשבתו \/ חשב",
+      "rationale": "‘ओकर चाल, जे ऊ रचलक’ — इब्रानी में ओहे जड़ माखशब्तो\/खसब के दोहराव हे; मगही में चाल-रचना के जोड़ी ओकर नजदीक हे।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हटा देल जा",
+      "rationale": "להעביר शाब्दिक अरथ ‘पार करा’; मगही में ‘हटा देल’ सुभाविक चाल हे।"
+    }
+  ],
+  "translation": "आउ एस्तेर फेर राजा के सोझा बात कहलथिन, आउ ओकर गोड़ पर गिरलथिन आउ रोवलथिन आउ ओकरा बिनती कहलथिन जे हामान हआग्गी के बुराई के ⟨את⟩ आउ ओकर चाल ⟨את⟩, जे ऊ यहूदी सब के बिरुद्ध रचलक हल, हटा देल जा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0edfa482f3bfde3e61c6d5b1db39bfe3c0a5003b70fe8b6654a0e80be976d17c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/8\/1-4.1792008716920.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "बात कहलथिन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सोझा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "गिरलथिन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "पर"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ओकर गोड़"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "रोवलथिन"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "बिनती कहलथिन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "हटा देल जा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बुराई"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "המן",
+      "gloss": "हामान"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "हआग्गी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "चाल"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "ओकर चाल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "रचलक"
+    },
+    {
+      "surface": "על",
+      "gloss": "बिरुद्ध"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "यहूदी सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:11:56.921926759Z",
+  "model": "glm-5.3"
+}

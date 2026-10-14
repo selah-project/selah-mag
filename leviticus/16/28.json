@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ו אחרי כן",
+      "rationale": "'एकरा बाद' में כן के अरथ पहिले शब्द में मिल गेलन; अलग शब्द के जरूरत नञ पड़ल"
+    }
+  ],
+  "translation": "आउ जे ओकनी के जरतइ ऊ ⟨אתם⟩ ओकर कपड़ा धोतइ आउ ⟨את⟩ ओकर मांस पानी में धोतइ, आउ एकरा बाद ऊ डेरा में अइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0f6d8bf77077f86897720c9059ce3f4c68f1b45c8d074a519075b5c784d8bfd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/16\/25-28.1791990076284.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "आउ जे जरतइ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ओकनी"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "धोतइ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ओकर कपड़ा"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "आउ धोतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर मांस"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ओकर मांस"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी में"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "आउ एकरा बाद"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "अइतइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "डेरा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:01:16.285881611Z",
+  "model": "glm-5.3"
+}

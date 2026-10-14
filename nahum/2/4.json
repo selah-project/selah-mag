@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 2:4",
+  "book": "nahum",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פלדות",
+      "rationale": "tanakh में खाली इहे जगह — 'लोहा के तकती' या 'जरै वाली मसाल', अरथ खुलल नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "והברשים הרעלו",
+      "rationale": "'देवदार (के भाला) लहरावल गेलन' बनाम 'काँपलन' — राजन के भाला बूझ के या गाछ बूझ के, अनुवादक में मतभेद।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "बे दिन \/ तैयारी के दिन",
+      "rationale": "पद एक निश्चित दिन के गिनती के हवाला देऽ हइ।"
+    }
+  ],
+  "translation": "ओकर बहादुर लोग के ढाल लाल कइल गेलन; बलवान लोग लाल कपड़ा में; ओकर तैयारी के दिन रथ सब आग के लोहा-तकती जइसन; आउ देवदार के डाल सब लहरावल जा रहलइ हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "38c2876ced16c4635f0d33d963cc787fde68183e71cc97c0959f233d7d05e586",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nahum\/2\/1-4.1792003930771.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגן",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "גבריהו",
+      "gloss": "ओकर बहादुर लोग"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "लाल कइल गेलन"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "מתלעים",
+      "gloss": "लाल कपड़ा में"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग के"
+    },
+    {
+      "surface": "פלדות",
+      "gloss": "लोहा-तकती जइसन"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "रथ सब"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "तैयारी के"
+    },
+    {
+      "surface": "והברשים",
+      "gloss": "आउ देवदार के डाल सब"
+    },
+    {
+      "surface": "הרעלו",
+      "gloss": "लहरावल जा रहलइ हे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:52:10.772697986Z",
+  "model": "glm-5.3"
+}

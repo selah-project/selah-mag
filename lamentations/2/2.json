@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 2:2",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נאות",
+      "rationale": "'बासा' बनाम 'चरागाह\/सुन्दर जगह' — केकरो पर निगले के असर देखावल गेलइ ओकरो पहिचान के सवाल।"
+    },
+    {
+      "kind": "elision",
+      "subject": "כל",
+      "rationale": "'सब' ओकरो बड़का विस्फोटक बल — हर चीज बाँचल नञ — के कारण अगले पद में दोहरावल जइतै।"
+    }
+  ],
+  "translation": "अदोनाय निगल लेलन, दया नञ करलन — ⟨את⟩ याकोव के सब बासा; क्रोध में यहूदा के बेटी के गढ़ ढहा देलन, धरती तक पहुँचा देलन; राज आउ ओकर सरदार के अपवित्तर कर देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4021fe51af953ffa93d017a256291638f701a29cd755eb0b387b1c2559deba96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/2\/1-4.1792008283874.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "निगल लेलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "दया करलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याकोव के सब बासा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "बासा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव के"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "ढहा देलन"
+    },
+    {
+      "surface": "בעברתו",
+      "gloss": "क्रोध में"
+    },
+    {
+      "surface": "מבצרי",
+      "gloss": "गढ़"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी के"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "पहुँचा देलन"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती तक"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "अपवित्तर कर देलन"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "राज"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "आउ ओकर सरदार के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:04:43.875868910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וירפו ידיו",
+      "rationale": "idiom: hands slackened, i.e. lost courage; rendered literally to keep the picture"
+    },
+    {
+      "kind": "addition",
+      "subject": "तखन",
+      "rationale": "wayyiqtol sequence marked with a connector the Hebrew carries in the verb form"
+    }
+  ],
+  "translation": "आउ शाउल के बेटा सुनलक जे अब्नेर हेब्रोन में मर गेलक, तखन ओकर दूनो हाथ ढीला हो गेलन, आउ पूरा यिस्राएल घबरा गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dc27d0b8428cea1b88cd4cc8b5cb9ee2e05f7a68bd59b38dd3951746b09ae726",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/4\/1-4.1791995915976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "आउ सुनलक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मर गेलक"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अब्नेर"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "हेब्रोन में"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "आउ ढीला हो गेलन"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ओकर दूनो हाथ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ पूरा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "घबरा गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:38:35.977327145Z",
+  "model": "glm-5.3"
+}

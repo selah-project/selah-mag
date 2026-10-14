@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलनिहार",
+      "rationale": "Hebrew is verbless noun phrase 'all these sons of Joktan'; Magahi needs a copula-like particle"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ ओफिर आउ ⟨את⟩ हविलाह आउ ⟨את⟩ योवाव; ई सब योक्तान के बेटा हलनिहार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a5fcb20369ee24b939fe7c956a1b9fcaaa899a87c8d93a81f587166346ffd4fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/1\/21-24.1792009812926.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओफिर"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ओफिर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हविलाह"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "हविलाह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "योवाव"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "योवाव"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "योक्तान"
+    }
+  ],
+  "timestamp": "2026-10-14T20:30:12.927078387Z",
+  "model": "glm-5.3"
+}

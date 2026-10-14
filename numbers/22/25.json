@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 22:25",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויסף להכתה",
+      "rationale": "'फेर मारे लगलक' — इब्रानी 'उसने मारना जोड़ा' के चाल, मारे के काम जारी रहलक।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האתון",
+      "rationale": "गधिनी — मादा गधा; इब्रानी शब्द के लिंग मादा हकइ आउ ऊच्चा रखल गेल।"
+    }
+  ],
+  "translation": "आउ गधिनी देखलइ यहवे के ⟨את⟩ दूत ⟨आत⟩ ⟨एकरा⟩ त ऊ दीवार के सटिक दाबलइ आउ बिलाम (बिलाम) के ⟨את⟩ गोड़ दीवार पर कुचललइ, तब ऊ ⟨एकरा⟩ फेर मारे लगलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "558663cd7693b6686c14432c34887e9718a2fb687071192da164404b38bca57f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/22\/25-28.1791991446952.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "देखलइ"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "गधिनी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के दूत"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "दाबलइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के सटिक"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "कुचललइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बिलाम के गोड़"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "गोड़"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "फेर लगलक"
+    },
+    {
+      "surface": "להכתה",
+      "gloss": "मारे"
+    }
+  ],
+  "timestamp": "2026-10-14T15:24:06.953229960Z",
+  "model": "glm-5.3"
+}

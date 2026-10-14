@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ככר",
+      "rationale": "तौल के नाप ‘किक्कार’ के लिप्यन्तरन — मगही में ई नाप नञ मिलऽ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "जुरमाना",
+      "rationale": "सौ किक्कार चानी आउ एक किक्कार सोना के तौल"
+    }
+  ],
+  "translation": "आउ मिस्रयिम (मिस्र) के राजा ओकरा यिरूशलयिम में हटइलन, आउ धरती के ⟨את⟩ एक सौ किक्कार चानी आउ एक किक्कार सोना जुरमाना लगौलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3db89a6fa8e7eb30aa1c0cf18e1b8a4fcd02324c19d64b1d494fa30136a7b23f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/36\/1-4.1792011458584.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "हटइलन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यिरूशलयिम में"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "जुरमाना लगौलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती के"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "किक्कार"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "आउ एक किक्कार"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    }
+  ],
+  "timestamp": "2026-10-14T20:57:38.585657657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 20:16",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלכו \/ הלך",
+      "rationale": "'बिधान में नञ चललन — हिरदय मूरत के पाछे चलल' — एके क्रिया दू दिसा में; मगही में ओहे दोहराव रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גלולים",
+      "rationale": "मूल अरथ 'गोल ठुठ' (लकड़ी के टोटक); मगही में 'मूरत सब' धरल गेल।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כי",
+      "rationale": "दोसर पढ़ाई: 'जबकि' — बाक्य के दो कारण-खण्ड के जोड़।"
+    }
+  ],
+  "translation": "काहे कि ⟨את⟩ हमरा नियाव ओकनी ठुकरा देलन, आउ हमरा बिधान में चललन नञ, आउ ⟨את⟩ हमरा शब्बात भ्रष्ट करलन, काहे कि ओकनी के हिरदय ओकनी के मूरत सब के पाछे जा रहलइ हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e87a502bde36b1b95f9a535fced6af0bc075319762f74a35359166fee0b2cca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/20\/13-16.1792002279376.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "हमरा नियाव"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ठुकरा देलन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हमरा बिधान"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "हमरा बिधान"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "चललन"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हमरा शब्बात"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "हमरा शब्बात"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "भ्रष्ट करलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पाछे"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "ओकनी के मूरत सब"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ओकनी के हिरदय"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "जा रहलइ हल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:24:39.377393556Z",
+  "model": "glm-5.3"
+}

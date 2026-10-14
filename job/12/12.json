@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 12:12",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "होवऽ हकइ",
+      "rationale": "किरिया-पूरक जे इब्रानी में नञ हइ"
+    }
+  ],
+  "translation": "बुढ़ बूढ़लोग में ज्ञान होवऽ हकइ, आउ दिन के लम्बाई में समझ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ff3b4df072ff2e545b0f9cf9949b11f9eb09ee997cd08f68424c37cda5ca1a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/12\/9-12.1792007269970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בישישים",
+      "gloss": "बुढ़ बूढ़लोग में"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "आउ लम्बाई"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "समझ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:49.971165079Z",
+  "model": "glm-5.3"
+}

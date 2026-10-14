@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nahum 1:13",
+  "book": "nahum",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel\/Judah",
+      "rationale": "परति-वचन देल जाऽ हइ — जुआ आउ बेड़ी ओकरा बर हइ जे मुकति के बाट जोहऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मוט",
+      "rationale": "מוט मूल रूप में 'हिलावे वाला डण्डा' हकइ; जुआ ओकरा परिणाम-अरथ में लेल गेलइ"
+    }
+  ],
+  "translation": "आउ अब हम ओकर जुआ तोहरा पर से तोड़बइ, आउ तोहर बेड़ी ⟨हम⟩ चीर देबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8443da1223ba5da0334f4933b316a08c28389ebf066da31cd32df899a90cc879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nahum\/1\/13-14.1792003803748.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "तोड़बइ"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "ओकर जुआ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "तोहरा पर से"
+    },
+    {
+      "surface": "ומוסרתיך",
+      "gloss": "आउ तोहर बेड़ी"
+    },
+    {
+      "surface": "אנתק",
+      "gloss": "चीर देबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:50:03.748853687Z",
+  "model": "glm-5.3"
+}

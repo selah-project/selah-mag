@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आउ ऊ",
+      "rationale": "希伯来语动词带未言明的主语 (एल शद्दय, पद 3); सर्बनाम जोड़ल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מגריך",
+      "rationale": "मूल शब्द 'ठहराव\/परदेसी होवे के जगह' हकइ; 'परदेसी बन के रहऽ हऽ' में ओही संकट रखल गेलइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך (H854)",
+      "rationale": "ई 'तोहर संग' (संग-भाव) बाला रूप हकइ, DOM चिन्हा नञ — अनुवाद में जोड़ल गेलइ, चिन्हा नञ।"
+    }
+  ],
+  "translation": "आउ ऊ तोहरा देबइ अवराहाम (अब्राहम) के आसीस के ⟨את⟩ — तोहरा, आउ तोहर बिया के, ⟨את⟩ तोहर संग — ताकि तूँ ओ धरती के ⟨את⟩ अपना कर ले, जहाँ तूँ परदेसी बन के रहऽ हऽ, जे एलोहीम अवराहाम के देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ee13c35ee2c7edeb1eac2cb5695306b4df08fdd7df8deae78d67fcd1d8de8ebc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/28\/1-4.1791987186496.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "आउ देबइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अवराहाम के आसीस के"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "आसीस के"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "आउ तोहर बिया के"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तोहर संग"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "अपना कर ले बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती के"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "जहाँ तूँ परदेसी बन के रहऽ हऽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "अवराहाम के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:13:06.498042275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דרבנות",
+      "rationale": "'बैल चेतावे के डंडा' — इब्रानी एक सब्द हकइ, डंडा-टिपाही जेना चुभऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעלי אספות",
+      "rationale": "'संग्रह के मालिक' — केहू 'सभा के मालिक', केहू 'संकलन' पढ़ऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרעה אחד",
+      "rationale": "'एक गड़ेरिया' — यहवे के संकेत मानल जा हइ, बाकि पाठ खुद नाम नञ लेवऽ हइ"
+    }
+  ],
+  "translation": "गिननिहार के बात जेना बैल चेतावे के डंडा आउ जेना गाड़ल खूँटा; संग्रह के मालिक के बात एक गड़ेरिया के ओर से देल गेलै हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e3dcfb073f1e57222c2bfcf483985748a0824bee53af4ab7d88fd1a2c19c5000",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/12\/9-12.1792008562781.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "गिननिहार के"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "जेना बैल चेतावे के डंडा"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "आउ जेना खूँटा"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "गाड़ल"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "मालिक"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "संग्रह"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "देल गेलै"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "गड़ेरिया के ओर से"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-10-14T20:09:22.782431342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨बर⟩",
+      "rationale": "लעשות के इन्फिनिटिव बर मगही में क्रिया-संबंधक चाही"
+    }
+  ],
+  "translation": "आउ राजा कहलन, ⟨את⟩ हमान के जल्दी करावऽ — एस्तेर के ⟨את⟩ बात करे बाला ⟨बर⟩; आउ राजा आउ हमान ओ दावत में अइलन जे एस्तेर बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3c605cda140b6bbc6f14507df3805437f8b392bb7a953cfd738f2d5f67c4cc35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/5\/5-8.1792008611428.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "जल्दी करावऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमान"
+    },
+    {
+      "surface": "המן",
+      "gloss": "हमान"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे बाला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एस्तेर के बात"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आउ अइलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "आउ हमान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "दावत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:10:11.429425328Z",
+  "model": "glm-5.3"
+}

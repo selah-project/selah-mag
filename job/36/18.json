@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 36:18",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בספק",
+      "rationale": "हज़ार के अरथ मतलबू: 'झटका\/सजा' या 'तृप्ति\/बहुतायत' — कोनो एक अरथ पकड़ल जा हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יסיתך",
+      "rationale": "मूल अरथ 'भड़कावे\/बहकावे'; एहाँ 'उठा ले' रूप में लेलन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩",
+      "rationale": "इब्रानी के नग्न कथन के वाक्य बनावे बर क्रिया जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "काहे कि क्रोध ⟨हकइ⟩ — डर कि ऊ झटका से ⟨तोहरा⟩ नञ उठा ले; आउ खोत के बड़ाई तोहरा मत तिरछा करे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "61e3a3ab7bad2babde0adf5eeb0e22b80aa3c3b304310519958d022d44c12d54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/36\/17-20.1792007798799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "פן",
+      "gloss": "डर कि"
+    },
+    {
+      "surface": "יסיתך",
+      "gloss": "⟨तोहरा⟩ नञ उठा ले"
+    },
+    {
+      "surface": "בספק",
+      "gloss": "झटका से"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "आउ बड़ाई"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "खोत के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "יטך",
+      "gloss": "तिरछा करे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:56:38.799839596Z",
+  "model": "glm-5.3"
+}

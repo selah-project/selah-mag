@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी पद में क्रिया-हीन बाक्य हकइ; मगही के सम्बन्ध-सूत्र ⟨⟩ में जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "ओकर एलोहीम के तोरा ओकर हिरदय में ⟨हकइ⟩; ओकर कदम नञ डिगतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9df869ae84e9d14d25c9fd70164770b15ed12d9660f4b459d621f3c963873834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/37\/29-32.1792004942654.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ओकर एलोहीम के"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ओकर हिरदय में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "डिगतइ"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "ओकर कदम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:02.654889924Z",
+  "model": "glm-5.3"
+}

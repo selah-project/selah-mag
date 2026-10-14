@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "मूलपाठ में ⟨את⟩ चिन्हा रहल — ओकरा मेटावे के बदला देखावल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "मगही के क्रिया-सम्बन्ध चाही जे इब्रानी के नाम-वाक्य में नञ हइ"
+    }
+  ],
+  "translation": "काहे कि जाति सब के सब देवता पुतला हथिन; बाकि यहवे अकास ⟨את⟩ बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7fc9f5eea7c6f001a0f7567b1e4981a50a9c597393febdfe54b852999f884d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/16\/25-28.1792010228591.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "देवता"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "जाति सब के"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "पुतला"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "बाकि यहवे"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:37:08.591896662Z",
+  "model": "glm-5.3"
+}

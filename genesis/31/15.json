@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "नजर में",
+      "rationale": "हिन्दी ‘के लिए’ जइसन; מל ‘ओकर’ के अरथ खोलल के बर।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם אכול",
+      "rationale": "अनन्त-निश्चित (infinitive absolute) — क्रिया दू बेर, ‘एकदम-एकदम खइ’ कइ के पूरा-पूरा खाए के भाव।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "चानी",
+      "rationale": "כסף पाक-रंग के धातु सोना-नञ; ‘चानी’ आउ ‘पइसा’ दोनो अरथ एके शब्द में हकइ।"
+    }
+  ],
+  "translation": "का हमनी ओकर नजर में बिदेसी नञ गिनाही गेलइ रहियै? काहे कि ऊ हमनी के बेच देलन हलन, आउ ऊ हमनी के चानी ⟨את⟩ एकदम-एकदम खइ गेलन हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "633d0f13da6bc9e250ee29bcf281bed18956cf82d707e27cb1fba260ef9f2862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/31\/13-16.1791987302550.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "का...नञ"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "बिदेसी"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "गिनाही गेलइ रहियै"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "हमनी के बेच देलन"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "खइ गेलन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "एकदम"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "खाइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमनी के चानी"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "हमनी के चानी"
+    }
+  ],
+  "timestamp": "2026-10-14T14:15:02.551771324Z",
+  "model": "glm-5.3"
+}

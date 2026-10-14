@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-kings 4:42",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बीस रोटी",
+      "rationale": "गिनती साफ देल गेल हे — बीस रोटी, जऊ के — ताकि अगिला पद में सौ मनुस के साथ तुलना हो सके।"
+    },
+    {
+      "kind": "crux",
+      "subject": "כרמל",
+      "rationale": "'ताजा अनाज' बनाम 'कनी के साथ अनाज' (KJV) बनाम 'बगइचा के फल' — करमेल के पुरान अरथ विवादित हे।"
+    },
+    {
+      "kind": "addition",
+      "subject": "एक",
+      "rationale": "वाक्य शुरू में 'एक' जोड़ल गेल — हिब्रू में सिर्फ वेइश्श हे, 'आउ-मनुस'।"
+    }
+  ],
+  "translation": "आउ एक मनुस बाल-शालिशा से अइलन, आउ एलोहीम के मनुस के ले गेलन पहिला फल के रोटी — जऊ के बीस रोटी — आउ ताजा अनाज ओकर थैली में; आउ ओ कहलन — लोग के देवऽ हइ ताकि ओकनी खाइ करथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "16b0c5072114224bff22c13dbdd384c7f3b488ac72cd1e5646f87dea477b7c4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/4\/41-44.1791997774206.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आउ एक मनुस"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "מבעל",
+      "gloss": "बाल-शालिशा से"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "बाल-शालिशा"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ले गेलन"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मनुस के"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "पहिला फल के"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "जऊ के"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "आउ ताजा अनाज"
+    },
+    {
+      "surface": "בצקלנו",
+      "gloss": "ओकर थैली में"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "תן",
+      "gloss": "देवऽ हइ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "खाइ करथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:09:34.207588956Z",
+  "model": "glm-5.3"
+}

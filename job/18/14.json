@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 18:14",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ऊ⟩",
+      "rationale": "Hebrew leaves the subject of ותצעדהו implicit; pronoun supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "डर के राजा",
+      "rationale": "מלך בלהות: a title for death itself; some render 'king of terrors', others the terrors personified as king"
+    }
+  ],
+  "translation": "ओकर तम्बू से ओकर भरोसा एकरऽ हटाइल जातइ, आउ ⟨ऊ⟩ ओकरा डर के राजा के पास चलावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4c21c97e0e3f769364baf790ca4100270aa0cfc9e9ec601ab23cda20209ccfcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/18\/13-16.1792007409006.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ינתק",
+      "gloss": "हटाइल जातइ"
+    },
+    {
+      "surface": "מאהלו",
+      "gloss": "ओकर तम्बू से"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "ओकर भरोसा"
+    },
+    {
+      "surface": "ותצעדהו",
+      "gloss": "आउ ओकरा चलावऽ हइ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के पास"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "डर के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:50:09.007025330Z",
+  "model": "glm-5.3"
+}

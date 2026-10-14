@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "job 38:38",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "जम जाऽ हइ",
+      "rationale": "בצקת साक्षात 'पिघरावल\/ढालल' (धातु ढाले के बिधि से) — ढेका बने के चित्र।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे योब से",
+      "rationale": "पिछला प्रस्न के साथ जुड़ल — धरती के गाड़ी होए के काम के प्रस्न।"
+    }
+  ],
+  "translation": "जब धूरी एक ठोस ढेर में जम जाऽ हइ आउ ढेका सब आपस में चिपक जाऽ हथिन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "053b7bac583f82af32c71f671b8ea84d97fb4177a0497b3ae4b63baadb7a7160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/38\/37-40.1792007839993.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצקת",
+      "gloss": "जब … जम जाऽ हइ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूरी"
+    },
+    {
+      "surface": "למוצק",
+      "gloss": "एक ठोस ढेर में"
+    },
+    {
+      "surface": "ורגבים",
+      "gloss": "आउ ढेका सब"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "चिपक जाऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:57:19.994208452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נְתִיב",
+      "rationale": "נתיב चापल-चलल (beat) डहर हकइ; मगही के डहर ओही चित्र रखऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הַדְרִיכֵנִי",
+      "rationale": "דרך क्रिया में पैर धइके चलबे के चित्र हकइ — 'चलाब' ओकरा छूअल देवऽ हइ।"
+    }
+  ],
+  "translation": "हमनी के तोहर हुकुम सभ के डहर पर चलाब, काहे कि ओही में हमनी के भाव हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "68542b68b8165e5960f878cec061c8c97d490afb4a85afab14b84438e14202b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/34-35.1792012088306.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "हमनी के चलाब"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "डहर पर"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "तोहर हुकुम सभ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओही में"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "हमनी के भाव हल"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:08.306674040Z",
+  "model": "glm-5.3"
+}

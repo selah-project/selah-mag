@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 3:9",
+  "book": "nahum",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एकर",
+      "rationale": "इब्रानी में करता-सर्बनाम नञ हइ; मगही के बाक्य बर जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ताकत",
+      "rationale": "עצמה के सुभाव दुनो — ताकत आउ बहुतायत; एक अरथ चुनल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहर",
+      "rationale": "बिदेसी शक्ति सब के नौ-शहर के दुसरा-बचन संबोधन — निनवे के संग"
+    }
+  ],
+  "translation": "कूश ⟨एकर⟩ ताकत हलइ, आउ मिस्रयिम (मिस्र), आउ ⟨एकर⟩ केहू अन्त नञ हलइ; पूत आउ लूबिम के लोग तोहर मदत में हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b48b1f17ed541b62080927e7e822b6ae7594b3355a1e7e7a664f5da7501b1309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nahum\/3\/9-12.1792003824785.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "आउ मिस्रयिम"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ केहू अन्त नञ"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "अन्त"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "पूत"
+    },
+    {
+      "surface": "ולובים",
+      "gloss": "आउ लूबिम के लोग"
+    },
+    {
+      "surface": "היו",
+      "gloss": "हलन"
+    },
+    {
+      "surface": "בעזרתך",
+      "gloss": "तोहर मदत में"
+    }
+  ],
+  "timestamp": "2026-10-14T18:50:24.785755587Z",
+  "model": "glm-5.3"
+}

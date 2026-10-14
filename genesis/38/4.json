@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "विधिवतार्थ बनाम करतावाचक",
+      "rationale": "पद 3 में 'ऊ धरलक' (यहूदा बुझाइत), पद 4 में इब्रानी साफ बिधिवतार्थ किरिया देत हइ — 'ऊ' मगही के जोड़ हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ फिरु गर्भवती भेलइ आउ एक बेटा के जनम देलक, आउ ऊ ⟨את⟩ ओकर नाम के ओनान धरलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b2ec8a3f0783383dbf76f05b0576657ea541207c96c2c8a39049f2bbab938dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/38\/1-4.1791987535854.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "गर्भवती भेलइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिरु"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जनम देलक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "धरलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "ओनान"
+    }
+  ],
+  "timestamp": "2026-10-14T14:18:55.855440677Z",
+  "model": "glm-5.3"
+}

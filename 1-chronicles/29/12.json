@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 29:12",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "मगही के क्रिया-पूरक, इब्रानी में कोनो क्रिया नञ हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ובידך…ובידך",
+      "rationale": "बाक्य के बीच में 'तोहर हाथ में' के दोहराव — चियास्टिक ढाँचा, मगही में बनल रहऽ हइ"
+    }
+  ],
+  "translation": "आउ धन-दौलत आउ महिमा तोहरे आगे से हकइ, आउ तूँ सब पर राज करऽ हऽ, आउ तोहर हाथ में ताकत आउ बल हकइ, आउ तोहर हाथ में सबका बड़ा करै आउ सबका मजबूत करै के सामर्थ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "55dfc7ad67d5d63e7a3d82b3c65883bf3255456dc23a1ef3d52575a3ed3f3756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/29\/12-12.1792012201812.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעשר",
+      "gloss": "आउ धन-दौलत"
+    },
+    {
+      "surface": "והכבוד",
+      "gloss": "आउ महिमा"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "तोहरे आगे से"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "राज करऽ हऽ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब पर"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "आउ तोहर हाथ में"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "आउ बल"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "आउ तोहर हाथ में"
+    },
+    {
+      "surface": "לגדל",
+      "gloss": "बड़ा करै बर"
+    },
+    {
+      "surface": "ולחזק",
+      "gloss": "आउ मजबूत करै बर"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सबका बर"
+    }
+  ],
+  "timestamp": "2026-10-14T21:10:01.813300680Z",
+  "model": "glm-5.3"
+}

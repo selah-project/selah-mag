@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 11:43",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "पुरखा सब के संग सो गेलन",
+      "rationale": "'slept with his fathers' = died; literal picture kept"
+    }
+  ],
+  "translation": "आउ सलैमान (शलोमो) ओकर पुरखा सब के संग सो गेलन, आउ ओकर बाप दाविद (दाऊद) के नगर में गाड़ल गेलन; आउ ओकर बेटा रहबआम ओकर जगह राज करतइ भेल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cbc5686352073280db1da9c26e022bc6c1af21427e447e8dcb73cda7b4cdadbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/11\/41-43.1791997159402.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "आउ सो गेलन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सलैमान (शलोमो)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ओकर पुरखा सब"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "आउ गाड़ल गेलन"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद (दाऊद)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ओकर बाप"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "आउ राज करतइ भेल"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबआम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    }
+  ],
+  "timestamp": "2026-10-14T16:59:19.403756967Z",
+  "model": "glm-5.3"
+}

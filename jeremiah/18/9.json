@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 18:9",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एक",
+      "rationale": "רגע एकबचन हकइ — मगही में संख्या-चिन्हा ⟨एक⟩ जोड़ल गेलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पल",
+      "rationale": "रगअ = आँख के एक पलक-पात — बेरा के छोट नाप के बिधान"
+    }
+  ],
+  "translation": "आउ ⟨एक⟩ पल हम बोलतइ कोनो जाति के बारे में आउ कोनो राज्य के बारे में, ओकरा बनअवै बर आउ ओकरा रोपै बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cb81abf17754ffca6a0538ed112c745fa2257be1153f34b19028f34897ea6f1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/18\/9-12.1792000626980.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורגע",
+      "gloss": "आउ ⟨एक⟩ पल"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "हम बोलतइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बारे में"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ के बारे में"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "राज्य"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ओकरा बनअवै बर"
+    },
+    {
+      "surface": "ולנטע",
+      "gloss": "आउ ओकरा रोपै बर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:57:06.980944770Z",
+  "model": "glm-5.3"
+}

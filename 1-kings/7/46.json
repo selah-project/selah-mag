@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 7:46",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "במעבה",
+      "rationale": "ma'abeh (गाड़-माटी) तनाख़ में केवल इहै आवऽ हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ढलाई के जगह",
+      "rationale": "जगह आउ सामग्री सटीक रूप से नाप-तौल के बिरतान्त में गिनाहइ।"
+    }
+  ],
+  "translation": "यर्दन (यर्दन नदी) के गोल-मैदान में राजा ओकरा ढाललन, भूमि के चिकनी माटी में, सुक्कोत आउ त्सरेतान के बीच।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e37e82ddb65e1edc857f1135bbfd15ec1823c18704badbdedfd2c92f254da591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/7\/45-48.1791996866650.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "गोल-मैदान में"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दन"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "ओकरा ढाललन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "במעבה",
+      "gloss": "चिकनी माटी में"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "सुक्कोत"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ बीच"
+    },
+    {
+      "surface": "צרתן",
+      "gloss": "त्सरेतान"
+    }
+  ],
+  "timestamp": "2026-10-14T16:54:26.651055209Z",
+  "model": "glm-5.3"
+}

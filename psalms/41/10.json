@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "एड़ी बड़ केलक",
+      "rationale": "इब्रानी 'एड़ी उठइलन बिरुद्ध' — धोखा देके के चित्र; अक्षरशः राखल गेलन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלומי",
+      "rationale": "'हमर सांतिवाला' — साक्षात् 'मोह शांति के' अर्थात् शांति से जुड़े; 'दोस्त' शब्द इब्रानी में नञ है।"
+    }
+  ],
+  "translation": "तऽ एक मरद, हमर सांतिवाला, जेमा हम भरोसा केलनिये, जे हमर रोटी खइलन, ओ हमरा ऊपर एड़ी बड़ केलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/41\/9-12.1792004972687.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "तऽ एक"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "हमर सांतिवाला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "हम भरोसा केलनिये"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "खइलन"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "हमर रोटी"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "बड़ केलक"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ऊपर"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "एड़ी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:32.688359411Z",
+  "model": "glm-5.3"
+}

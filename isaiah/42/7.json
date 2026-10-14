@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממסגר",
+      "rationale": "ई सब्द 'बन्धन बनावै वाला' (लोहार) आउ 'बन्धन-घर' दूनो अरथ रखऽ हइ; इहाँ बन्धन-घर लेल गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "लोग",
+      "rationale": "ישבי — बैठल लोग; मगही बर 'लोग' जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "अन्हार आँखि सब के खोले बर, कैदी के बन्धन-घर से आउ अन्हार में बैठल लोग के कारागार से निकाले बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7294204b0af95baeca3f0942f42341d00ef6d8221416a49022d49af7a8c48344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/42\/5-8.1791999427696.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "खोले बर"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखि सब"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "अन्हार"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "निकाले बर"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "बन्धन-घर से"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "कैदी"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…से घर"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "कारागार"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "बैठल लोग"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्हार"
+    }
+  ],
+  "timestamp": "2026-10-14T17:37:07.697726150Z",
+  "model": "glm-5.3"
+}

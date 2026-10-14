@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 21:17",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קשת גבורי",
+      "rationale": "'bow-men the mighty' — KJV एके दू हिस्सा में काटऽ हइ (archers, mighty men); इब्रानी एके जोड़ल मानऽ हइ — धनुक के बलवान"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מספר",
+      "rationale": "गिनती-बात — बचे वालन के गिनती घट जइतइ, पिछला पद के 'एक बरिस के भीतर' के संग मिलऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קשת",
+      "rationale": "קשट\/קשת धनुक आउ साँप के गोड़िया दूनो होवऽ हइ — केदार के लोग धनुक से जानल जा हलथिन"
+    }
+  ],
+  "translation": "आउ बाकी गिनती के धनुक चलावै वाला, केदार के बेटाके बलवान लोग, घट जइतन, काहे कि यहवे, यिस्राएल के एलोहीम, कहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e2e934902d6f924564a617317512fd8e33e456b9a7f9f6ec2705c40c011818d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/21\/17-17.1791998852912.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "आउ बाकी"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "धनुक चलावै वाला"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "बलवान लोग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटाके"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "केदार"
+    },
+    {
+      "surface": "ימעטו",
+      "gloss": "घट जइतन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:27:32.913147508Z",
+  "model": "glm-5.3"
+}

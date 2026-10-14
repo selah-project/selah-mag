@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 24:34",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתהלך",
+      "rationale": "'टहलै वाला' बनाम 'लुटेरा' (ASV) — मूल शब्द हल्के बेग में चलै बाला के हकइ; कइयन अनुवादक ओकरा रबर समझऽ हथिन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मגן",
+      "rationale": "मूल शब्द 'ढाल' हकइ; 'ढाल धरनिहार मरद' लेल गेल — हथियार बाँधल आदमी के तस्वीर।"
+    },
+    {
+      "kind": "you",
+      "subject": "आलसी बेटा",
+      "rationale": "पद सीधे ओकरा के सम्बोधित हकइ जेकरा 24:33 के बात कहल गेल हइ।"
+    }
+  ],
+  "translation": "आउ तोहर गरीबी आवतइ जइसन रस्ता टहलै वाला आदमी, आउ तोहर कमी जइसन ढाल धरनिहार मरद।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "68e58741dc4fbe24155f1982feed4bf4f6ac405c60bbd72b2aa19a35cfafd0c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/24\/33-34.1792006874262.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "आउ आवतइ"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "रस्ता टहलै वाला"
+    },
+    {
+      "surface": "רישך",
+      "gloss": "तोहर गरीबी"
+    },
+    {
+      "surface": "ומחסריך",
+      "gloss": "आउ तोहर कमी"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "जइसन आदमी"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ढाल धरनिहार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:41:14.262888002Z",
+  "model": "glm-5.3"
+}

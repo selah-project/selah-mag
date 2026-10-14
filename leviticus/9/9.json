@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 9:9",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आपन",
+      "rationale": "अँगुरी के साथ अस्पष्ट कर्ता, इब्रानी में अनुसर्ग-प्रत्यय ही है"
+    },
+    {
+      "kind": "substitution",
+      "subject": "निचाई",
+      "rationale": "יסוד का शाब्दिक अर्थ है 'नींव'; 'आधार' या 'तल' भी संभव"
+    }
+  ],
+  "translation": "आउ अहरोन (हारून) के बेटा सब ⟨את⟩ खून ओकरा ले आवलन, आउ ऊ ⟨आपन⟩ अँगुरी खून में डुबालन आउ बेदी के सींग सब पर लगालन, आउ ⟨את⟩ बाकी खून बेदी के निचाई पर ढार देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "aaad847a22f39bff0395895f94587c598660adf1c3798e31d9160b4edb928c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/9\/9-12.1791989706767.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "आवलन (पास ले आवलन)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सब"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खून"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा ले"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "डुबालन"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "अँगुरी"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "खून में"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "लगालन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "सींग सब"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "खून"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ढार देलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "निचाई"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:55:06.768533821Z",
+  "model": "glm-5.3"
+}

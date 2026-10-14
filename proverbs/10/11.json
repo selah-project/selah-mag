@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "छिपावऽ हइ",
+      "rationale": "के छिपावऽ हइ — दुस्कर्मी के मुँह (KJV) बनाम खुद जबरजुली ढाकऽ हइ (मूल के बनावट)"
+    }
+  ],
+  "translation": "धरमी के मुँह जिअ के कुइयाँ हकइ; बाकि दुस्कर्मी के मुँह जबरजुली के छिपावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/10\/9-12.1792006606637.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "कुइयाँ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिअ के"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी के"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "बाकि मुँह"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुस्कर्मी के"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "छिपावऽ हइ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "जबरजुली के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:46.638174103Z",
+  "model": "glm-5.3"
+}

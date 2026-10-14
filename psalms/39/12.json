@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמודו",
+      "rationale": "किछु अनुवादक 'ओकर सुन्दरता' लेथिन, किछु 'जेकरा ओ पसंद करऽ हइ' — जड़ חמד के मतलब चाह-मार बा"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हवा",
+      "rationale": "הבל = साँस-हवा, खालीपन, बेसुख चीज — 'हवा' दुनु अरथ छुअऽ हइ"
+    }
+  ],
+  "translation": "झिड़क में, अधरम बर, तूँ आदमी के ताड़ना देलथिन, आउ पतंगा-नइसन ओकर पसंद के चीज गला देलथिन; साँचे ही, हरेक आदमी हवा हकइ। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/39\/9-12.1792004965982.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "झिड़क में"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधरम"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "ताड़ना देलथिन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "आउ गला देलथिन"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "पतंगा-नइसन"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "ओकर पसंद के चीज"
+    },
+    {
+      "surface": "אך",
+      "gloss": "साँचे ही"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हवा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:25.982880975Z",
+  "model": "glm-5.3"
+}

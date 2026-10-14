@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax-ish",
+      "subject": "מתאמצת",
+      "rationale": "hitpa'el of אמץ — 'strengthening herself', rendered पक्का ठानले हे; KJV 'stedfastly minded'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתה",
+      "rationale": "H854 'with' (nearness preposition), not H853 the DOM; kept as ⟨את⟩ per family rule but it is the preposition 'with'"
+    }
+  ],
+  "translation": "आउ ऊ देखली कि ऊ ⟨את⟩ के संग जेबे बर पक्का ठानले हे, तब ऊ ओकरा संग बात करे छोड़ देलकी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ruth\/1\/17-20.1792008141931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "आउ ऊ देखली"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "पक्का ठानले हे"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "जेबे बर"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "के संग (अगले पद एकठाम अरथ देलक — हेइ अלेफ-तव के पास वाला रूप हकइ)"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "आउ छोड़ देलकी"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बात करे"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा संग"
+    }
+  ],
+  "timestamp": "2026-10-14T20:02:21.932663943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 6:25",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "बिकतइ",
+      "rationale": "इब्रानी में 'बेचल' क्रिया नञ हइ; दाम अस्सी\/पाँच चानी 'में' से ही बिक्री के बतावऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "परेवा के गोबर",
+      "rationale": "חרי יונים: शाब्दिक 'परेवा के गोबर' बनाम किछु अनुवादक के 'परेवा-गोबर' नाम के गाछ-बिया परति"
+    },
+    {
+      "kind": "measurement",
+      "subject": "अकाल के दाम",
+      "rationale": "गधा के मूड़ी अस्सी चानी, कब के चौथाई परेवा के गोबर पाँच चानी — घेराबंदी के महँगाई के नाप"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חרי יונים",
+      "rationale": "ई पद तनाख़ में खाली इहेइ स्थान पर आवऽ हइ"
+    }
+  ],
+  "translation": "आउ शोमरोन में बड़ा अकाल होलइ, आउ देखऽ, ⟨ऊ⟩ घेरल रहलइ, जखन तक गधा के मूड़ी अस्सी चानी में ⟨बिकतइ⟩ आउ कब के चौथाई परेवा के गोबर पाँच चानी में ⟨बिकतइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1c6f1a96d620082cfdd351ca1709737b16e15d2b76f3a607175a588ee22557fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/6\/25-28.1791997788826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होलइ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "अकाल"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "शोमरोन में"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "घेरे वाला"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जखन तक"
+    },
+    {
+      "surface": "היות",
+      "gloss": "होवे तक"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मूड़ी"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "गधा"
+    },
+    {
+      "surface": "בשמנים",
+      "gloss": "अस्सी में"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "ורבע",
+      "gloss": "आउ चौथाई"
+    },
+    {
+      "surface": "הקב",
+      "gloss": "कब"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "गोबर"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "परेवा के"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "पाँच में"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    }
+  ],
+  "timestamp": "2026-10-14T17:09:48.826669406Z",
+  "model": "glm-5.3"
+}

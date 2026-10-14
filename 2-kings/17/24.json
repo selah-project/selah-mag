@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 17:24",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "लोग",
+      "rationale": "इब्रानी केवल जगह के नाम देत हइ ('बवेल से, कूता से…'), 'लोग' मगही में जोड़ल गेलन।"
+    }
+  ],
+  "translation": "आउ अशूर के राजा बवेल से, कूता से, अवा से, खमात से आउ सेफर्वयिम से लोग लावलन, आउ ओकनी के यिस्राएल के बेटा सब के जगह शोमरोन के नगर सब में बसइलन; आउ ओकनी ⟨את⟩ शोमरोन पर कबजा करलन आउ ओकर नगर सब में बस गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cc1348da170b4db4434b0507138ddfc262b1bed3c7b5f87a0d2fffcc29cb6730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/17\/21-24.1791998206998.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "लावलन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अशूर"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "बवेल से"
+    },
+    {
+      "surface": "ומכותה",
+      "gloss": "कूता से"
+    },
+    {
+      "surface": "ומעוא",
+      "gloss": "अवा से"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "खमात से"
+    },
+    {
+      "surface": "וספרוים",
+      "gloss": "सेफर्वयिम से"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "बसइलन"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "नगर सब में"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "शोमरोन"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "कबजा करलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शोमरोन"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "शोमरोन"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "बस गेलन"
+    },
+    {
+      "surface": "בעריה",
+      "gloss": "ओकर नगर सब में"
+    }
+  ],
+  "timestamp": "2026-10-14T17:16:46.999903621Z",
+  "model": "glm-5.3"
+}

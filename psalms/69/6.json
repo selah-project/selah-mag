@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "मगही के क्रिया-रूप; इब्रानी में क्रिया हए जे आदर बोध करावऽ हअइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "एलोहीम से",
+      "rationale": "सीधा एलोहीम के संबोधन।"
+    }
+  ],
+  "translation": "एलोहीम, तूँ जानऽ हथिन हमरा मूर्खता के; आउ हमरा अपराध तोहरा से छिपल नञ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/69\/5-8.1792005348142.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "जानऽ हथिन"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "हमरा मूर्खता"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "आउ हमरा अपराध"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तोहरा से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "छिपल"
+    }
+  ],
+  "timestamp": "2026-10-14T19:15:48.142833262Z",
+  "model": "glm-5.3"
+}

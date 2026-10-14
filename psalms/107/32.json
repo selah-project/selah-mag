@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וירוממוהו...יהללוהו",
+      "rationale": "दू क्रिया के अन्त्यानुप्रास (-והו) — 'ऊकरा ऊँच करऽ \/ ओकर स्तुति करऽ' — मगही में पूरा नञ आवऽ हइ।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "זקנים יהללוהו",
+      "rationale": "अनुज्ञार्थ क्रिया — सभा आउ बुजुर्गन के बैठक में सार्वजनिक स्तुति के आह्वान।"
+    }
+  ],
+  "translation": "आउ ओकनी ऊकरा लोग के सभा में ऊँच करऽ, आउ बुजुर्गन के बैठक में ओकर स्तुति करऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/107\/29-32.1792005953814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "आउ ओकनी ऊकरा ऊँच करऽ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "सभा में"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "आउ बैठक में"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "बुजुर्गन के"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "ओकर स्तुति करऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:53.814978671Z",
+  "model": "glm-5.3"
+}

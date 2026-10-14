@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 33:6",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "verse structure",
+      "rationale": "KJV reorders (wisdom and knowledge as stability); JPS reads 'the stability of thy times shall be a hoard of salvation'; Hebrew leaves the chain of construct nouns loose"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "copula supplied for the verbless clause היא אוצרו"
+    }
+  ],
+  "translation": "आउ होतइ — तोहर समय के भरोसा, उद्धार के धन, समझदारी आउ जानकारी; यहवे के डर — ऊहे ओकर खजाना हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fb5901210a8f6706374bde8db17df9462fe2c2a8e5312b29cdb43041556eb3fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/33\/5-8.1791999119947.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "אמונת",
+      "gloss": "भरोसा"
+    },
+    {
+      "surface": "עתיך",
+      "gloss": "तोहर समय"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "धन"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "उद्धार के"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "समझदारी"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "आउ जानकारी"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "डर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "ओकर खजाना हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T17:31:59.948050949Z",
+  "model": "glm-5.3"
+}

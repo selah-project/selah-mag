@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बीस हाथ",
+      "rationale": "भीतरी आँगन के बीस-हाथ के नाप के सामने के स्थिति"
+    },
+    {
+      "kind": "addition",
+      "subject": "हाथ",
+      "rationale": "हिब्रू में नाप-सब्द सिर्फ़ 'बीस' में मौजूद हइ, 'हाथ' जोड़ल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשלשים",
+      "rationale": "'तीसरे मंजिल में' बनाम 'तीन मंजिल में' — KJV\/यल्त में फर्क मिलऽ हइ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אתיק",
+      "rationale": "'बरामदा\/ओढ़ाना' के सब्द तनाख़ में केवल यहाँ (आउ 42:5) मिलऽ हइ"
+    }
+  ],
+  "translation": "बीस ⟨हाथ⟩ के सामने जे भीतरी आँगन बर हलइ, आउ फर्स के सामने जे बाहरी आँगन बर हलइ — बरामदा बरामदा के सामने, तीन मंजिल में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/42\/1-4.1792002952354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "आँगन बर"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "भीतरी"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "आउ सामने"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "फर्स"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "आँगन बर"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "बाहरी"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "बरामदा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "बरामदा"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "तीन मंजिल में"
+    }
+  ],
+  "timestamp": "2026-10-14T18:35:52.355059556Z",
+  "model": "glm-5.3"
+}

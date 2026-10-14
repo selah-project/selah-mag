@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अपन",
+      "rationale": "इब्रानी में सर्बनाम नञ हइ; रिश्ता साफ करे बर जोड़ल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחד...יחד",
+      "rationale": "धातु חדד के दोहराव — लोहा आउ मनुस दुनो बर एके किरिया, समानांतर बनावट"
+    }
+  ],
+  "translation": "लोहा लोहा संग तेज होवऽ हइ, आउ मनुस ⟨अपन⟩ संगी के मुँह तेज करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2840ef32a6fe4117536bd22a0a81525c5ecee1ea848f43839e422a5100d3ea99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/27\/17-20.1792007005444.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "लोहा"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "लोहा संग"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "तेज होवऽ हइ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आउ मनुस"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "तेज करऽ हइ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "अपन संगी के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:25.445295410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "हीरा",
+      "rationale": "שמיר के अरथ काँटा आउ ओही जड़ से बड़ा कड़ा रतन; 'हीरा' चलनसार अरथ हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "मזבחותיכם",
+      "rationale": "बाक्य पहिला तीसरा-पुरुस में हइ ('ओकर हिरदय') बाकि अन्तिम सब्द दूसरा-पुरुस ('तोहनीके बेदी') — इब्रानी के सब्द जस के तस रखल गेलन"
+    }
+  ],
+  "translation": "यहूदा के पाप लोहा के कलम से आउ हीरा के नोकी से लिखल हकइ; ओकर हिरदय के पट्टा पर आउ तोहनीके बेदी सब के सींग पर खोदल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c91a8fd4a3225649c2c2c64e033a6e488a52e30a749143f611eac9e072d89bc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/17\/1-4.1792000577178.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "लिखल हकइ"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "कलम से"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "लोहा के"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "नोकी से"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "हीरा के"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "खोदल गेलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "पट्टा"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ओकर हिरदय के"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "आउ सींग पर"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "तोहनीके बेदी सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:56:17.179277437Z",
+  "model": "glm-5.3"
+}

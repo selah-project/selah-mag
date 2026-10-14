@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 49:19",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תצרי",
+      "rationale": "'तूँ सँकर हो जातइ' (सिय्योन बराल अरथ, KJV पढ़ाही) बनाम उजाड़ जगह बराल — मगही में जगह के सँकरापन धरलक।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרבות\/שממות\/הרסות",
+      "rationale": "उजाड़पन के तीन रूप एके पाँती में ढेर — विरोध में अब जगह के कमी।"
+    }
+  ],
+  "translation": "काहे कि तोहर उजाड़ जगह आउ तोहर बिन-बसल धरती आउ तोहर ढाहल धरती — अब बसै बराल सँकर जातइ, आउ जे तोहरा निगललक ऊ दूर हो जइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "731b60d89bade3a78ee1bbb6d6513c52d30c0293282c1249de9b12712026b0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/49\/17-20.1791999650846.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חרבתיך",
+      "gloss": "तोहर उजाड़ जगह"
+    },
+    {
+      "surface": "ושממתיך",
+      "gloss": "आउ तोहर बिन-बसल धरती"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "आउ धरती"
+    },
+    {
+      "surface": "הרסתיך",
+      "gloss": "तोहर ढाहल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "अब तऽ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "תצרי",
+      "gloss": "सँकर जातइ"
+    },
+    {
+      "surface": "מיושב",
+      "gloss": "बसै बराल"
+    },
+    {
+      "surface": "ורחקו",
+      "gloss": "आउ दूर हो जइतइ"
+    },
+    {
+      "surface": "מבלעיך",
+      "gloss": "जे तोहरा निगललक"
+    }
+  ],
+  "timestamp": "2026-10-14T17:40:50.847324280Z",
+  "model": "glm-5.3"
+}

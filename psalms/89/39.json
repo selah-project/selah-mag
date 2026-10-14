@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התעברת",
+      "rationale": "עבर के हित्पाएल — 'क्रोध देखइलक' बनाम काब्यानुसार पाठ 'התעברת' के 'गुस्सा भरलक'; मुख्य पाठ क्रोध कइलक लेलक"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "सीधा यहवे से संबोधन — माशियाख राजा के तरास देखावऽ हइ"
+    }
+  ],
+  "translation": "बाकि तूँ ओकरा छोड़ देलक आउ घिना गेलक, तोहर माशियाख संग क्रोध कइलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/89\/37-40.1792005604307.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "बाकि तूँ"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "छोड़ देलक"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "आउ घिना गेलक"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "क्रोध कइलक"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "तोहर माशियाख"
+    }
+  ],
+  "timestamp": "2026-10-14T19:20:04.309011512Z",
+  "model": "glm-5.3"
+}

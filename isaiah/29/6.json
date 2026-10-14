@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תפקד",
+      "rationale": "पाकड़ जड़ के किरिया — दोस्ती या दुस्मनी दुनो अरथ में; इहाँ दंड के भाव, मगही में 'देखल जातइ' लेलन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "के संग",
+      "rationale": "हिब्रू के ब-पूर्व के संग के बदले मगही में 'के संग' जोड़ल गेलन।"
+    }
+  ],
+  "translation": "यहवे त्सबाओत के तरफ से ओकरा देखल जातइ — गरज के संग आउ काँप के संग आउ बड़ आवाज के संग, झञझात आउ तूफान आउ खावै वाला आग के लपट के संग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7f125934d454f9534d0d48e95066555c4ca7ab7e0efdc1a18f2a398063c9ff22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/29\/5-8.1791999214219.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "के तरफ से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "देखल जातइ"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "गरज के संग"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "आउ काँप के संग"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "आउ आवाज"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "झञझात"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "आउ तूफान"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "आउ लपट"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग के"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "खावै वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T17:33:34.220323777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לחי",
+      "rationale": "'जियते रहऽ' (जीवन बर शुभकामना) बनाम KJV 'him that liveth in prosperity' — मूल पाठ 'जिन्दगी के दने' कहऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום ×3",
+      "rationale": "तीन बर दोहरावल सांति — नेकरा, घर, सब सम्पत्ति — त्रिगुण शुभकामना; मगही में दोहराव रखल गेल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨उ सब⟩",
+      "rationale": "वाचक जोड़ल गेल — हिब्रू 'आउ सब जे तोहर' कहऽ हइ, सर्वनाम नञ।"
+    }
+  ],
+  "translation": "आउ तुने ऐसने कहब: जियते रहऽ — आउ तूँ के सांति, आउ तोहर घर के सांति, आउ जे कुछो तोहर हइ ⟨उ सब⟩ के सांति।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d7b421baf077d7196740e308789e062aa0cdf7e6c22eadf11f1c018405a2d73e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/25\/5-8.1791995604627.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "तुने कहब"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ऐसने"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "जियते रहऽ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "तोहर घर"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति"
+    }
+  ],
+  "timestamp": "2026-10-14T16:33:24.628535258Z",
+  "model": "glm-5.3"
+}

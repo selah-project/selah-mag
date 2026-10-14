@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "दाइ",
+      "rationale": "इब्रानी साँख्यिक सात के क्रिया-बार देखावऽ हइ; 'सात दाइ' ओकरा मगही में खोलऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक वाला",
+      "rationale": "צדיק के जड़ त्सेदेक हकइ; 'धरमी' जाति-सब्द ओकरा घटा देतइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפול\/יכשलו",
+      "rationale": "गिरना आउ ठोकर खाए के जोड़ी — त्सेदेक वाला गिरऽ हइ बाकि उठऽ हइ, बुरा लोग ठोकर में एके जा हइ"
+    }
+  ],
+  "translation": "काहे कि त्सेदेक वाला सात दाइ गिरऽ हइ आउ उठ जाऽ हइ, बाकि बुरा लोग बुराई में ठोकर खाथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "06e044949cd818136095083e245cc465faf78a3c17af50d3fdde49fbd19f5308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/24\/16-16.1792012133216.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात दाइ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "गिरऽ हइ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "त्सेदेक वाला"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "आउ उठ जाऽ हइ"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "बाकि बुरा लोग"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ठोकर खाथिन"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "बुराई में"
+    }
+  ],
+  "timestamp": "2026-10-14T21:08:53.216636500Z",
+  "model": "glm-5.3"
+}

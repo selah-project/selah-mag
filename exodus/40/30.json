@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בין … ובין",
+      "rationale": "इब्रानी दुनू संज्ञा के आगे 'बीच' दोहरावऽ हइ; मगही एके बेर 'के बीच' कहऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכיר",
+      "rationale": "'हौद' — कोनो अनुवादित उपाधि नञ, गोल खोदल बर्तन के सुभाविक मगही सब्द।"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ हौद रखलन मुलाकात के तम्बू आउ बेदी के बीच में, आउ ओहिने पानी देलन नहावे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "65335cc9f3ffd49ede044f71f1437408c902db7027be15d71ccac7849d457240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/40\/29-32.1791989451404.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "आउ रखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हौद"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "हौद"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मुलाकात के"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ के बीच"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "आउ देलन"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओहिने"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "नहावे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:50:51.404838522Z",
+  "model": "glm-5.3"
+}

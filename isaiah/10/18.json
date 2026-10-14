@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 10:18",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נסס",
+      "rationale": "hapax: 'निसान-धारक के हिम्मत हारना' (KJV, נס से) बनाम 'बिमार मनुस के घुलऽ' (JPS) — हमनी दोसरा लियनी"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נסס",
+      "rationale": "ई जड़ तनाख़ में एकही जगह आवऽ हइ"
+    }
+  ],
+  "translation": "आउ ओकर जंगल के आउ ओकर बगइचा के ठाट के परान से मांस ले मिटा देतइ, आउ होतइ जइसन बिमार मनुस के घुलऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4bc9b5de38965dfef11b1e500e368265414ef18bcf16d2956eea5a830091ebce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/10\/17-20.1791998799790.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "आउ ठाट"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "ओकर जंगल के"
+    },
+    {
+      "surface": "וכרמלו",
+      "gloss": "आउ ओकर बगइचा के"
+    },
+    {
+      "surface": "מנפש",
+      "gloss": "परान से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "मिटा देतइ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "כמסס",
+      "gloss": "जइसन घुलऽ"
+    },
+    {
+      "surface": "נסס",
+      "gloss": "बिमार के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:26:39.791690254Z",
+  "model": "glm-5.3"
+}

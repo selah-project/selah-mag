@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 1:19",
+  "book": "ruth",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जनाना सब",
+      "rationale": "verb is feminine plural — the speakers are the women; made explicit in Magahi"
+    },
+    {
+      "kind": "addition",
+      "subject": "का … हऽ",
+      "rationale": "Hebrew הזאת נעמי is the bare clause 'this Naomi'; the astonished question needs question-words in Magahi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באנה … בית לחם",
+      "rationale": "כבאנה echoes באנה — their coming to בית לחם (house of bread) is the pivot of the book"
+    }
+  ],
+  "translation": "आउ दुनो जाए लागली जबतक बेत-लेहेम (बेतलेहेम) नगर अइली; आउ जइसन ऊ बेत-लेहेम अइली, तइसन पूरा नगर ओकनी बर तरबर गेलइ, आउ जनाना सब कहलनी — “का ई नाओमी हऽ?”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ruth\/1\/17-20.1792008141931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלכנה",
+      "gloss": "आउ दुनो जाए लागली"
+    },
+    {
+      "surface": "שתיהם",
+      "gloss": "दुनो"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जबतक"
+    },
+    {
+      "surface": "באנה",
+      "gloss": "अइली"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेहेम"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ जइसन"
+    },
+    {
+      "surface": "כבאנה",
+      "gloss": "ऊ अइली"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेहेम"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "तरबर गेलइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ओकनी बर"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "आउ कहलनी"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "का ई"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "नाओमी"
+    }
+  ],
+  "timestamp": "2026-10-14T20:02:21.932840586Z",
+  "model": "glm-5.3"
+}

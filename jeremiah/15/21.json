@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 15:21",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मुक्त करबइ",
+      "rationale": "ופדתיך के मूल अरथ फिरौत देके छोड़ाना हकइ; मगही में एके सब्द में घटा देल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מיד…מכף",
+      "rationale": "हाथ आउ हाथ के हथेली के समानान्तर जोड़ी — दुनू अर्ध-पँती में एके बनावट।"
+    },
+    {
+      "kind": "you",
+      "subject": "तोहनी",
+      "rationale": "यहवे यिर्मयाह के सीधे सम्बोधन — ओही बात जे पाछे के पद में चलऽ हइ।"
+    }
+  ],
+  "translation": "आउ हम तोहनी के बुरा लोग के हाथ से छुड़ाबइ, आउ हम तोहनी के जबरदस्त लोग के हाथ के हथेली से मुक्त करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0d5638b652ce504679a69a0d52686f8a472c0a223eb13666e709f5ffa2382e2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/15\/21-21.1792000438622.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצלתיך",
+      "gloss": "आउ हम तोहनी के छुड़ाबइ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "बुरा लोग"
+    },
+    {
+      "surface": "ופדתיך",
+      "gloss": "आउ हम तोहनी के मुक्त करबइ"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "हाथ के हथेली से"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "जबरदस्त लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T17:53:58.622854106Z",
+  "model": "glm-5.3"
+}

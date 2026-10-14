@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שטר",
+      "rationale": "शाब्दिक 'लिखकुन\/कागज-लिखनिहार' — इहाँ निगरानी करेवाला अधिकारी के अरथ में।"
+    }
+  ],
+  "translation": "जेकरा कोनो सरदार नञ हइ, कोनो अफसर आउ हाकिम नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2ee86f209c556177fd85475cddea1c7a302ae2d04cc8c7e77bdac462d12a3480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/6\/5-8.1792006529960.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ हइ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "अफसर"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "आउ हाकिम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:29.961234419Z",
+  "model": "glm-5.3"
+}

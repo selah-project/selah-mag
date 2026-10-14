@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "मהעमונים",
+      "rationale": "अम्मोनी (KJV\/JPS) बनाम मेउनी (BSB, लूकास के मेउनी सब) — दुनू पढ़ाई मौजूद हकइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "मהעמोנים",
+      "rationale": "दोसर पढ़ाई: 'ओकनी के संग देवता-पहाड़ के मेउनी सब', काहे कि अम्मोन के बेटा के संग फेर अम्मोनी के दोहराव अजीब हकइ।"
+    }
+  ],
+  "translation": "एकर बाद मोआब के बेटा सब आउ अम्मोन के बेटा सब आउ ओकनी के संग किछु अम्मोनी सब यहोसापात पर लड़ाई बर अइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1bddc4c5e1f1683c8b7024070bb6ec8a823d4fd4a39c88b87ec727cd1421e95c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/20\/1-4.1792011046769.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "एकर बाद"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एकर"
+    },
+    {
+      "surface": "באו",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सब"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आउ के बेटा सब"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "आउ ओकनी के संग"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "किछु अम्मोनी सब"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोसापात"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "लड़ाई बर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:50:46.769825981Z",
+  "model": "glm-5.3"
+}

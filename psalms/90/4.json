@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "हजार बरिस",
+      "rationale": "एलेफ शनीम — समय के नाप, एलोहीम के आँख में"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי יעबר",
+      "rationale": "'जे गुजर गेलइ' (past) बनाम 'जब गुजरऽ हे' — क्रिया के काल पर मतभेद"
+    }
+  ],
+  "translation": "काहे कि हजार बरिस तोहर आँख में कालहि के बितल दिन जइसन हकइ, जे गुजर गेलइ, आउ रात के पहरा जइसन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/90\/1-4.1792005732846.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "तोहर आँख में"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "दिन जइसन"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "कालहि के बितल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "गुजर गेलइ"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "आउ पहरा"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:12.847270911Z",
+  "model": "glm-5.3"
+}

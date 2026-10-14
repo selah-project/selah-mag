@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 17:19",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओहिजा",
+      "gloss": "अरथ बर रखल गेल; अनुवाद में ओकरा 'जतय' में मिला देल गेल।",
+      "rationale": "שם 'ओहिजा' — बाक्य में पहिले ही 'जतय' आइल होने से दुहराव भेल।"
+    }
+  ],
+  "translation": "ऊ ओकरा कहलन: तोहर बेटा हमरा दे। आउ ऊ ⟨את⟩ ओकर बेटा के ओकर गोद से लेलन, आउ ओकरा ऊपर के कोठरी में ले गेलन जतय ऊ रहऽ हलथिन, आउ ओकरा ओकर पलंग पर लेटावलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "744ab08d66c907800b2618091885d73085ba4222d1c5ce78cbdcb882656a2117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/17\/17-20.1791997430851.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "תני",
+      "gloss": "दे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर बेटा"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "तोहर बेटा"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "आउ लेलन"
+    },
+    {
+      "surface": "מחיקה",
+      "gloss": "ओकर गोद से"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "आउ ले गेलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "ऊपर के कोठरी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जतय"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "रहऽ हलथिन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजा"
+    },
+    {
+      "surface": "וישכבהו",
+      "gloss": "आउ लेटावलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "ओकर पलंग"
+    }
+  ],
+  "timestamp": "2026-10-14T17:03:50.852874263Z",
+  "model": "glm-5.3"
+}

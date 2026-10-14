@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 17:13",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בין … ובין",
+      "rationale": "हिब्रू 'बीच' दू बेर दोहरावऽ हइ; मगही में दोसर बेर 'आउ' से जोड़ल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמד",
+      "rationale": "'ठाढ़ होना' बनाम 'रुक जाना' — किस रुकल, अहरोन या महामारी, ई पढ़निहार के फैसला हकइ।"
+    }
+  ],
+  "translation": "ऊ ठाढ़ गेलन मरनिहार लोग आउ जिएल लोग के बीच में, आउ महामारी रुक गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8532717346571cd1685c516bb1c1b35099c01211a7d228dec66fa84fcae5f33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/17\/13-16.1791991164707.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ठाढ़ गेलन"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मरनिहार लोग"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ … के बीच में"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जिएल लोग"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "रुक गेलइ"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "महामारी"
+    }
+  ],
+  "timestamp": "2026-10-14T15:19:24.707756401Z",
+  "model": "glm-5.3"
+}

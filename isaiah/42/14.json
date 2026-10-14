@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 42:14",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשם ואשאף",
+      "rationale": "KJV एकरा 'उजाड़ब आउ निगल जाब' कहऽ हकइ (नास करे के क्रिया); ASV\/JPS 'हाँफब-धौंसऽ' (साँस के क्रिया) — जनमावे वाली के तस्वीर संग दोसरा रूप बेस मेलऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החשיתי אחריש אתאפק",
+      "rationale": "तीन चुप-क्रिया के गुच्छा, फेन चीख के झटका — इब्रानी के बनावट हकइ"
+    }
+  ],
+  "translation": "हम सबहीं से चुप रहलिअन, चुप रहलिअन, आपके रोकलिअन; अब जनमावे वाली जनाना जइसन चीखब, एके संग धौंसऽ आउ हाँफब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ce744ac742634978006c718f1e4652dc374f105280324f4ffb59f3d4c75d46e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/42\/13-16.1791999492183.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החשיתי",
+      "gloss": "चुप रहलिअन"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "सबहीं से"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "चुप रहलिअन"
+    },
+    {
+      "surface": "אתאפק",
+      "gloss": "आपके रोकलिअन"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "जनमावे वाली जनाना जइसन"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "चीखब"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "धौंसऽ"
+    },
+    {
+      "surface": "ואשאף",
+      "gloss": "आउ हाँफब"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एके संग"
+    }
+  ],
+  "timestamp": "2026-10-14T17:38:12.184419521Z",
+  "model": "glm-5.3"
+}

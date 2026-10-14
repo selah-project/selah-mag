@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 8:8",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מפורש",
+      "rationale": "'साफ कइ के' बनाम 'टुकड़ा-टुकड़ा में' बनाम 'अनुवाद कइ के (अरामी में)' — इब्रानी जड़ 'अलग कइल' दुनो ओर खुलऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "במקרא",
+      "rationale": "'पढ़ाई' बनाम 'सभा\/सम्मेलन' — जड़ 'पुकारल' हकइ, दुनो अरथ परम्परा में चलन में हइ।"
+    }
+  ],
+  "translation": "आउ ओकनी किताब में — एलोहीम के तोरा में — पढ़लन, साफ कइ के अरथ बता के, आउ ओकनी पढ़ाई में समझा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7215b9969b34f57d83d0ce51b3750da45096746e7806714168ae3dbd187c66dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/8\/5-8.1792009701192.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "पढ़लन"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "किताब में"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "तोरा में"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "מפורש",
+      "gloss": "साफ कइ के"
+    },
+    {
+      "surface": "ושום",
+      "gloss": "आउ अरथ रख के"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "अरथ"
+    },
+    {
+      "surface": "ויבינו",
+      "gloss": "समझा देलन"
+    },
+    {
+      "surface": "במקרא",
+      "gloss": "पढ़ाई में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:28:21.193275086Z",
+  "model": "glm-5.3"
+}

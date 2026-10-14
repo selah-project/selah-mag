@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "शाब्दिक 'साँस\/धुआँ' — संक्षिप्त, नञ-ठहरब वाला चीज; 'व्यर्थता' एकर चलनसार गढ़ रूप हकइ।"
+    }
+  ],
+  "translation": "आउ हम फेर लवटलिअन्त आउ देखलिअन्त — सुरुज के नीचे व्यर्थता ⟨के⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/4\/5-8.1792008407078.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "आउ लवटलिअन्त"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "देखलिअन्त"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "व्यर्थता"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:47.079296744Z",
+  "model": "glm-5.3"
+}

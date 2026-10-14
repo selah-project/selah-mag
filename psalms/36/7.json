@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הררי אל",
+      "rationale": "'एल के पहाड़' (ईश्वरीय बढ़त बतावै के ढंग) बनाम 'बड़\/सक्त पहाड़' — अनुवादक लोग बाँटल हथिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "पहिला बाक्य में मगही के क्रिया जोड़ल गेलइ; इब्रानी के क्रिया नञ हकइ।"
+    }
+  ],
+  "translation": "तोहर त्सेदेक एल के पहाड़ सब जइसन ⟨हकइ⟩; तोहर नियाव एक बड़ तहोम हकइ; यहवे, मनुस आउ पसु के तूँ बचावऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3974f2fe32fd51618047ae2396e57696fcce2851acb852e3956037b9ac203b8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/36\/5-8.1792004892806.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "तोहर त्सेदेक"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "पहाड़ सब जइसन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल के"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "तोहर नियाव"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "तहोम"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "आउ पसु"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "बचावऽ हथिन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:08:12.807498571Z",
+  "model": "glm-5.3"
+}

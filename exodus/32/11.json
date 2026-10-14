@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 32:11",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "मुँह के तरसलन",
+      "rationale": "חל את פני — साँस-नली\/मुँह के आगे झुकल — 'बिनती करलन' के इब्रानी चाल; शाब्दिक रूप रखल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "क्रोध",
+      "rationale": "אפך साँस-नली\/नाक हकइ; क्रोध के भाव ओकरे से आवऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "मोशे यहवे से सीधे प्रस्न पूछऽ हथिन — पूरा पद ओकर बिनती हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכח גדול וביד חזקה",
+      "rationale": "तनाख़ के तिरछा-जोड़ी: 'बड़ बल आउ बलवान हाथ' — चाल जोड़ी के रखल गेलइ।"
+    }
+  ],
+  "translation": "आउ मोशे यहवे ओकर एलोहीम के मुँह ⟨את⟩ के तरसलन, आउ कहलन: यहवे, काहे तोहर क्रोध तोहर लोग पर भड़कतइ, जेकरा तूँ मिस्रयिम के धरती से बड़ बल से आउ बलवान हाथ से निकालल?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "36ed2bb83502d9c46b06d7a9477050e5134a85c6ef1cad8ba7a41d2b0ce3d3cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/32\/10-11.1792011606659.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "तरसलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मुँह"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ओकर एलोहीम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "भड़कतइ"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "तोहर क्रोध"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "तोहर लोग पर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "निकालल"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "बल से"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "आउ हाथ से"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "बलवान"
+    }
+  ],
+  "timestamp": "2026-10-14T21:00:06.660502437Z",
+  "model": "glm-5.3"
+}

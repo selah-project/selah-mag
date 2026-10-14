@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "हमरा दने मुँह घुमाउ",
+      "rationale": "universal summons — the most direct invitation in the chapter"
+    },
+    {
+      "kind": "you",
+      "subject": "धरती के सब किनारा के लोग (to all ends of the earth)",
+      "rationale": "addressee named explicitly"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אפסי ארץ",
+      "rationale": "literally 'cessations\/ends of the earth', idiom for the farthest inhabited regions"
+    }
+  ],
+  "translation": "हमरा दने मुँह घुमाउ आउ छूट जाउ, धरती के सब किनारा के लोग — काहे कि हम एल हइ, आउ दोसर कोनो नञ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d8abf4e963898c70c2c03225f104d787dae45d16d992388ac19f7f3aefe7fc9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/45\/21-24.1791999650970.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "मुँह घुमाउ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा दने"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "आउ छूट जाउ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "किनारा के"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ हइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "दोसर कोनो"
+    }
+  ],
+  "timestamp": "2026-10-14T17:40:50.971096258Z",
+  "model": "glm-5.3"
+}

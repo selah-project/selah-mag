@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "वंशावली के बनावट में सीधा करम-चिन्हा ⟨את⟩ अनुवाद-पाँती में खाली चिन्हा रूप में रहऽ हइ"
+    }
+  ],
+  "translation": "आउ केलूब, शूखा के भाय, के ⟨את⟩ मेहिर जनम देलन; ऊ अश्तोन के बाप हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "801208a00f9ff38f3699ad136cd0453560dc3c7eb0358b5d15ef96df382481bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/4\/9-12.1792009945279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "आउ केलूब"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "…के भाय"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "शूखा"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेहिर"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "मेहिर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…के बाप"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "अश्तोन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:32:25.280776187Z",
+  "model": "glm-5.3"
+}

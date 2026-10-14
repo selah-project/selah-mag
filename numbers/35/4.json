@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 35:4",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "एक हजार अामा",
+      "rationale": "मिगरास के नाप — नगर के दीवार से चारो दने"
+    },
+    {
+      "kind": "crux",
+      "subject": "एक हजार अामा",
+      "rationale": "पद 5 में दू हजार अामा के नाप हकइ; अहियाँ एक हजार — माप के तरीका पर अनुवादक मतभेद"
+    }
+  ],
+  "translation": "आउ जे नगर के मिगरास तोहनी लेवी सबके देबऽ हइ, ऊ नगर के दीवार से बाहर एक हजार अामा चारो दने होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ca51427f5a2cfd942f72823f44e1936f8443529e9833bc95f3b5835a10de0601",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/35\/1-4.1791991852978.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומגרשי",
+      "gloss": "आउ मिगरास"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "देबऽ हइ"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "लेवी सबके"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "दीवार से"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "וחוצה",
+      "gloss": "आउ बाहर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "अामा"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो दने"
+    }
+  ],
+  "timestamp": "2026-10-14T15:30:52.979153450Z",
+  "model": "glm-5.3"
+}

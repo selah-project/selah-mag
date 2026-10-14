@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 28:6",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כן יעשה",
+      "rationale": "יַעֲשֶׂה 为祈愿式（jussive），'अइसने करे' 是愿望而非直陈；现存译本同。"
+    },
+    {
+      "kind": "irony",
+      "subject": "आमेन",
+      "rationale": "यिर्मेयाह 的 'आमेन' 表面赞同，第7节 'बाकि' 立刻转折；反语结构。"
+    }
+  ],
+  "translation": "आउ नबी यिर्मेयाह कहलन, आमेन! अइसने यहवे करे; यहवे ⟨את⟩ तोहर ओ बात के काइम करे जे तूँ नबी बन के कहलक, यहवे के घर के बरतन आउ बाबिल से सगरी बन्धुआ लोग के ई जगह पर वापिस लावे के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "10ce65feeb51422e51b7f8cc1c46b8c4030137e7ef1b240ef54707ca6ed6b6d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/28\/5-8.1792000951966.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "यिर्मेयाह"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    },
+    {
+      "surface": "כן",
+      "gloss": "अइसने"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "काइम करे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर ओ बात"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "तोहर ओ बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נבאת",
+      "gloss": "नबी बन के कहलक"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "वापिस लावे के"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बरतन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सगरी"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "बन्धुआ लोग"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "बाबिल से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T18:02:31.966933700Z",
+  "model": "glm-5.3"
+}

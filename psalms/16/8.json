@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया-सम्बन्धी ‘ऊ हकइ’ के क्रिया नञ हइ; मगही के बाक्य एकरा माँगऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בל אמוט",
+      "rationale": "‘बल-एमोत’ के छोट जोड़ — ‘कुछो नञ, हिलबइ’ — मगही में ‘नञ हिलबइ’ के दो सब्द ओकर धड़कन के पास रहऽ हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "रखलिए",
+      "rationale": "שויתी के साफ अरथ ‘बराबर कइलिए \/ ठाढ़ कइलिए’ हकइ; ‘अपना आगे ठाढ़ कइलिए’ दुसर पढ़ाई।"
+    }
+  ],
+  "translation": "हम यहवे के सदा अपना सामने रखलिए, काहे कि ऊ ⟨हकइ⟩ हमर दहिना हाथ पर — ओकरा से हम नञ हिलबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6c27a3bf7713bb3ae22160357b0c26fdc38a17989c63fab3e4deef5cffec231d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/16\/8-8.1792012038948.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "रखलिए"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "अपना सामने"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "हमर दहिना हाथ पर"
+    },
+    {
+      "surface": "בל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "हिलबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:18.948666379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טרף טרף",
+      "rationale": "infinitive-absolute + finite दू बेर — मगही में “फाड़ डारले फाड़ डारले हए” के दोहराव के असर घटऽ हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאתי",
+      "rationale": "अगम-बिंदु के रूप में में से — ⟨את⟩ जइसन चिन्हा ओकरा संग रहल।"
+    }
+  ],
+  "translation": "आउ एक हमरा ⟨את⟩ में से निकलल गेल, आउ हम कहलन, अवस्य ओकरा केउ फाड़ डारले हए, आउ आब तक हम ओकरा नञ देखलियन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8f1678f955d1ac10a31be3859bf2c5fdff40bf87da60f6028b68c0c733086b30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/44\/28-28.1792011517971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आउ निकलल गेल"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ हमरा में से",
+      "marks": "हमरा में से"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आउ हम कहलन"
+    },
+    {
+      "surface": "אך",
+      "gloss": "अवस्य"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "फाड़ डारले"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "फाड़ डारले हए"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "देखलियन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "आब"
+    }
+  ],
+  "timestamp": "2026-10-14T20:58:37.972255177Z",
+  "model": "glm-5.3"
+}

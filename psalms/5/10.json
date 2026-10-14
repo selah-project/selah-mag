@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी में क्रिया-संबंध शब्द नञ हकइ; मगही के बाक्य बर जोड़ल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "नछोना",
+      "rationale": "ठीक बात \/ भरोसा \/ स्थिरता — अनुवादक लोग के मतभेद"
+    },
+    {
+      "kind": "substitution",
+      "subject": "यछलिछुन",
+      "rationale": "चिकना करना के चपलता से बढ़िया बात कहना — मगही में चिकना बनाना रखल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתוח גרונם",
+      "rationale": "खुलल कबर के तस्वीर — ओकर गला खुलल कबर जइसन हइ, बिनास के गर्भ"
+    }
+  ],
+  "translation": "काहे कि ओकरा मुँह में ठीक बात नञ हइ; ओकर भीतर ⟨हइ⟩ बिनास; ओकर गला खुलल कबर ⟨हइ⟩; ओकर जीभ चिकना बनावऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8ee6838b5fa81d1a0b49de3bf9104068510053624bad660683992faf78197269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/5\/10-11.1792012069152.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ हइ"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "ओकरा मुँह में"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "ठीक बात"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "ओकर भीतर"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "बिनास"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "कबर"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "खुलल"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "ओकर गला"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ओकर जीभ"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "चिकना बनावऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:49.153095370Z",
+  "model": "glm-5.3"
+}

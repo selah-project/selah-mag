@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 3:14",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "'यहवे के जीवित ⟨रहना⟩ हे' — इब्रानी के असाम-कसम, क्रिया-सहायक मगही में जोड़ल गेल"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נשא פני",
+      "rationale": "'मुँह उठावना' = आदर करना; मुँह के मूर्ति रखल गेल"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "इब्रानी के की इहाँ बल देने बर हे; मगही पाँती में बेर-बेर पड़ल अलग नञ देखावल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "एलिशा यिस्राएल के राजा के",
+      "rationale": "तोहनी — राजा के सीधे सम्बोधन"
+    }
+  ],
+  "translation": "एलिशा कहलन: “यहवे त्सबाओत के जीवित ⟨रहना⟩ हे, जेकर सामने हम ठाढ़ हच्छियन — यहोसापात यहूदा के राजा के मुँह ⟨के आदर⟩ नञ होतै त हम तोहनी दने नञ ताकतनन आउ नञ देखतनन।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cde270101394d55c4a9549ec2b60f8290ab90d751011f6bb96e64e7a276dcf07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/3\/13-16.1791997696956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "एलिशा"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "हम ठाढ़ हच्छियन"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "नञ होतै त"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोसापात"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उठावतनन"
+    },
+    {
+      "surface": "אם",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "ताकतनन"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहनी दने"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "देखतनन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:08:16.957925957Z",
+  "model": "glm-5.3"
+}

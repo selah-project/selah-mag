@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "पूरा कएल जातइ",
+      "rationale": "יתן के शाब्दिक अरथ 'देल जातइ' — 'पूरा' अनुवाद-परम्परा के बतावऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "जातइ",
+      "rationale": "Hebrew के छोट क्रिया यतिविराम के रूप में बिना कर्ता; मगही के निरकर्मक रूप लेल गेल"
+    }
+  ],
+  "translation": "बुरा मनुस के डर ऊहे ओकरा ऊपरे अइतइ, बाकि सजाय लोग के चाह पूरा कएल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "35e2dedde7db6097628b2f0c28a78ac0d4091f87c8c1dcafc5b61ba04f31d46b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/10\/21-24.1792006618612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "डर"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुरा मनुस के"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "ओकरा ऊपरे अइतइ"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "बाकि चाह"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "सजाय लोग के"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "पूरा कएल जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:58.613647170Z",
+  "model": "glm-5.3"
+}

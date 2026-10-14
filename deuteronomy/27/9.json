@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 27:9",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הסכת",
+      "rationale": "סכת के एही एक रूप पूरा तनाख़ में आवऽ हइ — 'चुप-चुप के ध्यान देना'।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "चुप रहऽ आउ सुनऽ",
+      "rationale": "परजा के सीधा संबोधन — सुने बर बोलावना।"
+    },
+    {
+      "kind": "you",
+      "subject": "हे यिस्राएल",
+      "rationale": "संबोधित: सब यिस्राएल, एकवचन रूप में।"
+    },
+    {
+      "kind": "crux",
+      "subject": "हסכת",
+      "rationale": "अनुवादक मतभेद: 'चुप रहऽ' (KJV\/ASV\/JPS) बनाम 'चौकसी करऽ' (Geneva 'take heed') — जड़ के अरथ धुँधला हइ।"
+    }
+  ],
+  "translation": "आउ मोशे आउ लेवी के पुरोहित सब सब यिस्राएल के बतियालन के कहना: चुप रहऽ आउ सुनऽ, हे यिस्राएल; आज के दिन तूँ यहवे तोहर एलोहीम के परजा बनल हऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "067d4af2e1957db62c121d77c44686d2707ab9150a65358c2df8578eca05212d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/27\/9-12.1791992741728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बतियालन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "आउ पुरोहित सब"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवी के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "के कहना"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "चुप रहऽ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "आउ सुनऽ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "हे यिस्राएल"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज के दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "נהיית",
+      "gloss": "बनल हऽ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "परजा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T15:45:41.729737178Z",
+  "model": "glm-5.3"
+}

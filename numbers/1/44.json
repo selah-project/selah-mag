@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 1:44",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "इब्रानी के היו अंत में हकइ; मगही के क्रम में पहिले जोड़ल गेलइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש אחד",
+      "rationale": "'आदमी आदमी एक' — हर एक के अपन बाप के घर बर; दोहराव इब्रानी के बनावट हकइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "गिनती",
+      "rationale": "गिनइ बर बारह सरदार — हर कुल में एक-एक"
+    }
+  ],
+  "translation": "ई सब गिनल लोग हथिन, जिनहीं के मोशे (मूसा) आउ अहरोन (हारून) आउ यिस्राएल (इस्राएल) के सरदार सब — बारह आदमी, हर एक ओकर बाप के घर बर — गिनलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e5c56e667f78c107f8b770b795cabde573b9456d229d8e8cb176f85a4b20166a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/1\/41-44.1791990479432.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "सब गिनल लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिनहीं के"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "गिनलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "आउ अहरोन"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "आउ सरदार सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(दस)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घर बर"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ओकर बाप के"
+    },
+    {
+      "surface": "היו",
+      "gloss": "हलथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:07:59.433585829Z",
+  "model": "glm-5.3"
+}

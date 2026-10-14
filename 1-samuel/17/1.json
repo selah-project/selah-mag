@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "पलिश्ती जाति-बचन बर मगही में बहुबचन चिन्हा जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ पलिश्ती सब लड़ाई बर ⟨את⟩ ओकनी के डेरा-फौज जुटलन, आउ यहूदा के सोखोह (शोचोह) में जुटलन, आउ सोखोह आउ अजेका के बीच एफेस-दम्मीम में डेरा गाड़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/17\/1-4.1791995329864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "जुटलन"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती सब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के डेरा-फौज"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ओकनी के डेरा-फौज"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "लड़ाई बर"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "जुटलन"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "सोखोह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा गाड़लन"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "सोखोह"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आउ … के बीच"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "अजेका"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "एफेस में"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "-दम्मीम"
+    }
+  ],
+  "timestamp": "2026-10-14T16:28:49.865677275Z",
+  "model": "glm-5.3"
+}

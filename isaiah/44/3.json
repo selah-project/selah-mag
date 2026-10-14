@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אצק … אצק",
+      "rationale": "„ढारब\" के दोहराव — पानी आउ रूआख के समानान्तर; संरचना पार होवऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוחי",
+      "rationale": "रूआख — बतास\/साँस\/आत्मा तीन अरथ; एके लिप्यन्तरन रखल गेल"
+    }
+  ],
+  "translation": "काहे कि हम प्यासेल पर पानी ढारब आउ सूख धरती पर बहैत धारा; हमर रूआख तोहर बिया पर ढारब आउ हमर असीस तोहर संतान पर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "396a7e0731e46733a07176e845cda5d3659e60453e1af09ccec3d6171d89d04a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/44\/1-4.1791999518994.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "हम ढारब"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "प्यासेल"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "आउ बहैत धारा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "सूख धरती"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "हम ढारब"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "हमर रूआख"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "तोहर बिया"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "आउ हमर असीस"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "तोहर संतान"
+    }
+  ],
+  "timestamp": "2026-10-14T17:38:38.995131945Z",
+  "model": "glm-5.3"
+}

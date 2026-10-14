@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדד\/נדמה",
+      "rationale": "तुकबंदी — दू बेर एके ढाँचा (बराबर-बराबर पद) — मगही में दोहराव रखल गेलन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "नדמה",
+      "rationale": "जड़ दमम — मुक भऽ के नास — 'मुक भेलन' मूल के निस्तब्धता रखऽ हइ।"
+    }
+  ],
+  "translation": "मोआब के बोझ। काहे कि रात में अर मोआब के उजाड़ल गेलन, मुक भेलन; काहे कि रात में किर मोआब के उजाड़ल गेलन, मुक भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/15\/1-4.1791998908340.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "बोझ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "उजाड़ल गेलन"
+    },
+    {
+      "surface": "ער",
+      "gloss": "अर"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "मुक भेलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "उजाड़ल गेलन"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "किर"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआב"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "मुक भेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:28.340794827Z",
+  "model": "glm-5.3"
+}

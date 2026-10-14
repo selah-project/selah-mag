@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את נבות",
+      "rationale": "इहाँ ⟨את⟩ 'के संग' (सहबद्ध) के अरथ में हकइ, चिन्हा-वाचक नञ — पर चिन्हा जस के तस रहल।"
+    },
+    {
+      "kind": "addition",
+      "subject": "आउ",
+      "rationale": "हिब्रू में क्रिया के क्रम जोड़ से जुड़ल हकइ; मगही 'आउ' जोड़लक।"
+    }
+  ],
+  "translation": "आउ ऊ अहाब (आहाब) के नाम से पत्र लिखलक, आउ ओकर मोहर से मोहर लगलक, आउ ऊ पत्र ओकर नगर के बुजुर्ग लोग आउ मुखिया लोग के लग भेजलक — जे ⟨את⟩ नाबोत के संग रहऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "25573c7040ccdc824df79312cbf114424f56be25263d20735d64a80a517134bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/21\/5-8.1791997591682.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "लिखलक"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "पत्र"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "के नाम से"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब (आहाब)"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "आउ मोहर लगलक"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "ओकर मोहर से"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "भेजलक"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "ऊ पत्र"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लग"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "बुजुर्ग लोग"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ के लग"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "मुखिया लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "ओकर नगर में"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "रहऽ हथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाबोत के संग"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "नाबोत"
+    }
+  ],
+  "timestamp": "2026-10-14T17:06:31.683694541Z",
+  "model": "glm-5.3"
+}

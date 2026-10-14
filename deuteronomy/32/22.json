@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 32:22",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "באפי",
+      "rationale": "मूल शब्द 'हमर नथिना में' हकइ — गुस्सा के इब्रानी तस्वीर नथिना के भड़क से आवऽ हइ; 'हमर गुस्से में' रखल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ותלהן\/ותלהט",
+      "rationale": "'ले जरा देलक' — मूल क्रिया 'चाटना' हकइ (आग के लपेट जइसन जिभ्हा चाटऽ हइ), ओहि तस्वीर बरीख हो गेलइ।"
+    },
+    {
+      "kind": "secret",
+      "subject": "שאול",
+      "rationale": "शेओल के सबसे नीचला तल ले जरऽ आग — नीचला लोक के अन्हार बनाम ऊपरा के सब किछु के बरबादी के पूरा गहराई।"
+    }
+  ],
+  "translation": "काहे कि हमर गुस्से में आग बरि गेलन, आउ ऊ सबसे नीचला शेओल ले जरऽ हइ; आउ ऊ धरती आउ ओकर फल खा गेलन, आउ पहाड़ के निव के ओकरा ले जरा देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7490b22d91fa664ebbca90591b618e34fd557e3d1f38235291872450da003c32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/32\/21-24.1791993012701.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "קדחה",
+      "gloss": "बरि गेलन"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "हमर गुस्से में"
+    },
+    {
+      "surface": "ותיקד",
+      "gloss": "आउ जरऽ हइ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "सबसे नीचला"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "आउ खा गेलन"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ויבלה",
+      "gloss": "आउ ओकर फल"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "आउ जरा देलक"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "निव के"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़"
+    }
+  ],
+  "timestamp": "2026-10-14T15:50:12.701822711Z",
+  "model": "glm-5.3"
+}

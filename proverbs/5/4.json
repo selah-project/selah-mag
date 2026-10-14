@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "कड़वी बूटी",
+      "rationale": "לענה (वर्मवुड) खास कड़वा-जहरीला झाड़ हकइ; मगही में ओकर नाम नञ होवे से आम कड़वी बूटी कइल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרה \/ חדה",
+      "rationale": "पद 3 के मीठ आउ चिकना के उलटा — कड़वा आउ तेज — ओहे विरोध-संरचना जे इब्रानी के भासण के जीव हकइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פיות (दुई मुँह)",
+      "rationale": "פה के द्विबचन रूप खाली इहाँ आ कुछु जगह 'दुधारी तलवार' बर — बचन-बनावट के अरथ रखल गेलइ।"
+    }
+  ],
+  "translation": "बाकि ओकर अंत कड़वी बूटी जइसन कड़वा होतइ, दुई मुँह वाला तलवार जइसन तेज होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b1e6ea5b569940579bb87cb85b03bae997f4e737367cd044479011bfb1390459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/5\/1-4.1792006521302.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "बाकि ओकर अंत"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "कड़वा"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "कड़वी बूटी जइसन"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "तलवार जइसन"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "दुई मुँह वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:21.303546204Z",
+  "model": "glm-5.3"
+}

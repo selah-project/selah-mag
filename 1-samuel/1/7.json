@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וכן...כן",
+      "rationale": "जब-जब \/ तब-तब के तालमेल — इब्रानी के केन-केन ढाँचा मगही के जोड़ी-सब्द से बचल हए"
+    },
+    {
+      "kind": "addition",
+      "subject": "सट्टा-बहू",
+      "rationale": "पद 7 में करता खाली किरिया के बनावट से बुझऽ हइ; मगही में नाम देखावै के पड़ल"
+    }
+  ],
+  "translation": "आउ एहना करथिन बरिस बर बरिस; जब-जब ऊ यहवे के घर में चढ़थिन, तब-तब ओकर सट्टा-बहू ⟨ऊ⟩ ⟨इये⟩ छेड़थिन, आउ ऊ रोलथिन आउ खाय नञ पावथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8d53538950ae5ec51f8cf8c5467dfaae6f3e3dd5c38dbc6a6408594dca7ba8de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/1\/5-8.1791994780276.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "आउ एहना"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करथिन"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "बर बरिस"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "जब-जब"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "चढ़थिन"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "के घर में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तब-तब इये"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "छेड़थिन"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "आउ रोलथिन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाय पावथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:19:40.278101165Z",
+  "model": "glm-5.3"
+}

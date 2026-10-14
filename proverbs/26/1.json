@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קיץ\/קציר",
+      "rationale": "qayits (summer) आउ qatsir (harvest) के चिन्हा-मेल — दुनों कटनी-मौसम के सब्द हकइ, मगही में एकर लय गायब हो जा हइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "कटनी में बरखा",
+      "rationale": "फसल-कटनी के मौसम में बरखा बिगाड़ हकइ — असम्भव आउ हानिकारक दुनों; सादा तुलना नञ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "के पीठ पर",
+      "rationale": "हिब्रू के कब्ज़ा-रचना כבוד לכסיל (मूरख बर मान) के सुभाविक बोली में ढारे खातिर।"
+    }
+  ],
+  "translation": "जइसन गर्मी में बरफ आउ कटनी में बरखा, तइसने मूरख के पीठ पर मान-सम्मान नञ सोभऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "25748eaa683f591b3e49c4a86db0095e5af6db1a0caab14ef15b47fb8e2160f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/26\/1-4.1792006974789.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "जइसन बरफ"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "गर्मी में"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "आउ जइसन बरखा"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "कटनी में"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसने"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "सोभऽ हइ"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "मूरख के"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "मान-सम्मान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:42:54.790285359Z",
+  "model": "glm-5.3"
+}

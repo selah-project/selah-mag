@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מסלות",
+      "rationale": "शाब्दिक अरथ 'पक्कल रस्ता\/राजमार्ग'; काव्य संदर्भ में तीर्थ-यात्रा के डहर बूझावल गेलइ (bsb जइसन)"
+    }
+  ],
+  "translation": "कते भाग्यवान हकइ ओ मनुस, जेकर बल तोहरा में हकइ, आउ जेकर हिरदय में तीर्थ के डहर हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/84\/5-8.1792005665011.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "कते भाग्यवान"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "बल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा में"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "तीर्थ के डहर"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ओकर हिरदय में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:05.012374657Z",
+  "model": "glm-5.3"
+}

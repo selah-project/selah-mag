@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בגד",
+      "rationale": "'भाग्य' (ASV\/JPS) बनाम 'टुकड़ी आवऽ हइ' (KJV, गाद के 'टुकड़ी' अरथ से); इब्रानी बेवस्था के एके बिना खाली 'बागद' ठाढ़ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בגד \/ גד",
+      "rationale": "भाग्य के सब्द आउ बेटा के नाम गाद के धुन मिलऽ हइ — मगही में ई मेल बच नञ पावऽ हइ।"
+    }
+  ],
+  "translation": "आउ लेआह कहलीन: भाग्य आवऽ हइ! आउ ओकर ⟨את⟩ नाम गाद रखलीन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "73ab5786e098fc7118e5ce9986d02d24e6f5c17bfade2760f3410c54df032865",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/30\/9-12.1791987046324.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "कहलीन"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआह"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "भाग्य"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "रखलीन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    }
+  ],
+  "timestamp": "2026-10-14T14:10:46.325341132Z",
+  "model": "glm-5.3"
+}

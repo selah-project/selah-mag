@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 9:15",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨के⟩",
+      "rationale": "मगही के सम्बन्ध-चिन्हा जे इब्रानी के बनावट में बाँधल रहऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונטעתים\/ינתשו",
+      "rationale": "रोपना बनाम उखड़ल — लगावे आउ उखाड़े के उलट-जोड़, आखिरी पद में रोपल लोग फेर कब्बो नञ उखड़तइ।"
+    }
+  ],
+  "translation": "आउ हम ओकनी ⟨के⟩ ओकर धरती पर रोपबइ, आउ ओकनी फेर कब्बो ओकर धरती से उखड़ल नञ जतइ — जे धरती हम ओकनी के देलन — यहवे ⟨के⟩ तोहर एलोहीम के बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "362b49c061b2a51ec834214c28e8912e0e106a2870fda8803f35e644eb0616bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/9\/13-15.1792003565470.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונטעתים",
+      "gloss": "रोपबइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ओकर धरती"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ינתשו",
+      "gloss": "उखड़ल जतइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर कब्बो"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "के बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T18:46:05.471205655Z",
+  "model": "glm-5.3"
+}

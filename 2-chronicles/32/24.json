@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 32:24",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "यहवे",
+      "rationale": "वיאמर आउ נתן के करता इब्रानी में उहाँ तक रहऽ हइ; मगही बाक्य बर ⟨यहवे⟩ जोड़ल गेलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "एक",
+      "rationale": "चमत्कार-चिन्हा के आगू अंक; इब्रानी में नग्न संज्ञा हकइ"
+    }
+  ],
+  "translation": "ओइ दिन में हिज़्कियाहू मरे तक बिमार भेलन, आउ ऊ यहवे से प्रार्थना करलन; आउ ⟨यहवे⟩ ओकरा कहलन, आउ ⟨यहवे⟩ ओकरा ⟨एक⟩ चमत्कार-चिन्हा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0463af79aa435a9e2b448e72ccd393a05253a49dc3163bd4ee36e3865a3d37b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/32\/21-24.1792011359024.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ओइ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "बिमार भेलन"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "हिज़्कियाहू"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मरे"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "प्रार्थना करलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "चमत्कार-चिन्हा"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:55:59.025852301Z",
+  "model": "glm-5.3"
+}

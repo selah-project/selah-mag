@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 29:5",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "हिब्रू नञ-क्रिया बाक्य हकइ; दोसरा पद में क्रिया जोड़ल गेलै"
+    },
+    {
+      "kind": "alternative",
+      "subject": "हमरा नौजवान",
+      "rationale": "נערי के 'हमरा बेटा-बेटी' बाकी अनुवादक मानऽ हथिन; 'नौजवान \/ सेवक' के अरथ जेकरा संग ठीक बुझाई देतै"
+    }
+  ],
+  "translation": "जब तलक शद्दय हमरा संग हलन, आउ चारो दने हमरा नौजवान ⟨हलन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "742582796b05feb8b475dd433ff3c51c84dc5c98441d30b235ebdcd502c8ddce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/29\/5-8.1792007622859.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "जब तलक"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "हमरा संग"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "चारो दने"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "हमरा नौजवान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:53:42.859701445Z",
+  "model": "glm-5.3"
+}

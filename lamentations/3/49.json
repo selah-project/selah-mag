@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "थमऽ हइ",
+      "rationale": "תדמה के सुभाव 'गूँगा होना \/ चुप होना' हकइ; एकरा 'थमना' रूप में लेल गेलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी में क्रिया-सहायक नञ हकइ; वर्तमान-चाल बर मगही माँगऽ हइ"
+    }
+  ],
+  "translation": "हमर आँखि बहैल, आउ नञ थमऽ हइ — कोनो राहत के अबाव में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b27ac5f8c92b894d6f00ba7c9cd999629b9ae2e8299a36f7f65c4c7b8ed72f11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/3\/49-52.1792008180958.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "हमर आँखि"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "बहैल"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "थमऽ हइ"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "के अबाव में"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "कोनो राहत"
+    }
+  ],
+  "timestamp": "2026-10-14T20:03:00.958500066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "सम्बन्ध-सब्द के मगही में अलग रूप नञ चाही; ओकर अरथ „जे कुछो“ में भीतर हइ।"
+    }
+  ],
+  "translation": "जे कुछो यहवे के चित्त लागल, ऊ ओकरा अकास में आउ धरती पर बनइलन, समुंदर में आउ सब गहिरा पानी में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/135\/5-8.1792006229472.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जे कुछो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "चित्त लागल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "अकास में"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "आउ धरती पर"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "समुंदर में"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "गहिरा पानी"
+    }
+  ],
+  "timestamp": "2026-10-14T19:30:29.473221098Z",
+  "model": "glm-5.3"
+}

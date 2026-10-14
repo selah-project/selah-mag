@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "एहू जड़ ⟨את⟩ के हकइ बाकि एकरा में -י जुड़ल हे — 'हमरा संग' के अरथ, DOM चिन्हा आउ करार-पद दुनू एके रूप में।"
+    },
+    {
+      "kind": "you",
+      "subject": "गोलियाथ के बोली इस्राएल के सेना लोग के",
+      "rationale": "तोहनी — पलिश्ती के चुनौती सीधे सेना के मुँह पर हकइ।"
+    }
+  ],
+  "translation": "जे ऊ ⟨את⟩ हमरा संग लड़ै में सकऽ होवे आउ हमरा मार देवे, त हमनी तोहनी के दास बनिहों; बाकि जे हम ओकरा संग सकऽ होवो आउ ओकरा मार देब, त तोहनी हमनी के दास बनिहऽ आउ ⟨את⟩ हमनी के सेवा करिहऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d512dbda2f2668db30e2cd5359f2516c376eebce48dd359bb2e85a00530aa8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/17\/9-12.1791995321565.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सकऽ होवे"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "लड़ै में"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ हमरा संग",
+      "marks": "हमरा संग"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "आउ हमरा मार देवे"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "त हमनी बनिहों"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "दास"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "बाकि जे"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "सकऽ होवो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "आउ ओकरा मार देब"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "तोहनी बनिहऽ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "दास"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "आउ सेवा करिहऽ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ हमनी के",
+      "marks": "हमनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:28:41.566149963Z",
+  "model": "glm-5.3"
+}

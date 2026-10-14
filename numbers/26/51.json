@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "मगही किरिया-रूप जोड़ल गेलन, इब्रानी में नञ हइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "कुल गिनती",
+      "rationale": "पूरा जनगिनती के जोड़ — 601,730"
+    }
+  ],
+  "translation": "ई यिस्राएल के बेटा सब के गिनल लोग हलन — छौ सौ हजार आउ एक हजार, सात सौ आउ तीस।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9cf2c020d1a4250eb8602dc9da8623eb005720773385508594bbbf64a411499c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/26\/49-52.1791991526045.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "गिनल लोग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "आउ एक हजार"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आउ तीस"
+    }
+  ],
+  "timestamp": "2026-10-14T15:25:26.046750432Z",
+  "model": "glm-5.3"
+}

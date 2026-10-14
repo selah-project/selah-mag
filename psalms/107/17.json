@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "יתענו",
+      "rationale": "या त 'ओनी खुद करथिन' (middle) या 'दुखी भेलन' (passive) — दुनू पढ़ाव मंजूर हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान बर रस्ता",
+      "rationale": "מדרך रस्ता हकइ — जिनगी के चाल के रूपक।"
+    }
+  ],
+  "translation": "बोका लोग अपन बगावत के रस्ते से, आउ अपन अधरम से तंग हलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/107\/17-20.1792005926457.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "बोका लोग"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "रस्ते से"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "अपन बगावत"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "आउ अपन अधरम से"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "तंग हलथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:26.458383253Z",
+  "model": "glm-5.3"
+}

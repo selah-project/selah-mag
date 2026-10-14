@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 38:12",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דורי",
+      "rationale": "डेरा\/निवास (ASV\/JPS) बनाम उमिर-पीढ़ी (KJV 'mine age')"
+    },
+    {
+      "kind": "crux",
+      "subject": "מדלה",
+      "rationale": "कात के लटकत धागा (JPS 'from the thrum') बनाम बेमारी (KJV) — बुनकर के चित्र पूरा होवऽ हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קפדתי\/תשלימני",
+      "rationale": "समेटल जिनगी आउ पूरा कइ देल — बुनकर के कपड़ा समेटल जाए आउ पूरा होए के एक्के मूरत"
+    }
+  ],
+  "translation": "हमर डेरा उखड़लइ आउ हम से हटा लेल गेलइ, गड़रिया के तम्बू नियाँ; हम बुनकर नियाँ अपन जिनगी समेटलन; ⟨कात के⟩ धागा से ऊ हम के काटतइ — दिन से रात ले तूँ हम के पूरा कइ देतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "393e3593fef042dabaa66e7aee36224055d85f1a4cf129efeac267d2a01dd5cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/38\/9-12.1791999277169.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דורי",
+      "gloss": "हमर डेरा"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "उखड़लइ"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "आउ हटा लेल गेलइ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "כאהל",
+      "gloss": "तम्बू नियाँ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "गड़रिया के"
+    },
+    {
+      "surface": "קפדתי",
+      "gloss": "समेटलन"
+    },
+    {
+      "surface": "כארג",
+      "gloss": "बुनकर नियाँ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "अपन जिनगी"
+    },
+    {
+      "surface": "מדלה",
+      "gloss": "⟨कात के⟩ धागा से"
+    },
+    {
+      "surface": "יבצעני",
+      "gloss": "हम के काटतइ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "दिन से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "תשלימני",
+      "gloss": "तूँ हम के पूरा कइ देतन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:34:37.170570135Z",
+  "model": "glm-5.3"
+}

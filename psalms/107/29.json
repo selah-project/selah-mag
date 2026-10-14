@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יקם...לדממה",
+      "rationale": "'तूफान के चुप्प के बरे खड़ा कएलन' — कारक अरथ में; मगही में 'चुप्प-चाँप कएलन' सुभाविक चाल लेल गेल।"
+    }
+  ],
+  "translation": "ऊ तूफान के चुप्प-चाँप कएलन, आउ ओकनी के लहरन थिर भ' गेली।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/107\/29-32.1792005953814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "कएलन"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "तूफान"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "चुप्प-चाँप"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "थिर भ' गेली"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ओकनी के लहरन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:53.814554979Z",
+  "model": "glm-5.3"
+}

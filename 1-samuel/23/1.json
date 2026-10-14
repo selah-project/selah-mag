@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "कहने कि — इब्रानी के वाहक पद, बोली के दुआरी"
+    }
+  ],
+  "translation": "आउ दाविद के बतावल गेलन कहने कि देखऽ, पलिश्ती के लोग किलायिम से लड़ऽ हइ आउ ऊ खलिहान के ⟨את⟩ लुटऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0ff76f86f965a3bb19e8739d2615bbd7d71d83f7dc8c2ba8d4958cef6bda0e04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/23\/1-4.1791995546185.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "बतावल गेलन"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहने कि"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती के लोग"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "लड़ऽ हइ"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "किलायिम से"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "लुटऽ हथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खलिहान"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "खलिहान"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:26.186529416Z",
+  "model": "glm-5.3"
+}

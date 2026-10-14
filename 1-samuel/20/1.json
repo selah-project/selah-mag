@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नפש साँस\/जीवन-बल हकइ; 'आत्मा' नञ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहोनातन",
+      "rationale": "दाविद यहोनातन से सीधे तीन प्रस्न पूछऽ हइ"
+    }
+  ],
+  "translation": "आउ दाविद रामा के नायोत से भाग गेलन, अइलन आउ यहोनातन के सामने कहलन: हम का कइलिए? हमर अपराध का हइ, आउ तोहर बाप के सामने हमर पाप का हइ, काहे कि ऊ ⟨את⟩ हमर परान के खोजऽ हइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6d66e6609d243c353465cc473237776ac9c59b0fd7b2b14f5079b45416bfd90e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/20\/1-4.1791995437770.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "भाग गेलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "नायोत"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "रामा में"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "कइलिए"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "हमर अपराध"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आउ का"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "हमर पाप"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहर बाप"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "खोजऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर परान"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T16:30:37.770994657Z",
+  "model": "glm-5.3"
+}

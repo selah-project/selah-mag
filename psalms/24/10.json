@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סלה",
+      "rationale": "संगीत-चिन्हा, अनुवाद नञ — लिप्यन्तरन रखल गेलइ"
+    },
+    {
+      "kind": "you",
+      "subject": "प्रश्न",
+      "rationale": "पूछल गेल प्रश्न आरोह-पंक्ति के संग — पढ़निहार आउ लोकनी दुनो बर"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלך הכבוד",
+      "rationale": "वाक्यांश तीन बेर पदा में दोहरावल — पुरा गीत के सिरमौर"
+    }
+  ],
+  "translation": "कोनो हथिन ई, महिमा के राजा? यहवे त्सबाओत — ऊ हथिन महिमा के राजा। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e7eae905f0368a9af2f2d148930bcf6117e88c097bb4896a730cfc6517dc9813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/24\/9-10.1792004704809.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हथिन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "महिमा के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ हथिन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "महिमा के"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:05:04.809843488Z",
+  "model": "glm-5.3"
+}

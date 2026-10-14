@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 5:19",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אותם ברע",
+      "rationale": "'them in evil\/affliction' — KJV 'in evil case', YLT 'in affliction'; Magahi keeps 'बुराई में'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר יום ביומו",
+      "rationale": "day-word in its day — the daily task in its day, chiasm of day\/task kept as 'दिन के काम ओही दिन'"
+    }
+  ],
+  "translation": "आउ यिस्राएल के बेटा सब के मुखिया देखलन जे ओकनी ⟨את⟩ बुराई में हथिन, काहे कि कहल गेलइ हल — तोहनी के इँटा में से कुछो नञ घटाबऽ — दिन के काम ओही दिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3c6a45057f83dd7c34a3624cd11832af9973999d48f0997d5421744efea9cdd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/5\/17-20.1791988146930.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "आउ देखलन"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "बुराई"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "बुराई में"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "काहे कि कहल गेलइ हल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "कुछो नञ घटाबऽ"
+    },
+    {
+      "surface": "מלבניכם",
+      "gloss": "तोहनी के इँटा में से"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "काम"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ओही दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:29:06.931169096Z",
+  "model": "glm-5.3"
+}

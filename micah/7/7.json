@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 7:7",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमनी...",
+      "rationale": "मगही बाक्य बीच में टूटल दिखावऽ बर रोक-चिन्हा जोड़ल गेलन; हिब्रू एकाएक चलऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישעי",
+      "rationale": "यश — छुटकारा\/मुक्ति; मगही में 'हमर छुटकारा के एलोहीम' धार्मिक परम्परा के सब्द से बचिके सीधा अरथ।"
+    },
+    {
+      "kind": "you",
+      "subject": "बक्ता",
+      "rationale": "बक्ता परमेश्वर दने बोलतइ — पद 8 के प्रार्थना-स्वर के सुरुआत।"
+    }
+  ],
+  "translation": "बाकि हम यहवे दने ताकतइ हमनी... हम ओकरा के बर बाट जोहतइ जे हमर छुटकारा के एलोहीम हथिन; हमर एलोहीम हमर बात सुनतथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6fb42ba567955f16c666c145c444f7fed2cb1743d17213a26e829831390c00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/7\/5-8.1792003896747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "बाकि हम"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे दने"
+    },
+    {
+      "surface": "אצפה",
+      "gloss": "ताकतइ"
+    },
+    {
+      "surface": "אוחילה",
+      "gloss": "बाट जोहतइ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "एलोहीम के बर"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "हमर छुटकारा के"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "हमर बात सुनतथिन"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T18:51:36.748242761Z",
+  "model": "glm-5.3"
+}

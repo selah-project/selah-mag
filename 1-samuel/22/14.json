@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 22:14",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऐसन हऽ",
+      "rationale": "मगही के प्रश्न-बनावट बर जोड़ल; इब्रानी के शब्द नञ"
+    },
+    {
+      "kind": "you",
+      "subject": "राजा सउल के",
+      "rationale": "अहिमेलेख राजा के सीधे उत्तर देतन"
+    }
+  ],
+  "translation": "अहिमेलेख राजा के ⟨את⟩ उत्तर देलन आउ कहलन, आउ तोहर सब नौकर में कोनो ऐसन हऽ — दाविद जइसन भरोसेमंद, राजा का जमाई, तोहर आज्ञा में ठाढ़, आउ तोहर घर में मान-इज्जत वाला?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fd62a7b52c9047b14fe1ac45fa93f9b807c18850d3097395a99c3952491bd8a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/22\/13-16.1791995560351.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर देलन"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "अहिमेलेख"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "राजा के"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आउ कोनो"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब … में"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "तोहर नौकर"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "दाविद जइसन"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "भरोसेमंद"
+    },
+    {
+      "surface": "וחתן",
+      "gloss": "राजा का जमाई"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ठाढ़"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… में"
+    },
+    {
+      "surface": "משמעתך",
+      "gloss": "तोहर आज्ञा"
+    },
+    {
+      "surface": "ונכבד",
+      "gloss": "मान-इज्जत वाला"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "तोहर घर में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:40.351927889Z",
+  "model": "glm-5.3"
+}

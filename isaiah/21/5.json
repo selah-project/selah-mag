@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הצפית",
+      "rationale": "'चौकी\/पहरेदार' बनाम 'चटाई बिछाना' (BSB) बनाम 'दिया बरातना' (JPS) — कोनो आगे-पाछे जोड़ल शब्द नञ, क्रिया के रूप बतावै लेली।"
+    },
+    {
+      "kind": "you",
+      "subject": "सरदार लोग",
+      "rationale": "बहुवचन आदेश के जरिए एल-बीश के सरदारन के सीधा सम्बोधन।"
+    }
+  ],
+  "translation": "मेज सजावऽ, चौकी पर निहारऽ, खइऽ, पीयऽ — उठऽ, हे सरदार लोग, ढाल पर तेल लगावऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b7182f630223fbd1087c8365412220fe075068049971970cb37fb53b34df13a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/21\/5-8.1791998937615.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "सजावऽ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "मेज"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "निहारऽ"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "चौकी"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "खइऽ"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "पीयऽ"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "उठऽ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "तेल लगावऽ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ढाल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:57.615924864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שמע के करम",
+      "rationale": "की बात सुनलन — मूल में करम के बस्तु (19:0 के बात) छिपल हकइ; मगही में सीधे किरिया चललइ।"
+    }
+  ],
+  "translation": "आउ एहन भेलइ कि जइसने राजा हिज्कियाहू (हिजकिय्याहू) सुनलन, तब ऊ ⟨את⟩ आपन कपड़ा फाड़लन, आउ बोर-कपड़ा में ढाँकलन, आउ यहवे के घर में गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "fa7c2b83604e4475c7031ddbe0206dad3b1f567ffa09c04745d3fb2c86541665",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/19\/1-4.1791998317612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ एहन भेलइ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "जइसने सुनलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "हिज्कियाहू"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "फाड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन कपड़ा"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "आपन कपड़ा"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "ढाँकलन"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "बोर-कपड़ा में"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:18:37.613577486Z",
+  "model": "glm-5.3"
+}

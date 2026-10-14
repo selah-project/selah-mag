@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כימים אחדים",
+      "rationale": "'कत्ते दिन जइसन' — बड़ काल छोट लागे के इब्रानी बिलास।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सात बरिस",
+      "rationale": "काम के काल गिनल गेलइ।"
+    }
+  ],
+  "translation": "आउ याकोव राहेल के बर सात बरिस काम करलक, आउ ओकर परेम के कारण ऊ बरिस ओकर आँखी में कत्ते दिन जइसन लागल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "eba67a6f2cf7fef7a58134a2fe9161be3ecdc6bade92f6b6ff970b46f1da86d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/29\/17-20.1791987140044.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "आउ … काम करलक"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "राहेल के बर"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "आउ … लागल"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ओकर आँखी में"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "कत्ते दिन जइसन"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "कत्ते"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "ओकर परेम के कारण"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (राहेल के)"
+    }
+  ],
+  "timestamp": "2026-10-14T14:12:20.046007264Z",
+  "model": "glm-5.3"
+}

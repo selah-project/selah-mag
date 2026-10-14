@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 36:20",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תשאף",
+      "rationale": "मूल अरथ 'साँस खींचऽ हइ\/तड़पऽ हइ' — 'तड़प' में लेलन।"
+    },
+    {
+      "kind": "crux",
+      "subject": "לעלות עמים תחתם",
+      "rationale": "अरथ मतलबू: 'लोग ओकर जगह पर चढ़ऽ हइ' या 'लोग ओकर जगह से काटल जातइ' (KJV\/JPS)।"
+    }
+  ],
+  "translation": "रात के तड़प नञ कर, जब लोग ओकर जगह से उखड़ जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "61e3a3ab7bad2babde0adf5eeb0e22b80aa3c3b304310519958d022d44c12d54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/36\/17-20.1792007798799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תשאף",
+      "gloss": "तड़प कर"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "रात के"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "उखड़ जातइ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "ओकर जगह से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:56:38.800129671Z",
+  "model": "glm-5.3"
+}

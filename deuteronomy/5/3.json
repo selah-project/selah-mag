@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "'बाकि' (विरोधी) बनाम 'काहे कि' (कारण) — यहाँ प्राचीन अनुवादक विभाजित होऽ हथिन; संदर्भ विरोध माँगऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרת दोहराव",
+      "rationale": "पद 2 आउ 3 में 'काटलन' के दोहराव — वाचा के काट के बात जोड़ल गेलइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "पद 2-3 के जोड़",
+      "rationale": "दूसर पढ़ाई: 'जे वाचा यहवे हमर बाप-दादा के संग नञ काटलन' — पद 2 के वाक्य जारी"
+    }
+  ],
+  "translation": "⟨את⟩ हमनी के बाप-दादा के संग यहवे ई ⟨את⟩ वाचा नञ काटलन — बाकि ⟨את⟩ हमनी के संग — हमनी, ई लोग, इहाँ आज, हमनी सब, जियत-जियत।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/5\/1-4.1791992105814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ के संग"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "हमनी के बाप-दादा"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काटलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वाचा"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "वाचा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ हमनी के संग"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हमनी"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "פה",
+      "gloss": "इहाँ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "हमनी सब"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जियत"
+    }
+  ],
+  "timestamp": "2026-10-14T15:35:05.815630372Z",
+  "model": "glm-5.3"
+}

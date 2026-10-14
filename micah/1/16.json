@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "micah 1:16",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשר",
+      "rationale": "गिद्ध या चील — गंजा गिद्ध के तस्वीर जादे ठीक बाट, काहे कि ओकर मूड़ी पर पंखी नञ होवऽ हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "सिय्योन",
+      "rationale": "सम्बोधन सिय्योन के तरफ — ओकर बेटा बन्धुआ बन के गेलन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बन्धुआ बन के गेलन",
+      "rationale": "גלह खाली 'चला गेल' नञ, देस निकाला के अरथ में हकइ।"
+    }
+  ],
+  "translation": "मूड़ी मुँड़ आउ केस काट, अपन सुख-बिलास के बेटा के बर; अपन गंजापन चिरई नियर फइला, काहे कि ओ तोहरा से बन्धुआ बन के गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e58cdf6ab36079e078ebc23e8684a54a179cff85e840de61b7a24d1496642c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/1\/13-16.1792003693265.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרחי",
+      "gloss": "मूड़ी मुँड़"
+    },
+    {
+      "surface": "וגזי",
+      "gloss": "आउ केस काट"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बर"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "תענוגיך",
+      "gloss": "तोहर सुख-बिलास के"
+    },
+    {
+      "surface": "הרחבי",
+      "gloss": "फइला"
+    },
+    {
+      "surface": "קרחתך",
+      "gloss": "तोहर गंजापन"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "चिरई नियर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "גלו",
+      "gloss": "बन्धुआ बन के गेलन"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तोहरा से"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:13.266974297Z",
+  "model": "glm-5.3"
+}

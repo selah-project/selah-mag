@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जा हइ",
+      "rationale": "‏מדבर काल-निरपेक्ष क्रिया हकइ, मगही के चालू रूप जोड़ल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "त्सियोन के",
+      "rationale": "सीधा सम्बोधन — हे एलोहीम के नगर"
+    }
+  ],
+  "translation": "भारी-भारी बात सब तोहरा बारे में कहल जा हइ — हे एलोहीम के नगर। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/87\/1-4.1792005660039.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "भारी-भारी बात सब"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "कहल जा हइ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा बारे में"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:00.040756704Z",
+  "model": "glm-5.3"
+}

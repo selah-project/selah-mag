@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 6:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "हशमेन (मोट कर दे)",
+      "rationale": "आदेश के रूप (कहू — 'मोट कर') बनाम अनुमति के पढ़ाई ('मोट हो जातइ') — यशायाह के बोलानी सुनते रहऽ हइ या सुनई के डुबोवऽ हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מוט करना",
+      "rationale": "השמין के साक्षात अरथ 'चिकना\/मोट करना' हकइ — बेवस्थापन मोट के साक्षात रूप राखने गेलइ"
+    }
+  ],
+  "translation": "ई लोग के हिरदय मोट कर दे, ओकरा कान भारी कर दे, आउ ओकरा आँख बन्द कर दे — नञ तऽ कि ओ आँख से देखे, कान से सुने, हिरदय से समझे, आउ लौट आवऽ आउ ओकरा भला हो जाए।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/6\/9-12.1791998685365.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמן",
+      "gloss": "मोट कर दे"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "आउ ओकरा कान"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "भारी कर दे"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "आउ ओकरा आँख"
+    },
+    {
+      "surface": "השע",
+      "gloss": "बन्द कर दे"
+    },
+    {
+      "surface": "פן",
+      "gloss": "नञ तऽ कि"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखे"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "आँख से"
+    },
+    {
+      "surface": "ובאזניו",
+      "gloss": "आउ कान से"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुने"
+    },
+    {
+      "surface": "ולבבו",
+      "gloss": "आउ हिरदय"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "समझे"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "आउ लौटे"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "आउ भला होए"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:24:45.366422358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד רमה",
+      "rationale": "'उठल हाथ से' — घमंड आउ बड़ाई से निकलल के इब्रानी मुहावरा।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחזק",
+      "rationale": "חזק शाब्दिक 'मजबूत कइलन' हकइ; परम्परा के अनुवाद 'सख्त\/कठोर कइलन' (harden) कहऽ हथिन — शाब्दिक रूप रखल गेलन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני ישראल",
+      "rationale": "दू बेर दोहरावल — पीछा करै वाला आउ निकलै वाला दूनों के एके नाम से जोड़ऽ हकइ।"
+    }
+  ],
+  "translation": "आउ यहवे ⟨את⟩ मिस्रयिम के राजा फिरौन के हिरदय के मजबूत कइलन, आउ ऊ यिस्राएल के बेटा लोग के पीछे दौड़लक; आउ यिस्राएल के बेटा लोग उठल हाथ से निकलत हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3be1bc6c89d2271f94a5569615599a241f06bf4442354e41ebd92e68b54e9c6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/14\/5-8.1791988407728.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "आउ मजबूत कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "फिरौन के हिरदय"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "आउ पीछे दौड़लक"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पीछे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा लोग के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आउ बेटा लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "निकलत"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "उठल"
+    }
+  ],
+  "timestamp": "2026-10-14T14:33:27.729943730Z",
+  "model": "glm-5.3"
+}

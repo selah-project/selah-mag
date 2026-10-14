@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש जीवित-साँस लेलन शब्द हकइ, आत्मा नञ; परान (नेफेश) के सबसे नजदीक हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "משא",
+      "rationale": "कतुह 'बोझ' (मूरत के) या 'बोझ ढोवै वाला (लोग)' — दुनो पढ़ावा मिलऽ हइ"
+    }
+  ],
+  "translation": "ओकनी झुक गेलन, एक संग घुटना टेकलन; बोझ बचा नञ सकलन, आउ ओकनी के परान बन्धुआ बनिके चल गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/46\/1-4.1791999568916.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "झुक गेलन"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "घुटना टेकलन"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एक संग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "सकलन"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "बचा के"
+    },
+    {
+      "surface": "משא",
+      "gloss": "बोझ"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "आउ ओकनी के परान"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "बन्धुआ बनिके"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "चल गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:39:28.917424410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बंसावली से गिनलक",
+      "rationale": "गोत्र-गिनती के बंसावली — इतिहास के पुस्तक के मूल ढाँचा"
+    },
+    {
+      "kind": "crux",
+      "subject": "देस-निकाला भेलन",
+      "rationale": "हेग्लू के करता — कत्तु-पाठ में यहूदा अलग वाक्य हकइ (ASV\/JPS), कत्तु में सब इस्राएल (KJV); एहीं 'माअल' — बेइमानी\/अविस्वासनीयता — दिहल गेल हइ"
+    }
+  ],
+  "translation": "आउ यिस्राएल के सब लोग बंसावली से गिनलक; आउ देखऽ, ऊ लोग यिस्राएल आउ यहूदा के राजा सब के किताब पर लिखल हथिन; ऊ लोग अपन बेइमानी के कारण बबल के देस-निकाला भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/9\/1-4.1792010132460.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "बंसावली से गिनलक"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "आउ देखऽ, ऊ लोग"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "लिखल हथिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "किताब"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजा सब के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "आउ यहूदा"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "देस-निकाला भेलन"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "बबल के"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "अपन बेइमानी के कारण"
+    }
+  ],
+  "timestamp": "2026-10-14T20:35:32.461540084Z",
+  "model": "glm-5.3"
+}

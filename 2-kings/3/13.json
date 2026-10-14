@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 3:13",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה לי ולך",
+      "rationale": "'हमरा आउ तोहरा का' — इब्रानी के ठाटबाट, 'हमर आउ तोहर का लेना-देना' के अरथ"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל כי",
+      "rationale": "'नञ, काहे कि' बनाम 'मत कह, काहे कि' — अल दुआर में रोक या इनकार, दूनो पढ़ाही मिलल हे"
+    },
+    {
+      "kind": "you",
+      "subject": "एलिशा यिस्राएल के राजा के",
+      "rationale": "एलिशा राजा के सीधे सम्बोधन करऽ हइ"
+    }
+  ],
+  "translation": "एलिशा यिस्राएल के राजा के कहलन: “हमरा आउ तोहरा का ⟨काम⟩? जा तोहर बाप के नबी के पास आउ तोहर माय के नबी के पास।” यिस्राएल के राजा ओकरा कहलन: “नञ, काहे कि यहवे एही तीनो राजा के बोलावले हे जे ⟨את⟩ ओकनी के मोआब के हाथ में दे देय।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cde270101394d55c4a9549ec2b60f8290ab90d751011f6bb96e64e7a276dcf07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/3\/13-16.1791997696956.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "एलिशा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "आउ तोहरा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहर बाप के"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ के पास"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "तोहर माय के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "बोलावले हे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "तीनो"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "एही"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "दे देय"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "के हाथ में"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    }
+  ],
+  "timestamp": "2026-10-14T17:08:16.957691550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נזם",
+      "rationale": "נזם नाक के जेवर हकइ — 'नथिया' — कान के बाला नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "מוכיח",
+      "rationale": "'सुझाव देवे वाला' बनाम 'गलती बतावे वाला' — याखेच के दूनो रुख हकइ।"
+    }
+  ],
+  "translation": "सोना के नथिया आउ खरा सोना के गहना — अइसन हकइ गुनी जे सुझाव देऽ हइ, जब कान धरके सुनऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "87550aba326de330518724416d1edfa080be618560f325074fa51f86fa0615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/25\/9-12.1792006888875.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "नथिया"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "आउ गहना"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "खरा सोना के"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "सुझाव देवे वाला"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "गुनी"
+    },
+    {
+      "surface": "על",
+      "gloss": "कर"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "सुने वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:41:28.876636651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "आपन",
+      "rationale": "possessive added — Hebrew פניו already carries 'his face', but Magahi needs आपन before मुँह"
+    }
+  ],
+  "translation": "आउ राजा ⟨आपन⟩ मुँह घुमालक, आउ यिस्राएल के पूरा सभा के आसीस देलक; आउ यिस्राएल के पूरा सभा ठाढ़ हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/8\/13-16.1791997063050.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "घुमालक"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन मुँह"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "आपन मुँह"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "आउ आसीस देलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के पूरा सभा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ पूरा"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ठाढ़ हलइ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:57:43.051483007Z",
+  "model": "glm-5.3"
+}

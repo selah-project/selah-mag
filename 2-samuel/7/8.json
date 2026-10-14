@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 7:8",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "यहवे त्सबाओत",
+      "rationale": "Tier-2 पिन: יהוה צבאות बीच में कुछो नञ — 'सेना के यहवे' जइसन अनुवाद नकारल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הנוה",
+      "rationale": "शाब्दिक 'वास-संतोस के जगह' — चरावे के जगह\/बाड़ा दुनो पढ़ल जा हइ; YLT 'comely place' शाब्दिक राखऽ हइ।"
+    }
+  ],
+  "translation": "आउ अब एने कहबइ हमर सेवक से, दाविद से: एने कहलन यहवे त्सबाओत — हम तोहरा चरावे के जगह से, भेड़ के पाछे से लेलन, जे तूँ हमर लोग ऊपर, यिस्राएल ऊपर सरदार बने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b1ef885071b0e92929955911a85d1e3be452551a1c2c5ffcb0af6c864f7f98f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/7\/5-8.1791996069358.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आउ अब"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एने"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "कहबइ"
+    },
+    {
+      "surface": "לעבדי",
+      "gloss": "हमर सेवक से"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "לקחתיך",
+      "gloss": "तोहरा लेलन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הנוה",
+      "gloss": "चरावे के जगह"
+    },
+    {
+      "surface": "מאחר",
+      "gloss": "के पाछे से"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेड़ के"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "जे बने"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमर लोग"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:41:09.359960747Z",
+  "model": "glm-5.3"
+}

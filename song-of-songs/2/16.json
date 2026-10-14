@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया-संबंध नञ; संबंध साफ करे बर जोड़ल"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הרועה בשושנים",
+      "rationale": "संगीत-संगीत में चरवाहा के सांकेतिक अरथ भी संभव — 'सूसन-फूल के बीच चरै वाला' प्रेमी के बिंब"
+    }
+  ],
+  "translation": "हमर परेमी हमर ⟨हकइ⟩ आउ हम ओकर ⟨हकइ⟩ — ऊ जे सूसन-फूल के बीच चरावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bd3493168025ecb6e5d4595580375f36c28be81abe3c704484593b3a3243cf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/2\/13-16.1792007983882.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "हमर परेमी"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर बर"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आउ हम"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर बर"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "चरावै वाला"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "सूसन-फूल के बीच"
+    }
+  ],
+  "timestamp": "2026-10-14T19:59:43.883054058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चुप्पी",
+      "rationale": "דומה मौत के अन्हार-चुप्पी हकइ, ओकरा चुप्पी रखल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "लगभग",
+      "rationale": "כמעע्घत: 'थोड़े दिन' बनाम 'लगभग' — दुनो पढ़ावा चलन में हइ"
+    }
+  ],
+  "translation": "यहवे के सहाये हमरा नञ मिलन होतन तऽ हमर परान लगभग चुप्पी में बसलन होतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2cc28e4c47c64080aef18a956129cbdd10e3b0989220dd5dc66fac0218a1dff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/94\/17-20.1792005698482.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "जऊन…नञ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "सहाये"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "लगभग"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "बसलन होतन"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "चुप्पी"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:38.483352758Z",
+  "model": "glm-5.3"
+}

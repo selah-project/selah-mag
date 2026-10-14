@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "खून मूड़ी पर",
+      "rationale": "इब्रानी मुहावरा — दोस के जिम्मेदारी ओकरा अपने ऊपर; असली जिम्मेदारी के चिन्हा।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע\/השמע",
+      "rationale": "क्रिया के दोहराव — 'सुनैतइ जे सुनैतइ' — सुने आउ नञ-माने के टकराव।"
+    }
+  ],
+  "translation": "आउ जे सुनैतइ ⟨את⟩ सिंग के आवाज, आउ चेतावे के नञ — तलवार अवैतइ आउ ओकरा ले लेतइ; ओकर खून ओकर मूड़ी पर होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8f1ca80d3354f7a00fa53d280ef366c2b80d30a1a1b53a3f36a03c07b561cf34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/33\/1-4.1792002659124.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "आउ सुनैतइ"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "जे सुनैतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सिंग के आवाज"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "सिंग के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "चेतावे के"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "अवैतइ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "ओकरा ले लेतइ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ओकर खून"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ओकर मूड़ी पर"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:30:59.126051065Z",
+  "model": "glm-5.3"
+}

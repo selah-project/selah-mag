@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 11:13",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "इब्रानी के बहुबचन तोहनी सब में देखावल गेलइ, सब्द जोड़ल गेलइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע תשמעו",
+      "rationale": "क्रिया के दोहराव — 'सुनते-सुनते सुनऽ' — पूरा ध्यान के बल, मगही में सुन के मानऽ से देखावल गेलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש के मगही रूप — साँस-परान, जीवन-बल"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "यिस्राएल के सीधा सम्बोधन — आज्ञा आउ वाचा के समझौता"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperative-hearing",
+      "rationale": "सुनऽ-मानऽ के आह्वान — शमा के ढाँचा"
+    }
+  ],
+  "translation": "आउ एहने होतइ — यदि तोहनी सब सुन के मानऽ हमरा बिधान सब के, जे हम आज्ञा देत छियौ तोहनी ⟨सब⟩ के आइ के दिन, यहवे तोहनी के एलोहीम ⟨את⟩ यहवे से परेम करै बर आउ ओकरा अपने पूरा हिरदय आउ पूरा परान से सेवा करै बर —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5e7356629e3c7a107172c684e4f174dd6f7f8a82d8a87133e9b805f7e348dd09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/11\/13-16.1791992282573.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ एहने होतइ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन के"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "मानऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के परति"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "हमरा बिधान सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "आज्ञा देत छियौ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी सब"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आइ के दिन"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "परेम करै बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    },
+    {
+      "surface": "ולעבדו",
+      "gloss": "आउ ओकरा सेवा करै बर"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "हिरदय से"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "आउ पूरा"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "परान से"
+    }
+  ],
+  "timestamp": "2026-10-14T15:38:02.574023656Z",
+  "model": "glm-5.3"
+}

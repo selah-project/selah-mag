@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 16:20",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מליצי",
+      "rationale": "जड़ לוץ — 'ताना मारऽ वाला' (केजेवी\/एएसवी) बनाम अरामाई 'बोली-बरदास्त करे वाला' (यल्त: 'हमरा बरदास्त हमरा मित्तर'); दुनू पढ़ावा पुरान हकइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "टपकऽ हइ",
+      "rationale": "דלפה शाब्दिक रूप से 'टपकना\/रिसाव' — आँसू के बरखा के तस्वीर"
+    }
+  ],
+  "translation": "हमरा ताना-मारे-वाला हमरा मित्तर हकइ; एलोअह के आगे हमरा आँख टपकऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dec02a82d0e9b8e9a3a8401e5f3db1ceb25f5ab05b84426a587ec3daee6cf823",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/16\/17-20.1792007406693.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מליצי",
+      "gloss": "हमरा ताना-मारे-वाला"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "हमरा मित्तर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "דלפה",
+      "gloss": "टपकऽ हइ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "हमरा आँख"
+    }
+  ],
+  "timestamp": "2026-10-14T19:50:06.694658279Z",
+  "model": "glm-5.3"
+}

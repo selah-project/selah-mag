@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סרה",
+      "rationale": "सूर\/सरर जड़ — 'फिर गेलइ \/ बागी \/ सुक-सुक' — 'उदास' (KJV sad) बनाम 'गुस्सैल' (JPS sullen)।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוחך",
+      "rationale": "रूआख खाली 'आत्मा' नञ — बतास\/साँस\/मन के भाव, इहाँ मन के हालत।"
+    },
+    {
+      "kind": "you",
+      "subject": "इजेबेल अहाब के सोधऽ हइ",
+      "rationale": "सीधा ओकर मुँह पर सवाल — की भेलइ।"
+    }
+  ],
+  "translation": "आउ ओकर जनाना इजेबेल ओकरा लग अइलन, आउ ओकरा कहलनक — की भेलइ जे तोहर रूआख फिर गेलइ हे आउ तूँ रोटी नञ खा रहला हऽ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "25573c7040ccdc824df79312cbf114424f56be25263d20735d64a80a517134bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/21\/5-8.1791997591682.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "इजेबेल"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ओकर जनाना"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "कहलनक"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "तोहर रूआख"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "फिर गेलइ हे"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "आउ तूँ नञ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खा रहला"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    }
+  ],
+  "timestamp": "2026-10-14T17:06:31.682966385Z",
+  "model": "glm-5.3"
+}

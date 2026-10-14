@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 1:14",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בתרועה…בסער…ביום…ביום",
+      "rationale": "ब-पदक के दोहरावल जोड़ी (नारा\/झड़ी, दिन\/दिन) — तूफान जइसन लय।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "खा जइतइ",
+      "rationale": "אכלה 'खाए' के साक्षात् रूप रखलन — आग जइसन खाए।"
+    }
+  ],
+  "translation": "आउ हम रब्बा के केवाड़ी में आग जरतइ, आउ ऊ ओकर महल सब के खा जइतइ — लड़ाई के दिन नारा-बीच में, झड़ी के दिन आँधी-तूफान में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8ea3357f7bb8576374b578ef6b087b6cd8cff0b290d2424767d26a7ec99e6a0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/1\/13-15.1792003408374.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "आग जरतइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "के केवाड़ी में"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "रब्बा"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "खा जइतइ"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ओकर महल सब के"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "नारा-बीच में"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई"
+    },
+    {
+      "surface": "בסער",
+      "gloss": "झड़ी में"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "आँधी-तूफान"
+    }
+  ],
+  "timestamp": "2026-10-14T18:43:28.375473331Z",
+  "model": "glm-5.3"
+}

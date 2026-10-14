@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 39:6",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סुखा-जंगल",
+      "rationale": "ערבा खाली जंगल नञ — नदी-किनार के खाराहट वाला सुखा घाटी हकइ"
+    }
+  ],
+  "translation": "जेकर घर हम सुखा-जंगल बनइलन, आउ ओकर डेरा-जगह नमकीन जमीन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "424b97368bbd02bfc44704596e477e791ffc4686d34782949bd1295ba1f91140",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/39\/5-8.1792007837236.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "हम बनइलन"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "सुखा-जंगल"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ओकर घर"
+    },
+    {
+      "surface": "ומשכנותיו",
+      "gloss": "आउ ओकर डेरा-जगह"
+    },
+    {
+      "surface": "מלחה",
+      "gloss": "नमकीन जमीन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:57:17.237676669Z",
+  "model": "glm-5.3"
+}

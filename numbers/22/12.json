@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "एलोहीम to बिलाम",
+      "rationale": "Direct prohibition addressed to Balaam."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארר \/ ברך",
+      "rationale": "Curse versus blessed stand opposed in one breath — antithesis carried into Magahi."
+    }
+  ],
+  "translation": "आउ एलोहीम बिलाम से कहलन, ई लोग के संग मत जा; ई लोग के ⟨את⟩ सराप मत दे, काहे कि ऊ असीसित हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "efe838158a0ccacf66bb1628b16dff59c221d95d84c0b6429d06775f2aedc408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/22\/9-12.1791991349131.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "ओकनी के संग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "सराप दे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई लोग के"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "असीसित"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ हकइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:22:29.132967556Z",
+  "model": "glm-5.3"
+}

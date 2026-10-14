@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बात",
+      "rationale": "इब्रानी के כלם परतिसर्ग से संकेत परति बात के ओर हकइ (पद 8 के मेर मुँह के बात); मगही में संज्ञा जोड़ल गेलन।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the discerning",
+      "rationale": "पद ज्ञान पावै वाला के सीधे संबोधन करऽ हइ।"
+    }
+  ],
+  "translation": "सब ⟨बात⟩ समझै वाला बर साफ हकइ, आउ ज्ञान पावै वाला बर सीधा-सीधा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7bf49462191565032b5e4c2f0216d6ebdf11826bea8f07bf665bfc49cd0ae9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/8\/9-12.1792006548716.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "सब"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "साफ"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "समझै वाला बर"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "आउ सीधा-सीधा"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "पावै वाला बर"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:48.716838471Z",
+  "model": "glm-5.3"
+}

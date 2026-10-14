@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 40:12",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחתם",
+      "rationale": "'ओकरा जगह में' — कुछ अनुवाद 'जहाँ ओ ठाढ़ हथिन' कहऽ हथिन; KJV 'in their place'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאה",
+      "rationale": "पद 11 आउ 12 में ओहे सब्द दोहरावल गेलइ — अकड़ के ओही बिन्दु पर नीचा कइल जा हइ"
+    }
+  ],
+  "translation": "हर एक अकड़ायल के देख, ओकरा झुका दे, आउ दुष्ट सब के ओकरा जगह में रोंद दे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ddc96f5b4a9968a83a0c7b5889c591dfe192340bc037b4a7a916fa2eec58d31f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/40\/9-12.1792007883233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "अकड़ायल"
+    },
+    {
+      "surface": "הכניעהו",
+      "gloss": "ओकरा झुका दे"
+    },
+    {
+      "surface": "והדך",
+      "gloss": "आउ रोंद दे"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट सब"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "ओकरा जगह में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:58:03.234237591Z",
+  "model": "glm-5.3"
+}

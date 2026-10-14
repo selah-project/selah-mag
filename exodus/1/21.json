@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ऊ",
+      "rationale": "करता इब्रानी में छिपल हइ — एलोहीम से बूझल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "घर",
+      "rationale": "בתים: घर \/ परिवार \/ खानदान — अनुवादक लोग में मतभेद"
+    }
+  ],
+  "translation": "आउ भेलन काहे कि नानिहारन सब ⟨את⟩ एलोहीम से डरलन, आउ ⟨ऊ⟩ ओकनी बर घर बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b258e81d015566a98919645efbce63515e3d2b133255fb7d249abb3ba91bf831",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/1\/21-22.1791987934843.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भेलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "डरलन"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "नानिहारन सब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलोहीम"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकनी बर"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "घर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:25:34.844366026Z",
+  "model": "glm-5.3"
+}

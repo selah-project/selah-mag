@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "क्रिया-संबंध बर मगही में 'हइ' जोड़ल गेलइ; इब्रानी में क्रिया नञ हइ"
+    }
+  ],
+  "translation": "जे अपन हिरदय पर भरोसा रखऽ हइ ऊ मूरख हइ, आउ जे चतुराई में चलऽ हइ ऊ बच जतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "91bae79eca09c14c1c755e3ce3aa658580e6ce4a3e595eecf88de4cc36c8c282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/28\/25-28.1792007039921.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "भरोसा रखऽ हइ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "अपन हिरदय पर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "आउ चलऽ हइ"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "चतुराई में"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "बच जतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:43:59.922148617Z",
+  "model": "glm-5.3"
+}

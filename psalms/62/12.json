@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "one \/ two",
+      "rationale": "गिनती के ताना — एक बात, दू गो कान — गवाही के ढाँचा"
+    },
+    {
+      "kind": "crux",
+      "subject": "once \/ twice",
+      "rationale": "अरथ बाझल बेरा: 'एक बार कहलन, दू बेरा सुनलियनी' बनाम 'एके बात — दू टुकरा में' (संख्यात्मक बढ़ती के सामान्य सामी ढंग)"
+    }
+  ],
+  "translation": "एक बेरा एलोहीम बात कहलन; दू बेरा ई हम सुनलियनी, कि ताकत एलोहीम के हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/62\/9-12.1792005257185.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "एक बेरा"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात कहलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दू बेरा"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ई"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "हम सुनलियनी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:17.186310916Z",
+  "model": "glm-5.3"
+}

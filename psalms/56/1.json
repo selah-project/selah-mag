@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "योनत-एलेम-रेहोकीम",
+      "rationale": "“गूँगी चिड़ी, दूर के” — ई सुर के नाम हकइ; कोनो अनुवाद ओकरा कथा के हिस्सा बनावऽ हइ (geneva “dumme doue in a farre countrey”), कोनो नाम जस के तस रखऽ हइ (jps)"
+    },
+    {
+      "kind": "crux",
+      "subject": "מכתם",
+      "rationale": "मिख्ताम के अरथ अनिश्चित हकइ — “खोदल लेख” या “सोना जइसन” (kethem); लिप्यन्तरन रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मनुस",
+      "rationale": "अनुवाद वाक्य में ओकर उच्चारण नञ आवल, काहे कि ई शीर्षक हकइ"
+    }
+  ],
+  "translation": "साजिहारे के बर — “दूर-देस के गूँगी चिड़ी (योनत-एलेम-रेहोकीम)” के सुर पर — दाविद (दाऊद) के मिख्ताम, जब पलिस्ती सब ओकरा गत में ⟨אתו⟩ पकड़लन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/56\/1-4.1792005191781.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "साजिहारे के बर"
+    },
+    {
+      "surface": "על",
+      "gloss": "के सुर पर"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "चिड़ी के"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "गूँगी"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "दूर-देस के"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "मिख्ताम"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "जब पकड़लन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिस्ती सब"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "गत में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:11.781571481Z",
+  "model": "glm-5.3"
+}

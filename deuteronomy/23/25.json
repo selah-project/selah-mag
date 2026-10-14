@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כנפשך",
+      "rationale": "lit. 'अपन परान के अनुसार' — इब्रानी मुहावरा 'जएतना मन चाहै', इहाँ परान के आकांक्सा के रूप में रखल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल के परजा",
+      "rationale": "बिधान के सीधा आदेस — एकेक किसान से बोलल जा रहलइ हे।"
+    }
+  ],
+  "translation": "जब तूँ आबै अपन संगी के अंगूर के बारी में, त अंगूर खा लिअ — अपन परान के अनुसार, अपन तृप्ति ले; बाकि अपन बरतन में कुछो मत रखबै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "46e2fc80679570dcdf66269e774d7577a2fdb49e2dfdec9b72811722e975a34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/23\/25-26.1791992686051.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "आबै"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "अंगूर के बारी में"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "अपन संगी के"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "आउ खा लिअ"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "अंगूर"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "अपन परान के अनुसार"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "अपन तृप्ति ले"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ ⟨के⟩ भीतर"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "अपन बरतन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "रखबै"
+    }
+  ],
+  "timestamp": "2026-10-14T15:44:46.051558952Z",
+  "model": "glm-5.3"
+}

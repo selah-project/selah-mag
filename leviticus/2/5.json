@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मिन्हा",
+      "rationale": "מנחה Tier-2 रूप मिन्हा; अन्न-बलि के संकीर्ण अरथ नञ थोड़ल गेल"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מחבת",
+      "rationale": "מחבת (तवा) — तनाख़ में कुछ जगह बर; बरतन के ठीक आकार पर अनुवादक मतभेद"
+    }
+  ],
+  "translation": "आउ यदि तोहर के बलि तवा पर बनल मिन्हा होवे, तओ ओ सूखल पिसान के होतइ जे तेल में मिललइ होतइ, बिना खमीर के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "16c89a26376a241ad035c7e866c2c3fbb5f05f783cbfb95f71b6da5858b11717",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/2\/5-8.1791989442830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ यदि"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मिन्हा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "तवा"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "तोहर के बलि"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "सूखल पिसान"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "मिललइ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "तेल में"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "बिना खमीर के"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:50:42.830957596Z",
+  "model": "glm-5.3"
+}

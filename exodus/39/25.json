@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פעמני\/הרמנים",
+      "rationale": "घंटी आउ अनार के दोहराव चोगा के किनारा के बनावट देखावऽ हइ — एक-एक के लय मगही में बनैने रहलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המעיל",
+      "rationale": "चोगा — ऊपर के लम्बा चोगा, इब्रानी 'मेइल' के मगही वस्त्र।"
+    }
+  ],
+  "translation": "आउ ओनी शुद्ध सोना के घंटी सब बनइलन, आउ ⟨את⟩ घंटी सब के चोगा के किनारा पर चारों दने अनार सब के बीच में रखलन, अनार सब के बीच में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bd19736a70012c6ccba8d4a438b365778c09f5766ce8a77fc062916ec704424b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/39\/25-28.1791989420350.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "आउ ओनी बनइलन"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "घंटी सब"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "आउ रखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घंटी सब"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "घंटी सब"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "अनार सब"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "चोगा"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों दने"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "अनार सब"
+    }
+  ],
+  "timestamp": "2026-10-14T14:50:20.350938647Z",
+  "model": "glm-5.3"
+}

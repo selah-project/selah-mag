@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 22:2",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נושא",
+      "rationale": "'कर्ज माँगए वाला' (exactor) बनाम 'कर्जदार' — KJV 'in debt' पढ़ऽ हइ, बाकि שורש 'ब्याज पर उधार देना\/दबाव देना' हकइ; इब्रानी कहऽ हइ जे ओकरा कोनो माँगए वाला हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש परान बदाव गेलइ — साँस-जीवन-परान, आत्मा नञ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चारि सौ मरद",
+      "rationale": "दाविद के दल के गिनती — करीब चारि सौ।"
+    }
+  ],
+  "translation": "आउ ओकर लग जुड़लन हर ओ मरद जे संकट में हलइ, आउ हर ओ मरद जेकरा कोनो कर्ज माँगए वाला हलइ, आउ हर ओ मरद जेकर परान में कड़वाहट हलइ; आउ ऊ ओकनी पर सरदार बनलन, आउ ओकर संग करीब चारि सौ मरद हलथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/22\/1-4.1791995579894.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "जुड़लन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकर लग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "מצוו",
+      "gloss": "संकट में"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ हर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "कर्ज माँगए वाला"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ हर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "מר",
+      "gloss": "कड़वाहट"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "बनलन"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ओकनी पर"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "हलथिन"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संग"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "करीब चारि"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    }
+  ],
+  "timestamp": "2026-10-14T16:32:59.895099962Z",
+  "model": "glm-5.3"
+}

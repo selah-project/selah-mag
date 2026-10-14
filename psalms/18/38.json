@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "काल",
+      "rationale": "इब्रानी अपूर्ण काल रहऽ हकइ — पुरान अनुवाद भूतकाल लेथिन ('I have pursued'), अउर भबिस-बोली; मगही में चलत-काल धरल गेलइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואשיגם",
+      "rationale": "'पकड़ब' या 'ओकनी तक पहुँचब' — रद्देफ के संग दुनू अरथ चलऽ हइ।"
+    }
+  ],
+  "translation": "हम हमर बैरिन के पीछा करत हिए आउ ओकनी के पकड़ब, आउ जब तक ओकनी खतम नञ हो जात, हम पीछे नञ लौटब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3592fb4a228b3904063d69dd3b8e8d0d462e7e6a2ba99387922a948eb95a95bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/18\/37-40.1792004609750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "पीछा करत हिए"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "हमर बैरिन के"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "आउ ओकनी के पकड़ब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "लौटब"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब तक"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ओकनी के खतम होवे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:03:29.751397370Z",
+  "model": "glm-5.3"
+}

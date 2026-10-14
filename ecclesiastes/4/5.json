@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "गुथऽ हइ अपन हाथ",
+      "rationale": "חבק את ידיו — हाथ गूथब के चलनसार मतलब आलस्य, शाब्दिक 'हाथ के गले लगब' हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "अपन मांस खाऽ हइ",
+      "rationale": " figurative: आलस अपने के खऽ हइ; कोनो पढ़निहार शाब्दिक चित्र से इब्रानी के दावा फेर गढ़ सकऽ हइ।"
+    }
+  ],
+  "translation": "मूरख ⟨את⟩ अपन हाथ गुथऽ हइ आउ ⟨את⟩ अपन मांस खाऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/4\/5-8.1792008407078.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "गुथऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन हाथ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "अपन हाथ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "आउ खाऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन मांस"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "अपन मांस"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:47.078942968Z",
+  "model": "glm-5.3"
+}

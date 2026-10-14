@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נפלתי קמתי",
+      "rationale": "हिब्रू दूनो क्रिया भूतकाल में हकइ ('हम गेलिए — हम उठलिए'); किछु अनुवाद दोसरा के भबिस में ले जाता ('हम उठतइ')।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפל\/קם",
+      "rationale": "गिरना–उठना के जोड़ी एहियो आउ होसे 6:1–2 में वापस आवऽ हइ — जीवन के उठान-गिरावट के बिंब।"
+    },
+    {
+      "kind": "you",
+      "subject": "हमर दुस्मन के",
+      "rationale": "बक्ता सीधा दुस्मन के सम्बोधन करऽ हइ।"
+    }
+  ],
+  "translation": "हमर दुस्मन, हम पर मत खुस हो, काहे कि हम गेलिए — हम उठतइ; काहे कि हम अन्हार में बैठलइ हम — यहवे हमर बर इँजोर हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6fb42ba567955f16c666c145c444f7fed2cb1743d17213a26e829831390c00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/7\/5-8.1792003896747.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "खुस हो"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "हमर दुस्मन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हम पर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "हम गेलिए"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "हम उठतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "बैठलइ हम"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "अन्हार में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אור",
+      "gloss": "इँजोर"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर बर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:51:36.748389021Z",
+  "model": "glm-5.3"
+}

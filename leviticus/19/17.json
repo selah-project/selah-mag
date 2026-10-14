@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הוכח תוכיח",
+      "rationale": "infinitive-absolute + finite verb: 'समझा-समझा' — emphasis, flattened in translation."
+    },
+    {
+      "kind": "crux",
+      "subject": "עליו חטא",
+      "rationale": "'bear sin on him' (KJV) vs 'because of him' (JPS\/ASV) vs 'incur guilt on his account'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "second-person singular commands addressed to each Israelite."
+    }
+  ],
+  "translation": "⟨את⟩ तोहर भाय के मन मन ⟨में⟩ नञ नफरत करऽ; ⟨את⟩ तोहर संगी के खुले समझा; आउ ओकरा ऊपर पाप नञ उठा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ccbaff01e3173c16ada5e3f6fa7e518d1258e7d2ab91f54fa1b99f025509e4af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/19\/17-20.1791990151468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "नफरत करऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर भाय"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तोहर भाय"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "तोहर मन मन"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "खुले समझा"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "समझा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर संगी"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "तोहर संगी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "उठा"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप"
+    }
+  ],
+  "timestamp": "2026-10-14T15:02:31.468991824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מנחה",
+      "rationale": "मिन्हा — भेंट नञ, एहीं राजा के खिताबी भेंट (मिन्हा) के अरथ हकइ; कोनो एक मगही सब्द में घटावे से अरथ धुँधला होतइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויכן",
+      "rationale": "कुने ठाढ़ होवे के अरथ; एहीं राज के मजबूत करे के अरथ में लेल गेल।"
+    }
+  ],
+  "translation": "आउ यहवे ⟨את⟩ राज ओकर हाथ में मजबूत कएलन, आउ यहूदा के सब लोग यहोसापात के मिन्हा देलन, आउ ओकर बर ढेर सम्पत्ति आउ मान-इज्जत भेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a52d366876a78ef456d9b44a2639baa113a846f33faa3122ead21bab2ad393b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/17\/5-8.1792010965815.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "मजबूत कएलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "राज"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "राज"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ओकर हाथ में"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के लोग"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मिन्हा"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "यहोसापात के"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "भेलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर बर"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "सम्पत्ति"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "आउ मान-इज्जत"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:49:25.815726121Z",
+  "model": "glm-5.3"
+}

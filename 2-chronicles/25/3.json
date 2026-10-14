@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חזקה המमלכה עליו",
+      "rationale": "सचमुच ‘ऊ पर राज जम गेलै’ — ताकत पकड़े के चलनसार मुहावरा"
+    }
+  ],
+  "translation": "आउ जइसने ओकरा पर राज जम गेलै, तब ऊ ⟨את⟩ ओकर सेवक लोग के मार देलन जे ⟨את⟩ राजा ओकर बाप के मारलन हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f45edff1001d8a92ef1a4d6afe364b8970937d22695a048556d247bd5f5f0775",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/25\/1-4.1792011221779.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ जइसने"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "जम गेलै"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "राज"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "तब ऊ मार देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर सेवक लोग के"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ओकर सेवक लोग के"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "जे मारलन हलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "राजा ओकर बाप के"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ओकर बाप"
+    }
+  ],
+  "timestamp": "2026-10-14T20:53:41.780871426Z",
+  "model": "glm-5.3"
+}

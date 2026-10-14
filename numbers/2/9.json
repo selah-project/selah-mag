@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 2:9",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "जाति-गणना",
+      "rationale": "यहूदा के डेरा के कुल गिनती — एक लाख अस्सी हजार छह हजार चार सौ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחנה",
+      "rationale": "मूल शब्द डेरा\/फौजी माखना दुनो अरथ रखऽ हइ; इहाँ फौजी डेरा के अरथ हइ।"
+    }
+  ],
+  "translation": "माखना यहूदा में गिनल गेल सब लोग — सौ हजार आउ अस्सी हजार आउ छह हजार आउ चार सौ — ओकनी के सेना-दल के हिसाब से; ऊ लोग पहिले कूच करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9d543fe84f25228419aebb86b9aaec13428e6107e5d5765b7715d1c2c697151b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/2\/9-12.1791990568157.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "गिनल गेल"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "माखना में"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "आउ अस्सी"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "आउ छह"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आउ चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ओकनी के सेना-दल के हिसाब से"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "पहिले"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "कूच करतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:09:28.158344498Z",
+  "model": "glm-5.3"
+}

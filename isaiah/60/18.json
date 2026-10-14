@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 60:18",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "नाम धरना",
+      "rationale": "हिब्रू के 'कहऽ हए' — दीवार के नाम 'मुक्ति' आउ दुआरी के नाम 'महिमा-गीत' रखल जाऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "सिय्योन",
+      "rationale": "पूरा पड़ा सिय्योन के सीधा सम्बोधन हकइ।"
+    }
+  ],
+  "translation": "नञ, तोहर धरती में फेर अत्याचार सुनल नञ जातइ, तोहर सीमा में उजाड़ी आउ तोड़-फोड़ नञ; बाकि तूँ मुक्ति के अपन दीवार कहऽ हए, आउ महिमा-गीत के अपन दुआरी सब।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9a1ab610082a180e5a7e0ea04dca150bbf2d16d8506f28a5222b330f1a4ed16e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/60\/17-20.1791999939560.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनल जातइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "अत्याचार"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "तोहर धरती में"
+    },
+    {
+      "surface": "שד",
+      "gloss": "उजाड़ी"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "आउ तोड़-फोड़"
+    },
+    {
+      "surface": "בגבוליך",
+      "gloss": "तोहर सीमा में"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "बाकि तूँ कहऽ हए"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "मुक्ति"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "अपन दीवार"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "आउ अपन दुआरी सब"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "महिमा-गीत"
+    }
+  ],
+  "timestamp": "2026-10-14T17:45:39.560769380Z",
+  "model": "glm-5.3"
+}

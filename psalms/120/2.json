@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש 'आत्मा' नहीं — जीवन-शक्ति\/प्राण के लिए परान चुना गया"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "प्रार्थना का सीधा सम्बोधन यहवे के नाम से"
+    }
+  ],
+  "translation": "यहवे, हमर परान के झूठ के होंठ से आउ कपट के जिब्ही से बचा ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/120\/1-4.1792006168091.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "बचा ले"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "होंठ से"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "जिब्ही से"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "कपट के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:28.092716591Z",
+  "model": "glm-5.3"
+}

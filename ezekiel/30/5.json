@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הערב",
+      "rationale": "मिलल-जुलल लोग (mingled people) बनाम 'बुनल सब्द\/अरब' — परम्परा में मतभेद हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארץ הברית",
+      "rationale": "'वाचा के देस' — कुन देस, ई साफ नञ; किछु पढ़ावल 'जे वाचा में हइ'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אתם",
+      "rationale": "ई अलेफ-तव के चिन्हा नञ, 'ओकनी संग' (अलेफ-तव preposition) हकइ — एहे से ⟨את⟩ चिन्हा नञ लगाओल गेल"
+    }
+  ],
+  "translation": "कुश आउ पुत आउ लुद आउ सब मिलल-जुलल लोग, आउ कुब, आउ वाचा के देस के बेटा — ⟨את⟩ ओकनी संग तलवार से गिरतान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "062a46258268324527eb81dd531463b015fa738b518e1ad29dd9be386dd10c3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/30\/5-8.1792002545928.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "कुश"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "आउ पुत"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "आउ लुद"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "मिलल-जुलल लोग"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "आउ कुब"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आउ … के बेटा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देस"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "वाचा के"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ओकनी संग",
+      "marks": "कुश, पुत, लुद, मिलल-जुलल लोग आउ कुब"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "गिरतान"
+    }
+  ],
+  "timestamp": "2026-10-14T18:29:05.929283133Z",
+  "model": "glm-5.3"
+}

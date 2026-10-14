@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 8:7",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עד הנה",
+      "rationale": "शाब्दिक 'इहाँ तक' — मनुस के आगमन के जगह बतावऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "कि",
+      "rationale": "बतावे वाला वाक्य जोड़े बर मगही में 'कि' जोड़ल गेलइ।"
+    }
+  ],
+  "translation": "आउ एलिशा दमिश्क अइलन, आउ बेन-हादाद, अराम के राजा, बिमार हलथिन। तब ओकरा ई बतावल गेलइ कि एलोहीम के मनुस इहाँ अइलन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/8\/5-8.1791998004594.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "एलי׶ा"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "दमिश्क"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "आउ बेन"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "हादाद"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम के"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "बिमार हलथिन"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "बतावल गेलइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलन हथिन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "इहाँ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "तक"
+    }
+  ],
+  "timestamp": "2026-10-14T17:13:24.595663198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 20:3",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paran",
+      "rationale": "נפש rendered as परान (life\/breath-force), not 'soul'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מגאל הדם",
+      "rationale": "'the redeemer of the blood' — next-of-kin duty; Magahi 'बदला लेवै वाला' (avenger) follows sense, kin-redeemer nuance (गोअल) partly lost"
+    }
+  ],
+  "translation": "जे परान मारै वाला गलती से, बिना जाने-बूझे के कोनो परान के मारऽ हो, ओ ओकरा में शरन लेतइ; आउ ऊ नगर सब तोहनी बर खून के बदला लेवै वाला से शरण बनतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "37074ecb82818d098037b6f9d9124a57fb5df0627c523c4c7396dc92a7f20696",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/20\/1-4.1791993740405.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לנוס",
+      "gloss": "शरन लेतइ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "परान मारै वाला"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "मारऽ हो"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "गलती से"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "जाने-बूझे के"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "बनतइ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "शरण"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "बदला लेवै वाला"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "खून के"
+    }
+  ],
+  "timestamp": "2026-10-14T16:02:20.406107708Z",
+  "model": "glm-5.3"
+}

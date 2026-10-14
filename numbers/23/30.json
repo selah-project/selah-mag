@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एक-एक",
+      "rationale": "इब्रानी 'बेदी पर' एकवचन कहऽ हइ; 'हर बेदी पर' के अरथ परिवेश से आवऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "במזבח",
+      "rationale": "'एक बेदी पर' (एकवचन, ylt) बनाम 'हर बेदी पर' (KJV\/JPS, परिवेश से सात बेदी)"
+    }
+  ],
+  "translation": "आउ बालाक ओहे कइलक जे बिलाम कहलन हल, आउ ⟨एक-एक⟩ बेदी पर एक बैल आउ एक मेढ़ा चढ़ा देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "06df11e3cf8896993132f02f86dd848063c454e7f7502231933981c2abe02daf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/23\/29-30.1791991397711.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आउ कइलक"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ओहे जे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन हल"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "आउ चढ़ा देलक"
+    },
+    {
+      "surface": "פר",
+      "gloss": "एक बैल"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "आउ एक मेढ़ा"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "बेदी पर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:23:17.712066058Z",
+  "model": "glm-5.3"
+}

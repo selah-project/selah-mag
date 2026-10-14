@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 8:9",
+  "book": "ezra",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलन",
+      "rationale": "इब्रानी पद-सूची में क्रिया नञ हइ; मगही वाक्य बर क्रिया जोड़ल गेलन"
+    },
+    {
+      "kind": "elision",
+      "subject": "עשר",
+      "rationale": "अठारह में -दस पहले से मिलल हइ, अलग से पार नञ भेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दू सौ अठारह मरद",
+      "rationale": "गिनती-पट्टी — योआब के घराना के जनगिनती"
+    }
+  ],
+  "translation": "योआब के बेटा सब में से — ओबद्याह, यहिएल के बेटा — आउ ओकरा संग दू सौ अठारह मरद हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "541e9952b427743723e80862aa5875b93e47435f17961abfdbb3d52f5983699b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/8\/9-12.1792009375820.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "के बेटा सब में से"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ओबद्याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "यहिएल"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "आउ ओकरा संग"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दू सौ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨अठारह के भीतर⟩"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "मरद"
+    }
+  ],
+  "timestamp": "2026-10-14T20:22:55.820933584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जोहऽ हइ",
+      "rationale": "इब्रानी भबिसकाल के किरिया बिना सहायक के छोड़लइ; मगही के बनावट बर ⟨हइ⟩ जोड़ल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "וזרעי",
+      "rationale": "एकबचन बाँह नञ बहुबचन बाँह सब — पुरान अनुवादन में फरक"
+    }
+  ],
+  "translation": "नजिक हइ हमर त्सेदेक, निकललइ हमर छुटकारा, आउ हमर बाँह जाति सब के नियाव करतइ; हमरा बाट टापू सब जोहऽ हइ आउ हमर बाँह बर आस रखऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9a4f1e9926828b5cac6f5d4d9ddee63d7f948302d226de0add5e940bec40d0e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/51\/5-8.1791999740488.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "नजिक हइ"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "हमर त्सेदेक"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकललइ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "हमर छुटकारा"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "आउ हमर बाँह"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "नियाव करतइ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा बाट"
+    },
+    {
+      "surface": "איים",
+      "gloss": "टापू सब"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "जोहऽ हइ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ ⟨हमर⟩"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "बाँह"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "आस रखऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:42:20.489589322Z",
+  "model": "glm-5.3"
+}

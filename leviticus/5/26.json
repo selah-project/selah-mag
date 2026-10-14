@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 5:26",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על אחת מכל",
+      "rationale": "'एक के बारे में सब में से' — अनुवादक मतभेद: 'एक गलती के बदले' बनाम 'जे कुछो के बारे में' (jps दोसर रास्ता लेलथिन)।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וכפר",
+      "rationale": "शाब्दिक 'ढाकना' — प्रायस्चित ढाँचा लेल गेल; ढके के तस्वीर मगही में नञ आवऽ हइ।"
+    }
+  ],
+  "translation": "आउ पुरोहित ओकर बर यहवे के सामने प्रायस्चित करतइ, आउ ओकरा माफ कर देल जातइ — जे कुछो ऊ ओकरा में अशाम बनाबे बर करऽ हथिन, ओकरा में से एक के बारे में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e72e9be578792134e9626e8076cc5fa5751bd4834d83410a45040802ed2338b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/5\/25-26.1791989508601.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "आउ प्रायस्चित करतइ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर बर"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "आउ माफ कर देल जातइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बारे में"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ओकरा में से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करऽ हथिन"
+    },
+    {
+      "surface": "לאשמה",
+      "gloss": "अशाम बनाबे बर"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:51:48.602410040Z",
+  "model": "glm-5.3"
+}

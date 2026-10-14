@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפश गला\/परान-बल हकइ; ठीक सब्द तालिका के मोताबिक परान लेल गेल"
+    },
+    {
+      "kind": "alternative",
+      "subject": "रबत",
+      "rationale": "'बहुते दिन ले' बनाम 'बहुते ढेर' — काल के अरथ संदर्भ से जाहिर होवऽ हइ"
+    }
+  ],
+  "translation": "बहुते दिन ले रहलइ हमर परान सांति से नफरत करै वाला के संग।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/120\/5-7.1792006157370.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "बहुते दिन ले"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "रहलइ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "हमर"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "परान"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "नफरत करै वाला"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:17.371651705Z",
+  "model": "glm-5.3"
+}

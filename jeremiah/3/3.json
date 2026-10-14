@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 3:3",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "शरम लेबे से मना कइलक",
+      "rationale": "希 הכלם के अरथ 'ताना मारल जाना' हकइ; 'शरम' एकरा के ग्रहण करे के चलनसार तरीका हकइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "वेस्या के मूड़ी",
+      "rationale": "希 'मेकढ़ माथा' — बेशरमी के चिन्हा; अनुवाद साँकेतिक आकृति रखऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "संबोधित के ओकर बेशरमी के सीधा उल्लेख।"
+    }
+  ],
+  "translation": "एही से बरखा के बूँद सब रुक गेलन आउ बसन्त के बरखा नञ भेलइ; वेस्या जनाना के मूड़ी तोहर भेल गेल — शरम लेबे से तूँ मना कइलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6978f36bd0adc38f0e78e67c98190039b1e588eae5832a5d01d7502bbc3d144d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/3\/1-4.1792000155181.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימנעו",
+      "gloss": "रुक गेलन"
+    },
+    {
+      "surface": "רבבים",
+      "gloss": "बरखा के बूँद सब"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "आउ बसन्त के बरखा"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भेलइ"
+    },
+    {
+      "surface": "ומצח",
+      "gloss": "आउ मूड़ी"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "वेस्या"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भेल गेल"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहर"
+    },
+    {
+      "surface": "מאנת",
+      "gloss": "मना कइलक"
+    },
+    {
+      "surface": "הכלם",
+      "gloss": "शरम लेबे से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:49:15.182723160Z",
+  "model": "glm-5.3"
+}

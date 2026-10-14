@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשם",
+      "rationale": "दोस बनाम दोस-बलि — KJV 'offering for sin', JPS 'offer itself in restitution' (दोस के भुगतान); दुनू पठन चलनसार हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "תשים के करता",
+      "rationale": "KJV 'तूँ' (you) पढ़ऽ हइ, बाकी हिन्दी-मगही के बिना-करता बनावटी बाक्य अनिश्चित करतइ — 'अगर ओकर परान के दोस-बलि धरथे'।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חפץ",
+      "rationale": "क्रिया रूप में 'चाहलन' (was pleased); संज्ञा रूप में 'चाह' (यहवे के चाह) — दुनू पद एके जड़ के, इनकार-जोड़ गढ़ल गेल हइ।"
+    }
+  ],
+  "translation": "आउ यहवे के चाह रहलइ कि ओकरा कुचलल जातइ; ओकरा दुखी बनइलन; अगर ओकर परान के दोस-बलि धरथे, त ऊ बिया देखतइ, ओकर दिन लम्बा करतइ, आउ यहवे के चाह ओकर हाथ में सफल होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "81ad57a315171e8b416ebe459935addb5beab3a0e2e49d64d797673addd96111",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/53\/10-11.1792011906243.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "चाहलन"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "ओकरा कुचलल"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "दुखी बनइलन"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "धरथे"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "दोस-बलि"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ओकर परान"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखतइ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बिया"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "लम्बा करतइ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "आउ चाह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ओकर हाथ में"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "सफल होतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T21:05:06.243604443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "पचास बरिस",
+      "rationale": "उमिर के गिनती — लेवी के सेवा के बिधान के अंग।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दल",
+      "rationale": "צבא के साफ अरथ सेना-दल हकइ; इहाँ सेवा के गिनती-गोल दल के बोध हकइ।"
+    }
+  ],
+  "translation": "आउ पचास बरिस के उमिर के आदमी सेवा-काज के दल से लौटतइ, आउ आगू नञ करतइ काज।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "28933ed394d984f3063532df253a2435a1ab93db37f20c16786725d732f8fae6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/8\/25-26.1791990835976.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "आउ …के उमिर के आदमी"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "लौटतइ"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "दल से"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "सेवा-काज के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "करतइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगू"
+    }
+  ],
+  "timestamp": "2026-10-14T15:13:55.976723508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ותקד \/ ותשתחו",
+      "rationale": "दू झुकाव — पहिला सिर-झुकाव, दोसरा पूरा दण्डवत; दूनू क्रिया के अन्तर बरकरार रखल गेल।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה לך",
+      "rationale": "शाब्दिक: 'का तोहरा बर?' — मगही में 'का बात हऽ तोहरा बर?' सुभाविक।"
+    }
+  ],
+  "translation": "तब बत शेबा झुकलइ आउ राजा के दण्डवत करलक; आउ राजा कहलन: का बात हऽ तोहरा बर?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6c69edec50781295b2e58ebe30217b1d3f0b96a12e6686d6e81dae9a6daa9d8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/1\/13-16.1791996639820.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "तब झुकलइ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बत"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "आउ दण्डवत करलक"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का बात"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:50:39.822029884Z",
+  "model": "glm-5.3"
+}

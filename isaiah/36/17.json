@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תירוש",
+      "rationale": "तिरोस खाली नया निचोड़ल अंगूर के रस हकइ; 'नया अंगूरी मद' लेलनी गेलन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "हिब्रू में 'जइसन तोहनी के धरती' के बाद क्रिया नञ हकइ।"
+    }
+  ],
+  "translation": "जखन तक हम ⟨את⟩ तोहनी के नञ अइनी आउ लेलन अइसन धरती के दने जइसन तोहनी के धरती हकइ — अनाज आउ नया अंगूरी मद के धरती, रोटी आउ बगइचा के धरती।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8881f14b30031a125d43260bb96bd7300760a5d2775bf4b6cd091b70ec8f92c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/36\/17-20.1791999322012.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जखन तक"
+    },
+    {
+      "surface": "באי",
+      "gloss": "हम अइनी"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "आउ लेलन"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी के",
+      "marks": "तोहनी के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने के"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "जइसन तोहनी के धरती हकइ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "अनाज"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "आउ नया अंगूरी मद"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "आउ बगइचा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:35:22.013413141Z",
+  "model": "glm-5.3"
+}

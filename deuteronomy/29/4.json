@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "चालिस बरिस",
+      "rationale": "समय के गिनती — उजाड़ में चालिस बरिस।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "बहुबचन से एकबचन",
+      "rationale": "कपड़ा बहुबचन (तोहनी के) से जुत्ता अचानक एकबचन (तोहर, तोहर गोड़) — इब्रानी के जुड़वाँ-पंक्ति के असमानता, मगही में जस के तस रखल।"
+    }
+  ],
+  "translation": "आउ हम ⟨את⟩ तोहनी के चालिस बरिस उजाड़ में घुमाए चललहीं; तोहनी के कपड़ा तोहनी के ऊपर से घिसल नञ, आउ तोहर जुत्ता तोहर गोड़ से घिसल नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5234afd9c2a388a948bad7267e80da4ae8c3539e81794b134202fd7ab9ddf88f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/29\/1-4.1791992966631.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "आउ घुमाए चललहीं"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तोहनी के",
+      "marks": "तोहनी (चालिस बरिस ले उजाड़ में)"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालिस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "उजाड़ में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "घिसल"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "तोहनी के कपड़ा"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "तोहनी के ऊपर से"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "आउ तोहर जुत्ता"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "घिसल"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "तोहर गोड़ से"
+    }
+  ],
+  "timestamp": "2026-10-14T15:49:26.633099448Z",
+  "model": "glm-5.3"
+}

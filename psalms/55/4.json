@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "अवन मूल रूप में 'शून्यता \/ कपट' हकइ; 'अन्याय' लेल गेलइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישטמוני",
+      "rationale": "शातम: 'बैर रखऽ हथिन' बनाम 'सतावऽ हथिन' — KJV 'hate', ASV\/JPS 'persecute'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפני",
+      "rationale": "'मुँह के सामने से' — मगही में संयोजक के रूप में 'सामने से' लेल गेलइ, पूरा बिम्ब घटलइ"
+    }
+  ],
+  "translation": "दुस्मान के आवाज से, बुरा आदमी के दबाव से — काहे कि ओकनी हमरा पर अन्याय गिरावऽ हथिन, आउ क्रोध में हमरा से बैर रखऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d15f6b4a913a9b182681b1880de94e1cf3804f039cc65164cec04b8fe9e2a985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/55\/4-4.1792012029065.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "आवाज से"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "दुस्मान के"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "सामने से"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "दबाव"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुरा आदमी के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "गिरावऽ हथिन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा पर"
+    },
+    {
+      "surface": "און",
+      "gloss": "अन्याय"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "आउ क्रोध में"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "हमरा से बैर रखऽ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T21:07:09.065535158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "अहऽ",
+      "rationale": "इब्रानी में क्रिया-हाजिर नञ; मगही के बाक्य के चाही।"
+    },
+    {
+      "kind": "you",
+      "subject": "हमरी परेमिका के",
+      "rationale": "परेमी के मुँह से जनाना के सीधा सराहना।"
+    },
+    {
+      "kind": "crux",
+      "subject": "כנדגלות",
+      "rationale": "झंडा-धारी सेना बनाम चमकत तारा-झुंड (מִנִּדְגָּלוֹת के जड़ पर मतभेद); झंडा-सजल सेना लेल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפה … נאוה … אימה",
+      "rationale": "तीन उपमा के सीढ़ी — सुंदरता से भय तक; समानांतर बनावट रखल गेलइ।"
+    }
+  ],
+  "translation": "सुन्दर अहऽ तूँ, हमरी परेमिका, तिर्त्सह जइसन; मनोहर यरूशलयिम (यरूशलेम) जइसन; भय-दायी झंडा-सजल सेना जइसन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/6\/1-4.1792008001746.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "את",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "हमरी परेमिका"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "तिर्त्सह जइसन"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "मनोहर"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "यरूशलयिम जइसन"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "भय-दायी"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "झंडा-सजल सेना जइसन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:00:01.747461467Z",
+  "model": "glm-5.3"
+}

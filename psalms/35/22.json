@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "यहवे के सीधे अरजी — मौन मत रहऽ, दूर मत जाऽ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראיתה \/ ראתה",
+      "rationale": "पद 21 के देखलन (ओकनी के आँख) के उत्तर में देखलथिन (तोहर आँख) — उलटा-मोहर"
+    }
+  ],
+  "translation": "देखलथिन, यहवे; मौन मत रहऽ; अदोनाय, हमरा से दूर मत जाऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "62a9386b2fa9834f237bbb5a747f8a9d777c61801934371a508b20b182a65367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/35\/21-24.1792004854069.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "देखलथिन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "मौन मत रहऽ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "दूर मत जाऽ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमरा से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:34.070298596Z",
+  "model": "glm-5.3"
+}

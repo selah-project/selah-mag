@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "के मुँह से",
+      "rationale": "מפני (चेहरा से) — इबरानी मुहावरा “किसी के सामने से भागना”"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישב…וישב",
+      "rationale": "एके क्रिया दुइ बेर — पहिला “बस गेलन”, दोसरा “बइठलन”; इबरानी के दोहराव"
+    }
+  ],
+  "translation": "फिरौन ई बात सुनलक आउ मोशे (मूसा) के मारै के खोज करलक; बाकि मोशे फिरौन के मुँह से भाग गेलन आउ मिद्यान (मिद्यान) के धरती में जाके बस गेलन आउ कुइयाँ के किनारे बइठलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "82604d86beb69d4cde98743c13801de55a665741eb8b1b0e5b4d2b9294b1a651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/2\/13-16.1791988017925.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलक"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई बात के"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ई बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "खोज करलक"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "मारै के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे के"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "भाग गेलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के मुँह से"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "बस गेलन"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिद्यान"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "बइठलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "किनारे"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "कुइयाँ के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:26:57.926902957Z",
+  "model": "glm-5.3"
+}

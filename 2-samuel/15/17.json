@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 15:17",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בית המרחק",
+      "rationale": "जगह के नाम बेत-हम्मेरहाक बनाम अरथ-अनुवाद 'दूर के घर' — दुनू परम्परा में चलऽ हइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ברגליו",
+      "rationale": "'ओकर गोड़े-गोड़े' — ओकर पाछे-पाछे चलऽ हइ, कोनो गोड़ के सामीप्य नञ।"
+    }
+  ],
+  "translation": "आउ राजा निकललन, आउ सब लोग ओकर गोड़े-गोड़े, आउ ओन्ही ठाढ़ भेलन बेत-हम्मेरहाक (दूर के घर) में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2655ab66004121c956557883e3353d19732b57ecff9aaa23052efb676f10f488",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/15\/17-20.1791996302159.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकललन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ओकर गोड़े-गोड़े"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "आउ ठाढ़ भेलन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "המרחק",
+      "gloss": "हम्मेरहाक (दूर)"
+    }
+  ],
+  "timestamp": "2026-10-14T16:45:02.159756269Z",
+  "model": "glm-5.3"
+}

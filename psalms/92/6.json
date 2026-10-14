@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה",
+      "rationale": "प्रसंसा-प्रश्न — 'की बड़ हइ!', असली सवाल नञ"
+    }
+  ],
+  "translation": "की बड़ हइ तोहर काम, यहवे! तोहर विचार सब बड़े गहिर हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7a01b7cac8a0993826577aef2028b6bac8e98634d302f26036a23c7ee9130e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/92\/5-8.1792005737255.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "की बड़"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "बड़ हइ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "तोहर काम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बड़े"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "गहिर हथिन"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "तोहर विचार सब"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:17.256175324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבעל הלשון",
+      "rationale": "'जिबरो के मालिक' — मंत्र-जानकार (साँप के टोने वाला) या बकवास करे वाला (babbler); KJV दोसर, ASV\/JPS पहिला।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "टोना",
+      "rationale": "לחש शब्दशः 'फुसफुसाहट' हकइ; जादू के फुसफुसावट एकरा से जुड़ल हकइ।"
+    }
+  ],
+  "translation": "जँ साँप बिना टोना के डसऽ हइ, तब जिबरो-मालिक बर कोनो फायदा नञ रहऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "77409f50db2dd2ba88e0b079de9765595825d46c2c0e3b326febddcd0d69b0f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/10\/9-12.1792008419645.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "डसऽ हइ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "साँप"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "टोना"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ रहऽ हइ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "कोनो फायदा"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "जिबरो-मालिक बर"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "जिबरो"
+    }
+  ],
+  "timestamp": "2026-10-14T20:06:59.646687777Z",
+  "model": "glm-5.3"
+}

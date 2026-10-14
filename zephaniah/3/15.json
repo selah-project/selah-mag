@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פנה אויבך",
+      "rationale": "'मुँह फेरए देलन' (यहवे ओकरा पलट देलन) बनाम KJV 'cast out' — क्रिया के रूप फेरबे के हकइ, बाहर धक्केले के नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यरूशलयिम",
+      "rationale": "स्त्री-सम्बोधन (तोहरा, तूँ) — पिछला पद के बेटी-यरूशलयिम से जुड़ल।"
+    }
+  ],
+  "translation": "यहवे तोहरा नियाव हटए देलन, तोहरा बैरी के मुँह फेरए देलन; यिस्राएल के राजा यहवे तोहरा भीतर हथिन — तूँ आगू बुराई से नञ डरबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e2b334d80f6cc2dbf70f7bc997366bfbe79139ff9a01477e342a3ff30d29af37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zephaniah\/3\/13-16.1792003969589.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "हटए देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "तोहरा नियाव"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "मुँह फेरए देलन"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "तोहरा बैरी के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तोहरा भीतर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "डरबइ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई से"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगू"
+    }
+  ],
+  "timestamp": "2026-10-14T18:52:49.590609861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יראה के करम",
+      "rationale": "मूलपाठ 'देखतइ' — के देखतइ, ई नञ कहल गेल; 1QIsa में 'इँजोर' (आकाश) जोड़ल हइ, आउ BSB 'इँजोर' ले हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בדעתו יצדיק",
+      "rationale": "KJV 'ओकर जान से बहुत लोग बर धरमी ठहरातइ' बनाम JPS 'ओकर जान से धरमी बर बहुत लोग के त्सेदेक ठहरातइ' — 'बर' के जोड़ के जगह में फरक।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצדיק \/ צדיק",
+      "rationale": "एके जड़ צדק के दोहराव — 'त्सेदेक ठहरातइ ... धरमी' — मगही में जड़ के आगाँठ अनुवाद से बचल हकइ।"
+    }
+  ],
+  "translation": "ओकर परान के मेहनत से ऊ देखतइ आउ संतोस करतइ; ओकर जान से हमर धरमी सेवक बहुत लोग बर त्सेदेक ठहरातइ, आउ ओकनी के दोस ऊ ढोतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "81ad57a315171e8b416ebe459935addb5beab3a0e2e49d64d797673addd96111",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/53\/10-11.1792011906243.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "मेहनत से"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ओकर परान"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखतइ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "संतोस करतइ"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "ओकर जान से"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "त्सेदेक ठहरातइ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "हमर सेवक"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "बहुत लोग बर"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "आउ ओकनी के दोस"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "ढोतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T21:05:06.243828792Z",
+  "model": "glm-5.3"
+}

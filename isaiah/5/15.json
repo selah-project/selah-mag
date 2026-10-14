@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישפל \/ תשפלנה",
+      "rationale": "एके जड़ שפל के दुहराव — मनुस नीचा भेलन आउ आँखो नीचा भेलन; मगही में 'नीचा\/झुक' के दू रूप लेलन"
+    }
+  ],
+  "translation": "आदमी दब गेलन, आउ मनुस नीचा भेलन, आउ ऊँच-अकड़ाए लोग के आँख झुक गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "988038cb44c31336a7d8a568dd306b64c41acf14bf492a5add613d4a16eddeeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/5\/13-16.1791998638153.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "आउ दब गेलन"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "आउ नीचा भेलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुस"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "आउ आँख"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "ऊँच-अकड़ाए लोग के"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "झुक गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:23:58.154108879Z",
+  "model": "glm-5.3"
+}

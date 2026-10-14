@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ठगलह",
+      "rationale": "רמה के शाब्दिक अरथ 'फेंकना\/झटकना' हकइ; इहाँ छल संग धोखा देना।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואתה שאול",
+      "rationale": "छोड़ल सूचना फूट पड़ल — 'आउ तूँ साउल हऽ' संक्षिप्त उद्घोष, इब्रानी के तेजर बनावट जस के तस।"
+    }
+  ],
+  "translation": "आउ जनाना ⟨את⟩ शमुएल के देखलक आउ बड़ आवाज संग चीखलक; आउ जनाना साउल के कहलक — काहे कि हमरा ठगलह? आउ तूँ साउल हऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ec0a09f773261b76ecf72cc7eb340c3872193fdc1bfc35e972214acaf1ae316a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/28\/9-12.1791995672636.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "आउ देखलक"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शमुएल"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "आउ चीखलक"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "आवाज संग"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "आउ कहलक"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "साउल"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "हमरा ठगलह"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "साउल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:34:32.637462221Z",
+  "model": "glm-5.3"
+}

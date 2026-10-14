@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकर",
+      "rationale": "Hebrew में खाली भंडार के पूर्वेक्षक बिना सर्बनाम; मगही में सपष्ट करै बर जोड़ल"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כנד",
+      "rationale": "नेद — लगभग एकट्ठा पद; 'ढेर' के चित्र रखल गेल"
+    }
+  ],
+  "translation": "समुंदर के पानी के ढेर नियन एकट्ठा करऽ हथिन; तेहोम के गहिराई के ⟨ओकर⟩ भंडार में रखऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/33\/5-8.1792004839881.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "एकट्ठा करऽ हथिन"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "ढेर नियन"
+    },
+    {
+      "surface": "מי",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "रखऽ हथिन"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "भंडार में"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "तेहोम के गहिराई के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:19.881976031Z",
+  "model": "glm-5.3"
+}

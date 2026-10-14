@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 19:26",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ई⟩",
+      "rationale": "Hebrew verb פגע carries no explicit subject; the border itself is supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "הימה",
+      "rationale": "'the sea\/westward' — KJV 'westward' vs literal 'toward the sea'"
+    },
+    {
+      "kind": "elision",
+      "subject": "לבנת",
+      "gloss-merge": "לבנת is part of the compound name Shichor-Libnath; rendered once"
+    }
+  ],
+  "translation": "आउ अलम्मेलेख, आउ अमाद, आउ मिसाल; आउ ⟨ई⟩ समुंदर के कार्मेल के ओर जा भेटलइ, आउ शिहोर-लिबनात के ओर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7e5af7e62833d735835827018f1a1157f9ec4dd88ca9dcf004c8197f1ff0e6a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/19\/25-28.1791993705498.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלמלך",
+      "gloss": "आउ अलम्मेलेख"
+    },
+    {
+      "surface": "ועמעד",
+      "gloss": "आउ अमाद"
+    },
+    {
+      "surface": "ומשאל",
+      "gloss": "आउ मिसाल"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "भेटलइ"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "कार्मेल के ओर"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "समुंदर के"
+    },
+    {
+      "surface": "ובשיחור",
+      "gloss": "आउ शिहोर-लिबनात के ओर"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "शिहोर-लिबनात"
+    }
+  ],
+  "timestamp": "2026-10-14T16:01:45.499500361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 4:15",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यिस्राएल आउ यहूदा",
+      "rationale": "पहिला पंक्ति यिस्राएल के संबोधन हकइ; बाकी पंक्ति यहूदा के"
+    },
+    {
+      "kind": "crux",
+      "subject": "חי יהוה",
+      "rationale": "'यहवे जिअत हथिन' — सौगन्ध के सुत्र; मन्ही किसान में व्यंग्य हकइ काहे कि ओइ के ठाढ़ भेंट-स्थान पर जाए से रोकल गेलइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "חי",
+      "gloss": "जिअत — एकबचन विशेषण यहवे बर; क्रिया नञ हकइ"
+    }
+  ],
+  "translation": "जद्यि तूँ, हे यिस्राएल, वेस्याचार करऽ हकइस, त यहूदा दोसी नञ बनऽ; आउ गिल्गल मत जाउ, बैत-आवेन मत चढ़उ, आउ 'यहवे जिअत हथिन' कह के सौगन्ध नञ खाउ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ca471d80ec8d40abda161aa9c1be7ab32dbac353c5a5b6d0422e21a295f85155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/4\/13-16.1792003207137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जद्यि"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "वेस्याचार करऽ हकइस"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "दोसी बनऽ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "जाउ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "गिल्गल"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "चढ़उ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बैत"
+    },
+    {
+      "surface": "און",
+      "gloss": "आवेन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "सौगन्ध खाउ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिअत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:40:07.138402475Z",
+  "model": "glm-5.3"
+}

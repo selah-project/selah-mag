@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 7:16",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हमर जिनगी",
+      "rationale": "इब्रानी के मास्ती के करम कोनो चीज नञ बतावऽ हइ; बात संगे साफ़ बर ई जोड़ल गेल"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे के बर",
+      "rationale": "'हमरा छोड़ दे' — अय्यूब परमेश्वर के सीधा अपील करऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל",
+      "rationale": "साँस\/व्यर्थ के दुहरा अरथ — हवा जइसन बिखर जाए वाला दिन"
+    }
+  ],
+  "translation": "हम ⟨हमर जिनगी≫ नकार देलन हम; हम हमेसा नञ जीबइ; हमरा छोड़ दे, काहे कि हमर दिन व्यर्थ हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/7\/13-16.1792007187525.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאסתי",
+      "gloss": "नकार देलन हम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "हमेसा"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "जीबइ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "छोड़ दे"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "व्यर्थ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "हमर दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:46:27.526401307Z",
+  "model": "glm-5.3"
+}

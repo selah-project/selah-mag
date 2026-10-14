@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 16:8",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "regnal dating",
+      "rationale": "accession dated by Asa of Judah's twenty-sixth year; Elah's reign measured at two years."
+    },
+    {
+      "kind": "addition",
+      "subject": "छब्बीस",
+      "rationale": "Hebrew says 'twenty and six'; Magahi single ordinal supplied with the pieces kept in the gloss."
+    }
+  ],
+  "translation": "यहूदा के राजा आसा के छब्बीस बरिस में एला, बासाके बेटा, यिस्राएल के ऊपर तिर्साह में राज करलक — दू बरिस।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "358ddb6159f4f329c581e58cc5d04a4ad391262b9aaa95365cdda115335db540",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/16\/5-8.1791997382447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "छब्बीस"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "…बीस आउ छह"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "आसा के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज करलक"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एला"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "बासाके"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "तिर्साह में"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "दू बरिस"
+    }
+  ],
+  "timestamp": "2026-10-14T17:03:02.448423457Z",
+  "model": "glm-5.3"
+}

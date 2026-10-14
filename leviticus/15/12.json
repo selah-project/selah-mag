@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חרש",
+      "rationale": "חרש मिट्टी के बरतन (मृद्भांड) हकइ; 'मिट्टी के बरतन' साक्षात्त चित्र रखऽ हइ"
+    }
+  ],
+  "translation": "आउ मिट्टी के बरतन जेकरा ऊ स्राव-वाला छुअऽ हइ, टूट जतइ; आउ लकड़ी के हर बरतन पानी में धुअआ जतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1b032c8b2665d8b2c803af56ecacea2021f6394ee66d857415edd0d80f8eecfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/15\/9-12.1791990008971.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "आउ बरतन"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "मिट्टी के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "छुअऽ हइ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "स्राव-वाला"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "टूट जतइ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ हर"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बरतन"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "लकड़ी के"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "धुअआ जतइ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी में"
+    }
+  ],
+  "timestamp": "2026-10-14T15:00:08.972272620Z",
+  "model": "glm-5.3"
+}

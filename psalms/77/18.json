@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חצציך",
+      "rationale": "चूक: तीर (=बिजुरी) बनाम कंकड़; बिजुरी के तीर जइसन दौड़ल चलन — बीसबी गायब होवऽ हइ।"
+    }
+  ],
+  "translation": "गाढ़ बादल पानी उड़ेललन; अकास बोली देलन; तोहर तीर भी इधर-उधर चललन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/77\/17-20.1792005446636.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "उड़ेललन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "गाढ़ बादल"
+    },
+    {
+      "surface": "קול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "אף",
+      "gloss": "भी"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "तोहर तीर"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "इधर-उधर चललन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:26.637591335Z",
+  "model": "glm-5.3"
+}

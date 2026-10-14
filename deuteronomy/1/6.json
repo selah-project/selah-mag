@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רב לכם",
+      "rationale": "शब्द-शब्द में 'बहुत तोहनी बर' — मतलब 'बहुत बेसी हो गेलइ'; बाक्य-बनावट के अरथ देल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "यहवे के सीधा बोल हियाँ इस्राएल के परजा से — पहिला पढ़निहार होरेब के मैदान में ठाढ़ हलथिन।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "बहुत हो गेलइ",
+      "rationale": "चलैक के आदेस — परजा के आगू बढ़े बर बजावऽ हकइ।"
+    }
+  ],
+  "translation": "यहवे हमनी के एलोहीम हमनी से होरेब में कहलन, कहिये बर: बहुत हो गेलइ तोहनी बर एह पहाड़ में बसल ⟨हकइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/1\/5-8.1791992021514.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "हमनी से"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "होरेब में"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहिये बर"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी बर"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "बसल"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "एह पहाड़ में"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    }
+  ],
+  "timestamp": "2026-10-14T15:33:41.515586156Z",
+  "model": "glm-5.3"
+}

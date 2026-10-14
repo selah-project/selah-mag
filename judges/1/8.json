@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "इब्रानी 'तलवार के मुँह' — चालनसार 'तलवार के धार से' के जगह इब्रानी के मूरत जस के तस रखल गेल।"
+    }
+  ],
+  "translation": "आउ यहूदा के बेटा सब यरूशलयिम के संग लड़लन आउ ⟨את⟩ ओकरा कब्जा कइलन आउ ओकरा तलवार के मुँह से मारलन, आउ ⟨את⟩ नगर के आग में भेजलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ffe47007b9a925708348fd3e8d52e9a4269d343800f88cf0886fce1b62eced73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/1\/5-8.1791993919550.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "लड़लन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सब"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम के संग"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "कब्जा कइलन"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (नगर के)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "मुँह से"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "नगर के"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:05:19.551907788Z",
+  "model": "glm-5.3"
+}

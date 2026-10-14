@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 8:19",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא כי אם",
+      "rationale": "इब्रानी के ई जोड़ 'नञ … बल्कि' कहऽ हइ; एकरा दू जोड़-सब्द में तोड़ल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "बाकि",
+      "rationale": "पहिला 'बाकि' — वाक्य के बहरें जोड़ मगही के बर जोड़ल"
+    }
+  ],
+  "translation": "बाकि परजा शमूएल के बोली सुने से मना कर देलक, आउ कहलन, “नञ, बाकि हमनी के ऊपर राजा होतइ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9db9c251df353233c2242dd569ea4f8d7081413830894ed2f15b5432def2974a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/8\/17-20.1791994851848.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאנו",
+      "gloss": "बाकि मना कर देलक"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजा"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "सुने से"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "बोली"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमूएल"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी के ऊपर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:20:51.849638014Z",
+  "model": "glm-5.3"
+}

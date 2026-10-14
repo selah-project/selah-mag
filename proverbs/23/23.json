@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "पढ़निहार के",
+      "rationale": "खरीदो-बेचो के आदेश — बानो के नैतिक गोठावे"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨सेहो⟩",
+      "rationale": "इब्रानी क्रिया बिहीन सूची सूचीबद्ध करऽ हइ; जोड़ल संबंध सब्द स्पष्टता बर"
+    }
+  ],
+  "translation": "सच के किनऽ ले, आउ ओकरा मत बेचऽ — गियान आउ शिक्षा आउ समझ ⟨सेहो⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e92b0a7b96c6ca27ad0ed2e7d7f28bd931ca0350ca145a23445f7edfddcbb74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/23\/21-24.1792006892505.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "सच"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "किनऽ ले"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ मत"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "बेचऽ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "गियान"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "आउ शिक्षा"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "आउ समज"
+    }
+  ],
+  "timestamp": "2026-10-14T19:41:32.505912124Z",
+  "model": "glm-5.3"
+}

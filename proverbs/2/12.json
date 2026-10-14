@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהפכות",
+      "rationale": "הפך (उलटा) जड़ से बनल — उलट-पलट रूप ओही चाकर रखऽ हइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "मरद से",
+      "rationale": "איש एक बचन हकइ बाकि अरथ 'अइसन मरद' — क्रिया परसंग से जाति-अरथ।"
+    }
+  ],
+  "translation": "बुरा रस्ता से तोहनी के छुड़ाबे बर, उलट-पलट बात बोलय वाला मरद से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c1ad0c5531a682a64dee5fa30ca5d40a87b36ecfd10576bbd17c8f81ae25b3be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/2\/9-12.1792006445621.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "तोहनी के छुड़ाबे बर"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "रस्ता से"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "मरद से"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोलय वाला"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "उलट-पलट बात"
+    }
+  ],
+  "timestamp": "2026-10-14T19:34:05.622702477Z",
+  "model": "glm-5.3"
+}

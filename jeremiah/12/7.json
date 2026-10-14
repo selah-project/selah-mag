@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עזב \/ נטש",
+      "rationale": "दू लगभग-पर्यायी क्रिया के जोड़ी — छोड़लन \/ त्यागलन — त्याग के दूहराव, इब्रानी के समानान्तर बनावट।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הथेली (כף)",
+      "rationale": "כף के सही चित्र हथेली के कुहार हकइ; मगही में सरल 'हाथ में' लेल गेलइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ידדות",
+      "rationale": "यहवे के 'परान के परेम' बर ई बिरल सब्द तनाख़ में बहुते जगह नञ आवऽ हकइ।"
+    }
+  ],
+  "translation": "हम ⟨את⟩ हमर घर छोड़लन, ⟨את⟩ हमर बिरासत त्यागलन; ⟨את⟩ हमर परान के परेम के ओकर दुसमन सब के हाथ में देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e889ccb7b7f2fff17e20503c26f510ea5721690d9d5b6186db82ee5273a6addc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/12\/5-8.1792000550417.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "छोड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर घर"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "हमर घर"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "त्यागलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर बिरासत"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "हमर बिरासत"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परेम"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "परेम"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान के"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "ओकर दुसमन सब"
+    }
+  ],
+  "timestamp": "2026-10-14T17:55:50.418204874Z",
+  "model": "glm-5.3"
+}

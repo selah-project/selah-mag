@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मालिक",
+      "rationale": "אדנी इयाँ आदमी (अवराहाम) बर हकइ, दिब्य नञ — D1 के नियम से मालिक"
+    }
+  ],
+  "translation": "आउ यहवे हमर मालिक के ⟨את⟩ बहुते असीस देलन, आउ ऊ बड़ा हो गेलन; आउ ओकरा देलन भेड़ आउ गाय-बैल, आउ चानी आउ सोना, आउ नौकर आउ बाँड़ी, आउ ऊँट आउ गधा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bd2d7f0eb189bf0756cf03c4b40165ecf269f055ccba20bff34e32ac3aa4a01f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/24\/33-36.1791986902437.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "आउ यहवे"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "असीस देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर मालिक"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हमर मालिक"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "बड़ा हो गेलन"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "आउ गाय-बैल"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "आउ चानी"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "आउ सोना"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "आउ नौकर"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "आउ बाँड़ी"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "आउ ऊँट"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "आउ गधा"
+    }
+  ],
+  "timestamp": "2026-10-14T14:08:22.438800459Z",
+  "model": "glm-5.3"
+}

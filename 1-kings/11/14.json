@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בिरोधी",
+      "rationale": "शब्द שטן बिना व prefixed-article वाला आम जाति-सब्द हकइ — 'बिरोधी'; 'शैतान' (पाछे के नाम) नञ"
+    },
+    {
+      "kind": "addition",
+      "subject": "के (बर)",
+      "rationale": "मगही के सम्प्रदान चिन्हा; इब्रानी preposition ल आगे"
+    }
+  ],
+  "translation": "आउ यहवे शलोमो के बिरोधी खड़ा कए देलन — ⟨את⟩ हदद एदोमी, राज के बिया में से हए, एदोम में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/11\/13-16.1791997172638.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "खड़ा कए देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "बिरोधी"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "शलोमो के बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हदद एदोमी"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "हदद"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "एदोमी"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "बिया में से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राज के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हए"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "एदोम में"
+    }
+  ],
+  "timestamp": "2026-10-14T16:59:32.639725847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 17:3",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मिन्हा",
+      "rationale": "א מिन्हा इहाँ बलि-भेंट नञ, साम्राज्य-कर हकइ; Tier-2 के रूप रखल गेल"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וישב",
+      "rationale": "שוב 'लौटाना' के जड़ — 'बरसरी फिरावलक' जेतना अरथ भी सम्भव"
+    }
+  ],
+  "translation": "ओकरे ऊपर अस्सूर के राजा शाल्मानेसर चढ़ अइलन, आउ होशेआ ओकर सेवक बनला, आउ ओकरा मिन्हा देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "da18edcf9fd832a727673d871d9c38f9ccc7f95932c82acc23e3084d30fda39c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/17\/1-4.1791998231279.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "ओकरे ऊपर"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ अइलन"
+    },
+    {
+      "surface": "שלמנאסר",
+      "gloss": "शाल्मानेसर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ … बनला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "होशेआ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "आउ देलक"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मिन्हा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:17:11.280174703Z",
+  "model": "glm-5.3"
+}

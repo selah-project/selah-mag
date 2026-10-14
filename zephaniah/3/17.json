@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zephaniah 3:17",
+  "book": "zephaniah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "मगही किरिया-जोड़, इब्रानी में किरिया नञ"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחריש",
+      "rationale": "'चुप रहतन' (JPS) बनाम 'आराम करतन \/ ओकर परेम में शांत करतन' (KJV\/BSB) — मूल चुप्पी के चित्र हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "सिय्योन\/यरूशलयिम",
+      "rationale": "पूरा पद स्त्री-वचन के 'तोहर' में संबोधन"
+    }
+  ],
+  "translation": "यहवे तोहर एलोहीम तोहर भीतर हकइ — बलवान, छुटका देए वाला; ऊ खुसी के संग तोहरा ऊपर रँगीत होतन, ओकर परेम में चुप रहतन, ऊ तोहरा ऊपर नाद के संग नाचतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "dccc0d87725a437121555f0ae15f1bc96a8e1bb9ec078b17ef2caee57518403b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zephaniah\/3\/17-20.1792004010223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तोहर भीतर"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "छुटका देए वाला"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "रँगीत होतन"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहरा ऊपर"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "खुसी के संग"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "चुप रहतन"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "ओकर परेम में"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "नाचतन"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहरा ऊपर"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "नाद के संग"
+    }
+  ],
+  "timestamp": "2026-10-14T18:53:30.224462934Z",
+  "model": "glm-5.3"
+}

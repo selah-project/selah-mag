@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 27:2",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי אל",
+      "rationale": "शपथ-चाल 'एल जीवत हकइ' — पूरा बाक्य एके शपथ के दुआरी हकइ, खाली बिबरन नञ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש साँस-परान-जीवन-बल के बात हकइ, खाली जीवन-तत्व नञ।"
+    }
+  ],
+  "translation": "जीवत एल ⟨आह्वान करऽ हइ⟩ — ऊ हमर नियाव हटावलन — आउ शद्दय, जे हमर परान कड़वा कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d6412e9fc0059d6fe7bd8e695fbe47f8d2dc1094142e5433c7fbf63cd7dfb9da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/27\/1-4.1792007599515.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "जीवत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "हटावलन"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "हमर नियाव"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "आउ शद्दय"
+    },
+    {
+      "surface": "המר",
+      "gloss": "कड़वा कइलन"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:53:19.515752655Z",
+  "model": "glm-5.3"
+}

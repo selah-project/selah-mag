@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 61:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गीत गाबइ",
+      "rationale": "זמर के सुभाविक अरथ बाजा के तार छेड़ना हकइ — इब्रानी में बाजा बजावे आउ गावे दूनो में चलऽ हइ; मगही में गावे के रूप लेल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "हमर",
+      "rationale": "נדרי में पुरान-प्रत्यय (־י) में 'हमर' पहिले से हइ, बाकि बाक्य-क्रम बर अलग सर्बनाम जोड़ल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יום יום",
+      "rationale": "दिन के दोहराव — 'दिन-प्रति-दिन' — निरन्तरता के चिन्हा हकइ"
+    }
+  ],
+  "translation": "एहे से हम तोहर नाम के ⟨आगे⟩ गीत गाबइ सदा बर, जब हम हमर प्रतिग्य निभाबइ दिन-प्रति-दिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "02ec82c7c94079cb9742911222ae5523a095df9f8855160e0b9c6d1c3f77b71d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/61\/9-9.1792005208086.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "एहे से"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "गीत गाबइ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "לשלמי",
+      "gloss": "निभावे बर"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "हमर प्रतिग्य"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:28.087269552Z",
+  "model": "glm-5.3"
+}

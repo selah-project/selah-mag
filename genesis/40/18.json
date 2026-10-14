@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "Hebrew verbless clause बट्टा — क्रिया जोड़ल गेलन।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "तीन टोकरी = तीन दिन",
+      "rationale": "गिनती के सिरजना — dream के नक्सा दिन पर।"
+    }
+  ],
+  "translation": "आउ योसेफ जवाब देलन आउ कहलन — एकरा खोल ई हकइ: तीनों टोकरी तीन दिन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4bdccd1b815fd3fda6a6b5d16a0ff9789c7365e7bf37fae9208d00f75c53e176",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/40\/17-20.1791987571400.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब देलन"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "एकरा खोल"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीनों"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "टोकरी"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הם",
+      "gloss": "हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:19:31.401744964Z",
+  "model": "glm-5.3"
+}

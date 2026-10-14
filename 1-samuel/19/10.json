@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויפטר",
+      "rationale": "'छुड़ाया \/ फिर गेल \/ तनिका सरक गेल' — बाइबल में अनुवादकों का मतभेद: दाविद पूरा निकल गेल या सिर्फ बच निकला"
+    },
+    {
+      "kind": "addition",
+      "subject": "बाल",
+      "rationale": "'बाल बच गेलक' — मगही का स्वाभाविक क्रिया-विस्तार"
+    }
+  ],
+  "translation": "आउ शाउल भाला से दाविद के दीवार में ठोक देवे के चेस्टा करलक; बाकि दाविद शाउल के सामने से अपना केना छुड़ा लेलक, आउ ऊ ⟨את⟩ भाला दीवार में ठोक देलक; आउ दाविद भाग गेलक आउ ओही रात बाल बच गेलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bb33ca57b978b04d0522ec25012d7b95ac8604b30feeecd4ce17b0c63aa797ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/19\/9-12.1791995412305.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "चेस्टा करलक"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "ठोक देवे के"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "भाला से"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "आउ दीवार में"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "अपना केना छुड़ा लेलक"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ठोक देलक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भाला"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "भाला"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "दीवार में"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "आउ दाविद"
+    },
+    {
+      "surface": "נס",
+      "gloss": "भाग गेलक"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "बाल बच गेलक"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ओही"
+    }
+  ],
+  "timestamp": "2026-10-14T16:30:12.305956090Z",
+  "model": "glm-5.3"
+}

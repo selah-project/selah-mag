@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "हिब्रू बहुबचन के मगही में 'सब' से देखावल गेलइ।"
+    }
+  ],
+  "translation": "आउ दास सब पर आउ दासी सब पर ओही दिन में हम ⟨את⟩ हमर रूआख उड़ेल देबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ddca5f210e9b183415c9563878292a6ef19bb5043533e29a4c388e56be191b07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joel\/3\/1-4.1792003465299.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आउ एकरो संग"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "दास सब"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ पर"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "दासी सब"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "उड़ेल देबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर रूआख"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "हमर रूआख"
+    }
+  ],
+  "timestamp": "2026-10-14T18:44:25.300771723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "तीन चीज के सूची",
+      "rationale": "पवित्तर जगह, तम्बू, बेदी — तीन ⟨את⟩ चिन्हा से गिनल गेल पद; संरचना परति चिन्हा रखल गेलइ।"
+    }
+  ],
+  "translation": "आउ जखन ऊ पवित्तर जगह ⟨את⟩ आउ मिलन के तम्बू ⟨את⟩ आउ बेदी ⟨את⟩ के प्रायस्चित करे पूरा क लेतइ, तब ऊ जिउत बकरा ⟨את⟩ के हाजिर करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a17951f644ba6e4159dd6373631f4a90397291ef9a694cbace2753afb91de8d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/16\/17-20.1791990064162.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "आउ जखन ऊ पूरा क लेतइ"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "प्रायस्चित करे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पवित्तर जगह"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्तर जगह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "मिलन के तम्बू"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "बेदी"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "तब ऊ हाजिर करतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जिउत बकरा"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "החי",
+      "gloss": "जिउत"
+    }
+  ],
+  "timestamp": "2026-10-14T15:01:04.163583430Z",
+  "model": "glm-5.3"
+}

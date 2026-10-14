@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרו שיחות",
+      "rationale": "गड्ढा खोदना — जाल फेरने के इब्रानी मुहावरा हकइ, इहाँ शाब्दिक रूपे रखल गेलऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "जे",
+      "rationale": "אשר गड्ढा बर होवे (जे तोरा के मोताबिक नञ) या अहंकारी लोग बर होवे — केजेवीए दुनो के मानऽ हइ।"
+    }
+  ],
+  "translation": "अहंकारी लोग हमरा बर गड्ढा खोदलन, जे तोहरी तोरा के मोताबिक नञ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/85-88.1792006147648.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "खोदलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "अहंकारी लोग"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "गड्ढा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "तोहरी तोरा के मोताबिक"
+    }
+  ],
+  "timestamp": "2026-10-14T19:29:07.649222653Z",
+  "model": "glm-5.3"
+}

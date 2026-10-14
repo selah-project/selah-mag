@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקבה",
+      "rationale": "'पदचिन्हा से ढकल\/चिन्हित' (जेपीएस\/बीएसबी) बनाम 'दाग़ल गेल\/मैला' (केजेवी) — जड़ עקב एड़ी\/निसानी से"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकर रस्ता",
+      "rationale": "हिब्रू केवल विशेषण עקבה देथक — मगही में कर्म स्पष्ट करे बर जोड़ल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "अवन",
+      "rationale": "און के अरथ 'अहँकार\/व्यर्थता\/अवन' — एके लिप्यन्तरन रखल गेल"
+    }
+  ],
+  "translation": "गिलहद अवन के करे वाला सब के नगर हकइ; खून के पदचिन्हा से ⟨ओकर रस्ता⟩ लइक भरल हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c818525ae574dde31efd66e91023b645295c9302d2e625baff48fe1bbc7c577f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/6\/5-8.1792003174566.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "गिलहद"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "करे वाला सब के"
+    },
+    {
+      "surface": "און",
+      "gloss": "अवन"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "पदचिन्हा से लइक भरल"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "खून के"
+    }
+  ],
+  "timestamp": "2026-10-14T18:39:34.567682625Z",
+  "model": "glm-5.3"
+}

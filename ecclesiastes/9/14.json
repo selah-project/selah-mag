@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצודים",
+      "rationale": "'जाल' (मछरी\/जीव फँसावे के) बनाम 'घेराबंदी के बुर्ज\/मेड़' — KJV 'bulwarks', बाकि ओही चीज जाल के बनावटी बिस्तार हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "रहल",
+      "rationale": "हिब्रू में क्रिया नञ, खाली नगर के वर्णन; मगही बाक्य बर क्रिया चाही"
+    }
+  ],
+  "translation": "एक छोटका नगर रहल, आउ ओकरा भीतर थोड़े आदमी; आउ एक बड़ राजा ओकरा ऊपर अइलन, आउ ओकरा ⟨את⟩ घेरलन, आउ ओकरा ऊपर बड़-बड़ जाल बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "48c71b762548b48ddb64f054fbfb93b67febd9eb6ee63540abdc6fb0e58bf4be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/9\/13-16.1792008474547.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "छोटका"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "आउ आदमी"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा भीतर"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोड़े"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "आउ अइलन"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "आउ घेरलन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "नगर"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "आउ बनइलन"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "जाल"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "बड़-बड़"
+    }
+  ],
+  "timestamp": "2026-10-14T20:07:54.548283339Z",
+  "model": "glm-5.3"
+}

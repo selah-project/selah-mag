@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שואה",
+      "rationale": "שואה opens and closes the verse — devastation comes, devastation catches him — same word kept both times"
+    },
+    {
+      "kind": "substitution",
+      "subject": "तबाही",
+      "rationale": "שואה is literally tempest\/storm-devastation; Magahi 'तबाही' keeps the destruction sense"
+    }
+  ],
+  "translation": "तबाही ओकरा पर अइजाए आवए जेकरा ऊ नञ जाने, आउ ओकर जाल जे ऊ छिपौलक हल, ओकरा फँसावए; ओहे तबाही में ऊ ओकरा में गिरथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/35\/5-8.1792004878862.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "ओकरा पर आवए"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "तबाही"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जाने"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "आउ ओकर जाल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "छिपौलक हल"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "ओकरा फँसावए"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "ओहे तबाही में"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "गिरथिन"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:58.863063035Z",
+  "model": "glm-5.3"
+}

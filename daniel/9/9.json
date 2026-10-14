@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 9:9",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "Hebrew is nominal, no verb; copula supplied and bracketed"
+    },
+    {
+      "kind": "you",
+      "subject": "प्रार्थना",
+      "rationale": "Daniel confesses to Adonai, direct second-person address frame"
+    }
+  ],
+  "translation": "अदोनाय हमनी के एलोहीम के ⟨हकइ⟩ रहमत आउ माफी — काहे कि हमनी ओकर विरुद्ध बगावत कएलनिये।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6b443f5a49fe37155dc6e6a96d8c95ddd24d8154eefda9a11c70e58627ee0d31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/9\/9-12.1792009027708.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאדני",
+      "gloss": "अदोनाय के"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "הרחמים",
+      "gloss": "रहमत"
+    },
+    {
+      "surface": "והסלחות",
+      "gloss": "आउ माफी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מרדנו",
+      "gloss": "हमनी बगावत कएलनिये"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकर विरुद्ध"
+    }
+  ],
+  "timestamp": "2026-10-14T20:17:07.709535413Z",
+  "model": "glm-5.3"
+}

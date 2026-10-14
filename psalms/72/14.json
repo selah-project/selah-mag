@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתוך",
+      "rationale": "संस्करण में दबाव (ASV\/JPS) बनाम धोखा (KJV) — जड़ תוך के दबाव अरथ काहे कि ओकरा बल जादे मेल हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש गला-साँस-जीवन-बल हकइ"
+    }
+  ],
+  "translation": "दबाव आउ अत्याचार से ओकनी के परान ऊ छुड़ाथिन, आउ ओकनी के खून ओकर आँख में कीमती होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/72\/13-16.1792005386257.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "दबाव से"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "आउ अत्याचार से"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "छुड़ाथिन"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ओकनी के परान"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "आउ कीमती होतइ"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ओकनी के खून"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ओकर आँख में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:16:26.257838570Z",
+  "model": "glm-5.3"
+}

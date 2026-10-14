@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "समझदार",
+      "rationale": "יערם के साक्षात अरथ 'चतुर\/समझदार' हकइ — 'सतर्क' नञ"
+    }
+  ],
+  "translation": "मूरख अपन बाप के सीख तुच्छ गिनऽ हइ, बाकि जे झिड़की रखऽ हइ ऊ समझदार हो जावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "37c8f20d94c77a270694137ac827fa8a9cf240f9f27269f655d367465573d74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/15\/5-8.1792006716010.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "तुच्छ गिनऽ हइ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "सीख"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "अपन बाप के"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "बाकि जे … रखऽ हइ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "झिड़की"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "समझदार हो जावऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:38:36.010599814Z",
+  "model": "glm-5.3"
+}

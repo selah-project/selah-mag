@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עין בעין",
+      "rationale": "शाब्दिक 'आँख आँख में' — पास से, आमने-सामने देखबै के मुहावरा।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול दोहराव",
+      "rationale": "कोल दू बेर लगातार आवऽ हकइ — आवाज उठावबै के गूँज।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשוב יהוה ציון",
+      "rationale": "'यहवे के त्सियोन लौटावै' बनाम 'यहवे के त्सियोन लौटबै' — क्रिया के कतुआ अस्पष्ट हकइ; हम दोसर रूप लेलहिए।"
+    }
+  ],
+  "translation": "सुन — तोहर पहरेदार के आवाज! ओ आवाज उठावलथिन, एक संग ओ गावतइ; काहे कि आँख ⟨आँख के सामने⟩ देखतइ जब यहवे त्सियोन लौटतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "17a0d5b5305304b5616921379a630b1480cb073a9859874504cd56cacac24513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/52\/5-8.1791999764811.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "तोहर पहरेदार"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "उठावलथिन"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एक संग"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "गावतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "आँख के सामने"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "देखतइ"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "लौटतै"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "त्सियोन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:42:44.812166975Z",
+  "model": "glm-5.3"
+}

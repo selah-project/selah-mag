@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "habakkuk 3:19",
+  "book": "habakkuk",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במותי",
+      "rationale": "'ऊँच जगह' — साँकेतिक अरथ बादशाही के गढ़ या परमेश्वर के दरगाह, अनुवादक में मतभेद।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "हिब्रू के नाम-वाक्य में किरिया नञ हइ; मगही के 'होवे' जोड़ल गेल।"
+    },
+    {
+      "kind": "elision",
+      "subject": "למנצח בנגינותी",
+      "rationale": "गीत के शीर्षक-पंक्ति; कोठक में रखल गेल, पाठ के धारा से बाहर।"
+    }
+  ],
+  "translation": "यहवे अदोनाय हमर बल हथिन; ऊ हमर गोड़ हिरनी जइसन बनइलन, आउ हमर ऊँच जगह पर चलावतन। ⟨मुखिया गायक बर, तार वाद्य संग⟩",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3a432eb2950b67e7331edff9805c0cf6779a7bce7883b5544cf929f1576ab01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/habakkuk\/3\/17-19.1792003963969.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "हमर बल"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "आउ बनइलन"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "हमर गोड़"
+    },
+    {
+      "surface": "כאילות",
+      "gloss": "हिरनी जइसन"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ पर"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "हमर ऊँच जगह"
+    },
+    {
+      "surface": "ידרכני",
+      "gloss": "चलावतन हमरा"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया गायक बर"
+    },
+    {
+      "surface": "בנגינותי",
+      "gloss": "तार वाद्य संग"
+    }
+  ],
+  "timestamp": "2026-10-14T18:52:43.970883014Z",
+  "model": "glm-5.3"
+}

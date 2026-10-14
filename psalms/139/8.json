@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "बिछौना बिछाबइ",
+      "rationale": "ואציעה साक्षात 'बिछौना बिछाबइ' — शेओल में डेरा डाले के इब्रानी चाल"
+    },
+    {
+      "kind": "addition",
+      "subject": "बिछौना",
+      "rationale": "मगही बाक्य बनावट खातिर जोड़ल — इब्रानी क्रिया में ओ शब्द के साक्षात उल्लेख नञ हकइ"
+    }
+  ],
+  "translation": "जब हम अकास पर चढ़बइ, ओकरा तूँ हथिन; आउ शेओल में बिछौना बिछाबइ तँ देख — तूँ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/139\/5-8.1792006273484.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जब"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "चढ़बइ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ हथिन"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "आउ बिछाबइ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "देख, तूँ हथिन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:13.485852893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 49:11",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ओकरा",
+      "rationale": "इब्रानी अनाथ के बिना सर्बनाम 'हम जियाबइ' कहऽ हइ; कर्म के स्पस्ट बर सर्बनाम देल गेलन।"
+    },
+    {
+      "kind": "you",
+      "subject": "एसाव \/ एदोम",
+      "rationale": "नास्ता के घोसना के बीच यहवे एदोम से सीधा बोलऽ हइ — ओकर अनाथ आउ बिधवा के हमरा ऊपर छोड़े बर।"
+    }
+  ],
+  "translation": "तोहरा अनाथ छोड़ दे, हम ⟨ओकरा⟩ जियाबइ; आउ तोहरा बिधवा हमरा ऊपर भरोसा रख़।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0300278fb040b790c5ae0e3d3a6232a7f7179eb3e875e9634d854d197dce0cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/49\/9-12.1792001500524.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבה",
+      "gloss": "छोड़ दे"
+    },
+    {
+      "surface": "יתמיך",
+      "gloss": "तोहरा अनाथ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "जियाबइ"
+    },
+    {
+      "surface": "ואלמנתיך",
+      "gloss": "आउ तोहरा बिधवा"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ऊपर"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "भरोसा रख़"
+    }
+  ],
+  "timestamp": "2026-10-14T18:11:40.525279295Z",
+  "model": "glm-5.3"
+}

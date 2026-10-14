@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 9:26",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אבה",
+      "rationale": "पपिरस — तनाख़ में एक्को जगह ई रूप"
+    },
+    {
+      "kind": "crux",
+      "subject": "אכל",
+      "rationale": "'खाना' (अनाज\/भोजन) बनाम परम्परा के 'शिकार' — चील के झपट के लक्ष्य"
+    }
+  ],
+  "translation": "ओ पपिरस के नाव संग पार हो गेलन, जइसन चील खाना पर झपट मारऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4801450eb48f99f045c3af83460d9b6faffe4507bc4d9480dc0e2b91a1342361",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/9\/25-28.1792007280241.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלפו",
+      "gloss": "पार हो गेलन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "नाव सब"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "पपिरस के"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "जइसन चील"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "झपट मारऽ हइ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाना"
+    }
+  ],
+  "timestamp": "2026-10-14T19:48:00.242573799Z",
+  "model": "glm-5.3"
+}

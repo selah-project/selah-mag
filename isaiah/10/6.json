@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלל שלל \/ בז בז",
+      "rationale": "क्रिया-संज्ञा के जोड़ी — लुटै बर लूट, हथियावै बर माल; इब्रानी के जड़-दोहराव"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חנף",
+      "rationale": "चालबाज\/पाखंडी जाति — अशुद्धता आउ धोखा दूनो अरथ में"
+    }
+  ],
+  "translation": "पापी जाति के बर ओकरा भेजब आउ हमर क्रोध के लोग के ऊपर ओकरा आज्ञा देब — लूट लुटै बर, लूट के माल हथियावै बर, आउ ओकरा गली-सड़क के गीरो के तरह रौरै बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "72a4b3ba927cd8fca3378ed039270af7912f4756d2bef4ce077f09bd8f6979eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/10\/5-8.1791998727261.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "जाति के बर"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "पापी"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "ओकरा भेजब"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ ऊपर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "हमर क्रोध के"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "ओकरा आज्ञा देब"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "लूट बर"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लूट"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "आउ हथियावै बर"
+    },
+    {
+      "surface": "בז",
+      "gloss": "लूट के माल"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "आउ ओकरा रौरै बर"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "रौरै"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "गीरो के तरह"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "गली-सड़क के"
+    }
+  ],
+  "timestamp": "2026-10-14T17:25:27.262712368Z",
+  "model": "glm-5.3"
+}

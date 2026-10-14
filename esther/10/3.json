@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 10:3",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משנה — दोसरा",
+      "rationale": "मिशने शब्दशः 'दुहरा\/दोसरा' हकइ — राजा के बाद दोसरा पद; किछु अनुवादक 'उपराजा' जइसन पद-नाम ले हथिन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "बिया",
+      "rationale": "זרעו 'बिया\/संतति' हकइ — कुल आगू के बिया, खाली ओकर जमाना के लोग नञ।"
+    }
+  ],
+  "translation": "काहे कि यहूदी मारदोखे राजा अहसवेरोस के दोसरा ⟨अधिकारी⟩ हलन, आउ यहूदी लोग में बड़ हलन, आउ ओकर ढेर भाय सब के मन में भेट हलन — ओ ओकर लोग बर भलाई खोजऽ हलन आउ ओकर सब बिया बर सांति के बात कहऽ हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "29b796585a0543d16a5c2b1a9929059f852632dde09f023113bf3667d50739a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/10\/1-3.1792008677572.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मारदोखे"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "यहूदी"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "दोसरा"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "अहसवेरोस"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "आउ बड़"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "यहूदी लोग में"
+    },
+    {
+      "surface": "ורצוי",
+      "gloss": "आउ भेट"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाय सब"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "खोजऽ हलन"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ओकर लोग बर"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आउ कहऽ हलन"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सांति के बात"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब बर"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ओकर बिया"
+    }
+  ],
+  "timestamp": "2026-10-14T20:11:17.573552261Z",
+  "model": "glm-5.3"
+}

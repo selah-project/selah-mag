@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद यहवे के सीधे सोधऽ हइ — हमर हड्डी के मुँह से।"
+    },
+    {
+      "kind": "addition",
+      "subject": "आदमी",
+      "rationale": "मחזק संज्ञा हकइ, बिसेसता नञ — ⟨आदमी⟩ जोड़ल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हड्डी",
+      "rationale": "עצמות शरीर के पूरा भीतरी हिस्सा — हड्डी के साक्षात रूप रखल गेलइ।"
+    }
+  ],
+  "translation": "हमर सब हड्डी कहतइन — यहवे, कोन तोहर समान हकइ? जे दुखिया के ओकरा से बलवान ⟨आदमी⟩ से छुड़ावऽ हइ, आउ दुखिया आउ कंगाल के ओकर लुटैया से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/35\/9-12.1792004860842.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "हमर हड्डी"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "कहतइन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "तोहर समान"
+    },
+    {
+      "surface": "מציײל",
+      "gloss": "छुड़ावऽ हइ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुखिया के"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "ओकरा से बलवान"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "आउ दुखिया"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "आउ कंगाल"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "ओकर लुटैया से"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:40.843593396Z",
+  "model": "glm-5.3"
+}

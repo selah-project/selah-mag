@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "हिब्रू में क्रिया नञ हकइ; 'हथिन' मगही बदले जोड़लइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "היא",
+      "rationale": "जोर देवे वाला सर्बनाम — 'ऊई तोहर बहिन हथिन' पढ़लो जा सकऽ हइ, जोर हलका रखलइ"
+    }
+  ],
+  "translation": "तोहर बाप के जनाना के बेटी के नंगताई — जे तोहर बाप से जन्मलइ हथिन, ऊ तोहर बहिन हथिन — ओकर नंगताई तूँ नञ खोलबे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/18\/9-12.1791989979258.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नंगताई"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहर बाप"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "जन्मलइ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहर बाप"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "तोहर बहिन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ...हथिन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तूँ खोलबे"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ओकर नंगताई"
+    }
+  ],
+  "timestamp": "2026-10-14T14:59:39.259085363Z",
+  "model": "glm-5.3"
+}

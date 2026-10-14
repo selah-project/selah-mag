@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "माप",
+      "rationale": "सौ हाथ लम्बाई आउ पचास हाथ चौड़ाई — मन्दिर के नाप"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हाथ",
+      "rationale": "אמה (अम्मा) कोहनी से आगे के नाप हकइ; मगही में 'हाथ' लेल गेलइ"
+    }
+  ],
+  "translation": "मुँह के आगे सौ हाथ के लम्बाई, दुआरी उत्तर दने; आउ चौड़ाई पचास हाथ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/42\/1-4.1792002952354.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बाई"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआरी"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "आउ चौड़ाई"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:35:52.354913366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחטב...שאב",
+      "rationale": "सामाजिक सीढ़ी के दू छोर — लकड़ी काटए वाला से पानी खीँचए वाला — अनुबाद में संरचना रहलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "वाचा के दायरा के बिस्तार — बच्चा, जनाना, परदेसी, दास तक।"
+    }
+  ],
+  "translation": "अपन बुतरू-बच्चा, अपन जनाना, आउ अपन परदेसी जे अपन डेरा के बीच रहऽ हइ — अपन गाछ काटए वाला से ले के अपन पानी खीँचए वाला तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "613764cbd906a2d63bb9cfe5d19264aead3614839c7c7a0fe55c8496ca3849b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/29\/9-12.1791992848350.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "अपन बुतरू-बच्चा"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "अपन जनाना"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "आउ अपन परदेसी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "अपन डेरा"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "काटए वाला"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "अपन गाछ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "खीँचए वाला"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "अपन पानी"
+    }
+  ],
+  "timestamp": "2026-10-14T15:47:28.350870061Z",
+  "model": "glm-5.3"
+}

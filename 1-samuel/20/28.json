@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשאל נשאל",
+      "rationale": "इन्फिनिटिव एब्सोल्यूट के दोहराव — जोर देवे के चाल; 'बरी-बरी अनुरोध' में पकड़लन"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית לחם",
+      "gloss": "बेत-लेखेम — जगह के नाम लिप्यन्तरित; 'रोटी के घर' के अरथ नञ खोलल गेलइ"
+    }
+  ],
+  "translation": "आउ यहोनातान ⟨את⟩ शाउल के उत्तर देलन: दाविद हमरा से बरी-बरी अनुरोध करलन बेत-लेखेम जाए बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "da1f45fa6dd406d06d6e96304c494daf3d21690875ea8fea85d277d402b51f47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/20\/25-28.1791995460512.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर देलन"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातान"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शाउल"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "अनुरोध करलन"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "बरी-बरी"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेखेम"
+    }
+  ],
+  "timestamp": "2026-10-14T16:31:00.513745293Z",
+  "model": "glm-5.3"
+}

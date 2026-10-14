@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 26:45",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "सब",
+      "rationale": "भारतीय बहुवचन हेतु मगही में 'सब' जोड़ल गेलै; इब्रानी के सामूहिक रूप एके बतावैलकै"
+    },
+    {
+      "kind": "measurement",
+      "subject": "कुनबा-सूची",
+      "rationale": "गिनती के परिवार-सूची के अंग"
+    }
+  ],
+  "translation": "बरियाह के बेटासब के: खेबेर बर ⟨खेबेरी⟩ सब के कुनबा, मल्किएल बर ⟨मल्किएली⟩ सब के कुनबा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "36fc106033eeb60e15efad36217d1bfe0fa2a5297bcab6604bb3a7376ed06897",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/26\/45-48.1791991539345.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "के बेटासब के"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "बरियाह"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "खेबेर बर"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "החברי",
+      "gloss": "खेबेरी सब"
+    },
+    {
+      "surface": "למלכיאל",
+      "gloss": "मल्किएल बर"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "המלכיאלי",
+      "gloss": "मल्किएली सब"
+    }
+  ],
+  "timestamp": "2026-10-14T15:25:39.346329168Z",
+  "model": "glm-5.3"
+}

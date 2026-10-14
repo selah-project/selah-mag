@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "כי",
+      "rationale": "'बाकि' (सौगन्द के नकार के बिपरीत आदेश) पढ़ल गेल; दुसर पढ़ 'काहे कि' — आगे के बाक्य के कारण"
+    }
+  ],
+  "translation": "बाकि तूँ हमर धरती आउ हमर जनम-भूमि के जाबउ, आउ हमर बेटा बर — यित्सहाक बर — जनाना लेबउ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ea961d83f769b412ae323bc6f09c0c25c1bc1d1e6182a27e37d93f92ea907400",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/24\/1-4.1791986898735.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "हमर धरती"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ के"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "हमर जनम-भूमि"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "जाबउ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "आउ लेबउ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "हमर बेटा बर"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "यित׸हाक बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:08:18.736859555Z",
+  "model": "glm-5.3"
+}

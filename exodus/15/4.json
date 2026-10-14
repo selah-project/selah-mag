@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 15:4",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "कान के समुंदर",
+      "rationale": "ים סוף के शाब्दिक अरथ 'कान (सरकंडे) के समुंदर'; 'लाल समुंदर' बाद के चलन हकइ — मूल चित्र कान के हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "שלשיו",
+      "rationale": "שָׁלִישָׁיו के अरथ पर मतभेद: 'तीसरा सरदार\/सेनापति' (मंग अनुवाद), 'तीन-रथ के सवार', बनाम 'तीन-तीरहन्ना बजइया'।"
+    }
+  ],
+  "translation": "ओहे फिरौन के रथ आउ ओकर लस्कर के समुंदर में डेलन; आउ ओकर चुनल तीन-सरदार सब कान के समुंदर में डुब गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bdfb3a96fc3cb785010d36ed133e28ef776ab7e63c92c2856664559acd0cb367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/15\/1-4.1791988462114.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מרכבת",
+      "gloss": "रथ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "आउ ओकर लस्कर"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "डेलन"
+    },
+    {
+      "surface": "בים",
+      "gloss": "समुंदर में"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "आउ ओकर चुनल"
+    },
+    {
+      "surface": "שלשיו",
+      "gloss": "तीन-सरदार सब"
+    },
+    {
+      "surface": "טבעו",
+      "gloss": "डुब गेलन"
+    },
+    {
+      "surface": "בים",
+      "gloss": "समुंदर में"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "कान के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:34:22.116242636Z",
+  "model": "glm-5.3"
+}

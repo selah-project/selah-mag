@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כשני",
+      "rationale": "क- जइसन — तुलना बर इब्रानी के अगला-जोड़, मगही में पाछे रखलन।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שני שדיך כשני",
+      "rationale": "שני के दोहराव — 'दू … दू' के आगा-पाछा साढ़, मगही में अलग-अलग रूप में बचल।"
+    }
+  ],
+  "translation": "तोहर दूनो छाती दू हरिन-बुतरू जइसन हकइ, एके हरिनी के जुड़वाँ, जे कुमुदिनी के बीच चरऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1021a57f6e7ac9b7e879bc48a5fadb9f8b18c0fd918a0bce70d3681fffa6eb29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/4\/5-8.1792008018044.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "तोहर दूनो छाती"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "दू जइसन"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "हरिन-बुतरू"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "जुड़वाँ"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "हरिनी के"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "चरऽ हथिन"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "कुमुदिनी के बीच"
+    }
+  ],
+  "timestamp": "2026-10-14T20:00:18.045081577Z",
+  "model": "glm-5.3"
+}

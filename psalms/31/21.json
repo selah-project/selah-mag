@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תסתירם \/ בסתר",
+      "rationale": "क्रिया आउ संज्ञा एहे जड़ से — लुकाबऽ हइ \/ लुकाव — ई जोड़ी मगही में बचल हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרכסי",
+      "rationale": "अरथ बाट: „जाल-जाल” (बँधल जाल, ASV\/JPS के plottings) बनाम KJV के „घमंड” — जाल के तस्बीर ढीग पढ़ल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "छपर",
+      "rationale": "סוכा तम्बूनुमा छपर हकइ; KJV के „पबेलियन” राजकी डेरा — मूल रूप पतर झोपड़ी हकइ।"
+    }
+  ],
+  "translation": "तूँ ओकरा अपन मुँह के लुकाव में लुकाबऽ हइ आदमी के जाल-जाल से; तूँ ओकरा एगो छपर में छिपाबऽ हइ जीभ सब के झगड़ा से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "68cb93ed3f4736f9409d2fa87775ae44f66645454f61aa0c138273ed22712673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/31\/21-24.1792004848267.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תסתירם",
+      "gloss": "तूँ ओकरा लुकाबऽ हइ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "लुकाव में"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहर मुँह के"
+    },
+    {
+      "surface": "מרכסי",
+      "gloss": "जाल-जाल से"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "תצפנם",
+      "gloss": "तूँ ओकरा छिपाबऽ हइ"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "छपर में"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "झगड़ा से"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "जीभ सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:07:28.268346398Z",
+  "model": "glm-5.3"
+}

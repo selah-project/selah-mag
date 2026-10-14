@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ולא אור",
+      "rationale": "Hebrew छोट पाँती बिना क्रिया — 'आउ इँजोर नञ'; 'में' के दोहराव मगही के चाही हलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "נהג",
+      "rationale": "'खिसकैलन' (drive) बनाम 'ले गेलन' (lead) — पशु के तरह धकेलल के आभास Hebrew में हइ।"
+    }
+  ],
+  "translation": "हमरा ⟨את⟩ ओ खिसकैलन आउ अन्हार में ले गेलन — इँजोर में नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/lamentations\/3\/1-4.1792008209634.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "हमरा"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "खिसकैलन"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ले गेलन"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्हार में"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ...नञ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "इँजोर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:03:29.635201805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש here is the psalmist's living self, the breath-life; 'परान' keeps the life-force sense, not an immortal-soul reading."
+    },
+    {
+      "kind": "you",
+      "subject": "to the psalmist's own soul",
+      "rationale": "Feminine singular imperative ברכי addressed to the speaker's own נפש, reframing the verse from cosmos to self."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברכו…ברכי",
+      "rationale": "Masculine plural and feminine singular imperatives of the same verb bracket the verse; the Magahi renders both as 'असीस दे', losing the gender echo."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to all YHWH's works",
+      "rationale": "The call widens to all creation in every place of His dominion, then turns inward — psalm's closing inclusio with verse 1."
+    }
+  ],
+  "translation": "यहवे के असीस देवऽ हइ ओकर सब काम, ओकर राज के हर जगह; असीस दे, हमरा परान, यहवे ⟨את⟩ के।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d6cd3bcbfd8277dd61cc4f14b7fdfeaf34c7c0d62141f66f7ad5a10028332049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/103\/21-22.1792005780997.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "असीस देवऽ हइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ओकर काम"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ओकर राज"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "असीस दे"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमरा परान"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:23:00.998063503Z",
+  "model": "glm-5.3"
+}

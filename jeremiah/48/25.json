@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "सींग",
+      "rationale": "קרן सींग हकइ — बल आउ अकड़ के चिन्हा; एही रूप रखल गेलइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרן\/זרוע",
+      "rationale": "सींग आउ बाँह — बल के दू चिन्हा एके पाँती में तोड़ल जा रहल हइ।"
+    }
+  ],
+  "translation": "मोआब के सींग काट देल गेलइ आउ ओकर बाँह टूट गेलइ — यहवे के बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bca79b071df106451b80923773fb8a450588942ebaac4da452a0fffc96bea939",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/48\/25-28.1792001450980.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "काट देल गेलइ"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "सींग"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "आउ ओकर बाँह"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "टूट गेलइ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:10:50.980498763Z",
+  "model": "glm-5.3"
+}

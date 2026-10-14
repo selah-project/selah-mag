@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בין-दुई के आदमी",
+      "rationale": "איש הבנים — בין के द्विबचन; 'बीच-दुई के आदमी' (दुई सेना के बीच ठाढ़ होबय वाला) बनाम 'सेनापति', 'पहलवान', 'मध्यस्थ' — पहिला शाब्दिक रूप रखल गेल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "छह हाथ आउ एक बित्था",
+      "rationale": "अम्मा (कोहनी-हाथ) आउ जेरत (उँगुरी के फैलाव) — गोलयात के नाप"
+    }
+  ],
+  "translation": "आउ बीच-दुई के आदमी पलिश्ती सब के डेरा से निकलल — गोलयात ओकर नाम, गत (गत्त) के — ओकर लम्बाई छह हाथ आउ एक बित्था हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/17\/1-4.1791995329864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "बीच-दुई के"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "डेरा से"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती सब के"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "गोलयात"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "गत के"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ओकर लम्बाई"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "आउ एक बित्था"
+    }
+  ],
+  "timestamp": "2026-10-14T16:28:49.866258333Z",
+  "model": "glm-5.3"
+}

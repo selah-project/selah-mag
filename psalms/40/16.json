@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על עקב",
+      "rationale": "עקब साक्षात 'एड़ी\/बदला' — 'लज्जा के बदला में' (केजेवी) बनाम 'लज्जा के कारण' (एएसवी) — दूनो पढ़ावा चलन में हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हेआख",
+      "rationale": "हेआख दुसमनी के खुसी के उच्चार हकइ; मगही में ओहे सुर देवे बर लिप्यन्तरन रखल गेलइ।"
+    }
+  ],
+  "translation": "तबाह होइत अपन लज्जा के बदला में, ऊ सब जे हमरा कहऽ हइ: हेआख! हेआख!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/40\/13-16.1792004994481.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "तबाह होइत"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बदला में"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "अपन लज्जा"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ऊ सब जे कहऽ हइ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "האח",
+      "gloss": "हेआख!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "हेआख!"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:54.483264573Z",
+  "model": "glm-5.3"
+}

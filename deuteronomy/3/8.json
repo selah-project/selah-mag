@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "अरनोन से चेरमोन ले",
+      "rationale": "धरती के सीमा नापल गेलइ — भौगोलिक विस्तार के गिनती।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעבר הירדן",
+      "rationale": "'यर्देन के ओ पार' — कतहाँ से देखल जाय ओकरा पर निर्भर: पूरब (मोआब के ओर से) या पच्छिम (कनान के ओर से)।"
+    }
+  ],
+  "translation": "आउ हमनी ओही समय ⟨את⟩ धरती लेलियन — दू एमोरी राजा के हाथ से, जे यर्देन के ओ पार रहथिन — नदी अरनोन से ले के पहाड़ चेरमोन ले।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7fdecd3e31d39c3a581d97a4227d29da53af390a76e2be05ab0fb479a279ce31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/3\/5-8.1791991972559.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "आउ लेलियन"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "एमोरी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ओ पार"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्देन"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "अरनोन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले के"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "चेरमोन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:32:52.561058935Z",
+  "model": "glm-5.3"
+}

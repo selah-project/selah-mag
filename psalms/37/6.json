@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כאור \/ כצהרים",
+      "rationale": "Two light-words: 'illumination' and the dual 'double-light' (noon); the graded light parallel is dimmed in Magahi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "त्सेदेक",
+      "rationale": "צדק rendered by the pinned Tier-2 term त्सेदेक, not reduced to a single Magahi word."
+    }
+  ],
+  "translation": "आउ ऊ बाहर लातइ अपन त्सेदेक के इँजोर के सामान, आउ अपन नियाव के दुपहरिया के सामान।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/37\/5-8.1792004911312.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "आउ ऊ बाहर लातइ"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "इँजोर के सामान"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "अपन त्सेदेक"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "आउ अपन नियाव"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "दुपहरिया के सामान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:08:31.313123247Z",
+  "model": "glm-5.3"
+}

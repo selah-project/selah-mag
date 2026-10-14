@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 24:30",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כראת\/וכשמעו के पूरा क्रिया-रूप",
+      "rationale": "इब्रानी के अनन्त-क्रिया मगही में भूतकाल से पार भेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנזם",
+      "rationale": "शब्दशः नाक के कड़ी; नथिया ओही चीज के मगही रूप हकइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "तब",
+      "rationale": "इब्रानी के ढाँचा जेकरा…तब के बाक्य मगही में जोड़ल गेल"
+    }
+  ],
+  "translation": "आउ जेकरा ऊ ओकर बहिन के हाथ पर ⟨את⟩ नथिया आउ ⟨את⟩ कँगन देखलन, आउ ⟨את⟩ ओकर बहिन रिब्काह के बात सुनलन जे कहऽ हल — एहने ओ आदमी हमरा कहलन — तब ऊ ओ आदमी के दने अइलन, आउ देखऽ, ऊ कुइयाँ के भीतर ऊँट के संग ठाढ़ हलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a8750803e87cbde1014221501264eaf8854a7f912168bfd59bd7528bc057f820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/24\/29-32.1791987014597.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ जेकरा"
+    },
+    {
+      "surface": "כראת",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नथिया"
+    },
+    {
+      "surface": "הנזם",
+      "gloss": "नथिया"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "कँगन"
+    },
+    {
+      "surface": "הצמדים",
+      "gloss": "कँगन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ओकर बहिन के"
+    },
+    {
+      "surface": "וכשמעו",
+      "gloss": "आउ सुनलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बात"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "रिब्काह"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ओकर बहिन के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "जे कहऽ हल"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ओ आदमी"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "तब अइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ओ आदमी के"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ठाढ़ हलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ऊँट"
+    },
+    {
+      "surface": "על",
+      "gloss": "के भीतर"
+    },
+    {
+      "surface": "העין",
+      "gloss": "कुइयाँ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:10:14.598758704Z",
+  "model": "glm-5.3"
+}

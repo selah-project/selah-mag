@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גנב גנבתי",
+      "rationale": "एके जड़ के दोहराव — चोरी-चोरी कइल; मगही में एके जड़ रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गड्ढा",
+      "rationale": "בור — गड्ढा\/कुइयाँ-जेसन बंदी-गार, ओकरा तनख्वाह बंदीघर नञ।"
+    }
+  ],
+  "translation": "काहे कि हम ⟨את⟩ इबरी के धरती से चोरी करा के लेआवल गेलनि, आउ इहो त खाली एही जगह हम कुछो नञ कइलियन — ओकरा एही गड्ढा में डार देलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "39df6fa2df1ffe5b3e1206a49dcb5613fc19ead10ea9e416bc425122b612a1ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/40\/13-16.1791987562711.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "चोरी करा के"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "हम… लेआवल गेलनि"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "इबरी के"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ इहो त"
+    },
+    {
+      "surface": "פה",
+      "gloss": "एही जगह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "हम कइलियन"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कुछो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ओकरा⟩ काहे कि"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "डार देलक"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ हमनी के",
+      "marks": "एही गड्ढा में"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "एही गड्ढा में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:19:22.712433132Z",
+  "model": "glm-5.3"
+}

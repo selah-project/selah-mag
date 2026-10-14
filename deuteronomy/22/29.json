@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 22:29",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "shekels",
+      "rationale": "मूलपाठ खाली “पचास चानी” कहऽ हइ — शेकेल नाप-सब्द पाठ में नञ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "दुखालन",
+      "rationale": "ענה के सुभाविक अरथ “दुखालन\/दबावल” — “बलात्कार कइलन” बाद के कानूनी अरथ हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "जिन्दगी भर",
+      "rationale": "“कल-यमיו” (ओकर सब दिन) के साफ मगही बाक्य बर जोड़ल मुहावरा।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पचास चानी",
+      "rationale": "शुल्क के नाप — पचास चानी, गिनती के बात।"
+    }
+  ],
+  "translation": "आउ ओ मरद जे ओकरा संग सुतलन, बुतरू के बाप के पचास चानी देतइ, आउ ऊ ओकर जनाना होतइ, काहे कि ऊ ओकरा दुखालन; ऊ ओकरा कखनो नञ छाड़ि सकतइ, जिन्दगी भर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f4f013ef082782703f145225bea70fbe9fcaf7df4c4d123500544406c7779d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/22\/29-29.1791992673127.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "देतइ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ओ मरद"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "जे सुतलन"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "बाप के"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "बुतरू के"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "आउ ओकरा"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨जे⟩"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "दुखालन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सकतइ"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "ओकरा छाड़ि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जिन्दगी भर"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ओकर सब दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:44:33.127567045Z",
+  "model": "glm-5.3"
+}

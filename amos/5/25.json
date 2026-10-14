@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "amos 5:25",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "की",
+      "rationale": "हिब्रू में प्रस्न-चिन्हा नञ हइ; बाक्य के बनावट प्रस्न के हकइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "चालिस बरिस",
+      "rationale": "जंगल-वास के समय गिनल गेलइ हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "बेत यिस्राएल",
+      "rationale": "सीधा सम्बोधन — यिस्राएल के घराना"
+    }
+  ],
+  "translation": "हे बेत यिस्राएल, की तोहनी जंगल में चालिस बरिस बलि आउ मिन्हा हमरा अरपन कइलहुँ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "402c01821f7679efb7279b49e24d96dd6bfdae8161a426316d1488e183ef2ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/5\/25-27.1792003535397.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הזבחים",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "आउ मिन्हा"
+    },
+    {
+      "surface": "הגשתם",
+      "gloss": "अरपन कइलहुँ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालिस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "בית",
+      "gloss": "हे बेत"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-10-14T18:45:35.398313830Z",
+  "model": "glm-5.3"
+}

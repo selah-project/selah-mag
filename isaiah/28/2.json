@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 28:2",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הניח के करता",
+      "rationale": "करता अदोनाय हथिन या ओ बलवान बरी — परम्परा में दूनो पाठ चललइ हअ; हमनी संदर्भ के अनुसार अदोनाय लए।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨बरी⟩",
+      "rationale": "हिब्रू के विशेषण (बलवान आउ जोर वाला) के परति संज्ञा नञ हअ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שער קטב",
+      "rationale": "शाब्दिक 'भय के नास' — मगही में 'उजाड़े वाला तूफान' धरलइ।"
+    }
+  ],
+  "translation": "देखऽ, अदोनाय ले एक बलवान आउ जोर वाला ⟨बरी⟩ हकइ — ओला के झड़ी जइसन, उजाड़े वाला तूफान जइसन, बड़का पानी के ऐसन बाढ़ जइसन जे बहऽ हे — ओ हाथ से ओकरा धरती पर ढेर देतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7bc698e7ae6683da4a0af4e86aa053d6a9fcc8ccbebb8d815fca88b64546b0b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/28\/1-4.1791999107834.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "आउ जोर वाला"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "अदोनाय ले"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "झड़ी जइसन"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ओला"
+    },
+    {
+      "surface": "שער",
+      "gloss": "तूफान"
+    },
+    {
+      "surface": "קטב",
+      "gloss": "उजाड़े वाला"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "बाढ़ जइसन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "बड़का"
+    },
+    {
+      "surface": "שטפים",
+      "gloss": "बहऽ हे"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ढेर देतन"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ से"
+    }
+  ],
+  "timestamp": "2026-10-14T17:31:47.835308732Z",
+  "model": "glm-5.3"
+}

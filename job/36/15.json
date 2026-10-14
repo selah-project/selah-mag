@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 36:15",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "उघाड़ऽ हइ",
+      "rationale": "ויגल के सुभाविक अरथ 'उघाड़ना' हकइ — कान के ओढ़ना हटावल; बाकी परम्परा 'खोलना' कहऽ हइ।"
+    }
+  ],
+  "translation": "ऊ दुखियार के ओकर दुख में छुड़ावऽ हइ, आउ संकट में ओकनी के कान उघाड़ऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "737fd9ff37ef82afbbe2e346fdd5d358b3a555dc01a6e07d5eaac0df2f81372e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/36\/13-16.1792007772411.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחלץ",
+      "gloss": "छुड़ावऽ हइ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुखियार"
+    },
+    {
+      "surface": "בעניו",
+      "gloss": "ओकर दुख में"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "आउ उघाड़ऽ हइ"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "संकट में"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "ओकनी के कान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:56:12.412619290Z",
+  "model": "glm-5.3"
+}

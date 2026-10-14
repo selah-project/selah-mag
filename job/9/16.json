@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "तब भी",
+      "rationale": "हिब्रू 'यदि... और उसने उत्तर दिया — फिर भी मैं विश्वास नहीं करूँगा' के 'फिर भी' विरोधाभास में बना रहता है, जिसे मगही को स्पष्ट रूप से व्यक्त करना पड़ता है"
+    }
+  ],
+  "translation": "अगर हम पुकारलियन आउ ऊ हमर जवाब देलन, तब भी हम बिसवास नञ करबी जे ऊ हमर बोली पर कान धरतन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "952cdf15cb2e6947895a0b9c0d0a6e64c187489bb14951bb2eee8be558634ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/9\/13-16.1792007262509.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "पुकारलियन"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "हमर जवाब देलन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "बिसवास नञ करबी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "कान धरतन"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "हमर बोली"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:42.510374476Z",
+  "model": "glm-5.3"
+}

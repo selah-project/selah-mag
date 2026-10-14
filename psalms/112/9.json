@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קֶרֶן",
+      "rationale": "'horn' as strength\/dignity vs literal horn; rendered literally as सीँग to keep the picture"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פִּזַּר נָתַן",
+      "rationale": "two verbs one act — scatter-give — echoed in 2 Cor 9:9; Magahi keeps both verbs"
+    }
+  ],
+  "translation": "ऊ बाँटलन, गरीबन के देलन; ओकर त्सेदेक सदा बर ठाढ़ रहतइ; ओकर सीँग सम्मान में ऊँचा होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/112\/9-10.1792005938506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פִּזַּר",
+      "gloss": "बाँटलन"
+    },
+    {
+      "surface": "נָתַן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "לָאֶבְיוֹנִים",
+      "gloss": "गरीबन के"
+    },
+    {
+      "surface": "צִדְקָתוֹ",
+      "gloss": "ओकर त्सेदेक"
+    },
+    {
+      "surface": "עֹמֶדֶת",
+      "gloss": "ठाढ़ रहतइ"
+    },
+    {
+      "surface": "לָעַד",
+      "gloss": "सदा बर"
+    },
+    {
+      "surface": "קַרְנוֹ",
+      "gloss": "ओकर सीँग"
+    },
+    {
+      "surface": "תָּרוּם",
+      "gloss": "ऊँचा होतइ"
+    },
+    {
+      "surface": "בְּכָבוֹד",
+      "gloss": "सम्मान में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:38.507077306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 23:17",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "कौन छोपलक",
+      "rationale": "किताबवाली अनुवाद में करता अलग बा — केजेवी 'ऊ' (परमेश्वर), बीएसबी 'गहिरा अन्हार' आपने; हिब्रू में करता बिना नाम के हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "मפני",
+      "rationale": "'के सामने से' के अरथ अनुवादक में बँटल हइ — 'मुँह से' या 'पहिले ही'; हम दुनू के जगह सामने रखनी अइल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשך \/ אפל",
+      "rationale": "अन्हार आउ गहिरा अन्हार — दु दरजा के अँधियारपन, हिब्रू के तेज बढ़त अँधियार"
+    }
+  ],
+  "translation": "काहे कि हम अन्हार के सामने से नष्ट नञ भेलियन, आउ हमरा सामने गहिरा अन्हार छोपलक हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3f888c8a961e6fb43e0866b6f5ac3bbb297d40a5fab46e185d9b3d6cab926d9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/23\/17-17.1792007541387.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נצמתי",
+      "gloss": "नष्ट भेलियन"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्हार"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "आउ सामने से"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "छोपलक"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "गहिरा अन्हार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:52:21.388373434Z",
+  "model": "glm-5.3"
+}

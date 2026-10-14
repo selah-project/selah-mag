@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "चोशेन",
+      "rationale": "חשן ऊ छाती पर रखल जोखिम-थैला हकइ; नाम जस के तस रखल गेलइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הנשאם",
+      "rationale": "'ऊँचा ठाढ़ लोग' — राजा\/कुल-प्रमुख या 'उठावे वाला अगुआ'; सरदार लेल गेलइ।"
+    }
+  ],
+  "translation": "आउ सरदार ⟨את⟩ सोहम के पत्थल आउ ⟨את⟩ जड़े बर के पत्थल ले अइलन — एफोद आउ चोशेन बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9bfee707a3aadb4d0f766b8030ffa0c068b883e12485322e31b4d79248048805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/35\/25-28.1791989237685.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "आउ सरदार"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ले अइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सोहम के पत्थल"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "सोहम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ ⟨את⟩",
+      "marks": "जड़े बर के पत्थल"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "जड़े बर के"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "एफोद बर"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "आउ चोशेन बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:47:17.686693114Z",
+  "model": "glm-5.3"
+}

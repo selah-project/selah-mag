@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 16:7",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עדיים",
+      "rationale": "The plural of עדי 'ornaments' occurs only here in the Tanakh."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צמח \/ צמח",
+      "rationale": "Verse opens with כצמח 'like a sprout' and repeats the root with the hair 'sprouting' — the growth echo is kept."
+    }
+  ],
+  "translation": "हजार-हजार जइसन खेत के उगै हम तोहरा बनइलन; तूँ बढ़लइ आउ बड़ भेलइ आउ गहना-सजावट में आवलइ; छाती बन गेलन आउ तोहर बाल उग गेल; बाकि तूँ नाङेह आउ बिन-कपड़ा हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5f2c743630629212a8765fbd70db0e6e73ebf6930ac5cba5bdb2daaaf065710a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/16\/5-8.1792002105261.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבבה",
+      "gloss": "हजार-हजार"
+    },
+    {
+      "surface": "כצמח",
+      "gloss": "जइसन खेत के उगै"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "हम तोहरा बनइलन"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "तूँ बढ़लइ"
+    },
+    {
+      "surface": "ותגדלי",
+      "gloss": "आउ बड़ भेलइ"
+    },
+    {
+      "surface": "ותבאי",
+      "gloss": "आउ पहुँच गेलइ"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "गहना में"
+    },
+    {
+      "surface": "עדיים",
+      "gloss": "गहना-सजावट"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "छाती"
+    },
+    {
+      "surface": "נכנו",
+      "gloss": "बन गेलन"
+    },
+    {
+      "surface": "ושערך",
+      "gloss": "आउ तोहर बाल"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "उग गेल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आउ तूँ"
+    },
+    {
+      "surface": "ערם",
+      "gloss": "नाङेह"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "आउ बिन-कपड़ा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:21:45.262500683Z",
+  "model": "glm-5.3"
+}

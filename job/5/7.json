@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני רשף",
+      "rationale": "'चिनगारी के बेटा' (अंगारा) बनाम 'रेशेफ के बेटा' (अग्नि\/बिजुली के देवता के नाम) — दूनो पढ़ाई चलऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמל",
+      "rationale": "पद 6 के 'दुख-तकलीफ' (עמל) इहाँ फेर आवऽ हइ — आदमी ओही बर जन्मऽ हइ जे धरती से नञ उगऽ हइ।"
+    }
+  ],
+  "translation": "काहे कि आदमी दुख-तकलीफ बर जन्मऽ हइ, आउ चिनगारी के बेटा ऊपर उड़ावऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd89e6dfbe519c368bfbd48065e8c136443ef44df7eef1d231aaca536fde33cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/5\/5-8.1792007227244.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "दुख-तकलीफ बर"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "जन्मऽ हइ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आउ ... के बेटा"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "चिनगारी"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "ऊपर उड़ावऽ हइ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "उड़ना"
+    }
+  ],
+  "timestamp": "2026-10-14T19:47:07.245481097Z",
+  "model": "glm-5.3"
+}

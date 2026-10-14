@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 22:17",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כבד \/ אכבדך",
+      "rationale": "same root twice — 'heavy honour I will make-heavy you' — repetition lost in one word 'मान'."
+    },
+    {
+      "kind": "crux",
+      "subject": "קבה",
+      "rationale": "rare verb 'to stab\/pierce with words' rendered 'curse' (कोसना) by most; YLT keeps 'pierce'; Magahi 'कोसऽ' keeps the stabbing picture partly."
+    },
+    {
+      "kind": "you",
+      "subject": "to Balaam",
+      "rationale": "Balak's message addressed directly to Balaam through the servants."
+    }
+  ],
+  "translation": "काहे कि हम तोहरा बहुते बड़ा मान देबी, आउ जे कुछो तूँ हमरा कहबे, हम ओकरा करबी; एही से अइऽ, ई ⟨את⟩ जाति के हमरा बर कोसऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "932bc8638c3cd4c14cf38c2cde87d32042533d7891be59d9997e47e0393fd8fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/22\/17-20.1791991392830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "बहुते बड़ा मान"
+    },
+    {
+      "surface": "אכבדך",
+      "gloss": "हम तोहरा मान देबी"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ जे कुछो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "तूँ कहबे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "हम ओकरा करबी"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "एही से अइऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अइऽ"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "कोसऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई जाति के"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जाति के"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T15:23:12.830797913Z",
+  "model": "glm-5.3"
+}

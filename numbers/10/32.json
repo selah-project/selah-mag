@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 10:32",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טוב \/ ייטיב \/ והטבנו",
+      "rationale": "एके जड़ तीन बेर — भलाई, भला करना, भला करबइ — पद 29 के वाचा के गूँज।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "והיה … והיה",
+      "rationale": "'आउ होतइ … आउ होतइ' — इब्रानी के शर्त-संरचना जोड़, दूनो क्रिया रखल गेल।"
+    }
+  ],
+  "translation": "आउ अइसन होतइ — जँ तूँ हमनी संग जाबइ, तब होतइ कि जे भलाई यहवे हमनी संग करबइ, ओहें हमनी तोहरा बर भला करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a6d236d49114907b2ee5a0f42bf8304c97135bef46ef7d00508667b52c4bcd80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/10\/29-32.1791990927814.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "जाबइ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी संग"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "तब होतइ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ओ भलाई"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहें"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "भला करबइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी संग"
+    },
+    {
+      "surface": "והטבנו",
+      "gloss": "आउ हमनी भला करबइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:15:27.815630666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעבור תדע contrafactual perfect",
+      "rationale": "שלחתी आउ ואך पूर्ण क्रिया वास्तव में घटल चीज नञ — 'हम हाथ बढ़ाइल हलन त...' (ASV\/JPS\/KJV) बनाम 'अब हम बढ़ावतन' (Wycliffe\/Geneva); पहिला पढ़निहार संकट के बनाम ठाढ़ होवऽ हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ותכחד",
+      "rationale": "'मिटा गेलऽ रहतऽ' ओकर विरोधी-भूत के रूप में; दोसर पढ़ाई — 'तूँ छिप जइतऽ' (YLT), जड़ כוחד के साफ अरथ छिपावऽ\/मिटावऽ हइ।"
+    }
+  ],
+  "translation": "काहे कि अबहीं हम ⟨את⟩ हाथ बढ़ाइल हलन, त ⟨את⟩ तोहरा आउ ⟨את⟩ तोहर लोग के महामारी से मारल हलन — आउ तूँ धरती से मिटा गेलऽ रहतऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c415027e0b7c37f18d6118a581063d4f1209b3383bd695b38e4ccf74204f6cd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/9\/13-16.1791988283214.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "बढ़ाइल हलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हाथ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "मारल हलन"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ तोहरा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर लोग"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहर लोग"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "महामारी से"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "मिटा गेलऽ रहतऽ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T14:31:23.215700368Z",
+  "model": "glm-5.3"
+}

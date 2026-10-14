@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 29:11",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "शाब्दिक 'वाचा काटना' — इब्रानी में वाचा काट के बनऽ हइ; मगही में 'काटऽ हइ' के आकृति रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלה",
+      "rationale": "אלה = सौगंद के अभिसाप-रूप, साफ सौगंद नञ।"
+    }
+  ],
+  "translation": "एकरा बर कि तूँ यहवे अपन एलोहीम के वाचा में आउ ओकर सौगंद में पार होऽ — जे वाचा यहवे अपन एलोहीम आज तोहरा संग काटऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "613764cbd906a2d63bb9cfe5d19264aead3614839c7c7a0fe55c8496ca3849b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/29\/9-12.1791992848350.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעברך",
+      "gloss": "कि तूँ पार होऽ"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "वाचा में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "अपन एलोहीम"
+    },
+    {
+      "surface": "ובאלתו",
+      "gloss": "आउ ओकर सौगंद में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "अपन एलोहीम"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काटऽ हइ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहरा संग"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-10-14T15:47:28.351012968Z",
+  "model": "glm-5.3"
+}

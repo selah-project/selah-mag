@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרע",
+      "rationale": "'छूटल \/ खुलल' (unbridled) बनाम 'नंगा' (naked, KJV\/Geneva) — जड़ के अरथ ढीला कइल हकइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרוע\/פרעה",
+      "rationale": "एक्के जड़ के दोहराव — लोग छूटल आउ अहरोन छोड़लक; आउ פרעה के आकृति फिरौन के नामो हकइ"
+    }
+  ],
+  "translation": "आउ मोशे देखलन ⟨את⟩ लोग के कि ऊ छूटल हलइ, काहे कि अहरोन ओकरा ओकनी के बिरोधी के बीच बेइज्जती बर छोड़ देलक हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "204bd0cbcc38ce6bd8cb7c972bd0136afc21dcf57eee0aed76ce0c57c83d7861",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/32\/25-28.1791989204288.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "आउ देखलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग के"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "छूटल हलइ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "छोड़ देलक हल"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "बेइज्जती बर"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "ओकनी के बिरोधी के बीच"
+    }
+  ],
+  "timestamp": "2026-10-14T14:46:44.289441379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जे",
+      "rationale": "मगही के जोड़ल सर्बनाम — इब्रानी के खाली क्रिया-विसेसन हकइ"
+    },
+    {
+      "kind": "mystery",
+      "subject": "यहवे के बनावल कान आउ आँख",
+      "rationale": "पिछला बाक्य के घृणा के पाछे — सुनै आउ देखै वाला के बतावऽ हइ कि सब किछु खुलल बा"
+    }
+  ],
+  "translation": "कान ⟨जे⟩ सुनै वाला, आउ आँख ⟨जे⟩ देखै वाला — यहवे दुनों बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0b57c84e8816b0afce4a7d833df3bcb143f9b89999e98825a6d957e7bb66b826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/20\/9-12.1792006821075.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "सुनै वाला"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "आउ आँख"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखै वाला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "तो"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दुनों"
+    }
+  ],
+  "timestamp": "2026-10-14T19:40:21.076310760Z",
+  "model": "glm-5.3"
+}

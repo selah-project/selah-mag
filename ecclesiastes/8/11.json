@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פתגם",
+      "rationale": "Persian loanword (pitgam), 'judicial sentence', rare in the Tanakh; kept as 'फैसला'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בני האדם",
+      "rationale": "'sons of man' = humankind; rendered 'आदमी के बेटा सब', a Hebrew idiom for all people."
+    }
+  ],
+  "translation": "काहे कि बुरा काम के फैसला जल्दी नञ कइल जाऽ हइ, एहे से आदमी के बेटा सब के हिरदय ओकरा में भरल रहऽ हइ कि बुराई करऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3965f14a778b1f219bcbcff5d8466f8d59c2570cf7ea3cfa5ce639dcb84d2dff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/8\/9-12.1792008496153.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "कइल जाऽ हइ"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "फैसला"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम के"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "जल्दी"
+    },
+    {
+      "surface": "על",
+      "gloss": "एहे"
+    },
+    {
+      "surface": "כן",
+      "gloss": "से"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरल रहऽ हइ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब के"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करऽ बर"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    }
+  ],
+  "timestamp": "2026-10-14T20:08:16.154498245Z",
+  "model": "glm-5.3"
+}

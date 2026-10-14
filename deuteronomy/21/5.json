@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 21:5",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ועל פיהם",
+      "rationale": "'ओकनी के मुँह के ऊपर' — मुँह के बात के ऊपर, मतलब ओकनी के फैसला से हर झगड़ा आउ चोट निपटतइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "נגע",
+      "rationale": "'चोट' — कोनो मुकदमा में चोट के नाप, या देह के लगन (कोढ़) — दुनो पढ़ाव मिलल हकइ।"
+    }
+  ],
+  "translation": "आउ नजदीक अइतन पुरोहित, लेवी के बेटा, काहे कि ओकनी के यहवे तोहर एलोहीम चुनलन हइ ओकर सेवा करे बर आउ यहवे के नाम में असीस देने बर, आउ ओकनी के मुँह के ऊपर होतइ हर एक झगड़ा आउ हर एक चोट।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5100172d8d3cc7c5d7dfebd1ddd1efec1ff7763e7a64d8b22bbed8da8075b778",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/21\/5-8.1791992561482.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגשו",
+      "gloss": "नजदीक अइतन"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकनी के"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "चुनलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "ओकर सेवा करे बर"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "आउ असीस देने बर"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाम में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ ऊपर"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ओकनी के मुँह"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "झगड़ा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आउ हर एक"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "चोट"
+    }
+  ],
+  "timestamp": "2026-10-14T15:42:41.482919631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתנדדו",
+      "rationale": "KJV 'flee away' बनाम ASV\/JPS 'shake the head' — नדד के अरथ इहाँ लहराना\/हिलाना हकइ, बाकि किछु पढ़निहार भागै के अरथ लेथिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "मूड़ी",
+      "rationale": "希भीया अनुवाद मूड़ी हिलावे के अरथ लेथिन, बाकि मूलपाठ में मूड़ी के एक्को उल्लेख नञ हकइ।"
+    }
+  ],
+  "translation": "आउ ऊ लड़खड़ा गेलन — ओकनी के अपन जीभ ओकनी के ऊपर हलइ; ओकनी के देखै वाला सब हिलातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "97fdc78de7ab084598fe1800a3f8ab85cc106f2305a810c8115912a8f0935e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/64\/9-11.1792005226073.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "आउ लड़खड़ा गेलन"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ओकनी के ऊपर"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ओकनी के जीभ"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "हिलातइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखै वाला"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:13:46.074408748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "लאבד",
+      "rationale": "किछु अनुवादक 'नास करे के' कहऽ हथिन; क्रिया दुहरे के जोड़ी (खोज\/गँवाव) में 'गँवावे' सुभाविक हकइ।"
+    }
+  ],
+  "translation": "खोजे के बेरा आउ गँवावे के बेरा; रखवारी करे के बेरा आउ फेंक देवे के बेरा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "610a4c00af3d6d5621274ed8c4282f60a23fb5d5069a4d82e4b7e9d537c0e141",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ecclesiastes\/3\/5-8.1792008330756.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "बेरा"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "खोजे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आउ बेरा"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "गँवावे के"
+    },
+    {
+      "surface": "עת",
+      "gloss": "बेरा"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "रखवारी करे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आउ बेरा"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "फेंक देवे के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:05:30.757161025Z",
+  "model": "glm-5.3"
+}

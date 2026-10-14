@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "बाअल",
+      "rationale": "बाअल के अरथ पर बड़ मतभेद: 'बड़का आदमी\/सरदार' (KJV, ASV, JPS) बनाम 'बियाह के रिस्तेदार' (BSB) बनाम 'मालिक-पुरोहित' (YLT)।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "लेहल्लो",
+      "rationale": "लेहल्लो के दू सर्बनामी अरथ: 'अपना के भ्रस्ट करे बर' बनाम 'ओकरा (बाअल के) भ्रस्ट करे बर'; पहिला लेल गेल।"
+    }
+  ],
+  "translation": "ऊ अपन लोग के बीच बड़का आदमी होवे तऽ अपना के भ्रस्ट करे बर अशुद्ध नञ होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/21\/1-4.1791990213226.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध होतइ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "बड़का आदमी"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "अपन लोग के बीच"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "अपना के भ्रस्ट करे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:03:33.227957444Z",
+  "model": "glm-5.3"
+}

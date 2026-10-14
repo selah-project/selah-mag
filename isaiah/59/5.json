@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קורי",
+      "rationale": "web — ई सब्द तनाख़ में केवल इहेआ (यशायाह 59:5) आउ 59:6 मे आवऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקעו\/תבקע",
+      "rationale": "एके जड़ दू बेर — अंडा फोड़ना आउ ओकरामे सेप के फूटना; एहन जोड़ी मगही में बनइ रहल हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "והזורה תבקע אפעה",
+      "rationale": "कुछ अनुवाद 'कुचलल अंडा' कहऽ हइ, कुछ 'जे पैदा भेल' — हिब्रू पाठ 'कुचलल गेल टूटऽ हइ सेप बनिके' कहऽ हइ"
+    }
+  ],
+  "translation": "ओकनी जहरील सेप के अंडा सेजऽ हथिन आउ माकड़ी के जाल बुनऽ हथिन; जउन ओकनी के अंडा खातइ, ऊ मरतइ, आउ जउन कुचलतइ, ओकरामे सेप फूट पड़तइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6e6cadf105f81a8450ef9f254f281feaf64de37bc378f7a5da325cd77893e7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/59\/5-8.1791999966144.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "अंडा"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "जहरील सेप के"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "सेजऽ हथिन"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "आउ जाल"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "माकड़ी के"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "बुनऽ हथिन"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "जउन खातइ"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "ओकनी के अंडा"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरतइ"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "आउ जउन कुचलतइ"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "फूट पड़तइ"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "सेप"
+    }
+  ],
+  "timestamp": "2026-10-14T17:46:06.145505111Z",
+  "model": "glm-5.3"
+}

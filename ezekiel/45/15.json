@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 45:15",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממשקה",
+      "rationale": "'well-watered (pasture)' vs 'drink-offering' — context favors watering-place of Israel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ढाँके बर",
+      "rationale": "כפר literally 'to cover'; rendered with the covering picture, not 'atone'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "दू सौ में से एक",
+      "rationale": "one-in-two-hundred flock tithe prescribed"
+    }
+  ],
+  "translation": "आउ भेड़-बकरी के झुंड में से एक भेड़ — यिस्राएल (इस्राएल) के सींचल चरागाह के दू सौ में से — मिन्हा बर, ओला बर आउ शलम बलि बर, ओकर ऊपर ढाँके बर — अदोनाय यहवे के बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e6a3873cc30c0d6a5ad9be35340372f75737db3e4d7c0efd5165f398a82f243a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/45\/13-16.1792003024039.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושה",
+      "gloss": "आउ एक भेड़"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेड़-बकरी के झुंड"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "המאתים",
+      "gloss": "दू सौ"
+    },
+    {
+      "surface": "ממשקה",
+      "gloss": "सींचल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "मिन्हा बर"
+    },
+    {
+      "surface": "ולעולה",
+      "gloss": "आउ ओला बर"
+    },
+    {
+      "surface": "ולשלמים",
+      "gloss": "आउ शलम बलि बर"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ढाँके बर"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:37:04.040319782Z",
+  "model": "glm-5.3"
+}

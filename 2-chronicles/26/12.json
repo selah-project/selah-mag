@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सेना के मुखिया के गिनती",
+      "rationale": "ई पद गिनती बतावऽ हइ — दू हजार आउ छए सौ मुखिया"
+    },
+    {
+      "kind": "addition",
+      "subject": "copula 'हलइ'",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही के बाक्य बर ⟨हलइ⟩ चाही — रूप अनुवाद में जोड़ल गेलइ"
+    }
+  ],
+  "translation": "बाप-दादा के मुखिया सब के, बहादुर लड़ाका सब के, कुल गिनती दू हजार आउ छए सौ हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "11919e7190248a6476666ea2c1b5d35395d2939050d6fd1d3c1037765629d06a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/26\/9-12.1792011194769.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "मुखिया सब"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "बाप-दादा के"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "बहादुर लड़ाका सब के"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सामर्थ्य"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दू हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आउ छए"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:53:14.771101920Z",
+  "model": "glm-5.3"
+}

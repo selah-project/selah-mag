@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבית",
+      "rationale": "'भीतरे' — शोक के गोना-कपड़ा कपड़ा के नीचे मांस पर; कुछ अनुवाद 'घर के भीतर' पढ़ऽ हथिन, बाकि परति-वस्त्र के अरथे जादे ठीक हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "והוא עבר",
+      "rationale": "मगही में चलत-किरिया ('जा रहल रहे') जोड़ल गेल; इब्रानी खाली कृदंत रखऽ हइ।"
+    }
+  ],
+  "translation": "आउ जब राजा ओ जनाना के ⟨את⟩ बात सुनलन, त ओ ⟨את⟩ अपन कपड़ा फाड़लक — आउ ऊ दीवार पर पार जा रहल रहे — आउ लोग देखलन, आउ देखौ, ओकर मांस पर भीतरे गोना-कपड़ा हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5a46683d16cb1c94bb415f65bf1e56f315c8a2067167e163fd1d71a9cc4a6c4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/6\/29-32.1791997860751.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ जब हलइ"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "सुनला"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बात"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "फाड़लक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन कपड़ा"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "अपन कपड़ा"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "पार जा रहल रहे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखौ"
+    },
+    {
+      "surface": "השק",
+      "gloss": "गोना-कपड़ा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ओकर मांस"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "भीतरे"
+    }
+  ],
+  "timestamp": "2026-10-14T17:11:00.752439409Z",
+  "model": "glm-5.3"
+}

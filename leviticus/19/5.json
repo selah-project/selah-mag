@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "लरצנכם",
+      "rationale": "'तोहरे भावे' (अपने रज़ा से, KJV) बनाम 'मानल जाए बर' (ASV\/JPS — ओकर परति स्वीकारि)"
+    },
+    {
+      "kind": "addition",
+      "subject": "बर",
+      "rationale": "Hebrew prefixed ל rendered as separate postposition, Magahi requires it"
+    }
+  ],
+  "translation": "आउ जब तोहनी यहवे बर सांति के बलि काटबऽ, तोहरे भावे ओकरा काटबऽ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/19\/5-8.1791990059052.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आउ जब"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "काटबऽ (बलि)"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "सांति के"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "तोहरे भावे"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "ओकरा काटबऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:00:59.052818022Z",
+  "model": "glm-5.3"
+}

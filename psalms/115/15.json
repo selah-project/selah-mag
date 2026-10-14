@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "जे",
+      "rationale": "सम्बन्धवाची जोड़ल गेलइ जे इब्रानी में नञ हइ"
+    }
+  ],
+  "translation": "तोहनी सब यहवे से असीसवाला हऽ — जे अकास आउ धरती के बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/115\/13-16.1792006016550.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "असीसवाला"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तोहनी सब"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे से"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "आउ धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:56.551254729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 40:1",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बिरुद्ध",
+      "rationale": "हिब्रू में अलग 'विरुद्ध' शब्द नइ हइ; ल-के अरथ में सामिल हलइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मालिक",
+      "rationale": "אדני इहाँ मनुख बर हकइ, दिब्य नाम नञ"
+    }
+  ],
+  "translation": "आउ ई बात सब के बाद भऽ गेलइ कि मिस्रयिम (मिस्र) के राजा के मद परोसे वाला आउ रोटी सेके वाला अपन मालिक — मिस्रयिम के राजा — बिरुद्ध पाप कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f19d19edcc53c1c029aa89a6634d5e75d2a4de24161a969c71c25bb35d2e967a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/40\/1-4.1791987617434.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भऽ गेलइ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ई बात सब"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "पाप कइलन"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "मद परोसे वाला"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम (मिस्र)"
+    },
+    {
+      "surface": "והאפה",
+      "gloss": "आउ रोटी सेके वाला"
+    },
+    {
+      "surface": "לאדני׹ם",
+      "gloss": "अपन मालिक बिरुद्ध"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा बिरुद्ध"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    }
+  ],
+  "timestamp": "2026-10-14T14:20:17.434701642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨हकइ⟩",
+      "rationale": "इब्रानी में क्रिया-होना नञ हकइ — मगही के बाक्य एकरा माँगऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתנו",
+      "rationale": "इहे אֵת (हमनी के संग) हकइ, अभी-प्रत्यक्ष-कर्म वाला את नञ; फेर भी परिवार के चिन्हा जस के तस रखल गेलइ"
+    }
+  ],
+  "translation": "जे कहलन: हमनी के जिबही से हमनी बलवान होतइ; हमनी के होंठ ⟨את⟩ हमनी के संग ⟨हकइ⟩ — हमनी के मालिक कोनो?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/12\/5-8.1792004546847.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "हमनी के जिबही से"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "बलवान होतइ"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "हमनी के होंठ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "हमनी के संग"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "मालिक"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:26.847613742Z",
+  "model": "glm-5.3"
+}

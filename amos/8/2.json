@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 8:2",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קיץ\/הקץ",
+      "rationale": "qayits (summer fruit) vs qets (end) sound-alike drives the vision's meaning; fully lost in translation."
+    },
+    {
+      "kind": "crux",
+      "subject": "עבור לו",
+      "rationale": "'pass by\/spare him' — KJV\/ASV 'pass by them no more' vs JPS 'not pardon them'; rendered literally 'पार नञ होबइ'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Amos",
+      "rationale": "YHWH addresses the prophet by name in the vision-dialogue."
+    }
+  ],
+  "translation": "ऊ कहलन, की तूँ देखऽ हऽ, अमोस? हम कहलियै, गरमी के फल के टोकरी। तब यहवे हमरा कहलन, कटिनी हमरा लोग यिस्राएल (इस्राएल) के ऊपरे आ गेलइ हे; हम आगू ओकरा आउ पार नञ होबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "10ec73eb39d32b7962da45acc33df79fcc10d9761653ff1086b4565ed91f7928",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/8\/1-4.1792003561508.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ऊ कहलन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "की"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ हऽ"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "अमोस"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "हम कहलियै"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "टोकरी"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "गरमी के फल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आ गेलइ हे"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "कटिनी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ऊपरे"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमरा लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "עבור",
+      "gloss": "पार होबइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:46:01.509662824Z",
+  "model": "glm-5.3"
+}

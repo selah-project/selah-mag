@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מן הצרוע",
+      "rationale": "‘कोढ़ी के जिअते से’ बनाम परम्परा के ‘कोढ़ी के भीतर’ — मिन अलग-अलग पढ़ल जा हइ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मार",
+      "rationale": "נגע शाब्दिक रूप से ‘चोट\/मार’ हकइ, ‘लक्का’ नञ"
+    }
+  ],
+  "translation": "आउ पुरोहित डेरा के बाहर निकलतइ, आउ पुरोहित देखऽ हइ, आउ देखऽ — कोढ़ के मार कोढ़ी के जिअते से भर गेल हे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "29ea0b6cc3e237a0c5c80aeead6d0d66e658116bace6411366c1a37b165328d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/14\/1-4.1791989870068.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आउ निकलतइ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "אל",
+      "gloss": "दने"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "डेरा के"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आउ देखऽ हइ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "भर गेल हे"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "मार"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "कोढ़ के"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "कोढ़ी के जिअते"
+    }
+  ],
+  "timestamp": "2026-10-14T14:57:50.069080831Z",
+  "model": "glm-5.3"
+}

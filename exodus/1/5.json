@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש साँस लेवे वाला जीव \/ जीवन-बल हकइ, आत्मा नञ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "लाँगा",
+      "rationale": "ירך असल में रान के हड्डी; वंश के साफ-साफ बात, अनुवाद में जस के तस रखल"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨तख्त⟩",
+      "rationale": "यूसुफ पहिले से मिस्र में रहल — मगही में ई बात साफ करे बर जोड़ल"
+    },
+    {
+      "kind": "measurement",
+      "subject": "सत्तर परान",
+      "rationale": "गिनती — याकोव के परिवार के परान के गिनती"
+    }
+  ],
+  "translation": "आउ याकोव (याकूब) के लाँगा से निकलल सब परान सत्तर परान रहलन; आउ योसेफ (यूसुफ) ⟨तख्त⟩ मिस्रयिम (मिस्र) में रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "406f8d910e217f78ee0f790cebd8359187c427da38e49e31dbe924665a71ba69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/1\/5-8.1791987939248.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ रहलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "लाँगा से"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव (याकूब) के"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "आउ योसेफ (यूसुफ)"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "मिस्रयिम (मिस्र) में"
+    }
+  ],
+  "timestamp": "2026-10-14T14:25:39.248636493Z",
+  "model": "glm-5.3"
+}

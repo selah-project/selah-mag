@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में 'कहना' के साथ सहायक किरिया नञ हइ; मगही कथन-बनावट एके माँगऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "वאל",
+      "rationale": "कुछ अनुवाद 'वगod' पढ़ऽ हथिन (उसने); भूँकि यहाँ एल नञ, बाकि एलोहीम के छोट रूप लिहल गेल हइ"
+    }
+  ],
+  "translation": "काहे कि अइयोब कहलन हकइ — “हम ⟨त्सेदेक कएलियनि⟩, आउ एल हमर नियाव हटौलन।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7f6ee47fd518beff898ee7d1dbb6a3cb2a864ea3644c6a9e6edb1641655b24cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/34\/5-8.1792007778750.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन हकइ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अइयोब"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "हम त्सेदेक कएलियनि"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आउ एल"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "हटौलन"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "हमर नियाव"
+    }
+  ],
+  "timestamp": "2026-10-14T19:56:18.750737178Z",
+  "model": "glm-5.3"
+}

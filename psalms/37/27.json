@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "पढ़निहार",
+      "rationale": "सीधे आदेश — हट जा, कर, टिकल रह — पढ़निहार के बोलावऽ हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "पढ़निहार",
+      "rationale": "बहुवचन आदेश के रूप में सीधा सम्बोधन।"
+    }
+  ],
+  "translation": "बुराई से हट जा, नीक काम कर, आउ सदा बर टिकल रह।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0646819da900c31f897e9257d1f4229724e61c294b40ec81b63ffdc2722e6abb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/37\/25-28.1792004940272.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "हट जा"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "बुराई से"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आउ…कर"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "आउ टिकल रह"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:09:00.273611738Z",
+  "model": "glm-5.3"
+}

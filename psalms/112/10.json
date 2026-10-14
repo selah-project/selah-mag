@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רָשָׁע \/ רְשָׁעִים",
+      "rationale": "singular wicked man opens, plural wicked closes the verse — frame repetition"
+    },
+    {
+      "kind": "idiom",
+      "subject": "וְנָמָס",
+      "rationale": "'to liquefy' as faint\/waste away; rendered गल जातइ keeping the melting picture"
+    }
+  ],
+  "translation": "दुष्ट देखतइ आउ क्रोधित होतइ; ओकर दाँत भिंचातइ आउ ऊ गल जातइ; दुष्टन के इच्छा बिलग जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/112\/9-10.1792005938506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רָשָׁע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "יִרְאֶה",
+      "gloss": "देखतइ"
+    },
+    {
+      "surface": "וְכָעַס",
+      "gloss": "आउ क्रोधित होतइ"
+    },
+    {
+      "surface": "שִׁנָּיו",
+      "gloss": "ओकर दाँत"
+    },
+    {
+      "surface": "יַחֲרֹק",
+      "gloss": "भिंचातइ"
+    },
+    {
+      "surface": "וְנָמָס",
+      "gloss": "आउ ऊ गल जातइ"
+    },
+    {
+      "surface": "תַּאֲוַת",
+      "gloss": "इच्छा"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "दुष्टन के"
+    },
+    {
+      "surface": "תֹאבֵד",
+      "gloss": "बिलग जातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:25:38.507340001Z",
+  "model": "glm-5.3"
+}

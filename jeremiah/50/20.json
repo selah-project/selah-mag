@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 50:20",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "खोज कइल जातइ (दूसर बेर)",
+      "rationale": "हिब्रू के दोसर खोज-क्रिया वाक्य-बनावट के जोड़ से छिपल हकइ — क्रिया फेर लेल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עון\/חטאת · क्षमा के शर्त",
+      "rationale": "दू अपराध-सब्द (अधरम, पाप) के समानान्तर ढाँचा — यिस्राएल बर एक, यहूदा बर दूसर — हिब्रू के दोहरी बनावट।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לאשר אשאיר",
+      "rationale": "'जेकरा हम बाकी रखबइ' बनाम 'जेकरा हम छोड़बइ' — शेष के रूपक-अरथ (ASV, JPS) मंजूर।"
+    }
+  ],
+  "translation": "ओइ दिनन में आउ ओइ समय में — यहवे के बचन — यिस्राएल (इस्राएल) के अधरम के खोज कइल जातइ आउ ऊ नञ मिलतइ; आउ ⟨את⟩ यहूदा के पाप के खोज कइल जातइ आउ ऊ नञ पावल जातइ; काहे कि जेकरा हम बाकी रखबइ ओकरा हम क्षमा करबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "08d29edd99006fd870efea385a8e3beff0458c5b1bf363ca6811b531ecce6b32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/50\/17-20.1792001528506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "दिनन में"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ओइ"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ओइ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "खोज कइल जातइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अधरम"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधरम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "नञ मिलतइ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पाप"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תמצאינה",
+      "gloss": "पावल जातइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אסלח",
+      "gloss": "क्षमा करबइ"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "बाकी रखबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:12:08.508023450Z",
+  "model": "glm-5.3"
+}

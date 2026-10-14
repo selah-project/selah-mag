@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "नील",
+      "rationale": "תכלת खास नील-बैंगनी रंग हकइ जे एक सिपी से निकलऽ हइ"
+    }
+  ],
+  "translation": "आउ तूँ एफोद के चोगा ⟨את⟩ पूरा नील के बनइबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "18be3693f201b29cb80dcf31b15c0175d3e4fbfb0dfeeeda4fffba6a9507687d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/28\/29-32.1791989008098.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "बनइबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एफोद के चोगा"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "चोगा"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "एफोद के"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "नील के"
+    }
+  ],
+  "timestamp": "2026-10-14T14:43:28.099476390Z",
+  "model": "glm-5.3"
+}

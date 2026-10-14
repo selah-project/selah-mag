@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी में क्रिया नञ हइ; मगही के क्रिया चाही।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם",
+      "rationale": "अँगूर के रस आउ एदोम के नाम में एहे लाल-जड़ — छवि के जड़ एके हकइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "आवे वाला के ओर",
+      "rationale": "सीधा सवाल ओकरा से जे रँगाल कपड़ा में अवऽ हइ।"
+    }
+  ],
+  "translation": "काहे तोहर पोसाक लाल हइ, आउ तोहर कपड़ा जेना गटनी में दबैयावऽ वाला के?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd7ba23a782916557019d3f111fca9cbf73f8a4c5f175cd79b732f3da29654ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/63\/1-4.1791999903827.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "लाल"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "तोहर पोसाक"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "आउ तोहर कपड़ा"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "जेना दबैयावऽ वाला"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "गटनी में"
+    }
+  ],
+  "timestamp": "2026-10-14T17:45:03.828543832Z",
+  "model": "glm-5.3"
+}

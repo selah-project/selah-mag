@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "गला",
+      "rationale": "גרגרות literally 'ruminating throat', the throat as gullet; rendered plain 'गला'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קשרם\/ענדם",
+      "rationale": "two near-synonymous binding verbs paired, physical girding for mental fixing; Magahi keeps two verbs but the pairing loses sharpness."
+    }
+  ],
+  "translation": "ओकरा लगातार ⟨तोहर⟩ हिरदय पर बाँध; ओकरा ⟨तोहर⟩ गला पर कस के बाँध।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5152fe1bf7cddc63c997e06eb86ac3baa130441dbdc05dba57b145aa02360e2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/6\/21-24.1792006542782.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "ओकरा बाँध"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "हिरदय"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "लगातार"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "कस के बाँध"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "गला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:35:42.783200911Z",
+  "model": "glm-5.3"
+}

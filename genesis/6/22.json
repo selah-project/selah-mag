@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויעש\/עשה",
+      "rationale": "पद के सुरुआत आउ अंत में एके क्रिया עשה — बाक्य एके काम पर बुनल हकइ; किरिया एके रखल गेल"
+    }
+  ],
+  "translation": "आउ नोआख ओकर सब कइलन जे एलोहीम ⟨אתו⟩ ओकरा आज्ञा देलन हल; तइसे ऊ कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3947e8d9366035b5c148ca6650227557417e0bb1c52013a453a423bdbcfdf029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/6\/21-22.1791986322895.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आउ कइलन"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोआख"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ओकर सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा देलन हल"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ओकरा (नोआख के)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    }
+  ],
+  "timestamp": "2026-10-14T13:58:42.895869018Z",
+  "model": "glm-5.3"
+}

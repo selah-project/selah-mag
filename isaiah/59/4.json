@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 59:4",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "टोहू",
+      "rationale": "תהו ओहे सब्द हकइ जे उत्पत्ति 1:2 में हइ — बिन-आकार के खालीपन; लिप्यन्तरन रखल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרו…והוליד",
+      "rationale": "पाप के गर्भ-धरे आउ जनम के रूपक, आगूा के पद 5 (अंडा देना, मकड़ी के जाल बुनना) से जुड़ल हकइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हथिन",
+      "rationale": "मगही के किरिया-रूप इब्रानी के कृदंत-बनावट के पूरा करे बर जोड़ल गेल।"
+    }
+  ],
+  "translation": "कोनो त्सेदेक से पुकारऽ नञ हइ, आउ कोनो बफादारी से नियाव नञ करऽ हइ; ओकनी टोहू पर भरोसा करऽ हइ आउ शाव के बात करऽ हइ; ओकनी दुख-कष्ट गर्भ धरलन हथिन आउ अवन के जनम देलन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/59\/1-4.1791999915280.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "कोनो…नञ हइ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "पुकारऽ"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "त्सेदेक से"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ कोनो…नञ हइ"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "नियाव करऽ"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "बफादारी से"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "भरोसा करऽ हइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "टोहू"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आउ…बात करऽ हइ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "शाव"
+    },
+    {
+      "surface": "הרו",
+      "gloss": "गर्भ धरलन हथिन"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "दुख-कष्ट"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "आउ जनम देलन हथिन"
+    },
+    {
+      "surface": "און",
+      "gloss": "अवन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:45:15.281643992Z",
+  "model": "glm-5.3"
+}

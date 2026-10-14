@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 41:5",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בכפל",
+      "rationale": "दूहरा — तनाख़ में खाली इहेइ जगह; 'double bridle' के जोड़ अनुमान पर टिकलइ हकइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "पद-गिनती",
+      "rationale": "KJV 41:5 के जगह पर मूलपाठ 40:29 पाँती हकइ; हमनी मूल इब्रानी पाँती से चलऽ हइ।"
+    }
+  ],
+  "translation": "कोन ओकर कपड़ा के मुँह खोलतइ? ओकर दूहरा लगाम के भीतरे कोन अइतइ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "99325afaae36f89ebcccfe733ab17645911107141b496c35276ec02e79ac64b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/41\/5-8.1792007916407.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "खोलतइ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "לבושו",
+      "gloss": "ओकर कपड़ा के"
+    },
+    {
+      "surface": "בכפל",
+      "gloss": "दूहरा"
+    },
+    {
+      "surface": "רסנו",
+      "gloss": "ओकर लगाम के भीतरे"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "अइतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:58:36.407848626Z",
+  "model": "glm-5.3"
+}

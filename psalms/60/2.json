@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बारह हजार",
+      "rationale": "गिनती — एदोम के मारल बारह हजार आदमी।"
+    },
+    {
+      "kind": "crux",
+      "subject": "נהרים",
+      "rationale": "'नहरायिम' दू-नदी (दुए नदी के देस, मेसोपोटामिया) — द्विबचन के आकार रखलने।"
+    }
+  ],
+  "translation": "जब ऊ ⟨את⟩ अराम-नहरायिम आउ ⟨את⟩ अराम-त्सोबा संग लड़लन, आउ योआब लवटलन आउ ⟨את⟩ एदोम के लूना-घाटी में मारलन — बारह हजार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/60\/1-4.1792005291462.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "जब ऊ लड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अराम-नहरायिम"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "नहरायिम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अराम-त्सोबा"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "त्सोबा"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "आउ लवटलन"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "आउ मारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एदोम"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "घाटी में"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "लूना"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह के पहिला हिस्सा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-दस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-10-14T19:14:51.462933521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "החרם",
+      "rationale": "'बान सौपना' — पूरा बिनास बर बान कइल जाए वाला काम; 'पूरा बिनास कर' संछिप्त रूप हकइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "अन्तिम אתם मगही में घुल गेलइ; ओकर निसानी ओकनी पर हइ"
+    }
+  ],
+  "translation": "आउ यहवे तोहरा रस्ता में भेजलन आउ कहलन: जा, आउ तूँ पापी लोग — अमालेक — ⟨את⟩ पूरा बिनास कर, आउ ओकरा संग लड़, ओकनी के खतम होवे तक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2f9cf17a09c57d8f1ec8336cb077ff08fa7e0545d3592f759cedaad9bc3e51c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/15\/17-20.1791995287447.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "आउ तोहरा भेजलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता में"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "आउ पूरा बिनास कर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पापी लोग"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "पापी लोग"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अमालेक"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "अमालेक"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "आउ लड़"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ओकनी के खतम होवे"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी"
+    }
+  ],
+  "timestamp": "2026-10-14T16:28:07.448065909Z",
+  "model": "glm-5.3"
+}

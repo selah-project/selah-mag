@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "घर के गिनल",
+      "rationale": "सारा काम गिनती से चलऽ हइ — घर गिनल, दीवाल बर ढहावल।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ यरूशलयिम के घर के गिनलहु, आउ तोहनी घर के ढहालहु दीवाल मजबूत करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a8df3a0bd92b14c5d595ea3309762a66406f5ac26837093517551adb04537708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/22\/9-12.1791998923210.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "गिनलहु"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "ढहालहु"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "घर"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "मजबूत करे बर"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "दीवाल"
+    }
+  ],
+  "timestamp": "2026-10-14T17:28:43.211035262Z",
+  "model": "glm-5.3"
+}

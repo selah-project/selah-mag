@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "के बारे में",
+      "rationale": "ב + עדותिच बोलने के विषय-चिन्हा माँगऽ हइ"
+    }
+  ],
+  "translation": "आउ हम तोहर गवाही सब के बारे में राजा सब के आगे बोलत रहतइ, आउ हम नञ लजातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e1e9edb61584885156890815718eff87acc05ffed81ce85e53bed441f5f4cfe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/45-48.1792006080074.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "बोलत रहतइ"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "तोहर गवाही सब के बारे में"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा सब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "लजातइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:28:00.075303269Z",
+  "model": "glm-5.3"
+}

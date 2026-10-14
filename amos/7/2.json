@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 7:2",
+  "book": "amos",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם כלה",
+      "rationale": "JPS एकरा असल नञ पढ़ऽ हइ ('जे होतै त'); मगही एकरा असल के रूप में रखऽ हइ — 'जब चुकै के होतै'।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מי יקום",
+      "rationale": "'कोनो ठाढ़ करतइ?' — इब्रानी के सोझा प्रस्न; लिटरली 'हठे ठाढ़ होतइ' रखल गेल।"
+    }
+  ],
+  "translation": "आउ जब धरती के घास ⟨את⟩ खइ चुकै के होतै, तब हम कहलिए — अदोनाय यहवे, क्षमा करऽ, काहे कि याकोव हठे ठाढ़ होतइ? काहे कि ऊ छोट हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c241377b82e2a49979af5760c303a8e063f1d3d9ce42635a6e00d786cf6d58ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/amos\/7\/1-4.1792003611965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आउ जब होतै"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जब"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "चुकै के"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "खइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घास"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "घास"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "तब हम कहलिए"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "סלח",
+      "gloss": "क्षमा करऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "बिनती करऽ हिअए"
+    },
+    {
+      "surface": "מי",
+      "gloss": "हठे"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ठाढ़ होतइ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "छोट"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:46:51.967104455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "optative",
+      "rationale": "Hebrew has no explicit optative marker; the wish reading (यहवे…बढ़ावथिन) is carried by the verb forms alone"
+    },
+    {
+      "kind": "measurement",
+      "subject": "thousand times",
+      "rationale": "blessing of increase measured as a thousandfold multiplication"
+    }
+  ],
+  "translation": "यहवे, तोहनी के बाप-बाबूजी सब के एलोहीम, तोहनी सब के तोहनी जितना हऽ ओकरा से हजार बेर बढ़ावथिन, आउ जइसन ओ तोहनी सब से कहलन हकइ ओइसने तोहनी सब ⟨את⟩ के असीस देथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/1\/9-12.1791991917366.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "तोहनी के बाप-बाबूजी सब के"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "बढ़ावथिन"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तोहनी सब पर"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "तोहनी जितना"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "आउ असीस देथिन"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी सब के"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी सब से"
+    }
+  ],
+  "timestamp": "2026-10-14T15:31:57.366798843Z",
+  "model": "glm-5.3"
+}

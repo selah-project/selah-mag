@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "हिन्दी-मगही के बाक्य में क्रिया चाही; ⟨हइ⟩ जोड़ल गेलइ बाकि कोस्ठक-चिन्हा बिना — इब्रानी नाम-वाक्य हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "शिरह-हाशिरिम 2:6",
+      "rationale": "ई पद 2:6 के जस के तस दोहरावल गेलइ — गीत के खम्भा-वाक्य हकइ।"
+    }
+  ],
+  "translation": "ओकर बामाँ हाथ हमर मूड़ी के नीचे, आउ ओकर दहिन्ना हाथ हमनी के भेंटतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/8\/1-4.1792008093916.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "ओकर बामाँ हाथ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "हमर मूड़ी के"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "आउ ओकर दहिन्ना हाथ"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "हमनी के भेंटतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T20:01:33.917165540Z",
+  "model": "glm-5.3"
+}

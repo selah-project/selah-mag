@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 16:16",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "हुसै के अभिवादन",
+      "rationale": "हुसै अबशालोम से सीधे बोलऽ हइ — दुहरावल 'राजा जियतइ' ओकर सामने।"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחי המלך",
+      "rationale": "'राजा जियतइ' (जीवित रहे) — ई दुहरावल उद्घोसना बिना नाम के जतावऽ हइ कि हुसै केकरा 'राजा' कहऽ हइ (दाविद या अबशालोम)।"
+    },
+    {
+      "kind": "addition",
+      "subject": "विस्मयादि-चिन्हा",
+      "rationale": "magahi अभिवादन बर चिन्हा जोड़ल गेल; इब्रानी में कोनो विराम-चिन्हा नञ हकइ।"
+    }
+  ],
+  "translation": "आउ जइसन हुसै अर्की, दाविद के मित्तर, अबशालोम के पास अइलन, हुसै अबशालोम से कहलन: राजा जियतइ! राजा जियतइ!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2cf21a1dc7d58e1874bd745e3be4a13a311665ef4984752676e76b78e3635516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/16\/13-16.1791996267545.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ जइसन"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलन"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "हुसै"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "अर्की"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "मित्तर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "हुसै"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "जियतइ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "जियतइ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:44:27.546606739Z",
+  "model": "glm-5.3"
+}

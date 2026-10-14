@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "पकड़ लेतइ ओकनी के हिरदय में",
+      "rationale": "תפש בלבם मुहावरा हकइ — 'हिरदय में पकड़ना', अरथात ओकरा के ओकरे खुद के इरादे पर उघाड़ देना।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मूरति",
+      "rationale": "גִּלּוּל मूल रूप में गोल लट्ठा — मगही में 'मूरति' लेल गेलइ।"
+    }
+  ],
+  "translation": "एकर खातिर कि हम यिस्राएल के ⟨את⟩ घर के पकड़ लेतइ ओकनी के हिरदय में, जे ओकनी सब अपन मूरति के संग हमरा से अलग हो गेलन हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "3d6832c857b0af12097d8bbfca3c313d15ff4d6e1fb58d43cab6a00c2c1f57c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/14\/5-8.1792002153494.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "एकर खातिर कि"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "पकड़ लेतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल के घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ओकनी के हिरदय में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "अलग हो गेलन हथिन"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "अपन मूरति के संग"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सब"
+    }
+  ],
+  "timestamp": "2026-10-14T18:22:33.495726470Z",
+  "model": "glm-5.3"
+}

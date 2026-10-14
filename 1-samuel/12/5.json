@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 12:5",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "हब्रू में 'हथिन' क्रिया नञ हइ; मगही के चाही"
+    },
+    {
+      "kind": "substitution",
+      "subject": "माशियाख",
+      "rationale": "משיחו के मतलब 'अभिसेक कइल' — राजा\/पुरोहित बर; नाम नञ"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "शमूएल परजा के सीधे सम्बोधन करऽ हथिन"
+    }
+  ],
+  "translation": "आउ ओ ओकनी से कहलन, यहवे तोहनी बीच ⟨के⟩ गवाह हथिन, आउ ओकर माशियाख एही दिन ⟨के⟩ गवाह हथिन, काहे कि तोहनी हमर हाथ में कोनो चीज नञ पावलइ हे। आउ ओ कहलन, गवाह ⟨हथिन⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae5a6273aa88dc06720e31d00de57f6e449c243a088c53bd17b45b22adb3b622",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/12\/5-8.1791995102556.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "तोहनी बीच"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आउ गवाह"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ओकर माशियाख"
+    },
+    {
+      "surface": "היום",
+      "gloss": "एही दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מצאתם",
+      "gloss": "पावलइ हे"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "हमर हाथ में"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कोनो चीज"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    }
+  ],
+  "timestamp": "2026-10-14T16:25:02.557675226Z",
+  "model": "glm-5.3"
+}

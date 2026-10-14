@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "तब",
+      "gloss": ""
+    },
+    {
+      "kind": "you",
+      "subject": "श्मूएल के",
+      "rationale": "यहवे सीधे श्मूएल के सम्बोधन करऽ हइ — पहिलका दरसन के दुआरी।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הנני",
+      "rationale": "'देखू, हम एतबा हइ' — बुलावे के जवाब, सुनय आमंत्रण।"
+    }
+  ],
+  "translation": "तब यहवे श्मूएल के पुकारलन, आउ ऊ कहलन, “देखू, हम एतबा हइ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8febfc33a236a713579fca515f140d121273be083f762862972e35a4290340e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/3\/1-4.1791994843866.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "पुकारलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…के"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "श्मूएल के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ ऊ कहलन"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "देखू, हम एतबा हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T16:20:43.867660308Z",
+  "model": "glm-5.3"
+}

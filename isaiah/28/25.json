@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 28:25",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קצח",
+      "rationale": "काला जीरा (fennel-flower) — ई सब्द तनाख़ में खाली इहे आउ 28:27 में आवऽ हइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "וכסמת",
+      "rationale": "कुसमत (spelt) — खाली इहे जगह आवऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "נסमן",
+      "rationale": "'नामि\/ठामि गेल' बनाम 'ओकर भाग में' — कुछू अनुवादक एकरा जौ के गुण मानऽ हथिन, कुछू जगह।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קצח\/כמן",
+      "rationale": "छोटका बिया वाला मसाला के जोड़ी दु बेर दोहरावल गेलइ (25 आउ 27 में) — गाछ-बोआई के माप के चित्र।"
+    }
+  ],
+  "translation": "की जब ओकर सतह बराबर कएलन जाय, तब काला जीरा आउ जीरा छरकावल नञ जातइ, आउ गेहूँ पँती में रोपल नञ जातइ, आउ जौ नामि ठाम आउ कुसमत ओकर सीमा में?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0dfdd48f8191fde9c3859097ce5a41d54b6def0087e7181467aefdae55ab4311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/28\/25-28.1791999134965.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "की"
+    },
+    {
+      "surface": "אם",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "बराबर कएलन"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ओकर सतह"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "आउ छरकावल"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "काला जीरा"
+    },
+    {
+      "surface": "וכמן",
+      "gloss": "आउ जीरा"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "छरकावऽ हइ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "आउ रोपल"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "गेहूँ"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "पँती में"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "आउ जौ"
+    },
+    {
+      "surface": "נסמן",
+      "gloss": "नामि"
+    },
+    {
+      "surface": "וכסמת",
+      "gloss": "आउ कुसमत"
+    },
+    {
+      "surface": "גבלתו",
+      "gloss": "ओकर सीमा में"
+    }
+  ],
+  "timestamp": "2026-10-14T17:32:14.965660752Z",
+  "model": "glm-5.3"
+}

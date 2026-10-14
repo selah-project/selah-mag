@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "लेके",
+      "rationale": "इब्रानी में खाली ब-उपसर्ग हकइ; मगही में साधन के चिन्हा जोड़ल गेलइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמיר ושית",
+      "rationale": "काँड़ा-झाड़ के जोड़ी 7:23-25 में दोहरावल — पूरा दृस्टान्त के ताला"
+    }
+  ],
+  "translation": "तीर आउ कमान लेके ओ ओहाँ जातइ, काहे कि पूरा धरती काँड़ा आउ झाड़ हो जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "85073350a8c0d5da1c6ec0b8ea2a0e0060e10127b9001d99e876af1548692401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/7\/21-24.1791998652717.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "तीर लेके"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "आउ कमान"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "जातइ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओहाँ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "काँड़ा"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "आउ झाड़"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "हो जातइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T17:24:12.718177484Z",
+  "model": "glm-5.3"
+}

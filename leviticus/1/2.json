@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨अपन⟩",
+      "rationale": "इब्रानी में मालिक-सर्बनाम क्रिया के अन्त में जुड़ल हकइ; बिस्तार बर अलग से धरावल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקריב\/קרבן\/תקרिऑו",
+      "rationale": "एके जड़ קרב (नजदीक लाना) तीन बेर — बलि के नामउ 'नजदीक लावल चीज' हकइ"
+    },
+    {
+      "kind": "invitation",
+      "subject": "तोहनी",
+      "rationale": "यिस्राएल के बेटा सब के सीधे आदेस — बोलऽ, कहऽ"
+    }
+  ],
+  "translation": "यिस्राएल (इस्राएल) के बेटा सब के सँगे बोलऽ आउ ओकनी सँगे कहऽ: जे कोनो आदमी तोहनी में से यहवे बर बलि धरावऽ हकइ — जीव-जंतु में से, बैल में से या भेड़-बकरी में से — तोहनी ⟨अपन⟩ बलि ⟨את⟩ धराबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/1\/1-4.1791989505213.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बोलऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…के सँगे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल)"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आउ कहऽ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ओकनी सँगे"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "धरावऽ हकइ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "तोहनी में से"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे बर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…में से"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "जीव-जंतु"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…में से"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आउ …में से"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेड़-बकरी"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "धराबइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपन बलि"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "अपन बलि"
+    }
+  ],
+  "timestamp": "2026-10-14T14:51:45.214559307Z",
+  "model": "glm-5.3"
+}

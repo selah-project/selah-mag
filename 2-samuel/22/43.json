@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "2-samuel 22:43",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אדקם ארקעם",
+      "rationale": "ד-ק-ק आउ ר-ק-ע के ध्वनि-मेल — दुनू कुचलऽ वाला किरिया के जोड़ी"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארקעם",
+      "rationale": "'बिछा देना' बनाम 'रौंदऽ हइ' — राका के दुनू अरथ संभव"
+    }
+  ],
+  "translation": "आउ हम ओकनी के धरती के धूरी निय घिसलन, गली के कीचड़ निय कुचललन, ओकनी के बिछा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b75fdaae818cbd2e8bb81776f209da940ba35380ff2582dc6423cfedbaeb3bbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/22\/41-44.1791996552182.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשחקם",
+      "gloss": "आउ हम ओकनी के घिसलन"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "निय धूरी के"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "निय कीचड़"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "गली के"
+    },
+    {
+      "surface": "אדקם",
+      "gloss": "कुचललन"
+    },
+    {
+      "surface": "ארקעם",
+      "gloss": "ओकनी के बिछा देलन"
+    }
+  ],
+  "timestamp": "2026-10-14T16:49:12.183214312Z",
+  "model": "glm-5.3"
+}

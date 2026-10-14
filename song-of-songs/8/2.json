@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תלמדני",
+      "rationale": "के सिखातइ — पुरान अनुवाद में घर के वाक्य से जुड़ल ('जे हमनी के सिखलथिन') बनाम 'तोहनी हमनी के सिखावऽ' — करता खुल्ला हकइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשקך",
+      "rationale": "इहाँ शाकाह — 'पिआबऽ' (पियावऽ) हकइ, पहिला पद में नाशाक 'चूमऽ'; दूनू के रूप मिलत-जुलत हकइ।"
+    }
+  ],
+  "translation": "हम तोहनी लऽ जातइ, हमर माय के घर में लाबतइ; ऊ हमनी के सिखातइ; हम तोहनी पिआबतइ सुगन्धित अंगूरी मद, हमर अनार के रस।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/8\/1-4.1792008093916.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "लऽ जातइ तोहनी"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "लाबतइ तोहनी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "हमर माय"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "सिखातइ हमनी के"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "पिआबतइ तोहनी"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "अंगूरी मद"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "सुगन्धित"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "रस"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "हमर अनार के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:01:33.917032132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨होतइ⟩",
+      "rationale": "मगही के बाक्य बर क्रिया चाही; इब्रानी में क्रिया नञ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ועשתרות",
+      "rationale": "'बढ़ोतरी\/संतान' बनाम अस्तारोत (देवी के नाम) से जुड़ल रूप — 'भेड़ के अस्तारोत' जे देवी-नाम के गूँज रखऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרי तीन बेर",
+      "rationale": "तीन बेर 'फल' के दोहराव — पेट, भूइँ, माल-जाल; लय जस के तस रखल।"
+    }
+  ],
+  "translation": "असीसित ⟨होतइ⟩ तोहर पेट के फल, आउ तोहर भूइँ के फल, आउ तोहर माल-जाल के फल — तोहर बैल के बछैना आउ तोहर भेड़ के बढ़ोतरी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "21703a1de4c5c76889f90533aabee9bce3b6a78509f504cbd8998e0c2c42a2d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/28\/1-4.1791992887826.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "असीसित"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "तोहर पेट के"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "आउ फल"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "तोहर भूइँ के"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "आउ फल"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "तोहर माल-जाल के"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "बछैना"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "तोहर बैल के"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "आउ बढ़ोतरी"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "तोहर भेड़ के"
+    }
+  ],
+  "timestamp": "2026-10-14T15:48:07.827288210Z",
+  "model": "glm-5.3"
+}

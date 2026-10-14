@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נגרה",
+      "rationale": "नगर जड़ — „बहऽ हइ”: केतू पढ़निहार जेना आँख के आँसू बहऽ हे (जेपीएस), केतू हाथ फैक के बिना थामे रहऽ हे (किंगजेम्स, यंग)।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नफस गला\/परान-बल के नजदीक हकइ — जीव-शक्ति, न कि अलग „आत्मा”।"
+    }
+  ],
+  "translation": "हमर संकट के दिन में हम अदोनाय के खोजलिए; रात में हमर हाथ फैक रहलक आउ ओ नञ थमलक; हमर परान असीस लेवे से इनकार करलक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ac36b624f484cbc0cfdb97169212bf6862166553e03ee1f37780cad82100b747",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/77\/1-4.1792005456503.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "हमर संकट"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "हम खोजलिए"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हमर हाथ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "फैक रहलक"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "थमलक"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "इनकार करलक"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "असीस लेवे से"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:36.504321432Z",
+  "model": "glm-5.3"
+}

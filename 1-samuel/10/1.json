@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוא כי",
+      "rationale": "इब्रानी के पूछऽ वाला ढाँचा ('की नञ — काहे कि') — कथा में पुसटि बाक्य हकइ"
+    },
+    {
+      "kind": "you",
+      "subject": "शमुएल के बात शाऊल संस",
+      "rationale": "अभिसेक के घोसना सीधे शाऊल के ओर बोलल गेल हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "לנגיד",
+      "rationale": "नायक \/ सरदार \/ अगुवा — इब्रानी में आगू ठाढ़ होवे वाला"
+    }
+  ],
+  "translation": "आउ शमुएल लेलन ⟨את⟩ तेल के सुराही, ढारलन ओकर मूड़ी पर, आउ ओकरा चूमलन, आउ कहलन — की नञ? काहे कि यहवे तोहरा अभिसेक कइलन हे, ओकर बिरासत के ऊपर, नायक बनाबे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "664bb81c04a5a4d4a0f452db9b626464bf5577547fb7e52cabd91925e8063c9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/10\/1-4.1791995132220.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तेल के सुराही"
+    },
+    {
+      "surface": "פך",
+      "gloss": "सुराही"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेल के"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ढारलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ओकर मूड़ी पर"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ओकरा चूमलन"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "की नञ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "तोहरा अभिसेक कइलन हे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ओकर बिरासत"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "नायक बनाबे बर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:25:32.221173338Z",
+  "model": "glm-5.3"
+}

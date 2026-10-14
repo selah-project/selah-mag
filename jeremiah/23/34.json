@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 23:34",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ופקדתי",
+      "rationale": "पकड के साफ अरथ 'देखब, सैर करब, दण्ड देब' हकइ; 'देखतइ' शब्द के आकार रखलक, ब्रैकेट में मंशव बतावल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משא",
+      "rationale": "पद 33 के बोझा-शब्द के दोहराव — जे ओ शब्द बोलतइ ओकरा ऊपरे पकड पड़तइ"
+    }
+  ],
+  "translation": "आउ जे नबी, जे पुरोहित, जे लोग “यहवे के बोझा” कहतइ, ओही मनुस पर आउ ओकर घर पर हम देखतइ ⟨दण्ड के रूप में⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a915f4b6e5afde58a37296a4c03e03de309defa0cf2ad0b04d7a8ad13f2375fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/23\/33-36.1792000766718.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנביא",
+      "gloss": "आउ जे नबी"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "जे पुरोहित"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "जे लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहतइ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "बोझा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "हम देखतइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ओ मनुस"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ पर"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ओकर घर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:59:26.719649453Z",
+  "model": "glm-5.3"
+}

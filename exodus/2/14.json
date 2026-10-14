@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 2:14",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "काहे कि",
+      "rationale": "इबरानी के प्रस्न-बनावट के जोड़ल जोड़-सब्द"
+    },
+    {
+      "kind": "crux",
+      "subject": "कोनो तोहरा बनइलक",
+      "rationale": "מי שמך — “कोनो बनइलक” बनाम “कोनो रखलक”: शासक के पदग्रहण के प्रस्न"
+    },
+    {
+      "kind": "you",
+      "subject": "ऊ कहलक",
+      "rationale": "इबरानी मनुस मोशे के सीधे चुनौती दे रहलइ हे"
+    }
+  ],
+  "translation": "ऊ कहलक, “कोनो तोहरा ⟨हमनी पर⟩ सरदार आउ नियाव करै वाला बनइलक? काहे कि तूँ कहऽ हऽ कि हमरा मार देबऽ, जइसन तूँ ⟨את⟩ ओहि मिस्रयिम के मारल हऽ?” मोशे (मूसा) डर गेलन आउ कहलन, “सचमुच ई बात मालूम भे गेलइ हे।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "82604d86beb69d4cde98743c13801de55a665741eb8b1b0e5b4d2b9294b1a651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/2\/13-16.1791988017925.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोनो"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहरा बनइलक"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨बर⟩"
+    },
+    {
+      "surface": "שר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "आउ नियाव करै वाला"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी पर"
+    },
+    {
+      "surface": "הלהרגני",
+      "gloss": "हमरा मार देबऽ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहऽ हऽ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "मारल हऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओहि मिस्रयिम के"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "डर गेलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "मालूम भे गेलइ हे"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ई बात"
+    }
+  ],
+  "timestamp": "2026-10-14T14:26:57.926684825Z",
+  "model": "glm-5.3"
+}

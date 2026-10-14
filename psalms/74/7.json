@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "यहवे",
+      "rationale": "पद परमेश्वर के सीधे संबोधन में हकइ — 'तोहर पवित्तर जगह', 'तोहर नाम के मिश्कान'"
+    }
+  ],
+  "translation": "ओकनी तोहर पवित्तर जगह में आग भेजलन; धरती पर ले तोहर नाम के मिश्कान के अपवित्तर कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "80bd7f36a4f5ce70abdc7226c821e3eb60c88f4993f03b174898b98e3e4d544b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/74\/5-8.1792005427415.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ओकनी भेजलन"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "तोहर पवित्तर जगह"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती पर ले"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "अपवित्तर कइलन"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "मिश्कान"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहर नाम के"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:07.416626344Z",
+  "model": "glm-5.3"
+}

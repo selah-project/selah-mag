@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 19:18",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "पाँच नगर",
+      "rationale": "अँक-गिनती: पाँच नगर, ओकरा में एक — पाठ गिन के चलऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "עיר ההרס",
+      "rationale": "'बरबाद-नगर' (MT) बनाम कतु पांडुलिपि\/BSB 'सुरुज के नगर' (החרס) — अच्छर-जोड़ के फरक।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפת כנען",
+      "rationale": "'ओठ' के साँच आकृति बरकरार रखल गेलइ — 'ओठ' मतलब बोली होवऽ हइ।"
+    }
+  ],
+  "translation": "ओही दिन में मिस्रयिम के धरती में पाँच नगर होतइ, जे कनान के ओठ के बोली बोलतइ आउ यहवे त्सबाओत के सौगन्ह खातइ; एक नगर बरबाद-नगर कहाइ जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2cc5f62d213d0192f810c16963c35cfd6ca1a008943ae3bf1acb3d3fc601a40e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/19\/17-20.1791998956392.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "מדברות",
+      "gloss": "बोलतइ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ओठ के बोली"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "ונשבעות",
+      "gloss": "आउ सौगन्ह खातइ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत के"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ההרס",
+      "gloss": "बरबाद-नगर"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहाइ जातइ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "एक बर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:29:16.393459503Z",
+  "model": "glm-5.3"
+}

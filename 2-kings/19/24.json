@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 19:24",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצור",
+      "rationale": "'मिस्रयिम' (अमेरिकी-मानक, जेपीएस) बनाम 'घेराब जगह के नदी' (किंगजेम्स, यंग — मासोर 'besieged places')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "नहरनी",
+      "rationale": "יאר नहर\/न运-पाट बर खास शब्द हकइ; 'नदी' से अलग"
+    }
+  ],
+  "translation": "हम कुइयाँ खोदलहुँ आउ बाहर के पानी पीलहुँ, आउ हमरा गोड़ के तलवा से हम मिस्रयिम (मिस्र) के सब नहरनी सुखाएलहुँ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ae3696727f4a4e40ae520358119b4ab3d68c5252949e0ba2c15e4d643d892830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/19\/21-24.1791998350175.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "कुइयाँ खोदलहुँ"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "आउ पीलहुँ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "बाहर के"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "सुखाएलहुँ"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "तलवा से"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "गोड़ के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "नहरनी"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "मिस्रयिम"
+    }
+  ],
+  "timestamp": "2026-10-14T17:19:10.176754942Z",
+  "model": "glm-5.3"
+}

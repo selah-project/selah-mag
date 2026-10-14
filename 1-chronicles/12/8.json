@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מן הגדור",
+      "rationale": "जेपीएस 'of the troop' (मचल) पढ़ऽ हइ; केतुबीम आउ अधिकतर 'गेदोर जगह से' — बाकी संग्रह गेदोर के हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "नाम-सूची",
+      "rationale": "गेदोर के दू भाय के नाम ई सूची के अन्त करऽ हइ।"
+    }
+  ],
+  "translation": "आउ योएलाह आउ ज़बद्याह, यरोखाम के बेटा, गेदोर से।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5ef2d219859561e5f768cd7c9308f1fa3de83710bb737acd1102e8bac6b12c28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/12\/5-8.1792010119803.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "आउ योएलाह"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "आउ ज़बद्याह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "यरोखाम"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "गेदोर"
+    }
+  ],
+  "timestamp": "2026-10-14T20:35:19.804136393Z",
+  "model": "glm-5.3"
+}

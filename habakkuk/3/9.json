@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "habakkuk 3:9",
+  "book": "habakkuk",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבעות מטות אמר",
+      "rationale": "'शपथ सब — डंड़ी सब — बचन': केजेवी 'जाति सब के शपथ', जेपीएस 'डंड़ी सब — बचन'; लिपि-पढ़े पाठ अनिश्चित हकइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "עריה",
+      "rationale": "कुछ पाठ (יְעֹרֶה) के संग 'तीर सब' पढ़ऽ हइ; हमनी नाँगा कइल धनुक रखलिए"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "संगीत-विराम-चिन्हा, लिप्यन्तरित सेला रखल गेलइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "के संग",
+      "rationale": "इब्रानी खाली बतास-सब कहऽ हइ; मगही में 'के संग' जोड़ल गेलइ"
+    }
+  ],
+  "translation": "नाँगा-पन — तोहर धनुक नाँगा कइल गेलइ; शपथ सब — डंड़ी सब — बचन। सेला। नदी सब ⟨के संग⟩ तूँ धरती फाड़ देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7673cd59b19b061289e226810539faed037cb851a321864aae4bac0adbcc1d30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/habakkuk\/3\/9-12.1792003966945.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עריה",
+      "gloss": "नाँगा-पन"
+    },
+    {
+      "surface": "תעור",
+      "gloss": "नाँगा कइल गेलइ"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "तोहर धनुक"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "शपथ सब"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "डंड़ी सब"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "नदी सब"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "फाड़ देलन"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T18:52:46.945958456Z",
+  "model": "glm-5.3"
+}

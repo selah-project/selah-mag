@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हए",
+      "rationale": "दुसर बाक्य में क्रिया नञ हलइ (संज्ञा-वाक्य); मगही के 'हए' जोड़ल गेलै।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "तामा-लोहा",
+      "rationale": "ऊपर तामा \/ नीचे लोहा के समानांतर — बरखा बंद आउ जमीन कठोर; संरचना जस के तस बचल हइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल",
+      "rationale": "प्रत्यक्ष संबोधन जारी हकइ।"
+    }
+  ],
+  "translation": "आउ तोहर अकास जे तोहर मूड़ी के ऊपर हए, तामा भऽ जातइ; आउ ⟨हए⟩ धरती जे तोहर नीचे हए, लोहा भऽ जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4b220c7b71648f3a82fdce1ff67afff678b2ce4e628ef399c09516313a8a3471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/28\/21-24.1791992905462.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "भऽ जातइ"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "तोहर अकास"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "तोहर मूड़ी"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "तामा"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "आउ धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "तोहर नीचे"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "लोहा"
+    }
+  ],
+  "timestamp": "2026-10-14T15:48:25.463907093Z",
+  "model": "glm-5.3"
+}

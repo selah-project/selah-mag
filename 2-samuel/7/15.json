@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 7:15",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסור\/הסרתי",
+      "rationale": "एके जड़ פइल बेर दोहरावल गेलइ हे — हटावऽ के क्रिया तीन बेर — एकर तालमेल मगही में अंशिक रह गेलइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "ओकरा",
+      "rationale": "मעם שאול के 'ओकरा संग से' में सर्वनाम जोड़ल गेलइ — हिब्रू में केवल 'संग से' हकइ।"
+    }
+  ],
+  "translation": "आउ हमर हेसेद ओकरा से नञ हटतइ, जइसन हम ओकरा शाउल के संग से हटैलियनी, जेकरा हम तोहरा आगू से हटैलियनी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bae71cb18a95e60b73fabc575f3a3296ce7f1885291d8ccaac33a9c12f9d01e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/7\/13-16.1791995986468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "आउ हमर हेसेद"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "हटतइ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "हम हटैलियनी"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ओकरा संग से"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "हम हटैलियनी"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "तोहरा आगू से"
+    }
+  ],
+  "timestamp": "2026-10-14T16:39:46.469085552Z",
+  "model": "glm-5.3"
+}

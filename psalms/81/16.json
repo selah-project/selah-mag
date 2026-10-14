@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכחשו",
+      "rationale": "प्रसिद्ध मतभेद: 'झूठ बोलतइ\/दामन करतइ' (KJV, ASV) बनाम 'घटतइ-मिटतइ' (JPS 'dwindle away') बनाम YLT के 'feign obedience' — हम झूठे-आजी देखावे के पढ़िया लिया।"
+    },
+    {
+      "kind": "crux",
+      "subject": "עתם",
+      "rationale": "'ओकनी के समय' — कुछ अनुवादक एकरा 'ओकनी के सजा' मानऽ हथिन (JPS); मूल शब्द 'समय' हकइ।"
+    },
+    {
+      "kind": "mystery",
+      "subject": "counterfactual",
+      "rationale": "पूरा पद पिछलका दुआ बचन के उल्टा-संसार में बोलल गेल हे — जे होतइ बाकि नञ भेल।"
+    }
+  ],
+  "translation": "यहवे से घृणा करै वाला झूठ-झूठ ओकरा मानऽ देखातइ, आउ ओकनी के दिन सदा ले रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/81\/13-16.1792005519656.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "घृणा करै वाला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "झूठ-झूठ मानऽ देखातइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ रहतइ"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "ओकनी के दिन"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ले"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:39.657539885Z",
+  "model": "glm-5.3"
+}

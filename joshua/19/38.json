@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 19:38",
+  "book": "joshua",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "उन्नीस नगर",
+      "rationale": "नप्ताली के विरासत के नगरन के गिनती।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "गाँव",
+      "rationale": "חצרים आँगन\/बाड़ा-घेरल बस्ती के अरथ हकइ; मगही में गाँव रखल।"
+    }
+  ],
+  "translation": "आउ यिरओन, आउ मिग्दल-एल, खोरेम, आउ बेत-अनात, आउ बेत-शेमेश — अठारह-बढ़े-एक ⟨उन्नीस⟩ नगर आउ ओकनी के गाँव।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "447c94f81d1952fee89308289cd03cc07adc7c1580a039e57a9b63bc3206dc84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/19\/37-40.1791993706498.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראון",
+      "gloss": "आउ यिरओन"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "आउ मिग्दल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "खोरेम"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आउ बेत"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "अनात"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आउ बेत"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "शेमेश"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "उन्नीस के नऊ-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-दस"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "आउ ओकनी के गाँव"
+    }
+  ],
+  "timestamp": "2026-10-14T16:01:46.499613217Z",
+  "model": "glm-5.3"
+}

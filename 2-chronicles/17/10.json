@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 17:10",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פחד",
+      "rationale": "פחד अचानक चढ़े वाला दहसत हकइ; ‘डर’ से तीखापन थोड़ा घटऽ हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "कथा-शुरुआत के ‘आउ होलइ’ मगही में अस्वाभाविक जानाइत हइ; ‘आउ’ में घुसलइ।"
+    }
+  ],
+  "translation": "आउ यहूदा के आसपास के सब धरती के राज पर यहवे के डर पड़लइ, आउ ओकनी यहोसाफात के साथ युद्ध नञ करलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "23d93828aaa94ed6b26e46fcc528bea0c155ce580f4d6112ebd37c7dad046273",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/17\/9-12.1792010909321.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ होलइ"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "डर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "राज"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "आसपास के"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "युद्ध करलन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोसाफात"
+    }
+  ],
+  "timestamp": "2026-10-14T20:48:29.322507151Z",
+  "model": "glm-5.3"
+}

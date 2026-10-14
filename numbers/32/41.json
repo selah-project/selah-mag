@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 32:41",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויאיר",
+      "rationale": "waw प्रत्यय पहिला टोकन के भीतर आउ-जोड़ के रूप में घुसलइ"
+    },
+    {
+      "kind": "measurement",
+      "subject": "naming",
+      "rationale": "जीतल गाँव के नया नाम धरल जाना — नाम-अभिलेख"
+    }
+  ],
+  "translation": "आउ यायिर, मनश्शे के बेटा, गेलन आउ ⟨את⟩ ओकनी के गाँव जीत लेलन, आउ ⟨את⟩ ओकरा ओकर नाम से खवोत यायिन कहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "00e76b02cda4862b5f97798ee6e706c09f1ba84ed998f99631420068abe474f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/32\/41-42.1791991654740.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאיר",
+      "gloss": "आउ यायिर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "जीत लेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के गाँव"
+    },
+    {
+      "surface": "חותיהם",
+      "gloss": "ओकनी के गाँव"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "खवोत यायिन"
+    },
+    {
+      "surface": "חות",
+      "gloss": "खवोत"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "यायिन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:27:34.741379381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "magahi के क्रिया चाही; इब्रानी में क्रिया नञ हइ"
+    }
+  ],
+  "translation": "हमर ढाल एलोहीम ⟨के ऊपर⟩ हइ, जे सीधा-हिरदय वाला के बचावऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "40ae694cbd7f6cf79a29ef0decb96b60e79950582892448604467b244f512c0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/7\/9-12.1792004385449.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "हमर ढाल"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨के ऊपर⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "बचावऽ हथिन"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय"
+    }
+  ],
+  "timestamp": "2026-10-14T18:59:45.449862722Z",
+  "model": "glm-5.3"
+}

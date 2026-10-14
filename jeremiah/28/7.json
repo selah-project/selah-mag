@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एखन",
+      "rationale": "נא 为恳求助词，मगही में 'एखन'（现在\/请）补足语气。"
+    },
+    {
+      "kind": "invitation",
+      "subject": "सुनऽ",
+      "rationale": "祈使式'听'，直接呼召खनन्याह与众民聆听。"
+    },
+    {
+      "kind": "you",
+      "subject": "तूँ",
+      "rationale": "对खनन्याह的直接讲话，众民在场旁听。"
+    }
+  ],
+  "translation": "बाकि तूँ ⟨एखन⟩ ई बात सुनऽ जे हम तोहर कान में आउ सगरी लोग के कान में कहऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "10ce65feeb51422e51b7f8cc1c46b8c4030137e7ef1b240ef54707ca6ed6b6d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/28\/5-8.1792000951966.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨एखन⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "तोहर कान में"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "आउ कान में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T18:02:31.967086176Z",
+  "model": "glm-5.3"
+}

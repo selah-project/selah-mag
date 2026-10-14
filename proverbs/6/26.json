@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד ככר לחם",
+      "rationale": "परम्परा में दू अरथ: बेसवा के दाम रोटी के टुकड़ा जेतना (सस्ता), या बेसवा आदमी के रोटी के टुकड़ा जेतना (कंगाल) कर देऽ हइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "आदमी",
+      "rationale": "हिब्रू में करता बिना के बाक्य हकइ; पीड़ित करता मगही में जोड़ल गेलन।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "शिकार",
+      "rationale": "תצוד शिकार करे के क्रिया हकइ — जानवर के घात लगावे जइसन — परान के बर रूपक।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש के अरथ जीवन-शक्ति हकइ, दार्शनिक आत्मा नञ।"
+    }
+  ],
+  "translation": "काहे कि बेसवा जनाना के बर ⟨आदमी⟩ रोटी के एक टुकड़ा ⟨तक⟩ गेलइ, आउ दोसर के जनाना बहुमूल्य परान के शिकार करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f1072fa6d8ae8ca9428cc35dfb4990f73af330bf1ae2b370d7dbf3e81214fab3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/6\/25-28.1792006573238.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "के बर"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "बेसवा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨तक⟩"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "रोटी के एक टुकड़ा"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "आउ दोसर के जनाना"
+    },
+    {
+      "surface": "איש",
+      "gloss": "दोसर के"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "बहुमूल्य"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "शिकार करऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:13.239197878Z",
+  "model": "glm-5.3"
+}

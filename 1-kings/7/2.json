@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सौ × पचास × तीस अम्मा",
+      "rationale": "भवन के तीनों नाप देल गेल हइ — लंबाई, चौड़ाई, ऊँचाई।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "अम्मा",
+      "rationale": "אמה के नाप (कुहनी से अँगुरी तक) — मगही में मानक नाप नञ हइ, एहे से लिप्यन्तरन रखल गेल।"
+    }
+  ],
+  "translation": "आउ ऊ ⟨את⟩ लबानोन के जंगल के घर बनइलन — सौ अम्मा ओकर लंबाई, आउ पचास अम्मा ओकर चौड़ाई, आउ तीस अम्मा ओकर ऊँचाई — चार कतार देवदार के खम्भा पर, आउ काटल देवदार ओ खम्भा पर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "563dc9235ca9f0421671d060b5619d4f33abf1e62d946c3778088d508944fba3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/7\/1-4.1791996907384.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "आउ ऊ बनइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लबानोन के जंगल के घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יער",
+      "gloss": "जंगल"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "लबानोन"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "अम्मा"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ओकर लंबाई"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "आउ पचास"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "अम्मा"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ओकर चौड़ाई"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आउ तीस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "अम्मा"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ओकर ऊँचाई"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "कतार"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "खम्भा"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "देवदार"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "आउ काटल (काठ)"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "देवदार"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ओ खम्भा"
+    }
+  ],
+  "timestamp": "2026-10-14T16:55:07.385026283Z",
+  "model": "glm-5.3"
+}

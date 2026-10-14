@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 19:34",
+  "book": "2-kings",
+  "lang": "mag",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ढाल बनि के रखबइ",
+      "rationale": "גנן के साक्षात्त चित्र 'झाड़ी\/बाड़ से घेरऽ हइ' — ढाल-रक्षा ओकर काम के अरथ हकइ"
+    }
+  ],
+  "translation": "आउ हम एही नगर के ढाल बनि के ओकरा बचइबइ — हमर कारण, आउ हमर नोकर दाविद के कारण।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "97510da8ae6723219e8921c7b1275de0815d4260a115286d5f53f040350c548e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/19\/33-36.1791998311118.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "आउ हम … ढाल बनि के रखबइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लगे"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एही"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "ओकरा बचइबइ"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "हमर कारण"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "आउ … के कारण"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "हमर नोकर"
+    }
+  ],
+  "timestamp": "2026-10-14T17:18:31.119286798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התנשמת",
+      "rationale": "उल्लू के जाति (यहूदी परम्परा) बनाम हंस (किंगजेम्स) — जाति अनिश्चित, इहे शब्द 11:30 में एक छिपकली बर भी आवऽ हइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרחם",
+      "rationale": "राखाम शब्द र-च-म (दया करना) के जड़ से — परम्परा कहऽ हइ जे ई गिद्ध अपन बच्चा पर नरम होवऽ हइ; अनुवाद में ई जोड़ हट गेलइ।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ तन्शेमेत (उल्लू के जाति) आउ ⟨את⟩ पेलिकन आउ ⟨אत⟩ ⟨את⟩ राखाम (गिद्ध के जाति)।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/11\/17-20.1791989759218.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तन्शेमेत"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "तन्शेमेत (उल्लू के जाति)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पेलिकन"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "पेलिकन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "राखाम"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "राखाम (गिद्ध के जाति)"
+    }
+  ],
+  "timestamp": "2026-10-14T14:55:59.219669551Z",
+  "model": "glm-5.3"
+}

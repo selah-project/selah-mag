@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 15:4",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפס כי",
+      "rationale": "'बाकि\/खाली' — अनुवादक अलग-अलग पढ़ऽ हथिन: 'बस, खाली तब जब कोनो गरीब नञ होतइ' बनाम 'बाकि (कोनो गरीब नञ रहतइ)'।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברך יברכך",
+      "rationale": "एके जड़ के दोहराव — 'असीस देके असीस देतइ'; पक्का असीस के इब्रानी ढंग।"
+    },
+    {
+      "kind": "you",
+      "subject": "इस्राएल",
+      "rationale": "तोहरा-तोहर — नियम सीधे इस्राएल के संबोधन हकइ।"
+    }
+  ],
+  "translation": "बाकि तोहरा में कोनो गरीब नञ रहतइ, काहे कि यहवे तोहरा असीस देके असीस देतइ ओ धरती में जेकरा यहवे तोहर एलोहीम तोहरा बिरासत बर ओकरा हटाके दे रहलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "951ea50b774bd73147206992756279a75d684f67502fc25ff20aa68c5ec78901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/15\/1-4.1791992470373.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨काहे कि⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहतइ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहरा में"
+    },
+    {
+      "surface": "אביור",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "असीस देके"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "असीस देतइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहर एलोहीम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दे रहलन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "बिरासत"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ओकरा हटाके"
+    }
+  ],
+  "timestamp": "2026-10-14T15:41:10.374882175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 4:20",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר על שבר \/ שדדה–שדדו",
+      "rationale": "दू के जड़ के दोहराव — शबर दू बेर, शदद दू बेर — उजाड़ ऊपर उजाड़ के लय; मगही में दोहराव रखल गेलइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "יריעתי",
+      "rationale": "पाँती के अंत में क्रिया-हीन संज्ञा — 'हमर पर्दा' जस के तस छोड़ल गेलइ, जइसन इब्रानी के टूटल लय।"
+    }
+  ],
+  "translation": "तोड़फोड़ के ऊपर तोड़फोड़ पुकारल जा रहलइ हकइ, काहे कि पूरा धरती उजाड़ देल गेलइ हकइ; झटपट हमर तम्बू उजाड़ देल गेलन हकथिन, एक क्षण में हमर पर्दा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f64b7c5124f0690d9c8a82eacb65ded98a52430a990f76cc3edbb572894588cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/4\/17-20.1792000229086.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "तोड़फोड़"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "तोड़फोड़"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "पुकारल जा रहलइ हकइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "उजाड़ देल गेलइ हकइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "झटपट"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "उजाड़ देल गेलन हकथिन"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "हमर तम्बू"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "एक क्षण में"
+    },
+    {
+      "surface": "יריעתי",
+      "gloss": "हमर पर्दा"
+    }
+  ],
+  "timestamp": "2026-10-14T17:50:29.087040314Z",
+  "model": "glm-5.3"
+}

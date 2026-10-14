@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "मोशे आउ अहरोन",
+      "rationale": "राजा सीधे मोशे आउ अहरोन के नाम लेके सम्बोधन करऽ हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תפריעו \/ פרעה",
+      "rationale": "פרע (ढीला करब, हटावब) आउ फरोऊन के नाम में अच्छर-मेल — कहे के व्यंग्य हइ।"
+    }
+  ],
+  "translation": "मिस्रयिम के राजा ओकनी से कहलक: मोशे आउ अहरोन, काहे तोहनी ⟨את⟩ लोग के ओकर काम से हटावऽ हथिन? जाअउ, अपना भारी बोझ के काम पर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "47519202fa80e6a97bcc4075527e65ad1c3c121bbc62df2f421108ac0a4eebc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/5\/1-4.1791988175605.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "से"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "आउ अहरोन"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "हटावऽ हथिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोग के"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "ओकर काम से"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "जाअउ"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "भारी बोझ के काम पर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:29:35.606845427Z",
+  "model": "glm-5.3"
+}

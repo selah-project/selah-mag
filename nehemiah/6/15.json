@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 6:15",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बावन दिन",
+      "rationale": "महीना-तारीख आउ दिन-गिनती — काम के माप।"
+    },
+    {
+      "kind": "addition",
+      "subject": "तारीख",
+      "rationale": "इब्रानी में खाली 'बीस आउ पाँच' हइ; तारीख सब्द मगही बर जोड़ल गेल।"
+    }
+  ],
+  "translation": "आउ देवार पूरा हो गेलइ — एलूल (महीना) के बीस आउ पाँच ⟨तारीख⟩ के, पचास आउ दू दिन में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "696372ad6e254e52ba09cdf63f093f71f5e7dba01bcd2388dbef1aca2dfd219a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/6\/13-16.1792009553341.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשלם",
+      "gloss": "आउ पूरा हो गेलइ"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "देवार"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "आउ पाँच"
+    },
+    {
+      "surface": "לאלול",
+      "gloss": "एलूल में"
+    },
+    {
+      "surface": "לחמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आउ दू"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-10-14T20:25:53.342514654Z",
+  "model": "glm-5.3"
+}

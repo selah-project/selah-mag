@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ונגלינו",
+      "rationale": "साँचे मायने 'हमनी खुल जाईयै' — ओकनी लोग के आगू अपना के देखावऽ के भासा"
+    }
+  ],
+  "translation": "आउ यहोनतन कहलन, “देखऽ, हमनी ओकनी लोग के पास पार होवऽ हइ, आउ ओकनी के आगू हमनी आपना के देखाईतइ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8c12ceb12aa27484046b689bc581ca37953665bbfdb0f1554390b27fc9e21e2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/14\/5-8.1791995153122.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनतन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हमनी"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "पार होवऽ हइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ओकनी लोग"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "आउ हमनी आपना के देखाईतइ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओकनी के आगू"
+    }
+  ],
+  "timestamp": "2026-10-14T16:25:53.123389289Z",
+  "model": "glm-5.3"
+}

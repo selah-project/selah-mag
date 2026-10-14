@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וישב",
+      "rationale": "ऊ (करता) पिरामिद फिराऊन पिछला पद से बहै रहल हइ, मगही बाक्य में साफ करे के चाही।"
+    }
+  ],
+  "translation": "आउ ऊ पिए के ⟨את⟩ सरदार के ओकर पिए के काम पर फिर बैठइलन, आउ फिराऊन के हथेली पर कटोरा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6f29a32fb94cab91aa1712ead137520fb620ea41ccf0685860fe441300813feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/40\/21-23.1791987491830.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "फिर बैठइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पिए के सरदार"
+    },
+    {
+      "surface": "שר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "पिए के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "ओकर पिए के काम"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "कटोरा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हथेली"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिराऊन"
+    }
+  ],
+  "timestamp": "2026-10-14T14:18:11.831234895Z",
+  "model": "glm-5.3"
+}

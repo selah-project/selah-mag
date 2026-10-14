@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 18:12",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "नואש",
+      "rationale": "root יאש — 'हाथ छोड़ देना \/ आस त्यागना'; 'कोनो आस नञ हकइ' कहनी रूप हकइ, क्रिया-विशेषण नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "נואש",
+      "rationale": "KJV 'no hope' बनाम YLT 'It is incurable' — आस मिटए बनाम असाध्य होना।"
+    },
+    {
+      "kind": "addition",
+      "subject": "मोताबिक",
+      "rationale": "हिब्रू केवल 'हठ… करतइ' कहऽ हइ; 'के मोताबिक' जोड़ल गेलइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "यहूदा के लोग",
+      "rationale": "ई यहवे के बुलाव के जवाब में लोग के कहनी हकइ — ओकरा नञ मानेके घोसना।"
+    }
+  ],
+  "translation": "आउ ओकनी कहलन, कोनो आस नञ हकइ; काहे कि हमनी के बिचार सब के पाछे हमनी चलबइ, आउ हर एक आदमी अपन बुरा हिरदय के हठ के मोताबिक करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f493c416d1df548667785a5819fda960b152fcf79ac0e5a38f9eb1e9a13a756a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/18\/12-12.1792011860765.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "आउ ओकनी कहलन"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "कोनो आस नञ हकइ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "מחשבותינו",
+      "gloss": "हमनी के बिचार सब"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "हमनी चलबइ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आउ हर एक आदमी"
+    },
+    {
+      "surface": "שררות",
+      "gloss": "हठ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "अपन हिरदय के"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "करतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T21:04:20.766102912Z",
+  "model": "glm-5.3"
+}

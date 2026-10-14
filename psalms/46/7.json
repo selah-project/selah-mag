@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נתן בקולו",
+      "rationale": "सचमुच 'अपन बोली के संग देलन' — 'बोली निकाललन' के चलनसार अरथ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטו \/ תמוג",
+      "rationale": "מוט (डगमगाना) आउ मוג (पघरना) के जड़-मेल — पड़ोसी पद में ध्वनि-जोड़ी, अनुवाद में हलका हो गेल"
+    }
+  ],
+  "translation": "जाति सब गरजलन, राज्य सब डगमगाएलन; ⟨ऊ⟩ अपन बोली देलन — धरती पघरि गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/46\/5-8.1792005083884.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "गरजलन"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "डगमगाएलन"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "राज्य सब"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "अपन बोली"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "पघरि गेलइ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T19:11:23.885494292Z",
+  "model": "glm-5.3"
+}

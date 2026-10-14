@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 2:7",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המלאך",
+      "rationale": "मלאך के रूप भेजल संदेसवाहक हकइ; मगही में दूत (भेजल) — फरिस्ता नञ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "बाहर",
+      "rationale": "יצא के चाल साफ करे बर ⟨बाहर⟩ जोड़ल गेल।"
+    }
+  ],
+  "translation": "आउ देखऽ हइ, जे दूत हमरा संग बोलऽ हल, ऊ बाहर निकलल, आउ दुसर दूत ओकरा भेंटे निकलल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/2\/5-8.1792004156082.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "आउ देखऽ हइ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ओ दूत"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बोलऽ हल"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा संग"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "बाहर निकलल"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "आउ दूत"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दुसर"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ओकरा भेंटे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:55:56.083221382Z",
+  "model": "glm-5.3"
+}

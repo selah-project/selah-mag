@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 7:18",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרתי\/יכרת",
+      "rationale": "बाचा 'काटल' — जइसन हम काटलिये (करार), ओइसने तोहर बेटा नञ काटल जातइ; मगही में एके जड़ रखल गेल"
+    }
+  ],
+  "translation": "तब हम तोहर राज-गद्दी के ⟨את⟩ गद्दी ठाढ़ करतइ, जइसन हम तोहर बाप दाविद संग कटौती करलिये हल, कहऽ हइ — तोहा बर यिस्राएल में राज करै वाला कोनो आदमी नञ काटल जातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2dddcb1eadcdc9f7842a8d4fb48ce28d2f696cbfd6ddcc2c5aaf4ead0e37e03f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/7\/17-20.1792010792254.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "तब हम ठाढ़ करतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर राज-गद्दी के"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "गद्दी"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "तोहर राज"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "हम कटौती करलिये हल"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "दाविद संग"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहर बाप"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ हइ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "काटल जातइ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहा बर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "राज करै वाला"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिस्राएल में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:46:32.255255135Z",
+  "model": "glm-5.3"
+}

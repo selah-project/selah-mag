@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש साँस लेवै वाला जीव-परान हकइ, 'आत्मा' नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "और नञ जानै त भी दोसी",
+      "rationale": "केजेवी 'though he wist it not' बनावऽ हइ; इब्रानी खाली कहऽ हइ — नञ जानक आउ दोसी दुनो साथ ठाढ़ हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואשם \/ עונו",
+      "rationale": "אשם (दोसी) के जड़ वापै वाचा-अपराध भेंट में आतइ; एही जड़ 5:19 में तीन बेर आवतइ।"
+    }
+  ],
+  "translation": "आउ जे कोनो परान पाप कइलक होवे, आउ यहवे के सब आज्ञा में से कोनो एक अइसन काम कइलक होवे जे नञ करल जाए चाही, आउ ⟨ओकरा⟩ पता नञ चलल होवे, त ऊ दोसी ठहरतइ आउ ओकर अपराध ⟨ओकरै⟩ उठएक।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "0359f33d9fc124a38136db3b468374ea3f6919416035ca6312a786464215df3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/5\/17-20.1791989578104.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जे कोनो"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "पाप कइलक होवे"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "आउ कइलक होवे"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "कोनो एक"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब में से"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "करल जाए चाही"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "पता चलल होवे"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "दोसी ठहरतइ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "उठएक"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ओकर अपराध"
+    }
+  ],
+  "timestamp": "2026-10-14T14:52:58.105140141Z",
+  "model": "glm-5.3"
+}

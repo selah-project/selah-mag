@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשוא פנים",
+      "rationale": "साफ अरथ 'मुँह उठावल' — आदर\/पहचान पावै वाला; मगही में अरथ-रूप लेल गेल"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרשים",
+      "rationale": "KJV 'artificer' (कारीगर) बनाम JPS 'cunning charmer' (जादू जानै वाला) — संग 'लचस' मंतर के संग जुड़ाव दुनो दने खुलऽ हइ"
+    }
+  ],
+  "translation": "पचास के सरदार आउ आदर पावै वाला, सलाह दै वाला आउ कारीगर सब में ज्ञानी, आउ मंतर-जानै वाला समझदार।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "68546ba517ea2c83dba0696bae3637875c12a666b302bffd146ec30d44c082bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/3\/1-4.1791998565189.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास के"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "आउ आदर पावै वाला"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह (के)"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "आउ सलाह दै वाला"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "आउ ज्ञानी"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "कारीगर सब"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "आउ समझदार"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "मंतर-जानै वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T17:22:45.190325150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נעמי \/ מרא \/ המר",
+      "rationale": "Naomi ('sweet\/pleasant') vs Mara ('bitter'), rooting on מרר 'made bitter' — the name-change IS the verse, untranslatable in Magahi"
+    },
+    {
+      "kind": "you",
+      "subject": "to the women of Bethlehem",
+      "rationale": "Naomi's reply is direct address, feminine plural imperatives"
+    }
+  ],
+  "translation": "आउ ऊ ओकनी कहलकी — मत कहऽ कि “नाओमी” — “मरा” कहऽ, काहे कि शद्दय हमरा बहुते कड़वाहट देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ruth\/1\/17-20.1792008141931.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "आउ ऊ कहलकी"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "ओकनी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "नाओमी"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "मरा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "המר",
+      "gloss": "कड़वाहट देलन"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-10-14T20:02:21.933013318Z",
+  "model": "glm-5.3"
+}

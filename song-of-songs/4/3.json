@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומדबריך",
+      "rationale": "मिद्बारेख: 'तोहर बोली' (मूल अरथ) बनाम उगारित द्द से 'तोहर सुहावऽ' — प्राचीन अनुवादकन में मतभेद।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רקתך",
+      "rationale": "रक्का — कनपटी — तनाख़ में एहीं एक बेर अवत हकइ।"
+    }
+  ],
+  "translation": "तोहर होंठ लाल धागा जइसन हथिन, आउ तोहर बोली मन लागऽ हइ; तोहर कनपटी अनार के फाँक जइसन, तोहर परदा के पाछे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "29bdaf664ff43abfe8fbf7d40e1971d8822100bad805c807db164d611627041f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/4\/1-4.1792008018538.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "धागा जइसन"
+    },
+    {
+      "surface": "השני",
+      "gloss": "लाल"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "तोहर होंठ"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "आउ तोहर बोली"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "मन लागऽ"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "फाँक जइसन"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "अनार के"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "तोहर कनपटी"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "तोहर परदा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:00:18.539689941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 12:1",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "पुरोहित के सूची",
+      "rationale": "पुरोहित आउ लेवी के नाम के गिनती-सूची शुरू होवऽ हइ जे आगे केतुआ तक चलतइ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "हिन्दी-मगही सूची में विराम बर तिरछा चिन्हा जोड़ल गेलइ जे इब्रानी में नञ हइ।"
+    }
+  ],
+  "translation": "आउ ई हथिन ओ पुरोहित आउ लेवी के लोग जे ज़रुब्बाबेल (ज़रूब्बेल), शाल्तीएल के बेटा, आउ येशूआ के संग चढ़लन — शेरायाह, यिर्मेयाह, एज़्रा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b4fc7f0a9279ed54039e2930d4f146d11840ac7a285b5ec0c918b575924697d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/12\/1-4.1792009763379.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आउ ई"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "आउ लेवी के लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "चढ़लन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "ज़रुब्बाबेल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "शाल्तीएल"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "आउ येशूआ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "शेरायाह"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "यिर्मेयाह"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "एज़्रा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:29:23.379964938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 7:22",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על דברי עולה וזבח",
+      "rationale": "केहु 'बात पर आज्ञा नञ देलनिए' पढ़ऽ हथिन, केहु खाली 'बलि के बात पर कोनो आज्ञा नञ' — क्रम के अनुवादक बदलऽ हथिन।"
+    },
+    {
+      "kind": "addition",
+      "subject": "हम",
+      "rationale": "הוציא के करता (हम) इब्रानी में मौजूद नञ हकइ, मगही बाक्य में जरूरी हकइ।"
+    }
+  ],
+  "translation": "काहे कि जे दिन हम ओकनी ⟨את⟩ के मिस्रयिम (मिस्र) के धरती से बाहिर कएलनिए, ओही दिन हम तोहनी के पुरखा सब के संग ⟨את⟩ बात नञ कहलनिए, आउ ओकनी के ढूल बलि आउ जबेह-बलि के बात पर कोनो आज्ञा नञ देलनिए।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "8a803c1d405f5b1d7a019403cebc581b1361f7aeda2e06d93631bdaae9d60753",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/7\/21-24.1792000355511.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "कहलनिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी के पुरखा सब"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "तोहनी के पुरखा सब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "आज्ञा देलनिए"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "जे दिन"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "बाहिर कएलनिए"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ओकनी के"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम (मिस्र) के"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बात पर"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ढूल बलि"
+    },
+    {
+      "surface": "וזבח",
+      "gloss": "आउ जबेह-बलि"
+    }
+  ],
+  "timestamp": "2026-10-14T17:52:35.512129994Z",
+  "model": "glm-5.3"
+}

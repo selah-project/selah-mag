@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 2:9",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברך",
+      "rationale": "शाब्दिक 'आसीस दे' — बाकी संदर्भ में ई 'सराप दे' बर विनम्र-रूप (euphemism) हकइ; KJV 'curse', YLT 'bless'।"
+    },
+    {
+      "kind": "you",
+      "subject": "इय्योब के जनाना के",
+      "rationale": "सीधा सम्बोधन — पतिया के ओर।"
+    }
+  ],
+  "translation": "ओकर जनाना ओकरा कहलन, का तूँ आजउ अपन भलाई के पकड़ले रहऽ हऽ? एलोहीम के आसीस दे आउ मर जा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5f8f1a10775fe3c80875475fb5fa109b4e8355bb7580934029c869c434ddd4e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/2\/9-12.1792007148726.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ओकर जनाना"
+    },
+    {
+      "surface": "עדך",
+      "gloss": "आजउ"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "पकड़ले रहऽ हऽ"
+    },
+    {
+      "surface": "בתמתך",
+      "gloss": "अपन भलाई के"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "आसीस दे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "आउ मर जा"
+    }
+  ],
+  "timestamp": "2026-10-14T19:45:48.726741252Z",
+  "model": "glm-5.3"
+}

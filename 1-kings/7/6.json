@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "पचास\/तीस कोहनी",
+      "rationale": "बरामदा के नाप-जोख।"
+    },
+    {
+      "kind": "crux",
+      "subject": "ועב",
+      "rationale": "'कढ़ी-छत\/अधार' — मोट छत-कड़ी; YLT 'thick place', KJV 'thick beam'।"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨एक⟩",
+      "rationale": "इब्रानी में अनन्वयबाचक नञ, मगही में दुसर बरामदा अलग देखावे बर।"
+    }
+  ],
+  "translation": "आउ ⟨את⟩ खम्भा के बरामदा बनइलन — पचास कोहनी ओकर लमाई, आउ तीस कोहनी ओकर चौड़ाई; आउ ⟨एक⟩ बरामदा ओकरा के सामने, आउ खम्भा आउ कढ़ी-छत ओकरा के सामने।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "80774aa0fc9c3e3325445f167fc38a2066a4e349aecdf7eb791a0d16eb22e95e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/7\/5-8.1791996896474.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "खम्भा के बरामदा"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "बरामदा"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "खम्भा के"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "कोहनी"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ओकर लमाई"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आउ तीस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "कोहनी"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ओकर चौड़ाई"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "आउ बरामदा"
+    },
+    {
+      "surface": "על",
+      "gloss": "उपर"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ओकरा के सामने"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "आउ खम्भा"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "आउ कढ़ी-छत"
+    },
+    {
+      "surface": "על",
+      "gloss": "उपर"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ओकरा के सामने"
+    }
+  ],
+  "timestamp": "2026-10-14T16:54:56.496543012Z",
+  "model": "glm-5.3"
+}

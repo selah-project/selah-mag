@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 3:3",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "बेटा के क्रम",
+      "rationale": "दाविद के बेटा के जनम-क्रम गिनल जा रहलइ (दोसर, तीसर)।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ומשנהו",
+      "rationale": "मूल अरथ 'दोहराव, दोसर प्रति' — क्रम-बोधक 'दोसर' लेल गेलइ।"
+    }
+  ],
+  "translation": "आउ ओकर दोसर किलअब ⟨हलै⟩, नाबल करमेली के जनाना अबीगयल के; आउ तीसर अबशालोम, माअखा के बेटा, गेशुर के राजा तल्मय के बेटी।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6379446422c6033a3d372e7bc2331cb36181fc99176cd83d0b460d0af5989b46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/3\/1-4.1791995852588.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשנהו",
+      "gloss": "आउ ओकर दोसर"
+    },
+    {
+      "surface": "כלאב",
+      "gloss": "किलअब"
+    },
+    {
+      "surface": "לאביגל",
+      "gloss": "अबीगयल के"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नाबल"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "करमेली"
+    },
+    {
+      "surface": "והשלשי",
+      "gloss": "आउ तीसर"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माअखा"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "तल्मय"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "गेशुर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:37:32.589428252Z",
+  "model": "glm-5.3"
+}

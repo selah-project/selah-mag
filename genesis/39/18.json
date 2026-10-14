@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 39:18",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "कथा-बहने वाला 'आउ भेल' मगही में 'जखन…तखन' में घुल गेल"
+    }
+  ],
+  "translation": "आउ जखन हम हमर बोली ऊपर चढ़ाइलहुँ आउ चिल्लाइलहुँ, तखन ऊ ओकर कपड़ा हमरा के छोड़ के बाहिर भाग गेलन।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c7e400de7d81b83a985ff6fdf1c8a242bbddf7a7fd1066b0614eb90525cde8f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/39\/17-20.1791987576831.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ भेल"
+    },
+    {
+      "surface": "כהרימי",
+      "gloss": "जखन हम ऊपर चढ़ाइलहुँ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "हमर बोली"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "आउ चिल्लाइलहुँ"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "छोड़लक"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ओकर कपड़ा"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "हमरा के पास"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "भाग गेलन"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "बाहिर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:19:36.832010135Z",
+  "model": "glm-5.3"
+}

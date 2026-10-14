@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "mag",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובנצורים",
+      "rationale": "'गुप्त जगह' (secret places, ASV\/JPS 'vaults') बनाम 'डेरा\/मन्दिर' — जड़ נצर के अरथ बाँझऽ या टेकल जगह।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פגלים",
+      "rationale": "'बरभित्तर' — पिग्गुल सन्दर्भ-बिधि के बरभित्तर चीज हकइ, सोन्धा 'घिनौना' नञ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "के",
+      "rationale": "हिब्रू में जोड़ के किरिया नञ हइ; मगही के बनावट बर ⟨के⟩ जोड़ल गेल।"
+    }
+  ],
+  "translation": "जे कब्र सब में बइठऽ हथिन आउ गुप्त जगह में रात बितावऽ हथिन, जे सूअर के मांस खावऽ हथिन आउ ओकरा बरभित्तर झोल ⟨के⟩ ओकनी के बरतन सब में हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "851d55fd2f3e2ace6923da8fa4aa5c50b8a39970791ecef5ab8fd0275ce73348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/65\/4-4.1792011870008.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "जे बइठऽ हथिन"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "कब्र सब में"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "आउ गुप्त जगह में"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "रात बितावऽ हथिन"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "जे खावऽ हथिन"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "सूअर के"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "आउ झोल"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "बरभित्तर चीज के"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "ओकनी के बरतन"
+    }
+  ],
+  "timestamp": "2026-10-14T21:04:30.008490868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "बाकि",
+      "rationale": "इब्रानी में विरोध चिन्हा नञ हइ; संगति से जोड़ चाही"
+    },
+    {
+      "kind": "substitution",
+      "subject": "एल्योन",
+      "rationale": "עליון 'सबसे ऊँच' — नाम-पद लिप्यन्तरित कइल गेल"
+    }
+  ],
+  "translation": "बाकि ओकनी ओकरा आजुत कइलन आउ ओकरा बिरोध कइलन — ⟨את⟩ एलोहीम एल्योन के — आउ ओकर गवाही सब के रखवारी नञ कइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "235876a10c4c3a9ff0cc8b9400f0d479064f1e0007418d04a57222ffebbf93aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/78\/53-56.1792005534116.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "आजुत कइलन"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "बिरोध कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलोहीम एल्योन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "ओकर गवाही सब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "रखवारी कइलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:18:54.118429858Z",
+  "model": "glm-5.3"
+}

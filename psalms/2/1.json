@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "The psalm opens with a question addressed to the hearer."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רגשו \/ יהגו",
+      "rationale": "Parallel turbulent verbs, rage and murmur, matched here by हल्ला मचावऽ \/ बड़बड़ावऽ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "जाति सब",
+      "rationale": "גוים is the nations; the plural-jaat sense is kept with the collective सब."
+    }
+  ],
+  "translation": "काहे जाति सब हल्ला मचावऽ हथिन, आउ लोग निकम्मा बात बड़बड़ावऽ हथिन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/2\/1-4.1792004430256.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "हल्ला मचावऽ हथिन"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सब"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "आउ लोग"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "बड़बड़ावऽ हथिन"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "निकम्मा बात"
+    }
+  ],
+  "timestamp": "2026-10-14T19:00:30.257241521Z",
+  "model": "glm-5.3"
+}

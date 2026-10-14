@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם אפס כסף",
+      "rationale": "'जे कि चानी खतम हो गेलइ' — किछु अनुवादक एकरा संदिग्ध प्रस्न मानऽ हथिन; सन्दर्भ बतावऽ हइ कि एकर मतलब 'चूँकि' हकइ"
+    },
+    {
+      "kind": "elision",
+      "subject": "לחם",
+      "rationale": "याकूब-देखे-बिना अनुवाद जेएपीएस जइसन 'रोटी' जोड़ऽ हइ; इब्रानी पाठ में ई सब्द नञ हइ"
+    }
+  ],
+  "translation": "आउ योसेफ कहलन: अपन माल-जाल देला, आउ हम ओकर बदला तोहनी के देबऽ हइ, काहे कि चानी खतम हो गेलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a51b62e2f7bc8211133233ec5d47505da490841aeaa2a1103317798e61db0390",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/47\/13-16.1791987839698.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "देला"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "अपन माल-जाल"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "आउ हम देबऽ हइ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "ओकर बदला"
+    },
+    {
+      "surface": "אם",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "खतम हो गेलइ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    }
+  ],
+  "timestamp": "2026-10-14T14:23:59.699913031Z",
+  "model": "glm-5.3"
+}

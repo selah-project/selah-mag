@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 1:25",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במותיך",
+      "rationale": "दूसरा-बचन के सांकेतिक-प्रत्यय आवा हइ — 'तोहर ऊँच जगहन' (येहोनातान के), कोनो पढ़निहार ई 'हमर' (दाविद के) पढ़ऽ हइ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלל",
+      "rationale": "'घायल' बनाम 'मारल गेल' — मूल शब्द 'बेधल गेल' के अरथ हकइ।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איך נפלו גבורים",
+      "rationale": "ई शोक-गीत के गुनगुनाहट पद 19, 25 आउ 27 में फेराव आवऽ हइ; मगही में ओकर दुहराव रक्खल गेलइ।"
+    }
+  ],
+  "translation": "कइसने गिरलन बलवान लड़ाई के बीच में! येहोनातान, तोहर ऊँच जगहन पर घायल!",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "42df1a59d575046c6fee7436c0d282c76d5e6c8852fbffc7565810087f6b6eb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/1\/25-27.1791995805289.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "गिरलन"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "लड़ाई"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "येहोनातान"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "तोहर ऊँच जगहन"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "घायल"
+    }
+  ],
+  "timestamp": "2026-10-14T16:36:45.289969742Z",
+  "model": "glm-5.3"
+}

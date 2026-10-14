@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हलइ",
+      "rationale": "ויהי के बाक्य-संरचना बर मगही में क्रिया जोड़ल गेलै।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "छह सौ छियासठ किक्कर",
+      "rationale": "सोना के बरसाना-वजन — गिनती आउ नाप के पद।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ככר",
+      "rationale": "किक्कर (तराजू के बराबर वजन, करीब ३४ किलो) लिप्यन्तरित रखल गेलै।"
+    }
+  ],
+  "translation": "आउ एक बरिस में शलोमो के लग जे सोना अइलक हलइ, ओकर वजन छह सौ छियासठ किक्कर सोना हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a9c2e69b2d3c01bb1e2d0741799a5121b8ec9e8582484c59d991ef04894bfd5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/10\/13-16.1791997027871.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आउ ⟨हलइ⟩"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "वजन"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בא",
+      "gloss": "अइलक हलइ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "शलोमो के लग"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "छियासठ में साठ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आउ छह"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "किक्कर"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    }
+  ],
+  "timestamp": "2026-10-14T16:57:07.872807950Z",
+  "model": "glm-5.3"
+}

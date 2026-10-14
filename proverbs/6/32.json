@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "נפש परान-बल हकइ, दर्शन के आत्मा नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הוא יעשנה",
+      "rationale": "'ओही ओकरा करऽ हइ' — KHV 'he that doeth it' बनाम यत 'ऊ ओकरा करऽ हइ' — क्रिया के बाँटवारा।"
+    }
+  ],
+  "translation": "जनाना का संग व्यभिचार करए वाला हिरदय से खाली हकइ; ओही अपन परान बरबाद करऽ हइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "88b811d010d6f28758a290bf59429bd169b81d6cb63faa7f4d3ab66fd0970cd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/6\/29-32.1792006578759.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "व्यभिचार करए वाला"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "जनाना का संग"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिरदय से"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "बरबाद करऽ हइ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "अपन परान"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "ओकरा करऽ हइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:36:18.761014568Z",
+  "model": "glm-5.3"
+}

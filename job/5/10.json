@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פני ארץ",
+      "rationale": "'धरती के चेहरा' — मगही में 'धरती के मुँह पर' रखलन, इब्रानी के आकार जस के तस"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פני...פני",
+      "rationale": "दू बेर 'मुँह के पर' — समानान्तर बनावट, बरखा आउ पानी दूनो के ठीक ओहे ढाँचा"
+    }
+  ],
+  "translation": "जे धरती के मुँह पर बरखा देलन आउ खुला जगह के मुँह पर पानी पठावऽ हथिन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e6fe8e4c3e3c69c250163d17ea5765c1dcee36af2404f96997c4209f6d5aabec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/5\/9-12.1792007185114.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "बरखा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह के"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "आउ पठावऽ हथिन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह के"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "खुला जगह"
+    }
+  ],
+  "timestamp": "2026-10-14T19:46:25.115484390Z",
+  "model": "glm-5.3"
+}

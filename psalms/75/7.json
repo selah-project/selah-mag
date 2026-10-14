@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨नञ आवऽ हइ⟩",
+      "rationale": "इब्रानी में किरिया नञ हइ; पूरा बाक्य खाली नकार आउ जगह-सब्द में बनलइ हे।"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרים",
+      "rationale": "जड़ רום से 'उठान\/ऊँच करना' (यएलटी 'elevation'), नञ कि 'पहाड़' (הָרִים) — अच्छर एक, अरथ दू।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלוש מן",
+      "rationale": "तीन 'से नञ' के ताल — पूरब, पछुम, दक्खिन — तीनो दिसा नकारल गेलइ।"
+    }
+  ],
+  "translation": "काहे कि निकास के ओर से नञ आउ पछुअँ से नञ, आउ जंगल से उठान ⟨नञ आवऽ हइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/75\/5-8.1792005464946.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "निकास के ओर से"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "आउ पछुअँ से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "जंगल से"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "उठान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:17:44.947688221Z",
+  "model": "glm-5.3"
+}

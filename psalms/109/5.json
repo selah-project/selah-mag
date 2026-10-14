@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעה תחת טובה \/ שנאה ךחת אהבה",
+      "rationale": "evil-for-good, hatred-for-love — समानान्तर बदला के जोड़ी, चियास्टिक बनावट।"
+    }
+  ],
+  "translation": "आउ ऊ लोग हमरा ऊपर बुराई बइठकलन भलाई के बदला, आउ नफरत हमर परेम के बदला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6f19dae491a01475922e5575bbc1bde79c2b2eed86026de955e8e7f91e9ab34a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/109\/5-8.1792005963211.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "बइठकलन आउ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ऊपर"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "नफरत आउ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "हमर परेम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:03.212497187Z",
+  "model": "glm-5.3"
+}

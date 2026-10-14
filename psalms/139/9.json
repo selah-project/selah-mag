@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כנפי שחר",
+      "rationale": "भोर के पर — सुरुज किनार से उड़े वाला चित्र; मगही में चित्र तो बचऽ हइ बाकि इब्रानी के सुघराहट नञ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אשכנה",
+      "rationale": "„बसलियइ” के जगह „डेरा डारलियइ” — अस्थायी डेरा के अरथ घना होतन।"
+    }
+  ],
+  "translation": "अगर हम भोर के पर लेलियइ, आउ समुंदर के अन्तिम भाग में बसलियइ —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f780a204476d2dae71f13954eb3899ac85b0761bd4cef2b576a1da1fa58dfd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/139\/9-12.1792006284328.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "लेलियइ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "भोर के पर"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "बसलियइ"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "अन्तिम भाग में"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    }
+  ],
+  "timestamp": "2026-10-14T19:31:24.328992707Z",
+  "model": "glm-5.3"
+}

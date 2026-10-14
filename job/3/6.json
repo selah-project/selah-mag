@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 3:6",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחד",
+      "rationale": "'खुस न होवे' (rejoice) बनाम KJV\/geneva 'joined' (जुड़ल) — दुनू पढ़ाई चलऽ हइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "महीना के गिनती",
+      "rationale": "बरिस के दिन आउ महीना के गिनती के बोलाव — पंचांग के बात।"
+    }
+  ],
+  "translation": "ओही रात के गहिरा अन्हार ले ले; ऊ बरिस के दिन सब में खुस न होवे, महीना सब के गिनती में न आवे।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "04cc00782941dd4c58ff4d92d2e5b7f1bc517d601098d9e661d5de6ddd945575",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/3\/5-8.1792007101137.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "ले ले"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "गहिरा अन्हार"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "खुस होवे"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "दिन सब में"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस के"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "गिनती में"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "महीना सब के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "आवे"
+    }
+  ],
+  "timestamp": "2026-10-14T19:45:01.138593413Z",
+  "model": "glm-5.3"
+}

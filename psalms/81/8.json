@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "यहवे इस्राएल से सीधा बोलऽ हथिन — तूँ\/तोहरा"
+    },
+    {
+      "kind": "crux",
+      "subject": "בסתר רעם",
+      "rationale": "'गरज के लुकाएल जगह में' — बादल के छान्ही में छुपल गरज बनाम गूँजत अन्हार"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "गीत के चिन्हा — 'सेला' रूप में लिप्यन्तरित, अनुवाद नञ"
+    }
+  ],
+  "translation": "संकट में तूँ पुकारलक आउ हम तोहरा छुड़ए देलियनि; हम तोहरा गरज के लुकाएल जगह में जवाब देलियनि; हम तोहरा मरीवा के पानी पर परखलियनि। सेला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "94fdca8ca6aaef334c21bd796ac9eda16b9621d837b051e5b878dfb43c889a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/81\/5-8.1792005559561.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "संकट में"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "तूँ पुकारलक"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "आउ हम तोहरा छुड़ए देलियनि"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "हम तोहरा जवाब देलियनि"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "लुकाएल जगह में"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "गरज के"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "हम तोहरा परखलियनि"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מי",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "मरीवा के"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:19:19.562090442Z",
+  "model": "glm-5.3"
+}

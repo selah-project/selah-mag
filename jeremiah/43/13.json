@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 43:13",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בית שמש",
+      "rationale": "'बेत-शेमेश' (सुरुज-घर \/ सुरुज के देवता के मंदिर) — किछु अनुवाद नाम रखऽ हथिन, किछु 'सुरुज के मंदिर' कहऽ हथिन; मगही में नाम इब्रानी-निस्ठ रहल आउ कोस्ठक में अरथ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלהי",
+      "rationale": "इहाँ एलोहीम मिस्रयिम के देवता बर हकइ, एहे से 'देवता सब' — नाम नञ, जाति-सब्द।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצבות",
+      "rationale": "מצבה ठाढ़ कइल खम्भा हकइ — स्मृति-पत्थल या मूरत; 'खम्भा' ओकर सुभाविक आकृति रखऽ हइ।"
+    }
+  ],
+  "translation": "आउ ऊ मिस्रयिम के धरती में बेत-शेमेश (सुरुज-घर) के खम्भा सब के ⟨את⟩ तोड़तइ, आउ मिस्रयिम के देवता सब के घर के ⟨ואת⟩ आग में जरातइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f7bfefa2d4fcd9474f48cfeb5c333334ff515a4eef972d0ae15cd39c700da75c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/43\/13-13.1792001289583.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "आउ तोड़तइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खम्भा सब के"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "खम्भा सब"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "शेमेश"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "घर के"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "देवता सब के"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "जरातइ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    }
+  ],
+  "timestamp": "2026-10-14T18:08:09.584205650Z",
+  "model": "glm-5.3"
+}

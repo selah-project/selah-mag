@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד סירים",
+      "rationale": "सिरिम — काँटा-झाड़ी (KJV\/JPS) बनाम बड़का लोग (YL, 'אדירים' पढ़ाई) बनाम हांड़ी; मगही में काँटा-झाड़ी लेल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סבכים \/ סבואים",
+      "rationale": "उलझल-काँटा आउ मद-चूर — दूनो सब्द एके सब-सब ध्वनि के, हिन्दी\/मगही में ई नाद-मेल नञ आ पावऽ हइ"
+    }
+  ],
+  "translation": "काहे कि काँटा-झाड़ी में उलझल आउ अपन मद में चूर होके, ओकनी खइल जातइ — सूखल भूसा नियने, पूरा-पूरा।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1f480c5ba6659a2440d3d5ee3f5f26d23a326f449adf822fb2700c7a09b03399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nahum\/1\/9-12.1792003819420.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जा के तक"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "काँटा-झाड़ी"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "उलझल"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "आउ अपन मद"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "चूर होके"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "खइल जातइ"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "भूसा नियने"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "सूखल"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "पूरा-पूरा"
+    }
+  ],
+  "timestamp": "2026-10-14T18:50:19.420807386Z",
+  "model": "glm-5.3"
+}

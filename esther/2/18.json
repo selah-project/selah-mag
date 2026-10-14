@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "esther 2:18",
+  "book": "esther",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משאת",
+      "rationale": "भेंट \/ राहत-भेंट \/ स्मरगंध — अनुवादक लोग 'gifts' आउ 'release' दुनो बात पढ़े लगथिन; 'भेंट' लेलन गेल।"
+    },
+    {
+      "kind": "crux",
+      "subject": "והנחה",
+      "rationale": "'छुट्टी' (कर-छुट्टी\/आराम) बनाम सामान्य राहत — क्रूट हकइ।"
+    }
+  ],
+  "translation": "आउ राजा अपन सब सरदार आउ नौकरन बर ⟨את⟩ एस्तर के दावत के बड़ दावत कइलन; आउ देस-प्रांत के छुट्टी देलन, आउ राजा के हाथ के मोताबिक भेंट देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6bede21f69033e33b95c7bed723836c3984a73a7ac87fecd5c08838fdd876f0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/2\/17-20.1792008591331.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "दावत"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब…बर"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "अपन सरदार"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "आउ नौकरन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एस्तर के दावत"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "दावत"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तर के"
+    },
+    {
+      "surface": "והנחה",
+      "gloss": "छुट्टी"
+    },
+    {
+      "surface": "למדינות",
+      "gloss": "देस-प्रांत के"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "के हाथ के मोताबिक"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:09:51.332347201Z",
+  "model": "glm-5.3"
+}

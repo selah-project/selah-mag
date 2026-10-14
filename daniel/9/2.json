@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 9:2",
+  "book": "daniel",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "सत्तर बरिस",
+      "rationale": "यिर्मयाह के भबिस-बाक्य के गिनती; समय के हिसाब ई पद के हिरदय हकइ"
+    },
+    {
+      "kind": "secret",
+      "subject": "किताब में समझलियनी",
+      "rationale": "लिखल-बंद गिनती किताब से खोलल जा रहलइ हे — छिपल जानकारी के खोज"
+    },
+    {
+      "kind": "elision",
+      "subject": "לחרבות",
+      "rationale": "बहुबचन 'उजाड़' के एक रूप में घटाहल गेल"
+    }
+  ],
+  "translation": "ओकर राजा बने के पहिला बरिस में हम, दानिएल, किताब में बरिस के गिनती समझलियनी — जे बात यहवे नबी यिर्मयाह के आगे कहलन हल — यरूशलयिम के उजाड़ भरे के बर — सत्तर बरिस।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "74d62cb22e6b7225db46b483f329d99413e8537809ee9b866c6368f05877ddae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/9\/1-4.1792009049641.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "ओकर राजा बने के"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "दानिएल"
+    },
+    {
+      "surface": "בינתי",
+      "gloss": "समझलियनी"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "किताब में"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "बरिस के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…के आगे"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "यिर्मयाह"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "למלאות",
+      "gloss": "भरे के बर"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम के"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    }
+  ],
+  "timestamp": "2026-10-14T20:17:29.642427389Z",
+  "model": "glm-5.3"
+}

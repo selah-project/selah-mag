@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 27:19",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גאל יגאל",
+      "rationale": "infinitive absolute before the verb — 'really-redeem'; rendered by the intensifier सचमुच, the doubling itself is lost"
+    },
+    {
+      "kind": "measurement",
+      "subject": "पाँचवाँ हिस्सा",
+      "rationale": "the one-fifth redemption surcharge, a fixed fraction"
+    }
+  ],
+  "translation": "आउ जदि ऊ, जे ⟨आदमी⟩ ⟨את⟩ खेत पवित्तर कइलक हे, ⟨את⟩ ⟨ओकरा⟩ सचमुच छुड़ाबऽ चाहऽ हइ, तब ऊ तोहर मोल के चानी के पाँचवाँ हिस्सा ओकर ऊपर जोड़तइ आउ ⟨खेत⟩ ओकरा बर ठाढ़ रहतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c202af0f32b682b1bd8d2c4546fe97d260143a8af2f6609ec89e6d7ce79c965f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/27\/17-20.1791990529935.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ जदि"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "छुड़ाबऽ चाहऽ हइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खेत"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "जे पवित्तर कइलक हे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ऊ (जे पवित्तर कइलक हे)"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "आउ जोड़तइ"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "पाँचवाँ हिस्सा"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चानी"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "तोहर मोल के"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "आउ ठाढ़ रहतइ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:08:49.936607289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמותה הפעם",
+      "rationale": "'एह बेर हम मर जाबइ' — पूछनिया नञ, घोसना; 'अब हमरा मर जाए दो' (KJV) बनाम 'अबहीं-अबहीं मरबइ' — हमनी सीधे घोसना लेलियन।"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल योसेफ से",
+      "rationale": "बाप बेटा के सीधा सम्बोधन — 'तोहर मुँह', 'तूँ जिअतइ'।"
+    }
+  ],
+  "translation": "आउ यिस्राएल योसेफ से कहलन: “एह बेर हम मर जाबइ, काहे कि हम ⟨את⟩ तोहर मुँह देखलियन के बाद, काहे कि अबहीं तूँ जिअतइ हऽ।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "94c079aceecc700683322ab6c874059cb87273c745447e3d849441143f8aa2b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/46\/29-32.1791987869599.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "मर जाबइ"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "एह बेर"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "देखलियन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहर मुँह"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहर मुँह"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "अबहीं तूँ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिअतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:24:29.599976345Z",
+  "model": "glm-5.3"
+}

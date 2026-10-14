@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "तीन दिन",
+      "rationale": "राजा दिन गिन के जवाब टारऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "रहबाम के लोग के बोलाव",
+      "rationale": "प्रत्यक्ष सम्बोधन — जुराव प्रश्न"
+    }
+  ],
+  "translation": "आउ ऊ ओकनी से कहलन, “अउरो तीन दिन, तब हमरा लापत फेर आवऽ”; आउ लोग गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "bec773b208767d994b14450efce18e9a908effb92f59607874bc9bb4fa523a44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/10\/5-8.1792010864590.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ ऊ कहलन"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अउरो"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "फेर आवऽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लापत"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "आउ गेलन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    }
+  ],
+  "timestamp": "2026-10-14T20:47:44.590649339Z",
+  "model": "glm-5.3"
+}

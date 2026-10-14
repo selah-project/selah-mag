@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 40:9",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "सकऽ हऽ",
+      "rationale": "क्षमता के किरिया मगही में जोड़ल गेलइ; इब्रानी में खाली תרעם (गरज) हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "כאל",
+      "rationale": "'एल जइसन' — कुछ अनुवाद 'ईश्वर जैसा' कहऽ हथिन; हमनी नाम रखनिहार अनुसार एल लिप्यन्तरित करऽ हइ"
+    },
+    {
+      "kind": "you",
+      "subject": "यहवे योब से",
+      "rationale": "परमेश्वर योब के सीधे प्रस्न पूछऽ हथिन — चुनौती के रूप में"
+    }
+  ],
+  "translation": "आउ का तोहरा भुजा हअ, एल जइसन? आउ का ऊ जइसन बोली में तूँ गरजऽ सकऽ हऽ?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ddc96f5b4a9968a83a0c7b5889c591dfe192340bc037b4a7a916fa2eec58d31f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/40\/9-12.1792007883233.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आउ का"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "भुजा"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "एल जइसन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरा"
+    },
+    {
+      "surface": "ובקוײ",
+      "gloss": "आउ ... बोली में"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ऊ जइसन"
+    },
+    {
+      "surface": "תרעם",
+      "gloss": "गरजऽ सकऽ हऽ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:58:03.233699211Z",
+  "model": "glm-5.3"
+}

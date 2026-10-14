@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "नेफेश = परान \/ जीवन-शक्ति; आत्मा जइसन दार्शनिक अर्थ नञ।"
+    }
+  ],
+  "translation": "बेवकूफ के मुँह ओकर बरबादी हकइ, आउ ओकर ओंठ ओकर परान के फंदा हकइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d0f7deed8b2fe6286ffbb96cbdec3ea5fdf660e8b4484aa2f6dfdcae3012dd74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/18\/5-8.1792006775288.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "बेवकूफ के"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "बरबादी"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर बर"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "आउ ओकर ओंठ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "फंदा"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ओकर परान"
+    }
+  ],
+  "timestamp": "2026-10-14T19:39:35.289076236Z",
+  "model": "glm-5.3"
+}

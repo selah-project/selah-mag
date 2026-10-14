@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "एलियाहू अखाब के",
+      "rationale": "Elijah's direct reply to Ahab."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כי אם",
+      "gloss": "rendered बाकि 'but'; the pair literally 'for if\/but rather', a solecistic idiom of strong denial."
+    }
+  ],
+  "translation": "ऊ कहलन — हम ⟨את⟩ यिस्राएल के नञ उजाड़लन हँ, बाकि तूँ आउ तोहर बाप के घर, काहे कि तोहनी यहवे के ⟨את⟩ आज्ञा सब के छोड़ देलहु आउ बाल सब के पाछे चललहु।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/18\/17-20.1791997479026.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ऊ कहलन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "उजाड़लन हँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "बाकि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आउ ... के घर"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहर बाप"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "छोड़ देलहु"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आज्ञा सब"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "आज्ञा सब"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "चललहु"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पाछे"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "बाल सब"
+    }
+  ],
+  "timestamp": "2026-10-14T17:04:39.027513615Z",
+  "model": "glm-5.3"
+}

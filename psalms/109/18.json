@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמדו",
+      "rationale": "माद (नाप\/लम्बाई) से कपड़ा के अरथ — 'अपन कपड़ा नियन' बनाम 'अपन नाप के कपड़ा नियन'।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "पानी आउ तेल",
+      "rationale": "सराप भीतरे तक उतरऽ हइ — शरीर में पियावल पानी आउ हड्डी में मालिस के तेल के तस्वीर।"
+    }
+  ],
+  "translation": "ऊ सराप के अपन कपड़ा नियन पहिरलक, आउ ऊ पानी नियन ओकर भीतरे आवे, आउ तेल नियन ओकर हड्डी में।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/109\/17-20.1792006003154.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "पहिरलक"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "सराप"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "अपन कपड़ा नियन"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "पानी नियन"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ओकर भीतरे"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "आउ तेल नियन"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "ओकर हड्डी में"
+    }
+  ],
+  "timestamp": "2026-10-14T19:26:43.154892734Z",
+  "model": "glm-5.3"
+}

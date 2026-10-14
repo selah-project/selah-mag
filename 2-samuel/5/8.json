@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 5:8",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "verse syntax",
+      "rationale": "एह पद के बनावट पर बड़का मतभेद: KJV 'प्रधान आउ सेनापति' जोड़ऽ हइ (मूल में नञ); JPS पद बीच में छोड़ देतइ।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צנור",
+      "rationale": "त्सिनोर (नाली \/ पानी के ढोकनी) तनाख़ में खाली इयँ आवऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "नेफेश परान \/ जीबन-साँस हकइ; घिन के करता दाविद के परान हकइ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על כן",
+      "rationale": "'अल केन' = एही से; दुइ कण मिल के एक जोड़-सब्द।"
+    }
+  ],
+  "translation": "आउ दाविद ओही दिन कहलन: जे हर यबूसी के मारै आउ नाली के छुअवै — आउ ⟨את⟩ लंगड़ा के, आउ ⟨את⟩ अन्हरा के, जिनहुँ के दाविद के परान घिन करै — एही से कहल जाऽ हइ: अन्हरा आउ लंगड़ा घर में नञ आबै।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e1e995a1de823661c902b10a55c0fdbca04190d70e80966317b243d9b8a4e588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/5\/5-8.1791995999828.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "…दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "मारै वाला"
+    },
+    {
+      "surface": "יבסי",
+      "gloss": "यबूसी के"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "आउ छुअवै"
+    },
+    {
+      "surface": "בצנור",
+      "gloss": "नाली के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "लंगड़ा (सब)"
+    },
+    {
+      "surface": "הפסחים",
+      "gloss": "लंगड़ा के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अन्हरा (सब)"
+    },
+    {
+      "surface": "העורים",
+      "gloss": "अन्हरा के"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "घिन करै"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "परान"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "על",
+      "gloss": "एह"
+    },
+    {
+      "surface": "כן",
+      "gloss": "से"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "कहल जाऽ हइ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "अन्हरा"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "आउ लंगड़ा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आबै"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…में"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    }
+  ],
+  "timestamp": "2026-10-14T16:39:59.830436559Z",
+  "model": "glm-5.3"
+}

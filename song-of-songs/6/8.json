@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "साठ\/अस्सी\/गिनती नञ",
+      "rationale": "गिनती के ढाँचा — साठ, अस्सी, आउ जेकरा गिनल नञ जा सकऽ हइ; परति 6:9 के 'एक्को' के तैयारी।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "रखेली",
+      "rationale": "פילגש के संस्थागत अरथ 'रखैल-स्त्री' हकइ; मगही में 'रखेली' निकटतम सब्द लेल गेलन।"
+    }
+  ],
+  "translation": "साठ रानी हथिन, आउ अस्सी रखेली, आउ कुँवारी के कोनो गिनती नञ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "36292d4b89e0dfd1a4ec0aa458b5decbc7de40bf44a48e8138a18a5c9181c858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/6\/5-8.1792007974864.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "साठ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "हथिन"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "रानी"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "आउ अस्सी"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "रखेली"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "आउ कुँवारी"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    }
+  ],
+  "timestamp": "2026-10-14T19:59:34.865731931Z",
+  "model": "glm-5.3"
+}

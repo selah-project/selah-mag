@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "दलाल",
+      "rationale": "עשק के सुभाविक अरथ दबाव के काम — दलाल\/दुख देना; 'उत्पीड़न' जैसन भारी सब्द मगही में नञ।"
+    },
+    {
+      "kind": "addition",
+      "subject": "सब के",
+      "rationale": "מלכים बहुबचन हकइ; मगही में बहुबचन 'सब' से देखावल गेलइ।"
+    }
+  ],
+  "translation": "ऊ ककरो आदमी के ओकनी के दलाल नञ देलन, आउ ओकनी के कारण राजा सब के फटकारलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "457c151114f005f2d00a5d9b2bd1dec0b569555b7ea1cd676cffe67b7ee81a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/16\/21-24.1792010162468.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ककरो आदमी के"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "दलाल"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "फटकारलन"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ओकनी के कारण"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा सब के"
+    }
+  ],
+  "timestamp": "2026-10-14T20:36:02.468659328Z",
+  "model": "glm-5.3"
+}

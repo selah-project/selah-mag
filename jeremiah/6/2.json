@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דמיתי",
+      "rationale": "कुरसी: 'हम मिटा देबइ' (यात व असब, जेपीएस) बनाम 'हम तुलना कइलनिये' (केजेबी) — जड़ דמה के दू अरथ।"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בת ציון",
+      "rationale": "'त्सियोन के बतिया' — यरूशलयिम बर कथात्मक रूप, बेटी नञ।"
+    }
+  ],
+  "translation": "सुन्दर आउ आराम-पसिन, त्सियोन के बतिया — हम ओकरा मिटा देबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ce034e7494189da34e25a48e89a75395785afb3971c68b39f0f17df39daea6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/6\/1-4.1792000262959.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "आउ आराम-पसिन"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "हम मिटा देबइ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "के बतिया"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "त्सियोन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:51:02.960125572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हओ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ"
+    }
+  ],
+  "translation": "सरापित ⟨हओ⟩ ऊ जे रस्ता में अंधा के भटकावै वाला; आउ सब लोग कहतइ, अमेन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "9415530f7a72b45a02262a2e1cfd5a0046c11f9168239564e3d650b71d08e73c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/27\/17-20.1791992842009.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "सरापित"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "भटकावै वाला"
+    },
+    {
+      "surface": "עור",
+      "gloss": "अंधा के"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता में"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आउ कहतइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "अमेन"
+    }
+  ],
+  "timestamp": "2026-10-14T15:47:22.010368179Z",
+  "model": "glm-5.3"
+}

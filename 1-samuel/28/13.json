@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 28:13",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "बहुबचन रूप: 'देवता सब' (KJV) बनाम एकबचन 'देवता' (ASV\/JPS) — मूलपाठ बहुबचन हकइ, एके बहुबचन रखल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "शाऊल के बोली",
+      "rationale": "राजा (शाऊल) जनाना से सीधे बत करऽ हथिन।"
+    }
+  ],
+  "translation": "राजा ओकरा कहलन, “डरो मत, काहे कि का देखलऽ ह?” ओ जनाना शाऊल के कहलन, “हम देवता ⟨सब⟩ देखलियइ, धरती से उपर आवत।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ade02ef3a9ad94f441db98b89751d15262df2e16e71f91bdedad06bb1d9cf35f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/28\/13-16.1791995683046.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "डरो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "देखलऽ ह"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "जनाना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवता सब"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "देखलियइ"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "उपर आवत"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-10-14T16:34:43.047357473Z",
+  "model": "glm-5.3"
+}

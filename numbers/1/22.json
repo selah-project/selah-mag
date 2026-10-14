@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 1:22",
+  "book": "numbers",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "मूड़ी-दर-मूड़ी गिन के",
+      "rationale": "גלגלת खोपड़ी\/मूड़ी हकइ — 'पोल' के जगह मूड़ी के अक्षर-तस्वीर रखल गेल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "सेना बर निकलै",
+      "rationale": "יצא צבא सेना में निकले के चाल हकइ; 'लड़ाई बर जाए' के पास के रूप"
+    },
+    {
+      "kind": "measurement",
+      "subject": "मरद-गिनती के नियम",
+      "rationale": "बीस बरिस से ऊपर के हर मरद के गिनती"
+    }
+  ],
+  "translation": "शिमओन के बेटाकन के, ओनकर बंस-परम्परा अनुसार, ओनकर परिवार अनुसार, ओनकर बाप के घर अनुसार, ओकर गिनती नाम के गिनती से, मूड़ी-दर-मूड़ी गिन के, हर मरद बीस बरिस के बेटा से ऊपर, हर जे सेना बर निकलै —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "ccd59394e672eddb47fe23a0c8b31bc99ea2818c754a57d9682b7e903b9b2bcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/1\/21-24.1791990539822.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "बेटाकन के"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमओन"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ओनकर बंस-परम्परा"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ओनकर परिवार अनुसार"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घर अनुसार"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ओनकर बाप के"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "ओकर गिनती"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "गिनती से"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम के"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "मूड़ी-दर-मूड़ी गिन के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "बेटा से"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस बरिस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलै"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना बर"
+    }
+  ],
+  "timestamp": "2026-10-14T15:08:59.823161143Z",
+  "model": "glm-5.3"
+}

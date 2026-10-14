@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "mag",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हइ",
+      "rationale": "इब्रानी में क्रिया नञ हकइ; मगही के बाक्य बर सहारा चाही"
+    },
+    {
+      "kind": "you",
+      "subject": "यिस्राएल के बेटासब",
+      "rationale": "मोशे के जरे यिस्राएल के परजा से सीधा सम्बोधन हकइ"
+    }
+  ],
+  "translation": "यिस्राएल (इस्राएल) के बेटासब से बतियावऽ आउ ओकनी से कहऽ: हम यहवे तोहनी के एलोहीम ⟨हइ⟩।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "e033b1d869d2c0b86a924c458f4b4706f0b848452cdaab8a8a978608f34903aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/18\/1-4.1791990030212.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बतियावऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटासब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल (इस्राएल)"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आउ कहऽ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ओकनी से"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    }
+  ],
+  "timestamp": "2026-10-14T15:00:30.213127582Z",
+  "model": "glm-5.3"
+}

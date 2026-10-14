@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 10:16",
+  "book": "1-samuel",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הגד הגיד",
+      "rationale": "अनंत-निश्चय (infinitive absolute) — क्रिया दू बेर, जोर देवे बर; 'साफ-साफ' में उतारल"
+    },
+    {
+      "kind": "substitution",
+      "subject": "हמלוכה",
+      "rationale": "'राज के बात' — मूल शब्द 'राज\/साम्राज्य के बात' के बोलचाल के ढंग"
+    }
+  ],
+  "translation": "आउ शाउल अपन चाचा के कहलन — साफ-साफ बतौलन हमनी के कि गधिनी मिल गेलन हलन; बाकि राज के बात ⟨את⟩ नञ बतौलन ओकरा, जे शमुएल कहलन हल।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "2bfb3eba07f6fcc62d93c2b998a9cac7c42dcf84224ce39a320ca10c4190a475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/10\/16-16.1792011710799.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ … कहलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "अपन चाचा"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "साफ-साफ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "बतौलन"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "मिल गेलन हलन"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "गधिनी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "राज के बात"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "राज के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "बतौलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन हल"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    }
+  ],
+  "timestamp": "2026-10-14T21:01:50.800111805Z",
+  "model": "glm-5.3"
+}

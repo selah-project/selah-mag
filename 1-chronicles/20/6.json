@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 20:6",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "अँगुरी के गिनती",
+      "rationale": "छह आउ छह, चउबीस — अँगुरी आउ गोड़ के अँगुरी के गिनती के गद्य।"
+    },
+    {
+      "kind": "crux",
+      "subject": "מדה",
+      "rationale": "इब्रानी खाली 'माप' कहऽ हइ; 'बड़का कद' पढ़निहार के अनुमान हकइ जे माप बड़ हलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "अँगुरी",
+      "rationale": "אצבעות अँगुरी आउ गोड़ के अँगुरी दुनो के ढकऽ हइ; इब्रानी खाली अँगुरी कहऽ हइ।"
+    }
+  ],
+  "translation": "आउ फिर गत में जुद्ध भेलइ, आउ ओखानी एक मनुस हलइ जेकर माप बड़ हलइ, आउ ओकर अँगुरी छह-छह, चउबीस, आउ ऊओ रापा के घराना में जन्मल हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c770582e49c80fa38409a831fff55de1081b0d05c5c41f12cd8872c94bf28740",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/20\/5-8.1792010340685.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "भेलइ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "जुद्ध"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "गत में"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आउ हलइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक मनुस"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "जेकर माप (बड़)"
+    },
+    {
+      "surface": "ואצבעתיו",
+      "gloss": "आउ ओकर अँगुरी"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आउ छह"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आउ चार"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आउ ... ओ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "जन्मल"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "रापा के घराना में"
+    }
+  ],
+  "timestamp": "2026-10-14T20:39:00.686309066Z",
+  "model": "glm-5.3"
+}

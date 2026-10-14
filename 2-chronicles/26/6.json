@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויפרץ",
+      "rationale": "break-through के जड़ — उत्पत्ति-कथा आउ दाविद (1 इतिहास 14:11) के पेरेत्स-शब्द के संग बजत हइ; मगही में ई गूँज नञ आवऽ हइ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ערים",
+      "rationale": "KJV 'cities about' बनाम JPS 'in the country of' — ב खाली 'में' हकइ; ठीक बिन्दु खुलल हइ।"
+    }
+  ],
+  "translation": "आउ ऊ निकललन आउ पलिस्ती के संग लड़लन, आउ गत के दीवार ⟨את⟩ तोड़लन आउ ⟨את⟩ यब्नेह के दीवार आउ ⟨את⟩ असदोद के दीवार; आउ असदोद में आउ पलिस्ती में नगर बनइलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c9cca5fadd4e7dd769097ca874c667f0218981b2d8b4f5f61892b643ddb39198",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/26\/6-7.1792012231146.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकललन"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "लड़लन"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "पलिस्ती के संग"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "तोड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गत के दीवार"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गत"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "यब्नेह के दीवार"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "यब्नेह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "असदोद के दीवार"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "असदोद"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "बनइलन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "असदोद में"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "आउ पलिस्ती में"
+    }
+  ],
+  "timestamp": "2026-10-14T21:10:31.147001089Z",
+  "model": "glm-5.3"
+}

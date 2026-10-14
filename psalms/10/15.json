@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "तोड़ दे",
+      "rationale": "यहवे से आज्ञा-रूप प्रार्थना — पढ़निहारा क्रिया में खींचऽ हइ"
+    },
+    {
+      "kind": "crux",
+      "subject": "בל תמצא",
+      "rationale": "'तूँ नञ मिलबइ' या 'बुकानी नञ मिलतइ' — मूलपाठ दुनो के दुआर खोलऽ हइ"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רשעו\/ורע",
+      "rationale": "र-श-अ के दोहराव ओकरे आवाज में गूँजऽ हइ; मगही में एहन जोड़ नञ बन पावऽ हइ"
+    }
+  ],
+  "translation": "रसाई के भुजा तोड़ दे, आउ बुरा आदमी के पछान — ओकर बुकानी बिल्कुल नञ मिलतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/10\/13-16.1792004558080.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "तोड़ दे"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "भुजा"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "रसाई के"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "आउ बुरा आदमी के"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "पछान"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ओकर बुकानी"
+    },
+    {
+      "surface": "בל",
+      "gloss": "बिल्कुल"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "नञ मिलतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:02:38.081469678Z",
+  "model": "glm-5.3"
+}

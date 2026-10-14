@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "mag",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרך ×4",
+      "rationale": "'रस्ता' के चार-पाँती दोहराव — अगुर के गिनती के बनावट, मगही में संरक्षित।"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעלמה",
+      "rationale": "'जवान जनाना के संग' बनाम 'जवानी में' — इब्रानी 'बे' दुनो अरथ दे सकऽ हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "समुंदर के हिरदय",
+      "rationale": "לב 'हिरदय' के साक्षात रूप रखल गेल — 'बीच में' के चलनसार रूप के जगह।"
+    },
+    {
+      "kind": "mystery",
+      "subject": "रस्ता के सूची",
+      "rationale": "चारों रस्ता बिना निशान छोड़ल जाए वाला — पिछले पद के छिपल बात के उत्तर।"
+    }
+  ],
+  "translation": "अकास में गरुड़ के रस्ता, पत्थल पर साँप के रस्ता, समुंदर के हिरदय में जहाज के रस्ता, आउ जवान जनाना के संग मरद के रस्ता।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "226cb39cb7c912ee9135b26247b64812ddc76df494e0d60874da88ff3e176e27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/30\/17-20.1792007078679.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "गरुड़ के"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "अकास में"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "साँप के"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צור",
+      "gloss": "पत्थल"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "जहाज के"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "हिरदय में"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर के"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "आउ रस्ता"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "मरद के"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "जवान जनाना के संग"
+    }
+  ],
+  "timestamp": "2026-10-14T19:44:38.680671424Z",
+  "model": "glm-5.3"
+}

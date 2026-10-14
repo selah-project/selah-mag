@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 2:7",
+  "book": "micah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "रूआख छोट हो गेल",
+      "rationale": "הקצר רוח के इडिम — 'रूआख के लगाम छोट होना'; लिटरल रूआख-छोट रखलन"
+    },
+    {
+      "kind": "you",
+      "subject": "याकोव के घर",
+      "rationale": "पद यिस्राएल के घर के सीधे सम्बोधन करऽ हइ"
+    },
+    {
+      "kind": "addition",
+      "subject": "हे",
+      "rationale": "सम्बोधन बर करता-चिन्हा मगही में चाही"
+    }
+  ],
+  "translation": "की कहल जा हइ — हे याकोव (याकूब) के घर — की यहवे के रूआख छोट हो गेलइ हकइ? की ई ओकर काम हथिन? की हमर बात सीधे चलए वाला के भला नञ करऽ हथिन?",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "647b80723728cdd5af2dbf66ff73331d07ceffe88b1393f0179c442382098790",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/2\/5-8.1792003737496.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הֶאָמַר",
+      "gloss": "कहल जा हइ"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יַעֲקֹב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "הֶקְצַר",
+      "gloss": "छोट हो गेल"
+    },
+    {
+      "surface": "רוּחַ",
+      "gloss": "रूआख"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "की"
+    },
+    {
+      "surface": "אֵלֶּה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מַעֲלָלָיו",
+      "gloss": "ओकर काम"
+    },
+    {
+      "surface": "הֲלוֹא",
+      "gloss": "की नञ"
+    },
+    {
+      "surface": "דְּבָרַי",
+      "gloss": "हमर बात"
+    },
+    {
+      "surface": "יֵיטִיבוּ",
+      "gloss": "भला करऽ हथिन"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "הַיָּשָׁר",
+      "gloss": "सीधे"
+    },
+    {
+      "surface": "הוֹלֵךְ",
+      "gloss": "चलए वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T18:48:57.497410221Z",
+  "model": "glm-5.3"
+}

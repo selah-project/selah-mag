@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "mag",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באר היטב",
+      "rationale": "'engrave\/explain well' — 'very plainly' (KJV), 'well engraved' (YLT), or 'distinctly' (BSB)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "באר",
+      "rationale": "The verb באר 'to explain\/engrave distinctly' is rare, appearing elsewhere only in Deut 1:5 and Hab 2:2."
+    }
+  ],
+  "translation": "आउ तूँ ⟨आगे⟩ पत्थल पर एहे तोरा के सब बात ⟨את⟩ बड़ साफ लिखबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "a726ccf7e5c1c3038c01f39bb36aeb21a5be93f8eec6609eb2c047837b2946d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/27\/5-8.1791992741853.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "आउ तूँ लिखबइ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "पत्थल पर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब बात"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "एहे तोरा के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एहे"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बड़ साफ लिखबइ"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "बड़ साफ"
+    }
+  ],
+  "timestamp": "2026-10-14T15:45:41.854434233Z",
+  "model": "glm-5.3"
+}

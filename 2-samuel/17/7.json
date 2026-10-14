@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हऽ हे",
+      "rationale": "इब्रानी क्रिया-हीन वाक्य; मगही के क्रिया चाही"
+    }
+  ],
+  "translation": "आउ हूशै अबशालोम के कहलन: “अखितोफेल जे सलाह एही बेरा देलन हे, ऊ नीक नञ हऽ हे।”",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7562bbb4611d39fecddb8d8d2605f2e40edf7bef9b0a16b42966aec4b40f11e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/17\/5-8.1791996293143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "हूशै"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "सलाह देलन"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "अखितोफेल"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "एही बेरा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-10-14T16:44:53.144067661Z",
+  "model": "glm-5.3"
+}

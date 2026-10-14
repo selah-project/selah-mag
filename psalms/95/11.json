@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם יבאון",
+      "rationale": "शपथ-चाल: इब्रानी 'अ' के संग कसम के परति नकारात्मक अरथ होवऽ हइ — 'अइतइ' कहल बाकी अरथ 'नञ अइतइ'।"
+    },
+    {
+      "kind": "addition",
+      "subject": "नञ अइतइ के नञ",
+      "rationale": "कसम के इब्रानी चाल में नकारात्मक शपथ में 'लो' सीधे नञ पार नञ होवऽ हइ।"
+    },
+    {
+      "kind": "mystery",
+      "subject": "हमरा आराम",
+      "rationale": "'मनूहा' — आराम के जगह के खुलल संकेत, ओकर अरथ बाँझल रहलइ हे।"
+    }
+  ],
+  "translation": "जेकरा बर हम ⟨अपना⟩ गुस्सा में सौगन खइलियन कि ऊ लोग हमरा आराम में नञ अइतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "31ad06238abde40becff53422bc1a7a4603b320c8617d2636113f0bd59aad6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/95\/9-11.1792005691530.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा बर"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "सौगन खइलियन"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "गुस्सा में"
+    },
+    {
+      "surface": "אם",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "अइतइ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "हमरा आराम"
+    }
+  ],
+  "timestamp": "2026-10-14T19:21:31.530858385Z",
+  "model": "glm-5.3"
+}

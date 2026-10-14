@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "mag",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויך",
+      "rationale": "शाब्दिक अर्थ 'मारेगा' — जड़ें फैलाएगा; मगही में 'फैलतइ' चित्र।"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שושנה",
+      "rationale": "शोशन्ना — सफेद फूल, होशे 14 में उपमा का केंद्र।"
+    }
+  ],
+  "translation": "हम यिस्राएल (इस्राएल) बर ओस नइ होबइ; ऊ कुमुदिनी नइ फूलतइ आउ ओकर जड़ी लबानोन (लेबनान) नइ फैलतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/hosea\/14\/5-8.1792003333655.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "होबइ"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "ओस नइ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "यिस्राएल (इस्राएल) बर"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "फूलतइ"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "कुमुदिनी नइ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "फैलतइ"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "ओकर जड़ी"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "लबानोन (लेबनान) नइ"
+    }
+  ],
+  "timestamp": "2026-10-14T18:42:13.656362985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 6:9",
+  "book": "song-of-songs",
+  "lang": "mag",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "एकलौती",
+      "rationale": "इब्रानी 'एक' कहऽ हइ; पाठ के साफ बुझावे बर 'एकलौती' कोस्ठक में जोड़ल गेल"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחת היא … אחת हיא",
+      "rationale": "'एक हथिन… एक हथिन' के बार-बार बोल — आरम्भ-लय, मगही में ओहे दोहराव से पार होल"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ברה",
+      "rationale": "बर (चुनल\/निर्मल) इहे रूप तनाख़ में कने आउ 6:10 में अछि — दूनो जगह एके जड़"
+    }
+  ],
+  "translation": "एक हथिन — हमर कबूतर, हमर निर्दोस; एक हथिन, ओकर माय के ⟨एकलौती⟩; चुनल हथिन, ओकरा जनैय वाली के ⟨एकलौती⟩। बेटी सब ओकरा देखलन आउ ओकरा धन्य बतलालन — रानी सब आउ रखेलिन सब — आउ ओकरा महिमा देलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/6\/9-12.1792007965007.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "היא",
+      "gloss": "हथिन"
+    },
+    {
+      "surface": "יונתי",
+      "gloss": "हमर कबूतर"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "हमर निर्दोस"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "היא",
+      "gloss": "हथिन"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "ओकर माय के"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "चुनल"
+    },
+    {
+      "surface": "היא",
+      "gloss": "हथिन"
+    },
+    {
+      "surface": "ליולדתה",
+      "gloss": "ओकरा जनैय वाली के"
+    },
+    {
+      "surface": "ראוה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटी सब"
+    },
+    {
+      "surface": "ויאשרוה",
+      "gloss": "आउ धन्य बतलालन"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "रानी सब"
+    },
+    {
+      "surface": "ופילגשים",
+      "gloss": "आउ रखेलिन सब"
+    },
+    {
+      "surface": "ויהללוה",
+      "gloss": "आउ महिमा देलन"
+    }
+  ],
+  "timestamp": "2026-10-14T19:59:25.007673206Z",
+  "model": "glm-5.3"
+}

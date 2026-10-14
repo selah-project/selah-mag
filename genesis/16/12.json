@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 16:12",
+  "book": "genesis",
+  "lang": "mag",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "जंगली गधा-सन आदमी",
+      "rationale": "פרא אדם: 'जंगली गधा जइसन आदमी' (गोल-सन, अनगढ़ बिना-बसल), बनाम 'जंगली\/उग्र आदमी' — संस्करण सभे बाँटल हइ; जानवर के मूरति रखल गेल।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "के ऊपर",
+      "rationale": "בכल\/בו शाब्दिक 'के भीतर\/में' — टकराव के अरथ में 'के ऊपर\/विरुद्ध' लिहल गेल।"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "यद\/בכל",
+      "rationale": "हाथ सब पर — सब के हाथ: टिक-टाक के उलट-फेर ढाँचा, शाब्दिक रखल गेल।"
+    }
+  ],
+  "translation": "आउ ऊ जंगली गधा-सन आदमी होतइ — ओकर हाथ सब के ऊपर, आउ सब के हाथ ओकर ऊपर; आउ ऊ अपन सब भायन के मुँह के सामने डेरा डेरतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d697c83e17a8a50085f6be7eebdddbe18419fc96e1e975979a913746ab4c4ca9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/16\/9-12.1791986653639.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "आउ ऊ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होतइ"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "जंगली गधा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब के ऊपर"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "आउ … हाथ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब के"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आउ … के सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह के सामने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "अपन भायन"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "डेरा डेरतइ"
+    }
+  ],
+  "timestamp": "2026-10-14T14:04:13.641000226Z",
+  "model": "glm-5.3"
+}

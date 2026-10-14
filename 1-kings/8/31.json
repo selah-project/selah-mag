@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 8:31",
+  "book": "1-kings",
+  "lang": "mag",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונשא",
+      "rationale": "शाब्दिक “उठाल जा हइ” (शपथ ओकरा पर रखल जातइ) — अनुवादक लोग “शपथ देल जातइ” बनाम “शपथ के बोझ उठावे के पड़तइ” में बाँटल हथिन"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨जब⟩",
+      "rationale": "हिब्रू शर्त-वाक्य सीधे शुरू होऽ हइ; मगही के बनावट बर जोड़-सब्द"
+    }
+  ],
+  "translation": "⟨जब⟩ ⟨את⟩ ऊ बात कि कोनो मनुस अपन संगी के बिरुद्ध पाप करतइ आउ ओकरा शपथ बुलावे बर ओकरा पर शपथ रखल जा हइ, आउ शपथ तोहर बेदी के आगे एही घर में अइऽ हइ —",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "cd4d2495d4b011263d5b5833a3b65d098031ca30d26d55eeab3eace11fd81f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/8\/29-32.1791997105899.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊ बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "पाप करतइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोनो मनुस"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "अपन संगी के बिरुद्ध"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "आउ रखल जा हइ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "शपथ"
+    },
+    {
+      "surface": "להאלתו",
+      "gloss": "ओकरा शपथ बुलावे बर"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "आउ अइऽ हइ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "शपथ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "तोहर बेदी"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    }
+  ],
+  "timestamp": "2026-10-14T16:58:25.900770058Z",
+  "model": "glm-5.3"
+}

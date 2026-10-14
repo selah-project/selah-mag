@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 29:36",
+  "book": "exodus",
+  "lang": "mag",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חטאת \/ וחטאת",
+      "rationale": "एके जड़ के दोहराव — पाप-बलि आउ पाप दूर करना; मगही में 'पाप' के दोहराव से ओकर अंश के जियावल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כפר",
+      "rationale": "शब्दशः 'ढकना' — पाप के ढकावे के चित्र; 'माफ करना' अरथ-परति हकइ।"
+    },
+    {
+      "kind": "measurement",
+      "subject": "हर दिन",
+      "rationale": "दैनिक बलि के नियम — समय के गिनती।"
+    }
+  ],
+  "translation": "आउ हर दिन एक बैल के पाप-बलि बनबउ — पाप माफ करऽ बर; बेदी के पाप दूर करबउ, माफ करऽ के समय ओकरा ⟨את⟩, आउ ओकरा अभिसेक करबउ ओकरा पवित्तर करऽ बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/29\/33-36.1791989007612.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופר",
+      "gloss": "आउ एक बैल"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप-बलि"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तूँ बनबउ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "हर दिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "पाप माफ करऽ बर"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "आउ पाप दूर करबउ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "בכפרך",
+      "gloss": "तूँ माफ करऽ के समय"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा (के ऊपर)"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "आउ तूँ अभिसेक करबउ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (बेदी के)"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ओकरा पवित्तर करऽ बर"
+    }
+  ],
+  "timestamp": "2026-10-14T14:43:27.613803860Z",
+  "model": "glm-5.3"
+}

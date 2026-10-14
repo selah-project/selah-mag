@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "haggai 1:13",
+  "book": "haggai",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מלאך \/ במלאכות",
+      "rationale": "एके जड़ — दूत आउ सन्देस — एके जोड़ी, मगही में टूट जा हइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "मलאכות",
+      "rationale": "Hebrew 'in the mission\/message of YHWH' — 'यहवे के सन्देस में' मनमाफिक अरथ बहुवचन के एकवचन कइल गेल।"
+    },
+    {
+      "kind": "you",
+      "subject": "लोग के",
+      "rationale": "बाक्य लोग के सीधे सम्बोधन हकइ: हम तोहनी संग हइ।"
+    }
+  ],
+  "translation": "आउ खग्गई, यहवे के दूत, यहवे के सन्देस में लोग के कहलन जे: हम ⟨את⟩ तोहनी संग हइ — यहवे के बचन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "f7d2a36647e6b3028af37d92440534d8f3e1da097a9aab117d35efa9bfefbd58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/haggai\/1\/13-15.1792003970179.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ कहलन"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "खग्गई"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "במלאכות",
+      "gloss": "सन्देस में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "लोग के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तोहनी संग"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-10-14T18:52:50.180172220Z",
+  "model": "glm-5.3"
+}

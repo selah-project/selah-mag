@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "mag",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רחבת ׯדים",
+      "rationale": "'हाथ से चौड़ा' — इब्रानी मुहावरा फैलल-चौड़ा बर; ढाँचा जस के तस रखल गेल"
+    },
+    {
+      "kind": "addition",
+      "subject": "बाकि",
+      "gloss rationale": "हिब्रू वाव के विरोधात्मक अरथ मगही में 'बाकि' से साफ होवऽ हइ"
+    }
+  ],
+  "translation": "आउ नगर हाथ के हिसाब से चौड़ा आउ बड़ हलइ, बाकि लोग ओकर भीतर थोड़ हलथिन, आउ घर बनल नञ हलइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "d1c812ef748e4f6ec6eb821ebb5fd7a43f19267fd17ad1657fe24f34eb546e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/7\/1-4.1792009621922.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "आउ नगर"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "चौड़ा"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हाथ के हिसाब से"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "आउ बड़"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "बाकि लोग"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोड़"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ओकर भीतर"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आउ नञ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "घर"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "बनल"
+    }
+  ],
+  "timestamp": "2026-10-14T20:27:01.924011588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "mag",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "हकइ",
+      "rationale": "इब्रानी में क्रिया-सबंधी सब्द नञ हकइ; बाक्य पूरा करे बर जोड़ल गेलाहु।"
+    },
+    {
+      "kind": "crux",
+      "subject": "עליון",
+      "rationale": "नाम-उपाधि: सबले ऊँच वाला बनाम एल एल्योन के जोड़ल रूप।"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ज़बूर के सुरुआत",
+      "rationale": "परमेसर के धन्यबाद करे के आह्वान — पढ़निहार के गावे बर बोलावऽ हकइ।"
+    }
+  ],
+  "translation": "यहवे के धन्यबाद देना अच्छा ⟨हकइ⟩, आउ तोहर नाम के गावना, हे सबले ऊँच वाला।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/92\/1-4.1792005747506.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "धन्यबाद देना"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "आउ गावना"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "तोहर नाम के"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "सबले ऊँच वाला"
+    }
+  ],
+  "timestamp": "2026-10-14T19:22:27.507378234Z",
+  "model": "glm-5.3"
+}

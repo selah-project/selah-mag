@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "obadiah 1:21",
+  "book": "obadiah",
+  "lang": "mag",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מושעים",
+      "rationale": "'मुकतियार' (बचइयार\/मुक्त करइ वाला) — कइसन मुकतियार, ई संदेह में हइ; कुछ पढ़निहार एकरा मोशे-नियाव वाला जानऽ हइ।"
+    },
+    {
+      "kind": "elision",
+      "subject": "ועלו",
+      "rationale": "करता 'ओ' (ऊ लोग) हिन्दी-मगही में किरिया के रूप में आ गेलइ (-तन), अलग सर्बनाम नञ।"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "पद राज-सत्ता के घोसना कइ के पढ़निहार के पूरा पुस्तक के नियाव के सुनावऽ हइ।"
+    }
+  ],
+  "translation": "आउ मुकतियार चढ़तन जियोन के पहाड़ पर, ⟨את⟩ एसव के पहाड़ के नियाव करे बर, आउ राज-सत्ता यहवे के होतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "b295621b542ba1e56faee8a97993939a2201961f8685e4a6f5f824b62bb74a75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/obadiah\/1\/21-21.1792003520957.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלו",
+      "gloss": "आउ चढ़तन"
+    },
+    {
+      "surface": "מושעים",
+      "gloss": "मुकतियार"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ पर"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "जियोन के"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "नियाव करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एसव के पहाड़"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसव के"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "आउ होतइ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "राज-सत्ता"
+    }
+  ],
+  "timestamp": "2026-10-14T18:45:20.958444308Z",
+  "model": "glm-5.3"
+}

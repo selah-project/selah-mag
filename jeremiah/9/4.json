@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 9:4",
+  "book": "jeremiah",
+  "lang": "mag",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "העוה",
+      "rationale": "शाब्दिक अरथ ”टेढ़ करना” — बिगाड़ करे में लिखल गेलइ, सीधा-सपाट ”अपराध” नञ।"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יהתלו",
+      "rationale": "हातल: मजाक उड़ाना या ठगना — ”ठाठ मारऽ” लिखल गेलइ, ”धोखा देवऽ” दूसरा पढ़ाई हकइ।"
+    }
+  ],
+  "translation": "आउ हर एक अपन संगी के ठाठ मारऽ हकइ, आउ सच नञ बोलथिन; अपन जीभ के झूठ बोलऽ सिखा लेनथिन — बिगाड़ करे में ओकनी थक गेलन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "5135c34095ebc6d5b4692f2f10a15aa294dc1553b64f2ce9acfa24415b3281c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/9\/1-4.1792000425614.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आउ हर एक"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "अपन संगी के"
+    },
+    {
+      "surface": "יהתלו",
+      "gloss": "ठाठ मारऽ हकइ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "आउ सच"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नञ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "बोलथिन"
+    },
+    {
+      "surface": "למדו",
+      "gloss": "सिखा लेनथिन"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "अपन जीभ के"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलऽ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "העוה",
+      "gloss": "बिगाड़ करे में"
+    },
+    {
+      "surface": "נלאו",
+      "gloss": "ओकनी थक गेलन"
+    }
+  ],
+  "timestamp": "2026-10-14T17:53:45.615507565Z",
+  "model": "glm-5.3"
+}

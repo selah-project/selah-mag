@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "mag",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "कारीगर",
+      "rationale": "חרשים के अरथ बिबादित — कारीगर (धातु-गढ़निहार, सिंग काटै वाला), या 'बड़ी ताकत वाला आदमी' (अरमी रूबर्टा से ले के)।"
+    }
+  ],
+  "translation": "आउ यहवे हमरा चारि कारीगर देखालन।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "87127273f0aad37dc18402250ecd967bed47e5bb104bb664187d7f6f2bfe4e81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/2\/1-4.1792004163143.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "हमरा देखालन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चारि"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "कारीगर"
+    }
+  ],
+  "timestamp": "2026-10-14T18:56:03.144425945Z",
+  "model": "glm-5.3"
+}

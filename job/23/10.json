@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "mag",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "जाँच आउ सोना",
+      "rationale": "धातु जइसन आग में जाँच के इब्रानी चित्र — सोना खरा निकलऽ हइ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עמדי",
+      "rationale": "'हमर संग वाला डहर' — कइथो 'मोराय' पढ़के 'हमरा सिखावल डहर' ले"
+    }
+  ],
+  "translation": "काहे कि ऊ हमर डहर जानथिन; जब ऊ हमरा जाँच लेतथिन, त हम सोना जइसन बाहर निकलबइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "1894cbef8c907fbc36d2784b3699e49f7f89e9937576da47c77de7713b79aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/job\/23\/9-12.1792007524052.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानथिन"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "डहर"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "हमर (संग वाला)"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "हमरा जाँच लेतथिन"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "सोना जइसन"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "बाहर निकलबइ"
+    }
+  ],
+  "timestamp": "2026-10-14T19:52:04.053609962Z",
+  "model": "glm-5.3"
+}

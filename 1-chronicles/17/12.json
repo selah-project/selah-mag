@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "mag",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בית",
+      "rationale": "पद 10 के घर-उलटी पूरी होथे: दाविद के बेटा यहवे बर घर बनातइ, यहवे दाविद के घर (राज) थिर करतइ।"
+    },
+    {
+      "kind": "you",
+      "subject": "दाविद",
+      "rationale": "भबिसबाणी के निरन्तरता — यहवे दाविद से बोलत बकत हकइ।"
+    }
+  ],
+  "translation": "ऊ हमर बर घर बनातइ, आउ हम ओकर गद्दी के ⟨את⟩ हमेसा ले थिर करतइ।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "c38e68cae1293cc5cde40c214ebcc71b69d926a17a32f6dcbf8cf55fc953d0b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/17\/9-12.1792010323223.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "बनातइ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर बर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "आउ हम थिर करतइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर गद्दी"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ओकर गद्दी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "עוײלם",
+      "gloss": "हमेसा"
+    }
+  ],
+  "timestamp": "2026-10-14T20:38:43.224257730Z",
+  "model": "glm-5.3"
+}

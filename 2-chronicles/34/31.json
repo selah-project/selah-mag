@@ -1,0 +1,158 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-chronicles 34:31",
+  "book": "2-chronicles",
+  "lang": "mag",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "वाचा काटलन",
+      "rationale": "हिब्रू כרת ברית — वाचा काटे के मुहावरा — मगही में जड़ के तस्वीर राखल गेलइ।"
+    },
+    {
+      "kind": "substitution",
+      "subject": "परान",
+      "rationale": "नफश = परान \/ साँस-प्राण, आत्मा नञ।"
+    },
+    {
+      "kind": "crux",
+      "subject": "अपन ठाढ़ल जगह",
+      "rationale": "עמדו — राजा के खम्भा (2 इतिहास 23:13) बनाम 'अपन जगह'; ठाढ़ल जगह लिहल गेलइ।"
+    }
+  ],
+  "translation": "आउ राजा अपन ठाढ़ल जगह पर ठाढ़ भेलन, आउ यहवे के आगे ⟨את⟩ वाचा काटलन — यहवे के पाछे चले बर आउ अपन सब दिल आउ अपन सब परान से ओकर आज्ञा आउ ओकर गवाही आउ ओकर विधि के रखवारी करे बर, आउ ए किताब पर लिखल वाचा के बात ⟨את⟩ पालन करे बर।",
+  "provenance": {
+    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
+    "user-sha256": "4d6ab55362a6e23b1a809d9c1e8acfb35025debf80f756bebaf95404164e232a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/34\/29-32.1792011479221.json",
+    "code": "9525a035d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ठाढ़ भेलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "अपन ठाढ़ल जगह"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "आउ काटलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वाचा"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "वाचा"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "चले बर"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ולשמור",
+      "gloss": "आउ रखवारी करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आज्ञा"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ओकर आज्ञा"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "आउ ओकर गवाही"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "आउ ओकर विधि"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "में सब"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "अपन दिल"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "आउ ... सब"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "अपन परान"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे बर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बात"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "वाचा के"
+    },
+    {
+      "surface": "הכתובים",
+      "gloss": "लिखल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "किताब"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    }
+  ],
+  "timestamp": "2026-10-14T20:57:59.222951695Z",
+  "model": "glm-5.3"
+}
