@@ -5,45 +5,24 @@
   "book": "1-samuel",
   "lang": "mag",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "फिर से",
-      "rationale": "इब्रानी में 'फिर' नञ हकइ; दोसर भेजनी संग जोड़ल गेल"
-    },
-    {
-      "kind": "you",
-      "subject": "दूत के आदेस",
-      "rationale": "शाउल के बचन दूत के सीधे आदेस हकइ"
-    }
-  ],
-  "translation": "आउ शाउल फिर से ⟨את⟩ दूत भेजलन ⟨אत⟩ दाविओद के देखे बर, कहित: ओकरा खाट में ले आवऽ हमरा लगे, ओकरा मारे बर।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/19\/13-16.1791995391843.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ शाऊल फेर सन्देसिया के पठौलन ⟨आत⟩ दाविद के देखे बर, कहऽ के — ओकरा बिछिया के संग हमरा ले चढ़ावऽ कि ओकरा मार डाली।",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "भेजलन"
+      "gloss": "पठौलन"
     },
     {
       "surface": "שאול",
-      "gloss": "शाउल"
+      "gloss": "शाऊल"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "दूत"
+      "marks": "सन्देसिया"
     },
     {
       "surface": "המלאכים",
-      "gloss": "दूत"
+      "gloss": "सन्देसिया"
     },
     {
       "surface": "לראות",
@@ -52,38 +31,38 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "दाविओद"
+      "marks": "दाविद"
     },
     {
       "surface": "דוד",
-      "gloss": "दाविओद"
+      "gloss": "दाविद"
     },
     {
       "surface": "לאמר",
-      "gloss": "कहित"
+      "gloss": "कहऽ के"
     },
     {
       "surface": "העלו",
-      "gloss": "ले आवऽ"
+      "gloss": "चढ़ावऽ"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ओकरा खाट में"
+      "marks": "ओकरा बिछिया के संग"
     },
     {
       "surface": "במטה",
-      "gloss": "खाट में"
+      "gloss": "बिछिया के संग"
     },
     {
       "surface": "אלי",
-      "gloss": "हमरा लगे"
+      "gloss": "हमरा ले"
     },
     {
       "surface": "להמתו",
-      "gloss": "ओकरा मारे बर"
+      "gloss": "ओकरा मार डाले बर"
     }
   ],
-  "timestamp": "2026-10-14T16:29:51.844284679Z",
+  "timestamp": "2026-10-15T11:41:29.053114592Z",
   "model": "glm-5.3"
 }

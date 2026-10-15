@@ -5,31 +5,15 @@
   "book": "numbers",
   "lang": "mag",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "हल",
-      "rationale": "मगही भूतकाल स्पस्ट करे लगी 'हल' जोड़ल; इब्रानी क्रिया रूपेए काल बतावऽ हइ"
-    }
-  ],
-  "translation": "आउ यिस्राएल के बेटा सब एहने कइलन; ओनी ओनखन के डेरा के बाहिर पठअलन, जइसने यहवे मोशे से कहलन हल, तइसने यिस्राएल के बेटा सब कइलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "8d19404fce15ea6a1645e5d2b0ea82eab1d68ba94b1f3f3e650dd85be2092961",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/5\/1-4.1791990774658.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ यिस्राएल के बेटा सब एहनेच कइलन, आउ ⟨את⟩ ओकनी के डेरा से बाहिरे भेज देलन; जइसने यहवे मोशे (मूसा) के कहलन, तइसने यिस्राएल के बेटा सब कइलन।",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "आउ कइलन"
+      "gloss": "कइलन"
     },
     {
       "surface": "כן",
-      "gloss": "एहने"
+      "gloss": "एहनेच"
     },
     {
       "surface": "בני",
@@ -37,28 +21,28 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "यिस्राएल के"
+      "gloss": "यिस्राएल"
     },
     {
       "surface": "וישלחו",
-      "gloss": "ओनी पठअलन"
+      "gloss": "भेज देलन"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ओनखन के"
+      "marks": "ओकनी के (भेजल गेल लोग)"
     },
     {
       "surface": "אל",
-      "gloss": "के"
+      "gloss": "तक"
     },
     {
       "surface": "מחוץ",
-      "gloss": "बाहिर"
+      "gloss": "बाहिरे"
     },
     {
       "surface": "למחנה",
-      "gloss": "डेरा के"
+      "gloss": "डेरा"
     },
     {
       "surface": "כאשר",
@@ -66,7 +50,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "कहलन हल"
+      "gloss": "कहलन"
     },
     {
       "surface": "יהוה",
@@ -74,7 +58,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "से"
+      "gloss": "के ओर"
     },
     {
       "surface": "משה",
@@ -94,9 +78,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "यिस्राएल के"
+      "gloss": "यिस्राएल"
     }
   ],
-  "timestamp": "2026-10-14T15:12:54.659994661Z",
+  "timestamp": "2026-10-15T12:55:17.714300275Z",
   "model": "glm-5.3"
 }

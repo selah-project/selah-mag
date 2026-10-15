@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "mag",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "धरती",
-      "rationale": "ינחלנה के प्रत्यय -נה ('ओकरा') धरती के बतावऽ हइ जे पाछे के पद में छिपल हइ।"
-    },
-    {
-      "kind": "invitation",
-      "subject": "हिम्मत देअ",
-      "rationale": "मोशे (आउ ओकरे जरे लोग) के सोझे सीधा आज्ञा।"
-    }
-  ],
-  "translation": "यहोशुआ, नून के बेटा, जे तोहरा सामने ठाढ़ हए, ऊहे ओहाँ जइतन; ओकरा हिम्मत देअ, काहे कि ऊहे यिस्राएल के ⟨את⟩ ⟨ओ⟩ धरती बिरासत में देतन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "5ec63513b929aed0e2a2943707b534b72172f738d9b31a4de4b8bd3f85eebce6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/1\/37-40.1791991925115.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "यहोसुआ नून के बेटा, जे तोहरा सामने ठाढ़ हकइ, ऊ ओइ जातइ; ओकरा हियाव दे, काहे कि ऊ ⟨את⟩ यिस्राएल (इस्राएल) के ओकर बिरसत दियातइ।",
   "tokens": [
     {
       "surface": "יהושע",
-      "gloss": "यहोशुआ"
+      "gloss": "यहोसुआ"
     },
     {
       "surface": "בן",
-      "gloss": "बेटा"
+      "gloss": "के बेटा"
     },
     {
       "surface": "נון",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "העמד",
-      "gloss": "ठाढ़ हए"
+      "gloss": "ठाढ़ हकइ"
     },
     {
       "surface": "לפניך",
@@ -50,24 +29,24 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ऊहे"
+      "gloss": "ऊ"
     },
     {
       "surface": "יבא",
-      "gloss": "जइतन"
+      "gloss": "जातइ"
     },
     {
       "surface": "שמה",
-      "gloss": "ओहाँ"
+      "gloss": "ओइ"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ओकरा"
+      "marks": "हियाव दे (ओकरा)"
     },
     {
       "surface": "חזק",
-      "gloss": "हिम्मत देअ"
+      "gloss": "हियाव दे"
     },
     {
       "surface": "כי",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ऊहे"
+      "gloss": "ऊ"
     },
     {
       "surface": "ינחלנה",
-      "gloss": "बिरासत में देतन"
+      "gloss": "बिरसत दियातइ"
     },
     {
       "surface": "את",
@@ -91,6 +70,6 @@
       "gloss": "यिस्राएल"
     }
   ],
-  "timestamp": "2026-10-14T15:32:05.115734762Z",
+  "timestamp": "2026-10-15T11:56:37.852945946Z",
   "model": "glm-5.3"
 }

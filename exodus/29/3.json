@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "mag",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אותם \/ אתם",
-      "rationale": "दू बेर केवल सीधा-कर्म चिन्हा; ओकर चिन्हा ⟨את⟩ के रूप में देखावल गेलइ।"
-    },
-    {
-      "kind": "measurement",
-      "subject": "एक टोकरी, दू मेढ़ा",
-      "rationale": "सामान के संख्या गिनावल गेलइ।"
-    }
-  ],
-  "translation": "आउ तूँ ⟨את⟩ ओकनी के एक टोकरी में रखबे, आउ टोकरी में ⟨अउर⟩ ओकनी के नजदीक लाबे, आउ ⟨את⟩ ओ बैल आउ ⟨את⟩ ओ दू मेढ़ा के।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "b72086f378f6bfea2d439e8ace40f32038603e4eb8e802f284d4e26b42a706af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/29\/1-4.1791989082785.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ तूँ ओकनी के एक टोकरी में रखबइ, आउ टोकरी में ओकनी के ⟨את⟩ नजदीक ले आबइ, आउ ⟨את⟩ बैल आउ ⟨את⟩ दू भेड़-मेढ़ा के बी।",
   "tokens": [
     {
       "surface": "ונתת",
-      "gloss": "आउ तूँ रखबे"
+      "gloss": "आउ तूँ रखबइ"
     },
     {
       "surface": "אותם",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "סל",
-      "gloss": "एक टोकरी"
+      "gloss": "टोकरी"
     },
     {
       "surface": "אחד",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "והקרבת",
-      "gloss": "आउ नजदीक लाबे"
+      "gloss": "आउ नजदीक ले आबइ"
     },
     {
       "surface": "אתם",
@@ -64,17 +43,17 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ओ बैल"
+      "gloss": "आउ ⟨את⟩",
+      "marks": "बैल"
     },
     {
       "surface": "הפר",
-      "gloss": "ओ बैल"
+      "gloss": "बैल"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ओ दू मेढ़ा"
+      "gloss": "आउ ⟨את⟩",
+      "marks": "दू भेड़-मेढ़ा"
     },
     {
       "surface": "שני",
@@ -82,9 +61,9 @@
     },
     {
       "surface": "האילם",
-      "gloss": "ओ मेढ़ा"
+      "gloss": "भेड़-मेढ़ा"
     }
   ],
-  "timestamp": "2026-10-14T14:44:42.786560260Z",
+  "timestamp": "2026-10-15T12:06:21.025990217Z",
   "model": "glm-5.3"
 }

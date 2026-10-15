@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "mag",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "1365",
-      "rationale": "जेठ के छुड़ावे के चानी के गिनती — पाँच आउ साठ आउ तीन सौ आउ हजार शेकेल"
-    },
-    {
-      "kind": "addition",
-      "subject": "हाथ के",
-      "rationale": "हिब्रू ‘लेलन’ के पूरा बाक्य बनाबे बर कर्म-संकेत जोड़ल गेल"
-    }
-  ],
-  "translation": "यिस्राएल के बेटान के जेठ से लेलन ⟨את⟩ ⟨हाथ के⟩ चानी — पाँच आउ साठ आउ तीन सौ आउ हजार, पवित्तर शेकेल में।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "eb4a102b2ff5adce76a5147be0262aabb9346578e3ad8b592b57124e3db6c1f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/3\/49-51.1791990583705.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "यिस्राएल (इस्राएल) के बेटन के पहिला-जनमल ⟨लोगन⟩ ⟨את⟩ से ऊ ⟨את⟩ चानी लेलन — पाँच आउ साठ आउ तीन सौ आउ एक हजार शेकेल, पवित्तर के शेकेल में।",
   "tokens": [
     {
       "surface": "מאת",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "בכור",
-      "gloss": "जेठ"
+      "gloss": "पहिला-जनमल"
     },
     {
       "surface": "בני",
-      "gloss": "बेटान"
+      "gloss": "बेटन के"
     },
     {
       "surface": "ישראל",
-      "gloss": "यिस्राएल के"
+      "gloss": "यिस्राएल"
     },
     {
       "surface": "לקח",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "ואלף",
-      "gloss": "आउ हजार"
+      "gloss": "आउ एक हजार"
     },
     {
       "surface": "בשקל",
@@ -86,6 +65,6 @@
       "gloss": "पवित्तर"
     }
   ],
-  "timestamp": "2026-10-14T15:09:43.706314718Z",
+  "timestamp": "2026-10-15T12:53:16.967844531Z",
   "model": "glm-5.3"
 }

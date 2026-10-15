@@ -5,40 +5,19 @@
   "book": "jeremiah",
   "lang": "mag",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ऊ",
-      "rationale": "किरिया के करता इब्रानी में नञ हकइ; परति-संकेत बर जोड़ल"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שממה",
-      "rationale": "शम-ममह जड़ ओही पद में आउ अगला पद में बार-बार लौटऽ हइ; मगही में 'उजाड़' के दोहराव"
-    }
-  ],
-  "translation": "चरवाहा ढेर सब हमर बगइचा बिगाड़लन, ⟨את⟩ हमर हिस्सा रौंदलन; हमर प्यार के हिस्सा के ऊ बनइलन उजाड़ बनजार।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "fadc8a37f5367e061ca048067ce2472b91ff4eb46860decd16b019f2ce24038a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/12\/10-11.1792011882388.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ढेर गवाली लोग हमर बगइचा बरबाद कइलन, ⟨את⟩ हमर हिस्सा के रौड़ देलन; ⟨את⟩ हमर मन-लुभावल हिस्सा के बनइलन उजाड़ बनल जंगल।",
   "tokens": [
     {
       "surface": "רעים",
-      "gloss": "चरवाहा"
+      "gloss": "गवाली लोग"
     },
     {
       "surface": "רבים",
-      "gloss": "ढेर सब"
+      "gloss": "ढेर"
     },
     {
       "surface": "שחתו",
-      "gloss": "बिगाड़लन"
+      "gloss": "बरबाद कइलन"
     },
     {
       "surface": "כרמי",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "בססו",
-      "gloss": "रौंदलन"
+      "gloss": "रौड़ देलन"
     },
     {
       "surface": "את",
@@ -64,7 +43,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "प्यार के हिस्सा"
+      "marks": "मन-लुभावल हिस्सा"
     },
     {
       "surface": "חלקת",
@@ -72,17 +51,17 @@
     },
     {
       "surface": "חמדתי",
-      "gloss": "हमर प्यार"
+      "gloss": "मन-लुभावल"
     },
     {
       "surface": "למדבר",
-      "gloss": "बनजार"
+      "gloss": "जंगल"
     },
     {
       "surface": "שממה",
-      "gloss": "उजाड़"
+      "gloss": "उजाड़ बनल"
     }
   ],
-  "timestamp": "2026-10-14T21:04:42.389431108Z",
+  "timestamp": "2026-10-15T12:27:48.589333491Z",
   "model": "glm-5.3"
 }

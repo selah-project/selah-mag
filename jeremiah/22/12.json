@@ -5,23 +5,7 @@
   "book": "jeremiah",
   "lang": "mag",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "देस-निकाला",
-      "rationale": "Hebrew הגלו is 'uncovered\/exiled' — Magahi compound 'देस-निकाला' (sent out of the land) carries the exile sense."
-    }
-  ],
-  "translation": "काहे कि जे जगह में ओकनी ओकरा देस-निकाला कएलन, ओहाँ ऊ मरतइ, आउ ⟨את⟩ ई धरती के ऊ फेर नञ देखतइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "68e313fa423846f545e34bf1cd0b4e2cc22250a1989a922465a63d0384f1e1cc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/22\/9-12.1792000671785.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "काहे कि जेह जगह पर ओकरा बन्धी बनाइके ले गेलन, ओहीं ऊ मरतइ, आउ ⟨את⟩ ए धरती के ऊ फेर नञ देखतइ।",
   "tokens": [
     {
       "surface": "כי",
@@ -29,33 +13,33 @@
     },
     {
       "surface": "במקום",
-      "gloss": "जे जगह में"
+      "gloss": "जेह जगह पर"
     },
     {
       "surface": "אשר",
-      "gloss": "जे"
+      "gloss": "जेह"
     },
     {
       "surface": "הגלו",
-      "gloss": "देस-निकाला कएलन"
+      "gloss": "बन्धी बनाइके ले गेलन"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ओकरा (शल्लूम)"
+      "marks": "ओकरा"
     },
     {
       "surface": "שם",
-      "gloss": "ओहाँ"
+      "gloss": "ओहीं"
     },
     {
       "surface": "ימות",
-      "gloss": "मरतइ"
+      "gloss": "ऊ मरतइ"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "धरती"
+      "gloss": "आउ ⟨את⟩",
+      "marks": "ए धरती के"
     },
     {
       "surface": "הארץ",
@@ -63,7 +47,7 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "ई"
+      "gloss": "ए"
     },
     {
       "surface": "לא",
@@ -78,6 +62,6 @@
       "gloss": "फेर"
     }
   ],
-  "timestamp": "2026-10-14T17:57:51.786652856Z",
+  "timestamp": "2026-10-15T12:28:44.352536492Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "proverbs",
   "lang": "mag",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "गोअल",
-      "rationale": "גואל के अरथ कुनबा के सगा-भाई-छोड़ावइ देवइ वाला; 'गोअल' लिप्यन्तरन रखल गेलइ, 'छुड़ावइ देवइ वाला' कम पूरा अरथ देतइ"
-    },
-    {
-      "kind": "addition",
-      "subject": "हकइ",
-      "rationale": "इब्रानी में क्रिया नञ हकइ; वाक्य नामवाचक हकइ"
-    }
-  ],
-  "translation": "काहे कि ओकर गोअल सबल हकइ — ऊ ह — ओकर मुकदमा तोहर संग ⟨את⟩ लड़तइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "163f80a11410ec688886cc1d187c62b1cc5b53f47fd0af5a1f0e9c49520cf34f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/23\/9-12.1792006899156.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "काहे कि ओकनी के गोअल जोरदार हथिन; ऊ ⟨את⟩ तोहरा संग ओकनी के रिबाइ रिबातइ।",
   "tokens": [
     {
       "surface": "כי",
@@ -34,34 +13,34 @@
     },
     {
       "surface": "גאלם",
-      "gloss": "ओकर गोअल"
+      "gloss": "गोअल"
     },
     {
       "surface": "חזק",
-      "gloss": "सबल"
+      "gloss": "जोरदार"
     },
     {
       "surface": "הוא",
-      "gloss": "ऊ ह"
+      "gloss": "ऊ"
     },
     {
       "surface": "יריב",
-      "gloss": "मुकदमा लड़तइ"
+      "gloss": "रिबाइ रिबातइ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ओकर मुकदमा"
+      "marks": "ओकनी के रिबाइ (रिबाम)"
     },
     {
       "surface": "ריבם",
-      "gloss": "ओकर मुकदमा"
+      "gloss": "ओकनी के रिबाइ"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ तोहर संग"
+      "gloss": "⟨את⟩ तोहरा संग"
     }
   ],
-  "timestamp": "2026-10-14T19:41:39.157377631Z",
+  "timestamp": "2026-10-15T12:56:05.400785145Z",
   "model": "glm-5.3"
 }

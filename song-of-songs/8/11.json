@@ -5,28 +5,7 @@
   "book": "song-of-songs",
   "lang": "mag",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "हजार चानी",
-      "rationale": "फल के भाड़ा गिनल-गानल हकइ"
-    },
-    {
-      "kind": "elision",
-      "subject": "המון",
-      "rationale": "בבעल המון जगह के नाम एक मानल, दूसर टोकन खाली"
-    }
-  ],
-  "translation": "बा-हामोन में शलोमोह के एक बगइचा हलइ; ऊ ⟨את⟩ बगइचा रखवारियन के देलन; हर एक ओकर फल में हजार चानी लावै",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/8\/9-12.1792008062610.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "शलोमोह के एक बगइचा हलइ बाल-हामोन में; ऊ ⟨את⟩ ओ बगइचा रखवारिया के देलन; हर एक ओकर फल में से हजार चानी आवऽ हइ।",
   "tokens": [
     {
       "surface": "כרם",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "בבעל",
-      "gloss": "बा-हामोन में"
+      "gloss": "बाल-हामोन में"
     },
     {
       "surface": "המון",
-      "gloss": ""
+      "gloss": "बाल-हामोन"
     },
     {
       "surface": "נתן",
@@ -55,15 +34,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "बगइचा"
+      "marks": "ओ बगइचा"
     },
     {
       "surface": "הכרם",
-      "gloss": "बगइचा"
+      "gloss": "ओ बगइचा"
     },
     {
       "surface": "לנטרים",
-      "gloss": "रखवारियन के"
+      "gloss": "रखवारिया के"
     },
     {
       "surface": "איש",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "יבא",
-      "gloss": "लावै"
+      "gloss": "आवऽ हइ"
     },
     {
       "surface": "בפריו",
-      "gloss": "ओकर फल में"
+      "gloss": "ओकर फल में से"
     },
     {
       "surface": "אלף",
@@ -86,6 +65,6 @@
       "gloss": "चानी"
     }
   ],
-  "timestamp": "2026-10-14T20:01:02.611023339Z",
+  "timestamp": "2026-10-15T12:58:41.981579978Z",
   "model": "glm-5.3"
 }

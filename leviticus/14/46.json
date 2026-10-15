@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "mag",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "את + ओ-प्रत्यय — घर के करम-चिन्हा; ⟨את⟩ रूप में देखावल गेलइ, 'ओकरा' क्रिया-रूप में घुलल हइ"
-    }
-  ],
-  "translation": "आउ जे ऊ घर में आवऽ हइ — ओकरा बन्न राखल जाए के सब दिन — ऊ साँझ ले अशुद्ध होतइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "226193c91355b95727e1298c6773228d58e7c30fcd8c1c43e6fcb895f3372090",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/14\/45-48.1791989943923.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ जे ओकरा बन्द रखे के सब दिन घर के भीतर अवै हइ, ऊ ⟨את⟩ ओकरा ले अशुद्ध होतइ साँझ ले।",
   "tokens": [
     {
       "surface": "והבא",
-      "gloss": "आउ जे आवऽ हइ"
+      "gloss": "आउ जे अवै हइ"
     },
     {
       "surface": "אל",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "घर में"
+      "gloss": "घर"
     },
     {
       "surface": "כל",
@@ -45,12 +29,12 @@
     },
     {
       "surface": "הסגיר",
-      "gloss": "बन्न राखल जाए के"
+      "gloss": "ओकरा बन्द रखे के"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ओकरा (घर)"
+      "marks": "ओकरा (बन्द कइल घर के)"
     },
     {
       "surface": "יטמא",
@@ -65,6 +49,6 @@
       "gloss": "साँझ"
     }
   ],
-  "timestamp": "2026-10-14T14:59:03.924371567Z",
+  "timestamp": "2026-10-15T12:44:36.159051550Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "mag",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ובכלי",
-      "rationale": "את of בכלי omitted in rendering; instrument-marked phrase carried by 'औजारे'"
-    },
-    {
-      "kind": "crux",
-      "subject": "ויזבחהו",
-      "rationale": "זבח can read 'slaughtered' or 'sacrificed'; rendered 'बलि कइलक' keeping the cultic shape"
-    }
-  ],
-  "translation": "ऊ ओकरा ले पाछे घुरलक आउ ⟨את⟩ बैल के जुआगाड़ी लेलक आउ ओकरा बलि कइलक, आउ बैल के औजारे ⟨आउ⟩ मांस पकैलन, आउ लोग के देलक, आउ ओकनी खइलन; तब ऊ उठलक आउ एलियाहू के पाछे गेलक आउ ओकर सेवा कइलक।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "5076565023418a7989232226fbb04f6024484b4fb81ebf6772c0f9504bc5aaea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/19\/21-21.1791997455474.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ऊ ओकरा पाछे से फेरलक, ⟨את⟩ बैल के जोड़ी लेलक आउ ओकरा बलि देलक, आउ बैल के औजार से ओकर मांस पकावलक, लोग के देलक आउ ओखनी खइलन; तब ऊ उठलक आउ एलियाहू के पाछे गेलक आउ ओकर सेवा करलक।",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "घुरलक"
+      "gloss": "फेरलक"
     },
     {
       "surface": "מאחריו",
-      "gloss": "ओकरा ले पाछे"
+      "gloss": "ओकरा पाछे से"
     },
     {
       "surface": "ויקח",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "बैल के जुआगाड़ी"
+      "marks": "बैल के जोड़ी"
     },
     {
       "surface": "צמד",
-      "gloss": "जुआगाड़ी"
+      "gloss": "जोड़ी"
     },
     {
       "surface": "הבקר",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "ויזבחהו",
-      "gloss": "ओकरा बलि कइलक"
+      "gloss": "ओकरा बलि देलक"
     },
     {
       "surface": "ובכלי",
-      "gloss": "और…औजारे"
+      "gloss": "आउ औजार से"
     },
     {
       "surface": "הבקר",
@@ -67,11 +46,11 @@
     },
     {
       "surface": "בשלם",
-      "gloss": "पकैलन"
+      "gloss": "पकावलक"
     },
     {
       "surface": "הבשר",
-      "gloss": "मांस"
+      "gloss": "ओकर मांस"
     },
     {
       "surface": "ויתן",
@@ -99,13 +78,13 @@
     },
     {
       "surface": "אליהו",
-      "gloss": "एलियाहू"
+      "gloss": "एलियाहू के"
     },
     {
       "surface": "וישרתהו",
-      "gloss": "ओकर सेवा कइलक"
+      "gloss": "ओकर सेवा करलक"
     }
   ],
-  "timestamp": "2026-10-14T17:04:15.475340458Z",
+  "timestamp": "2026-10-15T11:39:02.763288286Z",
   "model": "glm-5.3"
 }

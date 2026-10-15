@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "mag",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "आपन",
-      "rationale": "हिब्रू में 'ओकर आपन हाथ' खातिर कोनो बलावल सर्बनाम नञ हकइ"
-    }
-  ],
-  "translation": "आउ ऊ ⟨आपन⟩ हाथ ⟨את⟩ ओकर मूड़ी पर रखतइ आउ ओकरा ओहेल मोएद के आगे मारतइ, आउ अहरोन के बेटा ⟨את⟩ ओकर खून बेदी पर चारो दने छिड़कतन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "3703fb957efdab0483655ee3856dae97ba262d1c85c4a1ccd530835e415a7472",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/3\/13-16.1791989472505.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ऊ ⟨את⟩ अपन हाथ ओकर मूड़ी पर रखतइ आउ ओकरा मिलन के तम्बू के आगे मारतइ, आउ अहरोन के बेटा ⟨את⟩ ओकर खून बेदी पर चारो दने छिटकतन।",
   "tokens": [
     {
       "surface": "וסמך",
@@ -30,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "आपन हाथ"
+      "marks": "अपन हाथ"
     },
     {
       "surface": "ידו",
-      "gloss": "हाथ"
+      "gloss": "अपन हाथ"
     },
     {
       "surface": "על",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "मूड़ी"
+      "gloss": "ओकर मूड़ी"
     },
     {
       "surface": "ושחט",
@@ -55,19 +39,19 @@
     },
     {
       "surface": "לפני",
-      "gloss": "आगे"
+      "gloss": "के आगे"
     },
     {
       "surface": "אהל",
-      "gloss": "ओहेल"
+      "gloss": "तम्बू"
     },
     {
       "surface": "מועד",
-      "gloss": "मोएद"
+      "gloss": "मिलन"
     },
     {
       "surface": "וזרקו",
-      "gloss": "छिड़कतन"
+      "gloss": "छिटकतन"
     },
     {
       "surface": "בני",
@@ -84,7 +68,7 @@
     },
     {
       "surface": "דמו",
-      "gloss": "खून"
+      "gloss": "ओकर खून"
     },
     {
       "surface": "על",
@@ -99,6 +83,6 @@
       "gloss": "चारो दने"
     }
   ],
-  "timestamp": "2026-10-14T14:51:12.506637576Z",
+  "timestamp": "2026-10-15T12:47:25.403935711Z",
   "model": "glm-5.3"
 }

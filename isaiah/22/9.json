@@ -5,32 +5,16 @@
   "book": "isaiah",
   "lang": "mag",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "दरार के देखल",
-      "rationale": "नगर के दरार के गिनती-भरि निरीक्षण — मरम्मत के जाँच।"
-    }
-  ],
-  "translation": "आउ ⟨את⟩ दाविद के नगर के दरार के तोहनी देखलहु, काहे कि ओकरा ढेर भेलइ; आउ तोहनी नीचका तालाब के पानी जुटइलहु।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "a8df3a0bd92b14c5d595ea3309762a66406f5ac26837093517551adb04537708",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/22\/9-12.1791998923210.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ⟨את⟩ दाविद के नगर के दीवार के दरार तोहनी देखलऽ कि ढेर बढ़लन, आउ तोहनी ⟨את⟩ नीचला कुण्ड के पानी जुटइलऽ।",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "दरार"
+      "marks": "दीवार के दरार"
     },
     {
       "surface": "בקיעי",
-      "gloss": "दरार"
+      "gloss": "दीवार के दरार"
     },
     {
       "surface": "עיר",
@@ -42,19 +26,19 @@
     },
     {
       "surface": "ראיתם",
-      "gloss": "देखलहु"
+      "gloss": "देखलऽ"
     },
     {
       "surface": "כי",
-      "gloss": "काहे कि"
+      "gloss": "कि"
     },
     {
       "surface": "רבו",
-      "gloss": "ढेर भेलइ"
+      "gloss": "बढ़लन"
     },
     {
       "surface": "ותקבצו",
-      "gloss": "जुटइलहु"
+      "gloss": "जुटइलऽ"
     },
     {
       "surface": "את",
@@ -67,13 +51,13 @@
     },
     {
       "surface": "הברכה",
-      "gloss": "तालाब"
+      "gloss": "कुण्ड"
     },
     {
       "surface": "התחתונה",
-      "gloss": "नीचका"
+      "gloss": "नीचला"
     }
   ],
-  "timestamp": "2026-10-14T17:28:43.210838293Z",
+  "timestamp": "2026-10-15T12:23:03.842570725Z",
   "model": "glm-5.3"
 }

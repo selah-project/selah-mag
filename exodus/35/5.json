@@ -5,45 +5,20 @@
   "book": "exodus",
   "lang": "mag",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "इस्राएल के परजा",
-      "rationale": "बिधायक बचन — हमनी में से चढ़ावा लेबे के आग्रह"
-    },
-    {
-      "kind": "substitution",
-      "subject": "נדיב לבו",
-      "rationale": "शाब्दिक 'उदार-हिरदय वाला' के जगह 'जेकर हिरदय तैयार होवे' — स्वेच्छा के चाल बतावैल गेल"
-    },
-    {
-      "kind": "alternative",
-      "subject": "תרומה",
-      "rationale": "'ऊपर उठावल भेंट' (heave-offering) के जगह सादा 'चढ़ावा' लिहलन"
-    }
-  ],
-  "translation": "हमनी में से यहवे बर चढ़ावा लिअऽ — जेकर हिरदय तैयार होवे, ऊ ⟨את⟩ यहवे के चढ़ावा अनऽ हे: सोना आउ चानी आउ ताँबा।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "56e13a07e667b611c03bcbd8f747283177c78426151be497987b1d486d02bf7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/35\/5-8.1791989125165.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "तोहनी ⟨את⟩ में से यहवे बर भेंट ले लिअउ; जे कोनो तैयार हिरदय के होवे, ऊ अइझावे ⟨את⟩ यहवे के भेंट — सोना, चानी आउ ताम्हा।",
   "tokens": [
     {
       "surface": "קחו",
-      "gloss": "लिअऽ"
+      "gloss": "ले लिअउ"
     },
     {
       "surface": "מאתכם",
-      "gloss": "हमनी में से ⟨את⟩"
+      "gloss": "तोहनी ⟨את⟩ में से",
+      "marks": "तोहनी में से"
     },
     {
       "surface": "תרומה",
-      "gloss": "चढ़ावा"
+      "gloss": "भेंट"
     },
     {
       "surface": "ליהוה",
@@ -51,28 +26,28 @@
     },
     {
       "surface": "כל",
-      "gloss": "हर"
+      "gloss": "जे कोनो"
     },
     {
       "surface": "נדיב",
-      "gloss": "तैयार-हिरदय वाला"
+      "gloss": "तैयार"
     },
     {
       "surface": "לבו",
-      "gloss": "ओकर हिरदय"
+      "gloss": "हिरदय के"
     },
     {
       "surface": "יביאה",
-      "gloss": "अनऽ हे"
+      "gloss": "अइझावे"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "यहवे के चढ़ावा"
+      "marks": "यहवे के भेंट"
     },
     {
       "surface": "תרומת",
-      "gloss": "चढ़ावा"
+      "gloss": "भेंट"
     },
     {
       "surface": "יהוה",
@@ -88,9 +63,9 @@
     },
     {
       "surface": "ונחשת",
-      "gloss": "आउ ताँबा"
+      "gloss": "आउ ताम्हा"
     }
   ],
-  "timestamp": "2026-10-14T14:45:25.165989100Z",
+  "timestamp": "2026-10-15T12:06:34.133225780Z",
   "model": "glm-5.3"
 }

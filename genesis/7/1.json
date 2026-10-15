@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "mag",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Noah",
-      "rationale": "यहवे नोवा के सीधे सम्बोधन करऽ हइ"
-    },
-    {
-      "kind": "invitation",
-      "subject": "जा",
-      "rationale": "आज्ञा-रूप के बोलावनी — जहाज में जाए के हुकुम"
-    },
-    {
-      "kind": "substitution",
-      "subject": "जहाज",
-      "rationale": "תבה के सही अरथ 'सन्दूक\/डिब्बा' हकइ, जहाज नञ"
-    }
-  ],
-  "translation": "यहवे नोवा के कहलन: तूँ आउ तोहर पूरा घर जहाज में जा; काहे कि ⟨आת⟩ तोहनी हम देखलिए त्सेदेक वाला, हमरा मुँह के सामने, एहि पीढ़ी में।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "7ed5a7f1b58598d87b2812527f8481b796bc652fa16983a9606156afd03a3b71",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/7\/1-4.1791986436525.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "यहवे नोअ के कहलन: “तूँ आउ तोहर पूरा घर नाव में भीतर जा, काहे कि एही दौर में हम ⟨את⟩ तोहरा अपना मुँह के आगे धरमी देखलिये हऽ।”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "לנח",
-      "gloss": "नोवा के"
+      "gloss": "नोअ के"
     },
     {
       "surface": "בא",
-      "gloss": "जा"
+      "gloss": "भीतर जा"
     },
     {
       "surface": "אתה",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "התבה",
-      "gloss": "जहाज"
+      "gloss": "नाव"
     },
     {
       "surface": "כי",
@@ -76,29 +50,29 @@
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "तोहनी (देखल के वस्तु)"
+      "marks": "तोहरा"
     },
     {
       "surface": "ראיתי",
-      "gloss": "देखलिए"
+      "gloss": "देखलिये हऽ"
     },
     {
       "surface": "צדיק",
-      "gloss": "त्सेदेक वाला"
+      "gloss": "धरमी"
     },
     {
       "surface": "לפני",
-      "gloss": "मुँह के सामने"
+      "gloss": "अपना मुँह के आगे"
     },
     {
       "surface": "בדור",
-      "gloss": "पीढ़ी में"
+      "gloss": "एही दौर में"
     },
     {
       "surface": "הזה",
-      "gloss": "एहि"
+      "gloss": "एही"
     }
   ],
-  "timestamp": "2026-10-14T14:00:36.526227675Z",
+  "timestamp": "2026-10-15T12:22:18.794635581Z",
   "model": "glm-5.3"
 }

@@ -5,53 +5,32 @@
   "book": "numbers",
   "lang": "mag",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פי יהוה",
-      "rationale": "साक्षात 'यहवे के मुँह के मोताबिक' — इब्रानी मुहावरा 'यहवे के बचन के मोताबिक' के अरथ में।"
-    },
-    {
-      "kind": "measurement",
-      "subject": "गिनलन",
-      "rationale": "गिनती के आज्ञा के पालन — पिछला पद के आज्ञा पूरा भेलन।"
-    }
-  ],
-  "translation": "आउ मोशे (मूसा) यहवे के मुँह ⟨के मोताबिक⟩ ओकनी के गिनलन, जइसने आज्ञा भेलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "85dd3c746009793a061aa1c43851e077650f1735c992a698cb687c767e121685",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/3\/13-16.1791990613702.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ मोशे ओकनी के गिनलन, यहवे के मुँह के बतावऽ हकइ संग, जइसने आज्ञा देल गेलै रहै ⟨ओकरा⟩।",
   "tokens": [
     {
       "surface": "ויפקד",
-      "gloss": "गिनलन"
+      "gloss": "आउ गिनलन"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ओकनी के"
+      "marks": "ओकनी (लेवी के बेटा सब)"
     },
     {
       "surface": "משה",
-      "gloss": "मोशे (मूसा)"
+      "gloss": "मोशे"
     },
     {
       "surface": "על",
-      "gloss": "⟨के मोताबिक⟩"
+      "gloss": "संग"
     },
     {
       "surface": "פי",
-      "gloss": "मुँह"
+      "gloss": "मुँह के बतावऽ हकइ"
     },
     {
       "surface": "יהוה",
-      "gloss": "यहवे के"
+      "gloss": "यहवे"
     },
     {
       "surface": "כאשר",
@@ -59,9 +38,9 @@
     },
     {
       "surface": "צוה",
-      "gloss": "आज्ञा भेलन"
+      "gloss": "आज्ञा देल गेलै रहै"
     }
   ],
-  "timestamp": "2026-10-14T15:10:13.703701474Z",
+  "timestamp": "2026-10-15T12:53:24.994667049Z",
   "model": "glm-5.3"
 }

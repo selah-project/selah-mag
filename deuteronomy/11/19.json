@@ -5,71 +5,45 @@
   "book": "deuteronomy",
   "lang": "mag",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨के⟩",
-      "rationale": "इब्रानी के अनंत-रूप (infinitive) के मगही में जोड़ने के जुड़ाव-शब्द चाही"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "बैठल-जाल-लेटल-उठल",
-      "rationale": "चार अनंत-रूप के ताल-बंद कड़ी — दिन के पूरा घेरा; मगही के -ल रूप एकर लय रखऽ हइ"
-    },
-    {
-      "kind": "invitation",
-      "subject": "imperative",
-      "rationale": "सिखावऽ — आज्ञा-रूप में परिवार के केंद्र-काम"
-    }
-  ],
-  "translation": "आउ तोहनी ओकरा आपन बेटा सब के सिखावऽ ⟨के⟩ ओकरा बोलल जा — जब तूँ आपन घर में बैठऽ हउ, जब रस्ता में जाऽ हउ, जब लेटऽ हउ आउ जब उठऽ हउ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "bf9d61cdcc33eb40cbcedb8fcff71a0bfb4b7a78d261f4da31f7e3eb3c487429",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/11\/17-20.1791992260462.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ तोहनी ओकरा ⟨את⟩ अपना ⟨את⟩ बेटा सब के सिखाबऽ हिअइ — ओकरा सब के बोलै में रख के — जब तूँ अपना घर में बैठऽ होऽ, आउ जब रस्ता में जा रहलइ होऽ, आउ जब लेटऽ होऽ आउ जब उठऽ होऽ।",
   "tokens": [
     {
       "surface": "ולמדתם",
-      "gloss": "सिखावऽ"
+      "gloss": "सिखाबऽ हिअइ"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "ई बात सब"
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (पिछला पद के ई बात सब)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "बेटा सब"
+      "marks": "अपना बेटा सब"
     },
     {
       "surface": "בניכם",
-      "gloss": "बेटा सब"
+      "gloss": "अपना बेटा सब"
     },
     {
       "surface": "לדבר",
-      "gloss": "बोलल जा"
+      "gloss": "बोलै बर"
     },
     {
       "surface": "בם",
-      "gloss": "ओकरा"
+      "gloss": "ओकरा सब में"
     },
     {
       "surface": "בשבתך",
-      "gloss": "बैठल में"
+      "gloss": "जब तूँ बैठऽ होऽ"
     },
     {
       "surface": "בביתך",
-      "gloss": "घर में"
+      "gloss": "अपना घर में"
     },
     {
       "surface": "ובלכתך",
-      "gloss": "जाल में"
+      "gloss": "आउ जब तूँ जा रहलइ होऽ"
     },
     {
       "surface": "בדרך",
@@ -77,13 +51,13 @@
     },
     {
       "surface": "ובשכבך",
-      "gloss": "लेटल में"
+      "gloss": "आउ जब तूँ लेटऽ होऽ"
     },
     {
       "surface": "ובקומך",
-      "gloss": "उठल में"
+      "gloss": "आउ जब तूँ उठऽ होऽ"
     }
   ],
-  "timestamp": "2026-10-14T15:37:40.463508543Z",
+  "timestamp": "2026-10-15T11:57:22.510735618Z",
   "model": "glm-5.3"
 }

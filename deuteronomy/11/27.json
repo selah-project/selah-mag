@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "mag",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Hebrew relative carries conditional force ('which [comes] if ye obey'); rendered 'जब…तब' condition."
-    },
-    {
-      "kind": "addition",
-      "subject": "मानब",
-      "rationale": "שמע 'hear' implies obey; मानब supplied to carry the obedience sense, keeping सुनके literal."
-    }
-  ],
-  "translation": "⟨את⟩ असीस — जब तोहनी यहवे तोहनी के एलोहीम के हुकुम सब के सुनके मानब, जेकरा हम आज तोहनी के हुकुम देत हइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "a580d3b918aab859bea1fbb8c5d74578c1f424889aa8aa38792c920dfdb8e3e4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/11\/25-28.1791992203842.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ असीस — जँ तोहनी यहवे अपन एलोहीम के आज्ञा के ओर कान धरऽ हिअऽ, जेकरा हम आज ⟨आत⟩ तोहनी के आज्ञा देते हिअऽ।",
   "tokens": [
     {
       "surface": "את",
@@ -39,19 +18,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "जब"
+      "gloss": "जँ"
     },
     {
       "surface": "תשמעו",
-      "gloss": "सुनके मानब"
+      "gloss": "कान धरऽ हिअऽ"
     },
     {
       "surface": "אל",
-      "gloss": "⟨के⟩"
+      "gloss": "के ओर"
     },
     {
       "surface": "מצות",
-      "gloss": "हुकुम सब"
+      "gloss": "आज्ञा"
     },
     {
       "surface": "יהוה",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "तोहनी के एलोहीम"
+      "gloss": "अपन एलोहीम"
     },
     {
       "surface": "אשר",
@@ -71,18 +50,18 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "हुकुम देत हइ"
+      "gloss": "आज्ञा देते हिअऽ"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "तोहनी के"
+      "gloss": "⟨את⟩ तोहनी",
+      "marks": "तोहनी"
     },
     {
       "surface": "היום",
       "gloss": "आज"
     }
   ],
-  "timestamp": "2026-10-14T15:36:43.843118048Z",
+  "timestamp": "2026-10-15T11:57:31.349111987Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "mag",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "देवता सब",
-      "rationale": "אלהים אחרים 'other Elohim' rendered by the class-word दोसर देवता सब, per the D1 rule for foreign gods."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אחרי\/אחרים",
-      "rationale": "Hebrew repeats the root אחר — 'turn after… other gods'; the echo of 'hind\/other' is lost in magahi as पाछे\/दोसर."
-    }
-  ],
-  "translation": "आउ सराप — जब तोहनी यहवे तोहनी के एलोहीम के हुकुम सब के नञ सुनब, आउ ओहि रस्ते से भटक जाब जेकरा हम आज तोहनी के हुकुम देत हइ — दोसर देवता सब के पाछे जए के, जिनका तोहनी नञ जानथन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "a580d3b918aab859bea1fbb8c5d74578c1f424889aa8aa38792c920dfdb8e3e4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/11\/25-28.1791992203842.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ सराप, अगर तोहनी यहवे अपना एलोहीम के आज्ञा सब के नञ सुनथिन, आउ ओ रस्ता से भटक जाथिन जेकरा हम आइ दिन ⟨את⟩ तोहनी के चलावऽ हइ — दोसर देवता सब के पाछे चले बर, जिनका तोहनी नञ जानथिन।",
   "tokens": [
     {
       "surface": "והקללה",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "जब…तब (नञ)"
+      "gloss": "अगर"
     },
     {
       "surface": "לא",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "תשמעו",
-      "gloss": "सुनब"
+      "gloss": "सुनथिन"
     },
     {
       "surface": "אל",
-      "gloss": "⟨के⟩"
+      "gloss": "के"
     },
     {
       "surface": "מצות",
-      "gloss": "हुकुम सब"
+      "gloss": "आज्ञा सब"
     },
     {
       "surface": "יהוה",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "तोहनी के एलोहीम"
+      "gloss": "अपना एलोहीम"
     },
     {
       "surface": "וסרתם",
-      "gloss": "आउ भटक जाब"
+      "gloss": "आउ भटक जाथिन"
     },
     {
       "surface": "מן",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "הדרך",
-      "gloss": "ओहि रस्ते"
+      "gloss": "ओ रस्ता"
     },
     {
       "surface": "אשר",
@@ -82,24 +61,24 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "हुकुम देत हइ"
+      "gloss": "चलावऽ हइ"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ तोहनी",
       "marks": "तोहनी के"
     },
     {
       "surface": "היום",
-      "gloss": "आज"
+      "gloss": "आइ दिन"
     },
     {
       "surface": "ללכת",
-      "gloss": "जए के"
+      "gloss": "चले बर"
     },
     {
       "surface": "אחרי",
-      "gloss": "पाछे"
+      "gloss": "के पाछे"
     },
     {
       "surface": "אלהים",
@@ -119,9 +98,9 @@
     },
     {
       "surface": "ידעתם",
-      "gloss": "जानथन"
+      "gloss": "जानथिन"
     }
   ],
-  "timestamp": "2026-10-14T15:36:43.843321723Z",
+  "timestamp": "2026-10-15T11:57:33.583705385Z",
   "model": "glm-5.3"
 }

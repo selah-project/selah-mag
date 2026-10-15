@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "mag",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "हעולה",
-      "rationale": "शाब्दिक अरथ 'चढ़े वाला बलि' — सिर्जल बलि चलनसार रूप हकइ"
-    },
-    {
-      "kind": "you",
-      "subject": "असीस",
-      "rationale": "दाविद परजा के सीधे असीस देथिन — ई पद एकट्ठा परजा बर बरकरार हकइ"
-    }
-  ],
-  "translation": "आउ दाविद सिर्जल बलि आउ सांति-बलि चढ़ावे से पूरा कइलन, आउ यहवे त्सबאओत के नाम से ⟨את⟩ परजा के असीस देलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "349f71ed83430373543a4762af736efa6c93e10b0bc0779c774f0f4fb1275251",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/6\/18-19.1792011742531.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ दाविद (दाऊद) चढ़ावे बला बलि आउ सुलह के बलि पूरा कइलन बाद ⟨את⟩ लोग के यहवे त्सबाओत के नाम में असीस देलन।",
   "tokens": [
     {
       "surface": "ויכל",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "מהעלות",
-      "gloss": "चढ़ावे से"
+      "gloss": "चढ़ावे बलि"
     },
     {
       "surface": "העולה",
-      "gloss": "सिर्जल बलि"
+      "gloss": "बलि"
     },
     {
       "surface": "והשלמים",
-      "gloss": "आउ सांति-बलि"
+      "gloss": "सुलह के बलि"
     },
     {
       "surface": "ויברך",
@@ -55,15 +34,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "परजा"
+      "marks": "लोग के"
     },
     {
       "surface": "העם",
-      "gloss": "परजा"
+      "gloss": "लोग के"
     },
     {
       "surface": "בשם",
-      "gloss": "के नाम से"
+      "gloss": "के नाम में"
     },
     {
       "surface": "יהוה",
@@ -74,6 +53,6 @@
       "gloss": "त्सबाओत"
     }
   ],
-  "timestamp": "2026-10-14T21:02:22.531725664Z",
+  "timestamp": "2026-10-15T11:54:32.548605213Z",
   "model": "glm-5.3"
 }

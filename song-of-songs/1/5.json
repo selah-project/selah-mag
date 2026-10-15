@@ -5,66 +5,45 @@
   "book": "song-of-songs",
   "lang": "mag",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "शलोमोह",
-      "rationale": "שלמה के 'शलोमोह' नाम बनाम 'सलोमोन के' संगीत-परदे; नाम रखल गेल"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שחורה\/שחרחרת",
-      "rationale": "श्याम के जड़ के दोहराव (1:6 में गहिरावtal), मगही में जड़ के आवाज गायब"
-    }
-  ],
-  "translation": "श्याम हम हइ, आउ सुन्दर, हे यरूशलयिम के बेटी सब — केदार के तम्बू सब जइसन, शलोमोह के परदा सब जइसन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "ff01a4dd9d7ec2d7f1048913ac57122e870c2f44c8a5605eb99689e6cac96806",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/song-of-songs\/1\/5-8.1792008004209.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "कारिहूँ हम, आउ सुन्दर हमनी, हे यरूशलयिम (यरूशलेम) के बेटी सब — केदार के तम्बू सन, शलोमो के परदा सन।",
   "tokens": [
     {
-      "surface": "שחורה",
-      "gloss": "श्याम"
+      "surface": "שְׁחוֹרָ֤ה",
+      "gloss": "कारिहूँ"
     },
     {
-      "surface": "אני",
+      "surface": "אֲנִי֙",
       "gloss": "हम"
     },
     {
-      "surface": "ונאוה",
-      "gloss": "आउ सुन्दर"
+      "surface": "וְֽנָאוָ֔ה",
+      "gloss": "आउ सुन्दर हमनी"
     },
     {
-      "surface": "בנות",
+      "surface": "בְּנ֖וֹת",
       "gloss": "बेटी सब"
     },
     {
-      "surface": "ירושלם",
-      "gloss": "यरूशלयिम"
+      "surface": "יְרוּשָׁלִָ֑ם",
+      "gloss": "यरूशलयिम"
     },
     {
-      "surface": "כאהלי",
-      "gloss": "तम्बू सब जइसन"
+      "surface": "כְּאָהֳלֵ֣י",
+      "gloss": "के तम्बू सन"
     },
     {
-      "surface": "קדר",
-      "gloss": "केदार"
+      "surface": "קֵדָ֔ר",
+      "gloss": "केदार के"
     },
     {
-      "surface": "כיריעות",
-      "gloss": "परदा सब जइसन"
+      "surface": "כִּירִיע֖וֹת",
+      "gloss": "के परदा सन"
     },
     {
-      "surface": "שלמה",
-      "gloss": "शलोमोह"
+      "surface": "שְׁלֹמֹֽה",
+      "gloss": "शलोमो के"
     }
   ],
-  "timestamp": "2026-10-14T20:00:04.210450830Z",
+  "timestamp": "2026-10-15T12:58:44.938918458Z",
   "model": "glm-5.3"
 }

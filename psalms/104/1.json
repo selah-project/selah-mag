@@ -5,80 +5,54 @@
   "book": "psalms",
   "lang": "mag",
   "chapter": 104,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "हमर परान",
-      "rationale": "कबिता अपने परान के सोझाँ बोलावऽ हइ — आसीस देब बर आग्रह।"
-    },
-    {
-      "kind": "substitution",
-      "subject": "परान",
-      "rationale": "नפש साँस-जीवन-परान हकइ; मगही के 'परान' एकरा नजदीक हइ।"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יהוה יהוה",
-      "rationale": "नाम के दोहराव — बोलावऽ आउ सम्बोधन दुनों में; अनुवाद दुनों बेर यहवे रखऽ हइ।"
-    }
-  ],
-  "translation": "हमर परान, यहवे के ⟨आसीस⟩ दे; हे यहवे, हमर एलोहीम, तूँ बहुते बड़ हथिन; तूँ तेज आउ सोभा पहिरले हथिन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/104\/1-4.1792005843174.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "हमर परान यहवे के धन्नबाद दे। यहवे, हमर एलोहीम, तूँ बड़े महान हथिन; तूँ सोभा आउ ठाठ-बाट पहिरले हथिन।",
   "tokens": [
     {
-      "surface": "ברכי",
-      "gloss": "आसीस दे"
+      "surface": "בָּרֲכִ֥י",
+      "gloss": "धन्नबाद दे"
     },
     {
-      "surface": "נפשי",
+      "surface": "נַפְשִׁ֗י",
       "gloss": "हमर परान"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "यहवे"
+      "marks": "यहवे के"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְה֫וָ֥ה",
       "gloss": "यहवे"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָ֣ה",
       "gloss": "यहवे"
     },
     {
-      "surface": "אלהי",
+      "surface": "אֱ֭לֹהַי",
       "gloss": "हमर एलोहीम"
     },
     {
-      "surface": "גדלת",
-      "gloss": "बड़ हथिन"
+      "surface": "גָּדַ֣לְתָּ",
+      "gloss": "बड़े महान हथिन"
     },
     {
-      "surface": "מאד",
+      "surface": "מְּאֹ֑ד",
       "gloss": "बहुते"
     },
     {
-      "surface": "הוד",
-      "gloss": "तेज"
+      "surface": "ה֭וֹד",
+      "gloss": "सोभा"
     },
     {
-      "surface": "והדר",
-      "gloss": "आउ सोभा"
+      "surface": "וְהָדָ֣ר",
+      "gloss": "आउ ठाठ-बाट"
     },
     {
-      "surface": "לבשת",
+      "surface": "לָבָֽשְׁתָּ",
       "gloss": "पहिरले हथिन"
     }
   ],
-  "timestamp": "2026-10-14T19:24:03.175077209Z",
+  "timestamp": "2026-10-15T12:57:25.058909215Z",
   "model": "glm-5.3"
 }

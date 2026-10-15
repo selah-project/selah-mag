@@ -5,115 +5,94 @@
   "book": "deuteronomy",
   "lang": "mag",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "sixty cities",
-      "rationale": "count of captured cities, with the region of Argob measured out as a district"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לקחנו מאתם",
-      "rationale": "double לא negation — 'there was not a city we did not take' — rhetorical totality, kept literally"
-    }
-  ],
-  "translation": "आउ हमनी ओही बेरा ओकर सब नगर कब्जा लेलन; एक्को नगर एनो नञ रहलइ जे हमनी ओकनी के ⟨את⟩ लेलन होवे — साठ नगर, अरगोब के पूरा इलाका, बासान में ओग के राज।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "69a79efe92e46e0f95e78a4356372cfabbf4763e8e7010c8b65f8db7c00a88b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/3\/1-4.1791992022988.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ हमनी ओही बेरा ओकर सब नगर ⟨את⟩ कब्जा कइलियन — कोनो नगर नञ रहलइ जेकरा हमनी ओकनी से नञ लेलियन — साठ नगर, अर्गोब के पूरा इलाका, बाशान में ओग के राज।",
   "tokens": [
     {
-      "surface": "ונלכד",
-      "gloss": "कब्जा लेलन"
+      "surface": "וַנִּלְכֹּד",
+      "gloss": "आउ हमनी कब्जा कइलियन"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "ओकर सब नगर"
+      "marks": "सब नगर"
     },
     {
-      "surface": "כל",
+      "surface": "כָּל",
       "gloss": "सब"
     },
     {
-      "surface": "עריו",
+      "surface": "עָרָיו",
       "gloss": "ओकर नगर"
     },
     {
-      "surface": "בעת",
-      "gloss": "बेरा"
+      "surface": "בָּעֵת",
+      "gloss": "ओही बेरा"
     },
     {
-      "surface": "ההוא",
+      "surface": "הַהוּא",
       "gloss": "ओही"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "नञ"
     },
     {
-      "surface": "היתה",
+      "surface": "הָיְתָה",
       "gloss": "रहलइ"
     },
     {
-      "surface": "קריה",
+      "surface": "קִרְיָה",
       "gloss": "नगर"
     },
     {
-      "surface": "אשר",
-      "gloss": "जे"
+      "surface": "אֲשֶׁר",
+      "gloss": "जेकरा"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "नञ"
     },
     {
-      "surface": "לקחנו",
-      "gloss": "लेलन होवे"
+      "surface": "לָקַחְנוּ",
+      "gloss": "हमनी लेलियन"
     },
     {
-      "surface": "מאתם",
-      "gloss": "⟨את⟩ ओकनी के"
+      "surface": "מֵאִתָּם",
+      "gloss": "ओकनी से ⟨את⟩"
     },
     {
-      "surface": "ששים",
+      "surface": "שִׁשִּׁים",
       "gloss": "साठ"
     },
     {
-      "surface": "עיר",
+      "surface": "עִיר",
       "gloss": "नगर"
     },
     {
-      "surface": "כל",
+      "surface": "כָּל",
       "gloss": "पूरा"
     },
     {
-      "surface": "חבל",
+      "surface": "חֶבֶל",
       "gloss": "इलाका"
     },
     {
-      "surface": "ארגב",
-      "gloss": "अरगोब"
+      "surface": "אַרְגֹּב",
+      "gloss": "अर्गोब"
     },
     {
-      "surface": "ממלכת",
+      "surface": "מַמְלֶכֶת",
       "gloss": "राज"
     },
     {
-      "surface": "עוג",
+      "surface": "עוֹג",
       "gloss": "ओग"
     },
     {
-      "surface": "בבשן",
-      "gloss": "बासान में"
+      "surface": "בַּבָּשָׁן",
+      "gloss": "बाशान में"
     }
   ],
-  "timestamp": "2026-10-14T15:33:42.990143489Z",
+  "timestamp": "2026-10-15T12:00:29.363943724Z",
   "model": "glm-5.3"
 }

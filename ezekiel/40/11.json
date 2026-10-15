@@ -5,45 +5,24 @@
   "book": "ezekiel",
   "lang": "mag",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עשרה",
-      "rationale": "शब्द-संख्या 'तेरह' में शामिल हो गया; मगही के एक संख्या में घुल गया।"
-    },
-    {
-      "kind": "measurement",
-      "subject": "verse",
-      "rationale": "दुआरी के चउड़ाई दस हाथ, लमाई तेरह हाथ।"
-    }
-  ],
-  "translation": "आउ ऊ दुआरी के दुआरी-मुँह के चउड़ाई ⟨את⟩ नापलन — दस हाथ; आउ दुआरी के लमाई तेरह हाथ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/40\/9-12.1792002895610.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ऊ ⟨את⟩ दुआरी के मुँह के चौड़ाई नापलन — दस हाथ; आउ दुआरी के लम्बाई — तेरह हाथ।",
   "tokens": [
     {
       "surface": "וימד",
-      "gloss": "आउ ऊ नापलन"
+      "gloss": "नापलन"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "चउड़ाई"
+      "marks": "दुआरी के मुँह के चौड़ाई"
     },
     {
       "surface": "רחב",
-      "gloss": "चउड़ाई"
+      "gloss": "चौड़ाई"
     },
     {
       "surface": "פתח",
-      "gloss": "दुआरी-मुँह के"
+      "gloss": "मुँह"
     },
     {
       "surface": "השער",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "ארך",
-      "gloss": "लमाई"
+      "gloss": "लम्बाई"
     },
     {
       "surface": "השער",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "שלוש",
-      "gloss": "तेरह"
+      "gloss": "तेरह (तीन-दस)"
     },
     {
       "surface": "עשרה",
@@ -78,6 +57,6 @@
       "gloss": "हाथ"
     }
   ],
-  "timestamp": "2026-10-14T18:34:55.610945692Z",
+  "timestamp": "2026-10-15T12:15:29.780155189Z",
   "model": "glm-5.3"
 }

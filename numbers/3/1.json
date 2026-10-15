@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "mag",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "से",
-      "rationale": "इब्रानी ओकरा आगे ⟨את⟩ के जरे सीधे करम देखावऽ हइ; मगही के बनावट 'से' माँगऽ हइ।"
-    },
-    {
-      "kind": "measurement",
-      "subject": "תולדת",
-      "rationale": "वंसावली के सूची आरम्भ भेल हइ — परिवार के नाम गिनल जातइ।"
-    }
-  ],
-  "translation": "आउ ई अहरोन (हारून) आउ मोशे (मूसा) के वंसावली हलइ, ओ दिन जब यहवे सीनाय पहाड़ पर मोशे से बात कइलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "b057f9d76185fe46654cff1b73d4a321140324addc8a04cf0bb39e10e821d27c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/3\/1-4.1791990651147.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ई अहरोन (हारून) आउ मोशे (मूसा) के बंस-कथा हकइ, जे दिन यहवे सीनाय पहाड़ पर मोशे से बात कहलन।",
   "tokens": [
     {
       "surface": "ואלה",
@@ -34,23 +13,23 @@
     },
     {
       "surface": "תולדת",
-      "gloss": "वंसावली"
+      "gloss": "बंस-कथा"
     },
     {
       "surface": "אהרן",
-      "gloss": "अहरोन"
+      "gloss": "अहरोन (हारून)"
     },
     {
       "surface": "ומשה",
-      "gloss": "आउ मोशे"
+      "gloss": "आउ मोशे (मूसा)"
     },
     {
       "surface": "ביום",
-      "gloss": "ओ दिन"
+      "gloss": "जे दिन"
     },
     {
       "surface": "דבר",
-      "gloss": "बात कइलन"
+      "gloss": "बात कहलन"
     },
     {
       "surface": "יהוה",
@@ -74,6 +53,6 @@
       "gloss": "सीनाय"
     }
   ],
-  "timestamp": "2026-10-14T15:10:51.148319452Z",
+  "timestamp": "2026-10-15T12:53:09.602309126Z",
   "model": "glm-5.3"
 }

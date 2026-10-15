@@ -5,58 +5,37 @@
   "book": "psalms",
   "lang": "mag",
   "chapter": 119,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "סלית",
-      "rationale": "'तराजू में तुलना\/टाँगना' के मूल चित्र — KJV 'trodden down', ASV\/JPS 'set at nought\/made light of'; 'तुच्छ गिनलन' आस्था के पथ लेलन।"
-    },
-    {
-      "kind": "substitution",
-      "subject": "שוגिझ",
-      "rationale": "'भटक गेल' (शागा) के जगह 'बहरावे वाला' — भटकाव के चित्र रहित गेल।"
-    }
-  ],
-  "translation": "तोहनी तोहर बिधान से बहरावे वाला सब के तुच्छ गिनलन, काहे कि ओकनी के छल झूठ हइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "a4883c5a39ebe37aec8aa6c88f09eda5e0a94d92f61eb925fce7ea87fbecaee4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/119\/117-120.1792006122740.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "तूँ ⟨את⟩ सब भटकल लोग के तोहरे बिधान से दूर कइलक, काहे कि ऊकनी के छल-कपट झूठ हकइ।",
   "tokens": [
     {
-      "surface": "סלית",
-      "gloss": "तोहनी तुच्छ गिनलन"
+      "surface": "סָ֭לִיתָ",
+      "gloss": "दूर कइलक"
     },
     {
-      "surface": "כל",
+      "surface": "כָּל",
       "gloss": "सब"
     },
     {
-      "surface": "שוגים",
-      "gloss": "बहरावे वाला"
+      "surface": "שׁוֹגִ֣ים",
+      "gloss": "भटकल लोग"
     },
     {
-      "surface": "מחקיך",
-      "gloss": "तोहर बिधान से"
+      "surface": "מֵחֻקֶּ֑יךָ",
+      "gloss": "तोहरे बिधान से"
     },
     {
-      "surface": "כי",
+      "surface": "כִּי",
       "gloss": "काहे कि"
     },
     {
-      "surface": "שקר",
+      "surface": "שֶׁ֝֗קֶר",
       "gloss": "झूठ"
     },
     {
-      "surface": "תרמיתם",
-      "gloss": "ओकनी के छल"
+      "surface": "תַּרְמִיתָֽם",
+      "gloss": "ऊकनी के छल-कपट"
     }
   ],
-  "timestamp": "2026-10-14T19:28:42.741296946Z",
+  "timestamp": "2026-10-15T12:57:34.634731096Z",
   "model": "glm-5.3"
 }

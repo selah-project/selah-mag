@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "mag",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לחם הפנים",
-      "rationale": "मुख-बियर — 'सामने के रोटी' यानी यहवे के सामने राखल रोटी; मगही में मूल चित्र राखल गेल।"
-    },
-    {
-      "kind": "measurement",
-      "subject": "बरतन के सूची",
-      "rationale": "मन्दिर के भीतर के बरतन के गिनती-सूची जारी हकइ।"
-    }
-  ],
-  "translation": "आउ शलोमो यहवे के घर के सब बरतन बनइलन — ⟨את⟩ सोना के बेदी, आउ ⟨את⟩ ओ मेज जेकर ऊपर मुँह के रोटी रहऽ हइ — सोना के।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "e37e82ddb65e1edc857f1135bbfd15ec1823c18704badbdedfd2c92f254da591",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/7\/45-48.1791996866650.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ शलोमोह (सुलैमान) यहवे के घर के सब बरतन ⟨את⟩ बनइलन जे ओकरे भीतर ⟨हथिन⟩ — ⟨את⟩ सोना के बेदी आउ ⟨את⟩ ओ टेबल जेकर ऊपर मुँह के रोटी ⟨हल⟩ — सोना के।",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "बनइलन"
+      "gloss": "आउ बनइलन"
     },
     {
       "surface": "שלמה",
-      "gloss": "शलोमो"
+      "gloss": "शलोमोह"
     },
     {
       "surface": "את",
@@ -77,19 +56,19 @@
     {
       "surface": "ואת",
       "gloss": "आउ ⟨את⟩",
-      "marks": "ओ मेज"
+      "marks": "ओ टेबल"
     },
     {
       "surface": "השלחן",
-      "gloss": "मेज"
+      "gloss": "टेबल"
     },
     {
       "surface": "אשר",
-      "gloss": "जे"
+      "gloss": "जेकर"
     },
     {
       "surface": "עליו",
-      "gloss": "ओकर ऊपर"
+      "gloss": "ऊपर"
     },
     {
       "surface": "לחם",
@@ -104,6 +83,6 @@
       "gloss": "सोना के"
     }
   ],
-  "timestamp": "2026-10-14T16:54:26.651453617Z",
+  "timestamp": "2026-10-15T11:39:42.612646861Z",
   "model": "glm-5.3"
 }

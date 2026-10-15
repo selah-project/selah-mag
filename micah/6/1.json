@@ -5,38 +5,7 @@
   "book": "micah",
   "lang": "mag",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את ריב",
-      "rationale": "Second את with ריב is preposition 'with\/at', rendered by the case postposition के संग, so the token carries no separate word."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ריב…ריב",
-      "rationale": "Root ריב repeats across verses 1–2 binding command and indictment; the repetition is kept with मुकदमा."
-    },
-    {
-      "kind": "invitation",
-      "subject": "to the prophet\/people",
-      "rationale": "Opening imperative שמעו נא summons the hearer into the courtroom scene."
-    },
-    {
-      "kind": "you",
-      "subject": "to Micah",
-      "rationale": "The commands उठऽ \/ लढ़ऽ address the prophet, who is to arraign the mountains."
-    }
-  ],
-  "translation": "अबहीं सुनऽ जे यहवे का कहऽ हइ — उठऽ, पहाड़ ⟨सब⟩ के संग मुकदमा लढ़ऽ, आउ टेकरी ⟨सब⟩ तोहर बोली सुनथिन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "9ad175fe4fb4690c9f177b589b370d6657e43313f3c45eb16c487a3d02116303",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/micah\/6\/1-4.1792003903534.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "सुनऽ हमरी बिनती, जे यहवे कहऽ हथिन — ⟨את⟩ जे-कुछ ऊ कहऽ हथिन: उठू, ⟨את⟩ पहाड़ सब के संग झगड़ा करू, आउ टीला सब तोहरी बोली सुनन",
   "tokens": [
     {
       "surface": "שמעו",
@@ -44,12 +13,12 @@
     },
     {
       "surface": "נא",
-      "gloss": "अबहीं"
+      "gloss": "हमरी बिनती"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "जे यहवे कहऽ हइ"
+      "marks": "जे-कुछ यहवे कहऽ हथिन"
     },
     {
       "surface": "אשר",
@@ -61,15 +30,15 @@
     },
     {
       "surface": "אמר",
-      "gloss": "कहऽ हइ"
+      "gloss": "कहऽ हथिन"
     },
     {
       "surface": "קום",
-      "gloss": "उठऽ"
+      "gloss": "उठू"
     },
     {
       "surface": "ריב",
-      "gloss": "मुकदमा लढ़ऽ"
+      "gloss": "झगड़ा करू"
     },
     {
       "surface": "את",
@@ -82,17 +51,17 @@
     },
     {
       "surface": "ותשמענה",
-      "gloss": "आउ सुनथिन"
+      "gloss": "सुक्खन"
     },
     {
       "surface": "הגבעות",
-      "gloss": "टेकरी सब"
+      "gloss": "टीला सब"
     },
     {
       "surface": "קולך",
-      "gloss": "तोहर बोली"
+      "gloss": "तोहरी बोली"
     }
   ],
-  "timestamp": "2026-10-14T18:51:43.535370513Z",
+  "timestamp": "2026-10-15T12:49:17.976160596Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "numbers",
   "lang": "mag",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "मिन्हा",
-      "rationale": "מנחה बलि-अरथ में मिन्हा रखल गेल, भेंट नञ।"
-    }
-  ],
-  "translation": "आउ पुरोहित जनाना के हाथ से जलन के मिन्हा के लेलन, आउ ⟨את⟩ मिन्हा के यहवे के आगे लहरायलन, आउ ओकरा बेदी के नजदीक लानलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "83033af375bba910e8a53af0d550fb36b8038156f26dd2ca53379b86c492ca56",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/5\/25-28.1791990789553.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ पुरोहित जनाना के हाथ से ⟨את⟩ ईरसा के मिन्हा लेलन, आउ ⟨את⟩ मिन्हा के यहवे के आगे लहरालन, आउ ⟨את⟩ ओकरा बेदी के लग चढ़ावे आनलन।",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "लेलन"
+      "gloss": "आउ लेलन"
     },
     {
       "surface": "הכהן",
@@ -42,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "जलन के मिन्हा"
+      "marks": "ईरसा के मिन्हा"
     },
     {
       "surface": "מנחת",
@@ -50,11 +34,11 @@
     },
     {
       "surface": "הקנאת",
-      "gloss": "जलन के"
+      "gloss": "ईरसा के"
     },
     {
       "surface": "והניף",
-      "gloss": "लहरायलन"
+      "gloss": "आउ लहरालन"
     },
     {
       "surface": "את",
@@ -67,7 +51,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "आगे"
+      "gloss": "के आगे"
     },
     {
       "surface": "יהוה",
@@ -75,22 +59,22 @@
     },
     {
       "surface": "והקריב",
-      "gloss": "लानलन"
+      "gloss": "आउ चढ़ावे आनलन"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ओकरा"
+      "marks": "मिन्हा (ओकरा)"
     },
     {
       "surface": "אל",
-      "gloss": "नजदीक"
+      "gloss": "के लग"
     },
     {
       "surface": "המזבח",
       "gloss": "बेदी"
     }
   ],
-  "timestamp": "2026-10-14T15:13:09.554431483Z",
+  "timestamp": "2026-10-15T12:55:19.745842317Z",
   "model": "glm-5.3"
 }

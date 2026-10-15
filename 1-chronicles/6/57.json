@@ -5,74 +5,53 @@
   "book": "1-chronicles",
   "lang": "mag",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "आउ",
-      "rationale": "हिब्रू में पहिला आउ के अलावा जोड़ सब्द नञ हकइ, मगही जोड़ माँगऽ हइ"
-    },
-    {
-      "kind": "measurement",
-      "subject": "नगर के सूची",
-      "rationale": "लेवी परिबार के नगर के गिनती-सूची हेतई"
-    }
-  ],
-  "translation": "आउ यिस्सास्कार के जाति के संग से केदेश ⟨आउ⟩ ओकरा चारागाह, दाबेरत ⟨आउ⟩ ओकरा चारागाह।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "7d183e3392cc66c0c43405ff7617cf7c49e85fc77036620e22c6f04c76a1ed05",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/6\/57-60.1792009997446.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ यिस्सास्खर के शाखा से ⟨את⟩ केदेस ⟨את⟩ ओकर चारागाह संग, ⟨את⟩ दाबेरात आउ ⟨את⟩ ओकर चारागाह।",
   "tokens": [
     {
-      "surface": "וממטה",
-      "gloss": "आउ जाति के संग से"
+      "surface": "וּמִמַּטֵּה",
+      "gloss": "आउ … शाखा से"
     },
     {
-      "surface": "יששכר",
-      "gloss": "यिस्सास्कार के"
+      "surface": "יִשָּׂשכָר",
+      "gloss": "यिस्सास्खर"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "केदेश"
+      "marks": "केदेस"
     },
     {
-      "surface": "קדש",
-      "gloss": "केदेश"
+      "surface": "קֶדֶשׁ",
+      "gloss": "केदेस"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֵת",
       "gloss": "⟨את⟩",
-      "marks": "ओकरा चारागाह"
+      "marks": "ओकर चारागाह"
     },
     {
-      "surface": "מגרשיה",
-      "gloss": "ओकरा चारागाह"
+      "surface": "מִגְרָשֶׁיהָ",
+      "gloss": "ओकर चारागाह"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "दाबेरत"
+      "marks": "दाबेरात"
     },
     {
-      "surface": "דברת",
-      "gloss": "दाबेरत"
+      "surface": "דָּבְרַת",
+      "gloss": "दाबेरात"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֵת",
       "gloss": "⟨את⟩",
-      "marks": "ओकरा चारागाह"
+      "marks": "ओकर चारागाह"
     },
     {
-      "surface": "מגרשיה",
-      "gloss": "ओकरा चारागाह"
+      "surface": "מִגְרָשֶׁיהָ",
+      "gloss": "ओकर चारागाह"
     }
   ],
-  "timestamp": "2026-10-14T20:33:17.446933941Z",
+  "timestamp": "2026-10-15T11:36:24.014914714Z",
   "model": "glm-5.3"
 }

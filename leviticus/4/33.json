@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "mag",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חטאת",
-      "rationale": "एके शब्द पाँती में तीन बेर — पाप आउ ओकर बलि दुनों — जे मगही में पाप\/पाप-बलि के जोड़ से किछु तने बचल हइ।"
-    }
-  ],
-  "translation": "आउ ऊ पाप-बलि के मूड़ी पर ⟨את⟩ अपन हाथ रक्खतइ, आउ ओकरा पाप-बलि बर मारतइ, ओही जगह जहाँ ⟨את⟩ जाल-बलि मारल जा हकइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "e5894b14c7d6382cc5275267c68ff62cb35f49e17ce429b889e941e7cc89a2fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/4\/33-35.1791989534388.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ऊ ⟨את⟩ अपन हाथ के पाप-बलि के मूड़ी पर रखतइ, आउ ⟨את⟩ ओकरा पाप-बलि बर ओही जगह पर मारतइ जहाँ ⟨את⟩ अग्नि-बलि मारल जा हइ।",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "रक्खतइ"
+      "gloss": "आउ ऊ रखतइ"
     },
     {
       "surface": "את",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "החטאת",
-      "gloss": "पाप-बलि"
+      "gloss": "पाप-बलि के"
     },
     {
       "surface": "ושחט",
@@ -63,7 +47,7 @@
     },
     {
       "surface": "במקום",
-      "gloss": "ओही जगह"
+      "gloss": "जगह पर"
     },
     {
       "surface": "אשר",
@@ -71,18 +55,18 @@
     },
     {
       "surface": "ישחט",
-      "gloss": "मारल जा हकइ"
+      "gloss": "मारल जा हइ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "जाल-बलि"
+      "marks": "अग्नि-बलि"
     },
     {
       "surface": "העלה",
-      "gloss": "जाल-बलि"
+      "gloss": "अग्नि-बलि"
     }
   ],
-  "timestamp": "2026-10-14T14:52:14.389591332Z",
+  "timestamp": "2026-10-15T12:47:48.033639251Z",
   "model": "glm-5.3"
 }

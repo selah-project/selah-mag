@@ -5,31 +5,15 @@
   "book": "esther",
   "lang": "mag",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "इब्रानी के 'अ' के जगह मगही सीधे 'आपन घर अइलन' कहऽ हइ"
-    }
-  ],
-  "translation": "बाकि हमान आपन के रोकलन, आउ आपन घर अइलन, आउ ⟨भेजलन⟩ ⟨את⟩ आपन दोस्त सब आउ ⟨את⟩ जेरेस ओकर जनाना के बोलवइलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "964c362621328d27e1b7522057a2923b364edbd630df8974a75b44526831871b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/esther\/5\/9-12.1792008612720.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "बाकि हामान अपना के रोकलन आउ अपन घर अइलन; ऊ भेजलन आउ ⟨את⟩ अपन मितावन के आउ ⟨את⟩ जेरेश, अपन जनाना के, अनावलन।",
   "tokens": [
     {
       "surface": "ויתאפק",
-      "gloss": "आपन के रोकलन"
+      "gloss": "अपना के रोकलन"
     },
     {
       "surface": "המן",
-      "gloss": "हमान"
+      "gloss": "हामान"
     },
     {
       "surface": "ויבוא",
@@ -37,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "आउ"
     },
     {
       "surface": "ביתו",
-      "gloss": "आपन घर"
+      "gloss": "अपन घर"
     },
     {
       "surface": "וישלח",
@@ -49,31 +33,31 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "बोलवइलन"
+      "gloss": "अनावलन"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "आपन दोस्त सब"
+      "marks": "अपन मितावन के"
     },
     {
       "surface": "אהביו",
-      "gloss": "आपन दोस्त सब"
+      "gloss": "अपन मितावन"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "जेरेस"
+      "marks": "जेरेश, अपन जनाना के"
     },
     {
       "surface": "זרש",
-      "gloss": "जेरेस"
+      "gloss": "जेरेश"
     },
     {
       "surface": "אשתו",
-      "gloss": "ओकर जनाना"
+      "gloss": "अपन जनाना"
     }
   ],
-  "timestamp": "2026-10-14T20:10:12.721580712Z",
+  "timestamp": "2026-10-15T12:01:44.288226587Z",
   "model": "glm-5.3"
 }

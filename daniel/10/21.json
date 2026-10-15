@@ -5,38 +5,7 @@
   "book": "daniel",
   "lang": "mag",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "जोड़-सब्द जोड़ी 'खाली' के अरथ देवऽ हइ — 'except' — अकेले अनुवाद भ्रमित करतइ"
-    },
-    {
-      "kind": "secret",
-      "subject": "כתב אמת",
-      "rationale": "सच के लेख — छुपल गढ़ल बात जेकरा खाली बतावल जा हइ"
-    },
-    {
-      "kind": "you",
-      "subject": "दानियेल",
-      "rationale": "दूत दानियेल से सीधे बात करऽ हइ — 'तोहरा', 'तोहर सरदार'"
-    },
-    {
-      "kind": "crux",
-      "subject": "מתחזק עמי",
-      "rationale": "'हमरा संग जुटे वाला' बनाम 'हमरा संग जोर लगावे वाला' — KJV 'holdeth with me', BSB 'support me'"
-    }
-  ],
-  "translation": "बाकि हम तोहरा ⟨את⟩ सच के लेख में रस्सी बताबइ, आउ ए सब बात पर हमरा संग जुटे वाला कोनो एक नञ हइ, खाली मिकाएल, तोहर सरदार।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "04983feb094f7e365db70439fe7ecf4cacb27b06defbeea0249dd71ed6c81c24",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/daniel\/10\/21-21.1792009136482.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "बाकि हम तोहनी ⟨את⟩ सच के लिखाई में दर्ज बात बताबइ; आउ ई बात पर हमरा संग एक्को जुटऽ नञ हइ, खाली मीखाएल के छोड़ — तोहनी के सरदार।",
   "tokens": [
     {
       "surface": "אבל",
@@ -48,20 +17,20 @@
     },
     {
       "surface": "לך",
-      "gloss": "तोहरा"
+      "gloss": "तोहनी"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "रस्सी"
+      "marks": "दर्ज बात"
     },
     {
       "surface": "הרשום",
-      "gloss": "रस्सी"
+      "gloss": "दर्ज"
     },
     {
       "surface": "בכתב",
-      "gloss": "लेख में"
+      "gloss": "लिखाई में"
     },
     {
       "surface": "אמת",
@@ -69,7 +38,7 @@
     },
     {
       "surface": "ואין",
-      "gloss": "आउ नञ हइ"
+      "gloss": "आउ एक्को नञ"
     },
     {
       "surface": "אחד",
@@ -77,7 +46,7 @@
     },
     {
       "surface": "מתחזק",
-      "gloss": "जुटे वाला"
+      "gloss": "जुटऽ हइ"
     },
     {
       "surface": "עמי",
@@ -85,11 +54,11 @@
     },
     {
       "surface": "על",
-      "gloss": "पर"
+      "gloss": "एकरा पर"
     },
     {
       "surface": "אלה",
-      "gloss": "ए सब"
+      "gloss": "ई बात"
     },
     {
       "surface": "כי",
@@ -97,17 +66,17 @@
     },
     {
       "surface": "אם",
-      "gloss": "खाली"
+      "gloss": "खाली … के छोड़"
     },
     {
       "surface": "מיכאל",
-      "gloss": "मिकाएल"
+      "gloss": "मीखाएल"
     },
     {
       "surface": "שרכם",
-      "gloss": "तोहर सरदार"
+      "gloss": "तोहनी के सरदार"
     }
   ],
-  "timestamp": "2026-10-14T20:18:56.483350104Z",
+  "timestamp": "2026-10-15T11:56:23.774338640Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "mag",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הגדולה \/ הגדלות",
-      "rationale": "एके जड़ के दोहराव — 'बड़ाई ... बड़ाई' — इब्रानी के जोर मगही में बनैल रहऽ हइ।"
-    },
-    {
-      "kind": "you",
-      "subject": "दाविद यहवे से",
-      "rationale": "दाविद यहवे के सीधे सम्बोधन जारी रखऽ हथिन।"
-    }
-  ],
-  "translation": "यहवे, तोहर नौकर-चाकर के खातिर आउ तोहर हिरदय के मोताबिक तूँ ⟨את⟩ ई सब बड़ाई कइलन, सब बड़ाई लोग के जतावे बर।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "4995ccb8f4d0895b108c95f5ffe7fb04df01a265ec69a65f4bbe661eca6a2c6b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/17\/17-20.1792010323565.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "यहवे, अपन सेवक के कारण आउ अपन हिरदय के मोताबिक तूँ ⟨את⟩ सब ई बड़ाई कएलन, सब बड़ाई के जनावे बर।",
   "tokens": [
     {
       "surface": "יהוה",
@@ -34,24 +13,24 @@
     },
     {
       "surface": "בעבור",
-      "gloss": "के खातिर"
+      "gloss": "के कारण"
     },
     {
       "surface": "עבדך",
-      "gloss": "तोहर नौकर-चाकर के"
+      "gloss": "अपन सेवक"
     },
     {
       "surface": "וכלבך",
-      "gloss": "आउ तोहर हिरदय के मोताबिक"
+      "gloss": "आउ अपन हिरदय के मोताबिक"
     },
     {
       "surface": "עשית",
-      "gloss": "कइलन"
+      "gloss": "कएलन"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ई सब बड़ाई"
+      "marks": "सब ई बड़ाई"
     },
     {
       "surface": "כל",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "הגדולה",
-      "gloss": "बड़ाई"
+      "gloss": "ई बड़ाई"
     },
     {
       "surface": "הזאת",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "להדיע",
-      "gloss": "जतावे बर"
+      "gloss": "जनावे बर"
     },
     {
       "surface": "את",
@@ -80,9 +59,9 @@
     },
     {
       "surface": "הגדלות",
-      "gloss": "बड़ाई लोग"
+      "gloss": "बड़ाई"
     }
   ],
-  "timestamp": "2026-10-14T20:38:43.566450021Z",
+  "timestamp": "2026-10-15T11:35:31.961109549Z",
   "model": "glm-5.3"
 }

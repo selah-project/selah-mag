@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "mag",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "גפר",
-      "rationale": "गोफेर-लकड़ी पूरा तनाख़ में केवल इहाँ आवऽ हइ; ठीक कोन गाछ हइ, कोनो नञ जानऽ हइ"
-    },
-    {
-      "kind": "substitution",
-      "subject": "תבה",
-      "rationale": "तेबा माने 'डिब्बा' हकइ — ओही रूप रखल गेलन, 'जहाज' नञ"
-    },
-    {
-      "kind": "you",
-      "subject": "to Noah",
-      "rationale": "एलोहीम नोआ के आज्ञा रूप में सम्बोधन"
-    }
-  ],
-  "translation": "तोहरा बर गोफेर-लकड़ी के एकठा डिब्बा बना; खाना-खाना बना ⟨את⟩ डिब्बा के, आउ ओकरा भीतरे आउ बाहरे तार संग लीपऽ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "a55ed066cc2000983aa083e68817ab2822fc78d7845343b27e4d6c48f23833f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/6\/13-16.1791986398933.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "तोहरा बर गोफेर लकड़ी के एकठा बकसा बना; बकसा में कोठरी-कोठरी बना; ⟨את⟩ बकसा के बनबइ आउ ओकरा भीतर से आउ बाहर से कोलतार लगा देबइ।",
   "tokens": [
     {
       "surface": "עשה",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "תבת",
-      "gloss": "डिब्बा"
+      "gloss": "बकसा"
     },
     {
       "surface": "עצי",
-      "gloss": "लकड़ी"
+      "gloss": "लकड़ी के"
     },
     {
       "surface": "גפר",
@@ -55,43 +29,43 @@
     },
     {
       "surface": "קנים",
-      "gloss": "खाना-खाना"
+      "gloss": "कोठरी-कोठरी"
     },
     {
       "surface": "תעשה",
-      "gloss": "बना"
+      "gloss": "बनबइ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "डिब्बा"
+      "marks": "बकसा"
     },
     {
       "surface": "התבה",
-      "gloss": "डिब्बा"
+      "gloss": "बकसा के"
     },
     {
       "surface": "וכפרת",
-      "gloss": "आउ लीपब"
+      "gloss": "कोलतार लगा देबइ"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ओकरा"
+      "marks": "बकसा (ओकरा)"
     },
     {
       "surface": "מבית",
-      "gloss": "भीतरे से"
+      "gloss": "भीतर से"
     },
     {
       "surface": "ומחוץ",
-      "gloss": "आउ बाहरे से"
+      "gloss": "आउ बाहर से"
     },
     {
       "surface": "בכפר",
-      "gloss": "तार संग"
+      "gloss": "कोलतार में"
     }
   ],
-  "timestamp": "2026-10-14T13:59:58.934167357Z",
+  "timestamp": "2026-10-15T12:20:58.206023621Z",
   "model": "glm-5.3"
 }

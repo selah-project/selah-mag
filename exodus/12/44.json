@@ -5,47 +5,31 @@
   "book": "exodus",
   "lang": "mag",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "तोहनी",
-      "rationale": "इब्रानी किरिया में करता नञ हे — 'तोहनी करब' से भबिस-आज्ञा साफ होवऽ हइ।"
-    }
-  ],
-  "translation": "आउ हर दास — मरद के, चानी के कीनल — आउ तोहनी ओकरा खतना करब, तब ऊ ओकरा में खातइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "5596905f1927ef92250bc865a60405ee08d894b08fda6dfc6bf35fcfd44931f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/12\/41-44.1791988365632.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ हर एक दास — कोनो आदमी के दास, चानी के किनल गेल — जब ओकर खतना कर देब, तब ऊ ⟨את⟩ ओकरा ओकरा में खातै।",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "आउ हर"
+      "gloss": "आउ हर एक"
     },
     {
       "surface": "עבד",
       "gloss": "दास"
     },
     {
-      "surface": "אישׁ",
-      "gloss": "मरद के"
+      "surface": "איש",
+      "gloss": "कोनो आदमी के"
     },
     {
       "surface": "מקנת",
-      "gloss": "कीनल"
+      "gloss": "किनल गेल"
     },
     {
       "surface": "כסף",
-      "gloss": "चानी"
+      "gloss": "चानी के"
     },
     {
       "surface": "ומלתה",
-      "gloss": "आउ…खतना करब"
+      "gloss": "खतना कर देब"
     },
     {
       "surface": "אתו",
@@ -58,13 +42,13 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "खातइ"
+      "gloss": "खातै"
     },
     {
       "surface": "בו",
       "gloss": "ओकरा में"
     }
   ],
-  "timestamp": "2026-10-14T14:32:45.634237759Z",
+  "timestamp": "2026-10-15T12:03:58.268103726Z",
   "model": "glm-5.3"
 }

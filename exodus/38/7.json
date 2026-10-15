@@ -5,40 +5,24 @@
   "book": "exodus",
   "lang": "mag",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "आपूनि",
-      "rationale": "Hebrew infinitive 'to bear' lacks explicit subject; Magahi needs who carries"
-    }
-  ],
-  "translation": "आउ ⟨את⟩ छड़ी सब के छल्ला सब में घुसेलन, बेदी के पसारिया पर, ⟨आपूनि⟩ ओकरा ओकरा संग उठावे बर; खोखला, तख्ता सब के, ओकरा बनइलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/38\/5-8.1791989278637.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ऊ छल्ला में ⟨את⟩ डंडा सब के घुसेलन, बेदी के काँत पर, ओकरा ओकनी से उठावे बर; ओकरा तख्ता सब से खोखला बनइलन ⟨את⟩।",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "आउ घुसेलन"
+      "gloss": "आउ ऊ घुसेलन"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "छड़ी सब"
+      "marks": "डंडा सब"
     },
     {
       "surface": "הבדים",
-      "gloss": "छड़ी सब"
+      "gloss": "डंडा सब"
     },
     {
       "surface": "בטבעת",
-      "gloss": "छल्ला सब में"
+      "gloss": "छल्ला में"
     },
     {
       "surface": "על",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "צלעת",
-      "gloss": "पसारिया"
+      "gloss": "काँत"
     },
     {
       "surface": "המזבח",
@@ -58,12 +42,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩",
       "marks": "ओकरा"
     },
     {
       "surface": "בהם",
-      "gloss": "ओकरा संग"
+      "gloss": "ओकनी से"
     },
     {
       "surface": "נבוב",
@@ -71,7 +55,7 @@
     },
     {
       "surface": "לחת",
-      "gloss": "तख्ता सब के"
+      "gloss": "तख्ता सब से"
     },
     {
       "surface": "עשה",
@@ -79,10 +63,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "ओकरा"
+      "gloss": "⟨את⟩",
+      "marks": "बेदी (खोखला बनइल गेल)"
     }
   ],
-  "timestamp": "2026-10-14T14:47:58.638551191Z",
+  "timestamp": "2026-10-15T12:07:48.435528122Z",
   "model": "glm-5.3"
 }

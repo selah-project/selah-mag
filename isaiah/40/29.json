@@ -5,27 +5,11 @@
   "book": "isaiah",
   "lang": "mag",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ऊ",
-      "rationale": "करता परति पद 28 के यहवे से लेल गेलइ; मगही के करता-रहित बाक्य नञ चलऽ हइ"
-    }
-  ],
-  "translation": "ऊ थकल लोग के छल देथन, आउ जेकरा बल नञ हकइ ओकर ताकत बढ़ाथन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "fdaeb69f6b86ea582883f02175cbebef68d791695d0f358fdeeb83bc746cdb92",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/40\/29-31.1791999502720.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ऊ थकल लोग के छाह देथिन, आउ जेकरा कोनो ताकत नञ हकइ, ओकरा अत्यधिक बल बढ़ा देथिन।",
   "tokens": [
     {
       "surface": "נתן",
-      "gloss": "देथन"
+      "gloss": "देथिन"
     },
     {
       "surface": "ליעף",
@@ -33,25 +17,25 @@
     },
     {
       "surface": "כח",
-      "gloss": "छल"
+      "gloss": "छाह"
     },
     {
       "surface": "ולאין",
-      "gloss": "जेकरा बल नञ हकइ"
+      "gloss": "आउ जेकरा कोनो ताकत नञ हकइ"
     },
     {
       "surface": "אונים",
-      "gloss": "बल"
-    },
-    {
-      "surface": "עצמה",
       "gloss": "ताकत"
     },
     {
+      "surface": "עצמה",
+      "gloss": "अत्यधिक बल"
+    },
+    {
       "surface": "ירבה",
-      "gloss": "बढ़ाथन"
+      "gloss": "बढ़ा देथिन"
     }
   ],
-  "timestamp": "2026-10-14T17:38:22.720665518Z",
+  "timestamp": "2026-10-15T12:26:52.187336487Z",
   "model": "glm-5.3"
 }

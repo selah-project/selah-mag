@@ -5,42 +5,11 @@
   "book": "exodus",
   "lang": "mag",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "aleph-tav suffix form ⟨את⟩ marks the lamp (v.20), rendered as ओकरा"
-    },
-    {
-      "kind": "substitution",
-      "subject": "פרוכת",
-      "rationale": "पर्दा renders 'separatrix' — the screen dividing the holy from the most holy"
-    },
-    {
-      "kind": "measurement",
-      "subject": "מערב עד בקר",
-      "rationale": "daily time-span fixed: evening to morning, the lamp's duty cycle"
-    },
-    {
-      "kind": "addition",
-      "subject": "होतइ",
-      "rationale": "Hebrew verbless nominal clause 'חקת עולם' needs a copula"
-    }
-  ],
-  "translation": "मिलन के तम्बू में, पर्दा के बाहर — जे पर्दा गवाही के ऊपर हकइ — ओकरा अहरोन (हारून) आउ ओकर बेटा सब साँझ से भोर ले यहवे के आगे बिछावथिन; ओकर ओकनी के पीढ़ी सब बर सदा के नियम होतइ, ⟨את⟩ यिस्राएल के बेटा सब के ओर से।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "f30aaa4d88b14b1e8fc58500f0de710ee7274dcb5ef135ef2b1596f4f231e82b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/27\/21-21.1791988813938.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "मिलन के खेमा में, परदा के बाहिर जे गवाही के ऊपर हकइ, ओकरा अहरोन आउ ओकर बेटा सब साँझ से भोर ले यहवे के सामने सजाबथिन ⟨את⟩; ई हमेसा बर के बिधान होतइ ओकनी के पीढ़ी सब बर, यिस्राएल के बेटा सब के ⟨אत⟩ ओर से।",
   "tokens": [
     {
       "surface": "באהל",
-      "gloss": "तम्बू में"
+      "gloss": "खेमा में"
     },
     {
       "surface": "מועד",
@@ -48,11 +17,11 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "बाहर"
+      "gloss": "बाहिर"
     },
     {
       "surface": "לפרכת",
-      "gloss": "पर्दा के"
+      "gloss": "परदा के"
     },
     {
       "surface": "אשר",
@@ -68,12 +37,12 @@
     },
     {
       "surface": "יערך",
-      "gloss": "बिछावथिन"
+      "gloss": "सजाबथिन"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ओकरा (दिया)"
+      "marks": "ओकरा (दिया के ओ बाती)"
     },
     {
       "surface": "אהרן",
@@ -97,7 +66,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "के आगे"
+      "gloss": "के सामने"
     },
     {
       "surface": "יהוה",
@@ -105,11 +74,11 @@
     },
     {
       "surface": "חקת",
-      "gloss": "नियम"
+      "gloss": "बिधान"
     },
     {
       "surface": "עולם",
-      "gloss": "सदा के"
+      "gloss": "हमेसा बर के"
     },
     {
       "surface": "לדרתם",
@@ -117,8 +86,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ के ओर से",
-      "marks": "यिस्राएल के बेटा सब"
+      "gloss": "⟨את⟩ ओर से"
     },
     {
       "surface": "בני",
@@ -126,9 +94,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "यिस्राएल"
+      "gloss": "यिस्राएल के"
     }
   ],
-  "timestamp": "2026-10-14T14:40:13.939272804Z",
+  "timestamp": "2026-10-15T12:05:33.167623725Z",
   "model": "glm-5.3"
 }

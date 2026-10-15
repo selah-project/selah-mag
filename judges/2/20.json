@@ -5,45 +5,19 @@
   "book": "judges",
   "lang": "mag",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "कोप",
-      "rationale": "אף literally 'nose\/nostrils' — anger burns through the nostrils; rendered कोप, the body-picture lost"
-    },
-    {
-      "kind": "crux",
-      "subject": "עברו",
-      "rationale": "'transgressed\/crossed over' my covenant — rendered तोड़ देलक; 'crossed over' (the covenant's cut pieces) is the literal image"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "first אשר absorbed into the काहे कि construction, no separate Magahi word"
-    }
-  ],
-  "translation": "आउ यहवे के कोप यिस्राएल पर भड़क उठलन, आउ ऊ कहलन: काहे कि ई जाति हमर ⟨את⟩ वाचा तोड़ देलक जे हम ओकर पूर्बज के ⟨את⟩ आज्ञा देलनइ रहली, आउ हमर बोली नञ सुनलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "ebbd53621e9b3aad402d757c7248d852a8c6e241059828cb2ee9572485a4ef99",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/2\/17-20.1791993981459.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ यहवे के नाक यिस्राएल (इस्राएल) पर भड़क गेलन, आउ ऊ कहलन: काहे कि ई जाति हमरी वाचा के ⟨את⟩ टोरलक जेकर हम ⟨את⟩ ओकनी के बाप-दादा के आज्ञा देलन, आउ हमरी बोली नञ सुनलन।",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "भड़क उठलन"
+      "gloss": "भड़क गेलन"
     },
     {
       "surface": "אף",
-      "gloss": "कोप"
+      "gloss": "नाक (क्रोध)"
     },
     {
       "surface": "יהוה",
-      "gloss": "यहवे के"
+      "gloss": "यहवे"
     },
     {
       "surface": "בישראל",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "जे"
     },
     {
       "surface": "עברו",
-      "gloss": "तोड़ देलक"
+      "gloss": "टोरलन"
     },
     {
       "surface": "הגוי",
-      "gloss": "जाति"
+      "gloss": "ई जाति"
     },
     {
       "surface": "הזה",
@@ -76,28 +50,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "हमर वाचा के"
+      "marks": "हमरी वाचा के"
     },
     {
       "surface": "בריתי",
-      "gloss": "हमर वाचा"
+      "gloss": "हमरी वाचा के"
     },
     {
       "surface": "אשר",
-      "gloss": "जे"
+      "gloss": "जेकर"
     },
     {
       "surface": "צויתי",
-      "gloss": "आज्ञा देलनइ रहली"
+      "gloss": "आज्ञा देलन"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ओकर पूर्बज के"
+      "marks": "ओकनी के बाप-दादा के"
     },
     {
       "surface": "אבותם",
-      "gloss": "ओकर पूर्बज"
+      "gloss": "ओकनी के बाप-दादा के"
     },
     {
       "surface": "ולא",
@@ -109,9 +83,9 @@
     },
     {
       "surface": "לקולי",
-      "gloss": "हमर बोली"
+      "gloss": "हमरी बोली"
     }
   ],
-  "timestamp": "2026-10-14T16:06:21.461026972Z",
+  "timestamp": "2026-10-15T12:41:28.506042822Z",
   "model": "glm-5.3"
 }

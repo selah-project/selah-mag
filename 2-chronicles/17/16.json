@@ -5,37 +5,11 @@
   "book": "2-chronicles",
   "lang": "mag",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "दू लाख",
-      "rationale": "सेना के गिनती के तीसरा हिस्सा।"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ओकर हाथ के बगल में",
-      "rationale": "על ידो रूढ़ि — 'ओकर अधीन'।"
-    },
-    {
-      "kind": "crux",
-      "subject": "स्वेच्छा से अर्पित",
-      "rationale": "המתנדב ליהוה: 'स्वेच्छा से यहवे के सेवा बर' बनाम 'यहवे के अर्पण' (Wycliffe 'halewid to the Lord')।"
-    }
-  ],
-  "translation": "आउ ओकर हाथ के बगल में अमस्याह, जिकरी के बेटा, जे स्वेच्छा से यहवे बर अर्पित हलन, आउ ओकरा संग दू लाख बलवान बीरबल।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "62b6a23f19c540cda94e43cdc22dc561ef7f8b4ac24c0a2e0c88586d810b125f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/17\/13-16.1792010901764.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ओकर हाथ के संग अमस्याह, जिक्री के बेटा, जे यहवे बर अपने-अपन आगे बढ़िके सेवा करे के लेलन, आउ ओकरा संग दू लाख बलवान जंतु रहलन।",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "आउ … के बगल में"
+      "gloss": "आउ ... के संग"
     },
     {
       "surface": "ידו",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "זכרי",
-      "gloss": "जिकरी के"
+      "gloss": "जिक्री"
     },
     {
       "surface": "המתנדב",
-      "gloss": "स्वेच्छा से अर्पित"
+      "gloss": "अपने-अपन आगे बढ़िके सेवा करे के लेलन"
     },
     {
       "surface": "ליהוה",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "מאתים",
-      "gloss": "दू लाख"
+      "gloss": "दू"
     },
     {
       "surface": "אלף",
-      "gloss": ""
+      "gloss": "लाख"
     },
     {
       "surface": "גבור",
@@ -79,9 +53,9 @@
     },
     {
       "surface": "חיל",
-      "gloss": "बीरबल"
+      "gloss": "जंतु"
     }
   ],
-  "timestamp": "2026-10-14T20:48:21.765593330Z",
+  "timestamp": "2026-10-15T11:44:53.834864574Z",
   "model": "glm-5.3"
 }

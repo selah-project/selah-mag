@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "mag",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ऊ",
-      "rationale": "इब्रानी में करता (ऊ जनाना) छूटल हकइ; पुरछुआ दुआरी देल गेलइ"
-    },
-    {
-      "kind": "measurement",
-      "subject": "आठमा दिन · दू · दू",
-      "rationale": "गिनती के बिधान — आठमा दिन आउ दू-दू पंछी"
-    }
-  ],
-  "translation": "आउ आठमा दिन ⟨ऊ⟩ आपन बर लेतइ दू फाख्ता चाहे दू कबूतर के बुतरू, आउ ओकनी के ले जएबइ पुरोहित के पास, मिलन के तम्बू के दुआरी पर।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "acf7171abcf72a7bc2720fc42d68a1b48d5712f6fbbaf6705a6dfb62592970d7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/15\/29-32.1791990014438.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ आठवाँ दिन ऊ अपना बर लेतइ दू फाख्ता या दू कबूतर के बुतरू, आउ ⟨आबै हइ⟩ ⟨את⟩ ओकनी के पुरोहित के पास, मिलन-डेरा के दुआरी पर।",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "आउ आठमा दिन"
+      "gloss": "आउ आठवाँ दिन में — आउ दिन में"
     },
     {
       "surface": "השמיני",
-      "gloss": "आठमा"
+      "gloss": "आठवाँ"
     },
     {
       "surface": "תקח",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "לה",
-      "gloss": "आपन बर"
+      "gloss": "अपना बर"
     },
     {
       "surface": "שתי",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "או",
-      "gloss": "चाहे"
+      "gloss": "या"
     },
     {
       "surface": "שני",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "के बुतरू"
+      "gloss": "बुतरू"
     },
     {
       "surface": "יונה",
@@ -70,12 +49,12 @@
     },
     {
       "surface": "והביאה",
-      "gloss": "ले जएबइ"
+      "gloss": "आउ ला आबै हइ"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ओकनी (दू फाख्ता चाहे दू कबूतर के बुतरू)"
+      "marks": "दू फाख्ता या दू कबूतर के बुतरू"
     },
     {
       "surface": "אל",
@@ -87,21 +66,21 @@
     },
     {
       "surface": "אל",
-      "gloss": "के पास"
+      "gloss": "—"
     },
     {
       "surface": "פתח",
-      "gloss": "दुआरी"
+      "gloss": "दुआरी पर"
     },
     {
       "surface": "אהל",
-      "gloss": "तम्बू"
+      "gloss": "डेरा"
     },
     {
       "surface": "מועד",
-      "gloss": "मिलन"
+      "gloss": "मिलन (के)"
     }
   ],
-  "timestamp": "2026-10-14T15:00:14.438850029Z",
+  "timestamp": "2026-10-15T12:45:38.106257880Z",
   "model": "glm-5.3"
 }

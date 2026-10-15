@@ -5,27 +5,11 @@
   "book": "2-samuel",
   "lang": "mag",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "में",
-      "rationale": "इब्रानी के उपसर्ग ב खुद 'में' ले हइ; शेष जगह बिना-क्रिया बाक्य के रूप रखानी पड़ल।"
-    }
-  ],
-  "translation": "आउ लोग खेत में यिस्राएल के सामने निकलल, आउ लड़ाई एफ्रायिम के जंगल में भेल।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "11c026d7721a5222dec057712e711d6e7a20940320ed280aef7cb3d6d49ebaf4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/18\/5-8.1791996347864.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "तब लोग खेत में यिस्राएल के भेंट बर बाहिर निकललन, आउ लड़ाई एप्रायिम के जंगल में भेलइ।",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "निकलल"
+      "gloss": "तब … बाहिर निकललन"
     },
     {
       "surface": "העם",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "השדה",
-      "gloss": "खेत"
+      "gloss": "खेत में"
     },
     {
       "surface": "לקראת",
-      "gloss": "के सामने"
+      "gloss": "के भेंट बर"
     },
     {
       "surface": "ישראל",
@@ -45,11 +29,11 @@
     },
     {
       "surface": "ותהי",
-      "gloss": "आउ भेल"
+      "gloss": "आउ … भेलइ"
     },
     {
       "surface": "המלחמה",
-      "gloss": "लड़אई"
+      "gloss": "लड़ाई"
     },
     {
       "surface": "ביער",
@@ -57,9 +41,9 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "एफ्रायिम"
+      "gloss": "एप्रायिम"
     }
   ],
-  "timestamp": "2026-10-14T16:45:47.865651649Z",
+  "timestamp": "2026-10-15T11:55:04.735101714Z",
   "model": "glm-5.3"
 }

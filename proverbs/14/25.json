@@ -5,41 +5,15 @@
   "book": "proverbs",
   "lang": "mag",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "परान",
-      "rationale": "נפש साँस-जीवन-बल हकइ, आत्मा नञ"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויפח כזבים",
-      "rationale": "„झूठ फूँकल“ — יפח के साँस-फूँक के सुभाविक चित्र, दुनों भासा में जिआल गेलइ"
-    },
-    {
-      "kind": "crux",
-      "subject": "मरमה",
-      "rationale": "KJV: „झूठ बोलऽ हइ“; JPS: „पूरा छल हकइ“ — मगही में दुनों अरथ मिलावल गेलइ"
-    }
-  ],
-  "translation": "सच्चा गवाह परान के बचावऽ हइ, बाकि जे झूठ फूँकऽ हइ ऊ ⟨अपनी⟩ छल के।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "a503a4807eb145afe664ba979f1e1725135328101dd9c08a3e60042993ceb982",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/14\/25-28.1792006701618.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "सच के गवाह परान सब के छीनऽ हइ — बाकि जे झूठ फूंकऽ हइ, ऊ मरमा हकइ।",
   "tokens": [
     {
       "surface": "מציל",
-      "gloss": "बचावऽ हइ"
+      "gloss": "छीनऽ हइ"
     },
     {
       "surface": "נפשות",
-      "gloss": "परान सब"
+      "gloss": "परान सब के"
     },
     {
       "surface": "עד",
@@ -47,21 +21,21 @@
     },
     {
       "surface": "אמת",
-      "gloss": "सच्चा"
+      "gloss": "सच के"
     },
     {
       "surface": "ויפח",
-      "gloss": "बाकि फूँकऽ हइ"
+      "gloss": "फूंकऽ हइ"
     },
     {
       "surface": "כזבים",
-      "gloss": "झूठ सब"
+      "gloss": "झूठ"
     },
     {
       "surface": "מרמה",
-      "gloss": "छल"
+      "gloss": "मरमा"
     }
   ],
-  "timestamp": "2026-10-14T19:38:21.618815919Z",
+  "timestamp": "2026-10-15T12:55:54.532480144Z",
   "model": "glm-5.3"
 }

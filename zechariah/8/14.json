@@ -5,33 +5,7 @@
   "book": "zechariah",
   "lang": "mag",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתי",
-      "rationale": "aleph-tav with 1cs suffix, direct object of the fathers' provocation, kept as ⟨את⟩ with the supplied pronoun bracketed."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨हमरा⟩",
-      "rationale": "object pronoun supplied in Magahi because the verb needs an explicit object."
-    },
-    {
-      "kind": "crux",
-      "subject": "נחמתי",
-      "rationale": "'I did not relent\/repent' — נחם here 'changed My mind' rather than 'comforted'."
-    }
-  ],
-  "translation": "काहे कि एहने कहलन यहवे त्सबाओत: जइसने हम तोहनी बर बुराइ करे के विचार केलनिए, जब तोहनी के पुरखा हमरा क्रोध भेजलन ⟨हमरा⟩ — यहवे त्सबाओत के बचन — आउ हम मन नञ बदललन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "4e22690f22bd5f2452c4b57eb6c281f3244f3e5384eedf5c784c5f36ae04f3b2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/zechariah\/8\/14-15.1792011991005.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "काहे कि एहने कहलन यहवे त्सबाओत: जइसने हम तोहनी बर बुराई करे के मनसब बनइलियन, जब तोहर पुरखा लोग ⟨את⟩ हमरा क्रोध में भड़कय देलन — यहवे त्सबाओत के बचन — आउ हम पछतावऽ नञ कइलियन।",
   "tokens": [
     {
       "surface": "כי",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "זממתי",
-      "gloss": "विचार केलनिए"
+      "gloss": "मनसब बनइलियन"
     },
     {
       "surface": "להרע",
-      "gloss": "बुराइ करे बर"
+      "gloss": "बुराई करे बर"
     },
     {
       "surface": "לכם",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "בהקציף",
-      "gloss": "क्रोध भेजलन"
+      "gloss": "क्रोध में भड़कय दे के पर"
     },
     {
       "surface": "אבתיכם",
-      "gloss": "तोहनी के पुरखा"
+      "gloss": "तोहर पुरखा लोग"
     },
     {
       "surface": "אתי",
@@ -100,9 +74,9 @@
     },
     {
       "surface": "נחמתי",
-      "gloss": "मन बदललन"
+      "gloss": "पछतावऽ कइलियन"
     }
   ],
-  "timestamp": "2026-10-14T21:06:31.005899895Z",
+  "timestamp": "2026-10-15T12:59:38.107894551Z",
   "model": "glm-5.3"
 }

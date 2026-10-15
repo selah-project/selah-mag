@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "mag",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "हेसेद",
-      "rationale": "חסד के लिप्यन्तरन हेसेद रखल गेल — कोनो एक मगही सब्द (दया, परेम) ओकरा घटा देतइ"
-    },
-    {
-      "kind": "you",
-      "subject": "खूशै से",
-      "rationale": "अबशालोम खूशै के सीधे बतावऽ हइ — तानावाला प्रस्न"
-    }
-  ],
-  "translation": "अबशालोम खूशै से कहलन, “ई तोहर हेसेद हकइ तोहर संगी बर! काहे नञ गेलह तोहर संगी के संग?”",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "a5dada841d873b00fd59d8a13bdecf5a536ba3c14fa74285ef6a9dcf02ae47eb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/16\/17-20.1791996319133.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "अबशालोम कहलक, “हुसै संग, ई तोहर हेसेद ⟨את⟩ तोहर संगी बर हकइ? काहे कि तूँ ⟨את⟩ तोहर संगी के संग काहे नञ गेलन?”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "कहलन"
+      "gloss": "कहलक"
     },
     {
       "surface": "אבשלום",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "से"
+      "gloss": "संग"
     },
     {
       "surface": "חושי",
-      "gloss": "खूशै"
+      "gloss": "हुसै"
     },
     {
       "surface": "זה",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "למה",
-      "gloss": "काहे"
+      "gloss": "काहे कि"
     },
     {
       "surface": "לא",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "הלכת",
-      "gloss": "गेलह"
+      "gloss": "गेलन"
     },
     {
       "surface": "את",
@@ -83,6 +62,6 @@
       "gloss": "तोहर संगी"
     }
   ],
-  "timestamp": "2026-10-14T16:45:19.134418336Z",
+  "timestamp": "2026-10-15T11:53:02.771922090Z",
   "model": "glm-5.3"
 }

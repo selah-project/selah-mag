@@ -5,32 +5,16 @@
   "book": "genesis",
   "lang": "mag",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "כדבר...דבר",
-      "rationale": "'बात के मोताबिक...जे कहलन' — ओहे जड़ दू बेर, वापसी के चाल"
-    }
-  ],
-  "translation": "आउ हमर प्याला — चानी के प्याला — छोटका के थैला के मुँह में रखबइ, आउ ⟨את⟩ ओकर अनाज के चानी; आउ ऊ ओहे कइलक जतना योसेफ कहलन हलइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "a82abdcb7550792f8ab784a9576bded4a65f8a0690588b6c0b09ec24898c0b12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/44\/1-4.1791987789725.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ⟨את⟩ हमरा प्याला — चानी के प्याला — छोटका के थैला के मुँह में रखबू, आउ ⟨את⟩ ओकर अनाज के चानी; आउ ऊ ओहे करलक जइसन योसेफ कहलन।",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "आउ-⟨את⟩",
-      "marks": "हमर प्याला"
+      "gloss": "⟨את⟩",
+      "marks": "हमरा प्याला"
     },
     {
       "surface": "גביעי",
-      "gloss": "हमर प्याला"
+      "gloss": "हमरा प्याला"
     },
     {
       "surface": "גביע",
@@ -42,15 +26,15 @@
     },
     {
       "surface": "תשים",
-      "gloss": "रखबइ"
+      "gloss": "रखबू"
     },
     {
       "surface": "בפי",
-      "gloss": "के मुँह में"
+      "gloss": "मुँह में"
     },
     {
       "surface": "אמתחת",
-      "gloss": "थैला के"
+      "gloss": "थैला"
     },
     {
       "surface": "הקטן",
@@ -58,8 +42,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "आउ-⟨את⟩",
-      "marks": "ओकर अनाज के चानी"
+      "gloss": "⟨את⟩",
+      "marks": "अनाज के चानी"
     },
     {
       "surface": "כסף",
@@ -67,15 +51,15 @@
     },
     {
       "surface": "שברו",
-      "gloss": "ओकर अनाज के"
+      "gloss": "अनाज के"
     },
     {
       "surface": "ויעש",
-      "gloss": "आउ-कइलक"
+      "gloss": "करलक"
     },
     {
       "surface": "כדבר",
-      "gloss": "ओहे जतना"
+      "gloss": "जइसन"
     },
     {
       "surface": "יוסף",
@@ -87,9 +71,9 @@
     },
     {
       "surface": "דבר",
-      "gloss": "कहलन हलइ"
+      "gloss": "कहलन"
     }
   ],
-  "timestamp": "2026-10-14T14:23:09.726295478Z",
+  "timestamp": "2026-10-15T12:20:50.320485033Z",
   "model": "glm-5.3"
 }

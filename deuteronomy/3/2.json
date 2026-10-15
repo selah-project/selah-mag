@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "mag",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Moses",
-      "rationale": "YHWH's direct speech to Moses — the addressee is named"
-    },
-    {
-      "kind": "crux",
-      "subject": "נתתי",
-      "rationale": "perfect 'I have given' vs future intent; rendered as completed gift standing from the speaker's standpoint"
-    }
-  ],
-  "translation": "आउ यहवे हमरा कहलन: ओकरा डर मत करऽ, काहे कि हम ओकरा तोहर हाथ में देलए हिअए — ⟨אתו⟩ आउ ⟨את⟩ ओकर सब लोग के आउ ⟨את⟩ ओकर धरती के; आउ तूँ ओकरा तइसने करबू जइसन तूँ सीहोन के करलन, अमोरी के राजा, जे हेस्बोन में रहऽ हलइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "69a79efe92e46e0f95e78a4356372cfabbf4763e8e7010c8b65f8db7c00a88b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/3\/1-4.1791992022988.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "यहवे हमरा ले कहलन, “ओकरा मत डर; काहे कि हम ⟨את⟩ ओकरा अउ ⟨את⟩ ओकर सब लोग अउ ⟨את⟩ ओकर धरती तोहर हाथ में देलन अइतइ; आउ तूँ ओकरा बर ओइसनेच करबइ जइसन तूँ सिचोन (सीहोन) बर करलक — अमोरी के राजा, जे हेसबोन (हेशबोन) में रहऽ हलइ।”",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "हमरा"
+      "gloss": "हमरा ले"
     },
     {
       "surface": "אל",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "תירא",
-      "gloss": "डर करऽ"
+      "gloss": "डर"
     },
     {
       "surface": "אתו",
@@ -63,12 +42,12 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "देलए हिअए"
+      "gloss": "देलन हिअए"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ओकरा"
+      "marks": "ओकरा (ओग के)"
     },
     {
       "surface": "ואת",
@@ -94,11 +73,11 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "आउ करबू"
+      "gloss": "करबइ"
     },
     {
       "surface": "לו",
-      "gloss": "ओकरा"
+      "gloss": "ओकरा बर"
     },
     {
       "surface": "כאשר",
@@ -106,11 +85,11 @@
     },
     {
       "surface": "עשית",
-      "gloss": "करलन"
+      "gloss": "करलक"
     },
     {
       "surface": "לסיחן",
-      "gloss": "सीहोन के"
+      "gloss": "सिचोन बर"
     },
     {
       "surface": "מלך",
@@ -118,7 +97,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "अमोरी"
+      "gloss": "अमोरी के"
     },
     {
       "surface": "אשר",
@@ -130,9 +109,9 @@
     },
     {
       "surface": "בחשבון",
-      "gloss": "हेस्बोन में"
+      "gloss": "हेसबोन में"
     }
   ],
-  "timestamp": "2026-10-14T15:33:42.989663081Z",
+  "timestamp": "2026-10-15T12:00:00.053060076Z",
   "model": "glm-5.3"
 }

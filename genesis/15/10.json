@@ -5,36 +5,20 @@
   "book": "genesis",
   "lang": "mag",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "איש בתרו",
-      "rationale": "'हर टुकड़ा ओकर संगी के सामने' — इब्रानी बुनबट बुनबट रखल गेलइ।"
-    }
-  ],
-  "translation": "आउ ऊ ⟨את⟩ सब ए लेलन, आउ ओकरा बीच से काटलन, आउ हर टुकड़ा ओकर संगी के सामने रखलन; बाकि ⟨את⟩ चिरई के नञ काटलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "f2524336737e06441f9193efbd5c9a8cc5b0ee8aa4e4fd8cc07f7822c17a1ccf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/15\/9-12.1791986647919.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ऊ अपन बर ⟨את⟩ ई सब लेलन, आउ ⟨את⟩ ओकनी के बीचोबीच काटलन, आउ हर टुकड़ा अपन संगी के सामने रखलन, बाकि ⟨את⟩ चिरई के नञ काटलन।",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "लेलन"
+      "gloss": "आउ ऊ लेलन"
     },
     {
       "surface": "לו",
-      "gloss": "एकरा"
+      "gloss": "अपन बर"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "सब ए (जानवर)"
+      "marks": "ई सब"
     },
     {
       "surface": "כל",
@@ -42,28 +26,28 @@
     },
     {
       "surface": "אלה",
-      "gloss": "ए"
+      "gloss": "ई"
     },
     {
       "surface": "ויבתר",
-      "gloss": "काटलन"
+      "gloss": "आउ काटलन"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ओकनी (जानवर के टुकड़ा)"
+      "marks": "ओकनी के"
     },
     {
       "surface": "בתוך",
-      "gloss": "बीच से"
+      "gloss": "बीचोबीच"
     },
     {
       "surface": "ויתן",
-      "gloss": "रखलन"
+      "gloss": "आउ रखलन"
     },
     {
       "surface": "איש",
-      "gloss": "हर एक"
+      "gloss": "हर टुकड़ा"
     },
     {
       "surface": "בתרו",
@@ -71,20 +55,20 @@
     },
     {
       "surface": "לקראת",
-      "gloss": "सामने"
+      "gloss": "के सामने"
     },
     {
       "surface": "רעהו",
-      "gloss": "ओकर संगी"
+      "gloss": "अपन संगी"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "चिरई"
+      "gloss": "बाकि ⟨את⟩",
+      "marks": "चिरई के"
     },
     {
       "surface": "הצפר",
-      "gloss": "चिरई"
+      "gloss": "चिरई के"
     },
     {
       "surface": "לא",
@@ -95,6 +79,6 @@
       "gloss": "काटलन"
     }
   ],
-  "timestamp": "2026-10-14T14:04:07.920778319Z",
+  "timestamp": "2026-10-15T12:16:36.919088423Z",
   "model": "glm-5.3"
 }

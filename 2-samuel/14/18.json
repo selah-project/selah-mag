@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "mag",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "संग",
-      "rationale": "אתך (H854) के संग अरथ बर ⟨संग⟩ जोड़ल गेलइ"
-    },
-    {
-      "kind": "you",
-      "subject": "हमरा",
-      "rationale": "राजा जनाना के सीधे सम्बोधन करऽ हइ"
-    }
-  ],
-  "translation": "आउ राजा जबाब देलन आउ ओ जनाना से कहलन: “हम जे बात तोहरा ⟨संग⟩ पुछबइ, ओकरा हमरा मत छिपाव।” आउ ओ जनाना कहलन: “हमर मालिक राजा अब त बोलिये।”",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "fcaee3641f07f9048f91617ab0791fe61acb2eeb647fe3b5d41be45cb7d5d2fd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/14\/17-20.1791996355834.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "तब राजा जबाब देलन आउ ओ जनाना से कहलन, हम जे तोहरा से ⟨את⟩ पूछऽ हइ, ओ बात हमरा से मत छुपाबऽ; आउ ओ जनाना कहलक, हमर मालिक राजा कहियो बोलऽ।",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "आउ जबाब देलन"
+      "gloss": "तब जबाब देलन"
     },
     {
       "surface": "המלך",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "נא",
-      "gloss": "अब त"
+      "gloss": "कहियो"
     },
     {
       "surface": "תכחדי",
-      "gloss": "छिपावा"
+      "gloss": "छुपाबऽ"
     },
     {
       "surface": "ממני",
-      "gloss": "हमरा"
+      "gloss": "हमरा से"
     },
     {
       "surface": "דבר",
@@ -78,16 +57,16 @@
     },
     {
       "surface": "שאל",
-      "gloss": "पुछबइ"
+      "gloss": "पूछऽ हइ"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩",
-      "marks": "जे बात हम तोहरा पुछबइ"
+      "marks": "तोहरा से"
     },
     {
       "surface": "ותאמר",
-      "gloss": "आउ कहलन"
+      "gloss": "आउ कहलक"
     },
     {
       "surface": "האשה",
@@ -95,11 +74,11 @@
     },
     {
       "surface": "ידבר",
-      "gloss": "बोलिये"
+      "gloss": "बोलऽ"
     },
     {
       "surface": "נא",
-      "gloss": "अब त"
+      "gloss": "कहियो"
     },
     {
       "surface": "אדני",
@@ -110,6 +89,6 @@
       "gloss": "राजा"
     }
   ],
-  "timestamp": "2026-10-14T16:45:55.835407085Z",
+  "timestamp": "2026-10-15T11:53:24.013425355Z",
   "model": "glm-5.3"
 }

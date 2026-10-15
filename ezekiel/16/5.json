@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "mag",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "तोहर परान",
-      "rationale": "נפश here is the living self, not a detachable soul; Magahi परान keeps the life-force sense."
-    },
-    {
-      "kind": "addition",
-      "subject": "कोनो",
-      "rationale": "English and Magahi need an indefinite pronoun where Hebrew has bare עין with לא."
-    },
-    {
-      "kind": "you",
-      "subject": "यरूशलयिम के संग",
-      "rationale": "The verse addresses Jerusalem as an abandoned newborn in second person feminine."
-    }
-  ],
-  "translation": "कोनो आँख तोहरा बर दया नञ रखलक, एहमें से एको काम तोहरा बर नञ करे बर, तरस खाये बर नञ; बाकि तोहरा खेत के मुँह पर डेल देल गेलइ, तोहर परान के घिनौनापन में, जे दिन तोहर जनम भेलइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "5f2c743630629212a8765fbd70db0e6e73ebf6930ac5cba5bdb2daaaf065710a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/16\/5-8.1792002105261.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "तोहरा ऊपर कोनो आँख दया नञ कएलन जे ई सब में से एक काम तोहरा बर कए देतइ, तोहरा ऊपर तरस खाय; बाकि तूँ तोहर परान के घिन के कारण खेत के मुँह पर डेल गेलन, जे दिन ⟨את⟩ तूँ जनमलन।",
   "tokens": [
     {
       "surface": "לא",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "חסה",
-      "gloss": "दया रखलक"
+      "gloss": "दया कएलन"
     },
     {
       "surface": "עליך",
-      "gloss": "तोहरा बर"
+      "gloss": "तोहरा ऊपर"
     },
     {
       "surface": "עין",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "करे बर"
+      "gloss": "कए देतइ"
     },
     {
       "surface": "לך",
@@ -63,23 +37,23 @@
     },
     {
       "surface": "מאלה",
-      "gloss": "एहमें से"
+      "gloss": "ई सब में से"
     },
     {
       "surface": "לחמלה",
-      "gloss": "तरस खाये बर"
+      "gloss": "तरस बर"
     },
     {
       "surface": "עליך",
-      "gloss": "तोहरा बर"
+      "gloss": "तोहरा ऊपर"
     },
     {
       "surface": "ותשלכי",
-      "gloss": "तोहरा डेल देल गेलइ"
+      "gloss": "डेल गेलन"
     },
     {
       "surface": "אל",
-      "gloss": "के तरफ"
+      "gloss": "…पर"
     },
     {
       "surface": "פני",
@@ -87,15 +61,15 @@
     },
     {
       "surface": "השדה",
-      "gloss": "खेत"
+      "gloss": "खेत के"
     },
     {
       "surface": "בגעל",
-      "gloss": "घिनौनापन में"
+      "gloss": "घिन के कारण"
     },
     {
       "surface": "נפשך",
-      "gloss": "तोहर परान"
+      "gloss": "तोहर परान के"
     },
     {
       "surface": "ביום",
@@ -103,13 +77,14 @@
     },
     {
       "surface": "הלדת",
-      "gloss": "जनम"
+      "gloss": "जनमलन"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ तोहर"
+      "gloss": "⟨את⟩",
+      "marks": "तूँ"
     }
   ],
-  "timestamp": "2026-10-14T18:21:45.262102136Z",
+  "timestamp": "2026-10-15T12:10:23.046894297Z",
   "model": "glm-5.3"
 }

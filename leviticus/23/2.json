@@ -5,41 +5,15 @@
   "book": "leviticus",
   "lang": "mag",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "यिस्राएल के बेटा सब",
-      "rationale": "मोशे केरा यिस्राएल के लोग केरा सीधा आदेस"
-    },
-    {
-      "kind": "invitation",
-      "subject": "बोल आउ कहऽ",
-      "rationale": "आज्ञारूप किरिया पढ़निहार केरा खीँचऽ हकइ"
-    },
-    {
-      "kind": "crux",
-      "subject": "תקראו אתם",
-      "rationale": "किछु अनुवाद 'घोसना करऽ' कहऽ हथिन, किछु 'बुलावऽ' — कारा के बुलावे के अरथ अपना-अपना ढंग से"
-    }
-  ],
-  "translation": "यिस्राएल के बेटा सब केरा बोल, आउ ओकनी से कहऽ — यहवे के नियत समय, जेकरा तोहनी पवित्तर सभा कह बुलाबऽ हकऽ, ईहे ⟨हथिन⟩ हमर नियत समय।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "b3d0fc4e4072df08a2e8eaa075ad5aec8d392f95e273127b2ca8247fa846ee97",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/23\/1-4.1791990250040.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "यिस्राएल (इस्राएल) के बेटा सब से कहऽ आउ ओकनी से कहऽ: यहवे के नियत परब — जेकरा तोहनी ⟨את⟩ पवित्तर सभा रूप में बोलाबइ — ई ऊ हथिन, हमर नियत परब।",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "बोल"
+      "gloss": "कहऽ"
     },
     {
       "surface": "אל",
-      "gloss": "केरा"
+      "gloss": "से"
     },
     {
       "surface": "בני",
@@ -59,19 +33,19 @@
     },
     {
       "surface": "מועדי",
-      "gloss": "नियत समय"
+      "gloss": "नियत परब"
     },
     {
       "surface": "יהוה",
-      "gloss": "यहवे के"
+      "gloss": "यहवे"
     },
     {
       "surface": "אשר",
-      "gloss": "जे"
+      "gloss": "जेकरा"
     },
     {
       "surface": "תקראו",
-      "gloss": "बुलाबऽ हकऽ"
+      "gloss": "तोहनी बोलाबइ"
     },
     {
       "surface": "אתם",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "ईहे"
+      "gloss": "ई"
     },
     {
       "surface": "הם",
@@ -96,9 +70,9 @@
     },
     {
       "surface": "מועדי",
-      "gloss": "हमर नियत समय"
+      "gloss": "नियत परब"
     }
   ],
-  "timestamp": "2026-10-14T15:04:10.041318733Z",
+  "timestamp": "2026-10-15T12:47:16.244985267Z",
   "model": "glm-5.3"
 }

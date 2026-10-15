@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "mag",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתכם (अन्तिम)",
-      "rationale": "ई את कीते के अरथ में हकइ — 'तोहनी संग' — सीधा वस्तु-चिन्हा नञ।"
-    },
-    {
-      "kind": "you",
-      "subject": "यिस्राएल",
-      "rationale": "यहवे के ओर से तोहनी के सीधा सम्बोधन।"
-    }
-  ],
-  "translation": "आउ हम तोहनी दने मुड़ब, आउ तोहनी फलाब, आउ तोहनी के बढ़ाब, आउ तोहनी संग हमरी वाचा के खड़ा करब।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "ca5cb799880e3020fe7e5e6cfd22135baf1e22751de7a52fe3de4b29c7d313db",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/26\/9-12.1791990403789.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ हम तोहनी दने घुरब, आउ तोहनी ⟨את⟩ फलाब, आउ तोहनी ⟨את⟩ बहुतायत बढ़ाब, आउ तोहनी संग हमर वाचा ⟨את⟩ खड़ा करब।",
   "tokens": [
     {
       "surface": "ופניתי",
-      "gloss": "मुड़ब"
+      "gloss": "घुरब"
     },
     {
       "surface": "אליכם",
@@ -42,17 +21,17 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "तोहनी"
+      "gloss": "⟨את⟩ तोहनी",
+      "marks": "तोहनी — वहפריפी के करम"
     },
     {
       "surface": "והרביתי",
-      "gloss": "बढ़ाब"
+      "gloss": "बहुतायत बढ़ाब"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "तोहनी के"
+      "gloss": "⟨את⟩ तोहनी",
+      "marks": "तोहनी — वहרבिपी के करम"
     },
     {
       "surface": "והקימתי",
@@ -61,17 +40,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "हमरी वाचा"
+      "marks": "हमर वाचा"
     },
     {
       "surface": "בריתי",
-      "gloss": "हमरी वाचा"
+      "gloss": "हमर वाचा"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ तोहनी संग"
     }
   ],
-  "timestamp": "2026-10-14T15:06:43.790169902Z",
+  "timestamp": "2026-10-15T12:46:52.302225927Z",
   "model": "glm-5.3"
 }

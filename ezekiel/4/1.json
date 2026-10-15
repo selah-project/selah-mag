@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "mag",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Ezekiel",
-      "rationale": "यहजकेल के आदेश — 'आदमी के बेटा' के सीधा सम्बोधन"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חקות\/חקק",
-      "rationale": "उत्कीर्णन करने के क्रिया — ईँटा पर नगर के आकृति खोंटल जा हइ"
-    }
-  ],
-  "translation": "आउ तूँ, आदमी के बेटा, तोहरा बर एक ईँटा ले, आउ ओकरा तोहरा आगू रख, आउ ओकरा ऊपर खोंट — एक नगर, ⟨את⟩ यरूशलयिम (यरूशलेम)।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "66c11e2a07e7aafcb7720c7cbcc031436c9fa9934da7cbb06fcfc64e6130be4f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/4\/1-4.1792001819260.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ तूँ, मनुस-बेटा, एक इँटा लेले, आउ ओकरा अपन आगे रखब, आउ ओकरा पर एक नगर — ⟨את⟩ यरूशलयिम (यरूशलेम) — उकेरब।",
   "tokens": [
     {
       "surface": "ואתה",
@@ -38,44 +17,44 @@
     },
     {
       "surface": "אדם",
-      "gloss": "आदमी"
+      "gloss": "मनुस"
     },
     {
       "surface": "קח",
-      "gloss": "ले"
+      "gloss": "लेले"
     },
     {
       "surface": "לך",
-      "gloss": "तोहरा बर"
+      "gloss": "अपन बर"
     },
     {
       "surface": "לבנה",
-      "gloss": "ईँटा"
+      "gloss": "इँटा"
     },
     {
       "surface": "ונתתה",
-      "gloss": "आउ रख"
+      "gloss": "आउ रखब"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "ईँटा (ओकरा तोहरा आगू)"
+      "marks": "ओकरा अपन आगे"
     },
     {
       "surface": "לפניך",
-      "gloss": "तोहरा आगू"
+      "gloss": "अपन आगे"
     },
     {
       "surface": "וחקות",
-      "gloss": "आउ खोंट"
+      "gloss": "आउ उकेरब"
     },
     {
       "surface": "עליה",
-      "gloss": "ओकरा ऊपर"
+      "gloss": "ओकरा पर"
     },
     {
       "surface": "עיר",
-      "gloss": "एक नगर"
+      "gloss": "नगर"
     },
     {
       "surface": "את",
@@ -87,6 +66,6 @@
       "gloss": "यरूशलयिम"
     }
   ],
-  "timestamp": "2026-10-14T18:16:59.261328313Z",
+  "timestamp": "2026-10-15T12:13:34.973316746Z",
   "model": "glm-5.3"
 }

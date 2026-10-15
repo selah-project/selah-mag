@@ -5,41 +5,15 @@
   "book": "ezekiel",
   "lang": "mag",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "हिब्रू के ढाँचा-सब्द अलइ, मगही में ओकर अरथ क्रिया में घुसलइ हे"
-    },
-    {
-      "kind": "you",
-      "subject": "मारऽ",
-      "rationale": "यहवे के दूत सब के सीधा आगून"
-    },
-    {
-      "kind": "idiom",
-      "subject": "हमर कान में",
-      "rationale": "באזני मूल में 'कान' के रूप हकइ, मतलब हमर सुनल में"
-    }
-  ],
-  "translation": "आउ ओकनी सब के हमर कान में कहलनक — नगर में ओकर पाछे-पाछे जाउ आउ मारऽ; तोहनी के आँख करुणा मत करऽ आउ मत बचाउ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "742ff5541b69573f7d9e74a9ea8ad730516d88935a1cb2ee6b1523f36c06e63e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/9\/5-8.1792001997875.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ एकरा सब के हमर कान में कहलन: “ओकरा पाछे नगर में गुजरऽ आउ मारऽ — तोहर आँख मत छोड़ऽ, आउ मत तरस खावऽ।”",
   "tokens": [
     {
       "surface": "ולאלה",
-      "gloss": "आउ ओकनी सब के"
+      "gloss": "आउ एकरा सब के"
     },
     {
       "surface": "אמר",
-      "gloss": "कहलनक"
+      "gloss": "कहलन"
     },
     {
       "surface": "באזני",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "עברו",
-      "gloss": "जाउ"
+      "gloss": "गुजरऽ"
     },
     {
       "surface": "בעיר",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "ओकर पाछे-पाछे"
+      "gloss": "ओकरा पाछे"
     },
     {
       "surface": "והכו",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "मत"
     },
     {
       "surface": "תחס",
-      "gloss": "करुणा मत करऽ"
+      "gloss": "छोड़ऽ"
     },
     {
       "surface": "עיניכם",
-      "gloss": "तोहनी के आँख"
+      "gloss": "तोहर आँख"
     },
     {
       "surface": "ואל",
@@ -79,9 +53,9 @@
     },
     {
       "surface": "תחמלו",
-      "gloss": "बचाउ"
+      "gloss": "तरस खावऽ"
     }
   ],
-  "timestamp": "2026-10-14T18:19:57.876079536Z",
+  "timestamp": "2026-10-15T12:15:50.317579939Z",
   "model": "glm-5.3"
 }

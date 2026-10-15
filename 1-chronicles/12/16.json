@@ -5,41 +5,15 @@
   "book": "1-chronicles",
   "lang": "mag",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "גדיתיו",
-      "rationale": "gidyāh — नदी के किनारा — तनाख़ में खाली इहे जगह।"
-    },
-    {
-      "kind": "substitution",
-      "subject": "किनारा",
-      "rationale": "मूल शब्द के आकृति नदी-किनारा हकइ; 'उफान' के भाव क्रिया ममले से आवै हइ।"
-    },
-    {
-      "kind": "measurement",
-      "subject": "पहिला महीना",
-      "rationale": "जॉर्डन पार करै के समय किसान।"
-    }
-  ],
-  "translation": "ईहेई ऊ हलनिये जे पहिला महीना में ⟨את⟩ यार्देन पार कइलन, जबे ऊ अपन सब किनारा पर उफान भरल हलइ, आउ ओकनी पूरब आउ पच्छिम दने के सब घाटी के मनईन के भगा देलनिये।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "81ed0f15bf17f2e71b01891ce694a465f094526b7325d4c1cb0b8ffff5eaa4a4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/12\/13-16.1792010193190.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ई हथिन जे यरदन के ⟨את⟩ पहिला महीना में पार कइलन, जखन ऊ ⟨हकइ⟩ अपन सब तट पर भरल रहे, आउ ओकनी पूबु आउ पछुँ के सब घाटी के ⟨את⟩ भगा देलन।",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "ईहेई"
+      "gloss": "ई"
     },
     {
       "surface": "הם",
-      "gloss": "ऊ"
+      "gloss": "हथिन"
     },
     {
       "surface": "אשר",
@@ -52,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "यार्देन"
+      "marks": "यरदन"
     },
     {
       "surface": "הירדן",
-      "gloss": "यार्देन"
+      "gloss": "यरदन"
     },
     {
       "surface": "בחדש",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "והוא",
-      "gloss": "जबे ऊ"
+      "gloss": "आउ ऊ"
     },
     {
       "surface": "ממלא",
-      "gloss": "उफान भरल हलइ"
+      "gloss": "भरल"
     },
     {
       "surface": "על",
@@ -84,16 +58,16 @@
     },
     {
       "surface": "גדיתיו",
-      "gloss": "किनारा"
+      "gloss": "अपन तट"
     },
     {
       "surface": "ויבריחו",
-      "gloss": "भगा देलनिये"
+      "gloss": "भगा देलन"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "सब घाटी के मनईन"
+      "marks": "सब घाटी"
     },
     {
       "surface": "כל",
@@ -101,17 +75,17 @@
     },
     {
       "surface": "העמקים",
-      "gloss": "घाटी के"
+      "gloss": "घाटी"
     },
     {
       "surface": "למזרח",
-      "gloss": "पूरब दने के"
+      "gloss": "पूबु के दने"
     },
     {
       "surface": "ולמערב",
-      "gloss": "आउ पच्छिम दने के"
+      "gloss": "आउ पछुँ के दने"
     }
   ],
-  "timestamp": "2026-10-14T20:36:33.191445574Z",
+  "timestamp": "2026-10-15T11:35:46.278769535Z",
   "model": "glm-5.3"
 }

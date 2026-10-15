@@ -5,41 +5,20 @@
   "book": "2-samuel",
   "lang": "mag",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עקב אשר",
-      "rationale": "एक्को सामिल कइल संग-सब्द; मगही में खाली काहे कि बहुबचन चाही"
-    },
-    {
-      "kind": "measurement",
-      "subject": "चार गुना",
-      "rationale": "चार गुना भरपाई के हिसाब — तोरा के नियाव (निर्गमन 22:1)"
-    }
-  ],
-  "translation": "आउ ⟨את⟩ मेमना ओ चार गुना भरतइ, काहे कि ओ ⟨את⟩ ई काम कइलक आउ ओकरा दया नञ देलक।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "bc8809d0aad713b5ee991d7ce3bdb701c9623abd502ef919ca22610f7858d513",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/12\/5-8.1791996149212.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ऊ ⟨את⟩ भेड़ के चार गुना चुकतू करतइ, काहे कि ऊ ई बात कइलन, आउ काहे कि ऊ ⟨את⟩ एकरा ऊपर तरस नञ खइलन।",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "मेमना"
+      "marks": "भेड़"
     },
     {
       "surface": "הכבשה",
-      "gloss": "मेमना"
+      "gloss": "भेड़"
     },
     {
       "surface": "ישלם",
-      "gloss": "भरतइ"
+      "gloss": "चुकतू करतइ"
     },
     {
       "surface": "ארבעתים",
@@ -51,20 +30,20 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "जे"
     },
     {
       "surface": "עשה",
-      "gloss": "कइलक"
+      "gloss": "कइलन"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ई काम"
+      "marks": "ई बात"
     },
     {
       "surface": "הדבר",
-      "gloss": "ई काम"
+      "gloss": "बात"
     },
     {
       "surface": "הזה",
@@ -72,11 +51,11 @@
     },
     {
       "surface": "ועל",
-      "gloss": "आउ"
+      "gloss": "आउ … ऊपर"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "जे"
     },
     {
       "surface": "לא",
@@ -84,9 +63,9 @@
     },
     {
       "surface": "חמל",
-      "gloss": "दया देलक"
+      "gloss": "तरस खइलन"
     }
   ],
-  "timestamp": "2026-10-14T16:42:29.213897338Z",
+  "timestamp": "2026-10-15T11:53:19.108249374Z",
   "model": "glm-5.3"
 }

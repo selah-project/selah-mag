@@ -5,62 +5,36 @@
   "book": "genesis",
   "lang": "mag",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "जादा",
-      "rationale": "הכבד literally 'weight\/heaviness' — here wealth\/glory; rendered जादा (abundance)"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨कि⟩",
-      "rationale": "Hebrew לאמר introduces direct speech; magahi needs कि connector"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לאבינו...לאבינו",
-      "rationale": "double repetition of 'our father's' — Laban's sons' resentful emphasis, kept by repetition"
-    }
-  ],
-  "translation": "आउ ओ लाबान (लबन) के बेटा सब के बात सब सुनलन ⟨कि⟩ कहऽ हथिन — याकोव (याकूब) हमनी के बाप के सब चीज लेलन, आउ हमनी के बाप के चीज से ओ ई सब जादा बनइलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "c18f01c20658d1d3b1531353c17f2891c1d965ede789c4d16e8a7a36b2fe9e11",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/31\/1-4.1791987257047.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ⟨ऊ⟩ सुनलन ⟨את⟩ बिलान के बेटा सब के बात, के कहऽ हथिन — याकोव हमर बाबूजी के सब ⟨את⟩ जे छलइ ऊ लेलन हकइ, आउ हमर बाबूजी के चीज में से ऊ एतना ⟨את⟩ सब जादा बनइलन हकइ।",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "सुनलन"
+      "gloss": "आउ ⟨ऊ⟩ सुनलन"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "बात सब"
+      "marks": "बिलान के बेटा सब के बात"
     },
     {
       "surface": "דברי",
-      "gloss": "बात सब"
+      "gloss": "बात"
     },
     {
       "surface": "בני",
-      "gloss": "बेटा सब"
+      "gloss": "बेटा सब के"
     },
     {
       "surface": "לבן",
-      "gloss": "लाबान"
+      "gloss": "बिलान"
     },
     {
       "surface": "לאמר",
-      "gloss": "कहऽ हथिन"
+      "gloss": "के कहऽ हथिन"
     },
     {
       "surface": "לקח",
-      "gloss": "लेलन"
+      "gloss": "लेलन हकइ"
     },
     {
       "surface": "יעקב",
@@ -69,11 +43,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "सब चीज"
+      "marks": "सब (जे हमर बाबूजी के छलइ)"
     },
     {
       "surface": "כל",
-      "gloss": "सब चीज"
+      "gloss": "सब"
     },
     {
       "surface": "אשר",
@@ -81,24 +55,24 @@
     },
     {
       "surface": "לאבינו",
-      "gloss": "हमनी के बाप के"
+      "gloss": "हमर बाबूजी के"
     },
     {
       "surface": "ומאשר",
-      "gloss": "आउ जे"
+      "gloss": "आउ जे चीज"
     },
     {
       "surface": "לאבינו",
-      "gloss": "हमनी के बाप के"
+      "gloss": "हमर बाबूजी के"
     },
     {
       "surface": "עשה",
-      "gloss": "बनइलन"
+      "gloss": "बनइलन हकइ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ई सब"
+      "marks": "सब जादा"
     },
     {
       "surface": "כל",
@@ -110,9 +84,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "ई"
+      "gloss": "एतना"
     }
   ],
-  "timestamp": "2026-10-14T14:14:17.048401530Z",
+  "timestamp": "2026-10-15T12:18:29.779841186Z",
   "model": "glm-5.3"
 }

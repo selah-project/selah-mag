@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "mag",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "सेना के गिनती",
-      "rationale": "verse musters an army horse-for-horse and chariot-for-chariot — counting as war-craft."
-    },
-    {
-      "kind": "you",
-      "subject": "तूँ",
-      "rationale": "servants instructing the king of Aram directly."
-    },
-    {
-      "kind": "idiom",
-      "subject": "אם לא",
-      "rationale": "rhetorical 'की नञ' — surely we shall be stronger; literal 'if not' kept as a question."
-    }
-  ],
-  "translation": "आउ तूँ आपन बर एक सेना गिन, जइसन सेना ⟨את⟩ तोहर सँग सँगे गिरलइ, आउ घोड़ी जइसन घोड़ी, आउ रथ जइसन रथ; आउ हम ओकनी सँग मैदान में लड़ब — की हम ओकनी सँगें बलवान नञ अइब? आउ ओ ओकनी के बोली सुनलक आउ तइसने करलक।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "dda7015237efff6b35ac886273246967713e63c84c99c8763a843ebac5d11006",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/20\/25-28.1791997587100.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ तूँ अपना बर सेना गिनऽ ले — जइसन ओ सेना जे तोहरा सँग ⟨את⟩ गिरलइ — घोड़ी घोड़ी के बराबर आउ रथ रथ के बराबर, आउ हमनी ओकनी सँग ⟨את⟩ मैदान में लड़बइ; की हमनी ओकनी से जादे बलवान नञ हइ? आउ ऊ ओकनी के बोली सुनलन आउ तइसने करलन।",
   "tokens": [
     {
       "surface": "ואתה",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "תמנה",
-      "gloss": "गिन"
+      "gloss": "गिनऽ ले"
     },
     {
       "surface": "לך",
-      "gloss": "आपन बर"
+      "gloss": "अपना बर"
     },
     {
       "surface": "חיל",
-      "gloss": "एक सेना"
+      "gloss": "सेना"
     },
     {
       "surface": "כחיל",
@@ -55,11 +29,12 @@
     },
     {
       "surface": "הנפל",
-      "gloss": "जे गिरल"
+      "gloss": "गिरलइ"
     },
     {
       "surface": "מאותך",
-      "gloss": "⟨את⟩ तोहर सँग सँगे"
+      "gloss": "तोहरा सँग ⟨את⟩",
+      "marks": "सेना, घोड़ी आउ रथ"
     },
     {
       "surface": "וסוס",
@@ -67,7 +42,7 @@
     },
     {
       "surface": "כסוס",
-      "gloss": "जइसन घोड़ी"
+      "gloss": "घोड़ी के बराबर"
     },
     {
       "surface": "ורכב",
@@ -75,16 +50,16 @@
     },
     {
       "surface": "כרכב",
-      "gloss": "जइसन रथ"
+      "gloss": "रथ के बराबर"
     },
     {
       "surface": "ונלחמה",
-      "gloss": "आउ हम लड़ब"
+      "gloss": "आउ हमनी लड़बइ"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ओकनी सँग"
+      "marks": "ओकनी (इस्राएल के लोग)"
     },
     {
       "surface": "במישור",
@@ -100,15 +75,15 @@
     },
     {
       "surface": "נחזק",
-      "gloss": "बलवान अइब"
+      "gloss": "जादे बलवान"
     },
     {
       "surface": "מהם",
-      "gloss": "ओकनी सँगें"
+      "gloss": "ओकनी से"
     },
     {
       "surface": "וישמע",
-      "gloss": "आउ सुनलक"
+      "gloss": "आउ सुनलन"
     },
     {
       "surface": "לקלם",
@@ -116,13 +91,13 @@
     },
     {
       "surface": "ויעש",
-      "gloss": "आउ करलक"
+      "gloss": "आउ करलन"
     },
     {
       "surface": "כן",
       "gloss": "तइसने"
     }
   ],
-  "timestamp": "2026-10-14T17:06:27.101133091Z",
+  "timestamp": "2026-10-15T11:40:49.246614616Z",
   "model": "glm-5.3"
 }

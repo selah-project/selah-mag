@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "mag",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "dates",
-      "rationale": "Verse dates the word by two regnal years: Zedekiah's tenth = Nebuchadrezzar's eighteenth."
-    },
-    {
-      "kind": "elision",
-      "subject": "שמנה עשרה",
-      "rationale": "Hebrew says 'eight-ten'; Magahi has one word अठारहवाँ, so the second numeral token has no separate gloss."
-    }
-  ],
-  "translation": "ओ बात जे यिर्मेयाहू के यहवे ⟨את⟩ के पास से आइलइ, त्सिद्कियाहू यहूदा के राजा के दसवाँ बरिस में; ओही बरिस हकइ नवूखदरेत्सर के अठारहवाँ बरिस।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "c5ac7d8e27ee2320ca5fd7b32c8d475e3591a5e333086d90052dca9e63c71fa1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/32\/1-4.1792000990566.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "जे बात यिर्मियाहु (यिर्मयाह) के पास यहवे ⟨את⟩ के पास से अइलइ — त्सिदकियाहु (सिदकिय्याह), यहूदा के राजा, के दसवाँ बरिस में; ऊ बरिस नबुखद्रेस्सर (नबूकदनेस्सर) के अठारहवाँ बरिस हलइ।",
   "tokens": [
     {
       "surface": "הדבר",
-      "gloss": "ओ बात"
+      "gloss": "जे बात"
     },
     {
       "surface": "אשר",
@@ -38,24 +17,24 @@
     },
     {
       "surface": "היה",
-      "gloss": "आइलइ"
+      "gloss": "अइलइ"
     },
     {
       "surface": "אל",
-      "gloss": "के"
+      "gloss": "के पास"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "यिर्मेयाहू के"
+      "gloss": "यिर्मियाहु"
     },
     {
       "surface": "מאת",
       "gloss": "⟨את⟩",
-      "marks": "यहवे"
+      "marks": "यहवे के पास से"
     },
     {
       "surface": "יהוה",
-      "gloss": "यहवे के पास से"
+      "gloss": "यहवे"
     },
     {
       "surface": "בשנת",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "לצדקיהו",
-      "gloss": "त्सिद्कियाहू के"
+      "gloss": "त्सिदकियाहु के"
     },
     {
       "surface": "מלך",
@@ -79,19 +58,19 @@
     },
     {
       "surface": "היא",
-      "gloss": "ओही"
+      "gloss": "ऊ"
     },
     {
       "surface": "השנה",
-      "gloss": "बरिस हकइ"
+      "gloss": "बरिस"
     },
     {
       "surface": "שמנה",
-      "gloss": "अठारहवाँ"
+      "gloss": "अठारह"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "(अठारह) दस"
     },
     {
       "surface": "שנה",
@@ -99,9 +78,9 @@
     },
     {
       "surface": "לנבוכדראצר",
-      "gloss": "नवूखदरेत्सर के"
+      "gloss": "नबुखद्रेस्सर के"
     }
   ],
-  "timestamp": "2026-10-14T18:03:10.567417556Z",
+  "timestamp": "2026-10-15T12:30:12.405025150Z",
   "model": "glm-5.3"
 }

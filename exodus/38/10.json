@@ -5,27 +5,11 @@
   "book": "exodus",
   "lang": "mag",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "बीस खम्भा",
-      "rationale": "आँगन के सामान के गिनती।"
-    }
-  ],
-  "translation": "ओकर खम्भा बीस आउ ओकर मूल-पत्थल बीस, ताम्बा के; खम्भा के काँटा आउ ओकर छल्ला चानी के।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "9ddd22e2caac854851d8b578ff1bae338ba7cb37f957c495eb14b905c6ed51bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/38\/9-12.1791989277219.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ओकनी के खम्भा बीस आउ ओकनी के पाया बीस, ताम्र के; खम्भा सब के काँटा आउ ओकनी के जोड़-छड़ी चानी के।",
   "tokens": [
     {
       "surface": "עמודיהם",
-      "gloss": "ओकर खम्भा"
+      "gloss": "ओकनी के खम्भा"
     },
     {
       "surface": "עשרים",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "ואדניהם",
-      "gloss": "आउ ओकर मूल-पत्थल"
+      "gloss": "आउ ओकनी के पाया"
     },
     {
       "surface": "עשרים",
@@ -41,21 +25,25 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "ताम्बा"
+      "gloss": "ताम्र के"
     },
     {
-      "surface": "וגוי העמדים",
-      "gloss": "खम्भा के काँटा"
+      "surface": "וגוי",
+      "gloss": "काँटा"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "खम्भा सब के"
     },
     {
       "surface": "וחשקיהם",
-      "gloss": "आउ ओकर छल्ला"
+      "gloss": "आउ ओकनी के जोड़-छड़ी"
     },
     {
       "surface": "כסף",
-      "gloss": "चानी"
+      "gloss": "चानी के"
     }
   ],
-  "timestamp": "2026-10-14T14:47:57.220712258Z",
+  "timestamp": "2026-10-15T12:07:48.229011292Z",
   "model": "glm-5.3"
 }

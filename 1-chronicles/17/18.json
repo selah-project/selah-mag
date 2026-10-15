@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "mag",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "מה יוסיף עוד",
-      "rationale": "दुसरा पाठ — 'दाविद आगू आउ का कहतइ', काहे कि किंग जेम्स संग 'कहना' पढ़ऽ हइ; मूल क्रिया 'जोड़ना' हकइ।"
-    },
-    {
-      "kind": "you",
-      "subject": "दाविद यहवे से",
-      "rationale": "दाविद के प्रार्थना यहवे के सीधे सम्बोधन हकइ।"
-    }
-  ],
-  "translation": "दाविद तोहर नौकर-चाकर के मान-बड़ाई बर आगू आउ का जोड़तइ? आउ तूँ ⟨את⟩ तोहर नौकर-चाकर के जानऽ हथिन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "4995ccb8f4d0895b108c95f5ffe7fb04df01a265ec69a65f4bbe661eca6a2c6b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/17\/17-20.1792010323565.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "दाविद आउ का जोड़े तोहरा तोहर सेवक के मान के बर? आउ तूँ ⟨את⟩ तोहर सेवक के जानथिन।",
   "tokens": [
     {
       "surface": "מה",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "יוסיף",
-      "gloss": "जोड़तइ"
+      "gloss": "जोड़े"
     },
     {
       "surface": "עוד",
-      "gloss": "आगू आउ"
+      "gloss": "आउ"
     },
     {
       "surface": "דויד",
@@ -50,16 +29,16 @@
     },
     {
       "surface": "לכבוד",
-      "gloss": "मान-बड़ाई बर"
+      "gloss": "मान के बर"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "तोहर नौकर-चाकर के"
+      "marks": "तोहर सेवक के"
     },
     {
       "surface": "עבדך",
-      "gloss": "तोहर नौकर-चाकर के"
+      "gloss": "तोहर सेवक के"
     },
     {
       "surface": "ואתה",
@@ -68,17 +47,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "तोहर नौकर-चाकर के"
+      "marks": "तोहर सेवक के"
     },
     {
       "surface": "עבדך",
-      "gloss": "तोहर नौकर-चाकर"
+      "gloss": "तोहर सेवक के"
     },
     {
       "surface": "ידעת",
-      "gloss": "जानऽ हथिन"
+      "gloss": "जानथिन"
     }
   ],
-  "timestamp": "2026-10-14T20:38:43.566271981Z",
+  "timestamp": "2026-10-15T11:35:31.307286703Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "proverbs",
   "lang": "mag",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "रखना",
-      "rationale": "मगही क्रिया बर जोड़ल; इब्रानी खाली बिसेसन देत हइ।"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גאון\/גאים",
-      "rationale": "पद 18 के גאור्न आउ इहाँ गेईम एके जड़ — घमंड के सूत्र दुनो पद में।"
-    }
-  ],
-  "translation": "गरीब के संग नीच रूआख रखना अच्छा हकइ, घमंडी के संग ⟨את⟩ लूट के बाँटल से।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "80dc7da0d2e4f36f606cb1ada8fb4413dffe2b50a3a819bfc8a4e14a70754d7f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/16\/18-19.1792012107237.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "नीक हइ ⟨את⟩ गरीबन संग नीचा रूआख रखना, ⟨את⟩ घमंडी सब संग लूट के बाँटल से।",
   "tokens": [
     {
       "surface": "טוב",
-      "gloss": "अच्छा हकइ"
+      "gloss": "नीक"
     },
     {
       "surface": "שפל",
-      "gloss": "नीच"
+      "gloss": "नीचा"
     },
     {
       "surface": "רוח",
@@ -43,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "गरीब के"
+      "marks": "गरीब सब"
     },
     {
       "surface": "עניים",
-      "gloss": "गरीब"
+      "gloss": "गरीब सब"
     },
     {
       "surface": "מחלק",
-      "gloss": "बाँटल"
+      "gloss": "बाँटना"
     },
     {
       "surface": "שלל",
@@ -60,13 +39,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "घमंडी के"
+      "marks": "घमंडी सब"
     },
     {
       "surface": "גאים",
-      "gloss": "घमंडी"
+      "gloss": "घमंडी सब"
     }
   ],
-  "timestamp": "2026-10-14T21:08:27.238094109Z",
+  "timestamp": "2026-10-15T12:56:40.859510648Z",
   "model": "glm-5.3"
 }

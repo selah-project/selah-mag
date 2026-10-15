@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "mag",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "क्रोध",
-      "rationale": "אף literally 'nose\/nostrils' — anger by body-part; Magahi क्रोध loses the picture"
-    },
-    {
-      "kind": "idiom",
-      "subject": "पूरा मुँह से खा गेलन",
-      "rationale": "Hebrew 'devour with the whole mouth' — total consumption, kept literal"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לא שב אפו ועוד ידו נטויה",
-      "rationale": "refrain repeated at 9:12,17,21 and 10:4 — structural refrain of the chapter"
-    }
-  ],
-  "translation": "अराम पूरुब से आउ पलिश्ती पाछू से, आउ ओकनी ⟨את⟩ यिस्राएल के पूरा मुँह से खा गेलन। ए सब के बावजूद ओकर क्रोध नञ टललइ आउ ओकर हाथ अबहीं तनल रहलइ हे।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/9\/9-12.1791998754863.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "अराम पूबु दने से आउ पलिश्ती पाछाँ से, आउ ओकनी खइलक ⟨את⟩ यिस्राएल के पूरा मुँह लगाके। एहू सब में ओकर गुस्सा नञ लौटल, आउ ओकर हाथ अबहीं तनल रहल हे।",
   "tokens": [
     {
       "surface": "ארם",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "מקדם",
-      "gloss": "पूरुब से"
+      "gloss": "पूबु दने से"
     },
     {
       "surface": "ופלשתים",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "מאחור",
-      "gloss": "पाछू से"
+      "gloss": "पाछाँ से"
     },
     {
       "surface": "ויאכלו",
-      "gloss": "खा गेलन"
+      "gloss": "आउ ओकनी खइलक"
     },
     {
       "surface": "את",
@@ -68,15 +42,15 @@
     },
     {
       "surface": "פה",
-      "gloss": "मुँह"
+      "gloss": "मुँह लगाके"
     },
     {
       "surface": "בכל",
-      "gloss": "ए सब के बावजूद"
+      "gloss": "एहू सब"
     },
     {
       "surface": "זאת",
-      "gloss": ""
+      "gloss": "में"
     },
     {
       "surface": "לא",
@@ -84,15 +58,15 @@
     },
     {
       "surface": "שב",
-      "gloss": "टललइ"
+      "gloss": "लौटल"
     },
     {
       "surface": "אפו",
-      "gloss": "ओकर क्रोध"
+      "gloss": "ओकर गुस्सा"
     },
     {
       "surface": "ועוד",
-      "gloss": "अबहीं"
+      "gloss": "आउ अबहीं"
     },
     {
       "surface": "ידו",
@@ -100,9 +74,9 @@
     },
     {
       "surface": "נטויה",
-      "gloss": "तनल रहलइ हे"
+      "gloss": "तनल रहल हे"
     }
   ],
-  "timestamp": "2026-10-14T17:25:54.864222365Z",
+  "timestamp": "2026-10-15T12:28:23.518609021Z",
   "model": "glm-5.3"
 }

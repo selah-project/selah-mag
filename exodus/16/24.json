@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "mag",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "बास आइल",
-      "rationale": "הבאיש के साक्षात अरथ 'बास आवना \/ दुर्गंध होना' हकइ; 'सड़ना' (rot) परम्परा के नरम रूप हकइ"
-    },
-    {
-      "kind": "elision",
-      "subject": "משे के बाद 'हलन'",
-      "rationale": "हिन्दी\/मगही 'जैसा मोशे ने आज्ञा दी थी' जैसा पूर्ण भूतकाल बनावे बर सहायक क्रिया — मगही रूप -लन आदर के संग"
-    },
-    {
-      "kind": "hapax",
-      "subject": "הבאיש",
-      "rationale": "इब्रानी क्रिया 'बास आवना' — तनाख में बहुत कम आवे वाला रूप"
-    }
-  ],
-  "translation": "आउ ओकनी ओकरा भोर ले रखलन, जइसन मोशे (मूसा) हुकुम देलन हलन; आउ ओकरा में बास नञ आइल, आउ किरा नञ रहल।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "0f30a42bb69f4906216e542ab63da7a0dbf90728a9fd0790baf1d3abe92ece6e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/16\/24-24.1792011508500.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ओकनी ओकरा ⟨את⟩ भोर तक राखलन, जइसने मोशे (मूसा) हुकुम देलन हल, आउ ओकरा में बास नञ छुटल, आउ कीड़ा ओकरा में नञ हलइ।",
   "tokens": [
     {
       "surface": "ויניחו",
-      "gloss": "आउ ओकनी ओकरा रखलन"
+      "gloss": "राखलन"
     },
     {
       "surface": "אתו",
@@ -44,7 +18,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "ले"
+      "gloss": "भोर तक"
     },
     {
       "surface": "הבקר",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "जइसन"
+      "gloss": "जइसने"
     },
     {
       "surface": "צוה",
@@ -63,16 +37,16 @@
       "gloss": "मोशे"
     },
     {
-      "surface": "ולא",
-      "gloss": "आउ नञ"
+      "surface": "ו לא",
+      "gloss": "नञ"
     },
     {
       "surface": "הבאיש",
-      "gloss": "बास आइल"
+      "gloss": "बास छुटल"
     },
     {
       "surface": "ורמה",
-      "gloss": "आउ किरा"
+      "gloss": "आउ कीड़ा"
     },
     {
       "surface": "לא",
@@ -80,13 +54,13 @@
     },
     {
       "surface": "היתה",
-      "gloss": "रहल"
+      "gloss": "हलइ"
     },
     {
       "surface": "בו",
       "gloss": "ओकरा में"
     }
   ],
-  "timestamp": "2026-10-14T20:58:28.501196104Z",
+  "timestamp": "2026-10-15T12:04:06.021395811Z",
   "model": "glm-5.3"
 }

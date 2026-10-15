@@ -5,38 +5,7 @@
   "book": "ezra",
   "lang": "mag",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "महल के नोन खाइल बुझाइ हइ",
-      "rationale": "מלח היכלא 'salt of the palace' = drawing sustenance\/pay from the king; literal salt kept, idiom explained."
-    },
-    {
-      "kind": "substitution",
-      "subject": "बेइज्जती",
-      "rationale": "ערות literally 'nakedness', here figuratively 'dishonour\/impoverishment' of the king."
-    },
-    {
-      "kind": "elision",
-      "subject": "כל קבל",
-      "rationale": "Aramaic particle pair כל קבל 'because (of all that)' compressed to काहे कि; כल elided."
-    },
-    {
-      "kind": "you",
-      "subject": "to the king",
-      "rationale": "Courtiers' letter continues addressing the king in first-person plural."
-    }
-  ],
-  "translation": "अब काहे कि हमनी राजा के महल के नोन खाइल बुझाइ हइ, आउ राजा के बेइज्जती हमनी के देखऽ नञ ठीक लागऽ हइ, एहे से हमनी ⟨चिट्ठी⟩ भेजलियन आउ राजा के बतैलियन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "1a4432da1d338578ac3162c4029d8cf0cc343d883fa4a5e08a267b28e105e3b5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezra\/4\/13-16.1792009326976.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "अब काहे कि हमनी महल के नमक खाइत रही, आउ राजा के नंगापन हमनी के देखल ठीक नञ लागत, एहे कारण हमनी राजा के बर भेजलन आउ बतावलन।",
   "tokens": [
     {
       "surface": "כען",
@@ -44,11 +13,11 @@
     },
     {
       "surface": "כל",
-      "gloss": ""
+      "gloss": "(एहे)"
     },
     {
       "surface": "קבל",
-      "gloss": "काहे कि"
+      "gloss": "काहे"
     },
     {
       "surface": "די",
@@ -56,7 +25,7 @@
     },
     {
       "surface": "מלח",
-      "gloss": "नोन"
+      "gloss": "नमक"
     },
     {
       "surface": "היכלא",
@@ -64,11 +33,11 @@
     },
     {
       "surface": "מלחנא",
-      "gloss": "खाइल बुझाइ हइ"
+      "gloss": "खाइत रही"
     },
     {
       "surface": "וערות",
-      "gloss": "आउ बेइज्जती"
+      "gloss": "आउ नंगापन"
     },
     {
       "surface": "מלכא",
@@ -80,7 +49,7 @@
     },
     {
       "surface": "אריך",
-      "gloss": "ठीक लागऽ हइ"
+      "gloss": "ठीक लागत"
     },
     {
       "surface": "לנא",
@@ -88,29 +57,29 @@
     },
     {
       "surface": "למחזא",
-      "gloss": "देखऽ"
+      "gloss": "देखल"
     },
     {
       "surface": "על",
-      "gloss": "एहे से"
-    },
-    {
-      "surface": "דנה",
       "gloss": "एहे"
     },
     {
+      "surface": "דנה",
+      "gloss": "कारण"
+    },
+    {
       "surface": "שלחנא",
-      "gloss": "भेजलियन"
+      "gloss": "भेजलन"
     },
     {
       "surface": "והודענא",
-      "gloss": "आउ बतैलियन"
+      "gloss": "आउ बतावलन"
     },
     {
       "surface": "למלכא",
-      "gloss": "राजा के"
+      "gloss": "राजा के बर"
     }
   ],
-  "timestamp": "2026-10-14T20:22:06.977940568Z",
+  "timestamp": "2026-10-15T12:15:35.572824784Z",
   "model": "glm-5.3"
 }

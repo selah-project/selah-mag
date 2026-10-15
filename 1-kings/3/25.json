@@ -5,27 +5,11 @@
   "book": "1-kings",
   "lang": "mag",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "दोसर",
-      "rationale": "हिब्रू दूनो बर एके शब्द लאחת बेहै अछि; दोसर जोड़ल गेल अछि जे स्पष्ट होवे"
-    }
-  ],
-  "translation": "आउ राजा कहलन — जियत बुतरू के दू काट दिअउ ⟨את⟩, आउ आधा एक के दिअउ आउ ⟨את⟩ आधा दोसर के दिअउ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "ecdd2f0eb860736a6866a395935254e30403f39ef7e60882d270ade41a63d6de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-kings\/3\/25-28.1791996770194.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ राजा कहलन — जियत बुतरू के दू हिस्सा में काट दिअऽ, आउ ⟨את⟩ आधा हिस्सा एके जनाना के दिअऽ आउ ⟨את⟩ आधा हिस्सा दोसर जनाना के दिअऽ।",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "आउ राजा कहलन"
+      "gloss": "आउ कहलन"
     },
     {
       "surface": "המלך",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "גזרו",
-      "gloss": "काट दिअउ"
+      "gloss": "काट दिअऽ"
     },
     {
       "surface": "את",
@@ -50,39 +34,39 @@
     },
     {
       "surface": "לשנים",
-      "gloss": "दू"
+      "gloss": "दू हिस्सा में"
     },
     {
       "surface": "ותנו",
-      "gloss": "आउ दिअउ"
+      "gloss": "आउ दिअऽ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "आधा"
+      "marks": "आधा हिस्सा"
     },
     {
       "surface": "החצי",
-      "gloss": "आधा"
+      "gloss": "आधा हिस्सा"
     },
     {
       "surface": "לאחת",
-      "gloss": "एक के"
+      "gloss": "एके जनाना के"
     },
     {
       "surface": "ואת",
       "gloss": "आउ ⟨את⟩",
-      "marks": "आधा"
+      "marks": "आधा हिस्सा"
     },
     {
       "surface": "החצי",
-      "gloss": "आधा"
+      "gloss": "आधा हिस्सा"
     },
     {
       "surface": "לאחת",
-      "gloss": "दोसर के"
+      "gloss": "दोसर जनाना के"
     }
   ],
-  "timestamp": "2026-10-14T16:52:50.194903181Z",
+  "timestamp": "2026-10-15T11:40:23.087320411Z",
   "model": "glm-5.3"
 }

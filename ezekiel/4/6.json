@@ -5,121 +5,95 @@
   "book": "ezekiel",
   "lang": "mag",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "दिन बरिस बर",
-      "rationale": "एक दिन = एक बरिस के नियम ई पद में खुद घोसित हइ।"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יום לשנה יום לשנה",
-      "rationale": "दोहराव — दिन बरिस बर, दिन बरिस बर — इब्रानी के ठाठ दोहरावऽ हइ।"
-    },
-    {
-      "kind": "you",
-      "subject": "यहेजकेल के",
-      "rationale": "आदेश यहेजकेल के सीधे देल गेलइ।"
-    }
-  ],
-  "translation": "आउ जब ई सब पूरा कर लेबइ, तब दोसरा बेर तोहर दहिना कात्त पर सोबइ, आउ तूँ ⟨את⟩ यहूदा के घर के अधरम उठाबइ — चालीस दिन; दिन बरिस बर, दिन बरिस बर, हम तोहरा देलिअन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "5b3e78c809d6b2e885eac2adc32807b6346dc0be1971def5e47b633dd3158197",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/4\/5-8.1792001832543.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ जब तूँ ⟨את⟩ ई सब पूरा कर लेबइ, तब दोसरा बेर अपन दहिना कात्थ पर लेटबइ, आउ यहूदा के घर के ⟨את⟩ पाप चालीस दिन उठाबइ — एक दिन एक बरिस बर, एक दिन एक बरिस बर — हम ओकरा तोहरा देलन हे।",
   "tokens": [
     {
-      "surface": "וכלית",
-      "gloss": "आउ जब पूरा कर लेबइ"
+      "surface": "וְכִלִּיתָ",
+      "gloss": "पूरा कर लेबइ"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
       "marks": "ई सब"
     },
     {
-      "surface": "אלה",
+      "surface": "אֵלֶּה",
       "gloss": "ई सब"
     },
     {
-      "surface": "ושכבת",
-      "gloss": "तब सोबइ"
+      "surface": "וְשָׁכַבְתָּ",
+      "gloss": "लेटबइ"
     },
     {
-      "surface": "על",
+      "surface": "עַל",
       "gloss": "पर"
     },
     {
-      "surface": "צדך",
-      "gloss": "तोहर कात्त"
+      "surface": "צִדְּךָ",
+      "gloss": "अपन कात्थ"
     },
     {
-      "surface": "הימיני",
+      "surface": "הַיְמָינִי",
       "gloss": "दहिना"
     },
     {
-      "surface": "שנית",
+      "surface": "שֵׁנִית",
       "gloss": "दोसरा बेर"
     },
     {
-      "surface": "ונשאת",
-      "gloss": "आउ तूँ उठाबइ"
+      "surface": "וְנָשָׂאתָ",
+      "gloss": "उठाबइ"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "यहूदा के घर के अधरम"
+      "marks": "पाप"
     },
     {
-      "surface": "עון",
-      "gloss": "अधरम"
+      "surface": "עָוֺן",
+      "gloss": "पाप"
     },
     {
-      "surface": "בית",
+      "surface": "בֵּית",
       "gloss": "घर"
     },
     {
-      "surface": "יהודה",
+      "surface": "יְהוּדָה",
       "gloss": "यहूदा"
     },
     {
-      "surface": "ארבעים",
+      "surface": "אַרְבָּעִים",
       "gloss": "चालीस"
     },
     {
-      "surface": "יום",
+      "surface": "יוֹם",
       "gloss": "दिन"
     },
     {
-      "surface": "יום",
+      "surface": "יוֹם",
       "gloss": "दिन"
     },
     {
-      "surface": "לשנה",
-      "gloss": "बरिस बर"
+      "surface": "לַשָּׁנָה",
+      "gloss": "एक बरिस बर"
     },
     {
-      "surface": "יום",
+      "surface": "יוֹם",
       "gloss": "दिन"
     },
     {
-      "surface": "לשנה",
-      "gloss": "बरिस बर"
+      "surface": "לַשָּׁנָה",
+      "gloss": "एक बरिस बर"
     },
     {
-      "surface": "נתתיו",
-      "gloss": "हम ओकरा देलिअन"
+      "surface": "נְתַתִּיו",
+      "gloss": "हम ओकरा देलन हे"
     },
     {
-      "surface": "לך",
+      "surface": "לָךְ",
       "gloss": "तोहरा"
     }
   ],
-  "timestamp": "2026-10-14T18:17:12.544764697Z",
+  "timestamp": "2026-10-15T12:13:35.119517859Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "mag",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "कोनो",
-      "rationale": "हिब्रू के प्रस्न रूप में अनिश्चित सर्बनाम मगही के बोल में जोड़ल गेल।"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "पूरा पद यिस्राएल के दोसरा बचन में सम्बोधन हकइ।"
-    }
-  ],
-  "translation": "लोग बड़ आउ ऊँच — अनाकी के बेटा सब, जेकरा तूँ जानऽ हऽ है आउ जेकरा बारे में तूँ सुनने हऽ है: की अनाक के बेटा के आगे ठाढ़ हो सकऽ है?",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "c298cf0073ab1c65ea62ad12d9b9b519ee49c8cf6fc63b54e0ad4a07c4f2f618",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/9\/1-4.1791992305956.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "एगार लोग बड़ आउ ऊँच, अनाक के बेटा लोग, जेकरा तूँ जानऽ हऽ, आउ जेकर बारे में तूँ सुनला हऽ — अनाक के बेटा सब के आगे कुन ठाढ़े रहि सकऽ हइ?",
   "tokens": [
     {
       "surface": "עם",
-      "gloss": "लोग"
+      "gloss": "एगार लोग"
     },
     {
       "surface": "גדול",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "बेटा सब"
+      "gloss": "के बेटा लोग"
     },
     {
       "surface": "ענקים",
-      "gloss": "अनाकी के"
+      "gloss": "अनाक के"
     },
     {
       "surface": "אשר",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ידעת",
-      "gloss": "जानऽ हऽ है"
+      "gloss": "जानऽ हऽ"
     },
     {
       "surface": "ואתה",
@@ -66,15 +45,15 @@
     },
     {
       "surface": "שמעת",
-      "gloss": "सुनने हऽ है"
+      "gloss": "सुनला हऽ"
     },
     {
       "surface": "מי",
-      "gloss": "की कोनो"
+      "gloss": "कुन"
     },
     {
       "surface": "יתיצב",
-      "gloss": "ठाढ़ हो सकऽ है"
+      "gloss": "ठाढ़े रहि सकऽ हइ"
     },
     {
       "surface": "לפני",
@@ -82,13 +61,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "बेटा"
+      "gloss": "बेटा सब के"
     },
     {
       "surface": "ענק",
       "gloss": "अनाक"
     }
   ],
-  "timestamp": "2026-10-14T15:38:25.957227962Z",
+  "timestamp": "2026-10-15T12:02:23.176964754Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,16 @@
   "book": "2-chronicles",
   "lang": "mag",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "अनार के गिनती",
-      "rationale": "चारि सैकड़ा अनार, दू पँति, दू जाली — पद के पूरा ढाँचा गिनती पर टिकल हे।"
-    },
-    {
-      "kind": "substitution",
-      "subject": "गोल कटोरा",
-      "rationale": "גֻלָּה गोल चीज (फव्वारा\/कटोरा\/गोला) — बिल्कुल गोल आकार के सब्द हकइ।"
-    }
-  ],
-  "translation": "आउ ⟨את⟩ अनार सब — चारि सैकड़ा — दू जाली सब बर; दू पँति अनार एक जाली बर, दू गोल कटोरा सब के ढके बर, जे छत्री सब खम्भा सब के आगू पर हलथिन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "2723865abed1ce2cc8f9d3c4705274dfdcb6f38f134fd8a0e66c9ae8b7dfd864",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/4\/13-16.1792010663798.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ⟨את⟩ अनार के चारि सौ, दूनो जाली बर — हरेक एक जाली बर अनार के दू पंकति, दूनो गोल कटोरी के ढाके बर जे खम्भा सब के मुकुट के मुँह पर हलन।",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "अनार सब"
+      "marks": "अनार"
     },
     {
       "surface": "הרמונים",
-      "gloss": "अनार सब"
+      "gloss": "अनार"
     },
     {
       "surface": "ארבע",
@@ -43,15 +22,15 @@
     },
     {
       "surface": "מאות",
-      "gloss": "सैकड़ा"
+      "gloss": "सौ"
     },
     {
       "surface": "לשתי",
-      "gloss": "दू बर"
+      "gloss": "दूनो बर"
     },
     {
       "surface": "השבכות",
-      "gloss": "जाली सब"
+      "gloss": "जाली"
     },
     {
       "surface": "שנים",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "טורים",
-      "gloss": "पँति"
+      "gloss": "पंकति"
     },
     {
       "surface": "רמונים",
@@ -75,24 +54,24 @@
     },
     {
       "surface": "לכסות",
-      "gloss": "ढके बर"
+      "gloss": "ढाके बर"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "दू"
+      "marks": "दूनो गोल कटोरी"
     },
     {
       "surface": "שתי",
-      "gloss": "दू"
+      "gloss": "दूनो"
     },
     {
       "surface": "גלות",
-      "gloss": "गोल कटोरा सब"
+      "gloss": "गोल कटोरी"
     },
     {
       "surface": "הכתרות",
-      "gloss": "छत्री सब"
+      "gloss": "मुकुट"
     },
     {
       "surface": "אשר",
@@ -100,17 +79,17 @@
     },
     {
       "surface": "על",
-      "gloss": "के आगू पर"
+      "gloss": "पर"
     },
     {
       "surface": "פני",
-      "gloss": "आगू"
+      "gloss": "मुँह"
     },
     {
       "surface": "העמודים",
       "gloss": "खम्भा सब"
     }
   ],
-  "timestamp": "2026-10-14T20:44:23.798877185Z",
+  "timestamp": "2026-10-15T11:47:42.768715786Z",
   "model": "glm-5.3"
 }

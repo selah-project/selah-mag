@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "mag",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "השם",
-      "rationale": "'एही नाम' — यहवे खुद नाम हकइ, कोनो उपाधि नञ; कतुबा 'the Name' के रूप में देवता के पर्याय बना देलक।"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "पूरा पद तूँ\/तोहर संग इस्राएल के सीधा सम्बोधन।"
-    },
-    {
-      "kind": "measurement",
-      "subject": "book of the torah",
-      "rationale": "तोरा के सब बात के लिखल-गिनल होना — किताब के परति संदर्भ।"
-    }
-  ],
-  "translation": "जँ तूँ एही किताब में लिखल एहे तोरा के सब बात के रखवारी करके नञ करऽ हऽ, कि एही महान आउ भय-लागू नाम — यहवे, तोहर एलोहीम — के डर लऽ —",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "7b75ced901d03558e44795d428faafe94ade63ab081581a537a68576b5b7242f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/28\/57-60.1791992861096.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "जे तूँ एहि किताब में लिखल एहा तोरा के सब बात ⟨את⟩ रखवारी कर के नञ करऽ हे — एहि भारी-मान आउ भय-देने नाम ⟨את⟩ यहवे तोहर एलोहीम ⟨את⟩ के डर के बर —",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "जँ"
+      "gloss": "जे"
     },
     {
       "surface": "לא",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "תשמר",
-      "gloss": "रखवारी करऽ हऽ"
+      "gloss": "रखवारी करऽ हे"
     },
     {
       "surface": "לעשות",
-      "gloss": "करके"
+      "gloss": "करे बर"
     },
     {
       "surface": "את",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "התורה",
-      "gloss": "एहे तोरा के"
+      "gloss": "तोरा"
     },
     {
       "surface": "הזאת",
-      "gloss": "एहे"
+      "gloss": "एहा"
     },
     {
       "surface": "הכתובים",
@@ -80,32 +54,32 @@
     },
     {
       "surface": "הזה",
-      "gloss": "एही"
+      "gloss": "एहि"
     },
     {
       "surface": "ליראה",
-      "gloss": "डर लेबा बर"
+      "gloss": "डर के बर"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "एही नाम"
+      "marks": "नाम"
     },
     {
       "surface": "השם",
-      "gloss": "एही नाम"
+      "gloss": "नाम"
     },
     {
       "surface": "הנכבד",
-      "gloss": "महान"
+      "gloss": "भारी-मान"
     },
     {
       "surface": "והנורא",
-      "gloss": "आउ भय-लागू"
+      "gloss": "आउ भय-देने"
     },
     {
       "surface": "הזה",
-      "gloss": "एही"
+      "gloss": "एहि"
     },
     {
       "surface": "את",
@@ -121,6 +95,6 @@
       "gloss": "तोहर एलोहीम"
     }
   ],
-  "timestamp": "2026-10-14T15:47:41.097209821Z",
+  "timestamp": "2026-10-15T13:00:54.756302788Z",
   "model": "glm-5.3"
 }

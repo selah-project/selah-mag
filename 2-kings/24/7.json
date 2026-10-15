@@ -5,29 +5,7 @@
   "book": "2-kings",
   "lang": "mag",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הסיף עוד",
-      "rational": "Hebrew 'did not again add to go out'; rendered as simple 'फेर नञ निकललक'.",
-      "rationale": "Hebrew idiom 'not add again to do' compressed to 'never again' in Magahi."
-    },
-    {
-      "kind": "measurement",
-      "subject": "מנחל מצרים עד נהר פרת",
-      "rationale": "Territorial boundaries measured from the Brook of Egypt to the Euphrates river."
-    }
-  ],
-  "translation": "आउ मिस्रयिम के राजा फेर अपन धरती से बाहर नञ निकललक, काहे कि बाबेल के राजा मिस्रयिम के नाला से ले के परात नदी तक मिस्रयי׮ के राजा के जे कुछो हलइ ओ सब ले लेलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "25500331242e159b87f49990c25ba157964d768134811039ff73771d5f0b73d1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/24\/5-8.1791998532871.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ मिस्रयिम (मिस्र) के राजा फेर से ओकर धरती से बाहिर नञ अइलन, काहे कि बाबेल के राजा मिस्रयिम के नाला से ले के फरात नदी ले मिस्रयिम के राजा के जे कुछो हलइ ओ सब लेलन।",
   "tokens": [
     {
       "surface": "ולא",
@@ -35,7 +13,7 @@
     },
     {
       "surface": "הסיף",
-      "gloss": "फेर"
+      "gloss": "फेर से बढ़ावलन"
     },
     {
       "surface": "עוד",
@@ -51,11 +29,11 @@
     },
     {
       "surface": "לצאת",
-      "gloss": "निकललक"
+      "gloss": "बाहिर जऽ के बर"
     },
     {
       "surface": "מארצו",
-      "gloss": "अपन धरती से बाहर"
+      "gloss": "ओकर धरती से"
     },
     {
       "surface": "כי",
@@ -63,7 +41,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "ले लेलन"
+      "gloss": "लेलन"
     },
     {
       "surface": "מלך",
@@ -75,15 +53,15 @@
     },
     {
       "surface": "מנחל",
-      "gloss": "नाला"
+      "gloss": "नाला से"
     },
     {
       "surface": "מצרים",
-      "gloss": "मिस्रयिम"
+      "gloss": "मिस्रयिम के"
     },
     {
       "surface": "עד",
-      "gloss": "तक"
+      "gloss": "ले के"
     },
     {
       "surface": "נהר",
@@ -91,7 +69,7 @@
     },
     {
       "surface": "פרת",
-      "gloss": "परात"
+      "gloss": "फरात"
     },
     {
       "surface": "כל",
@@ -114,6 +92,6 @@
       "gloss": "मिस्रयिम"
     }
   ],
-  "timestamp": "2026-10-14T17:22:12.872656851Z",
+  "timestamp": "2026-10-15T11:51:47.328782589Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "ezekiel",
   "lang": "mag",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אותם (यעשה के बाद)",
-      "rationale": "इ वस्तु-सर्बनाम हकइ ('ओकरा'), ⟨את⟩ चिन्हा नञ; जस के तस 'ओकरा' देखावल गेलइ।"
-    }
-  ],
-  "translation": "आउ हम ओकनी के ⟨את⟩ हमर बिधान देलन आउ ⟨את⟩ हमर नियाव ओकनी के जनालन — जे आदमी ओकरा करथिन, ऊ ओकरा में जीवतइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "b7b7d84e98cce438ce2136fbdb288b77e2342ba6b17ce96403181e923a211fad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/20\/9-12.1792002230694.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ हम ओकनी के ⟨את⟩ हमर बिधान देलन, आउ ⟨את⟩ हमर नियाव ओकनी के जनाए देलन ⟨את⟩ ओकनी — जे मनुस करतइ, ऊ ⟨את⟩ ओकरा में जीतइ।",
   "tokens": [
     {
       "surface": "ואתן",
@@ -51,12 +35,12 @@
     },
     {
       "surface": "הודעתי",
-      "gloss": "जनालन"
+      "gloss": "जनाए देलन"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ओकनी के",
-      "marks": "हमर नियाव"
+      "gloss": "⟨את⟩ ओकनी",
+      "marks": "ओकनी"
     },
     {
       "surface": "אשר",
@@ -64,25 +48,26 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "करथिन"
+      "gloss": "करतइ"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ओकरा"
+      "gloss": "⟨את⟩ ओकरा",
+      "marks": "जे (बिधान आउ नियाव)"
     },
     {
       "surface": "האדם",
-      "gloss": "आदमी"
+      "gloss": "मनुस"
     },
     {
       "surface": "וחי",
-      "gloss": "जीवतइ"
+      "gloss": "जीतइ"
     },
     {
       "surface": "בהם",
       "gloss": "ओकरा में"
     }
   ],
-  "timestamp": "2026-10-14T18:23:50.695287356Z",
+  "timestamp": "2026-10-15T12:09:49.222098176Z",
   "model": "glm-5.3"
 }

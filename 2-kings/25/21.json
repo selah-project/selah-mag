@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "mag",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ויגל",
-      "rationale": "गलह क्रिया बन्धुआ बनाके लंघावे के इब्रानी चाल हकइ; मगही में 'उखाड़ल गेलन' धरलक।"
-    },
-    {
-      "kind": "substitution",
-      "subject": "माटी",
-      "rationale": "אֲדָמָह साँवल-लाल माटी के अरथ हकइ, देस नञ।"
-    }
-  ],
-  "translation": "आउ बबल के राजा ओकनी के मारलन आउ हमत के धरती में रिब्ला में ओकनी के मार डारलन; आउ यहूदा ओकर माटी से उखाड़ल गेलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "43deb50f9c9195ae2a5429a20e9ba63de09b553f0d1058b0d9c7c695a2e3c499",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/25\/21-24.1791998576343.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ बाबिलोन के राजा ओकनी के ⟨את⟩ मारलन आउ ओकनी के रिब्लाह में, खमात देस में, मार डारलन; आउ यहूदा के ओकर धरती से उखाड़ देलक।",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "मारलन"
+      "gloss": "आउ ... मारलन"
     },
     {
       "surface": "אתם",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "बबल"
+      "gloss": "बाबिलोन"
     },
     {
       "surface": "וימיתם",
@@ -51,19 +30,19 @@
     },
     {
       "surface": "ברבלה",
-      "gloss": "रिब्ला में"
+      "gloss": "रिब्लाह में"
     },
     {
       "surface": "בארץ",
-      "gloss": "धरती में"
+      "gloss": "देस में"
     },
     {
       "surface": "חמת",
-      "gloss": "हमत"
+      "gloss": "खमात"
     },
     {
       "surface": "ויגל",
-      "gloss": "उखाड़ल गेलन"
+      "gloss": "उखाड़ देलक"
     },
     {
       "surface": "יהודה",
@@ -75,9 +54,9 @@
     },
     {
       "surface": "אדמתו",
-      "gloss": "ओकर माटी"
+      "gloss": "ओकर धरती"
     }
   ],
-  "timestamp": "2026-10-14T17:22:56.343803421Z",
+  "timestamp": "2026-10-15T11:51:11.277495007Z",
   "model": "glm-5.3"
 }

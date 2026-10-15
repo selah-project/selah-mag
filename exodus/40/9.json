@@ -5,27 +5,11 @@
   "book": "exodus",
   "lang": "mag",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "होतइ",
-      "rationale": "Magahi future needs an explicit verb where Hebrew uses והיה plus noun"
-    }
-  ],
-  "translation": "आउ तूँ अभिसेक के तेल लेबउ आउ ⟨את⟩ मिश्कान आउ ⟨את⟩ ओकर सामग्री सब अभिसेक करबउ, आउ ओकरा आउ ⟨את⟩ ओकर सब बरतन पवित्तर करबउ, आउ ऊ पवित्तर होतइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "8888f8bb1af7a7722eddddf8d16cadc26a223200a9093135e5d332c47d547d9c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/40\/9-12.1791989419823.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ तूँ ⟨את⟩ अभिसेक के तेल लेबइ आउ ⟨את⟩ मिश्कान आउ ⟨את⟩ सब जे ओकर भीतर हइ, अभिसेक करबइ, आउ ⟨את⟩ ओकरा आउ ⟨את⟩ ओकर सब भाँड़-बरतन के पवित्तर करबइ, आउ ऊ पवित्तर होतइ।",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "आउ तूँ लेबउ"
+      "gloss": "लेबइ"
     },
     {
       "surface": "את",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "ומשחת",
-      "gloss": "आउ अभिसेक करबउ"
+      "gloss": "अभिसेक करबइ"
     },
     {
       "surface": "את",
@@ -56,7 +40,7 @@
     {
       "surface": "ואת",
       "gloss": "आउ ⟨את⟩",
-      "marks": "ओकर सामग्री सब"
+      "marks": "सब चीज जे ओकर भीतर हइ"
     },
     {
       "surface": "כל",
@@ -68,21 +52,21 @@
     },
     {
       "surface": "בו",
-      "gloss": "ओकरा भीतर"
+      "gloss": "ओकर भीतर"
     },
     {
       "surface": "וקדשת",
-      "gloss": "आउ पवित्तर करबउ"
+      "gloss": "पवित्तर करबइ"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ओकरा",
-      "marks": "मिश्कान"
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (मिश्कान)"
     },
     {
       "surface": "ואת",
       "gloss": "आउ ⟨את⟩",
-      "marks": "सब बरतन"
+      "marks": "सब भाँड़-बरतन"
     },
     {
       "surface": "כל",
@@ -90,17 +74,17 @@
     },
     {
       "surface": "כליו",
-      "gloss": "ओकर बरतन"
+      "gloss": "भाँड़-बरतन"
     },
     {
       "surface": "והיה",
-      "gloss": "आउ होतइ"
+      "gloss": "आउ ऊ"
     },
     {
       "surface": "קדש",
       "gloss": "पवित्तर"
     }
   ],
-  "timestamp": "2026-10-14T14:50:19.823820403Z",
+  "timestamp": "2026-10-15T12:08:01.706818057Z",
   "model": "glm-5.3"
 }

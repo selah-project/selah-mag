@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "mag",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Hebrew preposition before דברי folded into the infinitive 'सुने बर'; no separate Magahi word."
-    },
-    {
-      "kind": "you",
-      "subject": "to the men of Judah and inhabitants of Jerusalem",
-      "rationale": "The rhetorical question 'will you not take instruction' directly addresses Judah and Jerusalem."
-    },
-    {
-      "kind": "invitation",
-      "subject": "imperative + question",
-      "rationale": "Commands (जा, कहऽ) and a summoning question draw the addressees in to heed."
-    }
-  ],
-  "translation": "एहना कहलन यहवे त्सबाओत, यिस्राएल के एलोहीम — जा, आउ यहूदा के मनुस आउ यरूशलयिम के बासईं से कहऽ: की तोहनी हमर बात सुने बर सिख नञ लेबऽ हथिन? यहवे के बचन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "dfa75332563091f19dd861edea5130c950c2551cb952779c0374ae55302cb919",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/jeremiah\/35\/13-16.1792001120999.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "एहना कहलन यहवे त्सबाओत, यिस्राएल के एलोहीम: जा, आउ यहूदा के मनुसन के आउ यरूशलयिम के बसनिहारन के कह — की तोहनी शिक्सा नञ लेबऽ, हमरा बातन के सुनऽ बर? यहवे के बचन।",
   "tokens": [
     {
       "surface": "כה",
@@ -63,23 +37,23 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "आउ कहबऽ"
+      "gloss": "आउ कहबे"
     },
     {
       "surface": "לאיש",
-      "gloss": "के मनुस"
+      "gloss": "मनुसन के"
     },
     {
       "surface": "יהודה",
-      "gloss": "यहूदा"
+      "gloss": "यहूदा के"
     },
     {
       "surface": "וליושבי",
-      "gloss": "आउ के बासईं से"
+      "gloss": "आउ बसनिहारन के"
     },
     {
       "surface": "ירושלם",
-      "gloss": "यरूशלयिम"
+      "gloss": "यरूशलयिम के"
     },
     {
       "surface": "הלוא",
@@ -87,33 +61,33 @@
     },
     {
       "surface": "תקחו",
-      "gloss": "लेबऽ हथिन"
+      "gloss": "लेबऽ"
     },
     {
       "surface": "מוסר",
-      "gloss": "सिख"
+      "gloss": "शिक्सा"
     },
     {
       "surface": "לשמע",
-      "gloss": "सुने बर"
+      "gloss": "सुनऽ बर"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨के⟩ तरफ"
     },
     {
       "surface": "דברי",
-      "gloss": "हमर बात"
+      "gloss": "हमरा बातन के"
     },
     {
       "surface": "נאם",
-      "gloss": "यहवे के बचन"
+      "gloss": "के बचन"
     },
     {
       "surface": "יהוה",
-      "gloss": "यहवे के बचन"
+      "gloss": "यहवे"
     }
   ],
-  "timestamp": "2026-10-14T18:05:21.000403356Z",
+  "timestamp": "2026-10-15T12:31:31.271784839Z",
   "model": "glm-5.3"
 }

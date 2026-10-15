@@ -5,56 +5,35 @@
   "book": "psalms",
   "lang": "mag",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "रहबइ",
-      "rationale": "Hebrew 'not in adversity' lacks a verb; supplied to carry the boast."
-    },
-    {
-      "kind": "crux",
-      "subject": "אשר לא ברע",
-      "rationale": "'who shall not be in adversity' — relative clause after boast: JPS takes it as apposition ('I who…'), KJV as causal result."
-    }
-  ],
-  "translation": "उ अपन हिरदय में कहऽ हइ — हम नञ हिसकबइ; पीढ़ी के पीढ़ी ले बुराई में नञ रहबइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "3d0ec7f7f2ba534563dbe64b24ba7705488bea745822cf09aa16a41555ebb82b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/10\/5-8.1792004559808.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "अपने हिरदय में कहलन: “कबहूँ नञ हटतइ; पीढ़ी ते पीढ़ी तक दुख-बिपति नञ होतइ।”",
   "tokens": [
     {
       "surface": "אמר",
-      "gloss": "कहऽ हइ"
+      "gloss": "कहलन"
     },
     {
       "surface": "בלבו",
-      "gloss": "अपन हिरदय में"
+      "gloss": "अपने हिरदय में"
     },
     {
       "surface": "בל",
-      "gloss": "नञ"
+      "gloss": "कबहूँ नञ"
     },
     {
       "surface": "אמוט",
-      "gloss": "हिसकबइ"
+      "gloss": "हटतइ"
     },
     {
       "surface": "לדר",
-      "gloss": "पीढ़ी के"
+      "gloss": "पीढ़ी ते"
     },
     {
       "surface": "ודר",
-      "gloss": "पीढ़ी ले"
+      "gloss": "पीढ़ी तक"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "⟨जे⟩"
     },
     {
       "surface": "לא",
@@ -62,9 +41,9 @@
     },
     {
       "surface": "ברע",
-      "gloss": "बुराई में"
+      "gloss": "दुख-बिपति"
     }
   ],
-  "timestamp": "2026-10-14T19:02:39.809303036Z",
+  "timestamp": "2026-10-15T12:56:32.746578502Z",
   "model": "glm-5.3"
 }

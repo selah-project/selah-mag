@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "mag",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "हकइ",
-      "rationale": "इब्रानी में क्रिया-सूत्र नञ; मगही के वाक्य चाही।"
-    },
-    {
-      "kind": "elision",
-      "subject": "שתים עשרה",
-      "rationale": "इब्रानी के 'दू-दस' के मगही में एके सब्द 'बारह' कइल गेलइ।"
-    },
-    {
-      "kind": "measurement",
-      "subject": "बर्तन के गिनती",
-      "rationale": "बारह-बारह-बारह — दीक्षा के भेंट के नपाइ, कबीला के गिनती के आवाज।"
-    }
-  ],
-  "translation": "ई ⟨हकइ⟩ बेदी के दीक्षा, जेदिन यिस्राएल के सरदार ओकरा ले ⟨את⟩ ओकर अभिषेक कइलन: बारह चानी के थारी, बारह चानी के कटोरा, बारह सोना के चम्मच।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "6d14fdc16a5dee2df0b4a43c9715d077bfbced8322bcc9ba8c687a688def0d81",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/7\/81-84.1791990857935.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ई हलइ बेदी के अभिसेक-अरपन — ओकरा ⟨את⟩ अभिसेक कइल जाए के दिन, यिस्राएल के नासी सब ⟨את⟩ के ओर से: चानी के परात बारह, चानी के गड़वा बारह, सोना के कप बारह।",
   "tokens": [
     {
       "surface": "זאת",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "חנכת",
-      "gloss": "दीक्षा"
+      "gloss": "अभिसेक-अरपन"
     },
     {
       "surface": "המזבח",
@@ -47,32 +21,32 @@
     },
     {
       "surface": "ביום",
-      "gloss": "जेदिन"
+      "gloss": "के दिन में"
     },
     {
       "surface": "המשח",
-      "gloss": "अभिषेक कइलन"
+      "gloss": "अभिसेक कइल जाए के"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ओकर (बेदी के)"
+      "marks": "ओकरा (बेदी के)"
     },
     {
       "surface": "מאת",
-      "gloss": "ओकरा ले ⟨את⟩"
+      "gloss": "⟨את⟩ के ओर से"
     },
     {
       "surface": "נשיאי",
-      "gloss": "सरदार"
+      "gloss": "नासी सब"
     },
     {
       "surface": "ישראל",
       "gloss": "यिस्राएल के"
     },
     {
-      "surface": "קערות",
-      "gloss": "थारी"
+      "surface": "קערת",
+      "gloss": "परात"
     },
     {
       "surface": "כסף",
@@ -80,15 +54,15 @@
     },
     {
       "surface": "שתים",
-      "gloss": "दू"
+      "gloss": "बारह"
     },
     {
       "surface": "עשרה",
-      "gloss": "दस"
+      "gloss": "(दस के संग)"
     },
     {
       "surface": "מזרקי",
-      "gloss": "कटोरा"
+      "gloss": "गड़वा"
     },
     {
       "surface": "כסף",
@@ -96,15 +70,15 @@
     },
     {
       "surface": "שנים",
-      "gloss": "दू"
+      "gloss": "बारह"
     },
     {
       "surface": "עשר",
-      "gloss": "दस"
+      "gloss": "(दस)"
     },
     {
       "surface": "כפות",
-      "gloss": "चम्मच"
+      "gloss": "कप"
     },
     {
       "surface": "זהב",
@@ -112,13 +86,13 @@
     },
     {
       "surface": "שתים",
-      "gloss": "दू"
+      "gloss": "बारह"
     },
     {
       "surface": "עשרה",
-      "gloss": "दस"
+      "gloss": "(दस के संग)"
     }
   ],
-  "timestamp": "2026-10-14T15:14:17.936807837Z",
+  "timestamp": "2026-10-15T12:55:16.340790678Z",
   "model": "glm-5.3"
 }

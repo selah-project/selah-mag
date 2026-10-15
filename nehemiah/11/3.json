@@ -5,36 +5,15 @@
   "book": "nehemiah",
   "lang": "mag",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "genealogy list opening",
-      "rationale": "Verse opens a census-like register of settlers and their holdings."
-    },
-    {
-      "kind": "substitution",
-      "subject": "जगह-जमीन",
-      "rationale": "אחזה literally 'a seized thing', rendered as held possession."
-    }
-  ],
-  "translation": "आउ ई सब प्रांत के मुखिया हथिन जे यरूशलयिम में बसलन; आउ यहूदा के नगर में जना-जना अपन-अपन जगह-जमीन में अपन-अपन नगर में बसलन — यिस्राएल (इस्राएल) के लोग, पुरोहित, लेवी के लोग, नतीनी के लोग आउ शलोमोह के नौकर के बेटा।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "4e1bcc7f64d0aa90179431ea70afb5cc186339d5d9bbc416bb0b1411f83bd2c3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/nehemiah\/11\/1-4.1792009768310.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ई प्रांत के मुखिया सब हथिन जे यरूशलयिम (यरूशलेम) में बसलन; आउ यहूदा के नगर सब में हर एक अपन-अपन हिस्सा में, अपन-अपन नगर में बसलन — यिस्राएल (इस्राएल) के लोग, पुरोहित सब, लेवी के लोग, नतीनिम सब आउ शलोमोह के नोकर सब के बेटा सब।",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "आउ ई सब"
+      "gloss": "आउ ई"
     },
     {
       "surface": "ראשי",
-      "gloss": "मुखिया"
+      "gloss": "मुखिया सब"
     },
     {
       "surface": "המדינה",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "בירושלם",
-      "gloss": "यरूशलयי׮ में"
+      "gloss": "यरूशलयिम में"
     },
     {
       "surface": "ובערי",
-      "gloss": "आउ नगर में"
+      "gloss": "आउ … के नगर सब में"
     },
     {
       "surface": "יהודה",
-      "gloss": "यहूदा के"
+      "gloss": "यहूदा"
     },
     {
       "surface": "ישבו",
@@ -66,23 +45,23 @@
     },
     {
       "surface": "איש",
-      "gloss": "जना-जना"
+      "gloss": "हर एक"
     },
     {
       "surface": "באחזתו",
-      "gloss": "अपन जगह-जमीन में"
+      "gloss": "अपन-अपन हिस्सा में"
     },
     {
-      "surface": "בעריהם",
+      "surface": "בערי׹ם",
       "gloss": "अपन-अपन नगर में"
     },
     {
       "surface": "ישראל",
-      "gloss": "यिस्राएल"
+      "gloss": "यिस्राएल के लोग"
     },
     {
       "surface": "הכהנים",
-      "gloss": "पुरोहित"
+      "gloss": "पुरोहित सब"
     },
     {
       "surface": "והלוים",
@@ -90,21 +69,21 @@
     },
     {
       "surface": "והנתינים",
-      "gloss": "आउ नतीनी के लोग"
+      "gloss": "आउ नतीनिम सब"
     },
     {
       "surface": "ובני",
-      "gloss": "आउ बेटा"
+      "gloss": "आउ … के बेटा सब"
     },
     {
       "surface": "עבדי",
-      "gloss": "नौकर के"
+      "gloss": "नोकर सब के"
     },
     {
       "surface": "שלמה",
       "gloss": "शलोमोह"
     }
   ],
-  "timestamp": "2026-10-14T20:29:28.311108856Z",
+  "timestamp": "2026-10-15T12:50:09.888961399Z",
   "model": "glm-5.3"
 }

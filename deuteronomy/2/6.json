@@ -5,52 +5,32 @@
   "book": "deuteronomy",
   "lang": "mag",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תשבरו",
-      "rationale": "शब्द שבर के अरथ अनाज के सौदा करना; 'किनू' के बदले 'माँगू' (अन्न माँगू) के पढ़ाई भी हकइ।"
-    },
-    {
-      "kind": "you",
-      "subject": "यिस्राएल के परजा के",
-      "rationale": "खरीददारी के हुकुम सीधे परजा के दने।"
-    }
-  ],
-  "translation": "खाना चानी के बदले ओकनी ⟨את⟩ से किनू आउ खालह; आउ पानी भी चानी के बदले ओकनी ⟨אत⟩ से किनू आउ पिअह।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "5dc1972f40ea857d7469fe562033be4c4cdf44cc71ef397159c659e566bc8f9b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/2\/5-8.1791992013678.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "खावै के बस्तु ओकनी से चानी देके खरीदू आउ खाहू; आउ पानी भी ओकनी से चानी देके खरीदू आउ पियहू।",
   "tokens": [
     {
       "surface": "אכל",
-      "gloss": "खाना"
+      "gloss": "खावै के बस्तु"
     },
     {
       "surface": "תשברו",
-      "gloss": "किनू"
+      "gloss": "खरीदू"
     },
     {
       "surface": "מאתם",
-      "gloss": "ओकनी ⟨את⟩ से"
+      "gloss": "ओकनी ⟨את⟩ से",
+      "marks": "ओकनी से"
     },
     {
       "surface": "בכסף",
-      "gloss": "चानी के बदले"
+      "gloss": "चानी देके"
     },
     {
       "surface": "ואכלתם",
-      "gloss": "आउ खालह"
+      "gloss": "आउ खाहू"
     },
     {
       "surface": "וגם",
-      "gloss": "आउ ... भी"
+      "gloss": "आउ भी"
     },
     {
       "surface": "מים",
@@ -58,21 +38,22 @@
     },
     {
       "surface": "תכרו",
-      "gloss": "किनू"
+      "gloss": "खरीदू"
     },
     {
       "surface": "מאתם",
-      "gloss": "ओकनी ⟨את⟩ से"
+      "gloss": "ओकनी ⟨את⟩ से",
+      "marks": "ओकनी से"
     },
     {
       "surface": "בכסף",
-      "gloss": "चानी के बदले"
+      "gloss": "चानी देके"
     },
     {
       "surface": "ושתיתם",
-      "gloss": "आउ पिअह"
+      "gloss": "आउ पियहू"
     }
   ],
-  "timestamp": "2026-10-14T15:33:33.678967227Z",
+  "timestamp": "2026-10-15T11:58:36.764751676Z",
   "model": "glm-5.3"
 }

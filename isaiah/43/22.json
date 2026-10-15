@@ -5,36 +5,20 @@
   "book": "isaiah",
   "lang": "mag",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "יגעת בי",
-      "rationale": "'wearied OF me' (despised me) vs 'toiled FOR me' (JPS) — context of 43:23–24 favours 'weary of'"
-    }
-  ],
-  "translation": "बाकि हमरा तूँ नञ पुकारलऽ हें, हे याकोव (याकूब), काहे कि तूँ हमरा-में थक गेलऽ हें, हे यिस्राएल (इस्राएल)।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "8fd549779e895247aa5f3d97d5bb2cc3abcc6be3e33ed596ee28c8bf300a9019",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/43\/21-24.1791999447118.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "बाकि हमरा ⟨את⟩ नञ पुकारलक, हे याकोव (याकूब); काहे कि तूँ हमरा बर थक गेलक, हे यिस्राएल (इस्राएल)।",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "बाकि…नञ"
+      "gloss": "बाकि नञ"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "हमरा"
+      "marks": "हमरा (मोताबिक: तूँ हमरा पुकारलक)"
     },
     {
       "surface": "קראת",
-      "gloss": "पुकारलऽ हें"
+      "gloss": "पुकारलक"
     },
     {
       "surface": "יעקב",
@@ -46,17 +30,17 @@
     },
     {
       "surface": "יגעת",
-      "gloss": "थक गेलऽ हें"
+      "gloss": "थक गेलक"
     },
     {
       "surface": "בי",
-      "gloss": "हमरा-में"
+      "gloss": "हमरा बर"
     },
     {
       "surface": "ישראל",
       "gloss": "यिस्राएल"
     }
   ],
-  "timestamp": "2026-10-14T17:37:27.118769273Z",
+  "timestamp": "2026-10-15T12:25:10.445264520Z",
   "model": "glm-5.3"
 }

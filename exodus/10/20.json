@@ -5,27 +5,11 @@
   "book": "exodus",
   "lang": "mag",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ויחזק",
-      "rationale": "literal 'strengthened' — Pharaoh's heart made firm, rendered 'कठोर कएलन' (hardened)"
-    }
-  ],
-  "translation": "बाकि यहवे ⟨את⟩ फिरौन के हिरदय के कठोर कएलन आउ ऊ यिस्राएल (इस्राएल) के बेटा सब के नञ छोड़लक।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "bfcd9e32423b451923970c48b635a06b4d3ef142435fccaa540a5966ae9fa5e3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/10\/17-20.1791988302408.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ यहवे फिरौन के ⟨את⟩ हिरदय के कठोर करलन, आउ ऊ यिस्राएल के ⟨את⟩ बेटा सब के नञ छोड़लक।",
   "tokens": [
     {
       "surface": "ויחזק",
-      "gloss": "बाकि कठोर कएलन"
+      "gloss": "आउ … कठोर करलन"
     },
     {
       "surface": "יהוה",
@@ -34,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "फिरौन के हिरदय के"
+      "marks": "हिरदय"
     },
     {
       "surface": "לב",
-      "gloss": "हिरदय के"
+      "gloss": "हिरदय"
     },
     {
       "surface": "פרעה",
@@ -55,17 +39,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "यिस्राएल के बेटा सब के"
+      "marks": "बेटा सब"
     },
     {
       "surface": "בני",
-      "gloss": "बेटा सब के"
+      "gloss": "बेटा सब"
     },
     {
       "surface": "ישראל",
-      "gloss": "यिस्राएल (इस्राएल)"
+      "gloss": "यिस्राएल"
     }
   ],
-  "timestamp": "2026-10-14T14:31:42.409729232Z",
+  "timestamp": "2026-10-15T12:03:12.968764760Z",
   "model": "glm-5.3"
 }

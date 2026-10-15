@@ -5,41 +5,20 @@
   "book": "2-kings",
   "lang": "mag",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "समुंदर",
-      "rationale": "ים here is the great bronze basin's proper name 'the Sea', kept as समुंदर, not a literal water-sea."
-    },
-    {
-      "kind": "addition",
-      "subject": "लेलन आउ ले गेलन",
-      "rationale": "וישאו one verb 'lifted\/carried' rendered with take-and-carry pair to carry the carried-away sense in Magahi."
-    }
-  ],
-  "translation": "आउ ⟨את⟩ ताँबा के खम्भा जे यहवे के घर के हलथिन, आउ ⟨את⟩ पाये, आउ ⟨את⟩ ताँबा के समुंदर जे यहवे के घर में हलइ — कसदी लोग ओकरा तोड़ देलन, आउ ओकर ताँबा लेलन आउ बाबेल ले गेलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "c7cb550643f972caf7279dd9b8a8f82b3fc0403313a7b5a596b557930b8d142d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/25\/13-16.1791998535835.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ⟨את⟩ काँसा के खम्भा सब, जे यहवे के घर के हलन, आउ ⟨את⟩ आधार सब के, आउ ⟨את⟩ काँसा के समुंदर के, जे यहवे के घर में हलइ, ओकरा कस्दिम तोड़लन, आउ ओकनी के काँसा लेलन बाबेल के तइ।",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ताँबा के खम्भा"
+      "marks": "काँसा के खम्भा सब"
     },
     {
       "surface": "עמודי",
-      "gloss": "खम्भा"
+      "gloss": "खम्भा सब"
     },
     {
       "surface": "הנחשת",
-      "gloss": "ताँबा के"
+      "gloss": "काँसा के"
     },
     {
       "surface": "אשר",
@@ -56,16 +35,16 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "पाये"
+      "marks": "आधार सब"
     },
     {
       "surface": "המכנות",
-      "gloss": "पाये"
+      "gloss": "आधार सब"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ताँबा के समुंदर"
+      "marks": "काँसा के समुंदर"
     },
     {
       "surface": "ים",
@@ -73,7 +52,7 @@
     },
     {
       "surface": "הנחשת",
-      "gloss": "ताँबा के"
+      "gloss": "काँसा के"
     },
     {
       "surface": "אשר",
@@ -85,34 +64,34 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "यहवे के"
+      "gloss": "यहवे"
     },
     {
       "surface": "שברו",
-      "gloss": "तोड़ देलन"
+      "gloss": "तोड़लन"
     },
     {
       "surface": "כשדים",
-      "gloss": "कसदी लोग"
+      "gloss": "कस्दिम"
     },
     {
       "surface": "וישאו",
-      "gloss": "लेलन आउ ले गेलन"
+      "gloss": "लेलन"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ओकर ताँबा"
+      "marks": "ओकनी के काँसा"
     },
     {
       "surface": "נחשתם",
-      "gloss": "ओकर ताँबा"
+      "gloss": "ओकनी के काँसा"
     },
     {
       "surface": "בבלה",
-      "gloss": "बाबेल"
+      "gloss": "बाबेल के तइ"
     }
   ],
-  "timestamp": "2026-10-14T17:22:15.835969127Z",
+  "timestamp": "2026-10-15T11:51:23.541785348Z",
   "model": "glm-5.3"
 }

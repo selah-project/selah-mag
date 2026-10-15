@@ -5,54 +5,33 @@
   "book": "exodus",
   "lang": "mag",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אחרי",
-      "rationale": "अहोराय — 'पाछे' बनाम 'पाछे के भाग'; कुछु अनुवादक एकरा ठीक शरीर के अरथ में लेथिन, कुछु पाछे हटै के प्रकटना के अरथ में।"
-    },
-    {
-      "kind": "mystery",
-      "subject": "हमर मुँह नञ देखाएतइ",
-      "rationale": "परमात्मा के मुँह छिपल रहऽ हइ — जान-बूझ के ओझल बात।"
-    }
-  ],
-  "translation": "आउ जब हम हथेली हटाबइ, त तूँ हमर पाछे के देखबइ; बाकि हमर मुँह नञ देखाएतइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "aedb5fd906472d2cb34ae56ddffa34d33b5bcdbc2e82d063a7fd296651a19055",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/exodus\/33\/21-23.1791989110165.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ हम अपना हाथ हटाब, आउ तूँ ⟨את⟩ हमरा के पिछ्ला हिस्सा देखब, बाकि हमर मुँह नञ देखाएतइ।",
   "tokens": [
     {
       "surface": "והסרתי",
-      "gloss": "आउ हम हटाबइ"
+      "gloss": "आउ हम हटाब"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "हमर हथेली"
+      "marks": "हमरा के हाथ"
     },
     {
       "surface": "כפי",
-      "gloss": "हमर हथेली"
+      "gloss": "हमरा के हाथ"
     },
     {
       "surface": "וראית",
-      "gloss": "आउ तूँ देखबइ"
+      "gloss": "आउ तूँ देखब"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "हमर पाछे"
+      "marks": "पिछ्ला हिस्सा"
     },
     {
       "surface": "אחרי",
-      "gloss": "हमर पाछे"
+      "gloss": "हमर पिछ्ला हिस्सा"
     },
     {
       "surface": "ופני",
@@ -67,6 +46,6 @@
       "gloss": "देखाएतइ"
     }
   ],
-  "timestamp": "2026-10-14T14:45:10.166136216Z",
+  "timestamp": "2026-10-15T12:07:12.207441420Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "mag",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "age",
-      "rationale": "आयु-गिनती: नौ सौ तीस बरिस।"
-    },
-    {
-      "kind": "addition",
-      "subject": "गेलन",
-      "rationale": "मगही के क्रिया-पूरक जे इब्रानी नञ देतइ।"
-    }
-  ],
-  "translation": "आदम के सारा दिन जे ऊ जिअलन, नौ सौ बरिस आउ तीस बरिस भेलन, आउ ऊ मर गेलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "0032496d12f656c28ee2d772d6822714b233d1f9d640f5346e4c601868a89ae2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/5\/5-8.1791986293636.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आदमी के सब दिन जे ऊ जिअलन, नौ सौ बरिस आउ तीस बरिस भेल, आउ ऊ मर गेलन।",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "भेलन"
+      "gloss": "भेल"
     },
     {
       "surface": "כל",
-      "gloss": "सारा"
+      "gloss": "सब"
     },
     {
       "surface": "ימי",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "आदम"
+      "gloss": "आदमी के"
     },
     {
       "surface": "אשר",
@@ -70,13 +49,13 @@
     },
     {
       "surface": "שנה",
-      "gloss": "בरिस"
+      "gloss": "बरिस"
     },
     {
       "surface": "וימת",
       "gloss": "मर गेलन"
     }
   ],
-  "timestamp": "2026-10-14T13:58:13.637558042Z",
+  "timestamp": "2026-10-15T12:22:11.070734630Z",
   "model": "glm-5.3"
 }

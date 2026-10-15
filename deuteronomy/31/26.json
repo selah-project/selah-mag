@@ -5,50 +5,24 @@
   "book": "deuteronomy",
   "lang": "mag",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to the Levites",
-      "rationale": "मोशे लेवी लोग के आदेस देतथिन जे सन्दूक उठावथिन।"
-    },
-    {
-      "kind": "idiom",
-      "subject": "בך",
-      "rationale": "ב = खिलाफ — 'तोहनी बर गवाह' नञ, 'तोहनी खिलाफ गवाह' — कानूनी भासा।"
-    },
-    {
-      "kind": "measurement",
-      "subject": "सन्दूक के किनारा",
-      "rationale": "पोथी के जगह बतावल गेलइ — सन्दूक के किनारा, भीतरे नञ।"
-    }
-  ],
-  "translation": "एहे तोरा के पोथी लेऽ, आउ ⟨את⟩ ओकरा यहवे तोहनी के एलोहीम के वाचा के सन्दूक के किनारा रखऽ, आउ ऊ ओहाँ तोहनी खिलाफ गवाह रहतइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "219c276e4e857809251f378ab9a7d3d87f153997b7ef69129769415ca18c0159",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/31\/26-27.1792011699061.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ए ⟨את⟩ एहे तोरा के किताब लेना, आउ ⟨את⟩ ओकरा तोहनी के एलोहीम यहवे के वाचा के सन्दूक के किनारे रखबइ, आउ ऊ तोहनी के बीच तहाँ सदा बर रहतइ।",
   "tokens": [
     {
       "surface": "לקח",
-      "gloss": "लेऽ"
+      "gloss": "लेना"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "एहे तोरा के पोथी"
+      "marks": "एहे तोरा के किताब"
     },
     {
       "surface": "ספר",
-      "gloss": "पोथी"
+      "gloss": "किताब"
     },
     {
       "surface": "התורה",
-      "gloss": "तोरा"
+      "gloss": "तोरा के"
     },
     {
       "surface": "הזה",
@@ -56,16 +30,16 @@
     },
     {
       "surface": "ושמתם",
-      "gloss": "आउ रखऽ"
+      "gloss": "आउ रखबइ"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "किनारा"
+      "marks": "ओकरा (किनारे रखल जाय वाला)"
     },
     {
       "surface": "מצד",
-      "gloss": "किनारा"
+      "gloss": "किनारे"
     },
     {
       "surface": "ארון",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "ברית",
-      "gloss": "वाचा"
+      "gloss": "वाचा के"
     },
     {
       "surface": "יהוה",
@@ -85,21 +59,21 @@
     },
     {
       "surface": "והיה",
-      "gloss": "आउ होतइ"
+      "gloss": "आउ रहतइ"
     },
     {
       "surface": "שם",
-      "gloss": "ओहाँ"
+      "gloss": "तहाँ"
     },
     {
       "surface": "בך",
-      "gloss": "तोहनी खिलाफ"
+      "gloss": "तोहनी के बीच"
     },
     {
       "surface": "לעד",
-      "gloss": "गवाह बर"
+      "gloss": "सदा बर"
     }
   ],
-  "timestamp": "2026-10-14T21:01:39.061984182Z",
+  "timestamp": "2026-10-15T12:01:07.060544661Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "mag",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ओनी",
-      "rationale": "किरिया के करता (ओनी = ऊ लोग) मगही में जरूरी हलइ; इब्रानी किरिया-रूप में छिपल हलइ।"
-    }
-  ],
-  "translation": "आउ पुरोहित हुकुम देतन, आउ ओनी ओ पत्थल निकाल लेतन जेकरा में दाग हकइ, आउ ओकरा फेंक देतन नगर के बाहर, अपवित्तर जगह में।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "e61339b29cce012c4c6ab1fb1eceb947dbbe02b207e0436c312ffc8d9881011a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/14\/37-40.1791989868879.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ पुरोहित हुकुम देलन, आउ ओकनी ⟨את⟩ ओ पत्थल निकाल लेलन जेकरा में दाग हलइ, आउ ओकनी के नगर के बाहरे अशुद्ध जगह पर फेंक देलन।",
   "tokens": [
     {
       "surface": "וצוה",
-      "gloss": "हुकुम देतन"
+      "gloss": "आउ हुकुम देलन"
     },
     {
       "surface": "הכהן",
@@ -33,24 +17,24 @@
     },
     {
       "surface": "וחלצו",
-      "gloss": "निकाल लेतन"
+      "gloss": "आउ निकाल लेलन"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "पत्थल सब"
+      "marks": "ओ पत्थल"
     },
     {
       "surface": "האבנים",
-      "gloss": "पत्थल सब"
+      "gloss": "पत्थल"
     },
     {
       "surface": "אשר",
-      "gloss": "जेकरा"
+      "gloss": "जे"
     },
     {
       "surface": "בהן",
-      "gloss": "में"
+      "gloss": "ओकरा में"
     },
     {
       "surface": "הנגע",
@@ -58,20 +42,20 @@
     },
     {
       "surface": "והשליכו",
-      "gloss": "फेंक देतन"
+      "gloss": "आउ फेंक देलन"
     },
     {
       "surface": "אתהן",
       "gloss": "⟨את⟩",
-      "marks": "ओकरा"
+      "marks": "ओकनी (पत्थल)"
     },
     {
       "surface": "אל",
-      "gloss": "पर"
+      "gloss": "के ओर"
     },
     {
       "surface": "מחוץ",
-      "gloss": "बाहर"
+      "gloss": "बाहरे"
     },
     {
       "surface": "לעיר",
@@ -79,7 +63,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "में"
+      "gloss": "के ओर"
     },
     {
       "surface": "מקום",
@@ -87,9 +71,9 @@
     },
     {
       "surface": "טמא",
-      "gloss": "अपवित्तर"
+      "gloss": "अशुद्ध"
     }
   ],
-  "timestamp": "2026-10-14T14:57:48.880990464Z",
+  "timestamp": "2026-10-15T12:45:28.382557365Z",
   "model": "glm-5.3"
 }

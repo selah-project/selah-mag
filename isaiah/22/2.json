@@ -5,36 +5,15 @@
   "book": "isaiah",
   "lang": "mag",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חלליך \/ חללי",
-      "rationale": "एहे जड़ के दोहराव — मारल आउ मारल — मगही में एकर जोड़ रहऽ हइ"
-    },
-    {
-      "kind": "you",
-      "subject": "नगर",
-      "rationale": "खोह के नगर के सम्बोधन जारी हइ"
-    }
-  ],
-  "translation": "शोर से भरल, शोर करैत नगर, खुसी से झूमैत सहर — तोहर मारल लोग तलवार से नञ मारल गेलन, नञ लड़ाई में मरलन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "b3e4ea3d07311a81b849e0c79b10142bf06d4098aa7c5770fa2ba336fa6ef54b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/22\/1-4.1791998978407.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "शोरगुल से भरलइ नगर, गुंजावत नगर, खुसी मनावत सहर — तोहर मारल गेल लोग तलवार से नञ मारल गेलन, आउ लड़ाई में नञ मरलन।",
   "tokens": [
     {
       "surface": "תשאות",
-      "gloss": "शोर से भरल"
+      "gloss": "शोरगुल"
     },
     {
       "surface": "מלאה",
-      "gloss": ""
+      "gloss": "भरलइ"
     },
     {
       "surface": "עיר",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "הומיה",
-      "gloss": "शोर करैत"
+      "gloss": "गुंजावत"
     },
     {
       "surface": "קריה",
-      "gloss": "सहर"
+      "gloss": "नगर"
     },
     {
       "surface": "עליזה",
-      "gloss": "खुसी से झूमैत"
+      "gloss": "खुसी मनावत"
     },
     {
       "surface": "חלליך",
-      "gloss": "तोहर मारल लोग"
+      "gloss": "तोहर मारल गेल लोग"
     },
     {
       "surface": "לא",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "חללי",
-      "gloss": "मारल"
+      "gloss": "मारल गेल"
     },
     {
       "surface": "חרב",
-      "gloss": "तलवार से"
+      "gloss": "तलवार"
     },
     {
       "surface": "ולא",
-      "gloss": "नञ"
+      "gloss": "आउ नञ"
     },
     {
       "surface": "מתי",
@@ -78,9 +57,9 @@
     },
     {
       "surface": "מלחמה",
-      "gloss": "लड़ाई में"
+      "gloss": "लड़ाई"
     }
   ],
-  "timestamp": "2026-10-14T17:29:38.407873064Z",
+  "timestamp": "2026-10-15T12:23:54.411417568Z",
   "model": "glm-5.3"
 }

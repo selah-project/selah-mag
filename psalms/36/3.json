@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "mag",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "החליק אליו",
-      "rationale": "'he flatters himself' (KJV) vs literal 'it (transgression) made smooth to him' (YLT) — subject ambiguous"
-    },
-    {
-      "kind": "alternative",
-      "subject": "लिपसाही",
-      "rationale": "could render as 'ऊ अपने आप के लिपसाही देलक' but the smooth picture of חלק is kept"
-    }
-  ],
-  "translation": "काहे कि ऊ ⟨आपने आप के⟩ अपन आँख में चिकना- smooth बनइलक हइ, ओकर अधरम के मिले बर, घिन करे बर।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/36\/1-4.1792004872130.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "काहे कि ऊ अपन आँखन में ⟨आपने ला⟩ चिकना करऽ हइ, अपन पाप ला मिलावे बर, घृणा करे बर।",
   "tokens": [
     {
       "surface": "כי",
@@ -34,29 +13,30 @@
     },
     {
       "surface": "החליק",
-      "gloss": "चिकना बनइलक"
+      "gloss": "चिकना करऽ हइ"
     },
     {
       "surface": "אליו",
-      "gloss": "ओकरा"
+      "gloss": "आपने ला",
+      "marks": "अपना ला"
     },
     {
       "surface": "בעיניו",
-      "gloss": "अपन आँख में"
+      "gloss": "अपन आँखन में"
     },
     {
       "surface": "למצא",
-      "gloss": "मिले बर"
+      "gloss": "मिलावे बर"
     },
     {
       "surface": "עונו",
-      "gloss": "ओकर अधरम"
+      "gloss": "अपन पाप"
     },
     {
       "surface": "לשנא",
-      "gloss": "घिन करे बर"
+      "gloss": "घृणा करे बर"
     }
   ],
-  "timestamp": "2026-10-14T19:07:52.130815768Z",
+  "timestamp": "2026-10-15T12:58:01.012103410Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "mag",
   "chapter": 67,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתנו",
-      "rationale": "H854 preposition 'with us' (not the H853 object marker); rendered 'हमनी के संग'"
-    },
-    {
-      "kind": "elision",
-      "subject": "סלה",
-      "rationale": "musical pause term kept as 'सेला', no translatable content"
-    },
-    {
-      "kind": "you",
-      "subject": "एलोहीम",
-      "rationale": "jussive address: the psalmist asks Elohim to act toward 'हमनी'"
-    }
-  ],
-  "translation": "एलोहीम हमनी के किरपा करथिन, आउ हमनी के असीस देथिन; ऊ अपन मुँह ⟨हमनी के संग⟩ चमकाथिन। सेला।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "4c5ce1a2835f37e54c6874feaffd4e42e7f06998b1b43ac47104c0d6394c6581",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/psalms\/67\/1-4.1792005265199.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "एलोहीम हमनी के अनुग्रह करऽ आउ हमनी के असीस देअ; ऊ अपन मुँह के इँजोर हमनी संग बिछाअऽ। सेलाह।",
   "tokens": [
     {
       "surface": "אלהים",
@@ -39,30 +13,30 @@
     },
     {
       "surface": "יחננו",
-      "gloss": "हमनी के किरपा करथिन"
+      "gloss": "हमनी के अनुग्रह करऽ"
     },
     {
       "surface": "ויברכנו",
-      "gloss": "आउ हमनी के असीस देथिन"
+      "gloss": "आउ हमनी के असीस देअ"
     },
     {
       "surface": "יאר",
-      "gloss": "चमकाथिन"
+      "gloss": "इँजोर बिछाअऽ"
     },
     {
       "surface": "פניו",
-      "gloss": "अपन मुँह"
+      "gloss": "अपन मुँह के"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "हमनी के संग"
+      "marks": "हमनी संग — एहाँ पासता के बिना अरथ हकइ, चिन्हा नञ (H854)"
     },
     {
       "surface": "סלה",
-      "gloss": "सेला"
+      "gloss": "सेलाह"
     }
   ],
-  "timestamp": "2026-10-14T19:14:25.200094091Z",
+  "timestamp": "2026-10-15T12:58:39.718170943Z",
   "model": "glm-5.3"
 }

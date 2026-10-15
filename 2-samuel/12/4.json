@@ -5,41 +5,19 @@
   "book": "2-samuel",
   "lang": "mag",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הלך\/לארח",
-      "rationale": "'Traveller' and 'wayfarer' — the same guest named twice, binding the rich man's refusal to his theft."
-    },
-    {
-      "kind": "elision",
-      "subject": "ויחמל",
-      "gloss-hebrew": "none",
-      "rationale": "חמל means 'had pity\/spared' — rendered संकोच कइलक to keep the sense of sparing his own animals."
-    }
-  ],
-  "translation": "आउ एक परदेसी धनी आदमी के पास अइलइ, आउ ऊ ओकरा भेड़ आउ ओकरा बैल में से कुछो लेबै संकोच कइलक, जे ओकरा पास अइलइ परदेसी बर बनाबै खातिर; बाकि ऊ गरीब आदमी के भेड़ ⟨את⟩ लेलक आउ ओकरा बर बनइलक जे आदमी ओकरा पास अइलई हल।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "10369e67e5c87d0220cfd6cca86b3de8221fdd08c3838de87efcffa785c9ca79",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/12\/1-4.1791996199863.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ एक यात्री धनी मनुस के घर अइलन; ऊ ओकरा अइल यात्री बर ओकरे भेड़-माल आउ बैल-माल से लेके बनावे से बचलन; बाकि गरीब मनुस के मेमनी के ⟨את⟩ लेलन आउ ओकरा अइल मनुस बर बनइलन।",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "अइलइ"
+      "gloss": "अइलन"
     },
     {
       "surface": "הלך",
-      "gloss": "परदेसी"
+      "gloss": "यात्री"
     },
     {
       "surface": "לאיש",
-      "gloss": "आदमी के पास"
+      "gloss": "मनुस के घर"
     },
     {
       "surface": "העשיר",
@@ -47,78 +25,74 @@
     },
     {
       "surface": "ויחמל",
-      "gloss": "संकोच कइलक"
+      "gloss": "बचलन"
     },
     {
       "surface": "לקחת",
-      "gloss": "लेबइ"
+      "gloss": "लेके"
     },
     {
       "surface": "מצאנו",
-      "gloss": "भेड़ में से"
+      "gloss": "भेड़-माल से"
     },
     {
       "surface": "ומבקרו",
-      "gloss": "आउ बैल में से"
-    },
-    {
-      "surface": "ומבקרו",
-      "gloss": "ओकरा"
+      "gloss": "आउ बैल-माल से"
     },
     {
       "surface": "לעשות",
-      "gloss": "बनाबै खातिर"
+      "gloss": "बनावे से"
     },
     {
       "surface": "לארח",
-      "gloss": "परदेसी बर"
+      "gloss": "यात्री बर"
     },
     {
       "surface": "הבא",
-      "gloss": "अइलई हल"
+      "gloss": "अइल"
     },
     {
       "surface": "לו",
-      "gloss": "ओकरा पास"
+      "gloss": "ओकरा"
     },
     {
       "surface": "ויקח",
-      "gloss": "⟨את⟩ लेलक"
+      "gloss": "लेलन"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "गरीब आदमी के भेड़"
+      "marks": "गरीब मनुस के मेमनी"
     },
     {
       "surface": "כבשת",
-      "gloss": "भेड़"
+      "gloss": "मेमनी के"
     },
     {
       "surface": "האיש",
-      "gloss": "आदमी के"
+      "gloss": "मनुस के"
     },
     {
       "surface": "הראש",
       "gloss": "गरीब"
     },
     {
-      "surface": "ויעשה",
-      "gloss": "बनइलक"
+      "surface": "ועשה",
+      "gloss": "बनइलन"
     },
     {
-      "surface": "ומבקרו",
-      "gloss": "आदमी बर"
+      "surface": "לאיש",
+      "gloss": "मनुस बर"
     },
     {
-      "surface": "ומבקרו",
-      "gloss": "अइलई हल"
+      "surface": "הבא",
+      "gloss": "अइल"
     },
     {
       "surface": "אליו",
-      "gloss": "ओकरा पास"
+      "gloss": "ओकरा"
     }
   ],
-  "timestamp": "2026-10-14T16:43:19.864742721Z",
+  "timestamp": "2026-10-15T11:53:18.814455418Z",
   "model": "glm-5.3"
 }

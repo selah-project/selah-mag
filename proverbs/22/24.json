@@ -5,28 +5,7 @@
   "book": "proverbs",
   "lang": "mag",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אף \/ חמות",
-      "rationale": "दू सब्द एकहे गुस्सा बर — नाक\/साँस के गुस्सा आउ गरमी के गुस्सा; समानांतर बनावट"
-    },
-    {
-      "kind": "you",
-      "subject": "to the reader",
-      "rationale": "मना करे वाला सीधा सम्बोधन"
-    }
-  ],
-  "translation": "⟨गुस्सा के मालिक⟩ के संग दोस्ती मत करऽ, आउ ⟨क्रोध के मरद⟩ के संग जा नञ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "7191a4cd079789256875c6d53c0ddd0ea3b9f157776e2217f308ffd5ff543a77",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/proverbs\/22\/21-24.1792006895924.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ गुस्से के मालिक के संग मत जुड़, आउ ⟨את⟩ गरम-क्रोध के मरद के संग मत जा।",
   "tokens": [
     {
       "surface": "אל",
@@ -34,12 +13,12 @@
     },
     {
       "surface": "תתרע",
-      "gloss": "दोस्ती करऽ"
+      "gloss": "जुड़"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "गुस्सा के मालिक"
+      "marks": "गुस्से के मालिक के संग"
     },
     {
       "surface": "בעל",
@@ -52,7 +31,7 @@
     {
       "surface": "ואת",
       "gloss": "आउ ⟨את⟩",
-      "marks": "क्रोध के मरद"
+      "marks": "गरम-क्रोध के मरद के संग"
     },
     {
       "surface": "איש",
@@ -60,17 +39,17 @@
     },
     {
       "surface": "חמות",
-      "gloss": "क्रोध"
+      "gloss": "गरम-क्रोध"
     },
     {
       "surface": "לא",
-      "gloss": "नञ"
+      "gloss": "मत"
     },
     {
       "surface": "תבוא",
       "gloss": "जा"
     }
   ],
-  "timestamp": "2026-10-14T19:41:35.925907040Z",
+  "timestamp": "2026-10-15T12:56:06.979279085Z",
   "model": "glm-5.3"
 }

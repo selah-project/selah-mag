@@ -5,27 +5,11 @@
   "book": "deuteronomy",
   "lang": "mag",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "गोआल",
-      "rationale": "גאל हद के नातेदार-उद्धारक हकइ; 'बदला लेवइ वाला' रूप चित्र के साँघर देतइ — नाते के बिधान ओकर आधार हकइ।"
-    }
-  ],
-  "translation": "तब ओकर नगर के बुढ़वा लोग आदमी भेजतइ आउ ओकरा ओहिजा से लेआवतइ, आउ ओकरा खून के गोआल के हाथ में देतइ, आउ ऊ मरतइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "4531df5ee5afc40666663fe120caa595057588c3bb70abc79d9329dd61003470",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/19\/9-12.1791992595969.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "तब ओकर नगर के बुढ़वा लोग भेजतन आउ ⟨את⟩ ओकरा ओहीँ से लेतन, आउ ⟨את⟩ ओकरा खून के गोएल के हाथ में देतन, आउ ऊ मरतइ।",
   "tokens": [
     {
       "surface": "ושלחו",
-      "gloss": "भेजतइ"
+      "gloss": "भेजतन"
     },
     {
       "surface": "זקני",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "עירו",
-      "gloss": "ओकर नगर के"
+      "gloss": "ओकर नगर"
     },
     {
       "surface": "ולקחו",
-      "gloss": "लेआवतइ"
+      "gloss": "लेतन"
     },
     {
       "surface": "אתו",
@@ -46,11 +30,11 @@
     },
     {
       "surface": "משם",
-      "gloss": "ओहिजा से"
+      "gloss": "ओहाँ से"
     },
     {
       "surface": "ונתנו",
-      "gloss": "देतइ"
+      "gloss": "देतन"
     },
     {
       "surface": "אתו",
@@ -63,7 +47,7 @@
     },
     {
       "surface": "גאל",
-      "gloss": "गोआल"
+      "gloss": "गोएल"
     },
     {
       "surface": "הדם",
@@ -74,6 +58,6 @@
       "gloss": "मरतइ"
     }
   ],
-  "timestamp": "2026-10-14T15:43:15.970548811Z",
+  "timestamp": "2026-10-15T11:58:37.283152361Z",
   "model": "glm-5.3"
 }

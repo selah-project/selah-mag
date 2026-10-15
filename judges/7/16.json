@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "mag",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "तीन सौ \/ तीन दल",
-      "rationale": "गिनती आउ बाँट के गणना"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ראשים",
-      "rationale": "साक्षात अरथ 'मूड़ी' — टुकड़ा \/ दल; इहे जगह 'दल' लेल गेल"
-    }
-  ],
-  "translation": "आउ ऊ तीन सौ आदमी के तीन दल में बाँटलन, आउ सबहके हाथ में सिंग देलन, आउ खाली मट्टी के घड़ा, आउ घड़ा के भीतर मसाल।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "d3809489e9323efc6f2414234cb02e30aba87e1c955e7395a039fe4b5dccbe5d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/judges\/7\/13-16.1791994307019.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ऊ तीन सौ आदमी के तीन टोली में बाँटलन; ⟨את⟩ तीन सौ आदमी के — आउ सबहके हाथ में सोरगाही देलन, आउ खाली मट्टी के घड़ा, आउ मशाल घड़ा के भीतर।",
   "tokens": [
     {
       "surface": "ויחץ",
@@ -35,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "तीन सौ आदमी"
+      "marks": "तीन सौ आदमी के"
     },
     {
       "surface": "שלש",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "आदमी"
+      "gloss": "आदमी के"
     },
     {
       "surface": "שלשה",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "ראשים",
-      "gloss": "दल"
+      "gloss": "टोली में"
     },
     {
       "surface": "ויתן",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "שופרות",
-      "gloss": "सिंग"
+      "gloss": "सोरगाही"
     },
     {
       "surface": "ביד",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "ולפדים",
-      "gloss": "आउ मसाल"
+      "gloss": "आउ मशाल"
     },
     {
       "surface": "בתוך",
@@ -94,6 +73,6 @@
       "gloss": "घड़ा के"
     }
   ],
-  "timestamp": "2026-10-14T16:11:47.021395648Z",
+  "timestamp": "2026-10-15T12:43:04.654173393Z",
   "model": "glm-5.3"
 }

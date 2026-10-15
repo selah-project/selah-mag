@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "mag",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "כלים...כלים רקים",
-      "rationale": "'बरतन...खाली बरतन' के दोहराव — खालीपन पर जोर, अनुवाद में बनल रहल।"
-    },
-    {
-      "kind": "invitation",
-      "subject": "to the widow",
-      "rationale": "एलिशा के आदेस — जा, माँग — जनाना के काम देबे के बोलावनी।"
-    }
-  ],
-  "translation": "आउ ऊ कहलन कि जा, बाहर से, तोहर सब पड़ोसी के ⟨אत⟩ सब बरतन माँग — खाली बरतन — आउ थोड़े मत माँग।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "cbf9e9acaa57307841f54d7f94891d183ea828694b502b9f700b9f9fa531684c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/4\/1-4.1791997775194.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ऊ कहलन — जा, बाहर से, ⟨את⟩ अपन सब पड़ोसिनी सब संग बर बर्तन सब माँग ले; खाली बर्तन सब; थोड़ा मत ले।",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "שאלי",
-      "gloss": "माँग"
+      "gloss": "माँग ले"
     },
     {
       "surface": "לך",
-      "gloss": "तोहर बर"
+      "gloss": "अपन बर"
     },
     {
       "surface": "כלים",
-      "gloss": "बरतन"
+      "gloss": "बर्तन सब"
     },
     {
       "surface": "מן",
@@ -58,8 +37,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ सब के पास से",
-      "marks": "तोहर सब पड़ोसी के बरतन"
+      "gloss": "⟨את⟩ संग",
+      "marks": "अपन सब पड़ोसिनी सब"
     },
     {
       "surface": "כל",
@@ -67,11 +46,11 @@
     },
     {
       "surface": "שכנכי",
-      "gloss": "तोहर पड़ोसी के"
+      "gloss": "पड़ोसिनी सब"
     },
     {
       "surface": "כלים",
-      "gloss": "बरतन"
+      "gloss": "बर्तन सब"
     },
     {
       "surface": "רקים",
@@ -83,9 +62,9 @@
     },
     {
       "surface": "תמעיטי",
-      "gloss": "थोड़े करऽ"
+      "gloss": "थोड़ा करऽ"
     }
   ],
-  "timestamp": "2026-10-14T17:09:35.195342106Z",
+  "timestamp": "2026-10-15T11:52:17.849950296Z",
   "model": "glm-5.3"
 }

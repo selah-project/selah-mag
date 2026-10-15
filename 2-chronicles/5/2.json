@@ -5,23 +5,7 @@
   "book": "2-chronicles",
   "lang": "mag",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "जमा कइलन",
-      "rationale": "Assembly of elders, tribal heads, and family chiefs — a roll-call of Israel's leadership"
-    }
-  ],
-  "translation": "तब शलोमो यिस्राएल के बुढ़वा लोग, आउ गोत्र सब के मुखिया, यिस्राएल के बेटा सब के पिता-घर के सरदार सब के यरूशलयिम (यरूशलेम) में जमा कइलन — यहवे के वाचा के सन्दूक दाविद के नगर से, जे सियोन हकइ, ऊपर लावे बर।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "4be76c798d5ca304338842dfe84e2117ef530e87757945bdc9988b9e6f2fe3bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-chronicles\/5\/1-4.1792010701232.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "तब सुलेमान यिस्राएल (इस्राएल) के बुढ़ा लोग के ⟨את⟩ जमा करलन, आउ ⟨את⟩ सब गोत के मूड़ी वाला लोग के, यिस्राएल के बेटा सब के घर-कुनबा के सरदार सब के, यरूशलयिम (यरूशलेम) में — यहवे के वाचा के सन्दूक के दाविद (दाऊद) के नगर से ऊपर लावे बर; ऊ हइ जियोन।",
   "tokens": [
     {
       "surface": "אז",
@@ -29,29 +13,29 @@
     },
     {
       "surface": "יקהיל",
-      "gloss": "जमा कइलन"
+      "gloss": "जमा करलन"
     },
     {
       "surface": "שלמה",
-      "gloss": "शलोमो"
+      "gloss": "सुलेमान"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "बुढ़वा लोग"
+      "marks": "यिस्राएल के बुढ़ा लोग के"
     },
     {
       "surface": "זקני",
-      "gloss": "बुढ़वा लोग"
+      "gloss": "बुढ़ा लोग के"
     },
     {
       "surface": "ישראל",
-      "gloss": "यिस्राएल"
+      "gloss": "यिस्राएल (इस्राएल)"
     },
     {
       "surface": "ואת",
       "gloss": "आउ ⟨את⟩",
-      "marks": "मुखिया सब"
+      "marks": "सब गोत के मूड़ी वाला लोग के"
     },
     {
       "surface": "כל",
@@ -59,19 +43,19 @@
     },
     {
       "surface": "ראשי",
-      "gloss": "मुखिया"
+      "gloss": "मूड़ी वाला लोग के"
     },
     {
       "surface": "המטות",
-      "gloss": "गोत्र सब के"
+      "gloss": "गोत के"
     },
     {
       "surface": "נשיאי",
-      "gloss": "सरदार सब"
+      "gloss": "सरदार सब के"
     },
     {
       "surface": "האבות",
-      "gloss": "पिता-घर के"
+      "gloss": "घर-कुनबा के"
     },
     {
       "surface": "לבני",
@@ -83,11 +67,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "के नगर में"
+      "gloss": "में"
     },
     {
       "surface": "ירושלם",
-      "gloss": "यरूशलयिम"
+      "gloss": "यरूशलयिम (यरूशलेम)"
     },
     {
       "surface": "להעלות",
@@ -96,11 +80,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "सन्दूक"
+      "marks": "वाचा के सन्दूक के"
     },
     {
       "surface": "ארון",
-      "gloss": "सन्दूक"
+      "gloss": "सन्दूक के"
     },
     {
       "surface": "ברית",
@@ -116,17 +100,17 @@
     },
     {
       "surface": "דויד",
-      "gloss": "दाविद"
+      "gloss": "दाविद (दाऊद)"
     },
     {
       "surface": "היא",
-      "gloss": "जे हकइ"
+      "gloss": "ऊ हइ"
     },
     {
       "surface": "ציון",
-      "gloss": "सियोन"
+      "gloss": "जियोन"
     }
   ],
-  "timestamp": "2026-10-14T20:45:01.233816118Z",
+  "timestamp": "2026-10-15T11:48:14.066146426Z",
   "model": "glm-5.3"
 }

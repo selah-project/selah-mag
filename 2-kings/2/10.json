@@ -5,56 +5,40 @@
   "book": "2-kings",
   "lang": "mag",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הקשית לשאול",
-      "rationale": "“तू माँगे बर कठिन कइल हकइ” — कठिन बात बनाम “असंभव बात”।"
-    }
-  ],
-  "translation": "आउ ऊ कहलन, “तू एक कठिन बात माँगल हकइ; तैयो जे तू हमरा लेल जाएला के देखब, त तोहरा तइसे होतइ; आउ जे नञ, त नञ होतइ।”",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "a05c6ffb361fe34523065e6da1e240bb80a93c7bfc7000a5e1736c0ac1ac953c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/2\/9-12.1791997647608.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ऊ कहलन, “तूँ माँगे बर कठिन कइलइ हे; तैओ जब मोका तोहरे संग से ⟨את⟩ लेल जाए के बखत तूँ ⟨את⟩ मोका देखबइ, तोहार बर अइसने होतइ; आउ जेकरा नञ देखबइ त अइसने नञ होतइ।”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "आउ ऊ कहलन"
+      "gloss": "कहलन"
     },
     {
       "surface": "הקשית",
-      "gloss": "तू एक कठिन बात माँगल हकइ"
+      "gloss": "कठिन कइलइ हे"
     },
     {
       "surface": "לשאול",
-      "gloss": "माँगल"
+      "gloss": "माँगे बर"
     },
     {
       "surface": "אם",
-      "gloss": "जे कि"
+      "gloss": "जब"
     },
     {
       "surface": "תראה",
-      "gloss": "तू देखब"
+      "gloss": "तूँ देखबइ"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "हमरा"
+      "marks": "मोका"
     },
     {
       "surface": "לקח",
-      "gloss": "लेल जाएला के"
+      "gloss": "लेल जाए"
     },
     {
       "surface": "מאתך",
-      "gloss": "तोहरा संग से ⟨את⟩"
+      "gloss": "तोहरे संग से ⟨את⟩"
     },
     {
       "surface": "יהי",
@@ -62,15 +46,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "तोहरा"
+      "gloss": "तोहार बर"
     },
     {
       "surface": "כן",
-      "gloss": "तइसे"
+      "gloss": "अइसने"
     },
     {
       "surface": "ואם",
-      "gloss": "आउ जे"
+      "gloss": "आउ जेकरा"
     },
     {
       "surface": "אין",
@@ -85,6 +69,6 @@
       "gloss": "होतइ"
     }
   ],
-  "timestamp": "2026-10-14T17:07:27.609571710Z",
+  "timestamp": "2026-10-15T11:49:35.287481926Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "mag",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אם לא",
-      "rationale": "शपथ के रूप — 'अवश्य \/ सचियो' रूप में देलक, शाब्दिक 'यदि नञ' बेकार होतइ"
-    },
-    {
-      "kind": "elision",
-      "subject": "לא",
-      "rationale": "शपथ-युग्म אם לא के हिस्सा, अलग से पार नञ भेल"
-    },
-    {
-      "kind": "addition",
-      "subject": "कहलन",
-      "rationale": "इब्रानी क्रिया 'बोलल' सीधे नञ हकइ; 'कहलन' जोड़ल गेलन"
-    }
-  ],
-  "translation": "हमरा कान में यहवे त्सबाओत कहलन — अवश्य ढेर घर उजाड़ होतइ, बड़ आउ नीक, बिना बासए वाला।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "b11006f1e6d9ab8e268edf6389367ebe4432f963b552b337684334a8d8032c78",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/5\/9-12.1791998646785.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "हमरा कान में यहवे त्सबाओत ⟨कहलन⟩ — की बहुत घर उजाड़ नञ होतन, बड़का आउ बढ़िया, बिना बसावै वाला के।",
   "tokens": [
     {
       "surface": "באזני",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "अवश्य"
+      "gloss": "की"
     },
     {
       "surface": "לא",
-      "gloss": ""
+      "gloss": "नञ"
     },
     {
       "surface": "בתים",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "רבים",
-      "gloss": "ढेर"
+      "gloss": "बहुत"
     },
     {
       "surface": "לשמה",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "होतइ"
+      "gloss": "होतन"
     },
     {
       "surface": "גדלים",
-      "gloss": "बड़"
+      "gloss": "बड़का"
     },
     {
       "surface": "וטובים",
-      "gloss": "आउ नीक"
+      "gloss": "आउ बढ़िया"
     },
     {
       "surface": "מאין",
@@ -83,9 +57,9 @@
     },
     {
       "surface": "יושב",
-      "gloss": "बासए वाला"
+      "gloss": "बसावै वाला"
     }
   ],
-  "timestamp": "2026-10-14T17:24:06.786269487Z",
+  "timestamp": "2026-10-15T12:24:19.074151112Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "mag",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "בשיד",
-      "rationale": "शिओद — चून; बिरल पद, मगही में चून रखल गेल"
-    },
-    {
-      "kind": "measurement",
-      "subject": "बड़का पत्थल",
-      "rationale": "पत्थल के बनावट आउ नाप के बिधान"
-    }
-  ],
-  "translation": "आउ जे दिन तोहनी यर्देन (यर्दन) के पार करब, ओही धरती के दने जे यहवे तोहर एलोहीम तोहनी के देत छथिन, ओही दिन तूँ ⟨आपन⟩ बर बड़का पत्थल गड़बइ आउ ओकरा चून स ⟨पोतबइ⟩।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "94e96fb1ff8c31bc936b16b303a1d667fa8d0dbbd8893b8e4cf7c9e1d6634fe5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/27\/1-4.1791992800671.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ई होतइ: जे दिन तोहनी ⟨את⟩ यरदन के पार करबऽ, ओ धरती के दने जेकरा यहवे तोहर एलोहीम तोहरा देऽ हइ — तूँ ओ दिन अपना बर बड़-बड़ पत्थल गाड़बइ आउ ओकरा ⟨אתם⟩ चूने से पोतबइ।",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "आउ होतइ"
+      "gloss": "आउ ई होतइ"
     },
     {
       "surface": "ביום",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "תעברו",
-      "gloss": "पार करब"
+      "gloss": "पार करबऽ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "यर्देन"
+      "marks": "यरदन"
     },
     {
       "surface": "הירדן",
-      "gloss": "यर्देन"
+      "gloss": "यरदन"
     },
     {
       "surface": "אל",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "जे"
+      "gloss": "जेकरा"
     },
     {
       "surface": "יהוה",
@@ -75,19 +54,19 @@
     },
     {
       "surface": "נתן",
-      "gloss": "देत छथिन"
+      "gloss": "देऽ हइ"
     },
     {
       "surface": "לך",
-      "gloss": "तोहनी के"
+      "gloss": "तोहरा"
     },
     {
       "surface": "והקמת",
-      "gloss": "गड़बइ"
+      "gloss": "गाड़बइ"
     },
     {
       "surface": "לך",
-      "gloss": "⟨आपन⟩ बर"
+      "gloss": "अपना बर"
     },
     {
       "surface": "אבנים",
@@ -95,22 +74,22 @@
     },
     {
       "surface": "גדלות",
-      "gloss": "बड़का"
+      "gloss": "बड़-बड़"
     },
     {
       "surface": "ושדת",
-      "gloss": "⟨पोतबइ⟩"
+      "gloss": "पोतबइ"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "चून स"
+      "gloss": "⟨אתם⟩",
+      "marks": "पत्थल (ओकरा)"
     },
     {
       "surface": "בשיד",
-      "gloss": "चून स"
+      "gloss": "चूने से"
     }
   ],
-  "timestamp": "2026-10-14T15:46:40.672420579Z",
+  "timestamp": "2026-10-15T11:59:34.297330101Z",
   "model": "glm-5.3"
 }

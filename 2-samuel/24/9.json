@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "mag",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "गिनती",
-      "rationale": "जनगिनती के नतीजा — दू गिनती, यिस्राएल आउ यहूदा बर।"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨आउ⟩",
-      "rationale": "אל के बाद मगही के क्रम बर बाक्य के शुरू में जोड़ल शब्द।"
-    }
-  ],
-  "translation": "आउ योआब राजा के ⟨आउ⟩ लोग के गिनती-मंडली के गिनती देलन; आउ यिस्राएल होलक आठ लाख ताकत वाला मरद, तलवार घीँचै वाला, आउ यहूदा के मरद पाँच लाख मरद।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "ccb36c88e6943138e0a0fce5cd265d3d4dab3a87660e26bf9fdebdd84e6eac7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/24\/9-12.1791996610386.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ योआब ⟨את⟩ गिनती रिपोट लोग के गिनै के देलन राजा के; आउ यिस्राएल के आठ लाख मरद बलवान, तलवार निकारय वाला, आउ यहूदा के मरद पाँच लाख मरद हलन।",
   "tokens": [
     {
       "surface": "ויתן",
@@ -47,23 +26,23 @@
     },
     {
       "surface": "מפקד",
-      "gloss": "गिनती-मंडली"
+      "gloss": "गिनै"
     },
     {
       "surface": "העם",
-      "gloss": "लोग के"
+      "gloss": "लोग"
     },
     {
       "surface": "אל",
-      "gloss": "⟨आउ⟩"
+      "gloss": "के"
     },
     {
       "surface": "המלך",
-      "gloss": "राजा के"
+      "gloss": "राजा"
     },
     {
       "surface": "ותהי",
-      "gloss": "होलक"
+      "gloss": "हलन"
     },
     {
       "surface": "ישראל",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "מאות",
-      "gloss": "सौ"
+      "gloss": "लाख"
     },
     {
       "surface": "אלף",
-      "gloss": "हजार"
+      "gloss": "लाख"
     },
     {
       "surface": "איש",
@@ -87,11 +66,11 @@
     },
     {
       "surface": "חיל",
-      "gloss": "ताकत वाला"
+      "gloss": "बलवान"
     },
     {
       "surface": "שלף",
-      "gloss": "घीँचै वाला"
+      "gloss": "निकारय वाला"
     },
     {
       "surface": "חרב",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "यहूदा के"
+      "gloss": "यहूदा"
     },
     {
       "surface": "חמש",
@@ -111,17 +90,17 @@
     },
     {
       "surface": "מאות",
-      "gloss": "सौ"
+      "gloss": "लाख"
     },
     {
       "surface": "אלף",
-      "gloss": "हजार"
+      "gloss": "लाख"
     },
     {
       "surface": "איש",
       "gloss": "मरद"
     }
   ],
-  "timestamp": "2026-10-14T16:50:10.387504813Z",
+  "timestamp": "2026-10-15T13:00:41.836052738Z",
   "model": "glm-5.3"
 }

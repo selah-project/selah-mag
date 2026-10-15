@@ -5,36 +5,15 @@
   "book": "isaiah",
   "lang": "mag",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to YHWH",
-      "rationale": "Hezekiah's prayer addresses YHWH directly."
-    },
-    {
-      "kind": "substitution",
-      "subject": "לפניך",
-      "rationale": "literally 'before your face', an idiom of living in God's presence."
-    }
-  ],
-  "translation": "आउ कहलक — हे यहवे, सोचऽ हइ, जे हम तोहर मुँह के आगे सच में आउ पूरा हिरदय के संग टहललइ, आउ जे तोहर आँख में भला हकइ ऊ कएलइ — आउ हिज्कियाहू बड़ कराहे से रोएलक।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "0799f67e160609adcd83c562f5b39d84feb9c864626605237f237ad9a9dab360",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/isaiah\/38\/1-4.1791999277337.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ कहलन: “अहा, यहवे, मन बढ़ावऽ, जे ⟨את⟩ जे-हम तोहर मुँह के आगू सच में आउ पूरा हिरदय से टहललियै, आउ जे तोहर आँख में भला हकइ ओहे करलियै।” आउ हिज्कियाहू बड़ रोवते रोएलन।",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "कहलक"
+      "gloss": "आउ कहलन"
     },
     {
       "surface": "אנה",
-      "gloss": "हे"
+      "gloss": "अहा"
     },
     {
       "surface": "יהוה",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "זכר",
-      "gloss": "सोचऽ हइ"
+      "gloss": "मन बढ़ावऽ"
     },
     {
       "surface": "נא",
-      "gloss": "⟨ना⟩"
+      "gloss": "मन बढ़ावऽ (कोमल बिनती)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "जे हम टहललइ"
+      "marks": "जे"
     },
     {
       "surface": "אשר",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "התהלכתי",
-      "gloss": "हम टहललइ"
+      "gloss": "टहललियै"
     },
     {
       "surface": "לפניך",
-      "gloss": "तोहर मुँह के आगे"
+      "gloss": "तोहर मुँह के आगू"
     },
     {
       "surface": "באמת",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "ובלב",
-      "gloss": "आउ हिरदय के संग"
+      "gloss": "आउ हिरदय से"
     },
     {
       "surface": "שלם",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "והטוב",
-      "gloss": "आउ भला"
+      "gloss": "आउ जे भला"
     },
     {
       "surface": "בעיניך",
@@ -87,25 +66,25 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "कएलइ"
+      "gloss": "करलियै"
     },
     {
       "surface": "ויבך",
-      "gloss": "रोएलक"
+      "gloss": "आउ रोएलन"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "हिज्कियाहू"
+      "gloss": "हिज्कियाहू (हिज़किय्याह)"
     },
     {
       "surface": "בכי",
-      "gloss": "कराहे से"
+      "gloss": "रोवते"
     },
     {
       "surface": "גדול",
       "gloss": "बड़"
     }
   ],
-  "timestamp": "2026-10-14T17:34:37.338210167Z",
+  "timestamp": "2026-10-15T12:25:36.237783453Z",
   "model": "glm-5.3"
 }

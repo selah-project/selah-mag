@@ -5,40 +5,19 @@
   "book": "leviticus",
   "lang": "mag",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "שבע",
-      "rationale": "सात गुना — गिनती के ढाँचा, ताड़ना के नाप।"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "सजा के साँझा-सम्बोधन।"
-    }
-  ],
-  "translation": "आउ जो ए सब के बादो तोहनी हमर बात नञ सुनब, त हम तोहनी के ताड़ना देवे में सात गुना बढ़ा देब, तोहनी के पापन के ऊपर।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "3a3e711e6513bf6e920b421d8374162b00af64263649142f7ff09d7e80d229fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/26\/17-20.1791990469394.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ जेकर अबहिं लेग ई सब के बादो तोहनी हमर नञ सुनब, त हम तोहनी ⟨את⟩ के तोहनी के पाप पर सात गुना ताड़ना बढ़ा देतइ।",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "आउ जो"
+      "gloss": "आउ जेकर"
     },
     {
       "surface": "עד",
-      "gloss": "तक"
+      "gloss": "अबहिं लेग"
     },
     {
       "surface": "אלה",
-      "gloss": "ए सब के बादो"
+      "gloss": "ई सब"
     },
     {
       "surface": "לא",
@@ -50,20 +29,20 @@
     },
     {
       "surface": "לי",
-      "gloss": "हमर बात"
+      "gloss": "हमर"
     },
     {
       "surface": "ויספתי",
-      "gloss": "हम बढ़ा देब"
+      "gloss": "बढ़ा देतइ"
     },
     {
       "surface": "ליסרה",
-      "gloss": "ताड़ना देवे में"
+      "gloss": "ताड़ना करब"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "तोहनी के"
+      "marks": "तोहनी के (सात गुना ताड़ना) — चिन्हा ओकरा दने हकइ जेकरा ताड़ना के लेलन हकइ"
     },
     {
       "surface": "שבע",
@@ -71,13 +50,13 @@
     },
     {
       "surface": "על",
-      "gloss": "के ऊपर"
+      "gloss": "पर"
     },
     {
       "surface": "חטאתיכם",
       "gloss": "तोहनी के पाप"
     }
   ],
-  "timestamp": "2026-10-14T15:07:49.395858228Z",
+  "timestamp": "2026-10-15T12:47:44.950775501Z",
   "model": "glm-5.3"
 }

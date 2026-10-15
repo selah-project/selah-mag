@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "mag",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "עד הנה",
-      "rationale": "शाब्दिक 'इहाँ तक' — मनुस के आगमन के जगह बतावऽ हइ।"
-    },
-    {
-      "kind": "addition",
-      "subject": "कि",
-      "rationale": "बतावे वाला वाक्य जोड़े बर मगही में 'कि' जोड़ल गेलइ।"
-    }
-  ],
-  "translation": "आउ एलिशा दमिश्क अइलन, आउ बेन-हादाद, अराम के राजा, बिमार हलथिन। तब ओकरा ई बतावल गेलइ कि एलोहीम के मनुस इहाँ अइलन हथिन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-kings\/8\/5-8.1791998004594.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ एलिशा दमशेक के अइलन, आउ अराम के राजा बेन-हदद बेमार हलन, आउ ओकरा के बतावल गेलन कहके — एलोहीम के आदमी इहाँ ले अइलन हथिन।",
   "tokens": [
     {
       "surface": "ויבא",
@@ -34,19 +13,19 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "एलי׶ा"
+      "gloss": "एलिशा"
     },
     {
       "surface": "דמשק",
-      "gloss": "दमिश्क"
+      "gloss": "दमशेक"
     },
     {
       "surface": "ובן",
-      "gloss": "आउ बेन"
+      "gloss": "आउ बेन-हदद"
     },
     {
       "surface": "הדד",
-      "gloss": "हादाद"
+      "gloss": "बेन-हदद"
     },
     {
       "surface": "מלך",
@@ -58,19 +37,19 @@
     },
     {
       "surface": "חלה",
-      "gloss": "बिमार हलथिन"
+      "gloss": "बेमार हलन"
     },
     {
       "surface": "ויגד",
-      "gloss": "बतावल गेलइ"
+      "gloss": "बतावल गेलन"
     },
     {
       "surface": "לו",
-      "gloss": "ओकरा"
+      "gloss": "ओकरा के"
     },
     {
       "surface": "לאמר",
-      "gloss": "कि"
+      "gloss": "कहके"
     },
     {
       "surface": "בא",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "मनुस"
+      "gloss": "आदमी"
     },
     {
       "surface": "האלהים",
@@ -86,13 +65,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "इहाँ"
+      "gloss": "इहाँ ले"
     },
     {
       "surface": "הנה",
-      "gloss": "तक"
+      "gloss": "इहाँ"
     }
   ],
-  "timestamp": "2026-10-14T17:13:24.595663198Z",
+  "timestamp": "2026-10-15T11:51:42.343726932Z",
   "model": "glm-5.3"
 }

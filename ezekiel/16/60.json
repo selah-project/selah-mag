@@ -5,49 +5,33 @@
   "book": "ezekiel",
   "lang": "mag",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "सदा के",
-      "rationale": "עולם के सुभाविक अरथ 'लम्बा-छुपल समय' हकइ; 'सदा' जानल-पहचानल रूप लेलक हनी"
-    }
-  ],
-  "translation": "बाकि हम याद करब ⟨את⟩ हमर वाचा, जे तोहर जवानी के दिन में हल, आउ तोहर बर एक सदा के वाचा ठाढ़ करब।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "a1fda81d194e0026c30f7362b083394af1ba8b4c067070484f7bb2ebda355e5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/ezekiel\/16\/57-60.1792002101230.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "बाकि ⟨हम खुद⟩ याद करबइ ⟨את⟩ अपन वाचा ⟨את⟩ तोहर जवानी के दिन के, आउ खड़ा कर देबइ तोहर खातिर एक सदा-सदा के वाचा।",
   "tokens": [
     {
       "surface": "וזכרתי",
-      "gloss": "बाकि हम याद करब"
+      "gloss": "आउ याद करबइ"
     },
     {
       "surface": "אני",
-      "gloss": "हम"
+      "gloss": "हम खुद"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "हमर वाचा"
+      "marks": "अपन वाचा"
     },
     {
       "surface": "בריתי",
-      "gloss": "हमर वाचा"
+      "gloss": "अपन वाचा"
     },
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "तोहर जवानी के दिन"
+      "marks": "तोहर जवानी के दिन के"
     },
     {
       "surface": "בימי",
-      "gloss": "दिन में"
+      "gloss": "के दिन के"
     },
     {
       "surface": "נעוריך",
@@ -55,11 +39,11 @@
     },
     {
       "surface": "והקמותי",
-      "gloss": "ठाढ़ करब"
+      "gloss": "आउ खड़ा कर देबइ"
     },
     {
       "surface": "לך",
-      "gloss": "तोहर बर"
+      "gloss": "तोहर खातिर"
     },
     {
       "surface": "ברית",
@@ -67,9 +51,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "सदा के"
+      "gloss": "सदा-सदा के"
     }
   ],
-  "timestamp": "2026-10-14T18:21:41.231870134Z",
+  "timestamp": "2026-10-15T12:09:26.898724625Z",
   "model": "glm-5.3"
 }

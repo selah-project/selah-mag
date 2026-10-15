@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "mag",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "इब्रानी के जोड़-मुहावरा 'बाकि ओकरे बदला' — एके एक सब्द 'बाकि' से देखावल गेल।"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אלך … אלך",
-      "rationale": "'हम नञ जाबइ … जनम-भरि दने जाबइ' — एके क्रिया दू बेर, इनकार आउ ठान के उलटा-टेक।"
-    }
-  ],
-  "translation": "आउ ओ ⟨मोशे से⟩ कहलक — नञ, हम नञ जाबइ; बाकि हम अपन धरती आउ अपन जनम-भरि दने जाबइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "a6d236d49114907b2ee5a0f42bf8304c97135bef46ef7d00508667b52c4bcd80",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/numbers\/10\/29-32.1791990927814.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ऊ ओकरा कहलन, “हम नञ जइबइ; बाकि हम अपन धरती आउ अपन जनम-भर जइबइ।”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "आउ कहलक"
+      "gloss": "आउ ऊ कहलन"
     },
     {
       "surface": "אליו",
-      "gloss": "ओकरा से"
+      "gloss": "ओकरा"
     },
     {
       "surface": "לא",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אלך",
-      "gloss": "जाबइ"
+      "gloss": "जइबइ"
     },
     {
       "surface": "כי",
@@ -50,29 +29,29 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "⟨बाकि⟩"
     },
     {
       "surface": "אל",
-      "gloss": "दने"
+      "gloss": "⟨बर⟩"
     },
     {
       "surface": "ארצי",
-      "gloss": "हमरा धरती"
+      "gloss": "अपन धरती"
     },
     {
       "surface": "ואל",
-      "gloss": "आउ दने"
+      "gloss": "आउ"
     },
     {
       "surface": "מולדתי",
-      "gloss": "हमर जनम-भरि"
+      "gloss": "अपन जनम-भर"
     },
     {
       "surface": "אלך",
-      "gloss": "जाबइ"
+      "gloss": "जइबइ"
     }
   ],
-  "timestamp": "2026-10-14T15:15:27.815229953Z",
+  "timestamp": "2026-10-15T12:50:28.846685308Z",
   "model": "glm-5.3"
 }

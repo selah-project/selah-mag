@@ -5,32 +5,11 @@
   "book": "1-chronicles",
   "lang": "mag",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "सोलह बेटा आउ छह बेटी",
-      "rationale": "गिनती — परिवार के आकार के नाप।"
-    },
-    {
-      "kind": "addition",
-      "subject": "हलन",
-      "gloss": "Hebrew वर्तमान-भूत किरिया नञ देत हइ; मगही किरिया-रूप जोड़ल गेलन।"
-    }
-  ],
-  "translation": "शिमी के सोलह बेटा आउ छह बेटी हलन; आउ ओकर भाय के ढेर बेटा नञ हलन, आउ ओकनी के सब कुनबा यहूदा के बेटा लोग जतना नञ बढ़ल।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "a531f04bcba08ecae7fa274290c57b28c13506c04e4f3e41cb0e25c33a75000f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-chronicles\/4\/25-28.1792009944212.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ शिमी के सोलह बेटा आउ छह बेटी रहलन; आउ ओकर भाय सब के ढेर बेटा नञ रहलन, आउ ओकनी के सब परिवार यहूदा के बेटा सब जतना बढ़ल नञ होलन।",
   "tokens": [
     {
       "surface": "ולשמעי",
-      "gloss": "शिमी के"
+      "gloss": "आउ शिमी के"
     },
     {
       "surface": "בנים",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "ששה",
-      "gloss": "छह"
+      "gloss": "सोलह"
     },
     {
       "surface": "עשר",
-      "gloss": "<सोलह के दस>"
+      "gloss": "(सोलह के भाग) दस"
     },
     {
       "surface": "ובנות",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "ולאחיו",
-      "gloss": "आउ ओकर भाय के"
+      "gloss": "आउ ओकर भाय सब के"
     },
     {
       "surface": "אין",
-      "gloss": "नञ हलन"
+      "gloss": "नञ"
     },
     {
       "surface": "בנים",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "משפחתם",
-      "gloss": "ओकनी के कुनबा"
+      "gloss": "ओकनी के परिवार"
     },
     {
       "surface": "לא",
@@ -90,13 +69,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "बेटा लोग"
+      "gloss": "बेटा सब"
     },
     {
       "surface": "יהודה",
       "gloss": "यहूदा के"
     }
   ],
-  "timestamp": "2026-10-14T20:32:24.212892575Z",
+  "timestamp": "2026-10-15T11:36:51.981226665Z",
   "model": "glm-5.3"
 }

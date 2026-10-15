@@ -5,127 +5,101 @@
   "book": "1-samuel",
   "lang": "mag",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "להביא גת",
-      "rationale": "KJV 'bring tidings to Gath' (बात ले जाना) बनाम JPS\/BSB 'bring them to Gath' (ओकनी के ले जाना); मूल में 'बात' नञ हकइ"
-    },
-    {
-      "kind": "substitution",
-      "subject": "משפטו",
-      "rationale": "משפט 'नियाव\/चलन' हकइ; 'ओकर चलन' लेलन — बिधान के अरथ में नञ"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨कि⟩",
-      "rationale": "मगही के बनावट बर जोड़ल जोड़-सब्द, इब्रानी में नञ हकइ"
-    }
-  ],
-  "translation": "आउ दाविद कोनो मरद जनाना के जियतै नञ रखलन, ⟨कि⟩ ओकनी के गत (गत) में ले जाने बर — काहे कि ओकनी बता देतइ हमनी के बारे में आउ कहतइ, “एहने कइलन दाविद, आउ एहने ओकर चलन सब दिन जे ऊ पलिस्ती के खेत में रहलन।”",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "21f5b79f83a9556ddbfa59a0e44b2a849ec3f5cff225d02a2fd3e248b1076309",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/1-samuel\/27\/9-12.1791995694144.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ दाविद मरद चाहे जनाना केकरो के जियतइ नञ रखलक, गत ⟨ले जाए बर⟩, कहलक — कहीं ऊ लोग हमनी के उप्पर बतावऽ हथिन, कि अइसने दाविद कइलक आउ अइसने ओकर नियाव हलइ, ओहू सब दिन जे ऊ पलिस्ती के खेत में रहलक।",
   "tokens": [
     {
-      "surface": "ואיש",
-      "gloss": "आउ कोनो मरद"
+      "surface": "וְאִישׁ",
+      "gloss": "आउ मरद"
     },
     {
-      "surface": "ואשה",
-      "gloss": "जनाना"
+      "surface": "וְאִשָּׁׁה",
+      "gloss": "चाहे जनाना"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "नञ"
     },
     {
-      "surface": "יחיה",
-      "gloss": "जियतै रखलन"
+      "surface": "יְחַיֶּה",
+      "gloss": "जियतइ रखतइ"
     },
     {
-      "surface": "דוד",
+      "surface": "דָּוִד",
       "gloss": "दाविद"
     },
     {
-      "surface": "להביא",
-      "gloss": "ले जाने बर"
+      "surface": "לְהָבִיא",
+      "gloss": "ले जाए बर"
     },
     {
-      "surface": "גת",
+      "surface": "גַת",
       "gloss": "गत"
     },
     {
-      "surface": "לאמר",
-      "gloss": "कहऽ हइ"
+      "surface": "לֵאמֹר",
+      "gloss": "कहलक"
     },
     {
-      "surface": "פן",
-      "gloss": "काहे कि"
+      "surface": "פֶּן",
+      "gloss": "कहीं"
     },
     {
-      "surface": "יגדו",
-      "gloss": "बता देतइ"
+      "surface": "יַגִּידוּ",
+      "gloss": "बतावऽ हथिन"
     },
     {
-      "surface": "עלינו",
-      "gloss": "हमनी के बारे में"
+      "surface": "עָלֵינוּ",
+      "gloss": "हमनी के उप्पर"
     },
     {
-      "surface": "לאמר",
-      "gloss": "आउ कहतै"
+      "surface": "לֵאמֹר",
+      "gloss": "कि"
     },
     {
-      "surface": "כה",
-      "gloss": "एहने"
+      "surface": "כֹּה",
+      "gloss": "अइसने"
     },
     {
-      "surface": "עשה",
-      "gloss": "कइलन"
+      "surface": "עָשָׂה",
+      "gloss": "कइलक"
     },
     {
-      "surface": "דוד",
-      "gloss": "दावיצ"
+      "surface": "דָּוִד",
+      "gloss": "दाविद"
     },
     {
-      "surface": "וכה",
-      "gloss": "आउ एहने"
+      "surface": "וְכֹה",
+      "gloss": "आउ अइसने"
     },
     {
-      "surface": "משפטו",
-      "gloss": "ओकर चलन"
+      "surface": "מִשְׁפָּטוֹ",
+      "gloss": "ओकर नियाव"
     },
     {
-      "surface": "כל",
+      "surface": "כָּל",
       "gloss": "सब"
     },
     {
-      "surface": "הימים",
+      "surface": "הַיָּמִים",
       "gloss": "दिन"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁר",
       "gloss": "जे"
     },
     {
-      "surface": "ישב",
-      "gloss": "रहलन"
+      "surface": "יָשַׁב",
+      "gloss": "रहलक"
     },
     {
-      "surface": "בשדה",
+      "surface": "בִּשְׂדֵה",
       "gloss": "खेत में"
     },
     {
-      "surface": "פלשתים",
+      "surface": "פְּלִשְׁתִּים",
       "gloss": "पलिस्ती"
     }
   ],
-  "timestamp": "2026-10-14T16:34:54.145828937Z",
+  "timestamp": "2026-10-15T11:43:08.936019957Z",
   "model": "glm-5.3"
 }

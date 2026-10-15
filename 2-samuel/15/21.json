@@ -5,41 +5,15 @@
   "book": "2-samuel",
   "lang": "mag",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "हमर",
-      "rationale": "אדני बिना सर्बनाम के हकइ; मगही के “हमर मालिक” संबोधन सुभाविक हकइ"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מालिक",
-      "rationale": "אדנी इहाँ आदमी (राजा) बर हकइ, दिब्य नाम नञ"
-    },
-    {
-      "kind": "you",
-      "subject": "to the king",
-      "rationale": "अइत्ताय राजा (दाविद) से सीधे बात करऽ हइ"
-    }
-  ],
-  "translation": "अइत्ताय राजा के उत्तर देलक आउ कहलक, “यहवे जीवत हथिन आउ हमर मालिक राजा जीवत हथिन — जइसन जगह पर हमर मालिक राजा रहतन, मरन बर होवे, जीवन बर होवे, तइसन तहीं तोहर नौकर रहतइ।”",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "6ff7357e6c534e14b891dfa89965791302e1fc7a6712d192fc24b2a300d63a64",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/2-samuel\/15\/21-24.1791996342348.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ इत्ताय ⟨את⟩ राजा के उत्तर देलक आउ कहलक, “यहवे जियत हथिन आउ हमर मालिक राजा जियत हथिन — जहाँ हमर मालिक राजा होतइ, मरन बर होवे या जियत रहे बर, ओहिजे तोहर नौकर रहतइ।”",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "उत्तर देलक"
+      "gloss": "आउ उत्तर देलक"
     },
     {
       "surface": "אתי",
-      "gloss": "अइत्ताय"
+      "gloss": "इत्ताय"
     },
     {
       "surface": "את",
@@ -52,11 +26,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "कहलक"
+      "gloss": "आउ कहलक"
     },
     {
       "surface": "חי",
-      "gloss": "जीवत"
+      "gloss": "जियत हथिन"
     },
     {
       "surface": "יהוה",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "וחי",
-      "gloss": "आउ जीवत"
+      "gloss": "आउ जियत हथिन"
     },
     {
       "surface": "אדני",
@@ -76,27 +50,27 @@
     },
     {
       "surface": "כי",
-      "gloss": "जरूर"
+      "gloss": "सच"
     },
     {
       "surface": "אם",
-      "gloss": "कि"
+      "gloss": ""
     },
     {
       "surface": "במקום",
-      "gloss": "जगह पर"
+      "gloss": "जहाँ"
     },
     {
       "surface": "אשר",
-      "gloss": "जइसन"
+      "gloss": ""
     },
     {
       "surface": "יהיה",
-      "gloss": "रहतन"
+      "gloss": "होतइ"
     },
     {
       "surface": "שם",
-      "gloss": "तहीं"
+      "gloss": "ओहिजे"
     },
     {
       "surface": "אדני",
@@ -116,19 +90,19 @@
     },
     {
       "surface": "אם",
-      "gloss": "होवे"
+      "gloss": "या"
     },
     {
       "surface": "לחיים",
-      "gloss": "जीवन बर"
+      "gloss": "जियत रहे बर"
     },
     {
       "surface": "כי",
-      "gloss": "तइसन"
+      "gloss": "सच"
     },
     {
       "surface": "שם",
-      "gloss": "तहीं"
+      "gloss": "ओहिजे"
     },
     {
       "surface": "יהיה",
@@ -139,6 +113,6 @@
       "gloss": "तोहर नौकर"
     }
   ],
-  "timestamp": "2026-10-14T16:45:42.348880887Z",
+  "timestamp": "2026-10-15T11:52:40.560760536Z",
   "model": "glm-5.3"
 }

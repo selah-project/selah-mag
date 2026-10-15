@@ -5,53 +5,37 @@
   "book": "leviticus",
   "lang": "mag",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "दोस के अपराध",
-      "rationale": "עון अשמה — दो पद: अधरम आउ ओकर दण्ड-भार; मगही में जोड़ के देखावल गेलइ।"
-    }
-  ],
-  "translation": "आउ ओकनी के ओकनी के पवित्तर चीज खावे में दोस के अपराध नञ उठावतइ — काहे कि हम यहवे, जे ओकनी के पवित्तर करतिन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "6d179f046420a6cf8a131988421b3537b244cfc7116ebb4796ba89cfd4447476",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/22\/13-16.1791990210929.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ओकनी के अपराध के दोस के भार ढिकावऽ हइ जब ओकनी ⟨את⟩ अपन पवित्तर चीज के खावऽ हइ, काहे कि हम यहवे हइ, जे ओकनी के पवित्तर करऽ हइ।",
   "tokens": [
     {
       "surface": "והשיאו",
-      "gloss": "आउ उठावतइ"
+      "gloss": "ढिकावऽ हइ"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ओकनी के",
-      "marks": "दोस के अपराध"
+      "gloss": "⟨את⟩",
+      "marks": "अपराध के दोस"
     },
     {
       "surface": "עון",
-      "gloss": "दोस"
+      "gloss": "अपराध के दोस"
     },
     {
       "surface": "אשמה",
-      "gloss": "अपराध"
+      "gloss": "दोस"
     },
     {
       "surface": "באכלם",
-      "gloss": "खावे में"
+      "gloss": "खावऽ हइ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ओकनी के पवित्तर चीज"
+      "marks": "अपन पवित्तर चीज"
     },
     {
       "surface": "קדשיהם",
-      "gloss": "ओकनी के पवित्तर चीज"
+      "gloss": "अपन पवित्तर चीज"
     },
     {
       "surface": "כי",
@@ -67,9 +51,9 @@
     },
     {
       "surface": "מקדשם",
-      "gloss": "पवित्तर करतिन"
+      "gloss": "पवित्तर करऽ हइ"
     }
   ],
-  "timestamp": "2026-10-14T15:03:30.930077876Z",
+  "timestamp": "2026-10-15T12:46:49.120758678Z",
   "model": "glm-5.3"
 }

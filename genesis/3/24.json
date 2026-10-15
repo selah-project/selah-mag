@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "mag",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "כרובים → करूब सब",
-      "rationale": "transliterated, not rendered as 'angel-figures', to keep the Hebrew shape"
-    },
-    {
-      "kind": "hapax",
-      "subject": "להט",
-      "rationale": "flame-blaze; only here as noun of a sword's fire in this construction"
-    }
-  ],
-  "translation": "आउ ऊ आदमी के ⟨את⟩ धौंक देलन, आउ एदेन के बगइचा के पूरुब दने करूब सब के ⟨את⟩ आउ घूमत लपट-तलवार के ⟨ואת⟩ बसा देलन, जिनगी के गाछ के रस्ता के ⟨את⟩ रखवारी करे बर।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "74471a1707e533cf2913e04fc2c47140a8a0ac7bf873fcde31c9c5cf5a07ce03",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/genesis\/3\/21-24.1791986285839.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ ऊ ⟨את⟩ आदमी के धकेल-काढ़लन, आउ एदेन के बगइचा के पूरब दने केरुबिम के बसइलन, आउ ⟨את⟩ तलवार के लपट के जे घूमत-फिरत रहऽ हकइ, जीवन के गाछ के रस्ता के रखवारी बर ⟨आउ⟩ ⟨את⟩ जीवन के गाछ के रस्ता के।",
   "tokens": [
     {
       "surface": "ויגרש",
-      "gloss": "धौंक देलन"
+      "gloss": "धकेल-काढ़लन"
     },
     {
       "surface": "את",
@@ -39,15 +18,15 @@
     },
     {
       "surface": "האדם",
-      "gloss": "आदמी"
+      "gloss": "आदमी के"
     },
     {
       "surface": "וישכן",
-      "gloss": "बसा देलन"
+      "gloss": "बसइलन"
     },
     {
       "surface": "מקדם",
-      "gloss": "पूरुब दने"
+      "gloss": "पूरब दने"
     },
     {
       "surface": "לגן",
@@ -60,16 +39,16 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "करूब सब के"
+      "marks": "केरुबिम के"
     },
     {
       "surface": "הכרבים",
-      "gloss": "करूब सब"
+      "gloss": "केरुबिम के"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "लपट-तलवार के"
+      "gloss": "आउ ⟨את⟩",
+      "marks": "तलवार के लपट के"
     },
     {
       "surface": "להט",
@@ -77,15 +56,15 @@
     },
     {
       "surface": "החרב",
-      "gloss": "तलवार"
+      "gloss": "तलवार के"
     },
     {
       "surface": "המתהפכת",
-      "gloss": "घूमत"
+      "gloss": "घूमत-फिरत"
     },
     {
       "surface": "לשמר",
-      "gloss": "रखवारी करे बर"
+      "gloss": "रखवारी बर"
     },
     {
       "surface": "את",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "דרך",
-      "gloss": "रस्ता"
+      "gloss": "रस्ता के"
     },
     {
       "surface": "עץ",
@@ -102,9 +81,9 @@
     },
     {
       "surface": "החיים",
-      "gloss": "जिनगी के"
+      "gloss": "जीवन के"
     }
   ],
-  "timestamp": "2026-10-14T13:58:05.840908085Z",
+  "timestamp": "2026-10-15T12:18:15.786703798Z",
   "model": "glm-5.3"
 }

@@ -5,74 +5,53 @@
   "book": "joshua",
   "lang": "mag",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨אत⟩",
-      "rationale": "अंतिम चिन्हा इब्रानी में ⟨את⟩ हकइ — ⟨אत⟩ मगही पाठ में छपाई के गलती होवे के चाही; चिन्हा जान-बूझ के ⟨את⟩ रहऽ हइ।"
-    },
-    {
-      "kind": "measurement",
-      "subject": "नगरकन के सूची",
-      "rationale": "लेवी के नगरकन के बँटवारा के गिनती-सूची के हिस्सा।"
-    }
-  ],
-  "translation": "आउ रुबेन के गोत्र से ⟨את⟩ बेसेर आउ ⟨את⟩ ओकर चरागाह, ⟨את⟩ यहत्सा आउ ⟨אत⟩ ओकर चरागाह।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "68f54a4d890604c565fc5c8aa145a4162ace464134777164ef099a10f0f37214",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/joshua\/21\/33-36.1791993743460.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ रुबेन के शाखा में से ⟨את⟩ बेत्सेर ⟨את⟩ ओकर चारागाह के संग, आउ ⟨את⟩ याहत्सा आउ ⟨את⟩ ओकर चारागाह के संग।",
   "tokens": [
     {
       "surface": "וממטה",
-      "gloss": "आउ ... के गोत्र से"
+      "gloss": "आउ शाखा में से"
     },
     {
       "surface": "ראובן",
-      "gloss": "रुबेन"
+      "gloss": "रुबेन के"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "बेसेर"
+      "marks": "बेत्सेर"
     },
     {
       "surface": "בצר",
-      "gloss": "बेसेर"
+      "gloss": "बेत्सेर"
     },
     {
       "surface": "ואת",
       "gloss": "आउ ⟨את⟩",
-      "marks": "ओकर चरागाह"
+      "marks": "ओकर चारागाह"
     },
     {
       "surface": "מגרשה",
-      "gloss": "ओकर चरागाह"
+      "gloss": "ओकर चारागाह"
     },
     {
       "surface": "ואת",
       "gloss": "आउ ⟨את⟩",
-      "marks": "यहत्सा"
+      "marks": "याहत्सा"
     },
     {
       "surface": "יהצה",
-      "gloss": "यहत्सा"
+      "gloss": "याहत्सा"
     },
     {
       "surface": "ואת",
       "gloss": "आउ ⟨את⟩",
-      "marks": "ओकर चरागाह"
+      "marks": "ओकर चारागाह"
     },
     {
       "surface": "מגרשה",
-      "gloss": "ओकर चरागाह"
+      "gloss": "ओकर चारागाह"
     }
   ],
-  "timestamp": "2026-10-14T16:02:23.461209135Z",
+  "timestamp": "2026-10-15T12:38:19.159005706Z",
   "model": "glm-5.3"
 }

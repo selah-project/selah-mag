@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "mag",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "והרגת",
-      "rationale": "second-person singular imperative — 'तूँ मारब' — addressed to Israel"
-    },
-    {
-      "kind": "hapax",
-      "subject": "לרבעה",
-      "rationale": "rare verb רבע, 'to lie flat for copulation', used only in bestiality laws"
-    }
-  ],
-  "translation": "आउ जे जनाना कोनो पसु के पास जातइ ओकरा के सुतावे बर ⟨את⟩ — तूँ ओही जनाना के आउ ⟨את⟩ पसु के मारब; मौत में मारल जइतन; ओकनी के खून ओकनी के ऊपर होतइ।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/leviticus\/20\/13-16.1791990247160.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "आउ जे जनाना कोनो पसु के दने जाय ⟨अकरा संग लेटे बर⟩, तो तूँ ⟨את⟩ ओ जनाना के आउ ⟨את⟩ ओ पसु के मार देब; मौते में मारल जातइ, ओकनी के खून ओकनी पर होतइ।",
   "tokens": [
     {
       "surface": "ואשה",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "תקרב",
-      "gloss": "पास जातइ"
+      "gloss": "जाय"
     },
     {
       "surface": "אל",
-      "gloss": "के पास"
+      "gloss": "के दने"
     },
     {
       "surface": "כל",
@@ -54,52 +33,52 @@
     },
     {
       "surface": "לרבעה",
-      "gloss": "सुतावे बर"
+      "gloss": "संग लेटे बर"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "ओकरा के"
+      "gloss": "⟨את⟩ ओकरा",
+      "marks": "जनाना"
     },
     {
       "surface": "והרגת",
-      "gloss": "तूँ मारब"
+      "gloss": "त तूँ मार देब"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "जनाना के"
+      "marks": "जनाना"
     },
     {
       "surface": "האשה",
-      "gloss": "जनाना"
+      "gloss": "ओ जनाना"
     },
     {
       "surface": "ואת",
       "gloss": "आउ ⟨את⟩",
-      "marks": "पसु के"
+      "marks": "पसु"
     },
     {
       "surface": "הבהמה",
-      "gloss": "पसु"
+      "gloss": "ओ पसु"
     },
     {
       "surface": "מות",
-      "gloss": "मौत में"
+      "gloss": "मौते"
     },
     {
       "surface": "יומתו",
-      "gloss": "मारल जइतन"
+      "gloss": "में मारल जातइ"
     },
     {
       "surface": "דמיהם",
-      "gloss": "ओकनी के खून"
+      "gloss": "खून"
     },
     {
       "surface": "בם",
-      "gloss": "ओकनी के ऊपर"
+      "gloss": "ओकनी पर"
     }
   ],
-  "timestamp": "2026-10-14T15:04:07.162103922Z",
+  "timestamp": "2026-10-15T12:44:54.053425228Z",
   "model": "glm-5.3"
 }

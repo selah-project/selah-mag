@@ -5,96 +5,75 @@
   "book": "deuteronomy",
   "lang": "mag",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חרם",
-      "rationale": "'बरबाद के वाचा में लेना' — कतुही 'पूरा बरबाद करना' कहऽ हइ, कतुही 'बलि बर समर्पित करना'; एके जड़ शब्द के रूप में रखल गेल।"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הטף",
-      "rationale": "'बुतरू' — इब्रानी शब्द के जड़ 'परिवार\/झुंड' हकइ; 'चलनिहार ननहन' के अरथ बाद में आवऽ हइ।"
-    }
-  ],
-  "translation": "ओही बेला हम ओकर सब नगर कब्जा कइलियन, आउ ⟨את⟩ हर एक नगर के — मरद, जनाना आउ बुतरू सब — बरबाद के वाचा में लेलियन; कोनो बचल नञ छोड़लियन।",
-  "provenance": {
-    "system-sha256": "21d2f7804db2b099ed120e33d24f4c79af46ec872745bcf60e5193820eabd448",
-    "user-sha256": "a93e5a576f52e09059cbb4f92973ed82157175427b77225f95e738488768f228",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/mag\/deuteronomy\/2\/33-36.1791991986934.json",
-    "code": "9525a035d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ओही समय में हमनी ⟨את⟩ ओकरा सब नगर पकड़लियन, आउ ⟨את⟩ हरेक नगर के मरद, जनाना आउ बुतरू सब मिटा देलियन — कोनो बचल नञ छोड़लियन।",
   "tokens": [
     {
-      "surface": "ונלכד",
-      "gloss": "कब्जा कइलियन"
+      "surface": "וַנִּלְכֹּד",
+      "gloss": "पकड़लियन"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "ओकर सब नगर"
+      "marks": "ओकरा सब नगर"
     },
     {
-      "surface": "כל",
+      "surface": "כָּל",
       "gloss": "सब"
     },
     {
-      "surface": "עריו",
-      "gloss": "ओकर नगर"
+      "surface": "עָרָיו",
+      "gloss": "ओकरा नगर"
     },
     {
-      "surface": "בעת",
-      "gloss": "ओही बेला"
+      "surface": "בָּעֵת",
+      "gloss": "समय में"
     },
     {
-      "surface": "ההוא",
+      "surface": "הַהוּא",
       "gloss": "ओही"
     },
     {
-      "surface": "ונחרם",
-      "gloss": "बरबाद के वाचा में लेलियन"
+      "surface": "וַנַּחֲרֵם",
+      "gloss": "मिटा देलियन"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "हर एक नगर के"
+      "marks": "हरेक नगर के मरद, जनाना आउ बुतरू"
     },
     {
-      "surface": "כל",
-      "gloss": "हर एक"
+      "surface": "כָּל",
+      "gloss": "हरेक"
     },
     {
-      "surface": "עיר",
+      "surface": "עִיר",
       "gloss": "नगर"
     },
     {
-      "surface": "מתם",
+      "surface": "מְתִם",
       "gloss": "मरद"
     },
     {
-      "surface": "והנשים",
+      "surface": "וְהַנָּשִׁים",
       "gloss": "आउ जनाना"
     },
     {
-      "surface": "והטף",
+      "surface": "וְהַטָּף",
       "gloss": "आउ बुतरू"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "नञ"
     },
     {
-      "surface": "השארנו",
+      "surface": "הִשְׁאַרְנוּ",
       "gloss": "छोड़लियन"
     },
     {
-      "surface": "שריד",
+      "surface": "שָׂרִיד",
       "gloss": "बचल"
     }
   ],
-  "timestamp": "2026-10-14T15:33:06.935051711Z",
+  "timestamp": "2026-10-15T11:59:11.187837885Z",
   "model": "glm-5.3"
 }
